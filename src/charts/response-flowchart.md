@@ -1,6 +1,6 @@
 # Response Flowchart
 
-← [Back to Index](../index.md) | See: [Appropriate Response](../concepts/appropriate-response.md)
+← [Back to Introduction](../introduction.md) | See: [Appropriate Response](../concepts/appropriate-response.md)
 
 ---
 

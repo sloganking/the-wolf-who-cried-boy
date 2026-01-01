@@ -1,6 +1,6 @@
 # Before You Judge
 
-← [Back to Index](../index.md)
+← [Back to Introduction](../introduction.md)
 
 ---
 

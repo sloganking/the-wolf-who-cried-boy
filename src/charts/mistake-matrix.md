@@ -1,6 +1,6 @@
 # Mistake Matrix
 
-← [Back to Index](../index.md) | See: [Types of Mistakes](../concepts/types-of-mistakes.md)
+← [Back to Introduction](../introduction.md) | See: [Types of Mistakes](../concepts/types-of-mistakes.md)
 
 ---
 

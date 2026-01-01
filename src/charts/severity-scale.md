@@ -1,6 +1,6 @@
 # Severity Scale
 
-← [Back to Index](../index.md) | See: [Severity Concept](../concepts/severity.md)
+← [Back to Introduction](../introduction.md) | See: [Severity Concept](../concepts/severity.md)
 
 ---
 

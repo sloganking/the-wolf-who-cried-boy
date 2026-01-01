@@ -1,6 +1,6 @@
 # Fawning Diagram
 
-← [Back to Index](../index.md) | See: [Fawning Concept](../concepts/fawning.md)
+← [Back to Introduction](../introduction.md) | See: [Fawning Concept](../concepts/fawning.md)
 
 ---
 
