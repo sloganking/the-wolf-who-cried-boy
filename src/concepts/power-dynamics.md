@@ -55,18 +55,54 @@ Here's what we rarely say out loud:
 
 Not "might theoretically be able to." Not "in rare edge cases." **Can. Do. Regularly.**
 
-If you are a participant, you have power. Significant power. And if you:
+And here's what's even more uncomfortable:
 
-- Threaten to destroy someone's reputation if they don't comply with your demands
-- Mobilize a group against someone without verifying what actually happened
-- Use your emotional distress to manipulate how you're treated
-- Weaponize accusations to punish someone who didn't do what you wanted
-- Start a witch hunt based on your feelings rather than facts
-- Intimidate staff into letting you violate boundaries
+**It's much, much easier for participants to abuse their power over facilitators than the reverse.**
 
-**You are abusing your power.**
+Why? Because:
 
-This is not a "gray area." This is abuse.
+- Facilitators are held to professional standards. Participants often aren't.
+- Facilitators can't fight back without looking like abusers themselves.
+- Facilitators depend on reputation for their livelihood. Participants can attack anonymously.
+- Society expects facilitators to be accountable. It often gives participants a pass.
+- Mobs side with the person crying, not the person holding boundaries.
+
+A facilitator who abuses power gets called out, cancelled, and removed. A participant who abuses power often gets sympathy, support, and followers.
+
+This asymmetry makes participant abuse of power easier to commit and harder to address.
+
+### When Does Power Become Abuse?
+
+If you are a participant, you have power. Significant power. The question is how you use it.
+
+**This is NOT abuse:**
+
+- Sharing your genuine experience to protect others
+- Calling out harmful behavior you verified actually happened
+- Setting boundaries and leaving when they're crossed
+- Asking for accountability proportional to what occurred
+
+**This IS abuse:**
+
+- Using reputation damage as a threat to get compliance ("Do what I want or I'll destroy you")
+- Mobilizing a group against someone without verifying what actually happened
+- Weaponizing accusations to punish someone—not to protect others, but because you're angry
+- Exaggerating or fabricating claims to maximize damage
+- Starting a witch hunt based on feelings, vibes, or gossip rather than verified facts
+- Intimidating staff into letting you violate boundaries
+- Inflicting HIGH severity consequences for LOW severity mistakes
+
+The difference between accountability and abuse is:
+
+| Accountability                        | Abuse                                     |
+| ------------------------------------- | ----------------------------------------- |
+| Based on verified facts               | Based on feelings, assumptions, or gossip |
+| Proportional to what happened         | Maximized for punishment                  |
+| Protects others from future harm      | Punishes for past perceived slights       |
+| Open to being wrong                   | Certain of rightness without verification |
+| Takes responsibility for own response | Blames entirely, takes no responsibility  |
+
+If your actions look like the right column, you're not holding someone accountable. You're abusing your power.
 
 ### The Language We Need to Use
 
