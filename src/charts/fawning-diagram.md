@@ -32,9 +32,10 @@
 │   Person A is victimized by:                                │
 │   ─────────────────────────                                 │
 │     • False information (thought consent was real)          │
+│     • Their own consent violated (didn't agree to this)     │
+│     • Feeling icky about touching someone who didn't want it│
 │     • Potential future accusation                           │
 │     • Being made into a "perpetrator" unknowingly           │
-│     • Loss of ability to act with integrity                 │
 │                                                             │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
@@ -65,6 +66,8 @@
 ## Key Teaching Points
 
 1. **Culture usually only sees B as victim**
-2. **A cannot consent to what they didn't know was happening**
-3. **B's trauma response has consequences for others**
-4. **Recognizing this is empowering, not blaming**
+2. **A's consent was violated too** — they didn't consent to non-consensual touch
+3. **A may feel icky/violated** realizing they touched someone who didn't want it
+4. **B's trauma response has consequences for others**
+5. **A still has responsibility** to check in and catch the signs
+6. **Recognizing this is empowering, not blaming**

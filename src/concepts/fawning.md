@@ -39,8 +39,25 @@ RESULT: Two victims
 - Potential future accusation
 - Being made into a "perpetrator" unknowingly
 - Loss of ability to act with integrity
+- **Their own consent was violated** — they never agreed to touch someone who didn't want it
+
+That last point matters. Person A didn't consent to non-consensual touch. They thought they were engaging in mutual, enthusiastic activity. They weren't—and finding that out later feels icky, violating, wrong.
+
+Person A may feel:
+
+- "I touched someone who didn't want it—that's not who I am"
+- "I would never have done that if I'd known"
+- "I feel gross about something I did in good faith"
+
+This is real harm. Person B's fawning created it.
 
 ## Responsibility
+
+Person A still has responsibility to check in and read cues. If they sense something off—hesitation, flatness, a "yes" that doesn't feel enthusiastic—their job is to pause and ask:
+
+> "I hear you saying yes, but I'm feeling something else. Are you really a yes? What's going on?"
+
+If they don't catch it, they're still responsible for not catching it. But they're also a victim of being lied to and doing something they never would have consented to do.
 
 | Person   | Responsibility                                                   |
 | -------- | ---------------------------------------------------------------- |
