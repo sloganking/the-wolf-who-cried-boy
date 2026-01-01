@@ -1,24 +1,149 @@
 # Power Dynamics
 
-← [Back to Index](../index.md)
+← [Back to Index](../introduction.md)
 
 ---
 
 ## The Myth
 
-> "The person in a position of power has power over me"
+> "The person in a position of power has power over me."
 
 This is often not true.
 
-## The Reality
+In fact, it's frequently the opposite. The person who _appears_ to have less power often has more—they just don't recognize it.
 
-Sometimes participants who play victim can have **more power** over facilitators and staff than those facilitators have over them.
+## Everyone Creates the Container
 
-Examples:
+At a workshop, retreat, or play party, who creates what happens?
 
-- A participant can destroy a facilitator's reputation with an accusation
-- A participant can mobilize community against staff
-- A participant can use their "victim" status as a weapon
+Most people would say: "The facilitators. They're in charge."
+
+**This is a myth.**
+
+In reality, everyone—participants, assistants, staff, and facilitators—are all significant creators of the container. Every person present shapes what happens through their actions, reactions, presence, and choices.
+
+If you think a facilitator has more power to determine what happens than you do, you may be mistaken. You may have:
+
+- More power than them
+- Equal power used in different ways
+- Simply more _willingness_ to use your power than they have
+
+Facilitators aren't all-powerful gods running the event. They're humans with patterns, limitations, and vulnerabilities—just like everyone else.
+
+## The Counterintuitive Reality
+
+Sometimes participants have **more power** over facilitators than facilitators have over them.
+
+Here's how:
+
+| Power Participants Have                            | Power Facilitators Often Don't Have   |
+| -------------------------------------------------- | ------------------------------------- |
+| Can write negative reviews that destroy reputation | Must maintain professional composure  |
+| Can start witch hunts in the community             | Would be condemned for doing the same |
+| Can make accusations (true or false)               | Must defend themselves carefully      |
+| Can threaten, intimidate, escalate                 | Must de-escalate and hold boundaries  |
+| Can mobilize others against staff                  | Would look abusive doing the same     |
+| Can leave and bad-mouth the event                  | Depend on reputation for livelihood   |
+
+**Participants have offensive options that facilitators don't.** Facilitators are expected to act responsibly. Participants often aren't held to the same standard—and even when they behave inappropriately, mobs may still take their side.
+
+## Example: The Intimidating Participant
+
+Imagine this scenario:
+
+Something happens at a retreat. A participant—let's call them **Jordan**—has an [over-response](./appropriate-response.md). Their reaction is HIGH severity to what was actually a LOW or MEDIUM issue.
+
+Jordan is furious. They're yelling, making threats, physically intimidating others.
+
+What _should_ happen: The facilitator sets a boundary. "You can't threaten people here. If you continue, you'll need to leave."
+
+What _often_ happens:
+
+**The facilitator [fawns](./fawning.md).**
+
+They're scared. They're thinking:
+
+- "What if Jordan goes home and writes hate mail?"
+- "What if Jordan starts a witch hunt online?"
+- "What if Jordan gets violent?"
+- "What if other participants side with Jordan?"
+
+So instead of enforcing boundaries, the facilitator appeases. They let Jordan's behavior slide. They prioritize de-escalation over integrity.
+
+**Jordan now has power over the facilitator.**
+
+Not because Jordan has legitimate authority—but because Jordan is willing to use aggression, and the facilitator is afraid of the consequences.
+
+### Even When the Facilitator Does Everything Right
+
+Let's say the facilitator _doesn't_ fawn. They set clear boundaries:
+
+> "Jordan, I understand you're upset. But you cannot threaten people in this space. If you continue, I'll ask you to leave and not return."
+
+Even now, Jordan still has power:
+
+- Jordan can go home and write hate mail
+- Jordan can start a witch hunt on social media
+- Jordan can rally other participants against the facilitator _during_ the event
+- Others might side with Jordan out of [mob judgment](./before-you-judge.md)—because they saw Jordan upset and the facilitator "kicking them out"
+
+The facilitator did everything right. And they're still vulnerable to someone who is willing to wield victim status as a weapon.
+
+## Example: High-Profile Relationships
+
+This dynamic isn't limited to workshops. It happens everywhere.
+
+Consider a famous, wealthy, influential person—let's call them a public figure. At first glance, they appear to have immense power in their marriage:
+
+- They have money
+- They have status
+- They have influence
+- Their spouse may derive significance from being married to them
+
+People assume: "Obviously the public figure has power over their spouse."
+
+But when the marriage ends, the spouse can:
+
+- Sue for amounts that exceed what the public figure owns
+- Make public accusations (true or false)
+- Play victim to the media
+- Mobilize public opinion
+- Destroy reputation with claims that are difficult to disprove
+
+Suddenly, the "powerless" spouse has more power than the "powerful" public figure.
+
+> If you cry victim loud enough, you become the perpetrator.
+
+This isn't about who's right or wrong. It's about recognizing that **power dynamics are never one-way**—and the person who appears powerless often has weapons the "powerful" person doesn't.
+
+## Why People Don't See Their Power
+
+Most participants in workshops genuinely believe they're powerless relative to facilitators.
+
+They think:
+
+- "The facilitators control the event"
+- "I'm just here as a guest"
+- "They have authority over me"
+- "If something goes wrong, it's their fault"
+
+This is [Victim](./drama-triangle.md) thinking. It denies responsibility by denying power.
+
+But denying your power doesn't make it go away. It just means you wield it unconsciously—and often destructively.
+
+## The Responsibility That Comes With Power
+
+If you have power, you have [responsibility](./responsibility.md).
+
+Participants are responsible for:
+
+- How they show up in the container
+- How they respond when things go wrong
+- Whether they verify before judging ([Before You Judge](./before-you-judge.md))
+- Whether their response matches the severity ([Appropriate Response](./appropriate-response.md))
+- The impact of their words and actions on facilitators and other participants
+
+You are not a passive consumer of the event. You are a co-creator of what happens.
 
 ## The Belief to Refine
 
@@ -31,18 +156,23 @@ When you don't recognize your power:
 - You don't take [responsibility](./responsibility.md) for it
 - You may wield it unconsciously
 - You may wield it destructively while believing yourself powerless
+- You may harm people while feeling like the victim
 
 ## Power Goes Both Ways
 
-| Traditional View                       | Reality                               |
-| -------------------------------------- | ------------------------------------- |
-| Facilitator has power over participant | Participant can also harm facilitator |
-| Authority figure is always "up"        | Authority figures can be vulnerable   |
-| Victim has no power                    | Victim status can be weaponized       |
+| Traditional View                       | Reality                                       |
+| -------------------------------------- | --------------------------------------------- |
+| Facilitator has power over participant | Participant can also harm facilitator         |
+| Authority figure is always "up"        | Authority figures can be vulnerable           |
+| Victim has no power                    | Victim status can be weaponized               |
+| Famous person controls the dynamic     | Less-famous person can destroy them publicly  |
+| The "powerful" person is the threat    | The "powerless" person may be the real threat |
 
 This doesn't mean victims aren't real or that power imbalances don't exist.
 
 It means: **Everyone has more power than they think.**
+
+And with power comes responsibility.
 
 See: [100% Control](../tools/100-percent-control.md)
 
@@ -53,3 +183,6 @@ See: [100% Control](../tools/100-percent-control.md)
 - [Responsibility](./responsibility.md) — Unrecognized power = unowned responsibility
 - [Appropriate Response](./appropriate-response.md) — Power in response
 - [100% Control](../tools/100-percent-control.md) — Recognizing your own power
+- [Before You Judge](./before-you-judge.md) — Mobs have power too
+- [Drama Triangle](./drama-triangle.md) — Victim role denies power
+- [Fawning](./fawning.md) — When facilitators fawn to participants
