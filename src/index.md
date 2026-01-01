@@ -1,6 +1,6 @@
-# Facilitating Framework
+# Quick Reference
 
-A system for understanding mistakes, responsibility, and repair in somatic/intimacy spaces.
+Everything at a glance. For context and reading order, see the [Introduction](./introduction.md).
 
 ---
 
@@ -51,11 +51,3 @@ WHEN A MISTAKE HAPPENS:
 4. Match RESPONSE to severity
 5. Focus on REPAIR, not punishment
 ```
-
----
-
-## To Do / Incomplete
-
-- [ ] Drama Triangle content
-- [ ] Facilitator protocols (what to do when someone reports)
-- [ ] Limiting beliefs section (Tony Robbins style)
