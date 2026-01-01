@@ -51,6 +51,39 @@ Person A may feel:
 
 This is real harm. Person B's fawning created it.
 
+### The Severity Depends on the Fawner
+
+Here's the thing: the harm to Person A can be MEDIUM or HIGH—depending on how the fawner responds.
+
+**If the fawner takes responsibility:**
+
+- Person A feels icky, has negative feelings to process
+- It's uncomfortable but recoverable
+- [Severity](./severity.md): **MEDIUM**
+
+**If the fawner goes full victim mode:**
+
+- Person A is accused of being "rapey"
+- Person A's reputation is attacked
+- Witch hunts may start
+- Person A may be banned, shunned, or publicly shamed
+- [Severity](./severity.md): **HIGH** — potentially permanent harm
+
+The fawner who plays [Victim](./drama-triangle.md) and blames Person A for "not catching their lie" is now creating HIGH severity harm to someone who was acting in good faith.
+
+> The fawner who started as a victim becomes the perpetrator.
+
+### The Trust You're Placing
+
+When you consent to play with someone you know has a fawning pattern, you're trusting them:
+
+- To take responsibility for their pattern
+- To not play victim if they fawn
+- To not attempt HIGH-severity harm against you
+- To own that their "yes" was their creation, not your violation
+
+That trust is a gift. If a fawner betrays it by blaming their partner for believing them, they're not just failing to take responsibility—they're actively harming someone who trusted them.
+
 ## Responsibility
 
 Person A still has responsibility to check in and read cues. If they sense something off—hesitation, flatness, a "yes" that doesn't feel enthusiastic—their job is to pause and ask:
