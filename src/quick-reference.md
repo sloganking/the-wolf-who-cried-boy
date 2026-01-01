@@ -1,6 +1,6 @@
 # Quick Reference
 
-Everything at a glance. For context and reading order, see the [Introduction](./introduction.md).
+Everything at a glance. New here? Start with the [Introduction](./introduction.md).
 
 ---
 

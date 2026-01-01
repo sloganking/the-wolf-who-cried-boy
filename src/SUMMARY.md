@@ -40,4 +40,4 @@
 
 ---
 
-[Quick Reference](./index.md)
+[Quick Reference](./quick-reference.md)

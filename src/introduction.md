@@ -96,6 +96,6 @@ That's it. Everything else is detail.
 
 ## Ready?
 
-Start with [Severity](./concepts/severity.md), or browse the [full index](./index.md).
+Start with [Severity](./concepts/severity.md), or browse the [Quick Reference](./quick-reference.md).
 
 Welcome to clearer thinking.
