@@ -25,6 +25,52 @@ Here's what often happens:
 
 The bystanders never asked what happened. They never heard from primary sources. They just read the room and picked a side.
 
+## Most People Aren't Predators
+
+Here's something important, based on lived experience in these spaces:
+
+**Nine times out of ten, when something goes wrong, it's not malice. It's a mistake made by a good person.**
+
+They weren't trying to harm anyone. They misread a signal. They got caught up in a moment. They didn't notice something they should have. They're horrified when they realize what happened, and they want to fix it.
+
+But we don't act like this is true. We act like predators are everywhere.
+
+### The Fear That Distorts Everything
+
+We carry stories in our heads:
+
+- Stories of rapists
+- Stories of abusers
+- Stories of powerful people who don't care who they hurt
+- Cultural mythology that the wealthy/successful/confident are selfish and predatory
+
+These stories make us afraid. And fear makes us see threats that aren't there.
+
+When something happens, our fear whispers: "This could be one of _those_ people." And we lean toward interpreting their actions as malicious—even when overwhelmingly, they're not.
+
+### The Reality in These Spaces
+
+In sex-positive and somatic communities specifically:
+
+- These are often small, interconnected spaces where everyone knows each other
+- Actual predators get identified and removed quickly
+- Most people are there specifically because they value consent and care
+- The overwhelming majority of incidents are good-faith mistakes
+
+If you've been in these spaces, you've probably seen this: someone makes a mistake, gets treated like a monster, and everyone later realizes it was a miscommunication with a person who genuinely wanted to do better.
+
+### What This Means for You
+
+Before you judge someone as malicious, consider:
+
+- Is there a good-faith explanation for what happened?
+- Would a well-meaning person have made this mistake?
+- Are you assuming the worst because you're afraid, not because you have evidence?
+
+**The person you're judging is probably not a predator. They're probably someone like you who messed up.**
+
+That doesn't mean there are no consequences. That doesn't mean harm didn't happen. But it does mean your response should match the reality—a mistake by a good person—not the fear of what they _could_ have been.
+
 ## Are You a Qualified Source?
 
 Before you judge someone, before you assess [severity](./severity.md), before you take any action—ask yourself:
