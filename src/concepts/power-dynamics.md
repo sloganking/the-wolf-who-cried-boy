@@ -47,6 +47,57 @@ Here's how:
 
 **Participants have offensive options that facilitators don't.** Facilitators are expected to act responsibly. Participants often aren't held to the same standard—and even when they behave inappropriately, mobs may still take their side.
 
+## Let's Be Explicit: Participants Can Be Abusers
+
+Here's what we rarely say out loud:
+
+**Participants can abuse their power over facilitators and staff.**
+
+Not "might theoretically be able to." Not "in rare edge cases." **Can. Do. Regularly.**
+
+If you are a participant, you have power. Significant power. And if you:
+
+- Threaten to destroy someone's reputation if they don't comply with your demands
+- Mobilize a group against someone without verifying what actually happened
+- Use your emotional distress to manipulate how you're treated
+- Weaponize accusations to punish someone who didn't do what you wanted
+- Start a witch hunt based on your feelings rather than facts
+- Intimidate staff into letting you violate boundaries
+
+**You are abusing your power.**
+
+This is not a "gray area." This is abuse.
+
+### The Language We Need to Use
+
+When a facilitator uses their position to coerce sexual favors, we call it **abuse of power.**
+
+When a boss threatens an employee's livelihood to get compliance, we call it **abuse of power.**
+
+When a participant threatens a facilitator's reputation, livelihood, and safety to get what they want, we need to call it what it is:
+
+**Abuse of power.**
+
+When participants start witch hunts against facilitators based on unverified accusations, mob judgment, and emotional contagion, we need to call it what it is:
+
+**Abuse of power.**
+
+When someone weaponizes victim status to destroy someone who made an innocent mistake, we need to call it what it is:
+
+**Abuse of power.**
+
+### You Are Not Exempt
+
+If you're reading this and thinking "but I would never do that"—good.
+
+But also: have you ever repeated an accusation you didn't verify? Joined a pile-on because others were upset? Made a judgment based on vibes instead of facts?
+
+Those are the first steps toward abuse.
+
+**You have more power than you think. Act like it. Wield it responsibly. Or you become the abuser.**
+
+The same standards we apply to facilitators apply to you. If it would be abuse for them to do it, it's abuse for you to do it. Full stop.
+
 ## Example: The Intimidating Participant
 
 Imagine this scenario:
