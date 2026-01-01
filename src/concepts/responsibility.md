@@ -44,12 +44,12 @@ In any interaction between two or more people, **everyone** has responsibility f
 
 Not just the "perpetrator." Not just the person who made the most obvious mistake. Everyone.
 
-| Person                                | Has Responsibility For                              |
-| ------------------------------------- | --------------------------------------------------- |
-| The person who crossed a boundary     | Their actions, their awareness, their check-ins     |
-| The person whose boundary was crossed | Vetting who they play with, communication, response |
-| The bystanders                        | What they saw and didn't address, verification      |
-| The facilitators                      | The container, intervention, education, process     |
+| Person                                | Has Responsibility For                                        |
+| ------------------------------------- | ------------------------------------------------------------- |
+| The person who crossed a boundary     | Their actions, their lack of check-ins, their unawareness     |
+| The person whose boundary was crossed | Vetting who they play with, not communicating, their response |
+| The bystanders                        | What they saw and didn't address, not verifying               |
+| The facilitators                      | The container, not intervening, lack of education             |
 
 "Victim" is not a get-out-of-responsibility-free card.
 

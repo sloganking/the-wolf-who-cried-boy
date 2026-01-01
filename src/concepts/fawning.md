@@ -195,7 +195,7 @@ The other leads to endless cycles of violation, blame, and victimhood.
 
 Fair question. Let's look at what [responsibility](./responsibility.md) actually means:
 
-> How did my actions create this outcome? What can I do to create a different outcome instead?
+> How did my actions—or inactions—create this outcome? What can I do to create a different outcome instead?
 
 Even if you fawn when things come up—even if you fail nine times out of ten—there are still actions you can take.
 
