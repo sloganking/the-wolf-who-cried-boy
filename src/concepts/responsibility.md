@@ -30,11 +30,13 @@ Everyone is pointing fingers. No one is looking at themselves.
 
 Responsibility means asking:
 
-> **What happened? How did my actions play a part in creating this outcome? What can I do in the future to create something else I want instead?**
+> **What happened? How did my actions—or inactions—play a part in creating this outcome? What can I do in the future to create something else I want instead?**
 
 That's it. It's not about fault. It's not about punishment. It's not about being "the bad guy."
 
 It's about recognizing your power and using it intentionally.
+
+Note: it's actions **or inactions**. What you didn't do is just as much a part of what you created as what you did do.
 
 ## Everyone Has Responsibility
 
@@ -42,16 +44,67 @@ In any interaction between two or more people, **everyone** has responsibility f
 
 Not just the "perpetrator." Not just the person who made the most obvious mistake. Everyone.
 
-| Person                                | Has Responsibility For                             |
-| ------------------------------------- | -------------------------------------------------- |
-| The person who crossed a boundary     | Their actions, their awareness, their check-ins    |
-| The person whose boundary was crossed | Their communication, their fawning, their response |
-| The bystanders                        | Their judgment, their verification, their response |
-| The facilitators                      | The container, their intervention, their process   |
+| Person                                | Has Responsibility For                              |
+| ------------------------------------- | --------------------------------------------------- |
+| The person who crossed a boundary     | Their actions, their awareness, their check-ins     |
+| The person whose boundary was crossed | Vetting who they play with, communication, response |
+| The bystanders                        | What they saw and didn't address, verification      |
+| The facilitators                      | The container, intervention, education, process     |
 
 "Victim" is not a get-out-of-responsibility-free card.
 
 Having been wronged doesn't mean you have nothing to look at.
+
+### What "The Person Whose Boundary Was Crossed" Can Look At
+
+If someone's boundary was crossed, they can take responsibility by asking:
+
+- Did I properly vet this person before playing with them?
+- Did I take the time to get to know them and trust them first?
+- Did I check if they were safe, of clear mind, capable of the activity?
+- Did I communicate my boundaries clearly beforehand?
+- Did I [fawn](./fawning.md) instead of speaking up?
+- What will I do differently next time to create a different outcome?
+
+This isn't victim-blaming. It's recognizing: **You have power in who you choose to interact with and how.**
+
+Next time, before playing with someone, you can make sure you actually know and trust them. That's taking responsibility.
+
+## You're Responsible for Other People's Mistakes
+
+This is counterintuitive. Most people don't see it. But it's one of the most important applications of responsibility:
+
+**If someone else makes a mistake in a container you're in, you have responsibility for that mistake.**
+
+Not because you did it. But because you were part of the system that allowed it.
+
+Ask yourself:
+
+- Did I see warning signs and say nothing?
+- Was I talking to this person and noticed something—trauma, a limiting belief, a pattern—that I thought might cause problems later?
+- Did I let it be instead of trying to help?
+- Could I have stood up before the event started and said something to the group?
+- Could I have talked to the facilitators about what people should learn before playing?
+- Could I have taken action to improve the container's safety?
+
+### Examples of Taking Responsibility for Others' Mistakes
+
+**Before the incident:**
+
+- "Hey everyone, I've seen this pattern before. Can we talk about it so we all stay safe?"
+- Talking to facilitators: "I think everyone should learn about fawning before we start playing."
+- "Does anyone struggle with [X]? Come talk to me and I'll help."
+- Noticing someone seems off and checking in with them privately
+
+**After the incident:**
+
+- "What did I see that I ignored?"
+- "How could I have contributed to preventing this?"
+- "What will I do differently in the next container?"
+
+You don't have to be the one who made the mistake to be responsible for helping prevent it. You are a co-creator of the container—not a passive consumer of it.
+
+See: [Power Dynamics](./power-dynamics.md) — You have more power than you think.
 
 ## Responsibility ≠ Blame
 
@@ -62,7 +115,7 @@ This is critical to understand. **Responsibility and blame are opposites.**
 | Backward-looking       | Forward-looking              |
 | "You caused this"      | "How did I contribute?"      |
 | "You're bad"           | "What can I do differently?" |
-| Assigns fault          | Recognizes power             |
+| Denies your own power  | Recognizes your power        |
 | Disempowers the blamer | Empowers the responsible     |
 | Creates victims        | Creates creators             |
 
@@ -136,7 +189,26 @@ This isn't self-blame. It's self-empowerment.
 
 See: [100% Control](../tools/100-percent-control.md)
 
-## The Accusers Who Don't Take Responsibility
+## The Responsibility Mirror
+
+Here's a term for an important check:
+
+> **The Responsibility Mirror**: Before demanding responsibility from someone else, look in the mirror. Are you taking responsibility for your part?
+
+When you're about to say "You need to take responsibility," ask yourself:
+
+- Did I verify before judging? ([Before You Judge](./before-you-judge.md))
+- Is my response proportional? ([Appropriate Response](./appropriate-response.md))
+- Am I acting from Persecutor? ([Drama Triangle](./drama-triangle.md))
+- Do I even know what happened?
+- What's MY responsibility in this situation?
+- Am I looking in the mirror, or only pointing outward?
+
+**Responsibility is always a two-way street.**
+
+If you're demanding it from someone else while refusing to examine your own role, you're not practicing responsibility—you're practicing blame.
+
+### The Accusers Who Don't Take Responsibility
 
 Watch for this pattern:
 
@@ -145,16 +217,9 @@ Watch for this pattern:
 3. "You need to take responsibility!"
 4. But the accusers aren't taking any themselves
 
-They're not asking:
-
-- Did I verify before judging? ([Before You Judge](./before-you-judge.md))
-- Is my response proportional? ([Appropriate Response](./appropriate-response.md))
-- Am I acting from Persecutor? ([Drama Triangle](./drama-triangle.md))
-- Do I even know what happened?
-
 They're pointing fingers while refusing to look at their own hands.
 
-**Demanding responsibility from others while taking none yourself is hypocrisy.**
+**Failing the Responsibility Mirror—demanding responsibility while taking none yourself—is hypocrisy.**
 
 And often, the mob does more harm than the original incident.
 
@@ -167,3 +232,4 @@ And often, the mob does more harm than the original incident.
 - [Making It Right](./making-it-right.md) — Taking responsibility in action
 - [Drama Triangle](./drama-triangle.md) — Victim vs Creator
 - [Before You Judge](./before-you-judge.md) — Responsibility to verify before acting
+- [Fawning](./fawning.md) — Taking responsibility for your patterns
