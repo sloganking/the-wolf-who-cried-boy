@@ -21,6 +21,7 @@
 - [Fawning](./concepts/fawning.md)
 - [Before You Judge](./concepts/before-you-judge.md)
 - [Making It Right](./concepts/making-it-right.md)
+- [Drama Triangle](./concepts/drama-triangle.md)
 
 ---
 
@@ -38,6 +39,7 @@
 - [Mistake Matrix](./charts/mistake-matrix.md)
 - [Response Flowchart](./charts/response-flowchart.md)
 - [Fawning Diagram](./charts/fawning-diagram.md)
+- [Drama Triangle Diagram](./charts/drama-triangle.md)
 
 ---
 
