@@ -50,6 +50,22 @@ The question is:
 - What is the actual [severity](../concepts/severity.md)?
 - Is the [response appropriate](../concepts/appropriate-response.md)?
 
+## Film Example: The Iron Giant
+
+[📽️ Watch the clip](https://photos.app.goo.gl/3ZyB4dvqFej34N3p6)
+
+In this scene, Hogarth pulls out a toy gun. The Iron Giant's automatic defense programming kicks in—lasers fire from his eyes before he can stop himself. He almost kills the child he loves.
+
+This is a perfect example of:
+
+- **High severity** — could have caused permanent harm
+- **Unconscious** — not a choice, automatic programming
+- **Not malicious** — the Giant would never choose to hurt Hogarth
+
+The Giant didn't want to do it. He wasn't thinking. His programming—like trauma, like a reflex—took over before his conscious mind could intervene.
+
+This is what happens when people make mistakes out of unconsciousness. They're not bad. They're not malicious. Something automatic fired that they didn't choose.
+
 ## For Facilitators
 
 > My position, if mistakes happen in the container, is for you to tell us, the facilitators.

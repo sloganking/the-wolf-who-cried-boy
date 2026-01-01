@@ -48,16 +48,6 @@ Should you trust yourself with medium-severity activities while tired?
 >
 > → Politely disengage.
 
-## The Iron Giant
-
-Related concept from the film:
-
-https://photos.app.goo.gl/3ZyB4dvqFej34N3p6
-
-"You are who you choose to be."
-
-Choosing to disengage when you're not in a good state IS choosing who you want to be.
-
 ---
 
 ## Related
