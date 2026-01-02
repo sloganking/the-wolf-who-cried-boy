@@ -444,12 +444,28 @@ But remember: [your feelings come from your stories, not from what happened](./t
 
 Same experience—being told no. Completely different feelings based on the story:
 
-| Story                                  | Feeling                   |
-| -------------------------------------- | ------------------------- |
-| "I'm not enough for this person"       | Pain, rejection, shame    |
-| "I can trust this person to be honest" | Gratitude, relief, safety |
+| Story                                         | Feeling                   |
+| --------------------------------------------- | ------------------------- |
+| "I'm not enough for this person"              | Pain, rejection, shame    |
+| "This person cares enough to protect us both" | Gratitude, relief, safety |
 
 The experience didn't change. Your interpretation did. And that story will shift as you gain experience.
+
+### No Is an Act of Care
+
+Here's what you'll eventually see:
+
+**When someone tells you no, they're not just looking out for themselves. They're looking out for you.**
+
+The alternative—fawning, saying yes when they mean no—creates a shit situation for both of you. They get an experience they didn't want. You get lied to, then potentially attacked for believing them.
+
+Telling you no is an act of compassion. They're protecting you from that. They're saying: "I see you. I care about you. And I'm not going to create a situation that hurts us both."
+
+Once you can see things through this lens—once you recognize that sometimes not getting what you want is actually the best thing you could receive—the insecurity and rejection feelings dissolve.
+
+Instead of feeling like nobody cares about you because you're not getting laid, you can feel care in the honesty. In the no. In the person who respects you enough to tell you the truth.
+
+That's a beautiful way to move through these spaces.
 
 But over time—after you've encountered people who fawn and then attack—something shifts.
 
