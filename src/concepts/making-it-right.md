@@ -25,6 +25,28 @@ Making it right means:
 - Taking concrete steps
 - Following through
 
+### Create More Value Than Was Taken
+
+Here's the gold standard for repair:
+
+**Don't just restore what was lost. Create MORE value than was taken.**
+
+When you make a mistake that hurt someone, you can apologize in a way that blows them out of the water. Go above and beyond. Make the repair so generous, so thoughtful, so clearly from a place of care, that their new reference frame for dealing with you becomes:
+
+> "Even when unwanted mistakes happen with this person, I WIN."
+
+Maybe they got something pleasurable out of it. Maybe they experienced a level of care they rarely receive. Maybe they saw that you take responsibility so thoroughly that they feel safer with you than before the mistake happened.
+
+This is powerful. Most people don't do this. Most people give the minimum apology and hope it's enough. When you consistently add more value than you take—even in repair situations—you become someone people want in their lives.
+
+### This Changes How You See Yourself
+
+If you're someone who adds value in every interaction—including when you mess up—you start to like yourself more.
+
+If you've been insecure about what you offer, this gives you something concrete: **You're someone who makes things right in a way that leaves people better off.**
+
+That's rare. That's valuable. That's attractive.
+
 ## When the Other Person Doesn't Want Contact
 
 Sometimes the person receiving the repair may:
