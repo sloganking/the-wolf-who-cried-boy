@@ -109,6 +109,72 @@ _[Section in development: How lead facilitators should respond when being attack
 
 ---
 
+## Threats of Violence Must Be Stopped Immediately
+
+This is non-negotiable.
+
+If a participant is making threats of physical violence—whether verbal ("I'll hurt you") or through physical intimidation (getting in someone's face, implying "if you disagree with me, I will assault you")—you must handle it immediately.
+
+Not after the sharing circle. Not when things calm down. **Immediately.**
+
+### Why Immediate Action Is Critical
+
+Here's what happens if you don't act:
+
+**Scenario:** A participant gets angry. They storm up to someone who disagreed with them, getting within inches of their face. Their body language screams violence. A facilitator eventually steps in—but everyone saw that if they'd decided to throw a punch, the facilitators probably wouldn't have stopped them in time.
+
+**What you just showed everyone:**
+
+- If you upset the angry person, we won't actually protect you
+- Threats of violence are tolerated in this container
+- The angry person has more power than the facilitators
+- Your safety depends on not disagreeing with aggressive people
+
+**What happens next:**
+
+The container is no longer valid. People don't feel safe. Every share from that point forward is filtered through fear. The sharing circles aren't real shares anymore—they're performances designed to not upset the person who might hurt them.
+
+You've lost the container. The angry person is now running your event.
+
+### The Standard
+
+Someone who creates a source of unsafety for other participants, staff, or facilitators must be:
+
+1. **Given an immediate, clear boundary**: "You cannot threaten people here. If you continue, you will need to leave."
+2. **Removed if they continue**: Not tomorrow. Not after they calm down. Now.
+
+You cannot let someone making threats of violence—whether implied or explicit, whether "just" intimidation or actual death threats—stay in your environment.
+
+If you do, you are:
+
+- Allowing them to run your container
+- Showing everyone that fear wins
+- Demonstrating that your boundaries are negotiable
+- Creating an environment where no one feels protected
+
+### This Is Not Optional
+
+Some facilitators think: "But they're activated. They're just scared. They don't mean it. I should hold space for them."
+
+No.
+
+Holding space does not mean tolerating threats of violence against other participants. Their activation is their responsibility. Your responsibility is the safety of everyone else in the container.
+
+You can have compassion for someone's pain AND remove them from the space. These are not mutually exclusive.
+
+### What You're Showing
+
+| If You Act Immediately       | If You Hesitate or Don't Act           |
+| ---------------------------- | -------------------------------------- |
+| "We will protect you"        | "We can't protect you"                 |
+| "Threats aren't tolerated"   | "Threats are tolerated if loud enough" |
+| "The container is safe"      | "The container is not safe"            |
+| "Facilitators are in charge" | "The angriest person is in charge"     |
+
+Your actions in this moment define whether your container is real or theater.
+
+---
+
 ## Show, Don't Tell
 
 Your participants learn more from what you do than what you say.
