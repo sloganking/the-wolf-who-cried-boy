@@ -175,6 +175,57 @@ Your actions in this moment define whether your container is real or theater.
 
 ---
 
+## When You See Someone Fawning
+
+Sometimes you'll witness a dynamic where one participant is being belligerent—attacking, accusing, name-calling—and the other is just... taking it. Appeasing. Not defending themselves.
+
+They're [fawning](./fawning.md).
+
+As a facilitator, you have a choice. You could just watch. Or you could help.
+
+### The Intervention
+
+If you see someone fawning to an aggressor, consider stepping in—not to fight their battle for them, but to support them in fighting it themselves.
+
+**What this might look like:**
+
+- Quietly: "Hey, I notice you're not being spoken to with respect. You can set a boundary here. I have your back."
+- More directly: "It looks like you might be appeasing right now. You don't have to accept being treated this way. What do you actually want to say?"
+- To both parties: "Let's pause. [Fawner], I want to make sure you're able to speak freely here. Do you feel safe to say what you actually think?"
+
+### Why This Matters
+
+The lesson you're teaching is one of the most important ones:
+
+> **I can't keep you safe. Only you can. But I'll support you while you do it.**
+
+Until someone learns to stand up for themselves, they'll continue to be treated badly. They'll continue to receive punishment they don't deserve. They'll continue to create situations where they're the victim—because they won't set boundaries.
+
+By prompting them to set a boundary—and backing them up when they do—you're helping them learn to protect themselves. That's more valuable than protecting them yourself.
+
+### Considerations
+
+- **They might not be ready.** You can prompt and support, but you can't force someone to stand up for themselves before they're able. If they can't do it yet, that's okay. The seed is planted.
+
+- **Don't put them on the spot.** A quiet word of support is often more effective than announcing to the room "I think you're fawning."
+
+- **Timing matters.** Sometimes you need to de-escalate first, then coach afterward. Sometimes real-time prompting is exactly what they need. Read the situation.
+
+- **Model what you're asking.** If you're asking them to set boundaries with someone being aggressive, make sure you're doing the same. Show, don't just tell.
+
+### What You're Showing
+
+When you help someone recognize their fawning and support them in setting boundaries, you model:
+
+- Self-respect can be learned
+- Facilitators aren't here to rescue you—they're here to empower you
+- You have the right to be treated with dignity, and the responsibility to enforce it
+- The container supports people standing up for themselves
+
+This is the [Creator](./drama-triangle.md) dynamic, not the Rescuer dynamic. You're not saving them. You're helping them save themselves.
+
+---
+
 ## Show, Don't Tell
 
 Your participants learn more from what you do than what you say.
