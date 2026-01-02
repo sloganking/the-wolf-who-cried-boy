@@ -252,13 +252,11 @@ If you're a woman facilitating:
 
 ---
 
-## This Isn't Anti-Woman
+## This Is About Empowerment
 
-Nothing here says women aren't victimized. They are.
+This entire framework is about helping people see their power.
 
-Nothing here says predators don't exist. They do.
-
-What this says is:
+What we're saying:
 
 1. **Most accusations aren't about predators**—they're about mistakes, trauma, and miscommunication
 2. **The Victim role is disempowering**—and it's often reinforced by well-meaning Rescuers
