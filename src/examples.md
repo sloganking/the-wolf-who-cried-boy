@@ -226,7 +226,7 @@ Bystanders read the apology as confession. It wasn't.
 
 ## Related
 
-- [Response Flowchart](./charts/response-flowchart.md) — Step-by-step what to do
+- [Appropriate Response](./concepts/appropriate-response.md) — Step-by-step what to do
 - [Before You Judge](./concepts/before-you-judge.md) — Make sure you're qualified
 - [Fawning](./concepts/fawning.md) — The two victims dynamic
 - [Appropriate Response](./concepts/appropriate-response.md) — Matching response to reality

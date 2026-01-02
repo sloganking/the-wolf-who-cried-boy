@@ -14,9 +14,40 @@ How serious is the harm caused? This determines how serious the response should 
 | **MEDIUM** | Temporary pain. Recoverable.                                            | Unwanted touch, emotional hurt, boundary crossed |
 | **LOW**    | Inconvenience. No one really hurt.                                      | Awkwardness, miscommunication, minor discomfort  |
 
-## Visual (for easel)
+## Visual Scale
 
-See: [Severity Scale Chart](../charts/severity-scale.md)
+```
+  ▲ HIGH
+  │   • Permanent harm
+  │   • Reputation damage
+  │   • Physical injury
+  │   • "Would I do this with a gun?"
+  │
+  │ MEDIUM
+  │   • Temporary pain
+  │   • Recoverable
+  │   • Touch/intimacy mistakes
+  │   • Emotional hurt
+  │
+  │ LOW
+  │   • Inconvenience
+  │   • Awkwardness
+  │   • No real harm
+  │   • Miscommunication
+  ▼
+```
+
+### Simple Version (for quick reference)
+
+```
+┌─────────────────────────────────────┐
+│  HIGH    Permanent / Gun territory  │
+├─────────────────────────────────────┤
+│  MEDIUM  Temporary / Recoverable    │
+├─────────────────────────────────────┤
+│  LOW     Inconvenient / No harm     │
+└─────────────────────────────────────┘
+```
 
 ## Key Principle
 

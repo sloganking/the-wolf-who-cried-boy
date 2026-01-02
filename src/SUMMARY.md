@@ -33,14 +33,4 @@
 
 ---
 
-# Visual Charts
-
-- [Severity Scale](./charts/severity-scale.md)
-- [Mistake Matrix](./charts/mistake-matrix.md)
-- [Response Flowchart](./charts/response-flowchart.md)
-- [Fawning Diagram](./charts/fawning-diagram.md)
-- [Drama Triangle Diagram](./charts/drama-triangle.md)
-
----
-
 [Quick Reference](./quick-reference.md)

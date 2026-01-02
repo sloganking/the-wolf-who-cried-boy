@@ -30,18 +30,7 @@ Everything at a glance. New here? Start with the [Introduction](./introduction.m
 
 ---
 
-## Visual Charts
-
-| Chart                                                | Description                     |
-| ---------------------------------------------------- | ------------------------------- |
-| [Severity Scale](./charts/severity-scale.md)         | Vertical scale for easel        |
-| [Mistake Matrix](./charts/mistake-matrix.md)         | 2x2 classification grid         |
-| [Response Flowchart](./charts/response-flowchart.md) | What to do when mistakes happen |
-| [Fawning Diagram](./charts/fawning-diagram.md)       | Two victims visual              |
-
----
-
-## Quick Reference
+## Quick Steps
 
 ```
 WHEN A MISTAKE HAPPENS:

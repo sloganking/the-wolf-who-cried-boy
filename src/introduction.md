@@ -69,7 +69,7 @@ Then explore the rest as needed.
 
 Go straight to:
 
-1. [Response Flowchart](./charts/response-flowchart.md) — Step-by-step what to do
+1. [Appropriate Response](./concepts/appropriate-response.md) — Step-by-step what to do
 2. [Before You Judge](./concepts/before-you-judge.md) — Make sure you're qualified to respond
 3. [Making It Right](./concepts/making-it-right.md) — How repair works
 

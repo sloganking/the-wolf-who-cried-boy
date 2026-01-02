@@ -19,13 +19,61 @@ It's one of the four trauma responses:
 
 **When fawning happens, it creates TWO victims.**
 
-See: [Fawning Diagram](../charts/fawning-diagram.md)
+```
+┌─────────────────────────────────────────────────────────────┐
+│                      FAWNING DYNAMIC                        │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   Person A                        Person B                  │
+│   ─────────                       ─────────                 │
+│   Asks/initiates      ───────►    Fawns                     │
+│                                   (says yes, means no)      │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│                    RESULT: TWO VICTIMS                      │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   Person B is victimized by:                                │
+│   ─────────────────────────                                 │
+│     • Their own trauma response                             │
+│     • An experience they didn't actually want               │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   Person A is victimized by:                                │
+│   ─────────────────────────                                 │
+│     • False information (thought consent was real)          │
+│     • Their own consent violated (didn't agree to this)     │
+│     • Feeling icky about touching someone who didn't want it│
+│     • Potential future accusation                           │
+│     • Being made into a "perpetrator" unknowingly           │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   RESPONSIBILITY                                            │
+│   ──────────────                                            │
+│     Person A: Check in, read cues, create safety            │
+│     Person B: Own the fawn, communicate after               │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### Simplified (for teaching)
 
 ```
-Person A: Asks/initiates
-Person B: Fawns (says yes, means no)
-
-RESULT: Two victims
+     A asks  ──────►  B says "yes" (means "no")
+        │                      │
+        ▼                      ▼
+    VICTIM                 VICTIM
+    (didn't know)          (trauma response)
+        │                      │
+        └──────────┬───────────┘
+                   │
+                   ▼
+           BOTH RESPONSIBLE
+           (different ways)
 ```
 
 ### Person B (the fawner) is victimized by:
@@ -275,4 +323,4 @@ The only person who can truly protect you from your fawning is you. And that's a
 - [Types of Mistakes](./types-of-mistakes.md) — Fawning as a type
 - [Responsibility](./responsibility.md) — Both parties have it
 - [Trauma & Filters](./trauma-and-filters.md) — Where fawning comes from
-- [Fawning Diagram](../charts/fawning-diagram.md) — Visual chart
+- [Drama Triangle](./drama-triangle.md) — Victim role dynamics

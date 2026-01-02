@@ -34,20 +34,43 @@ Not all mistakes are the same. Understanding the TYPE helps determine the approp
 | **Projection**          | Treating someone based on your past, not their present |
 | **Delayed Realization** | Consented in the moment, realized later it wasn't okay |
 
-## The Matrix
-
-See: [Mistake Matrix Chart](../charts/mistake-matrix.md)
+## The Mistake Matrix
 
 ```
-                    CONSCIOUS          UNCONSCIOUS
-                 ┌──────────────────┬──────────────────┐
-    INTENTIONAL  │    MALICIOUS     │   (impossible)   │
-                 │                  │                  │
-                 ├──────────────────┼──────────────────┤
-  UNINTENTIONAL  │   WRONG THINKING │    ACCIDENT      │
-                 │                  │   (popcorn)      │
-                 └──────────────────┴──────────────────┘
+                    CONSCIOUS              UNCONSCIOUS
+                    (thinking)             (not thinking)
+                 ┌───────────────────┬───────────────────┐
+                 │                   │                   │
+   INTENTIONAL   │     MALICIOUS     │   (impossible)    │
+   (on purpose)  │                   │                   │
+                 │  → Accountability │                   │
+                 │  → Consequences   │                   │
+                 │                   │                   │
+                 ├───────────────────┼───────────────────┤
+                 │                   │                   │
+  UNINTENTIONAL  │   WRONG THINKING  │     ACCIDENT      │
+  (not on        │                   │                   │
+   purpose)      │  → Education      │  → Awareness      │
+                 │  → Correct belief │  → Wake up        │
+                 │                   │  → (popcorn)      │
+                 │                   │                   │
+                 └───────────────────┴───────────────────┘
 ```
+
+### How to Use the Matrix
+
+Ask two questions:
+
+1. **Did they mean to do it?** (Intentional vs Unintentional)
+2. **Were they thinking?** (Conscious vs Unconscious)
+
+| Type           | They meant it? | They were thinking? | Response       |
+| -------------- | -------------- | ------------------- | -------------- |
+| Malicious      | Yes            | Yes                 | Accountability |
+| Wrong Thinking | No             | Yes                 | Education      |
+| Accident       | No             | No                  | Awareness      |
+
+**Note on Fawning:** Fawning doesn't fit cleanly in this matrix—it's a trauma response that creates two victims. See [Fawning](./fawning.md).
 
 ---
 
