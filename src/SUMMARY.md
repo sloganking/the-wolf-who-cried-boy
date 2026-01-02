@@ -1,38 +1,55 @@
 # Summary
 
 [Introduction](./introduction.md)
-[Example Scenarios](./examples.md)
 
 ---
 
-# The Framework
+# Foundation
 
 - [Severity](./concepts/severity.md)
 - [Types of Mistakes](./concepts/types-of-mistakes.md)
-- [Appropriate Response](./concepts/appropriate-response.md)
+- [Trauma & Filters](./concepts/trauma-and-filters.md)
 
 ---
 
-# Deeper Concepts
+# The Core Reframe
 
 - [Responsibility](./concepts/responsibility.md)
-- [Trauma & Filters](./concepts/trauma-and-filters.md)
-- [Power Dynamics](./concepts/power-dynamics.md)
-- [Fawning](./concepts/fawning.md)
-- [Before You Judge](./concepts/before-you-judge.md)
-- [Making It Right](./concepts/making-it-right.md)
 - [Drama Triangle](./concepts/drama-triangle.md)
+
+---
+
+# Specific Patterns
+
+- [Fawning](./concepts/fawning.md)
+- [Power Dynamics](./concepts/power-dynamics.md)
+
+---
+
+# How to Respond
+
+- [Before You Judge](./concepts/before-you-judge.md)
+- [Appropriate Response](./concepts/appropriate-response.md)
+- [Making It Right](./concepts/making-it-right.md)
+
+---
+
+# For Facilitators
+
 - [Facilitator Protocols](./concepts/facilitator-protocols.md)
 
 ---
 
 # Teaching Tools
 
-- [Notice, Feel, Story](./tools/notice-feel-story.md)
 - [Popcorn Metaphor](./tools/popcorn-metaphor.md)
 - [Gun Test](./tools/gun-test.md)
+- [Notice, Feel, Story](./tools/notice-feel-story.md)
 - [100% Control](./tools/100-percent-control.md)
 
 ---
 
-[Quick Reference](./quick-reference.md)
+# Reference
+
+- [Example Scenarios](./examples.md)
+- [Quick Reference](./quick-reference.md)
