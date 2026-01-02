@@ -1,6 +1,6 @@
 # The Drama Triangle
 
-← [Back to Index](../introduction.md)
+← [Back to Introduction](../introduction.md)
 
 ---
 

@@ -1,6 +1,6 @@
 # Power Dynamics
 
-← [Back to Index](../introduction.md)
+← [Back to Introduction](../introduction.md)
 
 ---
 

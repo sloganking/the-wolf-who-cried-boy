@@ -16,10 +16,11 @@ Everything at a glance. New here? Start with the [Introduction](./introduction.m
 
 ## The Core Reframe
 
-| Concept                                        | Description                      |
-| ---------------------------------------------- | -------------------------------- |
-| [Responsibility](./concepts/responsibility.md) | What it means and how to take it |
-| [Drama Triangle](./concepts/drama-triangle.md) | Victim / Persecutor / Rescuer    |
+| Concept                                                 | Description                       |
+| ------------------------------------------------------- | --------------------------------- |
+| [Responsibility](./concepts/responsibility.md)          | What it means and how to take it  |
+| [Drama Triangle](./concepts/drama-triangle.md)          | Victim / Persecutor / Rescuer     |
+| [How Much Power Do You Have?](./concepts/your-power.md) | Your unlimited creative potential |
 
 ---
 
@@ -29,6 +30,14 @@ Everything at a glance. New here? Start with the [Introduction](./introduction.m
 | ---------------------------------------------- | --------------------------------- |
 | [Fawning](./concepts/fawning.md)               | When "yes" means "no" — 2 victims |
 | [Power Dynamics](./concepts/power-dynamics.md) | Who actually has power?           |
+
+---
+
+## Before You Play
+
+| Concept                                           | Description                          |
+| ------------------------------------------------- | ------------------------------------ |
+| [Before Play (RBDSMT)](./concepts/before-play.md) | The safer sex conversation framework |
 
 ---
 
