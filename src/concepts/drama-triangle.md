@@ -33,6 +33,8 @@ These roles are unstable. People switch between them constantly, creating cycles
 - Waits to be rescued or persecuted
 - May actually have been harmed—but stays stuck in helplessness
 
+**The trap:** The Victim position isn't actually powerless. It has enormous power—the power to mobilize Rescuers, to justify Persecution of the "perpetrator," to control narratives. When someone weaponizes this position, they are **abusing their power as a victim.**
+
 ### Persecutor
 
 > "It's YOUR fault. You're bad and you deserve punishment."

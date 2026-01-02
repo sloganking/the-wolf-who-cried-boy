@@ -201,8 +201,6 @@ Suddenly, the "powerless" spouse has more power than the "powerful" public figur
 
 > If you cry victim loud enough, you become the perpetrator.
 
-This is what it looks like to **abuse your power as a victim.**
-
 This isn't about who's right or wrong. It's about recognizing that **power dynamics are never one-way**—and the person who appears powerless often has weapons the "powerful" person doesn't.
 
 ## Why People Don't See Their Power

@@ -8,8 +8,6 @@
 
 > **If you cry victim hard enough, you become the perpetrator.**
 
-When someone over-responds—treating a LOW or MEDIUM mistake with HIGH-severity punishment—they are **abusing their power as a victim.**
-
 Getting the balance right—responding to the [severity](./severity.md) level of an incident appropriately—is paramount to creating something good in the world and not becoming a source of harm yourself.
 
 ## Response vs Severity
