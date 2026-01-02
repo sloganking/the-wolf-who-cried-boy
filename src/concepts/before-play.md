@@ -90,15 +90,31 @@ One partner wants to be monogamous. They don't really want to be at this retreat
 
 The enthusiastic partner is eager to explore. But they may not actually be "open" in practice, because their reluctant partner is stressed, jealous, or on the verge of a meltdown.
 
-If you engage with either person in this couple:
+This is a relationship under significant stress. That doesn't mean you CAN'T play with them—it just takes a lot of care.
 
-- The reluctant partner might direct their resentment at you
-- The enthusiastic partner might face consequences at home that spill onto you
-- Drama is almost guaranteed
+### If You Choose to Engage
 
-This isn't a couple exploring non-monogamy together. This is a relationship under stress, using a retreat as a pressure cooker.
+Playing with someone in a mismatched couple is possible. But consider:
 
-Once you recognize the situation, ask yourself: Am I comfortable engaging with someone in this relationship state?
+- **The level of play should probably be lower.** Not sex. Lesser intimacy. Something that won't create massive waves.
+- **Communicate with BOTH partners.** If you're playing with the one who wants non-monogamy, be in deep communication with the one who wants monogamy. What are they actually comfortable with? What would hurt them?
+- **Only play in ways that make everyone happy.** The goal is a [good thing](#what-is-a-good-thing)—where everyone feels good during AND after. Including the partner who's not directly involved.
+- **They're responsible for their relationship.** You're not responsible for their dynamic. But you might not want to be the person who's there when it all falls apart.
+
+### Personal Considerations
+
+Ask yourself honestly:
+
+- Do I want to be tied up in this drama?
+- If their relationship has stress because of what we did, do I want that on my conscience—even if they're ultimately responsible for their own choices?
+- Do I like BOTH of them as people? If he's hurting because of what I did with her, will I hurt too?
+- Even if it's "not my fault," will I feel good about this afterward?
+
+Maybe the enthusiastic partner would find someone to play with regardless. Maybe their relationship would reach this point anyway. But you get to decide whether you're the person in that story.
+
+Some people are fine with it. Others want to stay clear of the drama entirely. Know yourself.
+
+Once you recognize the situation, ask yourself: Am I comfortable engaging with someone in this relationship state? And at what level of intimacy?
 
 ### A Note on Couples at Retreats
 
