@@ -469,9 +469,37 @@ Telling you no is an act of compassion. They're saying: "I see you. I care about
 
 Once you can see things through this lens—once you recognize that sometimes not getting what you want is actually the best thing you could receive—the insecurity and rejection feelings dissolve.
 
-Instead of feeling like nobody cares about you because you're not getting laid, you can feel care in the honesty. In the no. In the person who respects you enough to tell you the truth.
+Instead of feeling like nobody cares about you because you're not getting laid, you can feel care in the honesty. In the no. In the person who respects you enough to tell you the truth. In the person who is looking out for your safety and taking actions to ensure it.
 
 That's a beautiful way to move through these spaces.
+
+### Your Touch Is a Privilege
+
+This is especially for men, though it applies to anyone who initiates touch.
+
+Most men who pursue women think of touch as something women _let them do_. Permission they receive. A gift from her to him.
+
+But consider the flip side:
+
+**When you touch someone, you're becoming vulnerable.**
+
+You're trusting them. You're putting yourself at risk. If they fawn and then play victim, you could face accusations, reputation damage, witch hunts—all for believing their yes.
+
+Your touch is a gift. Your vulnerability is a gift. Your trust is a gift.
+
+When someone mistreats that gift—when they respond to your honest mistake with wildly disproportionate aggression—they're not respecting what you offered. They're not respecting you.
+
+And here's the frame that changed everything for me:
+
+**Your touch is a privilege. You can rescind it.**
+
+If someone treats your vulnerability with contempt, with [high-severity](./severity.md) attacks for low-severity mistakes, with victim-playing instead of honest communication—they've lost the privilege of your touch.
+
+You don't have to play with people who don't respect the gift you're offering. You don't have to be vulnerable with people who weaponize your vulnerability against you.
+
+This isn't bitterness. It's self-respect. It's [taking responsibility](./responsibility.md) for your own safety by choosing who gets access to you.
+
+Most men have never thought about it this way. But once you do, everything shifts. You stop seeing yourself as someone begging for permission. You start seeing yourself as someone offering something valuable—and choosing carefully who receives it.
 
 ### For Fawners: Your No Is a Gift
 
@@ -487,7 +515,19 @@ You're protecting them from interacting with someone who doesn't actually want t
 
 When you see your no as an act of serving the other person—as creating a good thing instead of a bad thing—it becomes much easier to say it.
 
-Your no isn't selfish. Your no is love.
+### The Power Frame
+
+Here's another way to see it:
+
+You have [power over the people you interact with](./power-dynamics.md). Real power. The power to affect their experience, their reputation, their emotional state.
+
+**Telling someone no is a proper use of your power.** You're using it to protect both of you.
+
+**Telling someone yes when you're actually a no is an abuse of your power.** You're using it to deceive them, to create a situation that harms them, to set them up for consequences they didn't consent to.
+
+And if you then play victim afterward—attacking them for believing your lie—that's a significant abuse of your power. It should be recognized as such.
+
+Your no isn't selfish. Your no is love. And your yes, when it's real, is a gift they can trust.
 
 But over time—after you've encountered people who fawn and then attack—something shifts.
 
