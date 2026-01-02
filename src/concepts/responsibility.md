@@ -78,6 +78,24 @@ This is counterintuitive. Most people don't see it. But it's one of the most imp
 
 Not because you did it. But because you were part of the system that allowed it.
 
+### An Example That Makes It Click
+
+Imagine a facilitator running a week-long retreat. They have a room full of people—many who've never been to a sex-positive space before. At the end of the week, there's an open temple night where people can play.
+
+**Irresponsible approach:** "Okay everybody, go fuck each other, have fun!" No education. No teaching about fawning, boundaries, safer sex conversations. Just newbies fumbling into intimacy with no preparation.
+
+What happens? Accidents. People feel bad. They don't know how to handle it. Blame spirals. Witch hunts.
+
+**Responsible approach:** Spend the week teaching people how to have safer sex conversations, what fawning looks like, how to check in, what to watch for. Then open temple night, with everyone equipped to navigate it.
+
+What happens? People feel safe, held, and have fun. When mistakes happen—and they will—people know how to handle them. Everyone wins.
+
+Most people look at this and think: "Yeah, the facilitator has a duty to prepare people."
+
+**Here's the part they miss: So do you.**
+
+You're not a passive consumer of the container. You're a co-creator of it. You have power to influence what happens—whether you're staff or a first-time participant.
+
 Ask yourself:
 
 - Did I see warning signs and say nothing?
@@ -86,6 +104,8 @@ Ask yourself:
 - Could I have stood up before the event started and said something to the group?
 - Could I have talked to the facilitators about what people should learn before playing?
 - Could I have taken action to improve the container's safety?
+
+The only difference between you and the facilitator is that the facilitator is expected to do these things. But nothing stops you from doing them too. And if you don't, you're responsible for that inaction—same as they would be.
 
 ### Examples of Taking Responsibility for Others' Mistakes
 
