@@ -4,6 +4,86 @@
 
 ---
 
+## The Safety Contract
+
+One of the most powerful things a facilitator can do is establish clear rules at the beginning of a container—and make an explicit promise:
+
+> **As long as you follow these rules, you are safe. You will not be kicked out. You will not be punished. You have room to experiment, make mistakes, and learn. I have your back.**
+
+This concept comes from high-performance environments (like Sandler sales training): when people know exactly what the boundaries are, and know they're protected as long as they stay within them, they can relax. They can take risks. They can fail and learn without fear.
+
+### Why This Matters
+
+Without clear rules, participants are anxious:
+
+- "What if I do something wrong?"
+- "What if someone gets upset with me?"
+- "What if I make a mistake and get kicked out?"
+- "What counts as 'too far'?"
+
+This anxiety creates fawning, over-caution, and inauthentic participation. People can't fully show up if they're afraid of invisible tripwires.
+
+With clear rules, participants feel contained:
+
+- "I know what's expected of me"
+- "I know what will get me in trouble"
+- "I know that mistakes are okay"
+- "I know the facilitator has my back if I'm operating in good faith"
+
+### The Promise
+
+At the start of your container, communicate something like:
+
+> "Here are the guidelines for this space. As long as you operate within them, you are safe. You can experiment. You can make mistakes. You can try things that don't work. If something goes wrong and you were operating in good faith, we'll work through it together—you won't be punished or removed.
+>
+> If you go outside these guidelines—especially intentionally—you're on your own. Certain behaviors will result in being asked to leave."
+
+This creates both safety AND accountability.
+
+### Suggested Guidelines
+
+Here's a starter set of rules you might adapt for your container:
+
+**You are safe as long as you:**
+
+1. **Operate in good faith** — You're trying to do right by others, even when you make mistakes
+2. **Communicate honestly** — You don't deliberately deceive or manipulate
+3. **Respect stated boundaries** — When someone says no or stop, you stop
+4. **Check in when uncertain** — If you're not sure, you ask
+5. **Take responsibility for your mistakes** — When something goes wrong, you own your part
+6. **Treat others with dignity** — Even in conflict, you don't attack character or threaten
+
+**Mistakes are expected and okay:**
+
+- Accidental boundary crossings (unconscious, unintentional)
+- Miscommunications
+- Getting triggered and needing to step away
+- Trying something that doesn't work
+- Not knowing something you "should" know
+
+**These will result in being asked to leave:**
+
+1. **Threats of physical violence** — Verbal or physical intimidation, implied or explicit. Non-negotiable. (See: [Threats of Violence Must Be Stopped Immediately](#threats-of-violence-must-be-stopped-immediately))
+2. **Intentional malice** — Deliberately trying to harm someone. If you're intentionally malicious, you're out. Not because of judgment, but because we can't risk escalation.
+3. **Repeated boundary violations after being told** — One mistake is human. Continued violation after clear communication is a pattern.
+4. **Weaponizing victim status** — Using accusations, mob dynamics, or emotional manipulation to harm others rather than resolve issues. (See: [Power Dynamics](./power-dynamics.md))
+
+### The Key Distinction
+
+**Mistakes made in good faith** → Protected. Work through it. Learn. Stay.
+
+**Intentional harm or repeated violations** → Not protected. Asked to leave.
+
+This isn't about being harsh. It's about being clear. When people know exactly where the lines are, they can relax inside them.
+
+### Communicate This Early
+
+This should be communicated at the very beginning of your container—before anything happens. Not after someone makes a mistake. Not as a reaction to conflict.
+
+When it's established upfront, it's a framework for safety. When it's announced mid-conflict, it looks like targeting.
+
+---
+
 ## The Core Principle: Walk Your Talk
 
 Nothing matters more for a facilitator than alignment between what you say and what you do.
