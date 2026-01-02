@@ -297,6 +297,100 @@ But with practice:
 
 Growth is slow. But it's real. And it only happens when you take responsibility for your pattern instead of outsourcing your safety to others.
 
+## How to Actually Heal
+
+Here's the uncomfortable truth that most therapeutic frameworks won't say directly:
+
+**The only way out of fawning is through fawning.**
+
+You have to fawn—and suffer the consequences—until the pain generates enough anger to finally set a boundary.
+
+### Why This Works (When Therapy Often Doesn't)
+
+The author's personal experience:
+
+> "I stayed in a relationship for six weeks that I knew was wrong from day one. She was manipulative, cared about her desires more than my boundaries, and I felt icky and gross the whole time. But I stayed because I felt guilty—she'd moved into my Airbnb to be with me, and I thought I couldn't just kick her out.
+>
+> That was people-pleasing. Fawning. Automatic, not conscious.
+>
+> The only way I got out was staying and suffering until I got _pissed off_. Eventually the pain generated enough anger that I finally said 'fuck this, I'm not doing it anymore.' And I left.
+>
+> Six weeks is a long time. But it was faster than previous relationships. And that's the point: **each time this happens, recovery gets faster and easier.**"
+
+### The Pattern That Heals
+
+1. **You fawn** (because it's automatic)
+2. **You suffer the consequences** (pain, resentment, violation)
+3. **The pain builds** until you feel genuinely angry
+4. **Anger gives you motivation** to finally set a boundary
+5. **You set the boundary** (often messily, often late—but you do it)
+6. **Next time**, you remember the awful experience
+7. **Saying no becomes easier** because you've learned what "yes" costs you
+
+This isn't pretty. It's not a three-step framework. It's just... how bodies learn.
+
+### Why Cognitive Therapy Often Fails
+
+> "I did five hours of therapy a week for a year. Basically five years of therapy in one year. It helped me understand some things intellectually. But it didn't help shit when it came to actually changing my automatic responses."
+
+Fawning lives in your body, not your intellect. You can understand perfectly well that you should say no—and watch yourself say yes anyway.
+
+What changes the pattern isn't insight. It's **experience**.
+
+### Exposure Therapy for Fawning
+
+The same principle that works for phobias works for fawning:
+
+> "When I had panic attacks around sexual rejection, the only thing that helped was exposure. Going to parties. Sometimes not connecting with anyone. Sometimes crying ugly at the orgy because my body was telling me I was hopeless and unlovable.
+>
+> Each time I had a panic attack, it got easier. The meaning-making went away. I realized not hooking up every time didn't mean anything about me—it's just what happens."
+
+You don't think your way out of trauma responses. You **live** your way out—by having the experience enough times that your nervous system learns a new pattern.
+
+### A Workshop Idea
+
+Imagine a controlled environment where fawners can practice:
+
+1. Someone does something slightly uncomfortable (pre-negotiated, consensual)
+2. The fawner notices their automatic "yes" impulse
+3. They let the discomfort build—_waiting_ for anger to arise
+4. When they feel genuinely pissed off, they practice saying **"No. Stop."**
+5. The exercise ends with boundary-setting, not fawning
+
+Safety considerations:
+
+- Set a time limit (60 seconds or so)
+- If they haven't said no by then, check in—they're fawning and need support
+- The goal isn't to traumatize; it's to practice the _completion_ of the pattern
+
+The difference from real life: in the workshop, you're _guaranteed_ to reach the boundary-setting moment. In real life, fawners often leave before they get angry enough—and the pattern never completes.
+
+### The Counterintuitive Advice
+
+If you're a fawner:
+
+**You might need to fawn more before you fawn less.**
+
+Not because fawning is good. But because you need to feel the full pain of it—to let your body learn that fawning hurts more than setting boundaries does.
+
+This isn't permission to stay in abusive situations. It's recognition that:
+
+- You probably can't think your way out of this
+- You need to _feel_ your way out
+- Anger is your friend—it's the fuel for boundary-setting
+- Each painful experience is data that trains your nervous system
+- It gets faster every time
+
+### The Goal
+
+Eventually, you won't need to suffer for six weeks before saying no.
+
+You'll feel the familiar icky sensation of someone pushing past your boundaries, and your body will remember: _Last time I tolerated this, it hurt. I'm not doing that again._
+
+And saying no will feel easier than fawning.
+
+That's the graduation. And you can only get there by going through.
+
 ## Teaching This
 
 This is delicate. You're not blaming trauma survivors.
