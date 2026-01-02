@@ -438,7 +438,18 @@ So when I find someone who clearly owns their no? Who says what they mean? That'
 
 ### If You're New to These Spaces
 
-In the beginning, when you're insecure and hoping to connect, receiving a no might feel like rejection. Like proof you're unlovable. That's the story, and it will pass.
+In the beginning, when you're insecure and hoping to connect, receiving a no might feel like rejection. Like proof you're unlovable.
+
+But remember: [your feelings come from your stories, not from what happened](./trauma-and-filters.md#how-feelings-actually-work).
+
+Same experience—being told no. Completely different feelings based on the story:
+
+| Story                                  | Feeling                   |
+| -------------------------------------- | ------------------------- |
+| "I'm not enough for this person"       | Pain, rejection, shame    |
+| "I can trust this person to be honest" | Gratitude, relief, safety |
+
+The experience didn't change. Your interpretation did. And that story will shift as you gain experience.
 
 But over time—after you've encountered people who fawn and then attack—something shifts.
 
