@@ -57,6 +57,11 @@ Our culture teaches that:
 - Only certain people have it
 - You should "know your place"
 - Wanting big things is arrogant
+
+You see this everywhere. A participant in a workshop thinks the facilitator has all the power—but they're wrong. The participant can dramatically shape what happens through their presence, questions, and willingness to speak up. They can even destroy the facilitator's reputation with a single accusation. They have enormous power—they just don't see it because they've been taught to see themselves as powerless.
+
+(See: [Power Dynamics](./power-dynamics.md) for how this plays out in containers.)
+
 - Life happens to you; you respond
 
 This is the water we swim in. It's so pervasive we don't notice it.
