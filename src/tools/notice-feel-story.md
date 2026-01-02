@@ -72,7 +72,7 @@ When you practice saying "my story is..." you start to recognize:
 - I don't actually know if it's true
 - I need to check before acting on it
 
-This is especially critical for [witnesses](../concepts/before-you-judge.md). You saw something. You created a story. **That story is not evidence.**
+This is especially critical for witnesses—and this is why [witnessing isn't enough](../concepts/before-you-judge.md#witnessing-isnt-enough). You saw something. You created a story. **That story is not evidence.**
 
 ### It Creates a Non-Charged Way to Verify
 
@@ -85,6 +85,24 @@ You say:
 > "I noticed you left. I felt hurt. My story is you didn't want to be around me. Is there any truth to that?" (inquiry)
 
 The first creates defensiveness. The second creates dialogue.
+
+### It Makes High-Stakes Conversations Inarguable
+
+Here's something powerful: when you use this framework, everything you say is **inarguable**.
+
+- **What you noticed** — This is your subjective observation. No one can tell you that you didn't notice what you noticed.
+- **What you felt** — This is your internal experience. No one can tell you that you didn't feel what you felt.
+- **Your story** — You're explicitly naming it as a story, not claiming it as truth. You're asking if it's true, not asserting it.
+
+There's nothing to fight about. You're not making claims about objective reality. You're sharing your subjective experience and asking for clarification.
+
+When conversations get heated, people start making claims about what the other person did, meant, or intended. Those claims are arguable. "You abandoned me!" invites "No I didn't!"
+
+But "I noticed you left. I felt hurt. My story is you didn't want to be around me. Is there any truth to that?" — what is there to argue with?
+
+**In high-stakes conversations, moving to inarguable language can be the difference between war and real communication.**
+
+Both people can use this framework. You can go back and forth—each person sharing what they noticed, what they felt, and what their story is—and actually understand each other instead of just attacking.
 
 ## Examples
 
@@ -111,6 +129,16 @@ Possible response: "I'm so sorry—I wasn't aware my hand had moved there. I was
 Possible response: "Jordan got some hard news from home and needed to leave. We were just talking about logistics. They were upset about the news, not about me."
 
 **Story was wrong. You didn't start a witch hunt. Good job.**
+
+### Example 4: When the Story Is Right
+
+> "I noticed you kept touching my back after I moved away twice. I felt uncomfortable and a little unsafe. My story is that you weren't respecting my nonverbal cues. Is there any truth to that?"
+
+Possible response: "...Yeah, honestly, I think you're right. I got caught up in the moment and wasn't paying attention. I'm sorry. I should have noticed you were pulling away."
+
+**Story was correct. Now you know. And because you checked instead of accused, you got an honest acknowledgment instead of defensive denial.**
+
+Sometimes your interpretation is right. The point isn't that you're always wrong—it's that you don't know until you verify. When you're right, checking confirms it. When you're wrong, checking prevents harm. Either way, you win.
 
 ## When to Use This
 
