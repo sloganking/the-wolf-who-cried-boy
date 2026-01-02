@@ -54,7 +54,17 @@ If that lands wrong at first, sit with it. The concepts build on each other.
 
 ### If you're new to these spaces:
 
-Start here:
+**A gentle word first:** You don't need to memorize all of this before your first party.
+
+Yes, this information is valuable. Yes, you'd benefit from knowing it. But don't let "I need to learn all this first" become a barrier to actually showing up and exploring.
+
+Here's a better approach: **skim the basics now, then come back when something happens.**
+
+When you have your first awkward moment, read the section on [Severity](./concepts/severity.md). When you notice yourself saying yes when you mean no, read [Fawning](./concepts/fawning.md). When someone overreacts to something small, read [Appropriate Response](./concepts/appropriate-response.md).
+
+Learning sticks better when it's immediately applicable. Real experiences make these concepts click in ways that reading alone can't.
+
+**That said, if you want the foundation:**
 
 1. [Severity](./concepts/severity.md) — The scale of harm
 2. [Types of Mistakes](./concepts/types-of-mistakes.md) — Not all mistakes are the same
