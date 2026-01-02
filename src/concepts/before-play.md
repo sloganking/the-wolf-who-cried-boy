@@ -73,12 +73,30 @@ If you're playing with someone who has a partner and you didn't know, you may be
 
 ### Assessing Couple Stability
 
-Not all couples are equally safe to play with. Ask yourself:
+Not all couples are equally safe to play with. Ask yourself—and ask THEM:
 
 - **Are they emotionally stable?** Have you seen them fighting in the container? What were those disagreements about?
-- **Are they experienced?** Have they played with others before, regularly? Or is this their first time in a sex-positive space?
-- **Do they have precedent?** If they've done this before and it went well, they have a track record. If this is new territory, there's higher risk of jealousy, upset, or unexpected reactions.
+- **Have they been non-monogamous for a while?** Or have they been monogamous their whole lives and this is completely new? Someone with years of non-monogamy experience handles things differently than someone trying it for the first time.
+- **Do they have precedent?** If they've played with others before and it went well, they have a track record. If this is new territory, there's higher risk of jealousy, upset, or unexpected reactions.
 - **Is one of them more ready than the other?** Sometimes one partner says they're good with it, but they're not really. Or one partner pressured the other into "being open."
+
+**Ask explicitly:** "Have you been open and playing with others for a while? Or is non-monogamy new to you?"
+
+### The Mismatched Couple
+
+Watch out for this dynamic:
+
+One partner wants to be monogamous. They don't really want to be at this retreat. They're only here because they're afraid of losing their partner—who IS excited about non-monogamy.
+
+The enthusiastic partner is eager to explore. But they may not actually be "open" in practice, because their reluctant partner is stressed, jealous, or on the verge of a meltdown.
+
+If you engage with either person in this couple:
+
+- The reluctant partner might direct their resentment at you
+- The enthusiastic partner might face consequences at home that spill onto you
+- Drama is almost guaranteed
+
+This isn't a couple exploring non-monogamy together. This is a relationship under stress, using a retreat as a pressure cooker.
 
 Once you recognize the situation, ask yourself: Am I comfortable engaging with someone in this relationship state?
 
