@@ -8,17 +8,13 @@ How serious is the harm caused? This determines how serious the response should 
 
 ## The Scale
 
-```
-┌──────────┬────────────────────────────────────────────────────────────────────┐
-│  HIGH    │ Permanent harm. Injury, reputation damage, blacklisting.           │
-│          │ Ask: "Would I do this with a gun?"                                 │
-├──────────┼────────────────────────────────────────────────────────────────────┤
-│  MEDIUM  │ Temporary pain. Recoverable. Unwanted touch, emotional hurt,       │
-│          │ boundary crossed.                                                  │
-├──────────┼────────────────────────────────────────────────────────────────────┤
-│  LOW     │ Inconvenience. No one really hurt. Awkwardness, miscommunication.  │
-└──────────┴────────────────────────────────────────────────────────────────────┘
-```
+| Level      | Description                                                             | Examples                                         |
+| ---------- | ----------------------------------------------------------------------- | ------------------------------------------------ |
+| **HIGH**   | Permanent harm. Physical or non-physical (reputation, options, safety). | Injury, public shaming, blacklisting             |
+| **MEDIUM** | Temporary pain. Recoverable.                                            | Unwanted touch, emotional hurt, boundary crossed |
+| **LOW**    | Inconvenience. No one really hurt.                                      | Awkwardness, miscommunication, minor discomfort  |
+
+**Quick check:** "Would I do this with a gun?" → If yes, it's HIGH.
 
 ## Key Principle
 
