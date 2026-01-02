@@ -90,7 +90,7 @@ Read everything, then focus on:
 1. [Appropriate Response](./concepts/appropriate-response.md)
 2. [Before You Judge](./concepts/before-you-judge.md)
 3. [Power Dynamics](./concepts/power-dynamics.md)
-4. Facilitator Protocols _(coming soon)_
+4. [Facilitator Protocols](./concepts/facilitator-protocols.md)
 
 ---
 

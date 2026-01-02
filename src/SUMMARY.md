@@ -22,6 +22,7 @@
 - [Before You Judge](./concepts/before-you-judge.md)
 - [Making It Right](./concepts/making-it-right.md)
 - [Drama Triangle](./concepts/drama-triangle.md)
+- [Facilitator Protocols](./concepts/facilitator-protocols.md)
 
 ---
 
