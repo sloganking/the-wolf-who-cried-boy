@@ -148,3 +148,42 @@ That's it. Everything else is detail.
 Start with [Severity](./concepts/severity.md), or browse the [Quick Reference](./quick-reference.md).
 
 Welcome to clearer thinking.
+
+---
+
+## About the Author
+
+A few years ago, I was barely surviving.
+
+I was in a seven-year dry spell—no romance, no intimacy, no touch. I was having panic attacks that lasted eight hours, every other day. I was borderline suicidal, overwhelmed with intrusive thoughts I'd never experienced before. I genuinely believed I was the most hopeless case I'd ever seen.
+
+I went to therapy—five hours a week for over a year. It helped me understand things intellectually, but it didn't change my automatic patterns. That's when I realized: you can't think your way out of trauma. You have to live your way out.
+
+So I tried everything. I went to my first BDSM party, terrified but done hiding. I discovered conscious sexuality communities. I started attending play parties as exposure therapy—crying at some of them, connecting at others, learning at all of them. Each experience taught me something. Each risk built evidence that I could create the life I wanted.
+
+Today, I'm living a life I couldn't have imagined.
+
+I've gone from a 7-year dry spell to having five times as many meaningful connections in two years as in my entire life before. I walk into play parties and retreats with ease. Rejection rolls off in minutes instead of days. The trauma, the triggers, the panic—they don't run my life anymore.
+
+**I wrote this book because I know what it's like to be on both sides.**
+
+I've made mistakes in these spaces. I've been accused of things I didn't do. I've fawned when I should have set boundaries. I've watched people destroy each other with witch hunts based on vibes instead of facts. And I've learned—the hard way—how to navigate all of it with more clarity and less harm.
+
+Everything in this book comes from lived experience. The concepts aren't theory—they're what I learned from years of making mistakes, processing them, and growing.
+
+### Training & Background
+
+- Somatica Institute Core Training (AASECT-approved)
+- Laurie Handlers' Sex & Happiness Apprenticeship
+- Week-long ISTA retreats and intensive containers
+- 2+ years of weekly workshops, play parties, and immersive practice
+
+### Want to Work Together?
+
+If you want personalized support navigating these spaces—or transforming your relationship with intimacy, rejection, and connection—I offer 1-on-1 coaching.
+
+**Learn more:** [sloganking.github.io/coaching-website](https://sloganking.github.io/coaching-website/)
+
+---
+
+_— Logan King_ 👑
