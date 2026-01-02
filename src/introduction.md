@@ -181,11 +181,25 @@ I realized: **this is the singular area where our spaces need help.**
 
 Sex-positive communities have so much going for them. But when conflict arises, when mistakes happen, when someone cries victim loud enough—we fall apart. We start witch hunts. We destroy people who made honest mistakes. We let fear run the show.
 
-Watching that happen, I made a decision. Instead of just feeling angry about it, I'd be a creator instead of a victim. What if I could educate everyone around me? What if I could give people the language, the frameworks, the clear seeing to handle these situations? What if, next time someone tries to start a witch hunt, it gets shut down because everyone knows better?
+Watching that happen, I made a decision. Instead of just feeling angry, I'd create something.
 
-That's why this book exists.
+Because here's what I've realized: **this is the single area where our spaces need the most help.**
 
-I also have a unique ability to see through the stories people operate on—to spot the delusions, the distortions, the places where someone's trauma is running the show instead of their thinking. I've spent years thinking through the edge cases and counterintuitive angles. Most of what's in this book, people haven't considered. When they read it, they'll realize: "I've thought about maybe 10% of this."
+I don't think there's anything else that would be more impactful for play-possible spaces—more safety-creating, more helpful for facilitators and participants alike—than giving people frameworks for handling mistakes, conflicts, and accusations.
+
+And nobody is teaching it.
+
+Every retreat I attend, every party I go to, I see the same patterns:
+
+- People who fawn and don't know they're doing it
+- People who play victim instead of owning their power
+- People stuck in misery because they've never examined their stories
+- Facilitators who don't know how to respond when someone starts mobilizing against another participant
+- Bystanders who join witch hunts because they don't know what else to do
+
+These patterns repeat everywhere. And people stay stuck in them for years—sometimes forever—because no one gives them the language to see what's happening.
+
+That's the gap this book fills.
 
 This book is meant to be a beacon of clarity in spaces that desperately need it.
 
