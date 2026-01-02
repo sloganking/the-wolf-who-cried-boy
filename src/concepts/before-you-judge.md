@@ -116,6 +116,47 @@ The only way to know if your story is true is to **verify with the people involv
 
 You don't know what to believe yet. And that's okay—it's honest.
 
+## The Tool That Changes Everything
+
+There's a framework from Authentic Relating that is invaluable for checking your stories before you act on them. It's called **[Notice, Feel, Story](../tools/notice-feel-story.md)**.
+
+Here's how it works:
+
+1. **Notice** — State what you actually observed. Just facts, no interpretation.
+2. **Feel** — State the emotion you experienced. Not a thought disguised as a feeling.
+3. **Story** — State your interpretation explicitly as a story, then ask if it's true.
+
+### Example
+
+Instead of: "You abandoned me!" (accusation based on story)
+
+Say: "I noticed you left without saying anything. I felt hurt and confused. My story is that you didn't want to be around me anymore. Is there any truth to that?"
+
+### Why This Is Invaluable
+
+**It separates feelings from stories.** Your feelings are valid. Your story might be completely wrong. This framework lets both be true simultaneously.
+
+**It reveals your interpretations as interpretations.** When you practice saying "my story is..." you start to realize how much of what you "know" is actually made up. You saw something, you created a story, and you've been treating that story as fact.
+
+**It creates a non-charged way to verify.** Instead of accusing, you're inquiring. Instead of attacking, you're checking. The other person can correct the story without invalidating your feelings.
+
+**It prevents witch hunts.** If everyone used this tool before spreading information, most mob dynamics would never form. "My story is..." invites correction. "You did X!" invites war.
+
+### Use This Before You Judge
+
+Before you:
+
+- Make accusations
+- Tell others what "happened"
+- Respond with HIGH severity
+- Form an opinion about someone's character
+
+Stop and ask yourself: **Is this what happened, or is this my story about what happened?**
+
+Then go check.
+
+See: [Notice, Feel, Story](../tools/notice-feel-story.md) — The full tool with examples
+
 ## Primary Sources Matter
 
 A **primary source** is someone who was directly involved in or witnessed the incident.

@@ -27,6 +27,7 @@
 
 # Teaching Tools
 
+- [Notice, Feel, Story](./tools/notice-feel-story.md)
 - [Popcorn Metaphor](./tools/popcorn-metaphor.md)
 - [Gun Test](./tools/gun-test.md)
 - [100% Control](./tools/100-percent-control.md)
