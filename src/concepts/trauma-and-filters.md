@@ -139,7 +139,44 @@ In play spaces, where:
 
 ...these subtle filters can create real problems.
 
-The person with the exclusion story might misread a situation. The person with a "people always want something from me" story might see predatory intent where there's none. The person with a "I'm not good enough" story might fawn when they should set a boundary.
+### Stories and the Problems They Create
+
+| The Story                            | How It Distorts Perception                                                                         | The Mistake It Can Cause                                                                                       |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| "I'm always being left out"          | Sees exclusion everywhere; interprets ambiguous situations as "they're doing something without me" | Misreads what's happening, acts on false interpretation, creates boundary violations from confusion            |
+| "Everyone wants what we have"        | Paranoid about partner; assumes every friendly interaction is someone trying to steal them         | Accuses innocent people of predatory behavior, creates conflict, drives partner away with jealousy             |
+| "People always take advantage of me" | Sees manipulation in normal requests; assumes the worst intent                                     | Over-reacts to low-severity situations, shuts down connection, may launch [witch hunts](./before-you-judge.md) |
+| "I'm not worthy of attention"        | Assumes rejection is coming; doesn't believe genuine interest                                      | [Fawns](./fawning.md) instead of setting boundaries, says yes when they mean no, gets hurt                     |
+| "Men only want one thing"            | Interprets every touch as sexual; sees predatory intent in friendliness                            | Accuses someone of being "rapey" when they were just being warm, destroys reputations over nothing             |
+| "I have to earn my place"            | Feels like they don't belong unless they're useful or pleasing                                     | Over-gives, burns out, resents others, [fawns](./fawning.md) to stay accepted                                  |
+
+**Example: "Everyone Wants What We Have"**
+
+A couple comes to a play party together. One partner has an unexamined story: "Everyone wants what we have. People are always trying to take what's mine."
+
+At the party, someone chats warmly with their partner. Just friendly conversation—nothing flirtatious.
+
+But through the jealousy filter:
+
+> "They're trying to steal my partner. I need to intervene."
+
+They pull their partner away, act cold to the "threat," maybe even confront them later. The other person is confused and hurt—they were just being friendly.
+
+The jealous partner might even go further: warning others that this person is "predatory," starting whispers, creating [high-severity](./severity.md) consequences for someone who did nothing wrong.
+
+All from a story they didn't even know they had.
+
+**Example: "I'm Always Being Left Out"**
+
+Someone with this story attends a group experience. They're tired. Something ambiguous happens—maybe they see movement they can't quite interpret, or they notice others connecting in ways they're not part of.
+
+Their filter activates:
+
+> "Everyone else is getting something. I'm being excluded again."
+
+From that interpretation—which may be completely wrong—they take an action. Maybe they push into something they weren't invited to. Maybe they make an assumption about what's allowed based on what they thought they saw.
+
+The mistake wasn't malicious. But the unconscious story distorted their perception, and their tired brain acted on the distortion.
 
 ### The Invitation
 
