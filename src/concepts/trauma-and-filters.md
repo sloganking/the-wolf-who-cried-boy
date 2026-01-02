@@ -96,6 +96,61 @@ Someone makes an innocent mistake, and your body screams "PREDATOR!" Someone ask
 
 The experience is new. But you're reacting to an old story.
 
+### How Subtle Stories Create Real Problems
+
+Here's what makes this tricky: **you might not even know your story exists.**
+
+You can do years of healing work and still have a subtle lens you've never examined—a background hum of meaning-making that's so normal to you that you don't recognize it as a filter.
+
+**Example: The "I'm Being Left Out" Lens**
+
+Imagine someone with a deep, unexamined story: "I'm always being excluded."
+
+They might not consciously think this. But their perception is subtly biased toward seeing exclusion everywhere:
+
+- When two people whisper, they assume it's about them
+- When someone gets attention they don't, they feel passed over
+- When ambiguous situations arise, they interpret them as "everyone else is getting something I'm not"
+
+Now put this person in a play space. They're tired. Their thinking brain is offline. And something ambiguous happens—maybe they see movement that could be interpreted multiple ways.
+
+Their "exclusion" filter kicks in automatically:
+
+> "They're doing something I'm not included in."
+
+And from that interpretation—which may or may not be accurate—they take an action. An action they might not have taken if they'd seen the situation clearly.
+
+**The mistake wasn't malicious.** They weren't trying to harm anyone. But their unconscious story distorted their perception, and their perception drove their behavior.
+
+### Why This Matters
+
+This is **exceedingly subtle.**
+
+You don't normally think: "My tendency to feel excluded is affecting my actions right now." You just... see what you see. And act on what you see.
+
+But what you see is filtered through stories you may have never examined.
+
+In play spaces, where:
+
+- Stakes are high
+- Bodies are involved
+- Consent depends on accurate perception
+- You might be tired, altered, or emotionally activated
+
+...these subtle filters can create real problems.
+
+The person with the exclusion story might misread a situation. The person with a "people always want something from me" story might see predatory intent where there's none. The person with a "I'm not good enough" story might fawn when they should set a boundary.
+
+### The Invitation
+
+This isn't about being paranoid about your every perception.
+
+It's about humility:
+
+> "I might have stories I don't know about. My interpretation might not be accurate. Before I act—especially on something significant—let me check."
+
+This is why [Notice, Feel, Story](../tools/notice-feel-story.md) and [Before You Judge](./before-you-judge.md) matter so much. They're tools for catching your filters before they cause harm.
+
 ## The Problem in Sex-Positive Spaces
 
 When a boundary violation occurs, what do you assume about the person who made it?
