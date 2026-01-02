@@ -177,27 +177,19 @@ Someone made a medium-severity mistake. Another person responded with high-sever
 
 What struck me wasn't just the injustice. It was how many people were scared, clueless, and had no idea how to see clearly or respond appropriately. They didn't have language for what was happening. They didn't have a framework. They just reacted—from fear, from trauma, from mob instinct.
 
-I realized: **this is the singular area where our spaces need help.**
-
 Sex-positive communities have so much going for them. But when conflict arises, when mistakes happen, when someone cries victim loud enough—we fall apart. We start witch hunts. We destroy people who made honest mistakes. We let fear run the show.
 
 Watching that happen, I made a decision. Instead of just feeling angry, I'd create something.
 
-Because here's what I've realized: **this is the single area where our spaces need the most help.**
-
-I don't think there's anything else that would be more impactful for play-possible spaces—more safety-creating, more helpful for facilitators and participants alike—than giving people frameworks for handling mistakes, conflicts, and accusations.
-
-And nobody is teaching it.
+**This is the single area where our spaces need the most help.** And nobody is teaching it.
 
 Every retreat I attend, every party I go to, I see the same patterns:
 
 - People who fawn and don't know they're doing it
 - People who play victim instead of owning their power
 - People stuck in misery because they've never examined their stories
-- Facilitators who don't know how to respond when someone starts mobilizing against another participant
-- Bystanders who join witch hunts because they don't know what else to do
 
-These patterns repeat everywhere. And people stay stuck in them for years—sometimes forever—because no one gives them the language to see what's happening.
+These patterns repeat everywhere. People stay stuck in them for years—sometimes forever—because no one gives them the language to see what's happening.
 
 That's the gap this book fills.
 
