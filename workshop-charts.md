@@ -7,36 +7,15 @@ All charts in one place for printing and drawing on easels.
 ## Severity Scale
 
 ```
-  ▲ HIGH
-  │   • Permanent harm
-  │   • Reputation damage
-  │   • Physical injury
-  │   • "Would I do this with a gun?"
-  │
-  │ MEDIUM
-  │   • Temporary pain
-  │   • Recoverable
-  │   • Touch/intimacy mistakes
-  │   • Emotional hurt
-  │
-  │ LOW
-  │   • Inconvenience
-  │   • Awkwardness
-  │   • No real harm
-  │   • Miscommunication
-  ▼
-```
-
-### Simple Version
-
-```
-┌─────────────────────────────────────┐
-│  HIGH    Permanent / Gun territory  │
-├─────────────────────────────────────┤
-│  MEDIUM  Temporary / Recoverable    │
-├─────────────────────────────────────┤
-│  LOW     Inconvenient / No harm     │
-└─────────────────────────────────────┘
+┌──────────┬────────────────────────────────────────────────────────────────────┐
+│  HIGH    │ Permanent harm. Injury, reputation damage, blacklisting.           │
+│          │ Ask: "Would I do this with a gun?"                                 │
+├──────────┼────────────────────────────────────────────────────────────────────┤
+│  MEDIUM  │ Temporary pain. Recoverable. Unwanted touch, emotional hurt,       │
+│          │ boundary crossed.                                                  │
+├──────────┼────────────────────────────────────────────────────────────────────┤
+│  LOW     │ Inconvenience. No one really hurt. Awkwardness, miscommunication.  │
+└──────────┴────────────────────────────────────────────────────────────────────┘
 ```
 
 **Key Point:** Your response should match this scale.

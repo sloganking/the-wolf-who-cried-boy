@@ -8,45 +8,16 @@ How serious is the harm caused? This determines how serious the response should 
 
 ## The Scale
 
-| Level      | Description                                                             | Examples                                         |
-| ---------- | ----------------------------------------------------------------------- | ------------------------------------------------ |
-| **HIGH**   | Permanent harm. Physical or non-physical (reputation, options, safety). | Injury, public shaming, blacklisting             |
-| **MEDIUM** | Temporary pain. Recoverable.                                            | Unwanted touch, emotional hurt, boundary crossed |
-| **LOW**    | Inconvenience. No one really hurt.                                      | Awkwardness, miscommunication, minor discomfort  |
-
-## Visual Scale
-
 ```
-  ▲ HIGH
-  │   • Permanent harm
-  │   • Reputation damage
-  │   • Physical injury
-  │   • "Would I do this with a gun?"
-  │
-  │ MEDIUM
-  │   • Temporary pain
-  │   • Recoverable
-  │   • Touch/intimacy mistakes
-  │   • Emotional hurt
-  │
-  │ LOW
-  │   • Inconvenience
-  │   • Awkwardness
-  │   • No real harm
-  │   • Miscommunication
-  ▼
-```
-
-### Simple Version (for quick reference)
-
-```
-┌─────────────────────────────────────┐
-│  HIGH    Permanent / Gun territory  │
-├─────────────────────────────────────┤
-│  MEDIUM  Temporary / Recoverable    │
-├─────────────────────────────────────┤
-│  LOW     Inconvenient / No harm     │
-└─────────────────────────────────────┘
+┌──────────┬────────────────────────────────────────────────────────────────────┐
+│  HIGH    │ Permanent harm. Injury, reputation damage, blacklisting.           │
+│          │ Ask: "Would I do this with a gun?"                                 │
+├──────────┼────────────────────────────────────────────────────────────────────┤
+│  MEDIUM  │ Temporary pain. Recoverable. Unwanted touch, emotional hurt,       │
+│          │ boundary crossed.                                                  │
+├──────────┼────────────────────────────────────────────────────────────────────┤
+│  LOW     │ Inconvenience. No one really hurt. Awkwardness, miscommunication.  │
+└──────────┴────────────────────────────────────────────────────────────────────┘
 ```
 
 ## Key Principle

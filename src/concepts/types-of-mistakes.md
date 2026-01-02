@@ -64,11 +64,7 @@ Ask two questions:
 1. **Did they mean to do it?** (Intentional vs Unintentional)
 2. **Were they thinking?** (Conscious vs Unconscious)
 
-| Type           | They meant it? | They were thinking? | Response       |
-| -------------- | -------------- | ------------------- | -------------- |
-| Malicious      | Yes            | Yes                 | Accountability |
-| Wrong Thinking | No             | Yes                 | Education      |
-| Accident       | No             | No                  | Awareness      |
+The answers point you to the quadrant, and the quadrant tells you the response.
 
 **Note on Fawning:** Fawning doesn't fit cleanly in this matrix—it's a trauma response that creates two victims. See [Fawning](./fawning.md).
 

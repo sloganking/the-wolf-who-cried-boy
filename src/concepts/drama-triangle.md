@@ -117,14 +117,6 @@ There's a healthier version of each role. This is called **The Empowerment Dynam
 
 ## The Shift
 
-| Drama Triangle | →   | Empowerment Dynamic |
-| -------------- | --- | ------------------- |
-| Victim         | →   | Creator             |
-| Persecutor     | →   | Challenger          |
-| Rescuer        | →   | Coach               |
-
-### Side-by-Side Comparison
-
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │           DRAMA              →           EMPOWERMENT        │

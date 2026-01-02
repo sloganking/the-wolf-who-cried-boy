@@ -76,20 +76,9 @@ It's one of the four trauma responses:
            (different ways)
 ```
 
-### Person B (the fawner) is victimized by:
+### The Part People Miss: Person A's Consent Was Violated
 
-- Their own trauma response
-- An experience they didn't actually want
-
-### Person A (the initiator) is victimized by:
-
-- False information (thought consent was real)
-- Potential future accusation
-- Being made into a "perpetrator" unknowingly
-- Loss of ability to act with integrity
-- **Their own consent was violated** — they never agreed to touch someone who didn't want it
-
-That last point matters. Person A didn't consent to non-consensual touch. They thought they were engaging in mutual, enthusiastic activity. They weren't—and finding that out later feels icky, violating, wrong.
+That last point in the diagram matters most. Person A didn't consent to non-consensual touch. They thought they were engaging in mutual, enthusiastic activity. They weren't—and finding that out later feels icky, violating, wrong.
 
 Person A may feel:
 
