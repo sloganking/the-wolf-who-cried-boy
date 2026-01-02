@@ -49,6 +49,34 @@ Much of this is cultural programming, not biological reality.
 
 But that doesn't make the fear feel less real to the person experiencing it.
 
+### Fear vs. Reality: A Pattern We Can Prove
+
+We don't have reliable historical statistics on rape to prove this point directly. But we have an analogous case that's well-documented: **child abduction**.
+
+Consider:
+
+- Stranger abductions are extremely rare—roughly 100-115 per year in the U.S., out of tens of millions of children
+- The statistical odds of a stranger kidnapping: approximately 1 in 720,000 to 1 in 1,000,000
+- Most "missing child" cases (~99%) are runaways or family custody disputes, not stranger abductions
+- Crime and violent victimization of children has actually **declined** over recent decades
+
+And yet:
+
+- Parents today are more paranoid about abduction than ever
+- Children who once roamed freely are now supervised constantly
+- Parents who allow age-appropriate independence risk being reported, investigated, or even jailed
+- Some states have had to pass "free-range parenting" laws to protect parents from prosecution
+
+The fear escalated. The actual danger decreased.
+
+This disconnect was created by media saturation, high-profile cases (Etan Patz, Adam Walsh), and cultural narratives that amplified rare events into constant anxiety. Lenore Skenazy documented this in her book _Free-Range Kids_ and launched a movement challenging parents to calibrate fear to actual risk.
+
+**The point:** How much we fear something is often disconnected from how dangerous it actually is. Cultural narratives, media, and shared stories can inflate fear far beyond statistical reality.
+
+This same dynamic applies to fear of male predators. The fear is culturally alive, strongly felt, and shapes behavior—but that doesn't mean it accurately reflects the actual level of danger in any given situation.
+
+In some cultures, this fear barely exists. In ours, it's pervasive. That's evidence of cultural programming, not unchangeable reality.
+
 ### What This Means for Men
 
 If you're a man in these spaces, understand:
