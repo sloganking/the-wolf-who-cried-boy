@@ -1,10 +1,6 @@
-# How Much Power Do You Have? _(Draft)_
+# How Much Power Do You Have?
 
 ← [Back to Responsibility](./responsibility.md)
-
----
-
-_This section is still being developed. It explores ideas that may feel confronting or unfamiliar._
 
 ---
 
