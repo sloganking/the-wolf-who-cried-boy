@@ -4,29 +4,60 @@ Everything at a glance. New here? Start with the [Introduction](./introduction.m
 
 ---
 
-## Core Concepts
+## Foundation
 
-| Concept                                                    | Description                                |
-| ---------------------------------------------------------- | ------------------------------------------ |
-| [Severity](./concepts/severity.md)                         | How serious is the harm? (High/Medium/Low) |
-| [Types of Mistakes](./concepts/types-of-mistakes.md)       | Intent: Malicious, Accident, Fawning, etc. |
-| [Responsibility](./concepts/responsibility.md)             | What it means and how to take it           |
-| [Trauma & Filters](./concepts/trauma-and-filters.md)       | How past experiences distort perception    |
-| [Power Dynamics](./concepts/power-dynamics.md)             | Who actually has power?                    |
-| [Fawning](./concepts/fawning.md)                           | When "yes" means "no" — two victims        |
-| [Appropriate Response](./concepts/appropriate-response.md) | Matching response to severity              |
-| [Making It Right](./concepts/making-it-right.md)           | Repair over punishment                     |
-| [Before You Judge](./concepts/before-you-judge.md)         | Do you actually know what happened?        |
+| Concept                                              | Description                             |
+| ---------------------------------------------------- | --------------------------------------- |
+| [Severity](./concepts/severity.md)                   | How serious is the harm? (High/Med/Low) |
+| [Types of Mistakes](./concepts/types-of-mistakes.md) | Intent: Malicious, Accident, Fawning    |
+| [Trauma & Filters](./concepts/trauma-and-filters.md) | Why people react irrationally           |
+
+---
+
+## The Core Reframe
+
+| Concept                                        | Description                      |
+| ---------------------------------------------- | -------------------------------- |
+| [Responsibility](./concepts/responsibility.md) | What it means and how to take it |
+| [Drama Triangle](./concepts/drama-triangle.md) | Victim / Persecutor / Rescuer    |
+
+---
+
+## Specific Patterns
+
+| Concept                                        | Description                       |
+| ---------------------------------------------- | --------------------------------- |
+| [Fawning](./concepts/fawning.md)               | When "yes" means "no" — 2 victims |
+| [Power Dynamics](./concepts/power-dynamics.md) | Who actually has power?           |
+
+---
+
+## How to Respond
+
+| Concept                                                    | Description                         |
+| ---------------------------------------------------------- | ----------------------------------- |
+| [Before You Judge](./concepts/before-you-judge.md)         | Do you actually know what happened? |
+| [Appropriate Response](./concepts/appropriate-response.md) | Match response to severity          |
+| [Making It Right](./concepts/making-it-right.md)           | Repair over punishment              |
+
+---
+
+## For Facilitators
+
+| Concept                                                      | Description                        |
+| ------------------------------------------------------------ | ---------------------------------- |
+| [Facilitator Protocols](./concepts/facilitator-protocols.md) | Safety contracts, handling threats |
 
 ---
 
 ## Teaching Tools
 
-| Tool                                            | Use For                         |
-| ----------------------------------------------- | ------------------------------- |
-| [Gun Test](./tools/gun-test.md)                 | Self-check before play          |
-| [Popcorn Metaphor](./tools/popcorn-metaphor.md) | Explaining unconscious mistakes |
-| [100% Control](./tools/100-percent-control.md)  | Empowering without blaming      |
+| Tool                                                | Use For                             |
+| --------------------------------------------------- | ----------------------------------- |
+| [Popcorn Metaphor](./tools/popcorn-metaphor.md)     | Explaining unconscious mistakes     |
+| [Gun Test](./tools/gun-test.md)                     | Self-check: Am I fit to play?       |
+| [Notice, Feel, Story](./tools/notice-feel-story.md) | Checking your stories before acting |
+| [100% Control](./tools/100-percent-control.md)      | Empowering without blaming          |
 
 ---
 
@@ -37,6 +68,13 @@ WHEN A MISTAKE HAPPENS:
 1. Pause, breathe
 2. Assess SEVERITY → High / Medium / Low
 3. Assess TYPE → Malicious? Accident? Fawning?
-4. Match RESPONSE to severity
-5. Focus on REPAIR, not punishment
+4. Check: Am I QUALIFIED to judge? (Before You Judge)
+5. Match RESPONSE to severity
+6. Focus on REPAIR, not punishment
 ```
+
+---
+
+## The Core Principle
+
+> **What is the severity? What is the type? Am I qualified to judge? Is my response proportional?**

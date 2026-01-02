@@ -14,8 +14,6 @@ How serious is the harm caused? This determines how serious the response should 
 | **MEDIUM** | Temporary pain. Recoverable.                                            | Unwanted touch, emotional hurt, boundary crossed |
 | **LOW**    | Inconvenience. No one really hurt.                                      | Awkwardness, miscommunication, minor discomfort  |
 
-**Quick check:** "Would I do this with a gun?" → If yes, it's HIGH.
-
 ## Key Principle
 
 **Your response should match the severity level.**
