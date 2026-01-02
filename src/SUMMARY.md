@@ -26,6 +26,12 @@
 
 ---
 
+# Before You Play
+
+- [Before Play (RBDSMT)](./concepts/before-play.md)
+
+---
+
 # How to Respond
 
 - [Before You Judge](./concepts/before-you-judge.md)
