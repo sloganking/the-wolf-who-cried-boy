@@ -457,15 +457,37 @@ Here's what you'll eventually see:
 
 **When someone tells you no, they're not just looking out for themselves. They're looking out for you.**
 
-The alternative—fawning, saying yes when they mean no—creates a shit situation for both of you. They get an experience they didn't want. You get lied to, then potentially attacked for believing them.
+Remember the definition of a [good thing](../concepts/before-play.md#what-is-a-good-thing): an experience where everyone feels good during AND after. When someone tells you no, they're taking an action to make sure everything that happens between you is a good thing.
 
-Telling you no is an act of compassion. They're protecting you from that. They're saying: "I see you. I care about you. And I'm not going to create a situation that hurts us both."
+The alternative—fawning, saying yes when they mean no—creates a shit situation for both of you. They get an experience they didn't want. You get lied to, then potentially attacked for believing them. That's not a good thing for anyone.
+
+Their no doesn't mean you won't have pleasure in the future. It doesn't mean you can't do other things—maybe things you'd both enjoy more. It just means they're not available for that specific thing, and they're showing you they care about you both and the relationship.
+
+Telling you no is an act of compassion. They're saying: "I see you. I care about you. And I'm not going to create a situation that hurts us both."
+
+(Not all no's are acts of care—someone can say no unkindly. But generally, when people are happy and healthy, saying no is a loving act and should be interpreted as such.)
 
 Once you can see things through this lens—once you recognize that sometimes not getting what you want is actually the best thing you could receive—the insecurity and rejection feelings dissolve.
 
 Instead of feeling like nobody cares about you because you're not getting laid, you can feel care in the honesty. In the no. In the person who respects you enough to tell you the truth.
 
 That's a beautiful way to move through these spaces.
+
+### For Fawners: Your No Is a Gift
+
+If you struggle to tell others no—if you tend to fawn and people-please—flip the lens:
+
+**Your no is a gift.**
+
+When you tell someone no, you're not rejecting them. You're not being mean. You're not damaging the relationship.
+
+You're taking care of them.
+
+You're protecting them from interacting with someone who doesn't actually want to be there. You're protecting them from the icky feeling of later finding out you didn't want it. You're protecting them from the potential accusation, the confusion, the harm.
+
+When you see your no as an act of serving the other person—as creating a good thing instead of a bad thing—it becomes much easier to say it.
+
+Your no isn't selfish. Your no is love.
 
 But over time—after you've encountered people who fawn and then attack—something shifts.
 
