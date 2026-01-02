@@ -102,6 +102,28 @@ Every dynamic is bidirectional. Every relationship has power, responsibility, an
 
 The question isn't "who has power?" The question is: "How is power distributed, and how is each party using theirs?"
 
+## Power Can't Be Taken, Only Transmuted
+
+Here's an even deeper truth:
+
+**You can't actually take power away from someone. You can only change what kind of power they have.**
+
+When someone "takes" power from you in one form, they give you power in another form. Power isn't destroyed—it's transmuted.
+
+| When They "Take" This  | You Gain This                                                     |
+| ---------------------- | ----------------------------------------------------------------- |
+| Your reputation        | Moral clarity, information about who they are, the martyr's power |
+| Your voice (silencing) | The power of the suppressed, sympathy from those who see through  |
+| Your position          | Freedom, the power to go elsewhere, sometimes legal recourse      |
+| Your trust             | Wisdom about who not to trust, sharper discernment going forward  |
+| Your sense of safety   | Motivation to protect yourself, clarity about your boundaries     |
+
+This is the **conservation of power**. It can't be created or destroyed—only transformed.
+
+When you understand this, victimhood becomes impossible to sustain. Yes, they may have taken something from you. But in doing so, they gave you something else. The question becomes: **What will you do with the power you now have?**
+
+This doesn't mean what they did was okay. It doesn't mean the exchange was fair. It means you're never actually powerless—even when it feels that way.
+
 ## The Practical Takeaway
 
 When you find yourself thinking "they have all the power and I have none"—stop.
