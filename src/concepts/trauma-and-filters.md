@@ -164,7 +164,15 @@ They pull their partner away, act cold to the "threat," maybe even confront them
 
 The jealous partner might even go further: warning others that this person is "predatory," starting whispers, creating [high-severity](./severity.md) consequences for someone who did nothing wrong.
 
-All from a story they didn't even know they had.
+**Here's the problem: they genuinely believe their story.**
+
+It's not that they're being irrational. Within their reference frame—where "everyone wants what we have" is a core axiom—their actions make perfect sense. If you truly believe others are trying to steal your partner, of course you'd act defensive. Of course you'd push people away. Of course you'd warn others about the "threat."
+
+The harm they're creating feels like self-defense. They think they're responding to high-severity aggression against them—but it's not true at all.
+
+> "All people's actions are sane and reasonable, given their beliefs about the world they are operating within."
+
+This is why stories are so dangerous. The person acting from them isn't crazy. They're just operating from false premises they don't know are false.
 
 **Example: "I'm Always Being Left Out"**
 
@@ -174,9 +182,11 @@ Their filter activates:
 
 > "Everyone else is getting something. I'm being excluded again."
 
-From that interpretation—which may be completely wrong—they take an action. Maybe they push into something they weren't invited to. Maybe they make an assumption about what's allowed based on what they thought they saw.
+From that interpretation—which may be completely wrong—they start engaging with others in a way they think everyone else is already doing and welcoming. But they're not. What they thought they saw wasn't actually happening. Now they've suddenly started engaging in a way others don't want and find inappropriate.
 
-The mistake wasn't malicious. But the unconscious story distorted their perception, and their tired brain acted on the distortion.
+The mistake wasn't malicious. They weren't trying to violate anyone. But the unconscious story distorted their perception, and their tired brain acted on the distortion.
+
+To everyone else, it looks like a boundary violation out of nowhere. To them, they were just "joining in" with what they thought was already happening.
 
 ### The Invitation
 
