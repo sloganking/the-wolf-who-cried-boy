@@ -173,7 +173,7 @@ I've made mistakes in these spaces. I've been accused of things I didn't do. I'v
 
 I was inspired to write this after witnessing a witch hunt firsthand.
 
-Someone made a medium-severity mistake. Another person responded with high-severity aggression—character assassination, accusations of being a predator, mobilizing others to pile on. It was completely out of proportion. And I watched about a third of the people in that space believe it and join in.
+Someone made a medium-severity mistake. Another person responded with high-severity aggression—character assassination, accusations of being a predator, mobilizing others to pile on. It was completely out of proportion. And about a third of the people in that space believed it and joined in.
 
 What struck me wasn't just the injustice. It was how many people were scared, clueless, and had no idea how to see clearly or respond appropriately. They didn't have language for what was happening. They didn't have a framework. They just reacted—from fear, from trauma, from mob instinct.
 
@@ -181,11 +181,11 @@ I realized: **this is the singular area where our spaces need help.**
 
 Sex-positive communities have so much going for them. But when conflict arises, when mistakes happen, when someone cries victim loud enough—we fall apart. We start witch hunts. We destroy people who made honest mistakes. We let fear run the show.
 
-Instead of sitting around feeling pissed off about what happened to me, I decided to be a creator instead of a victim. What if I could educate everyone around me? What if I could give people the language, the frameworks, the clear seeing to handle these situations? What if, next time someone tries to start a witch hunt against me or anyone I care about, it gets shut down because everyone knows better?
+Watching that happen, I made a decision. Instead of just feeling angry about it, I'd be a creator instead of a victim. What if I could educate everyone around me? What if I could give people the language, the frameworks, the clear seeing to handle these situations? What if, next time someone tries to start a witch hunt, it gets shut down because everyone knows better?
 
 That's why this book exists.
 
-I also have a unique ability to see through the stories people operate on—to spot the delusions, the distortions, the places where someone's trauma is running the show instead of their thinking. I'm very introspective, and I've spent years thinking through the edge cases and counterintuitive angles. Most of what's in this book, people haven't considered. When they read it, they'll realize: "I've thought about maybe 10% of this."
+I also have a unique ability to see through the stories people operate on—to spot the delusions, the distortions, the places where someone's trauma is running the show instead of their thinking. I've spent years thinking through the edge cases and counterintuitive angles. Most of what's in this book, people haven't considered. When they read it, they'll realize: "I've thought about maybe 10% of this."
 
 This book is meant to be a beacon of clarity in spaces that desperately need it.
 
