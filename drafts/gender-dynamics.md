@@ -181,7 +181,39 @@ If you're a male facilitator, you need to know:
 
 **You have a target on your back.**
 
-Not because you did anything wrong. But because:
+Not because you did anything wrong. But because cultural narratives about patriarchy and male predators have given women a specific power that men simply don't have: **the power to cry victim and be believed.**
+
+This isn't theoretical. It's actively used—and often abused—in these spaces.
+
+See: [Power Dynamics](../src/concepts/power-dynamics.md) — how participants often have more power over facilitators than the reverse, and how that power gets abused.
+
+### The Asymmetry You Face
+
+Women in these spaces have offensive options you don't have:
+
+- They can make accusations (true or false) and be believed by default
+- They can rally Rescuers to their side without verification
+- They can start witch hunts with emotional appeals
+- They can threaten your reputation, livelihood, and career
+
+And here's the brutal double standard:
+
+**If you behaved as inappropriately as someone abusing their power to accuse you, you would be labeled a predator.**
+
+If you:
+
+- Made unverified public accusations against a participant
+- Started a witch hunt based on vibes
+- Used your position to threaten someone's reputation
+- Mobilized a group against someone without facts
+
+...you'd be (rightly) called an abuser. But when participants do this to you, they often get sympathy, support, and followers.
+
+You can't fight back using the same weapons. Defending yourself too aggressively makes you look guilty. You're expected to "take responsibility" even when you've done nothing wrong. And the mob doesn't wait for facts.
+
+This is the reality. Name it. Prepare for it.
+
+### Why This Happens
 
 - Cultural stories about male predators are strong
 - Some participants will project their trauma onto you
