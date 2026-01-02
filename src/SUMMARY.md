@@ -15,8 +15,8 @@
 # The Core Reframe
 
 - [Responsibility](./concepts/responsibility.md)
-- [How Much Power Do You Have?](./concepts/your-power.md)
 - [Drama Triangle](./concepts/drama-triangle.md)
+- [How Much Power Do You Have?](./concepts/your-power.md)
 
 ---
 

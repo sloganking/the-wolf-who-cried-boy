@@ -102,6 +102,18 @@ But if you see your power as vast—if you recognize that you can influence far 
 
 I take responsibility for everything because I recognize I have the power to influence everything.
 
+## Why This Matters for the Drama Triangle
+
+You've seen the [Drama Triangle](./drama-triangle.md)—the choice between Victim and Creator.
+
+Here's the connection: **Seeing yourself as having unlimited creative potential is the only way to be a Creator at all times.**
+
+If you believe your power is limited, there will always be situations where you feel forced into Victim mode. "In THIS situation, I really AM powerless. I have no choice but to be a Victim here."
+
+But if you recognize that your power is unlimited—that there is no domain where you are fundamentally incapable of affecting outcomes—then Creator is always available. There is no situation where Victim is your only option.
+
+This is why the Creator role isn't just a nice idea for easy situations. It's a stance you can hold everywhere, always—because your power to create is everywhere, always.
+
 ---
 
 ## Even If You Don't Fully Believe This
