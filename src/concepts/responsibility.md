@@ -207,7 +207,13 @@ Even when someone else made the mistake, you can ask:
 
 This isn't self-blame. It's self-empowerment.
 
-See: [100% Control](../tools/100-percent-control.md)
+But here's the deeper question: **How much power do you actually have?**
+
+Most people dramatically underestimate their power. They think they're small, limited, capable of affecting only what's right in front of them. What if that's a lie your culture taught you?
+
+See: [How Much Power Do You Have?](./your-power.md) — A deeper exploration
+
+See also: [100% Control](../tools/100-percent-control.md)
 
 ## The Responsibility Mirror
 
