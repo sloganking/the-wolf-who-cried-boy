@@ -529,7 +529,11 @@ And if you then play victim afterward—attacking them for believing your lie—
 
 Your no isn't selfish. Your no is love. And your yes, when it's real, is a gift they can trust.
 
-But over time—after you've encountered people who fawn and then attack—something shifts.
+### When You're on the Receiving End
+
+Everything above is about learning to say no. But what about receiving one?
+
+Over time—after you've encountered people who fawn and then attack—something shifts.
 
 No starts to feel like a gift.
 
