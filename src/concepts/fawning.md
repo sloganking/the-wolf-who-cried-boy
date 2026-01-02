@@ -226,6 +226,13 @@ One of these paths leads to safety, growth, and genuine connection.
 
 The other leads to endless cycles of violation, blame, and victimhood.
 
+Here's the good news:
+
+> **"The best part of being part of the problem is you can be part of the solution."**
+> — Tony Robbins
+
+If your fawning creates problems, that means you have the power to stop creating them. You're not helpless. You're not at the mercy of others. You usually have [100% control](../tools/100-percent-control.md) over whether you get the outcomes you want—if you're willing to use it.
+
 ## What Taking Responsibility Looks Like
 
 "But fawning is automatic," you might say. "Even when I'm aware of it, I watch myself do it and feel like I have no control. How can I take responsibility for something I can't control in the moment?"
@@ -531,7 +538,7 @@ Your no isn't selfish. Your no is love. And your yes, when it's real, is a gift 
 
 ### When You're on the Receiving End
 
-Everything above is about learning to say no. But what about receiving one?
+Everything above is about learning to say no. But what about receiving a no?
 
 Over time—after you've encountered people who fawn and then attack—something shifts.
 
