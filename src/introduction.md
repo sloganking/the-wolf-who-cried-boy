@@ -169,33 +169,9 @@ I've gone from a 7-year dry spell to having five times as many meaningful connec
 
 I've made mistakes in these spaces. I've been accused of things I didn't do. I've fawned when I should have set boundaries. I've watched people destroy each other with witch hunts based on vibes instead of facts. And I've learned—the hard way—how to navigate all of it with more clarity and less harm.
 
-### Why This Book Exists
+Our spaces have so much going for them. But when conflict arises—when someone cries victim, when accusations fly, when mistakes get treated like malice—most people have no framework. They just react from fear, trauma, and mob instinct. **This is the single area where our communities need the most help.** And nobody was teaching it.
 
-I was inspired to write this after witnessing a witch hunt firsthand.
-
-Someone made a medium-severity mistake. Another person responded with high-severity aggression—character assassination, accusations of being a predator, mobilizing others to pile on. It was completely out of proportion. And about a third of the people in that space believed it and joined in.
-
-What struck me wasn't just the injustice. It was how many people were scared, clueless, and had no idea how to see clearly or respond appropriately. They didn't have language for what was happening. They didn't have a framework. They just reacted—from fear, from trauma, from mob instinct.
-
-Sex-positive communities have so much going for them. But when conflict arises, when mistakes happen, when someone cries victim loud enough—we fall apart. We start witch hunts. We destroy people who made honest mistakes. We let fear run the show.
-
-Watching that happen, I made a decision. Instead of just feeling angry, I'd create something.
-
-**This is the single area where our spaces need the most help.** And nobody is teaching it.
-
-Every retreat I attend, every party I go to, I see the same patterns:
-
-- People who fawn and don't know they're doing it
-- People who play victim instead of owning their power
-- People stuck in misery because they've never examined their stories
-
-These patterns repeat everywhere. People stay stuck in them for years—sometimes forever—because no one gives them the language to see what's happening.
-
-That's the gap this book fills.
-
-This book is meant to be a beacon of clarity in spaces that desperately need it.
-
-Everything in this book comes from lived experience. The concepts aren't theory—they're what I learned from years of making mistakes, processing them, and growing.
+So I built this. Everything here comes from lived experience—years of making mistakes, processing them, and growing. This book is the framework I wish everyone had.
 
 This work became my path. I trained with some of the best in the field:
 
