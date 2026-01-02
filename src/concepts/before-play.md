@@ -71,6 +71,29 @@ Before playing with anyone with significant intimacy, figure out:
 
 If you're playing with someone who has a partner and you didn't know, you may be in for a surprise when a mistake occurs and suddenly you're dealing with someone you've never met who's explosively angry.
 
+### Assessing Couple Stability
+
+Not all couples are equally safe to play with. Ask yourself:
+
+- **Are they emotionally stable?** Have you seen them fighting in the container? What were those disagreements about?
+- **Are they experienced?** Have they played with others before, regularly? Or is this their first time in a sex-positive space?
+- **Do they have precedent?** If they've done this before and it went well, they have a track record. If this is new territory, there's higher risk of jealousy, upset, or unexpected reactions.
+- **Is one of them more ready than the other?** Sometimes one partner says they're good with it, but they're not really. Or one partner pressured the other into "being open."
+
+Once you recognize the situation, ask yourself: Am I comfortable engaging with someone in this relationship state?
+
+### A Note on Couples at Retreats
+
+In my experience at sex-positive retreats: **couples often have more drama than single people.**
+
+Whatever crack exists in a relationship—whatever imperfection, whatever point of stress—it will surface at a retreat where people can flirt and have sex with others. One partner talks to someone attractive. The other feels jealous. Old wounds get triggered. Arguments happen.
+
+Some couples are robust. They've been in these spaces for years. They love each other deeply. They play with others regularly and it brings them closer together. That's awesome.
+
+Other couples are newer, or shaky, or came to the retreat hoping it would "fix" something. Those couples are riskier to engage with.
+
+On average, couples bring more potential drama than single people. That's not a reason to avoid them entirely—just something to be aware of when you're deciding who to play with.
+
 **Example questions:**
 
 - "Are you in any relationships right now?"
