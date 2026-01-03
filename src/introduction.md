@@ -175,6 +175,8 @@ Welcome to clearer thinking.
 
 ## About the Author
 
+<img src="./images/logan.jpg" alt="Logan King" width="250" style="border-radius: 8px; float: right; margin-left: 20px; margin-bottom: 10px;">
+
 A few years ago, I was barely surviving.
 
 I was in a seven-year dry spell—no romance, no intimacy, no touch. I was having panic attacks that lasted eight hours, every other day. I was borderline suicidal, overwhelmed with intrusive thoughts I'd never experienced before. I genuinely believed I was the most hopeless case I'd ever seen.
