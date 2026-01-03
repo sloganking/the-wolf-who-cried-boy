@@ -38,6 +38,7 @@
 
 - [Before You Judge](./concepts/before-you-judge.md)
 - [Appropriate Response](./concepts/appropriate-response.md)
+- [I Made a Mistake](./concepts/i-made-a-mistake.md)
 - [Making It Right](./concepts/making-it-right.md)
 
 ---

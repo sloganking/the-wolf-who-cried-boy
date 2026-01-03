@@ -47,6 +47,7 @@ Everything at a glance. New here? Start with the [Introduction](./introduction.m
 | ---------------------------------------------------------- | ----------------------------------- |
 | [Before You Judge](./concepts/before-you-judge.md)         | Do you actually know what happened? |
 | [Appropriate Response](./concepts/appropriate-response.md) | Match response to severity          |
+| [I Made a Mistake](./concepts/i-made-a-mistake.md)         | What to do after you've erred       |
 | [Making It Right](./concepts/making-it-right.md)           | Repair over punishment              |
 
 ---
