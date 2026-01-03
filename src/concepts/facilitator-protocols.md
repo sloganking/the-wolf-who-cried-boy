@@ -88,10 +88,24 @@ These are protective. They create safety.
 
 - Using the incident as an excuse to publicly attack their character
 - Mobilizing others against them before verification
-- Demanding their removal based on your anger, not the severity of what happened
+- Responding to a MEDIUM severity infraction with HIGH severity action—that's attack, not defense
 - Calling your aggression "defense" when you're really indulging your anger
 
 Here's the key: **Defense protects. Aggression punishes.**
+
+### Your Rights Regarding Removal
+
+**You DO have the right to:**
+
+- Ask the facilitators to enforce our stated agreements
+- Request that we review whether someone has violated a removal-worthy rule
+- Expect us to act if someone has genuinely crossed those lines
+
+**You do NOT have the right to:**
+
+- Demand that someone leave if they haven't violated the stated rules
+- Pressure facilitators to remove someone based on your anger rather than the agreements
+- Treat your emotional reaction as equivalent to a rule violation
 
 If your primary goal is to make sure you and others are safe, you're in defense. If your primary goal is to make the other person pay, you're in aggression—even if you're calling it "holding them accountable."
 
