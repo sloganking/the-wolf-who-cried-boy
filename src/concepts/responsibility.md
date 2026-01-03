@@ -337,6 +337,44 @@ The compassionate response isn't to take their responsibility. It's to help them
 
 When someone is playing victim and trying to make you carry their responsibility, the most loving thing you can do—for both of you—is to decline. You take yours. They take theirs. That's the only path to real resolution.
 
+### When Their Ears Are Closed
+
+Sometimes you'll try to have a conversation with someone who's highly emotionally charged. They're attacking you. They're playing victim. They're seeing you through their [traumas and filters](./trauma-and-filters.md).
+
+And their ears are closed.
+
+**Why this happens:**
+
+There's some foundational belief they have about you—that you're a predator, that you intended harm, that you're the villain—and they've already decided it's true before the conversation started. Because they're emotionally activated, they're not doing things like [Notice, Feel, Story](../tools/notice-feel-story.md) to check their interpretation. They're not open to new information.
+
+No matter how perfect your logical argument, you will not change their mind in this moment.
+
+**What to understand:**
+
+1. **It's not your job to change what they believe.** Them seeing things clearly so they can create good things instead of attacking the wrong people—that's their responsibility, not yours.
+
+2. **You don't have to take their attacks.** If they're not speaking to you with dignity and respect, you are not obligated to stand there and receive it. Setting the boundary "I'm not available to be spoken to this way" is the proper action. Then disengage.
+
+3. **Not fawning is the kindest thing you can do for them.** If you appease them when they're angry, you reinforce their story. You're telling them: "Your behavior is acceptable. Your view of me is correct. How you're handling this is proper." That's a lie—and it's a disservice to them.
+
+4. **Your resistance plants a seed.** If you offer no resistance, when they calm down they'll never ask themselves: "Was my thinking out of line? Do I need to rethink how I operate?" You never showed them anything was wrong. But if you hold your ground—through your actions and perhaps a few words—you give them something to reflect on later.
+
+**What to do:**
+
+1. **Say your truth clearly.** Not a lecture. Not a defense. Just: "I believe what you're saying is wrong, and I'm not going to accept being treated this way."
+
+2. **Disengage.** You've done your part. You don't have to follow them around trying to convince them. That's not your job.
+
+3. **Let them be.** They may reflect later. They may not. That's their responsibility, not yours.
+
+4. **Remain open if they return.** If they come back and say "Actually, I think you might have been partly right. Can you share more?"—then you can offer your perspective if you want to.
+
+**Why this matters beyond the moment:**
+
+If you don't offer resistance—if by your actions you communicate that their story is valid and they're justified when they're not—then you will be partially responsible for the people this person hurts in the future.
+
+You're not responsible for whether they believe you and change. But you ARE responsible for doing your part to show them the error. After that, let go.
+
 ---
 
 ## Related
