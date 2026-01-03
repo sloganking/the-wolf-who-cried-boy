@@ -249,6 +249,59 @@ They're pointing fingers while refusing to look at their own hands.
 
 And often, the mob does more harm than the original incident.
 
+## Decline False Responsibility
+
+Here's the flip side of everything above: **You are not responsible for more than you're responsible for.**
+
+When someone plays victim, they act powerless. They refuse to see their own agency. And because they won't take responsibility for their part, they try to push it onto you.
+
+This looks like:
+
+- "You made me feel this way" (when their feelings are their own responsibility)
+- "You should have known" (when they didn't communicate)
+- "This is all your fault" (when they also made choices that contributed)
+- "You have to fix this" (when the repair requires their participation too)
+
+**You need to decline these bids for false responsibility.**
+
+Not because you're trying to avoid accountability. But because taking responsibility for things that aren't yours:
+
+1. **Enables their victim pattern** — If you take their responsibility, they never have to grow
+2. **Disempowers you** — You're accepting blame for things you can't control
+3. **Creates an impossible standard** — You can't be responsible for their choices, feelings, or growth
+4. **Isn't actually helpful** — Real repair requires both people owning their parts
+
+### What This Sounds Like
+
+| They Say                 | You Can Respond                                                                                        |
+| ------------------------ | ------------------------------------------------------------------------------------------------------ |
+| "You made me feel..."    | "I'm responsible for my actions. You're responsible for your interpretations and feelings about them." |
+| "You should have known"  | "I'm responsible for asking. You're responsible for communicating."                                    |
+| "This is all your fault" | "I'm responsible for my part. What's your part?"                                                       |
+| "Fix this"               | "I'll do what I can to repair. What will you do?"                                                      |
+
+### The Balance
+
+This isn't a loophole to avoid accountability. You ARE responsible for:
+
+- Your actions and inactions
+- How you communicated (or didn't)
+- Your response when things went wrong
+- Making repair for harm you caused
+
+You are NOT responsible for:
+
+- Their feelings (only your actions that contributed to them)
+- Their interpretation of events
+- Their choice not to communicate
+- Their trauma responses
+- Their growth or lack thereof
+- Their decision to forgive or not
+
+**Own your part fully. Decline to own theirs.**
+
+When someone is playing victim and trying to make you carry their responsibility, the most loving thing you can do—for both of you—is to decline. You take yours. They take theirs. That's the only path to real resolution.
+
 ---
 
 ## Related
