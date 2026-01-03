@@ -76,11 +76,44 @@ Here's a starter set of rules you might adapt for your container:
 
 This isn't about being harsh. It's about being clear. When people know exactly where the lines are, they can relax inside them.
 
+### Why This Benefits You (The Facilitator)
+
+These rules aren't just for participants. They're for you.
+
+**Clarity on when to act:** When you've clearly stated what will result in removal, you don't have to agonize over decisions in the moment. Someone threatens violence? You already said that's grounds for removal. Done. No second-guessing.
+
+**Accountability to your own values:** Writing it down and sharing it publicly keeps you honest. If you say "threats of violence result in removal" but then let it slide because you're scared of the person, a participant can point to your own rules and help you walk your talk.
+
+**A reference when you're unsure:** In the heat of a situation, you can ask yourself: "Did they violate one of my stated rules?" If yes, act. If no, work through it. The list becomes your decision-making framework.
+
+**Protection from accusations of targeting:** When everyone knows the rules upfront, your enforcement looks like consistency, not personal vendetta.
+
 ### Communicate This Early
 
 This should be communicated at the very beginning of your container—before anything happens. Not after someone makes a mistake. Not as a reaction to conflict.
 
 When it's established upfront, it's a framework for safety. When it's announced mid-conflict, it looks like targeting.
+
+### Example: How to Present This
+
+Here's language you might use at the opening of your container:
+
+> "Before we begin, I want to be clear about the agreements in this space.
+>
+> **As long as you operate in good faith—communicating honestly, respecting stated boundaries, checking in when uncertain, and treating others with dignity—you are safe here.** You can make mistakes. You can try things that don't work. You can get triggered and need to step away. None of that will get you removed. I have your back.
+>
+> **There are four things that will result in being asked to leave:**
+>
+> 1. Threats of physical violence—verbal, physical, or implied
+> 2. Intentional malice—deliberately trying to harm someone
+> 3. Repeated boundary violations after being told to stop
+> 4. Weaponizing victim status to attack rather than resolve
+>
+> These are the lines. Inside them, you're protected. Outside them, you're not.
+>
+> This isn't about being harsh. It's about being clear. When you know exactly where the boundaries are, you can relax inside them."
+
+You can adapt this language to your style. The key is: **say it early, say it clearly, and put it in writing if possible.**
 
 ---
 
