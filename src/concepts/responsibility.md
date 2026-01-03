@@ -337,6 +337,22 @@ The responsible thing to do when someone is playing victim is to **call it out**
 
 That's the Creator move. Taking their responsibility for them keeps them stuck in Victim.
 
+### The Audience Effect
+
+If your dispute is happening in public—with people witnessing—there's an even bigger reason to stand your ground.
+
+**First:** Even if the person you're talking to doesn't come around in the moment, they might later. There have been plenty of times I've disagreed with someone during an argument, but later, when reflecting, realized: "You know what, they had a good point. They were actually right."
+
+**But perhaps more importantly:** Even if your accuser never sees the truth, the audience might.
+
+Some in the audience may be forming a mob mentality, viewing things through their own limitations and stories. But because you stood up, called out where the accuser was being irresponsible, and held your ground—multiple people in that audience may have a breakthrough.
+
+They might think: "Oh my god, witnessing this right now, I see how _I've_ been the accuser in my life. I've been treating people poorly. The person defending themselves is completely right."
+
+You might do more good in the world with an audience to your dispute than without one. By standing your ground publicly, you're not just speaking to one person—you're modeling something for everyone watching.
+
+Your resistance becomes a teaching moment for people you'll never know you reached.
+
 ### They May Not Be Malicious
 
 When someone asks you to take responsibility for things that are theirs to own, it's often not manipulation. They may genuinely not see it.
