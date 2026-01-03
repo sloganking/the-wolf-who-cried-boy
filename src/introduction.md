@@ -24,15 +24,13 @@ It's not about being perfect. It's about knowing what to do when things aren't.
 
 ### A Note for Facilitators
 
-**Every facilitator should read this book.**
+If you hold space for others, this content is especially relevant to you.
 
-You will encounter all of this. Fawning, over-responses, witch hunts, trauma reactions, people playing victim, people who made honest mistakes being treated like predators. It will come up. And when it does, you'll be the person asked to handle it.
+You'll encounter all of this: fawning, over-responses, trauma reactions, people playing victim, honest mistakes treated like malice. When it happens, you'll be the one asked to handle it—often in real-time, with incomplete information, while everyone watches.
 
-The problem is: you come from the same culture as everyone else. You grew up in a society that doesn't teach this. You may have years of experience holding space, but that doesn't mean you automatically know how to handle a participant mobilizing against another, or how to respond when someone's trauma makes them see malice in an accident, or how to protect someone being unfairly attacked while still honoring the accuser's experience.
+Most facilitator trainings don't cover this. They teach you how to hold space, guide exercises, support people in process. They don't teach you what to do when a participant starts a witch hunt, or when someone's trauma makes them see predators everywhere, or when you need to protect someone being unfairly attacked while still honoring the accuser's pain.
 
-These concepts aren't intuitive. They're not taught in most trainings. And getting them wrong creates real harm—sometimes more harm than the original incident.
-
-Read this. Know this. Be ready.
+This book won't give you all the answers. But it will give you a framework—a way to think through these situations more clearly than just reacting from instinct.
 
 ---
 
