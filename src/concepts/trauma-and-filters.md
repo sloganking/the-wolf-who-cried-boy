@@ -65,7 +65,7 @@ But there was a story in between. It happened so fast you didn't see it.
 
 This is why two people can witness the exact same event and have completely opposite emotional reactions. They're not reacting to the event—they're reacting to their stories about the event.
 
-## Sex Is Political
+## Sex Is Politics
 
 Here's something that explains why people are so bad at seeing clearly in these spaces:
 
@@ -75,7 +75,7 @@ There's a [fascinating study](https://youtu.be/zB_OApdxcno?si=TdsW5Isfr8Jsw9QM) 
 
 But when the exact same numbers were presented in a political context (gun control), something changed. People stopped analyzing the data. They came with preconceived conclusions and worked backward to justify them. Even the smartest, most numerate people failed—because they weren't doing math anymore. They were defending their tribe.
 
-**Sex is political.**
+**Sex is politics.**
 
 Even if you've never been traumatized, even if you've never witnessed victimization firsthand, you've grown up in a culture that:
 
