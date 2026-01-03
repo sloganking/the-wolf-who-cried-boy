@@ -66,7 +66,8 @@ Here's a starter set of rules you might adapt for your container:
 1. **Threats or acts of physical violence** — Verbal, physical, or implied. This includes intimidation through body language—walking up to someone aggressively, getting in their face, making them fear you might assault them. You don't have to say "I will punch you" for it to count. Interpretation is up to the facilitators and is not up for debate. Non-negotiable. (See: [Threats of Violence Must Be Stopped Immediately](#threats-of-violence-must-be-stopped-immediately))
 2. **Intentional malice** — Deliberately trying to harm someone. If you're intentionally malicious, you're out. Not because of judgment, but because we can't risk escalation.
 3. **Repeated boundary violations after being told** — One mistake is human. Continued violation after clear communication is a pattern.
-4. **Character assassination and triangulation** — Overt attempts to destroy someone's reputation or mobilize others against them. If you're trying to get people to gang up on someone rather than resolving the issue directly, you've crossed from defense into aggression.
+4. **Using victim status as an excuse to attack** — Whether it's your own victimhood or someone else's you're "protecting," victim status is not a license to attack. Defense is acceptable; aggression disguised as defense is not. (See: [Power Dynamics](./power-dynamics.md))
+5. **Character assassination and triangulation** — Overt attempts to destroy someone's reputation or mobilize others against them. If you're trying to get people to gang up on someone rather than resolving the issue directly, you've crossed from defense into aggression.
 
 ### Defense vs. Aggression
 
@@ -152,12 +153,13 @@ Here's language you might use at the opening of your container:
 >
 > You can make mistakes. You can try things that don't work. You can get triggered and need to step away. You can not know things you 'should' know. None of that will get you removed. You are protected.
 >
-> **There are four things that will break this protection:**
+> **There are five things that will break this protection:**
 >
 > 1. Threats or acts of physical violence—verbal, physical, or implied through body language. Interpretation is up to me, not up for debate.
 > 2. Intentional malice—deliberately trying to harm someone
 > 3. Repeated boundary violations after being told to stop
-> 4. Character assassination or triangulation—trying to destroy someone's reputation or get others to gang up on them
+> 4. Using victim status as an excuse to attack—yours or someone else's. Victim status is not a license to attack.
+> 5. Character assassination or triangulation—trying to destroy someone's reputation or get others to gang up on them
 >
 > If you cross these lines, I cannot guarantee your place here.
 >
