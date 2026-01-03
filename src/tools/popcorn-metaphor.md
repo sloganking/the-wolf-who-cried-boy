@@ -66,6 +66,8 @@ The Giant didn't want to do it. He wasn't thinking. His programming—like traum
 
 This is what happens when people make mistakes out of unconsciousness. They're not bad. They're not malicious. Something automatic fired that they didn't choose.
 
+The Iron Giant is pure goodness—but lacks wisdom about his own nature. He doesn't know what will trigger his programming. That's why goodness alone isn't enough. (See: ["Goodness without wisdom always creates evil"](../concepts/i-made-a-mistake.md#why-mistakes-are-necessary))
+
 ## For Facilitators
 
 > My position, if mistakes happen in the container, is for you to tell us, the facilitators.
