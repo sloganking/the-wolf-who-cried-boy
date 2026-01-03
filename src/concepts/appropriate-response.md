@@ -141,6 +141,71 @@ When a mistake happens, follow this process:
 6. MATCH RESPONSE to SEVERITY
 7. AIM for REPAIR
 
+## Assume Good Intent
+
+By default, always assume the best about the person who made the mistake—until you have qualified information that demonstrates otherwise.
+
+When someone crosses a boundary, assume they got carried away and forgot. Say something like:
+
+> "Hey, I assume you forgot, but as a polite reminder—my boundary is that I'm not available for this. You can't do that to me right now."
+
+**Nine times out of ten, the mistake was unconscious.** They'll apologize, maybe profusely, and likely take action to make it right.
+
+This approach:
+
+- Helps them grow and become more conscious
+- Enforces your boundaries without attacking
+- Doesn't tolerate the behavior
+- Offers a chance for repair instead of punishment
+- Can lead to a net positive outcome where they add more value than was taken
+
+The alternative—vilifying them, calling them a predator, demanding they leave—might feel righteous, but it:
+
+- Destroys any chance of repair
+- Creates an enemy instead of an ally
+- Often causes more harm than the original mistake
+- Makes YOU the source of harm
+
+## Give People an Opportunity to Win
+
+When someone wrongs you, show them a way to win with you. Don't just say "you need to make this right"—that's not a sequence of actions they can follow.
+
+**Make a precise ask.**
+
+Tell them exactly what you would like. They're not obligated to say yes, but now they have:
+
+- A clear path to repair
+- Understanding of what matters to you
+- The option to meet your ask, exceed it, or offer something even better
+
+When you give someone a clear way to win, you might end up with an outcome that's net positive—where the repair was done so well that you got more value from the interaction than was taken.
+
+That's not possible if you attack first.
+
+## Report to Facilitators
+
+Nine times out of ten, people making mistakes are not predators. They're making honest mistakes.
+
+But it's still important to **communicate what happened to the facilitators of the event**—even if you handled it yourself, even if it felt minor.
+
+Why?
+
+- Facilitators hear about incidents you haven't
+- They can track patterns across participants
+- If someone is crossing boundaries regularly, that changes the assessment
+
+Someone who makes mistakes repeatedly is either:
+
+1. **Malicious** — and action needs to be taken to remove them
+2. **Extremely clumsy** — unconscious mistakes happening too often, needs intervention
+3. **Operating from wrong thinking** — needs correction, but could become an outstanding community member with guidance
+
+The facilitators can figure out which it is and handle it appropriately. But they can only do that if people tell them what's happening.
+
+**Don't just let it slide.** Let the facilitators know.
+
+---
+
 ### Warning Signs You're Over-Responding
 
 - You want to hurt them back
