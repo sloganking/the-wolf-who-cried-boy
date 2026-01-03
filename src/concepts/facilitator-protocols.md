@@ -143,11 +143,17 @@ When it's established upfront, it's a framework for safety. When it's announced 
 
 Here's language you might use at the opening of your container:
 
-> "Before we begin, I want to be clear about the agreements in this space.
+> "Before we begin, I want to make a sacred promise to you.
 >
-> **As long as you operate in good faith—communicating honestly, respecting stated boundaries, checking in when uncertain, and treating others with dignity—you are safe here.** You can make mistakes. You can try things that don't work. You can get triggered and need to step away. None of that will get you removed. I have your back.
+> This promise is the foundation everything else rests on. It's the prime directive of this container. Every decision I make as your facilitator will orient around it.
 >
-> **There are five things that will result in being asked to leave:**
+> **Here is my promise:**
+>
+> **As long as you operate in good faith—communicating honestly, respecting stated boundaries, checking in when uncertain, and treating others with dignity—you are safe here. I have your back.**
+>
+> You can make mistakes. You can try things that don't work. You can get triggered and need to step away. You can not know things you 'should' know. None of that will get you removed. You are protected.
+>
+> **There are five things that will break this protection:**
 >
 > 1. Threats of physical violence—verbal, physical, or implied
 > 2. Intentional malice—deliberately trying to harm someone
@@ -155,13 +161,15 @@ Here's language you might use at the opening of your container:
 > 4. Weaponizing victim status to attack rather than resolve
 > 5. Character assassination or triangulation—trying to get others to gang up on someone
 >
-> **One more thing:** If something goes wrong—if someone crosses a boundary—you have the right to strong emotions. You have the right to remove yourself, protect yourself, and report to us. These are defensive actions and they're always acceptable.
+> If you cross these lines, I cannot guarantee your place here.
+>
+> **One more thing:** If something goes wrong—if someone crosses a boundary—you have every right to strong emotions. You have every right to remove yourself, protect yourself, and report to us. These are defensive actions and they're always acceptable.
 >
 > What's not acceptable is using an incident as an excuse to attack. If your response shifts from protecting yourself to punishing someone else—public attacks, mobilizing others, demanding removal based on anger—that's aggression, not defense. Even if you're angry, even if the incident was real.
 >
-> These are the lines. Inside them, you're protected. Outside them, you're not.
+> **This is my promise. This is my commitment. This is the ground we stand on.**
 >
-> This isn't about being harsh. It's about being clear. When you know exactly where the boundaries are, you can relax inside them."
+> Inside these lines, you are safe. Outside them, you are not. Know where they are, and you can relax inside them."
 
 You can adapt this language to your style. The key is: **say it early, say it clearly, and put it in writing if possible.**
 
