@@ -129,6 +129,24 @@ Person A still has responsibility to check in and read cues. If they sense somet
 
 If they don't catch it, they're still responsible for not catching it. But they're also a victim of being lied to and doing something they never would have consented to do.
 
+### When They Say Yes Again (And It Still Feels Off)
+
+Here's the hard part: **some fawners will say yes even when you check in.** You ask if they're really a yes. They say yes. You ask again. They say yes again. Three times in a row—and they're still lying.
+
+This means checking in is necessary but not sufficient.
+
+**You have to use your own discernment.**
+
+If you've checked in and they've confirmed yes, but your gut still feels uncertain—something still feels off—then don't play. Their words said yes, but your body is telling you something isn't right.
+
+You are not obligated to play just because they said yes. You always have the right to say:
+
+> "I hear you saying yes, but something in me still doesn't feel settled. I'm going to honor that and not move forward right now."
+
+This isn't about doubting them. It's about trusting yourself.
+
+**The lesson:** Even when you do everything right—check in, ask directly, get verbal confirmation—sometimes they're still fawning. Your final protection is your own felt sense. If it doesn't feel like a real yes to you, it doesn't matter what they say.
+
 | Person   | Responsibility                                                   |
 | -------- | ---------------------------------------------------------------- |
 | Person A | Check in, read cues, create safety for honesty                   |
