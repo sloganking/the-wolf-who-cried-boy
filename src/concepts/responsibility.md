@@ -300,6 +300,41 @@ You are NOT responsible for:
 
 **Own your part fully. Decline to own theirs.**
 
+### Declining Is Responsible
+
+Let's be clear about something:
+
+> **Declining responsibility for things you're not responsible for IS responsible.**
+>
+> **Accepting responsibility for things you're not responsible for IS irresponsible.**
+
+When you accept false responsibility, you're not being noble or self-sacrificing. You're:
+
+- [Fawning](./fawning.md) — saying yes when you mean no
+- Acting out of fear — afraid of their reaction if you don't comply
+- Misreading the [Drama Triangle](./drama-triangle.md) — seeing them as Victim and yourself as Persecutor when that framing is incorrect
+
+The responsible thing to do when someone is playing victim is to **call it out**. Not harshly, but clearly. Help guide them into seeing their own power—how they can create safety for themselves and a future they actually want.
+
+That's the Creator move. Taking their responsibility for them keeps them stuck in Victim.
+
+### They May Not Be Malicious
+
+When someone asks you to take responsibility for things that are theirs to own, it's often not manipulation. They may genuinely not see it.
+
+Possible reasons:
+
+- **Unconscious limiting beliefs** — They truly believe they're powerless
+- **They don't see their power** — No one ever showed them how much agency they have
+- **Cultural conditioning** — They grew up in an environment where one person was expected to take all the responsibility (nonsensical, but common)
+- **Unexamined beliefs** — Ideas that dwell in their subconscious, pop up now and then, and have never been critically examined
+
+This is the same pattern described in [Trauma & Filters](./trauma-and-filters.md). Their story about the situation—"I'm powerless, you did this to me"—feels true to them. It's running in the background, unquestioned.
+
+The compassionate response isn't to take their responsibility. It's to help them see their own power. That's how they grow. That's how they stop being a victim.
+
+### The Path Forward
+
 When someone is playing victim and trying to make you carry their responsibility, the most loving thing you can do—for both of you—is to decline. You take yours. They take theirs. That's the only path to real resolution.
 
 ---
