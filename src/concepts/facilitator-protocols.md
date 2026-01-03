@@ -67,6 +67,35 @@ Here's a starter set of rules you might adapt for your container:
 2. **Intentional malice** — Deliberately trying to harm someone. If you're intentionally malicious, you're out. Not because of judgment, but because we can't risk escalation.
 3. **Repeated boundary violations after being told** — One mistake is human. Continued violation after clear communication is a pattern.
 4. **Weaponizing victim status** — Using accusations, mob dynamics, or emotional manipulation to harm others rather than resolve issues. (See: [Power Dynamics](./power-dynamics.md))
+5. **Character assassination and triangulation** — Overt attempts to destroy someone's reputation or mobilize others against them. If you're trying to get people to gang up on someone rather than resolving the issue directly, you've crossed from defense into aggression.
+
+### Defense vs. Aggression
+
+When something goes wrong—a boundary violation, an unwanted touch, a miscommunication—you have rights:
+
+**Defensive actions are always acceptable:**
+
+- Removing yourself from the situation
+- Separating someone you care about from harm
+- Saying "stop" or "no" firmly
+- Having strong emotions
+- Taking space to process
+- Reporting to facilitators
+
+These are protective. They create safety.
+
+**Aggressive actions are not acceptable:**
+
+- Using the incident as an excuse to publicly attack their character
+- Mobilizing others against them before verification
+- Demanding their removal based on your anger, not the severity of what happened
+- Calling your aggression "defense" when you're really indulging your anger
+
+Here's the key: **Defense protects. Aggression punishes.**
+
+If your primary goal is to make sure you and others are safe, you're in defense. If your primary goal is to make the other person pay, you're in aggression—even if you're calling it "holding them accountable."
+
+When you're activated and angry, it's easy to blur this line. That's why we name it upfront: strong emotions are welcome, defensive actions are protected, but using an incident as license to attack will not be tolerated.
 
 ### The Key Distinction
 
@@ -102,12 +131,17 @@ Here's language you might use at the opening of your container:
 >
 > **As long as you operate in good faith—communicating honestly, respecting stated boundaries, checking in when uncertain, and treating others with dignity—you are safe here.** You can make mistakes. You can try things that don't work. You can get triggered and need to step away. None of that will get you removed. I have your back.
 >
-> **There are four things that will result in being asked to leave:**
+> **There are five things that will result in being asked to leave:**
 >
 > 1. Threats of physical violence—verbal, physical, or implied
 > 2. Intentional malice—deliberately trying to harm someone
 > 3. Repeated boundary violations after being told to stop
 > 4. Weaponizing victim status to attack rather than resolve
+> 5. Character assassination or triangulation—trying to get others to gang up on someone
+>
+> **One more thing:** If something goes wrong—if someone crosses a boundary—you have the right to strong emotions. You have the right to remove yourself, protect yourself, and report to us. These are defensive actions and they're always acceptable.
+>
+> What's not acceptable is using an incident as an excuse to attack. If your response shifts from protecting yourself to punishing someone else—public attacks, mobilizing others, demanding removal based on anger—that's aggression, not defense. Even if you're angry, even if the incident was real.
 >
 > These are the lines. Inside them, you're protected. Outside them, you're not.
 >
