@@ -85,6 +85,33 @@ You've been there. You know the warning signs. You recognize the thinking patter
 
 If you're hiding at home in shame, you can't do that. The wisdom you earned through pain stays locked inside you, helping no one.
 
+### You Become the Clearest Judge
+
+It's not just that you can teach. **You're now the most qualified person to see reality clearly when a similar situation occurs.**
+
+Because you went through it, you've seen:
+
+- The stories and delusions you had about yourself and others
+- The stories and delusions others had about you
+- The unfair ways you may have treated yourself
+- The unfair ways others may have treated you—the over-responses, the wrong actions, the things that need to be accounted for
+- What actually happened versus what people believed happened
+
+You've witnessed all of this firsthand. And then you did something most people never do: you introspected. You thought deeply about what occurred. You gained insights that only come from living through it and then examining it honestly.
+
+When a similar situation happens to someone else, you're the one who can see clearly:
+
+- Who needs to learn what?
+- Who needs to take responsibility for what?
+- Who needs to be protected?
+- What actually needs to happen here?
+
+Everyone else is probably new to this. They haven't thought about it. They don't have the first-person experience that creates deep understanding. They're reacting from fear, from their own unexamined stories, from mob instinct.
+
+You're the one who can cut through the noise and say: "I've been here. Here's what's actually going on. Here's what needs to happen."
+
+That's invaluable. And you can only offer it if you stay in community.
+
 The community needs people who've made mistakes and grown from them. That's how the whole system gets wiser.
 
 Real responsibility looks like:
