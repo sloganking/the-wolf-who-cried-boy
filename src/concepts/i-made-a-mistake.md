@@ -57,7 +57,9 @@ The question isn't "am I a bad person?" It's:
 1. Acknowledge the harm—don't minimize it
 2. Apologize without excessive self-flagellation
 3. Ask what would help repair it (see [Making It Right](./making-it-right.md))
-4. Actually learn—update your behavior going forward
+4. Pay it forward, not just backward
+
+On that last point: don't just help the person you harmed. Use this experience to update your behavior and become the kind of person who doesn't just avoid this mistake in the future—but actively brings delight instead. Maybe you even help others avoid the same mistake. That's how you turn a harm into a net positive for the world.
 
 ---
 
@@ -77,12 +79,32 @@ Be honest with yourself:
 - What need was I trying to meet?
 - What would I do differently if I could go back?
 
+The critical work here is **identifying the wrong thinking** that led to the action. Not just "I shouldn't have done that"—but what belief or idea made it seem okay in the moment?
+
+Once you find it, you need to:
+
+1. Recognize it as wrong thinking that created harm
+2. Clearly articulate the new belief you'll think from instead
+3. Commit to that new thinking—and when the old thought arises, use the memory of this mistake and the pain it caused to remind yourself why you don't think that way anymore
+
+**Example of wrong thinking:**
+
+> "Hickeys just sometimes happen."
+
+This thought disowns your power. Giving someone a hickey is completely in your control—it's an action you take, not something that "happens." This belief allows you to excuse yourself from responsibility for medium-severity harm.
+
+Here's the thing: this idea might not be malicious. You might not think it because you want to violate someone's boundaries. You might think it because whatever culture or family you grew up in just passed this false belief around, and you never actually examined it.
+
+That doesn't make it less harmful. It just means you have unexamined beliefs that need examining.
+
 **What to do:**
 
 1. Full accountability—no minimizing, no excuses
 2. Real apology (see [Making It Right](./making-it-right.md))
-3. Examine the pattern—is this a one-time lapse or a recurring blind spot?
-4. Consider: do you need support (therapy, coaching, community) to address this pattern?
+3. **Identify the wrong thinking**—what idea or belief made this seem okay?
+4. **Replace it**—what will you believe instead? Write it down. Commit to it.
+5. Examine the pattern—is this a one-time lapse or a recurring blind spot?
+6. Consider: do you need support (therapy, coaching, community) to address this pattern?
 
 ---
 
