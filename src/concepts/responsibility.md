@@ -396,15 +396,11 @@ No matter how perfect your logical argument, you will not change their mind in t
 
 **The reframe: Your resistance is a gift.**
 
-Telling them no, showing them where they're wrong, setting boundaries—this is a gift you're giving them.
+You could appease them. It would be easier. The discomfort would end.
 
-It's the hard thing to do. It makes you vulnerable. It creates risk for you. You could just appease them and make the discomfort go away.
+Instead, you're choosing vulnerability. You're accepting risk. You're holding up a mirror that might change the trajectory of their life—and everyone they'll ever interact with.
 
-But instead, you're holding up a mirror. You're giving them the chance to self-reflect in a way that could improve their life—and the lives of everyone they interact with from that point forward.
-
-That's a gift. A costly one. One that requires courage to give.
-
-And having boundaries is always beneficial to you, even when it's scary. You're not just serving them—you're serving yourself by refusing to be treated in ways you don't deserve.
+That's not cruelty. That's love with a cost.
 
 **What to do:**
 
