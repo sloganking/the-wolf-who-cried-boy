@@ -110,6 +110,16 @@ Everyone else is probably new to this. They haven't thought about it. They don't
 
 You're the one who can cut through the noise and say: "I've been here. Here's what's actually going on. Here's what needs to happen."
 
+### Even More Qualified Than Facilitators
+
+Here's something people don't realize: **your experience may make you more qualified to judge certain situations than the facilitators running the event.**
+
+We assume facilitators have seen everything. We assume they know how to handle whatever comes up. But that's not always true. They may have been in these spaces for years and still never encountered what you went through.
+
+Wisdom comes from embodied, lived experience—not from titles or roles. If you've been through something specific, introspected deeply, and gained real insight, you may have an extremely valuable perspective that could help the facilitators when something similar arises.
+
+Don't assume they know better just because they're in charge. Your experience and learned wisdom can guide them toward better outcomes. You're not just a participant—you're a resource.
+
 That's invaluable. And you can only offer it if you stay in community.
 
 The community needs people who've made mistakes and grown from them. That's how the whole system gets wiser.
