@@ -101,6 +101,8 @@ Here's the key: **Defense protects. Aggression punishes.**
 - Request that we review whether someone has violated a removal-worthy rule
 - Expect us to act if someone has genuinely crossed those lines
 
+In fact, we welcome it. We invite you to help us walk our talk and maintain our integrity. If you see us failing to uphold our own agreements, tell us. Be an ally in keeping this container safe. We want that partnership.
+
 **You do NOT have the right to:**
 
 - Demand that someone leave if they haven't violated the stated rules
