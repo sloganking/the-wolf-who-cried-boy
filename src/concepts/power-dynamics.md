@@ -81,6 +81,9 @@ If you are a participant, you have power. Significant power. The question is how
 - Calling out harmful behavior you verified actually happened
 - Setting boundaries and leaving when they're crossed
 - Asking for accountability proportional to what occurred
+- Offering your perspective and wisdom to facilitators when you see something they might be missing
+
+On that last point: if you've been through significant experiences and gained insight, you may have perspective that even experienced facilitators lack. Don't assume they've seen everything—they haven't. Your wisdom is a resource. Offer it respectfully. (See: [Your First Officer](./facilitator-protocols.md#your-first-officer))
 
 **This IS abuse:**
 

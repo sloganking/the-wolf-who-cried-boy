@@ -100,6 +100,41 @@ Your actions are louder than your words. Every time.
 
 ---
 
+## Your First Officer
+
+> **"Every good captain needs a first officer who will tell him when he's wrong."**  
+> — _Star Trek: Strange New Worlds_ ([clip](https://photos.app.goo.gl/B8xWSpnxTAubvVi78))
+
+As a facilitator, you need people around you who will tell you when you're wrong.
+
+Not yes-men who agree with everything you say. Not people who are afraid to challenge you. You need co-facilitators, assistants, or trusted participants who:
+
+- Have sound judgment you trust
+- Will speak up when they see you making a mistake
+- Can do it respectfully, without undermining your authority
+- Will defer to your final decision even if they disagree
+
+**This is extremely important.** You're human. You have blind spots. You'll make calls in the heat of the moment that aren't right. You need someone who can say: "Hey, I think you might be off here. Have you considered...?"
+
+### How to Find Your First Officer
+
+Look for people who:
+
+- Have wisdom from lived experience (not just opinions)
+- Can disagree without being disagreeable
+- Understand the difference between input and authority
+- Will support your decision publicly even if they challenged it privately
+
+### For Participants: You May Be That Person
+
+If you've been through significant experiences, introspected deeply, and gained real wisdom—you may have perspective that even experienced facilitators lack.
+
+Don't assume they've seen everything. They haven't. Your experience and insight can guide them toward better outcomes. Offer it respectfully. You're not just a participant—you're a potential resource.
+
+See: [You Become the Clearest Judge](./i-made-a-mistake.md#you-become-the-clearest-judge)
+
+---
+
 ## Everyone Deserves Dignity and Respect
 
 ### The Puja Principle
