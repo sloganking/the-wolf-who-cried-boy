@@ -103,6 +103,15 @@ When you have your first awkward moment, read the section on [Severity](./concep
 
 Learning sticks better when it's immediately applicable. Real experiences make these concepts click in ways that reading alone can't.
 
+> **"Goodness without wisdom always creates evil."**  
+> — _Stranger in a Strange Land_
+
+You can enter these spaces with a pure heart and the best of intentions—and still make mistakes. That's not a character flaw. It's what happens when wisdom hasn't caught up to goodness yet. And wisdom requires lived experience.
+
+Even if you read everything in this book and understand it intellectually, **embodied wisdom will require making the mistakes yourself.** Not just "I read it says to avoid this"—but "I made this mistake, it fucking hurt, and I remember that pain. I'm not doing that again."
+
+This book gives you the map. Living gives you the territory.
+
 **That said, if you want the foundation:**
 
 1. [Severity](./concepts/severity.md) — The scale of harm

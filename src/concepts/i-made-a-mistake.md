@@ -205,7 +205,33 @@ Not in a toxic-positivity way—real harm happened, and that matters. But you no
 
 **The question is:** what will you do with that knowledge?
 
-The person who makes a mistake and learns nothing is likely to repeat it.
+### Why Mistakes Are Necessary
+
+> **"Goodness without wisdom always creates evil."**  
+> — _Stranger in a Strange Land_
+
+You can have a pure heart and the best of intentions—and still cause harm. That's not a character flaw. That's what happens when wisdom hasn't caught up to goodness yet.
+
+And here's the uncomfortable truth: **wisdom requires lived experience.**
+
+You can read this entire book. You can understand it intellectually. You can have every concept readily available in your memory. But that's not the same as embodied wisdom.
+
+Embodied wisdom comes from making the mistakes yourself.
+
+The difference:
+
+| Intellectual Knowledge                 | Embodied Wisdom                                                                             |
+| -------------------------------------- | ------------------------------------------------------------------------------------------- |
+| "I read that I should avoid this"      | "I made this mistake and it fucking hurt. I remember that pain. I am NOT doing that again." |
+| Makes sense in theory                  | Lives in your body                                                                          |
+| Might forget under pressure            | Activates automatically when you're in a similar situation                                  |
+| Learned from someone else's experience | Learned from emotion-creating memories that are now part of you                             |
+
+This is why the work isn't just reading—it's living.
+
+Each mistake you make and learn from becomes a piece of wisdom you carry forward. Not just "I know I shouldn't do that," but a visceral, embodied understanding that shapes your future behavior automatically.
+
+**The person who makes a mistake and learns nothing is likely to repeat it.**
 
 The person who makes a mistake and collapses into shame is too busy suffering to grow.
 
