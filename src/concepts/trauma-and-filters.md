@@ -65,6 +65,33 @@ But there was a story in between. It happened so fast you didn't see it.
 
 This is why two people can witness the exact same event and have completely opposite emotional reactions. They're not reacting to the event—they're reacting to their stories about the event.
 
+## Sex Is Political
+
+Here's something that explains why people are so bad at seeing clearly in these spaces:
+
+**When a topic becomes political, people stop thinking.**
+
+There's a [fascinating study](https://youtu.be/zB_OApdxcno?si=TdsW5Isfr8Jsw9QM) where researchers gave people a chart with numbers and asked them to draw conclusions. When the topic was neutral (like a skin cream's effectiveness), people with high numeracy skills got the right answers regardless of their beliefs.
+
+But when the exact same numbers were presented in a political context (gun control), something changed. People stopped analyzing the data. They came with preconceived conclusions and worked backward to justify them. Even the smartest, most numerate people failed—because they weren't doing math anymore. They were defending their tribe.
+
+**Sex is political.**
+
+Even if you've never been traumatized, even if you've never witnessed victimization firsthand, you've grown up in a culture that:
+
+- Teaches you to fear potential predators everywhere
+- Gives you strong preconceived notions about victims and perpetrators
+- Programs you with "correct" opinions about how things should be handled
+- Fills you with stories about the drama triangle before you ever encounter a real situation
+
+When something happens in an intimate space, most people don't analyze what actually occurred. They don't look at the data. They come with preconceived conclusions and work backward.
+
+They're not responding to reality. They're defending cultural programming.
+
+This is why someone can witness a LOW severity accident and genuinely believe they saw a HIGH severity assault. They're not lying. They're not stupid. **They're operating from filters, not facts.**
+
+And this is why the frameworks in this book matter. They give you a way to override the automatic political response and actually look at what happened.
+
 ## What Trauma Actually Is
 
 Trauma is a **story stored in the body.**
