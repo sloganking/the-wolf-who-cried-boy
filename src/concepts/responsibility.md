@@ -308,11 +308,30 @@ Let's be clear about something:
 >
 > **Accepting responsibility for things you're not responsible for IS irresponsible.**
 
-When you accept false responsibility, you're not being noble or self-sacrificing. You're:
+What you DON'T take responsibility for is just as important as what you DO take responsibility for.
+
+In fact, declining false responsibility requires **more** integrity and resolve than accepting it. It's the harder path. Saying "Okay, you're right, I'll take responsibility for that" when you know it's not yours—that's the easy, cowardly way out. It's acting out of fear.
+
+The courageous path is saying what you actually believe:
+
+> "Your assessment is wrong. I'll take responsibility for what I'm responsible for—but nothing more. Asking me to take responsibility for things that aren't mine, if I allowed that, would make me a victim to you. And I'm not going to do that."
+
+When you accept false responsibility, you're:
 
 - [Fawning](./fawning.md) — saying yes when you mean no
 - Acting out of fear — afraid of their reaction if you don't comply
 - Misreading the [Drama Triangle](./drama-triangle.md) — seeing them as Victim and yourself as Persecutor when that framing is incorrect
+- Making yourself a victim
+
+### This Is Walking Your Talk
+
+If you believe all humans should be treated fairly, with dignity and respect, then the most important application of that belief is **treating yourself** fairly, with dignity and respect—especially when others challenge you.
+
+We live in a world where standing up for yourself is often seen as shirking responsibility. "You're just avoiding accountability." "You won't own your mistakes."
+
+In reality, it's the opposite.
+
+Declining false responsibility IS taking responsibility—for yourself, for the truth, for not participating in a false narrative. It's doing the hard thing. It's doing the right thing, even when others don't understand it.
 
 The responsible thing to do when someone is playing victim is to **call it out**. Not harshly, but clearly. Help guide them into seeing their own power—how they can create safety for themselves and a future they actually want.
 
