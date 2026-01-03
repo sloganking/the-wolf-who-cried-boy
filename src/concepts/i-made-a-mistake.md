@@ -212,22 +212,60 @@ Not in a toxic-positivity way—real harm happened, and that matters. But you no
 
 You can have a pure heart and the best of intentions—and still cause harm. That's not a character flaw. That's what happens when wisdom hasn't caught up to goodness yet.
 
-And here's the uncomfortable truth: **wisdom requires lived experience.**
+Here's the uncomfortable truth: **wisdom requires lived experience.** You can't skip ahead. You can't absorb it from a book. You have to earn it the hard way.
 
-You can read this entire book. You can understand it intellectually. You can have every concept readily available in your memory. But that's not the same as embodied wisdom.
+### The Difference Between Knowing and Understanding
 
-Embodied wisdom comes from making the mistakes yourself.
+You can read this entire book. You can understand every concept intellectually. You can nod along, take notes, tell yourself "I'll remember this."
 
-The difference:
+And then you'll be in a heated moment at 2am, someone attractive is touching you, your judgment is compromised, and everything you "learned" will evaporate. You'll do the thing you knew not to do. And afterward, sitting in the wreckage, you'll think: "I knew better. Why didn't I do better?"
 
-| Intellectual Knowledge                 | Embodied Wisdom                                                                             |
-| -------------------------------------- | ------------------------------------------------------------------------------------------- |
-| "I read that I should avoid this"      | "I made this mistake and it fucking hurt. I remember that pain. I am NOT doing that again." |
-| Makes sense in theory                  | Lives in your body                                                                          |
-| Might forget under pressure            | Activates automatically when you're in a similar situation                                  |
-| Learned from someone else's experience | Learned from emotion-creating memories that are now part of you                             |
+Because knowing isn't the same as understanding.
 
-This is why the work isn't just reading—it's living.
+**Intellectual knowledge** lives in your prefrontal cortex. It's accessible when you're calm, rested, and thinking clearly. Under pressure, it vanishes.
+
+**Embodied wisdom** lives in your nervous system. It's the flinch before you touch a hot stove. It doesn't require thinking—it happens automatically, even when you're tired, triggered, or turned on.
+
+You can't read your way to embodied wisdom. You have to feel your way there.
+
+### How Mistakes Become Wisdom
+
+Here's the process:
+
+1. **You make a mistake.** Something goes wrong. Someone gets hurt—maybe you, maybe them, maybe both.
+
+2. **You feel the pain.** Not intellectually. Actually feel it. The shame, the regret, the look on their face, the aftermath. Let it land.
+
+3. **You connect the pain to the cause.** "This happened because I did X. I did X because I was thinking Y. Thinking Y led to this pain."
+
+4. **Your nervous system records it.** The next time you're about to think Y or do X, your body remembers. It sends a warning signal. Not a thought—a feeling. A hesitation. A "something's wrong here."
+
+5. **You choose differently.** Not because you're trying to remember a rule from a book. Because your body won't let you forget what happened last time.
+
+That's how you become wise. Not by avoiding mistakes, but by making them consciously enough to learn from them.
+
+### The Shortcut That Doesn't Exist
+
+"Can't I just learn from other people's mistakes?"
+
+Partially. Reading this book will help you recognize patterns faster. It'll give you language for what you're experiencing. It'll help you understand what went wrong after the fact.
+
+But it won't stop you from making mistakes in the first place. Because until you've felt the consequences in your own body, the knowledge stays theoretical.
+
+The panic attack after rejection. The sick feeling when you realize you've hurt someone. The weeks of replaying a conversation, wishing you'd said something different. These experiences are your teachers. The pain is the lesson.
+
+You can't outsource your curriculum.
+
+### What This Means for You
+
+You're going to make mistakes. Accept that now.
+
+The goal isn't perfection. The goal is:
+
+- **Make mistakes at lower severity** — A clumsy comment instead of a boundary violation
+- **Recognize them faster** — Minutes instead of months
+- **Repair them better** — Real accountability instead of defensive justification
+- **Actually encode the lesson** — So your body remembers, not just your mind
 
 Each mistake you make and learn from becomes a piece of wisdom you carry forward. Not just "I know I shouldn't do that," but a visceral, embodied understanding that shapes your future behavior automatically.
 
