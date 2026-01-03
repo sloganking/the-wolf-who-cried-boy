@@ -394,6 +394,18 @@ No matter how perfect your logical argument, you will not change their mind in t
 
 4. **Your resistance plants a seed.** If you offer no resistance, when they calm down they'll never ask themselves: "Was my thinking out of line? Do I need to rethink how I operate?" You never showed them anything was wrong. But if you hold your ground—through your actions and perhaps a few words—you give them something to reflect on later.
 
+**The reframe: Your resistance is a gift.**
+
+Telling them no, showing them where they're wrong, setting boundaries—this is a gift you're giving them.
+
+It's the hard thing to do. It makes you vulnerable. It creates risk for you. You could just appease them and make the discomfort go away.
+
+But instead, you're holding up a mirror. You're giving them the chance to self-reflect in a way that could improve their life—and the lives of everyone they interact with from that point forward.
+
+That's a gift. A costly one. One that requires courage to give.
+
+And having boundaries is always beneficial to you, even when it's scary. You're not just serving them—you're serving yourself by refusing to be treated in ways you don't deserve.
+
 **What to do:**
 
 1. **Say your truth clearly.** Not a lecture. Not a defense. Just: "I believe what you're saying is wrong, and I'm not going to accept being treated this way."
