@@ -22,6 +22,18 @@ It's not about being perfect. It's about knowing what to do when things aren't.
 - **Facilitators** who hold these spaces and need to respond when things go wrong
 - **Anyone** who wants to think more clearly about mistakes, responsibility, and repair
 
+### A Note for Facilitators
+
+**Every facilitator should read this book.**
+
+You will encounter all of this. Fawning, over-responses, witch hunts, trauma reactions, people playing victim, people who made honest mistakes being treated like predators. It will come up. And when it does, you'll be the person asked to handle it.
+
+The problem is: you come from the same culture as everyone else. You grew up in a society that doesn't teach this. You may have years of experience holding space, but that doesn't mean you automatically know how to handle a participant mobilizing against another, or how to respond when someone's trauma makes them see malice in an accident, or how to protect someone being unfairly attacked while still honoring the accuser's experience.
+
+These concepts aren't intuitive. They're not taught in most trainings. And getting them wrong creates real harm—sometimes more harm than the original incident.
+
+Read this. Know this. Be ready.
+
 ---
 
 ## Temple Is Concentrated Life
