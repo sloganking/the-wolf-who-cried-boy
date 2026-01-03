@@ -22,6 +22,27 @@ This matters because:
 
 > The person who harmed someone and then spirals into "I'm a terrible person" is not taking responsibility. They're making it about themselves.
 
+### Guilt Is Self-Indulgence
+
+This might sound harsh, but sit with it:
+
+When you make a mistake and let guilt consume you—when you hide, disconnect, and assign yourself an identity of being a bad person—you're not helping anyone. You're not repairing anything. You're not showing up for the people who need you.
+
+You're indulging in your own suffering.
+
+**Here's what guilt-as-identity actually does:**
+
+- You withdraw from community (where you could be contributing)
+- You stop connecting with others (who might benefit from your presence)
+- You don't take repair actions (which would actually help the person you harmed)
+- You sit alone feeling terrible (which serves no one but your ego's need to feel punished)
+
+That's not noble. That's not penance. That's self-indulgence dressed up as remorse.
+
+**The proper response to a mistake isn't guilt—it's action.**
+
+Make right with your actions. Show up. Repair what you can. Create good in the world that outweighs the harm. That's responsibility. Sitting in a dark room feeling like a terrible person while the world waits for you to contribute? That's you making it about yourself.
+
 Real responsibility looks like:
 
 - Acknowledging what happened clearly
