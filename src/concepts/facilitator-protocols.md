@@ -30,16 +30,6 @@ With clear rules, participants feel contained:
 - "I know that mistakes are okay"
 - "I know the facilitator has my back if I'm operating in good faith"
 
-### The Promise
-
-At the start of your container, communicate something like:
-
-> "Here are the guidelines for this space. As long as you operate within them, you are safe. You can experiment. You can make mistakes. You can try things that don't work. If something goes wrong and you were operating in good faith, we'll work through it together—you won't be punished or removed.
->
-> If you go outside these guidelines—especially intentionally—you're on your own. Certain behaviors will result in being asked to leave."
-
-This creates both safety AND accountability.
-
 ### Suggested Guidelines
 
 Here's a starter set of rules you might adapt for your container:
