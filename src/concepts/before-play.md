@@ -340,7 +340,7 @@ See: [Facilitator Protocols](./facilitator-protocols.md) — the responsible vs.
 
 When I first learned RBDSMT, I thought: "This is great."
 
-Then, a few months later, things are getting hot with someone. We're about to have sex. And I think: "Do I really need to have the full conversation? We're both adults. It'll probably be fine."
+Then, a few months later, things are getting hot with someone. We're about to have sex. And I think: "Do I really need to slow things down and have the full conversation right now? It's inconvenient. It delays pleasure. It might even kill the mood—or the conversation might reveal something that means we don't have sex at all. We're both adults. It'll probably be fine."
 
 I skipped it. We had sex. And afterward, it wasn't a good thing. There was pain. Mismatched meaning. Hurt feelings. Drama.
 
