@@ -103,16 +103,7 @@ When you have your first awkward moment, read the section on [Severity](./concep
 
 Learning sticks better when it's immediately applicable. Real experiences make these concepts click in ways that reading alone can't.
 
-> **"Goodness without wisdom always creates evil."**  
-> — _Stranger in a Strange Land_
-
-You can enter these spaces with a pure heart and the best of intentions—and still make mistakes. That's not a character flaw. It's what happens when wisdom hasn't caught up to goodness yet. And wisdom requires lived experience.
-
-Even if you read everything in this book and understand it intellectually, **embodied wisdom will require making the mistakes yourself.** Not just "I read it says to avoid this"—but "I made this mistake, it fucking hurt, and I remember that pain. I'm not doing that again."
-
-This book gives you the map. Living gives you the territory.
-
-**That said, if you want the foundation:**
+**If you want a foundation before diving in:**
 
 1. [Severity](./concepts/severity.md) — The scale of harm
 2. [Types of Mistakes](./concepts/types-of-mistakes.md) — Not all mistakes are the same
@@ -149,6 +140,28 @@ When something goes wrong, ask:
 > **What is the severity? What is the type? Am I qualified to judge? Is my response proportional?**
 
 That's it. Everything else is detail.
+
+---
+
+## You Will Make Mistakes
+
+> **"Goodness without wisdom always creates evil."**  
+> — _Stranger in a Strange Land_
+
+You can enter these spaces with a pure heart and the best intentions—and still cause harm.
+
+That's not a character flaw. It's what happens when wisdom hasn't caught up to goodness yet. And wisdom only comes from lived experience.
+
+This book gives you the map. But reading the map is not the same as walking the territory. You will make mistakes. Some of them will hurt—you, others, or both. That's not failure. That's the curriculum.
+
+The goal isn't to avoid all mistakes. It's to:
+
+1. Make them less severe
+2. Recognize them faster
+3. Repair them better
+4. Actually learn from them
+
+When you do make a mistake, see: [I Made a Mistake—What Now?](./concepts/i-made-a-mistake.md)
 
 ---
 
