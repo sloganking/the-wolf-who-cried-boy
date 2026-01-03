@@ -93,7 +93,7 @@ Once you find it, you need to:
 
 This thought disowns your power. Giving someone a hickey is completely in your control—it's an action you take, not something that "happens." This belief allows you to excuse yourself from responsibility for medium-severity harm.
 
-Here's the thing: this idea might not be malicious. You might not think it because you want to violate someone's boundaries. You might think it because whatever culture or family you grew up in just passed this false belief around, and you never actually examined it.
+Here's the thing: this idea might not be malicious. You might not think it because you want to violate someone's boundaries. You might think it because whatever culture or family you grew up in just passed this false belief around, and you never actually examined it. This is exactly the kind of subconscious story described in [Trauma & Filters](./trauma-and-filters.md)—a belief that sits in the background, pops up now and then, seems correct, but has never been examined.
 
 That doesn't make it less harmful. It just means you have unexamined beliefs that need examining.
 
