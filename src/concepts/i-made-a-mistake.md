@@ -43,6 +43,50 @@ That's not noble. That's not penance. That's self-indulgence dressed up as remor
 
 Make right with your actions. Show up. Repair what you can. Create good in the world that outweighs the harm. That's responsibility. Sitting in a dark room feeling like a terrible person while the world waits for you to contribute? That's you making it about yourself.
 
+### Even When Others Call You a Predator
+
+Maybe people are calling you a bad person. Maybe they're saying you should be removed from community and never come back. Maybe they're labeling you a predator.
+
+Their response is immature.
+
+That kind of thinking doesn't treat all human beings with dignity and respect. It doesn't recognize and make room for mistakes and growth. It doesn't see your goodness—even if you were lacking in wisdom. It doesn't allow you to contribute to other human beings who would get value from interacting with you.
+
+Their reaction is about their filters, their fear, their need for a villain. It's not an accurate assessment of your worth or your future.
+
+### Return to Community
+
+One of the most important things to do after making a mistake is to **keep going**.
+
+Not recklessly. You shouldn't go back to parties without introspecting and figuring out what occurred. That would be negligent. But once you've done the work—corrected your wrong thinking, recognized how the mistake happened, identified steps to prevent it—returning to community is essential.
+
+I've heard people say that if they made a medium-severity mistake, they'd feel such shame that they'd stay out of community for a whole year before maybe coming back—if ever. I've heard that many people actually do this.
+
+**This is guilt-as-self-indulgence, not responsibility.**
+
+It might feel like penance. It might feel like "the responsible thing to do." But disconnecting from community as punishment isn't responsibility—it's blame turned inward. It's punishing yourself instead of growing.
+
+Here's the thing: **The only way you become the person everyone receives value from interacting with is by continuing to interact.**
+
+- The only way to embody wisdom is through lived experience
+- The only way to get lived experience is by being in community
+- The only way to prove you've learned is by showing up differently
+
+Taking a year off does nothing that a month of actual engagement wouldn't do better. You might intellectually understand what should have been done. But if you're not at parties, interacting with people live, you're not gaining wisdom. You're not embodying the lesson.
+
+And here's what happens if you don't return: **the intellectual understanding fades.** Without practice, without real situations to apply your learning, the lesson never solidifies. You end up learning it worse than if you'd stayed in community.
+
+### You Become the Teacher
+
+There's another reason to return quickly:
+
+**After making a mistake and learning from it, you become the most qualified person to help others avoid the same mistake.**
+
+You've been there. You know the warning signs. You recognize the thinking patterns that lead to harm. You can catch someone heading toward the same cliff and say: "Hey, I've made this mistake. Here's what I learned. Here's what you can do differently."
+
+If you're hiding at home in shame, you can't do that. The wisdom you earned through pain stays locked inside you, helping no one.
+
+The community needs people who've made mistakes and grown from them. That's how the whole system gets wiser.
+
 Real responsibility looks like:
 
 - Acknowledging what happened clearly
