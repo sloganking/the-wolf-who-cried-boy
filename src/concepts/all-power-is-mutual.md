@@ -19,6 +19,10 @@ And everyone looks at the "top" of the hierarchy and says: _That's where the pow
 
 **This is never true.**
 
+> **The only way power can flow one way is if someone doesn't recognize and own theirs.**
+
+Even then, the power is still there. It's just unclaimed.
+
 ## Power Always Flows Both Ways
 
 Every single dynamic. Every relationship. Every interaction.
