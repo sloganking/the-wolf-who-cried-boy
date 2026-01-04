@@ -516,7 +516,7 @@ There's a common story among facilitators and staff:
 
 Remember the puja—the practice of worshipping each other as divine. You recognized your own worth. You decided you deserve to be treated with dignity and respect.
 
-**That divinity doesn't disappear the moment someone gets angry.**
+**That divinity doesn't disappear the moment someone gets angry.** And it doesn't disappear the moment you put on a staff shirt. It doesn't turn off when you're in service. Your worth is 24/7, all circumstances, no exceptions.
 
 You're not worth treating well *until* one person is mad, and then suddenly it all goes out the window. That's not how worth works. That's not what you taught your participants. And if you act like your worth evaporates under pressure, you betray the very lesson you were trying to transmit.
 
