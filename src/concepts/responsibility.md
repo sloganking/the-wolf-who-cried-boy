@@ -63,7 +63,7 @@ Note: it's actions **or inactions**. What you didn't do is just as much a part o
 
 ## Everyone Has Responsibility
 
-In any interaction between two or more people, **everyone** has responsibility for the outcome.
+In any interaction between two or more people, **everyone** has responsibility for the outcome—because everyone's actions and inactions played a part in creating it.
 
 Not just the "perpetrator." Not just the person who made the most obvious mistake. Everyone.
 
