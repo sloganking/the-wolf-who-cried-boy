@@ -167,33 +167,65 @@ You can adapt this language to your style. The key is: **say it early, say it cl
 
 ---
 
-## The Core Principle: Walk Your Talk
+# SHOW, DON'T TELL
 
-Nothing matters more for a facilitator than alignment between what you say and what you do.
+---
 
-You can teach about consent, boundaries, and dignity all day. But what people learn is what they see you do when it's hard.
+**If there is one principle that governs everything else in this book—one thing to take with you if you take nothing else—it's this:**
 
-> **Show, don't tell.**
+> ## People don't learn what you teach. They learn what you do.
 
-This principle is so important it has [its own section](#show-dont-tell). If you take nothing else from this book, take this: **people don't learn what you teach—they learn what you do.**
+This is the most important thing to understand as a facilitator. More important than your curriculum. More important than your exercises. More important than anything you say.
 
-If you say everyone deserves dignity and respect, but you let someone treat you like shit because you're scared of them—you've just taught everyone that dignity is negotiable when someone gets angry enough.
-
-If you say mistakes don't require leaving the container, but you kick someone out because an angry participant scared you into it—you've just taught everyone that mob pressure wins.
+Nothing matters more for a facilitator than alignment between what you say and what you do. You can teach about consent, boundaries, and dignity all day. But what people learn is what they see you do when it's hard.
 
 Your actions are louder than your words. Every time.
 
 ---
 
-## Your Emotions Set the Room
+## Words Are Cheap
+
+You can give the most eloquent talk about consent. You can explain the drama triangle beautifully. You can teach RBDSMT and facilitator protocols and appropriate response.
+
+None of it matters if your actions contradict it.
+
+When you're tested—when a participant is angry, when a mob is forming, when you're scared—your actions in that moment teach more than every word you've ever spoken. Your participants are watching. And they're learning from what you *do*, not what you *said*.
+
+| What You Say                    | What You Do                                  | What They Actually Learn         |
+| ------------------------------- | -------------------------------------------- | -------------------------------- |
+| "Everyone deserves respect"     | You let someone disrespect you               | Respect is optional when angry   |
+| "Mistakes don't mean leaving"   | You kick someone out under pressure          | Mob pressure wins                |
+| "We verify before judging"      | You take action based on one side            | Verification is lip service      |
+| "Proportional responses matter" | You let HIGH responses to LOW mistakes slide | Severity doesn't actually matter |
+| "You deserve dignity"           | You don't stand up for yourself              | Dignity is just a nice idea      |
+| "Take responsibility"           | You blame others when things go wrong        | Responsibility is for others     |
+
+**If your actions contradict your words, your actions are what people remember.**
+
+---
+
+## Your Body Teaches Too
+
+It's not just your actions. Your **body** teaches.
+
+When someone is attacking you or another participant, your animal body is communicating constantly:
+
+- Are you calm or panicked?
+- Are you grounded or reactive?
+- Does your energy say "this is an emergency" or "this will be handled"?
+- Does your posture say "I'm confident in my values" or "I'm unsure if I deserve to be here"?
+
+Your participants are reading your nervous system. They're mirroring your emotional state. Your body is teaching them how to feel about what's happening—whether you intend it to or not.
+
+### People Mirror Emotions, Not Facts
 
 Here's something most facilitators don't realize: **people don't primarily look at facts to determine how they should feel. They mirror the emotions of others.**
 
 This is animal-level communication. Our bodies read other bodies. Words tell you what to think. Emotions tell you how to feel about it.
 
-### How This Plays Out
+**Example: A boundary violation occurs.**
 
-Imagine a boundary violation occurs between Person A and Person B. Person A apologizes—it was an unconscious mistake.
+Person A apologizes—it was an unconscious mistake.
 
 **If Person B is calm and understanding:**
 - Their body language says "this is okay, we're handling it"
@@ -213,13 +245,11 @@ The audience isn't evaluating the facts. They're reading the emotional intensity
 
 This is how witch hunts form. Not from evidence—from emotional contagion.
 
-### Your Power as Facilitator
+### You Are the Emotional Anchor
 
 As facilitator, **you are the emotional anchor for the room.**
 
 People look to you. If you're calm, they're more likely to be calm. If you panic, they panic. Your animal body sets the reference point for everyone else's nervous system.
-
-This means:
 
 **If there's a dispute and one person is extremely over-the-top angry:**
 - Don't match their energy
@@ -235,7 +265,7 @@ This means:
 
 Your nervous system regulation becomes permission for others to regulate too.
 
-### The Trap
+### The Trap: The Angriest Person Sets the Tone
 
 The trap is this: **the angriest person often sets the emotional tone.**
 
@@ -253,6 +283,63 @@ Staying calm when someone is screaming at you (or at someone else) is not easy. 
 - Remembering that their intensity is data about them, not about reality
 
 If you can hold your center while chaos swirls, you've just given the entire room a gift. You've prevented the emotional contagion from turning into a mob.
+
+---
+
+## Conflict Is Your Greatest Teaching Moment
+
+Here's the reframe that changes everything:
+
+**When something goes wrong in your container, it's not a problem. It's an opportunity to teach more powerfully than you ever could when things are calm.**
+
+During your exercises and talks, you're *telling* lessons. When someone's angry, when someone's attacking you or another participant, when chaos erupts—suddenly you're *showing* the lesson. And that's what sticks.
+
+Your participants will forget most of what you said during the comfortable parts. They will remember forever how you handled the hard parts.
+
+- The moment someone attacked you and you held your ground with dignity
+- The moment a mob was forming and you stayed calm
+- The moment someone was being treated unfairly and you protected them
+- The moment you could have fawned and you didn't
+
+These become the lessons they carry into their lives. Not your slides. Not your exercises. Your actions in the moments that mattered.
+
+**So when things go awry, don't see it as failure. See it as the moment your real curriculum begins.**
+
+---
+
+## The Gap Between Knowing and Being
+
+Many facilitators *know* these principles. They can articulate them perfectly. But there's a gap between knowing and being.
+
+When you're tested:
+- Do you *become* what you teach?
+- Or do you revert to old patterns while your words echo uselessly in everyone's memory?
+
+This is why the hardest work for facilitators isn't learning the material. It's **embodying** it so deeply that you don't have to think about it when things get hard. It just *is* who you are.
+
+### The Ultimate Standard
+
+Here's the bar to hold yourself to:
+
+> **If I had no words—if I could only be observed—would my actions teach the principles I claim to believe?**
+
+If yes, you're walking your talk.
+
+If no, your words are just noise. And your participants will learn from your actions instead.
+
+---
+
+## This Is Your Integrity
+
+Walking your talk is the most important thing as a facilitator.
+
+Not your curriculum. Not your marketing. Not your reputation. Not how many retreats you've led or trainings you've completed.
+
+**Your integrity.**
+
+The alignment between what you say and what you do. The alignment between what you teach and who you are.
+
+That's what participants actually learn from. That's what changes their lives. That's what makes you worth following.
 
 ---
 
@@ -643,103 +730,6 @@ When you help someone recognize their fawning and support them in setting bounda
 - The container supports people standing up for themselves
 
 This is the [Creator](./drama-triangle.md) dynamic, not the Rescuer dynamic. You're not saving them. You're helping them save themselves.
-
----
-
-## Show, Don't Tell
-
-**If there is one principle that governs everything else in this book, it's this:**
-
-> **People don't learn what you teach. They learn what you do.**
-
-This is the most important thing to understand as a facilitator. More important than your curriculum. More important than your exercises. More important than anything you say.
-
-### Words Are Cheap
-
-You can give the most eloquent talk about consent. You can explain the drama triangle beautifully. You can teach RBDSMT and facilitator protocols and appropriate response.
-
-None of it matters if your actions contradict it.
-
-When you're tested—when a participant is angry, when a mob is forming, when you're scared—your actions in that moment teach more than every word you've ever spoken. Your participants are watching. And they're learning from what you *do*, not what you *said*.
-
-### The Table of Lessons
-
-| What You Say                    | What You Do                                  | What They Actually Learn         |
-| ------------------------------- | -------------------------------------------- | -------------------------------- |
-| "Everyone deserves respect"     | You let someone disrespect you               | Respect is optional when angry   |
-| "Mistakes don't mean leaving"   | You kick someone out under pressure          | Mob pressure wins                |
-| "We verify before judging"      | You take action based on one side            | Verification is lip service      |
-| "Proportional responses matter" | You let HIGH responses to LOW mistakes slide | Severity doesn't actually matter |
-| "You deserve dignity"           | You don't stand up for yourself              | Dignity is just a nice idea      |
-| "Take responsibility"           | You blame others when things go wrong        | Responsibility is for others     |
-
-**If your actions contradict your words, your actions are what people remember.**
-
-### Your Body Teaches Too
-
-It's not just your actions. Your **body** teaches.
-
-When someone is attacking you or another participant, your animal body is communicating constantly:
-
-- Are you calm or panicked?
-- Are you grounded or reactive?
-- Does your energy say "this is an emergency" or "this will be handled"?
-- Does your posture say "I'm confident in my values" or "I'm unsure if I deserve to be here"?
-
-Your participants are reading your nervous system. They're mirroring your emotional state. Your body is teaching them how to feel about what's happening—whether you intend it to or not.
-
-(See: [Your Emotions Set the Room](#your-emotions-set-the-room))
-
-### Conflict Is Your Greatest Teaching Moment
-
-Here's the reframe that changes everything:
-
-**When something goes wrong in your container, it's not a problem. It's an opportunity to teach more powerfully than you ever could when things are calm.**
-
-During your exercises and talks, you're *telling* lessons. When someone's angry, when someone's attacking you or another participant, when chaos erupts—suddenly you're *showing* the lesson. And that's what sticks.
-
-Your participants will forget most of what you said during the comfortable parts. They will remember forever how you handled the hard parts.
-
-- The moment someone attacked you and you held your ground with dignity
-- The moment a mob was forming and you stayed calm
-- The moment someone was being treated unfairly and you protected them
-- The moment you could have fawned and you didn't
-
-These become the lessons they carry into their lives. Not your slides. Not your exercises. Your actions in the moments that mattered.
-
-**So when things go awry, don't see it as failure. See it as the moment your real curriculum begins.**
-
-### The Gap Between Knowing and Being
-
-Many facilitators *know* these principles. They can articulate them perfectly. But there's a gap between knowing and being.
-
-When you're tested:
-- Do you *become* what you teach?
-- Or do you revert to old patterns while your words echo uselessly in everyone's memory?
-
-This is why the hardest work for facilitators isn't learning the material. It's **embodying** it so deeply that you don't have to think about it when things get hard. It just *is* who you are.
-
-### The Ultimate Standard
-
-Here's the bar to hold yourself to:
-
-> **If I had no words—if I could only be observed—would my actions teach the principles I claim to believe?**
-
-If yes, you're walking your talk.
-
-If no, your words are just noise. And your participants will learn from your actions instead.
-
-### This Is Your Integrity
-
-Walking your talk is the most important thing as a facilitator.
-
-Not your curriculum. Not your marketing. Not your reputation. Not how many retreats you've led or trainings you've completed.
-
-**Your integrity.**
-
-The alignment between what you say and what you do. The alignment between what you teach and who you are.
-
-That's what participants actually learn from. That's what changes their lives. That's what makes you worth following.
 
 ---
 
