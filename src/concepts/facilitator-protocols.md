@@ -153,6 +153,8 @@ Here's language you might use at the opening of your container:
 >
 > If you cross these lines, I cannot guarantee your place here.
 >
+> **One exception:** In rare cases, I may need to ask someone to leave—or to step out temporarily—for emergency safety reasons, even if they haven't broken these rules. This isn't punishment; it's protection. If I ever need to do this, I'll explain why, and it won't affect your standing in future events. This exception exists for genuine emergencies—not as a loophole for arbitrary removal.
+>
 > **One more thing:** If something goes wrong—if someone crosses a boundary—you have every right to strong emotions. You have every right to remove yourself, protect yourself, and report to us. These are defensive actions and they're always acceptable.
 >
 > What's not acceptable is using an incident as an excuse to attack. If your response shifts from protecting yourself to punishing someone else—public attacks, mobilizing others, demanding removal based on anger—that's aggression, not defense. Even if you're angry, even if the incident was real.
@@ -370,6 +372,76 @@ You can have compassion for someone's pain AND remove them from the space. These
 | "Facilitators are in charge" | "The angriest person is in charge"     |
 
 Your actions in this moment define whether your container is real or theater.
+
+---
+
+## The Emergency Exception
+
+The promise says participants are protected as long as they follow the rules. But there are rare situations where a facilitator must act before rules are broken—or must remove someone who isn't the one breaking them.
+
+**This is not a loophole.** It's acknowledgment that safety sometimes requires action that doesn't fit neatly into the framework.
+
+### When This Applies
+
+**Imminent danger that hasn't crystallized into rule-breaking yet:**
+
+Someone is escalating. They haven't made an explicit threat, but their energy is volatile. They're dissociating in a way that feels dangerous. They seem like they might hurt themselves or someone else. Your gut is screaming that something is very wrong.
+
+You don't have to wait for them to actually break a rule before acting. Your job is to keep the container safe—not to be a courtroom that requires proof before intervening.
+
+**Tactical removal for someone's protection:**
+
+Person A is making threats. Ideally, Person A leaves. But what if you're genuinely concerned that asking them to leave will trigger violence right now, in this room?
+
+In that case, you might need to get Person B—the potential victim—out first. Not because they did anything wrong, but because their immediate physical safety matters more than the principle of "the rule-breaker should leave first."
+
+Once Person B is safe, you handle Person A.
+
+**Example:**
+
+> A participant is becoming increasingly agitated. They're pacing, clenching fists, muttering. They haven't threatened anyone yet, but you've worked with enough activated people to know this is heading somewhere bad. Another participant—the one they're focused on—looks frozen.
+>
+> You quietly approach the frozen participant: "Hey, let's step outside for a minute." You get them out of the room. Then you return to address the agitated person, now without a target present and without an audience that might escalate things further.
+>
+> The frozen participant wasn't being punished. They were being protected. You explain this to them afterward.
+
+**Example:**
+
+> Someone arrives at your event and something feels deeply off. They haven't broken any rules. They're technically following the agreements. But something in their eyes, their affect, their energy—you can't name it, but every instinct says this person is not okay to have in this container.
+>
+> You pull them aside: "Hey, I'm noticing you seem like you might be going through something intense right now. I don't think this event is the right place for you today. I'd like to talk about rescheduling for another time."
+>
+> You're not accusing them of anything. You're not punishing them. You're making a judgment call that this container cannot safely hold whatever they're carrying right now.
+
+### What This Is NOT
+
+This exception is **not** permission to:
+
+- Remove someone because you don't like them
+- Remove someone because another participant is angry at them
+- Remove someone because their presence makes people uncomfortable (discomfort isn't danger)
+- Remove someone because you're scared of how it will look if you don't
+- Remove someone for breaking social norms rather than safety concerns
+
+The emergency exception is for genuine safety emergencies—situations where waiting for a clear rule violation would put people at unacceptable risk.
+
+### How to Handle It
+
+If you need to use this exception:
+
+1. **Act decisively** — Hesitation in emergencies creates more danger
+2. **Explain afterward** — The person deserves to understand why, once it's safe to explain
+3. **Distinguish it from punishment** — Make clear this doesn't affect their standing for future events (unless their behavior afterward warrants it)
+4. **Document what happened** — Write it down while it's fresh, including what you observed and why you made the call
+5. **Debrief with your team** — Talk through whether it was the right call and what you learned
+
+### The Underlying Principle
+
+The promise protects participants from arbitrary removal—from being kicked out because someone's mad, or because a mob pressured you, or because you made an honest mistake.
+
+The emergency exception acknowledges that your primary job is safety, and sometimes safety requires acting before rules are technically broken.
+
+These aren't in conflict. Both serve the same goal: a container where people can trust that they're protected—from unfair treatment AND from genuine danger.
 
 ---
 
