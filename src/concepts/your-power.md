@@ -90,17 +90,45 @@ But the power is still there. Waiting for them to see it.
 
 ---
 
-## Why This Matters for Responsibility
+## Omnipotent → Omni-Responsible
 
-Remember: you can only take responsibility for things you believe you have power over.
+Here's the connection that ties everything together:
+
+> **You can only take responsibility for things you believe you have power over.**
 
 If you believe your power is limited, your responsibility is limited. You can only take responsibility for the small sphere you think you control.
 
-But if you see your power as vast—if you recognize that you can influence far more than you've been taught—then your responsibility expands to match.
+But if you see yourself as **omnipotent**—if you recognize that you can influence far more than you've been taught—then your responsibility expands to match.
 
 **Omni-responsibility follows from omnipotence.**
 
-I take responsibility for everything because I recognize I have the power to influence everything.
+### You Are Responsible for the Entire World
+
+Once you recognize your unlimited power, the logical conclusion is:
+
+> **You are responsible for the entire world and everything in it.**
+
+Before you recoil—this is not about blame. Not about burden. Not about obligation.
+
+The world is not something that happens TO you. **The world is your creation.**
+
+Responsibility is simply how you recognize your power. Taking responsibility for the whole world is simply recognizing that your actions can affect everything and everyone. Every person you interact with, every system you participate in, every choice you make or don't make—these ripple outward. Everything and everyone are partially your creation, through your action or inaction.
+
+**"But I can't affect the entire world."**
+
+That's a story. Like all the stories and limiting beliefs discussed in [Trauma & Filters](./trauma-and-filters.md), it's just a belief you've been carrying around. It feels true because you've never questioned it. But it's not reality. It's a filter.
+
+### Identity Precedes Action
+
+Here's the practical piece:
+
+**As soon as you realize you're able to affect big things, you start taking actions to do it.**
+
+The person who believes they can only affect their immediate circle acts accordingly—small moves, limited scope. The person who believes they can affect the world acts accordingly—bigger moves, wider impact.
+
+Your identity determines your actions. Change the identity, and the actions follow.
+
+The first step to affecting the world is believing you can.
 
 ## Why This Matters for the Drama Triangle
 

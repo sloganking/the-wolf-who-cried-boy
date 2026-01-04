@@ -230,33 +230,19 @@ Even when someone else made the mistake, you can ask:
 
 This isn't self-blame. It's self-empowerment.
 
-### You Are Responsible for the Entire World
+### The Full Version
 
-Here's the full version:
+Here's how far this goes:
 
 > **You are responsible for the entire world and everything in it.**
 
-Before you recoil—this is not about blame. Not about burden. Not about obligation.
+Not as blame. Not as burden. As recognition of your power.
 
-The world is not something that happens TO you. **The world is your creation.**
+But this claim only makes sense if you accept something first: that you actually *have* the power to affect the entire world. If you don't believe that, "responsible for everything" sounds absurd.
 
-Responsibility is simply how you recognize your power. Taking responsibility for the whole world is simply recognizing that your actions can affect everything and everyone. Every person you interact with, every system you participate in, every choice you make or don't make—these ripple outward. Everything and everyone are partially your creation, through your action or inaction.
+So before you can be **omni-responsible**, you need to see yourself as **omnipotent**.
 
-**"But I can't affect the entire world."**
-
-That's a story. Like all stories—like the traumas and limiting beliefs discussed in [Trauma & Filters](./trauma-and-filters.md)—it's just a belief you've been carrying around. It feels true because you've never questioned it. But it's not reality. It's a filter.
-
-**And here's the thing: identity precedes action.**
-
-As soon as you realize you're able to affect big things, you start taking actions to do it. The person who believes they can only affect their immediate circle acts accordingly—small moves, limited scope. The person who believes they can affect the world acts accordingly—bigger moves, wider impact.
-
-The first step to affecting the world is believing you can.
-
-### How Much Power Do You Actually Have?
-
-Most people dramatically underestimate their power. They think they're small, limited, capable of affecting only what's right in front of them. What if that's a lie your culture taught you?
-
-See: [How Much Power Do You Have?](./your-power.md) — A deeper exploration
+See: [How Much Power Do You Have?](./your-power.md) — The case for your unlimited creative potential
 
 See also: [100% Control](../tools/100-percent-control.md)
 
