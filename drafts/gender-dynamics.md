@@ -16,6 +16,20 @@ But remember: [nine times out of ten](../src/concepts/before-you-judge.md), when
 
 Yet because our cultural mythology is saturated with stories of male predators, the fear response is disproportionately aimed at men. And that fear often has nothing to do with what actually happened.
 
+### The Core Paradox
+
+Here's the uncomfortable truth:
+
+> **The story that women are very vulnerable when interacting with men has ironically created it so that men are very vulnerable when interacting with women.**
+
+When a man and woman interact intimately, most people's attention is on one thing: he's bigger and stronger, she could be physically overpowered. So she's vulnerable.
+
+But if attention shifts—which it rarely does—a different picture emerges: she could lie about her consent. She could attack him afterward. She could destroy his reputation, his friendships, his career, his access to community. And in our culture, she'll likely be believed. He'll likely be presumed guilty.
+
+Both vulnerabilities are real. Both are significant. But our cultural attention fixates on hers and renders his invisible.
+
+This isn't because people are malicious. It's because [stories control attention](../src/concepts/trauma-and-filters.md#stories-control-attention), and the dominant story only illuminates one part of the picture.
+
 ---
 
 ## First: Women's Fear Is Real
@@ -48,6 +62,10 @@ Different cultures have vastly different levels of this fear. In some places, wo
 Much of this is cultural programming, not biological reality.
 
 But that doesn't make the fear feel less real to the person experiencing it.
+
+And here's the key: **fear narrows attention.** When someone is afraid, their focus contracts to the perceived threat. They're not maliciously ignoring other perspectives—they simply can't see them. Their nervous system is scanning for danger, not taking in the whole picture.
+
+This is why well-intentioned women can genuinely not see a man's vulnerability. And why well-intentioned men can genuinely not see a woman's fear. Both are touching different parts of the elephant. (See: [Stories Control Attention](../src/concepts/trauma-and-filters.md#stories-control-attention))
 
 ### Fear vs. Reality: A Pattern We Can Prove
 
@@ -123,7 +141,7 @@ And when someone fully inhabits the Victim role:
 
 Here's where it gets worse.
 
-When a woman plays Victim, there's often a rush of Rescuers—people who want to protect the "precious baby girl."
+When a woman plays Victim, there's often a rush of Rescuers—people who feel compelled to protect her.
 
 These Rescuers:
 
@@ -161,6 +179,8 @@ Much of modern women's empowerment discourse focuses on how women are victimized
 But all of this reinforces the Victim identity.
 
 If your entire framework is about how you're powerless, you become powerless. If all your attention is on what's been done TO you, you never see what you can DO.
+
+This is [attention controlling experience](../src/concepts/trauma-and-filters.md#stories-control-attention). The empowerment framework directs women's attention toward their victimhood—and that's exactly what they experience.
 
 **True empowerment is showing women their power, not cataloging their victimhood.**
 
@@ -308,6 +328,7 @@ The goal is a world where:
 
 ## Related
 
+- [Stories Control Attention](../src/concepts/trauma-and-filters.md#stories-control-attention) — Why people only see part of the picture
 - [Responsibility](../src/concepts/responsibility.md) — Everyone has it
 - [Drama Triangle](../src/concepts/drama-triangle.md) — Victim, Persecutor, Rescuer
 - [Power Dynamics](../src/concepts/power-dynamics.md) — Participants have more power than they think
