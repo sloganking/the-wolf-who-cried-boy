@@ -307,7 +307,67 @@ We're all powerful creators, even if we don't recognize it yet. We're all valuab
 
 **None of us should be treated like crap.**
 
-This isn't just a nice idea. It's a core value that should govern how you run your container—and how you allow yourself to be treated within it.
+This isn't just a nice idea. It's a core value that should govern how you run your container—and how you allow yourself, your staff, and your participants to be treated within it.
+
+---
+
+## The Myth of the Always-Agreeable Facilitator
+
+There's a common story among facilitators and staff:
+
+> "I'm here to serve the participants. If a participant is upset with me—even if they're being completely disrespectful—I should just take it. I shouldn't confront them. I shouldn't set boundaries. I'm staff, so I absorb whatever they throw at me."
+
+**This is wrong.**
+
+### The Divinity Doesn't Turn Off
+
+Remember the puja—the practice of worshipping each other as divine. You recognized your own worth. You decided you deserve to be treated with dignity and respect.
+
+**That divinity doesn't disappear the moment someone gets angry.**
+
+You're not worth treating well *until* one person is mad, and then suddenly it all goes out the window. That's not how worth works. That's not what you taught your participants. And if you act like your worth evaporates under pressure, you betray the very lesson you were trying to transmit.
+
+### What Fawning Teaches
+
+When a participant attacks you—treats you without dignity and respect—and you appease them instead of holding your ground, here's what happens:
+
+**What you show yourself:**
+- "I'm to be treated with dignity and respect until things get hard. Then it doesn't count."
+- "My boundaries are negotiable when someone's angry enough."
+- "The puja was pretend. When it actually matters, I don't believe it."
+
+**What you show every participant watching:**
+- "Dignity and respect is for easy moments. Not for conflict."
+- "If you're angry enough, you can treat people however you want."
+- "The facilitator doesn't actually believe what they taught us."
+- "Standing up for yourself is optional. When pressure comes, you fold."
+
+This is the opposite of walking your talk. You're showing everyone that your values were just for funsies—not for when things actually get hard.
+
+### The Exception That Destroys the Rule
+
+You cannot say "everyone deserves to be treated with dignity and respect" and then add a silent exception: *"except me, when someone's upset."*
+
+That exception destroys the rule.
+
+If *you* don't deserve dignity when things are hard, then *nobody* does. You've just taught every participant that the principle doesn't really hold. And they'll take that lesson into their own lives—not standing up for themselves, not expecting respect when it counts, folding when pressure comes.
+
+### This Is the Hardest Lesson
+
+Standing up for yourself when someone is attacking you—especially when you're in a role that's "supposed to serve"—is one of the hardest things there is.
+
+It's much easier to appease. To let it slide. To tell yourself "I'm being the bigger person" when really you're just scared.
+
+But this is exactly where the teaching matters most. **The moment someone treats you without dignity is the moment your response teaches everyone what you actually believe.**
+
+If you hold your ground—firmly, without aggression, with clear boundaries—you show:
+
+- Dignity is non-negotiable, even for staff
+- The puja principle applies in hard moments, not just easy ones
+- You believe what you teach
+- It's possible to stand up for yourself without becoming an attacker
+
+That's the lesson your participants actually need. Not the comfortable puja in a candlelit room. The puja that holds when someone's screaming at you.
 
 ---
 
