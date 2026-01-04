@@ -165,7 +165,7 @@ Meanwhile, the man:
 
 - Has a target on his back simply for being male
 - Is presumed guilty in a "believe all victims" culture
-- Has limited ability to defend himself (defending yourself = "not taking responsibility")
+- Has limited ability to defend himself—if he does, he'll be accused of "not taking responsibility," manipulating, or further proof that he's the problem. (In reality, [declining false responsibility](../src/concepts/responsibility.md#decline-false-responsibility) is the responsible thing to do. But that's not how the mob sees it.)
 - Faces reputation destruction for mistakes that might be LOW or MEDIUM severity
 - May have done nothing wrong at all
 
