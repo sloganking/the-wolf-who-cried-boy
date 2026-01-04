@@ -154,6 +154,36 @@ When you DO know their boundaries upfront:
 
 When someone hasn't thought through their boundaries beforehand, they're more likely to [fawn](./fawning.md) in the moment—saying yes when they mean no because they haven't practiced saying no to that specific thing. Then they feel violated afterward, even though they said yes.
 
+### How Do You Know If a Boundary Is Being Violated?
+
+Many people think boundaries are only things they've explicitly, cognitively decided and stated out loud. "I never said that was a boundary, so it's not a boundary."
+
+**This is wrong.**
+
+Here's a more accurate frame:
+
+> **Anytime you feel a negative emotion during an interaction, you likely have a boundary being violated—or a need going unmet.**
+
+That's it. The feeling is the signal. You don't need to have pre-declared it. You don't need to have thought about it in advance. If something is happening and you're feeling uncomfortable, resistant, or distressed, that's your body telling you: *this isn't okay for me right now.*
+
+**Why this matters for newcomers:**
+
+If you're new to play spaces, you don't yet know all your boundaries. How could you? You've never been in these situations before.
+
+You might enter a scenario excited and happy—then realize something is happening that you didn't know you wouldn't like. You didn't know you had a boundary here. But the discomfort you're feeling is telling you: *I need this to stop.*
+
+That's a real boundary. Even if you never articulated it. Even if you didn't know it existed until this moment.
+
+**What to do:**
+
+When you notice the negative feeling:
+
+1. **Recognize it as a signal.** Something is crossing a line you have—even if you just discovered the line exists.
+2. **Speak up.** "Hey, I'm noticing I'm not comfortable with this. Can we pause/stop/change what we're doing?"
+3. **Don't blame the other person for not knowing.** If you didn't know you had this boundary, they couldn't have known either. This isn't about punishment—it's about discovery and communication.
+
+Part of learning in these spaces is discovering your own limits. Each new boundary you find is information. It makes you safer and more skilled for next time.
+
 ### Hard Boundaries Stay Hard
 
 This is extremely important:
