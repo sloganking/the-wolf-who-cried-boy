@@ -183,6 +183,77 @@ Your actions are louder than your words. Every time.
 
 ---
 
+## Your Emotions Set the Room
+
+Here's something most facilitators don't realize: **people don't primarily look at facts to determine how they should feel. They mirror the emotions of others.**
+
+This is animal-level communication. Our bodies read other bodies. Words tell you what to think. Emotions tell you how to feel about it.
+
+### How This Plays Out
+
+Imagine a boundary violation occurs between Person A and Person B. Person A apologizes—it was an unconscious mistake.
+
+**If Person B is calm and understanding:**
+- Their body language says "this is okay, we're handling it"
+- The audience mirrors that calm
+- The room stays grounded
+- Person A is seen as someone who made a mistake
+
+**If Person B (or a rescuer) freaks out:**
+- Crying, screaming "predator," maximum intensity
+- The audience mirrors that intensity
+- Even if they didn't witness what happened
+- Even if they have no idea what actually occurred
+- They assume the anger is justified and feel it too
+- Person A is seen as a threat
+
+The audience isn't evaluating the facts. They're reading the emotional intensity and concluding: "If someone is THIS upset, something terrible must have happened."
+
+This is how witch hunts form. Not from evidence—from emotional contagion.
+
+### Your Power as Facilitator
+
+As facilitator, **you are the emotional anchor for the room.**
+
+People look to you. If you're calm, they're more likely to be calm. If you panic, they panic. Your animal body sets the reference point for everyone else's nervous system.
+
+This means:
+
+**If there's a dispute and one person is extremely over-the-top angry:**
+- Don't match their energy
+- Stay grounded in your body
+- Treat the accused with dignity and respect
+- Acknowledge the angry person's emotions without getting swept up in them
+- Your calm communicates: "This will be handled. This is not an emergency."
+
+**What participants will take from your calm:**
+- "The facilitator isn't panicking, so maybe this isn't as catastrophic as Person B is making it seem"
+- "The facilitator is treating Person A with respect, so maybe Person A isn't a monster"
+- "Maybe Person B's emotional intensity is disproportionate to what actually happened"
+
+Your nervous system regulation becomes permission for others to regulate too.
+
+### The Trap
+
+The trap is this: **the angriest person often sets the emotional tone.**
+
+If you're not conscious of this dynamic, you'll find yourself—and the whole room—swept up in someone's over-response. Their intensity hijacks the container. Their emotions become the room's emotions. And suddenly everyone is treating a MEDIUM mistake like HIGH severity, because the emotional volume convinced them.
+
+Your job is to be the counterweight. Not dismissive—you acknowledge their pain. But not swept away either. Your grounded presence gives everyone else permission to stay grounded too.
+
+### This Is a Skill
+
+Staying calm when someone is screaming at you (or at someone else) is not easy. It requires:
+
+- Nervous system regulation practice
+- Not taking their emotional state personally
+- Trusting that you can handle what's happening
+- Remembering that their intensity is data about them, not about reality
+
+If you can hold your center while chaos swirls, you've just given the entire room a gift. You've prevented the emotional contagion from turning into a mob.
+
+---
+
 ## Your First Officer
 
 > **"Every good captain needs a first officer who will tell him when he's wrong."**  
