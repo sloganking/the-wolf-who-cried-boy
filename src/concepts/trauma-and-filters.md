@@ -81,6 +81,64 @@ But there was a story in between. It happened so fast you didn't see it.
 
 This is why two people can witness the exact same event and have completely opposite emotional reactions. They're not reacting to the event—they're reacting to their stories about the event.
 
+## Stories Control Attention
+
+Here's another layer: **stories don't just create feelings. They also direct attention.**
+
+> "We don't experience life. We experience the life we focus on."
+> — Tony Robbins
+
+Where you look determines what you see. And what you see determines the story you tell. And the story you tell determines how you feel.
+
+### The Blind Men and the Elephant
+
+You've probably heard the parable: several blind men encounter an elephant. One touches the trunk and says "It's a snake." One touches the leg and says "It's a tree." One touches the side and says "It's a wall."
+
+They're all correct about what they observed. They're all wrong about the whole picture. Not because they're stupid or malicious—but because their attention was on different parts of the same thing.
+
+**This is how attention works in conflict.**
+
+Same event. Different attention. Completely different experience of what happened.
+
+### Example: The Fawner's Two Experiences
+
+Consider a [fawning](./fawning.md) situation. The same event occurred—someone said yes when they meant no, then felt violated afterward.
+
+**If the fawner's attention is on:** "Something was done to me that I didn't want"
+**They feel:** Violated, victimized, hurt
+
+**If the fawner's attention is on:** "I lied to this person about my consent and then attacked them for believing me"
+**They feel:** Guilt, responsibility, remorse
+
+Same event. Same person. The only difference is where attention went. And that difference creates completely opposite emotional experiences—and completely different actions that follow.
+
+### Fear Narrows Attention
+
+Here's what makes this tricky: **strong emotions—especially fear—dramatically narrow attention.**
+
+When you're afraid, your focus contracts. Your nervous system is looking for the threat. It's not taking in the whole picture. It's scanning for danger.
+
+This means:
+
+- A woman who feels afraid around men may genuinely not see his vulnerability
+- A man who's been falsely accused may genuinely not see her fear
+- A bystander caught up in mob energy may genuinely not see the accused person's humanity
+
+**They're not being malicious. They're not choosing to ignore the other perspective.** Their fear is directing their attention to one part of the elephant, and they never even realized there was more to see.
+
+This is why people with goodness and good intentions can still cause harm. They're not evil. They're just afraid. And fear makes the world look smaller than it is.
+
+### The Invitation
+
+When you notice yourself certain about what happened—certain about who's wrong, who's a threat, who's the victim—pause and ask:
+
+- Where is my attention right now?
+- What parts of this situation am I not seeing?
+- What would someone with different fears focus on?
+- Am I touching the trunk and calling it a snake?
+
+You don't have to abandon your perspective. But recognizing that it IS a perspective—one shaped by where your attention went—creates room for something more complete.
+
 ## Sex Is Politics
 
 Here's something that explains why people are so bad at seeing clearly in these spaces:
