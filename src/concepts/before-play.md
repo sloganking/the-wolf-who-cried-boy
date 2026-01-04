@@ -162,9 +162,9 @@ Many people think boundaries are only things they've explicitly, cognitively dec
 
 Here's a more accurate frame:
 
-> **Anytime you feel a negative emotion during an interaction, you likely have a boundary being violated—or a need going unmet.**
+> **If something ongoing is causing you to feel a sustained negative emotion—and if it continued, you'd feel worse—you likely have a boundary being crossed or a need going unmet.**
 
-That's it. The feeling is the signal. You don't need to have pre-declared it. You don't need to have thought about it in advance. If something is happening and you're feeling uncomfortable, resistant, or distressed, that's your body telling you: *this isn't okay for me right now.*
+Not a single flash of upset (you can have unreasonable reactions to single moments). But if something is happening continuously and it's making you feel uncomfortable, resistant, or distressed—and you sense that if it keeps going you'll feel even worse or eventually need to act to stop it—that's your body telling you: *this isn't okay for me right now.*
 
 **Why this matters for newcomers:**
 
