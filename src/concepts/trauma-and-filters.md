@@ -55,6 +55,22 @@ Someone touches you without asking:
 
 Same touch. Same person. Completely different emotional experiences—based entirely on the story.
 
+### Why Knowing Doesn't Change Feeling
+
+You might be thinking: "Okay, I understand intellectually that my feelings come from stories. So why can't I just change the story and feel differently?"
+
+Here's the thing: **stories don't live in your intellect. They live in your body.**
+
+They're stored in your subconscious, ingrained in your neurons, wired into automatic responses you didn't consciously choose. You can understand something intellectually and still feel the old way—because the story isn't running in the part of your brain that does understanding.
+
+This is why you can't just think your way out of emotional patterns. The stories are so deep they're automatic. Often, you're not even aware when they're affecting you. You just feel the feeling and assume it's the natural response to reality.
+
+**But here's the good news: it is possible to change.**
+
+It takes time. It takes exposure to the situations where your old story gets activated—and consciously noticing that the story isn't true. It takes new data, new experiences that contradict the old pattern. It takes deliberate effort to construct a different story and reinforce it until it becomes the new automatic.
+
+This is what healing looks like. Not flipping a switch, but gradually rewiring the deep patterns until your body tells a different story than it used to.
+
 ### The Story Happens Instantly
 
 Here's the tricky part: **you don't notice the story.**
