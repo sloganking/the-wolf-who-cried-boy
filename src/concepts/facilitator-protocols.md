@@ -314,7 +314,7 @@ The next day, the facilitators set up an exercise where the Rescuer and the mist
 
 But no one told the audience this. No one shared what actually occurred. No one got primary source accounts before the emotional display. So the audience formed a mob mentality based on emotional intensity rather than facts.
 
-Afterward, when people finally heard what had actually happened, the response was consistent: "That's it? I thought it was something much worse based on how angry that person was."
+Afterward, the few people who finally heard what had actually happened had a consistent response: "That's it? I thought it was something much worse based on how angry that person was." Most of the group never learned what actually occurred—they only had the emotional intensity to judge by.
 
 ### What Should Have Happened
 
@@ -328,9 +328,11 @@ Even better:
 
 If Person B had said, "Yeah, I feel complete. We worked it out. I don't hold anything against them"—then everyone would have seen the Rescuer's rage for what it was: an over-response driven by their own stories, not by the actual severity of what occurred.
 
-The audience would have had context. They would have seen: the person who was actually wronged isn't even upset. This angry person is representing their own emotions, not the victim's. This is a [Rescuer](./drama-triangle.md) dynamic, not justified outrage.
+The audience would have had context. Most would have seen: the person who was actually wronged isn't even upset. This angry person is representing their own emotions, not the victim's. This is a [Rescuer](./drama-triangle.md) dynamic, not justified outrage.
 
-And the witch hunt wouldn't have formed.
+Not everyone—some people will still view things through their own trauma filters and side with intensity regardless of facts. But the *majority* would recognize this as an over-response. And that's what matters. Mobs form when the whole room gets swept up. When most people have context and can see clearly, the groupthink works *for* truth instead of against it.
+
+The witch hunt wouldn't have formed.
 
 ### Your Duty as Facilitator
 
