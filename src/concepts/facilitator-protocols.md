@@ -690,6 +690,25 @@ Your participants are reading your nervous system. They're mirroring your emotio
 
 (See: [Your Emotions Set the Room](#your-emotions-set-the-room))
 
+### Conflict Is Your Greatest Teaching Moment
+
+Here's the reframe that changes everything:
+
+**When something goes wrong in your container, it's not a problem. It's an opportunity to teach more powerfully than you ever could when things are calm.**
+
+During your exercises and talks, you're *telling* lessons. When someone's angry, when someone's attacking you or another participant, when chaos erupts—suddenly you're *showing* the lesson. And that's what sticks.
+
+Your participants will forget most of what you said during the comfortable parts. They will remember forever how you handled the hard parts.
+
+- The moment someone attacked you and you held your ground with dignity
+- The moment a mob was forming and you stayed calm
+- The moment someone was being treated unfairly and you protected them
+- The moment you could have fawned and you didn't
+
+These become the lessons they carry into their lives. Not your slides. Not your exercises. Your actions in the moments that mattered.
+
+**So when things go awry, don't see it as failure. See it as the moment your real curriculum begins.**
+
 ### The Gap Between Knowing and Being
 
 Many facilitators *know* these principles. They can articulate them perfectly. But there's a gap between knowing and being.
