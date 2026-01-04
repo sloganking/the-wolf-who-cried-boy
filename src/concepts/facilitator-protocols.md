@@ -360,6 +360,30 @@ If you take steps to ensure your audience is always informed—always has contex
 
 Not because you caused it directly. But because you had the power to prevent it and didn't use it. Everyone in the room could have spoken up—but you, as facilitator, were in the best position to guide things toward truth. That's your job.
 
+### When Someone Has Already Formed a Conclusion
+
+Sometimes you're too late. Someone has already formed a story and is treating it as fact.
+
+Here's what you can do:
+
+**Prompt them to consider alternatives.** People's brains latch onto the first plausible explanation and stop looking. Your job is to gently reopen the search.
+
+> "That's one story about what happened. What are some other explanations that could fit the same facts?"
+
+> "Did you use [Notice, Feel, Story](../tools/notice-feel-story.md)? What did you actually observe versus what you interpreted?"
+
+> "If a participant had done the exact same thing, would you have assumed the same intent?"
+
+**Name the pattern when you see it.** When someone has jumped to a conclusion without checking, you can point it out:
+
+> "I notice you've formed a conclusion about their intent. Did you verify that with them? Or is that your story about what happened?"
+
+> "It sounds like you're treating your interpretation as fact. Have you considered that something else might explain what you saw?"
+
+This isn't about invalidating their feelings. Their feelings are real. But their story might be wrong—and if they act on a wrong story with HIGH severity, real harm gets done.
+
+Your role is to slow things down enough for truth to have a chance.
+
 ---
 
 ## Conflict Is Your Greatest Teaching Moment
