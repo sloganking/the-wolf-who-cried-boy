@@ -43,9 +43,21 @@ Consider:
 
 Here's what I want you to consider:
 
-> **There is nothing I or anyone else can do that you can't.**
+> **There is nothing anyone has done or can do that you can't do as well.**
 
-Not because you're special. Because you're human. And humans have more creative power than we're taught to believe.
+Not because you're special. Because you're human. And humans have **unlimited creative potential**.
+
+### The Chessboard
+
+Think of life like a chessboard.
+
+You might start at a different position than someone else. You might have different rules about where you can move next—different constraints, different circumstances, different resources available right now.
+
+But ultimately, **you can get to any position on the board that they can get to.**
+
+Your starting square is not your destiny. The rules of your next move are not permanent. Given enough moves, enough time, enough persistence—any square is reachable.
+
+The people who achieved extraordinary things didn't start with extraordinary positions. They just kept moving. And they believed the destination was possible for someone like them.
 
 ---
 
