@@ -301,13 +301,13 @@ That last question is powerful. If they tell you upfront that they tend to fawn,
 
 This isn't just about their trauma—it's about yours.
 
-**Personal example:** I have exclusion trauma. I spent years feeling left out, and I have trauma around not being touched. I was playing with someone who had the opposite—trauma about being touched too much. They were hesitant to touch me because they were projecting their own experience onto me: they remembered how bad it felt to be touched when they didn't want it, and they never wanted me to experience that pain. So they held back.
+**Personal example:** I had exclusion trauma—I spent years feeling left out—and I had trauma around not being touched. I was playing with someone who had the opposite—trauma about being touched too much. They were hesitant to touch me because they were projecting their own experience onto me: they remembered how bad it felt to be touched when they didn't want it, and they never wanted me to experience that pain. So they held back.
 
 That made complete sense for them. But I forgot to tell them about MY trauma—which gets activated when I'm _not_ touched. A poor combination.
 
 Now I have a request I make upfront:
 
-> "If we're headed toward sex and you decide you're no longer interested, please tell me immediately—as soon as you become aware. I have trauma around expecting something and then being let down. If I know early, I can adjust. If I find out at the last moment, it's much harder for me."
+> "If we're headed toward sex and you decide you're no longer interested, please tell me as soon as you become aware. I have trauma around expecting something and then being let down. If I know early, I can adjust. If I find out at the last moment, it's much harder for me."
 
 That's me taking [responsibility](./responsibility.md) for my own trauma. Not expecting them to read my mind—but communicating what I need so we can both have a good experience.
 
