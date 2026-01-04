@@ -240,7 +240,7 @@ Not as blame. Not as burden. As recognition of your power.
 
 But this claim only makes sense if you accept something first: that you actually *have* the power to affect the entire world. If you don't believe that, "responsible for everything" sounds absurd.
 
-So before you can be **omni-responsible**, you need to see yourself as **omnipotent**.
+So before you can be **omniresponsible**, you need to see yourself as **omnipotent**.
 
 See: [How Much Power Do You Have?](./your-power.md) — The case for your unlimited creative potential
 

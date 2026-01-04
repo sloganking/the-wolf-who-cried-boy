@@ -37,9 +37,9 @@ Consider:
 
 - **Tony Robbins** grew up so poor his family could barely feed itself. Now he's fed over 60 billion meals through charity. He went from nothing to billionaire to global impact.
 
-- **Oprah Winfrey** was born into poverty, experienced abuse, and became one of the most influential people on the planet.
-
 - Every major social change—civil rights, women's suffrage, the end of apartheid—happened because individuals believed they could affect something "too big" for them to affect.
+
+- In these spaces: participants who seemed "powerless" have shaped entire containers, protected people from witch hunts, and changed how facilitators run their events—simply by speaking up, standing their ground, or offering perspective no one else had.
 
 Here's what I want you to consider:
 
@@ -49,15 +49,15 @@ Not because you're special. Because you're human. And humans have **unlimited cr
 
 ### The Chessboard
 
-Think of life like a chessboard.
+Think of it like a chessboard.
 
 You might start at a different position than someone else. You might have different rules about where you can move next—different constraints, different circumstances, different resources available right now.
 
 But ultimately, **you can get to any position on the board that they can get to.**
 
-Your starting square is not your destiny. The rules of your next move are not permanent. Given enough moves, enough time, enough persistence—any square is reachable.
+Your starting square is not your destiny. The rules of your next move are not permanent. Given enough moves, enough persistence—any square is reachable.
 
-The people who achieved extraordinary things didn't start with extraordinary positions. They just kept moving. And they believed the destination was possible for someone like them.
+**In these spaces, this means:** You're not stuck in the position of "victim" or "powerless participant." Even if someone wronged you, even if you're being attacked, even if a mob is forming—you have moves. You can affect how this unfolds. You can shape the outcome. The square you're on right now is not where you have to stay.
 
 ---
 
@@ -102,7 +102,7 @@ But the power is still there. Waiting for them to see it.
 
 ---
 
-## Omnipotent → Omni-Responsible
+## Omnipotent → Omniresponsible
 
 Here's the connection that ties everything together:
 
@@ -112,7 +112,7 @@ If you believe your power is limited, your responsibility is limited. You can on
 
 But if you see yourself as **omnipotent**—if you recognize that you can influence far more than you've been taught—then your responsibility expands to match.
 
-**Omni-responsibility follows from omnipotence.**
+**Omniresponsibility follows from omnipotence.**
 
 ### You Are Responsible for the Entire World
 
@@ -140,7 +140,9 @@ The person who believes they can only affect their immediate circle acts accordi
 
 Your identity determines your actions. Change the identity, and the actions follow.
 
-The first step to affecting the world is believing you can.
+**In these spaces, this means:** If you see yourself as a helpless participant who can't stand up to an angry accuser, you'll act that way—you'll [fawn](./fawning.md), appease, accept blame that isn't yours. But if you see yourself as someone with real power to affect outcomes, you'll act differently—you'll hold your ground, set boundaries, decline false responsibility.
+
+The first step to affecting the world is believing you can. The first step to handling conflict with power is believing you have any.
 
 ## Why This Matters for the Drama Triangle
 
@@ -176,13 +178,14 @@ I'm not asking you to believe this intellectually. I'm asking you to consider:
 
 **What if this were true?**
 
-- How would you act differently?
-- What would you attempt that you've dismissed as "not for someone like me"?
-- What would you take responsibility for that you've been avoiding?
+- How would you act differently when someone accuses you unfairly?
+- How would you show up in a container if you knew you could shape what happens?
+- What responsibility would you take for outcomes you've been blaming on others?
+- What boundaries would you set if you believed you had the power to enforce them?
 
 Try it on. See what happens.
 
-The people who break through—who build things, change things, affect the world at scale—aren't fundamentally different from you. They just stopped believing the story of their own smallness.
+The people who navigate these spaces with grace—who don't get swept up in witch hunts, who hold their ground when attacked, who take responsibility without accepting false blame—aren't fundamentally different from you. They just stopped believing the story of their own powerlessness.
 
 You can stop believing it too.
 
