@@ -288,6 +288,78 @@ If you can hold your center while chaos swirls, you've just given the entire roo
 
 ---
 
+## Create an Informed Container
+
+Here's something facilitators often miss:
+
+**Before emotions are expressed publicly, make sure your audience knows what actually happened.**
+
+Human nature is to believe things based on feelings, not facts. When your participants see someone angry and someone apologizing, they don't analyze the data. They assume: "If someone is THIS upset, something terrible must have happened." And they form judgments accordingly—without ever knowing what occurred.
+
+This is how witch hunts start.
+
+### A Real Example
+
+At a retreat, an incident occurred. Person A made a mistake against Person B—something in the LOW to MEDIUM range. They talked. Person B felt complete about it. Issue resolved.
+
+But Person B's partner—let's call them the Rescuer—heard what happened and got furious. They weren't there. They didn't witness it. They just heard about it through Person B's initial upset.
+
+The next day, the facilitators set up an exercise where the Rescuer and the mistake-maker could talk. Emotions ran high. The Rescuer was attacking with maximum intensity. The mistake-maker was apologizing, trying to de-escalate.
+
+**What the audience saw:** Someone very angry. Someone apologizing.
+
+**What the audience concluded:** The mistake must have been severe. The angry person must be justified. The apologizer must be guilty of something terrible.
+
+**What actually happened:** A MEDIUM mistake that had already been resolved with the actual person involved—who wasn't even upset anymore.
+
+But no one told the audience this. No one shared what actually occurred. No one got primary source accounts before the emotional display. So the audience formed a mob mentality based on emotional intensity rather than facts.
+
+Afterward, when people finally heard what had actually happened, the response was consistent: "That's it? I thought it was something much worse based on how angry that person was."
+
+### What Should Have Happened
+
+Before the emotional exercise, the facilitator should have said:
+
+> "Before we do this, let's hear from the people who were actually involved. Person A, Person B—can you each share your perspective on what happened?"
+
+Even better:
+
+> "Person B, you and Person A talked last night. How do you feel about it now? Is this resolved for you?"
+
+If Person B had said, "Yeah, I feel complete. We worked it out. I don't hold anything against them"—then everyone would have seen the Rescuer's rage for what it was: an over-response driven by their own stories, not by the actual severity of what occurred.
+
+The audience would have had context. They would have seen: the person who was actually wronged isn't even upset. This angry person is representing their own emotions, not the victim's. This is a [Rescuer](./drama-triangle.md) dynamic, not justified outrage.
+
+And the witch hunt wouldn't have formed.
+
+### Your Duty as Facilitator
+
+**You are in the prime position to guide your container toward truth.**
+
+Human nature will lead people to:
+- Believe things based on emotional intensity rather than facts
+- Form judgments before they have information
+- Mirror the angriest person in the room
+- Spread rumors and unverified beliefs
+
+You can't change human nature. But you can work with it.
+
+If you take steps to ensure your audience is always informed—always has context, always hears from primary sources before judgments form—then your container will operate more from truth. There will be fewer witch hunts. Fewer mob dynamics. Fewer people destroyed by over-responses to MEDIUM mistakes.
+
+**Practical steps:**
+
+1. Before emotional processing happens publicly, get the facts on the table
+2. Have primary sources share their perspectives—both of them
+3. Check: Is the person who was wronged still upset? Or has this been resolved?
+4. Name when someone isn't a primary source: "You weren't there—you're responding to what you heard, not what you witnessed"
+5. Give the audience context before they form conclusions
+
+**If you don't do this, you're responsible for the witch hunt that follows.**
+
+Not because you caused it directly. But because you had the power to prevent it and didn't use it. Everyone in the room could have spoken up—but you, as facilitator, were in the best position to guide things toward truth. That's your job.
+
+---
+
 ## Conflict Is Your Greatest Teaching Moment
 
 Here's the reframe that changes everything:
