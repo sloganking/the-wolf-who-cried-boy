@@ -173,7 +173,9 @@ Nothing matters more for a facilitator than alignment between what you say and w
 
 You can teach about consent, boundaries, and dignity all day. But what people learn is what they see you do when it's hard.
 
-**Show, don't tell.**
+> **Show, don't tell.**
+
+This principle is so important it has [its own section](#show-dont-tell). If you take nothing else from this book, take this: **people don't learn what you teach—they learn what you do.**
 
 If you say everyone deserves dignity and respect, but you let someone treat you like shit because you're scared of them—you've just taught everyone that dignity is negotiable when someone gets angry enough.
 
@@ -646,20 +648,79 @@ This is the [Creator](./drama-triangle.md) dynamic, not the Rescuer dynamic. You
 
 ## Show, Don't Tell
 
-Your participants learn more from what you do than what you say.
+**If there is one principle that governs everything else in this book, it's this:**
 
-| What You Say                    | What You Do                                  | What They Learn                  |
+> **People don't learn what you teach. They learn what you do.**
+
+This is the most important thing to understand as a facilitator. More important than your curriculum. More important than your exercises. More important than anything you say.
+
+### Words Are Cheap
+
+You can give the most eloquent talk about consent. You can explain the drama triangle beautifully. You can teach RBDSMT and facilitator protocols and appropriate response.
+
+None of it matters if your actions contradict it.
+
+When you're tested—when a participant is angry, when a mob is forming, when you're scared—your actions in that moment teach more than every word you've ever spoken. Your participants are watching. And they're learning from what you *do*, not what you *said*.
+
+### The Table of Lessons
+
+| What You Say                    | What You Do                                  | What They Actually Learn         |
 | ------------------------------- | -------------------------------------------- | -------------------------------- |
 | "Everyone deserves respect"     | You let someone disrespect you               | Respect is optional when angry   |
 | "Mistakes don't mean leaving"   | You kick someone out under pressure          | Mob pressure wins                |
 | "We verify before judging"      | You take action based on one side            | Verification is lip service      |
 | "Proportional responses matter" | You let HIGH responses to LOW mistakes slide | Severity doesn't actually matter |
+| "You deserve dignity"           | You don't stand up for yourself              | Dignity is just a nice idea      |
+| "Take responsibility"           | You blame others when things go wrong        | Responsibility is for others     |
 
 **If your actions contradict your words, your actions are what people remember.**
 
-This is why walking your talk is the most important thing as a facilitator. Not your curriculum. Not your marketing. Not your reputation.
+### Your Body Teaches Too
 
-Your integrity.
+It's not just your actions. Your **body** teaches.
+
+When someone is attacking you or another participant, your animal body is communicating constantly:
+
+- Are you calm or panicked?
+- Are you grounded or reactive?
+- Does your energy say "this is an emergency" or "this will be handled"?
+- Does your posture say "I'm confident in my values" or "I'm unsure if I deserve to be here"?
+
+Your participants are reading your nervous system. They're mirroring your emotional state. Your body is teaching them how to feel about what's happening—whether you intend it to or not.
+
+(See: [Your Emotions Set the Room](#your-emotions-set-the-room))
+
+### The Gap Between Knowing and Being
+
+Many facilitators *know* these principles. They can articulate them perfectly. But there's a gap between knowing and being.
+
+When you're tested:
+- Do you *become* what you teach?
+- Or do you revert to old patterns while your words echo uselessly in everyone's memory?
+
+This is why the hardest work for facilitators isn't learning the material. It's **embodying** it so deeply that you don't have to think about it when things get hard. It just *is* who you are.
+
+### The Ultimate Standard
+
+Here's the bar to hold yourself to:
+
+> **If I had no words—if I could only be observed—would my actions teach the principles I claim to believe?**
+
+If yes, you're walking your talk.
+
+If no, your words are just noise. And your participants will learn from your actions instead.
+
+### This Is Your Integrity
+
+Walking your talk is the most important thing as a facilitator.
+
+Not your curriculum. Not your marketing. Not your reputation. Not how many retreats you've led or trainings you've completed.
+
+**Your integrity.**
+
+The alignment between what you say and what you do. The alignment between what you teach and who you are.
+
+That's what participants actually learn from. That's what changes their lives. That's what makes you worth following.
 
 ---
 
