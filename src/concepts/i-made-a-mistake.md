@@ -87,7 +87,7 @@ If you're hiding at home in shame, you can't do that. The wisdom you earned thro
 
 ### You Become the Clearest Judge
 
-It's not just that you can teach. **You're now the most qualified person to see reality clearly when a similar situation occurs.**
+It's not just that you can teach. **You're now one of the most qualified people to see reality clearly when a similar situation occurs.**
 
 Because you went through it, you've seen:
 
