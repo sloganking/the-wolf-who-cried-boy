@@ -47,6 +47,29 @@ If you've been insecure about what you offer, this gives you something concrete:
 
 That's rare. That's valuable. That's attractive.
 
+### Don't Fawn When You Repair
+
+Here's something important: **making it right should not violate your own boundaries.**
+
+You might feel grief or remorse after making a mistake. That's natural. But repair is not self-punishment. You don't owe them actions that make you uncomfortable. You're not doing this out of obligation or blame.
+
+The goal is to add value to them—not to take value from yourself. This isn't eye-for-an-eye. You're not trying to suffer proportionally to what they experienced.
+
+If your repair actions are slightly uncomfortable, that might feel appropriate—your mistake caused them discomfort, so some discomfort in fixing it makes sense. But it doesn't *have* to be uncomfortable. The best repairs come from genuine care, not from guilt-driven self-sacrifice.
+
+**Here's the trap:** If you [fawn](./fawning.md) when you repair—if you appease them by doing things you actually don't want to do—two things happen:
+
+1. **You'll feel resentment.** You did something you didn't want to do. That breeds bitterness, not resolution.
+2. **The repair won't actually work.** They might sense you're not genuine. Or you'll pull away later because of the resentment. Either way, it doesn't hold.
+
+Real repair should make you like yourself more, not less. You're becoming someone who takes responsibility AND maintains their own integrity. Both matter.
+
+If what they're asking for crosses your boundaries, you can say:
+
+> "I want to make this right. I'm not available for [X], but I can offer [Y]. Would that work?"
+
+That's still repair. It's just repair that doesn't require self-betrayal.
+
 ## When the Other Person Doesn't Want Contact
 
 Sometimes the person receiving the repair may:
