@@ -298,23 +298,27 @@ Human nature is to believe things based on feelings, not facts. When your partic
 
 This is how witch hunts start.
 
-### A Real Example
+### How This Pattern Plays Out
 
-At a retreat, an incident occurred. Person A made a mistake against Person B—something in the LOW to MEDIUM range. They talked. Person B felt complete about it. Issue resolved.
+Imagine this scenario—it happens more often than you'd think:
 
-But Person B's partner—let's call them the Rescuer—heard what happened and got furious. They weren't there. They didn't witness it. They just heard about it through Person B's initial upset.
+Someone makes a MEDIUM mistake. The person affected talks to them about it. They work it out. The affected person feels complete. Issue resolved.
 
-The next day, the facilitators set up an exercise where the Rescuer and the mistake-maker could talk. Emotions ran high. The Rescuer was attacking with maximum intensity. The mistake-maker was apologizing, trying to de-escalate.
+But the affected person's partner hears about it. They weren't there. They didn't witness anything. They just heard about it secondhand—and they're furious. They step into [Rescuer](./drama-triangle.md) mode.
 
-**What the audience saw:** Someone very angry. Someone apologizing.
+Now the facilitators set up an exercise where the Rescuer and the mistake-maker can process. Emotions run high. The Rescuer is attacking with maximum intensity. The mistake-maker is apologizing, trying to de-escalate.
 
-**What the audience concluded:** The mistake must have been severe. The angry person must be justified. The apologizer must be guilty of something terrible.
+**What the audience sees:** Someone very angry. Someone apologizing.
 
-**What actually happened:** A MEDIUM mistake that had already been resolved with the actual person involved—who wasn't even upset anymore.
+**What the audience concludes:** The mistake must have been severe. The angry person must be justified. The apologizer must be guilty of something terrible.
 
-But no one told the audience this. No one shared what actually occurred. No one got primary source accounts before the emotional display. So the audience formed a mob mentality based on emotional intensity rather than facts.
+**What actually happened:** A MEDIUM mistake that had already been resolved with the actual person involved—who isn't even upset anymore.
 
-Afterward, the few people who finally heard what had actually happened had a consistent response: "That's it? I thought it was something much worse based on how angry that person was." Most of the group never learned what actually occurred—they only had the emotional intensity to judge by.
+But no one tells the audience this. No one shares what actually occurred. No one gets primary source accounts before the emotional display. So the audience forms a mob mentality based on emotional intensity rather than facts.
+
+Later, if anyone finds out what actually happened, the response is consistent: "That's it? I thought it was something much worse based on how angry that person was."
+
+But most of the group never learns. They only have the emotional intensity to judge by. And the witch hunt has already begun.
 
 ### What Should Have Happened
 
