@@ -301,7 +301,9 @@ That last question is powerful. If they tell you upfront that they tend to fawn,
 
 This isn't just about their trauma—it's about yours.
 
-**Personal example:** I have exclusion trauma. I spent years feeling left out, and I have trauma around not being touched. I was playing with someone who had the opposite—trauma about being touched too much. They were hesitant to touch me, which made sense for them, but I forgot to tell them about MY trauma.
+**Personal example:** I have exclusion trauma. I spent years feeling left out, and I have trauma around not being touched. I was playing with someone who had the opposite—trauma about being touched too much. They were hesitant to touch me because they were projecting their own experience onto me: they remembered how bad it felt to be touched when they didn't want it, and they never wanted me to experience that pain. So they held back.
+
+That made complete sense for them. But I forgot to tell them about MY trauma—which gets activated when I'm _not_ touched. A poor combination.
 
 Now I have a request I make upfront:
 
