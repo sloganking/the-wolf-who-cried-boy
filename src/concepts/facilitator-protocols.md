@@ -4,7 +4,7 @@
 
 ---
 
-## The Safety Contract
+## The Promise
 
 One of the most powerful things a facilitator can do is establish clear rules at the beginning of a container—and make an explicit promise:
 
@@ -718,7 +718,7 @@ Your actions in this moment define whether your container is real or theater.
 
 ## The Emergency Exception
 
-The promise says participants are protected as long as they follow the rules. But there are rare situations where a facilitator must act before rules are broken—or must remove someone who isn't the one breaking them.
+[The promise](#the-promise) says participants are protected as long as they follow the rules. But there are rare situations where a facilitator must act before rules are broken—or must remove someone who isn't the one breaking them.
 
 **This is not a loophole.** It's acknowledgment that safety sometimes requires action that doesn't fit neatly into the framework.
 
