@@ -1,10 +1,12 @@
-# Facilitating Framework
+# Sexy Minesweeper
 
-A practical system for understanding mistakes, responsibility, and repair in somatic and intimacy spaces.
+**Explode Your Pleasure, Not Your Life.**
+
+A framework for navigating mistakes, power, and repair in intimate spaces.
 
 ## 📖 Read Online
 
-**[View the book →](https://sloganking.github.io/facilitating/)**
+**[View the book →](https://sloganking.github.io/sexy-minesweeper/)**
 
 ## What This Is
 
@@ -65,15 +67,14 @@ src/
 │   ├── responsibility.md
 │   ├── fawning.md
 │   ├── power-dynamics.md
+│   ├── before-play.md
+│   ├── facilitator-protocols.md
 │   └── ...
 ├── tools/               # Practical teaching tools
 │   ├── gun-test.md
 │   ├── popcorn-metaphor.md
+│   ├── notice-feel-story.md
 │   └── 100-percent-control.md
-├── charts/              # Visual reference materials
-│   ├── severity-scale.md
-│   ├── mistake-matrix.md
-│   └── ...
 ├── examples.md          # Walkthrough scenarios
 └── quick-reference.md   # Quick lookup tables
 ```

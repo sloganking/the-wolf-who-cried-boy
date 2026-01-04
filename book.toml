@@ -10,4 +10,4 @@ build-dir = "docs"
 [output.html]
 default-theme = "coal"
 preferred-dark-theme = "coal"
-git-repository-url = "https://github.com/sloganking/facilitating"
+git-repository-url = "https://github.com/sloganking/sexy-minesweeper"
