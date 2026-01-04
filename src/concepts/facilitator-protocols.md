@@ -167,13 +167,15 @@ You can adapt this language to your style. The key is: **say it early, say it cl
 
 ---
 
-# SHOW, DON'T TELL
-
----
+## The Core Principle: Show, Don't Tell
 
 **If there is one principle that governs everything else in this book—one thing to take with you if you take nothing else—it's this:**
 
-> ## People don't learn what you teach. They learn what you do.
+> **People don't learn what you teach. They learn what you do.**
+
+Or, put another way:
+
+> **We must become what we wish to teach.**
 
 This is the most important thing to understand as a facilitator. More important than your curriculum. More important than your exercises. More important than anything you say.
 
