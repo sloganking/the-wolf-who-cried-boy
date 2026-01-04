@@ -356,9 +356,26 @@ If *you* don't deserve dignity when things are hard, then *nobody* does. You've 
 
 Standing up for yourself when someone is attacking you—especially when you're in a role that's "supposed to serve"—is one of the hardest things there is.
 
-It's much easier to appease. To let it slide. To tell yourself "I'm being the bigger person" when really you're just scared.
+> "One of the biggest lies we were ever told is that it is supposedly easy to be selfish, and that self-sacrifice takes spiritual strength. People sacrifice themselves in a thousand ways every day. This is their tragedy. To honor the self—to honor mind, judgment, values, and convictions—is the ultimate act of courage. Observe how rare it is. But it is what self-esteem asks of us."
+> — Nathaniel Branden, _The Six Pillars of Self-Esteem_
+
+It's much easier to appease. To let it slide. To tell yourself "I'm being the bigger person" when really you're just scared. Self-sacrifice is common. Honoring yourself is rare.
 
 But this is exactly where the teaching matters most. **The moment someone treats you without dignity is the moment your response teaches everyone what you actually believe.**
+
+### Embody the Identity, Not Just the Idea
+
+Here's what makes standing your ground actually work:
+
+You can't just *intellectually* know you deserve dignity. You have to **embody** it. The divinity has to be your identity, not just a thought in your head.
+
+Ask yourself: How does the divine receive someone's anger? How is the divine to be treated? How is this person speaking to me, and how does it deviate from that?
+
+If you embody the identity of someone who is worthy—truly inhabit it—the actions follow naturally. Setting boundaries becomes automatic because it's simply what you do. You don't have to remember to do it. It flows from who you are.
+
+But if your divinity is only intellectual—if underneath, your identity is still "small," "helpless," "not worth it," "not worth being treated with respect"—then even if you say the right words, your animal body will betray you. Your energy will communicate that there's legitimacy in what the angry person is saying. You'll set the boundary verbally while crumbling emotionally. And everyone watching will feel it.
+
+**Show, don't tell.** Your participants learn what you do, not what you say. And your body shows what you really believe about yourself.
 
 If you hold your ground—firmly, without aggression, with clear boundaries—you show:
 
