@@ -4,6 +4,18 @@
 
 ---
 
+## A Note on Severity
+
+Facilitating sex-positive events is **higher severity** than most other facilitation work.
+
+The stakes are higher. The mistakes are more costly. The dynamics are more complex. The potential for harm—and the potential for profound healing—are both amplified.
+
+This means that having the concepts in this book deeply understood and embodied isn't optional. Whether you learn them here or elsewhere, having these principles figured out will be **imperative to your continued happiness and success** as a facilitator.
+
+If you're facilitating in intimate spaces without this foundation, you're playing minesweeper without knowing where the mines are.
+
+---
+
 ## The Promise
 
 One of the most powerful things a facilitator can do is establish clear rules at the beginning of a container—and make an explicit promise:
