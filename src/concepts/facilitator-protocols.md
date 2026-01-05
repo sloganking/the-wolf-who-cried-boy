@@ -16,6 +16,62 @@ If you're facilitating in intimate spaces without this foundation, you're playin
 
 ---
 
+## Will You Play With Participants?
+
+One of the first decisions you need to make as a facilitator is whether you will engage in intimate or sexual play with participants in your container.
+
+Some facilitators choose not to. Others choose to participate fully. Both are valid choices—but each comes with tradeoffs you need to understand.
+
+### If You Choose NOT to Play
+
+**Pros:**
+- Cleaner power dynamics—no questions about whether your authority influenced a participant's consent
+- Easier to stay objective when conflicts arise
+- Less personal risk of being involved in a mistake or accusation
+- You can focus entirely on holding the container
+
+**Cons:**
+- May feel disconnected from what participants are experiencing
+- Less experiential understanding of the vulnerabilities involved
+- Some participants may perceive you as outside the experience rather than part of it
+
+### If You Choose TO Play
+
+**Pros:**
+- Deeper connection with participants—you're in it together
+- Leading by example—showing how to navigate these spaces, not just telling
+- Direct understanding of participant experience and vulnerabilities
+- Can model good behavior in real-time
+
+**Cons:**
+- Power dynamics become more complex—did they say yes because they wanted to, or because you're the authority figure?
+- You will eventually make mistakes or have mistakes made against you
+- You are now subject to over-responses, accusations, and the same dynamics you're trying to manage
+- Harder to stay objective when you're personally involved in conflicts
+
+### The Acceptance
+
+If you choose to play with participants, **you must accept that mistakes and over-responses will eventually occur.**
+
+This isn't a possibility—it's a certainty. Play long enough and:
+- You will cross someone's boundary accidentally
+- Someone will cross yours
+- Someone will over-respond to a mistake you made
+- You'll have to navigate being both facilitator and participant in a conflict
+
+This isn't a reason not to play. But it IS something you must go in with eyes open about. If you're not prepared to handle being on the receiving end of the dynamics this book describes, you're not ready to be a facilitator who plays.
+
+### No Judgment Either Way
+
+Neither choice is "right." What matters is:
+1. You make the choice consciously
+2. You understand the tradeoffs
+3. You're prepared for the consequences of your choice
+
+Some of the best facilitators never touch a participant. Some of the best facilitators are fully in the mix. What they have in common is clarity about their choice and how to handle what comes with it.
+
+---
+
 ## The Promise
 
 One of the most powerful things a facilitator can do is establish clear rules at the beginning of a container—and make an explicit promise:
