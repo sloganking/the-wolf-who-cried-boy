@@ -246,6 +246,46 @@ See: [How Much Power Do You Have?](./your-power.md) — The case for your unlimi
 
 See also: [100% Control](../tools/100-percent-control.md)
 
+### Am I Responsible If I'm Struck by Lightning?
+
+Yes.
+
+Most people would consider a lightning strike a fate-chance event—something completely outside their control. And in a sense, they're right. At the moment the lightning is descending, there's no fancy dance moves you can do to stop it. In that instant, it's going to happen.
+
+So how can you be responsible for something that seemed like pure chance, especially when you had no options in the moment it occurred?
+
+**The answer: Go back in time.**
+
+At some point in the past, there were choices you could have made that would have created a different outcome. Your actions and inactions—across your entire life—led to you being in that specific place, at that specific time, in those specific conditions.
+
+Consider what was within your power:
+
+- **Where you live** — Cities with buildings and lightning rods give you virtually 100% protection. Some climates have almost no lightning year-round.
+- **Your awareness** — Do you check weather reports? Do you know when intense storms are coming?
+- **Your habits** — Do you avoid walking outside during intense storms when lightning is most likely?
+- **Your knowledge** — Have you educated yourself on what shelter to seek, what positions are safest, what to do when caught outside?
+- **Your choices that day** — Were you somewhere you needed to be, or somewhere you chose to be?
+
+Every one of these was within your control. Not the lightning itself—but whether you were in its path.
+
+**The principle:**
+
+Even when you can't control an outcome in the present moment, you can usually trace back to a point where different choices would have created a different result. Your actions and inactions—including ones you took years ago—played a part in creating the outcome.
+
+This doesn't mean you should feel guilty about being struck by lightning. It means you can still ask the responsibility questions:
+
+1. **What happened?**
+2. **How did my actions and inactions create this outcome?**
+3. **What actions can I take to create what I want in the future?**
+
+Maybe the answer is: "In the future, I'll check the weather more carefully" or "I'll learn more about lightning safety" or "I'll reconsider where I live."
+
+The point isn't to beat yourself up over unlikely events. The point is that *even for unlikely events*, responsibility gives you power. You're not a passive victim of random chance. You're a creator whose choices—conscious or unconscious—shaped the field of possibilities.
+
+And that means you can shape it differently next time.
+
+---
+
 ## The Responsibility Mirror
 
 Here's a term for an important check:
