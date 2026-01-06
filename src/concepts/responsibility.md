@@ -270,7 +270,7 @@ Every one of these was within your control. Not the lightning itself—but wheth
 
 **The principle:**
 
-Even when you can't control an outcome in the present moment, you can usually trace back to a point where different choices would have created a different result. Your actions and inactions—including ones you took years ago—played a part in creating the outcome.
+Even when you can't control an outcome in the present moment, you can always trace back to a point where different choices would have created a different result. Your actions and inactions—including ones you took years ago—played a part in creating the outcome.
 
 This doesn't mean you should feel guilty about being struck by lightning. It means you can still ask the responsibility questions:
 
