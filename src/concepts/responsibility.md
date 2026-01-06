@@ -254,33 +254,32 @@ The point isn't to beat yourself up over unlikely events. The point is that *eve
 
 And that means you can shape it differently next time.
 
-## Omni-Responsible
+## Omniresponsible
 
-You are responsible for everything in your life that you have the power to influence.
+If the lightning principle is true—that you can always trace back to choices that shaped the outcome—then how far does that extend?
 
-Not because you caused everything. But because you can influence it.
+The answer: **everywhere.**
 
-Even when someone else made the mistake, you can ask:
+Your actions and inactions play a part in creating everything that happens around you. Not just the obvious things. Not just the things that feel like "your fault." Everything.
 
-- How did I contribute to this situation?
-- What could I have done differently?
-- What will I do differently next time?
+- The container you're in? Your choices brought you there.
+- The people you interact with? You chose to be around them.
+- The conflict that erupted? Your actions—or inactions—contributed.
+- The world beyond your immediate life? Your participation in systems, your voice, your silence—all of it shapes what exists.
 
-This isn't self-blame. It's self-empowerment.
+This is what it means to be **omniresponsible**: recognizing that your influence extends to everything you touch, and everything you don't.
 
-### The Full Version
+### This Isn't Burden—It's Power
 
-Here's how far this goes:
+The reason this matters isn't to make you feel guilty about the state of the world. It's to show you how much you can change.
 
-> **You are responsible for the entire world and everything in it.**
+If your actions contributed to creating something, your actions can contribute to creating something different. That's the gift of responsibility. It's not a weight to carry—it's leverage to move things.
 
-Not as blame. Not as burden. As recognition of your power.
+But this only works if you believe you actually *have* that kind of reach. If you think your power is small, responsibility for big things sounds absurd.
 
-But this claim only makes sense if you accept something first: that you actually *have* the power to affect the entire world. If you don't believe that, "responsible for everything" sounds absurd.
+So before you can be omniresponsible, you need to see yourself as **omnipotent**—having unlimited creative potential.
 
-So before you can be **omniresponsible**, you need to see yourself as **omnipotent**.
-
-See: [How Much Power Do You Have?](./your-power.md) — The case for your unlimited creative potential
+See: [How Much Power Do You Have?](./your-power.md) — The case for why that's true
 
 See also: [100% Control](../tools/100-percent-control.md)
 
