@@ -216,37 +216,7 @@ Instead of lecturing someone on morality:
 
 People can't take responsibility for things they believe they have no control over. The key is helping them see their control.
 
-## Omni-Responsible
-
-You are responsible for everything in your life that you have the power to influence.
-
-Not because you caused everything. But because you can influence it.
-
-Even when someone else made the mistake, you can ask:
-
-- How did I contribute to this situation?
-- What could I have done differently?
-- What will I do differently next time?
-
-This isn't self-blame. It's self-empowerment.
-
-### The Full Version
-
-Here's how far this goes:
-
-> **You are responsible for the entire world and everything in it.**
-
-Not as blame. Not as burden. As recognition of your power.
-
-But this claim only makes sense if you accept something first: that you actually *have* the power to affect the entire world. If you don't believe that, "responsible for everything" sounds absurd.
-
-So before you can be **omniresponsible**, you need to see yourself as **omnipotent**.
-
-See: [How Much Power Do You Have?](./your-power.md) — The case for your unlimited creative potential
-
-See also: [100% Control](../tools/100-percent-control.md)
-
-### Am I Responsible If I'm Struck by Lightning?
+## Am I Responsible If I'm Struck by Lightning?
 
 Yes.
 
@@ -284,7 +254,35 @@ The point isn't to beat yourself up over unlikely events. The point is that *eve
 
 And that means you can shape it differently next time.
 
----
+## Omni-Responsible
+
+You are responsible for everything in your life that you have the power to influence.
+
+Not because you caused everything. But because you can influence it.
+
+Even when someone else made the mistake, you can ask:
+
+- How did I contribute to this situation?
+- What could I have done differently?
+- What will I do differently next time?
+
+This isn't self-blame. It's self-empowerment.
+
+### The Full Version
+
+Here's how far this goes:
+
+> **You are responsible for the entire world and everything in it.**
+
+Not as blame. Not as burden. As recognition of your power.
+
+But this claim only makes sense if you accept something first: that you actually *have* the power to affect the entire world. If you don't believe that, "responsible for everything" sounds absurd.
+
+So before you can be **omniresponsible**, you need to see yourself as **omnipotent**.
+
+See: [How Much Power Do You Have?](./your-power.md) — The case for your unlimited creative potential
+
+See also: [100% Control](../tools/100-percent-control.md)
 
 ## The Responsibility Mirror
 
