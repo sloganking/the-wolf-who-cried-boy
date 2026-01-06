@@ -368,7 +368,7 @@ This framing has consequences:
 
 This is why declining false responsibility isn't about avoiding accountability. It's about refusing to accept a false framing that makes you solely responsible for an outcome multiple people created.
 
-You might have had 100% control over the outcome—meaning you *could* have prevented it. But others created it too. Having the power to stop something doesn't mean you should bear 100% of the fallout when multiple people's choices contributed.
+You might have had [100% control](../tools/100-percent-control.md) over the outcome—meaning you *could* have prevented it. But others created it too. Having the power to stop something doesn't mean you should bear 100% of the fallout when multiple people's choices contributed.
 
 ### Declining Is Responsible
 
