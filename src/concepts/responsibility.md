@@ -264,7 +264,7 @@ Consider what was within your power:
 - **Your awareness** — Do you check weather reports? Do you know when intense storms are coming?
 - **Your habits** — Do you avoid walking outside during intense storms when lightning is most likely?
 - **Your knowledge** — Have you educated yourself on what shelter to seek, what positions are safest, what to do when caught outside?
-- **Your choices that day** — Were you somewhere you needed to be, or somewhere you chose to be?
+- **Your timing** — Did you notice the storm building and stay outside anyway? Could you have left ten minutes earlier?
 
 Every one of these was within your control. Not the lightning itself—but whether you were in its path.
 
