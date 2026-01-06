@@ -285,24 +285,7 @@ See also: [100% Control](../tools/100-percent-control.md)
 
 ## The Responsibility Mirror
 
-Here's a term for an important check:
-
 > **The Responsibility Mirror**: Before demanding responsibility from someone else, look in the mirror. Are you taking responsibility for your part?
-
-When you're about to say "You need to take responsibility," ask yourself:
-
-- Did I verify before judging? ([Before You Judge](./before-you-judge.md))
-- Is my response proportional? ([Appropriate Response](./appropriate-response.md))
-- Am I acting from Persecutor? ([Drama Triangle](./drama-triangle.md))
-- Do I even know what happened?
-- What's MY responsibility in this situation?
-- Am I looking in the mirror, or only pointing outward?
-
-**Responsibility is always a two-way street.**
-
-If you're demanding it from someone else while refusing to examine your own role, you're not practicing responsibility—you're practicing blame.
-
-### The Accusers Who Don't Take Responsibility
 
 Watch for this pattern:
 
@@ -311,17 +294,19 @@ Watch for this pattern:
 3. "You need to take responsibility!"
 4. But the accusers aren't taking any themselves
 
-They're pointing fingers while refusing to look at their own hands.
+They're pointing fingers while refusing to look at their own hands. They're demanding responsibility while taking none themselves.
 
-**Failing the Responsibility Mirror—demanding responsibility while taking none yourself—is hypocrisy.**
-
-And often, the mob does more harm than the original incident.
+That's not accountability—it's blame. And often, the mob does more harm than the original incident.
 
 ## Decline False Responsibility
 
-Here's the flip side of everything above: **You are not responsible for more than you're responsible for.**
+If you're responsible for everything, how can there be "false" responsibility to decline?
 
-When someone plays victim, they act powerless. They refuse to see their own agency. And because they won't take responsibility for their part, they try to push it onto you.
+Here's the key: **Outcomes are created by multiple people.** You're responsible for YOUR part—your actions, your inactions, your choices. You're not responsible for carrying someone else's part when they refuse to own it.
+
+False responsibility is when someone denies their own power, plays victim, and tries to make you accountable for their failures. They won't look at how their choices contributed. They won't own their part. Instead, they push all the blame onto you—and expect you to carry it.
+
+This is what you decline.
 
 This looks like:
 
