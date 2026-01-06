@@ -353,6 +353,21 @@ You are NOT responsible for:
 
 **Own your part fully. Decline to own theirs.**
 
+### What Blame Actually Does
+
+Here's what's really happening when someone pushes false responsibility:
+
+They're not just failing to own their part—they're claiming they had **no part**. They act as if the outcome was 100% your creation and they were a passive victim of it.
+
+This framing has consequences:
+
+1. **They don't have to be accountable** — If they had no part, they have nothing to own
+2. **They don't have to make anything right** — If they caused nothing, they owe nothing
+3. **You become 100% responsible** — All the weight falls on you
+4. **Their demands become disproportionate** — They ask for more repair than your actual part warrants, because in their story, your part was everything
+
+This is why declining false responsibility isn't about avoiding accountability. It's about refusing to accept a false framing that makes you solely responsible for an outcome multiple people created.
+
 ### Declining Is Responsible
 
 Let's be clear about something:
