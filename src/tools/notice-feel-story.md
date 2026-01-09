@@ -49,6 +49,20 @@ State your interpretation explicitly as a story—then ask if it's true.
 - ✓ "My story is that you don't want to interact with me anymore. Is there any truth to that?"
 - ✗ "You obviously don't want to be around me." (Stated as fact, not checked.)
 
+### Watch for Pseudo-Feelings
+
+Step 2 is where most people slip up.
+
+**Pseudo-feelings** are things people say are feelings but aren't. "I feel like you don't care about me" isn't a feeling—it's a claim about someone else's internal state. You can't feel what's happening inside another person. You can only feel what's happening inside you.
+
+Real feelings: sad, scared, angry, hurt, confused, relieved, excited, anxious, disconnected.
+
+Pseudo-feelings: "I feel like you..." / "I feel that you..." / "I feel ignored" / "I feel abandoned" / "I feel disrespected."
+
+Those last three sound like feelings, but they're interpretations. "Ignored" means someone chose not to pay attention to you—that's a story about their behavior, not your internal state. The feeling underneath might be "hurt" or "lonely."
+
+**If you use pseudo-feelings, the tool breaks.** Your story leaks into the feeling step. You're smuggling accusations into "I feel."
+
 ## Why This Works
 
 ### It Separates Feelings from Stories
