@@ -18,6 +18,12 @@ The story feels like truth. It feels like what happened. But it's not.
 
 And your interpretation might be completely wrong.
 
+Here's the hard part: most people can't separate story from what actually occurred. They're not used to it. They may not even have the language for it—the distinction has never been pointed out to them. When you ask "what happened?" they tell you a story without realizing that's what they're doing.
+
+This is normal. It's not a character flaw. It's just that most people have never been given the tools to see the difference.
+
+Here's the tool.
+
 ## The Three-Step Framework
 
 This tool comes from Authentic Relating. It separates observation, feeling, and interpretation—so you can check your story before acting on it.
