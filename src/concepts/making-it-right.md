@@ -100,7 +100,7 @@ That said, sometimes one person clearly made the bigger mistake, the other perso
 
 **Here's when it becomes a problem:**
 
-Someone responds to a medium-severity harm with a high-severity attack. They play victim. They refuse to own any part—not even a small one. They extract maximum apology, maximum amends, maximum emotional labor—while contributing nothing. They're doing all the blaming while you do all the owning.
+Someone responds to a medium-severity harm with a high-severity attack. They play victim. They refuse to own any part—not even a small one. They extract everything—apologies, amends, emotional labor—while contributing nothing.
 
 **This isn't repair. It's one-sided extraction.**
 
