@@ -18,7 +18,6 @@
 - [Decline False Responsibility](./concepts/decline-false-responsibility.md)
 - [All Power Is Mutual](./concepts/all-power-is-mutual.md)
 - [Drama Triangle](./concepts/drama-triangle.md)
-- [How Much Power Do You Have?](./concepts/your-power.md)
 
 ---
 
