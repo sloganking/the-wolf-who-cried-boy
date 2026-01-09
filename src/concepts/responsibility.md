@@ -283,28 +283,13 @@ You can't control the roll. But you can make the die so small that "bad luck" be
 
 ## Omniresponsible
 
-If the lightning principle is true—that you can always trace back to choices that shaped the outcome—then how far does that extend?
+The lightning and dice principles don't just apply to unlikely events. They apply to _everything_.
 
-The answer: **everywhere.**
+Every outcome in your life—the relationships, the conflicts, the opportunities, the harm—was shaped by choices you made, often long before the moment arrived. This is what it means to be **omniresponsible**: recognizing that your influence extends to everything you touch, and everything you don't.
 
-Your actions and inactions play a part in creating everything that happens around you. Not just the obvious things. Not just the things that feel like "your fault." Everything.
+This isn't a burden. It's power.
 
-- The container you're in? Your choices brought you there.
-- The people you interact with? You chose to be around them.
-- The conflict that erupted? Your actions—or inactions—contributed.
-- The world beyond your immediate life? Your participation in systems, your voice, your silence—all of it shapes what exists.
-
-This is what it means to be **omniresponsible**: recognizing that your influence extends to everything you touch, and everything you don't.
-
-### This Isn't Burden—It's Power
-
-The reason this matters isn't to make you feel guilty about the state of the world. It's to show you how much you can change.
-
-If your actions contributed to creating something, your actions can contribute to creating something different. That's the gift of responsibility. It's not a weight to carry—it's leverage to move things.
-
-But this only works if you believe you actually _have_ that kind of reach. If you think your power is small, responsibility for big things sounds absurd.
-
-So before you can be omniresponsible, you need to see yourself as having real, substantial power to affect outcomes. The lightning example and the dice principle show you already do—you just might not have been looking at it that way.
+If your actions contributed to creating something, your actions can contribute to creating something different. Responsibility isn't a weight to carry—it's leverage to move things. The more you see your reach, the more you can change.
 
 See: [100% Control](../tools/100-percent-control.md)
 
