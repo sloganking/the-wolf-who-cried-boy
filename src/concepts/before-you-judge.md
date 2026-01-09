@@ -218,6 +218,12 @@ Sometimes there isn't a deeper reason. The only honest answer is: "It happened. 
 
 The person who made the mistake might genuinely not know why—because they weren't thinking when it happened. That's what makes it an unconscious mistake. Demanding an explanation they can't give, then treating absence of explanation as proof of malice, is how communities destroy innocent people.
 
+And here's the double bind: when someone *tries* to explain an unconscious mistake, their explanation often sounds like excuse-making or manipulation. Because they're essentially figuring it out in real-time—explaining it to themselves while explaining it to you. The explanation won't be clean. It won't prove innocence. And observers interpret this fumbling as evidence of guilt too.
+
+Sometimes the most honest answer is simply: **"I don't know why I did that."**
+
+That answer feels unsatisfying. It doesn't give closure. But it's often the truth. And treating honesty as evidence of deception is backwards.
+
 > **Lack of explanation is not evidence of guilt. It's often just evidence that the mistake was unconscious.**
 
 This single misunderstanding is behind countless character assassinations, destroyed reputations, and banishments of people who made a small mistake and simply couldn't articulate why.
