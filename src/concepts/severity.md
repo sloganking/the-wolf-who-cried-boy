@@ -22,7 +22,7 @@ Here's what most people miss:
 
 **Your reaction to harm is itself an action—with its own severity level.**
 
-Someone crosses your boundary. That's their action. You respond. That's YOUR action. And your action can be LOW, MEDIUM, or HIGH severity—independent of what they did.
+Someone crosses your boundary. That's their action—LOW, MEDIUM, or HIGH. You respond. That's YOUR action—also LOW, MEDIUM, or HIGH. They can be different.
 
 | They Did | You Did | Result |
 | -------- | ------- | ------ |
