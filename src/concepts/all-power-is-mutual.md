@@ -19,6 +19,11 @@ And everyone looks at the "top" of the hierarchy and says: _That's where the pow
 
 **This is never true.**
 
+> **"There's actually an advantage to every position."**
+> — Alex Hormozi
+
+Every position has power. The "bottom" of the hierarchy has weapons the "top" cannot wield. The question is never whether you have power—it's whether you see it.
+
 > **The only way power can flow one way is if someone doesn't recognize and own theirs.**
 
 Even then, the power is still there. It's just unclaimed.
@@ -156,4 +161,3 @@ Ask:
 - [Power Dynamics](./power-dynamics.md) — How this plays out between participants and facilitators
 - [Drama Triangle](./drama-triangle.md) — The Victim role's hidden power
 - [Fawning](./fawning.md#your-touch-is-a-privilege) — Your vulnerability is a gift you can rescind
-- [How Much Power Do You Have?](./your-power.md) — More than you think
