@@ -200,6 +200,22 @@ So they apologize. Not because they agree. Because they're afraid.
 
 **Apology under threat is not agreement. It's survival.**
 
+## The Explanation Trap
+
+Here's another thing bystanders misread: **when someone can't explain why they made a mistake.**
+
+We expect explanations. "Why did you do that?" And if they can't give us a satisfying answer, we interpret the gap as guilt—"If they can't explain it, they must be hiding something."
+
+But unconscious mistakes often don't have satisfying explanations.
+
+Think about the [popcorn metaphor](../tools/popcorn-metaphor.md). When you burn popcorn, you can say "I wasn't paying attention." But you've been inattentive before without burning popcorn. So why this time?
+
+Sometimes there isn't a deeper reason. The only honest answer is: "It happened. I don't fully understand why."
+
+The person who made the mistake might genuinely not know why—because they weren't thinking when it happened. That's what makes it an unconscious mistake. Demanding an explanation they can't give, then treating absence of explanation as proof of malice, is unfair.
+
+**Lack of explanation is not evidence of guilt.** It's often just evidence that the mistake was unconscious.
+
 ## What To Do Instead
 
 ### If you're a bystander:
