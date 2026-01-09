@@ -10,11 +10,11 @@ Most conflicts in these spaces aren't about what happened. They're about disagre
 
 ## The Scale
 
-| Level      | Description                                                             | Examples                                         |
-| ---------- | ----------------------------------------------------------------------- | ------------------------------------------------ |
-| **HIGH**   | Permanent harm. Physical or non-physical (reputation, options, safety). | Injury, public shaming, blacklisting             |
-| **MEDIUM** | Temporary pain. Recoverable.                                            | Unwanted touch, emotional hurt, boundary crossed |
-| **LOW**    | Inconvenience. No one really hurt.                                      | Awkwardness, miscommunication, minor discomfort  |
+| Level      | Description                                                             | Examples                                                              |
+| ---------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| **HIGH**   | Permanent harm. Physical or non-physical (reputation, options, safety). | Injury, prolonged or forced sexual contact, public shaming, blacklisting |
+| **MEDIUM** | Temporary pain. Recoverable.                                            | Momentary unwanted touch, emotional hurt, boundary crossed            |
+| **LOW**    | Inconvenience. No one really hurt.                                      | Awkwardness, miscommunication, minor discomfort                       |
 
 ## Your Response Has a Severity
 
