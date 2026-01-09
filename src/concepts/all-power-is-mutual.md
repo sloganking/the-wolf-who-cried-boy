@@ -55,6 +55,12 @@ When you claim victimhood:
 
 This is why someone can [abuse their power as a victim](./drama-triangle.md#victim). The Victim position isn't powerless. It's _enormously_ powerful—and that power can be weaponized.
 
+## Vulnerability Creates Vulnerability
+
+When someone is vulnerable in an interaction, everyone engaging with them becomes vulnerable too—vulnerable to make a mistake, to be misunderstood, to be labeled as taking advantage.
+
+This is why power is always mutual. The "vulnerable" person isn't just receiving risk—they're creating it for everyone around them.
+
 ## The Vulnerability Flip
 
 Here's where this gets personal:
