@@ -40,7 +40,7 @@ State what you actually observed. Just the facts. No interpretation.
 State the emotion you experienced. Not a thought disguised as a feeling.
 
 - ✓ "I felt sad and disconnected."
-- ✗ "I felt like you don't care about me." (That's a story, not a feeling.)
+- ✗ "I felt like you didn't care about me." (That's a story, not a feeling.)
 
 ### Step 3: Story (Interpretation) + Check
 
