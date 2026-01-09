@@ -92,6 +92,26 @@ If you're the one who was harmed:
 
 Sometimes people want revenge more than repair. That's a choice—but it's not resolution.
 
+## Real Repair Is Mutual
+
+Here's a pattern that looks like repair but isn't:
+
+Person A is apologizing, making amends, spending time and energy to make things right. Person B accepts the apology—but takes zero responsibility for their own part in what happened. They're doing all the blaming while A does all the owning.
+
+**This isn't repair. It's one-sided extraction.**
+
+What happens:
+
+- Person A feels resentment, not resolution
+- The relationship doesn't actually heal
+- If B's actions were also harmful (which can happen—being wronged doesn't mean you caused no harm), they're getting away with it while A does all the work
+
+This doesn't mean repair has to be perfectly symmetrical. Sometimes one person genuinely contributed more to the problem. But if one person is doing *all* the owning and the other is doing *all* the blaming—with no acknowledgment of their part—the repair won't hold.
+
+Real repair looks like both people asking: "What was my part? What could I have done differently?" Even if the answer is "my part was smaller," the question still matters.
+
+If you're the one receiving repair and you're not looking in the [responsibility mirror](./responsibility.md#the-responsibility-mirror), you're not actually participating in repair. You're just collecting an apology while staying in Victim.
+
 ## When Repair Isn't Possible
 
 Some harms are too severe. Some people won't take [responsibility](./responsibility.md).
