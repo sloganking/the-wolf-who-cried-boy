@@ -250,9 +250,36 @@ This doesn't mean you should feel guilty about being struck by lightning. It mea
 
 Maybe the answer is: "In the future, I'll check the weather more carefully" or "I'll learn more about lightning safety" or "I'll reconsider where I live."
 
-The point isn't to beat yourself up over unlikely events. The point is that *even for unlikely events*, responsibility gives you power. You're not a passive victim of random chance. You're a creator whose choices—conscious or unconscious—shaped the field of possibilities.
+The point isn't to beat yourself up over unlikely events. The point is that _even for unlikely events_, responsibility gives you power. You're not a passive victim of random chance. You're a creator whose choices—conscious or unconscious—shaped the field of possibilities.
 
 And that means you can shape it differently next time.
+
+### The Dice Principle
+
+> **"Luck happens in moments. Not in days, years, or lifetimes."**
+
+Think of it like dice.
+
+You can't stop the dice from being rolled. When you're out in that field and the lightning is descending, the dice are already tumbling. In that moment, chance takes over.
+
+But here's what you _can_ control: **the size of the die.**
+
+Is there a 50% chance of getting struck? Or a 1-in-a-million chance? That's determined by everything you did _before_ the moment of the roll. Your choices shaped the odds.
+
+- Living in a high-lightning area with no shelter? Big die, bad odds.
+- Checking weather reports and staying inside during storms? Tiny die, excellent odds.
+
+The "luck" part—the actual roll—is a split second. Everything leading up to it is you. Your actions. Your preparation. Your awareness.
+
+This applies to everything people call "luck":
+
+- The "lucky" person who meets the right partner? They put themselves in environments where that was likely.
+- The "unlucky" person who keeps getting hurt? There's a pattern in who they choose and how they vet.
+- The "random" conflict that erupted? Trace back to who was in the room and what wasn't said.
+
+You can't control the roll. But you can make the die so small that "bad luck" becomes nearly impossible—or so large that it's nearly inevitable.
+
+**That's your power. That's your responsibility.**
 
 ## Omniresponsible
 
@@ -275,13 +302,11 @@ The reason this matters isn't to make you feel guilty about the state of the wor
 
 If your actions contributed to creating something, your actions can contribute to creating something different. That's the gift of responsibility. It's not a weight to carry—it's leverage to move things.
 
-But this only works if you believe you actually *have* that kind of reach. If you think your power is small, responsibility for big things sounds absurd.
+But this only works if you believe you actually _have_ that kind of reach. If you think your power is small, responsibility for big things sounds absurd.
 
-So before you can be omniresponsible, you need to see yourself as **omnipotent**—having unlimited creative potential.
+So before you can be omniresponsible, you need to see yourself as having real, substantial power to affect outcomes. The lightning example and the dice principle show you already do—you just might not have been looking at it that way.
 
-See: [How Much Power Do You Have?](./your-power.md) — The case for why that's true
-
-See also: [100% Control](../tools/100-percent-control.md)
+See: [100% Control](../tools/100-percent-control.md)
 
 ## The Responsibility Mirror
 
@@ -368,7 +393,7 @@ This framing has consequences:
 
 This is why declining false responsibility isn't about avoiding accountability. It's about refusing to accept a false framing that makes you solely responsible for an outcome multiple people created.
 
-You might have had [100% control](../tools/100-percent-control.md) over the outcome—meaning you *could* have prevented it. But others created it too. Having the power to stop something doesn't mean you should bear 100% of the fallout when multiple people's choices contributed.
+You might have had [100% control](../tools/100-percent-control.md) over the outcome—meaning you _could_ have prevented it. But others created it too. Having the power to stop something doesn't mean you should bear 100% of the fallout when multiple people's choices contributed.
 
 ### Declining Is Responsible
 
