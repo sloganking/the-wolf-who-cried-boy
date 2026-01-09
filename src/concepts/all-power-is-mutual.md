@@ -96,23 +96,6 @@ When you see that **all power is mutual**, you:
 - Take responsibility for how you wield your power
 - Choose carefully who you trust with vulnerability
 
-## The Mutuality Principle
-
-This isn't just about power. It's about everything:
-
-| One-Way Thinking                | Mutual Reality                                                                   |
-| ------------------------------- | -------------------------------------------------------------------------------- |
-| "They have power over me"       | Power flows both ways                                                            |
-| "I have no responsibility here" | [Responsibility is always mutual](./responsibility.md#the-responsibility-mirror) |
-| "I'm the only one at risk"      | Vulnerability is mutual                                                          |
-| "They can't hurt me"            | Everyone can hurt everyone                                                       |
-
-**Nothing is one-way.**
-
-Every dynamic is bidirectional. Every relationship has power, responsibility, and vulnerability on both sides.
-
-The question isn't "who has power?" The question is: "How is power distributed, and how is each party using theirs?"
-
 ## Power Can't Be Taken, Only Transmuted
 
 Here's an even deeper truth:
