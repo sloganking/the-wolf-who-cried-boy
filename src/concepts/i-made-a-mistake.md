@@ -43,6 +43,30 @@ That's not noble. That's not penance. That's self-indulgence dressed up as remor
 
 Make right with your actions. Show up. Repair what you can. Create good in the world that outweighs the harm. That's responsibility. Sitting in a dark room feeling like a terrible person while the world waits for you to contribute? That's you making it about yourself.
 
+### You're Just Harming Another Person
+
+Here's the reframe that changes everything:
+
+When you self-flagellate, you're not "paying a price" or "making things right." You're just harming another person—that person being yourself.
+
+Think about it: You harmed someone. And your response is to... harm someone else?
+
+That's not repair. That's not justice. That's just more harm in the world.
+
+The shame-filled eye-for-an-eye logic says: "I caused suffering, so I should suffer too." But suffering doesn't create goodness. Your pain doesn't heal theirs. Adding a second victim doesn't balance the scales—it doubles the damage.
+
+It's also the coward's way out.
+
+Hurting yourself is easy. Building yourself up to create value and repair in the world? That's hard. Self-punishment feels like you're doing something, but it's actually avoidance—fear dressed up as penance.
+
+**And if someone wants you to suffer?**
+
+Even if the person you wronged wants you in pain—even if they'd be satisfied watching you destroy yourself—that's not someone whose judgment you should accept.
+
+People who want your harm and suffering are not people you want connection or blame from. The right response isn't to give them what they want. The right response is to filter them out.
+
+Surround yourself with people who want you to grow, to contribute, to be loved. Not people who want you to suffer.
+
 ### Even When Others Call You a Predator
 
 Maybe people are calling you a bad person. Maybe they're saying you should be removed from community and never come back. Maybe they're labeling you a predator.
