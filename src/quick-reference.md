@@ -16,11 +16,12 @@ Everything at a glance. New here? Start with the [Introduction](./introduction.m
 
 ## The Core Reframe
 
-| Concept                                                 | Description                       |
-| ------------------------------------------------------- | --------------------------------- |
-| [Responsibility](./concepts/responsibility.md)          | What it means and how to take it  |
-| [Drama Triangle](./concepts/drama-triangle.md)          | Victim / Persecutor / Rescuer     |
-| [How Much Power Do You Have?](./concepts/your-power.md) | Your unlimited creative potential |
+| Concept                                                              | Description                                  |
+| -------------------------------------------------------------------- | -------------------------------------------- |
+| [Responsibility](./concepts/responsibility.md)                       | What it means and how to take it             |
+| [Decline False Responsibility](./concepts/decline-false-responsibility.md) | When someone pushes their responsibility onto you |
+| [Drama Triangle](./concepts/drama-triangle.md)                       | Victim / Persecutor / Rescuer                |
+| [All Power Is Mutual](./concepts/all-power-is-mutual.md)             | Power always flows both ways                 |
 
 ---
 
