@@ -24,10 +24,6 @@ And everyone looks at the "top" of the hierarchy and says: _That's where the pow
 
 Every position has power. The "bottom" of the hierarchy has weapons the "top" cannot wield. The question is never whether you have power—it's whether you see it.
 
-> **The only way power can flow one way is if someone doesn't recognize and own theirs.**
-
-Even then, the power is still there. It's just unclaimed.
-
 ## Power Always Flows Both Ways
 
 Every single dynamic. Every relationship. Every interaction.
