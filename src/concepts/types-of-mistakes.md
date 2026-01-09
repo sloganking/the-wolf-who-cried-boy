@@ -33,19 +33,6 @@ This is why TYPE matters. The same action can be malicious or accidental—and t
 | **Conscious, wrong thinking** | They were thinking, but thinking wrong                                              |
 | **Unconscious, not thinking** | Autopilot, sleepy, careless — the [Popcorn](../tools/popcorn-metaphor.md) situation |
 
-## Additional Types
-
-| Type                    | Description                                            |
-| ----------------------- | ------------------------------------------------------ |
-| **Freezing**            | Person went silent/still, didn't communicate           |
-| **Miscommunication**    | Both thought they understood, neither did              |
-| **Assumption**          | Acting on what you _think_ someone wants               |
-| **Boundary Drift**      | Gradual creep past lines without noticing              |
-| **Negotiation Failure** | Agreement existed but wasn't specific enough           |
-| **Aftercare Failure**   | Act was consensual, aftermath was neglected            |
-| **Projection**          | Treating someone based on your past, not their present |
-| **Delayed Realization** | Consented in the moment, realized later it wasn't okay |
-
 ## The Mistake Matrix
 
 ```
