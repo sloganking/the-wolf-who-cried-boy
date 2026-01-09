@@ -16,15 +16,6 @@ Most conflicts in these spaces aren't about what happened. They're about disagre
 | **MEDIUM** | Temporary pain. Recoverable.                                            | Unwanted touch, emotional hurt, boundary crossed |
 | **LOW**    | Inconvenience. No one really hurt.                                      | Awkwardness, miscommunication, minor discomfort  |
 
-## Key Principle
-
-**Your response should match the severity level.**
-
-- Responding to LOW with HIGH = you become a source of harm
-- Responding to HIGH with LOW = you enable continued harm
-
-See: [Appropriate Response](./appropriate-response.md)
-
 ## Your Response Has a Severity
 
 Here's what most people miss:
@@ -47,6 +38,15 @@ Someone makes an awkward comment (LOW). You publicly shame them as a predator (H
 > **If you cry victim loud enough, you become the perpetrator.**
 
 This is the core insight of the entire book. Your response doesn't just *match* severity—it *has* severity. If your response is higher than the original harm, you're not a victim seeking justice. You're a source of harm.
+
+## Key Principle
+
+**Your response should match the severity level.**
+
+- Responding to LOW with HIGH = you become a source of harm
+- Responding to HIGH with LOW = you enable continued harm
+
+See: [Appropriate Response](./appropriate-response.md)
 
 ## Feelings Don't Determine Severity
 
@@ -77,9 +77,7 @@ A single LOW severity mistake is LOW. The same mistake made repeatedly—after b
 
 Why? Because intent shifts. A one-time mistake can be unconscious. A repeated mistake after clear feedback demonstrates something about the person—they either don't care, or they can't control themselves. Either way, the severity increases.
 
-This works in the other direction too: a single MEDIUM mistake from someone with a track record of respect and care is different from the same mistake from someone with a pattern of boundary issues.
-
-**Context matters. History matters. A pattern is more than the sum of its incidents.**
+**Important:** This applies to patterns YOU'VE directly witnessed in YOUR interactions with this person. It does not apply to things you've heard about them. Treating someone's current action as higher severity because of rumors or reputation is exactly what [Before You Judge](./before-you-judge.md) warns against.
 
 ## The Severity Shift
 
