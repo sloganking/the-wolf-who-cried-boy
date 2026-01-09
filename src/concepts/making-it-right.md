@@ -74,6 +74,16 @@ Sometimes the person receiving the repair may:
 
 Even if it doesn't feel satisfying because you wanted to give more—honoring their boundary is the repair.
 
+### If You Can't Pay It Back, Pay It Forward
+
+When direct repair isn't available—they don't want contact, or the harm can't be undone—channel that energy forward instead.
+
+- Use what you learned to prevent this harm for others
+- Teach what you now know
+- Become someone who creates more good than the harm you caused
+
+That's how you make it right when you can't make it right directly. The debt doesn't disappear—but it can be paid to the world instead of the person.
+
 ## Allowing Repair
 
 If you're the one who was harmed:
