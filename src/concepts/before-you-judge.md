@@ -202,19 +202,25 @@ So they apologize. Not because they agree. Because they're afraid.
 
 ## The Explanation Trap
 
-Here's another thing bystanders misread: **when someone can't explain why they made a mistake.**
+This might be the single most common way good people get destroyed.
 
-We expect explanations. "Why did you do that?" And if they can't give us a satisfying answer, we interpret the gap as guilt—"If they can't explain it, they must be hiding something."
+**When someone can't explain why they made a mistake, we interpret the gap as guilt.**
 
-But unconscious mistakes often don't have satisfying explanations.
+"Why did you do that?" We demand an explanation. And if they can't give us a satisfying answer, we conclude: "If they can't explain it, they must be hiding something. They must have meant to do it."
+
+This is almost always wrong. And it causes enormous harm.
+
+Unconscious mistakes often don't have satisfying explanations.
 
 Think about the [popcorn metaphor](../tools/popcorn-metaphor.md). When you burn popcorn, you can say "I wasn't paying attention." But you've been inattentive before without burning popcorn. So why this time?
 
 Sometimes there isn't a deeper reason. The only honest answer is: "It happened. I don't fully understand why."
 
-The person who made the mistake might genuinely not know why—because they weren't thinking when it happened. That's what makes it an unconscious mistake. Demanding an explanation they can't give, then treating absence of explanation as proof of malice, is unfair.
+The person who made the mistake might genuinely not know why—because they weren't thinking when it happened. That's what makes it an unconscious mistake. Demanding an explanation they can't give, then treating absence of explanation as proof of malice, is how communities destroy innocent people.
 
-**Lack of explanation is not evidence of guilt.** It's often just evidence that the mistake was unconscious.
+> **Lack of explanation is not evidence of guilt. It's often just evidence that the mistake was unconscious.**
+
+This single misunderstanding is behind countless character assassinations, destroyed reputations, and banishments of people who made a small mistake and simply couldn't articulate why.
 
 ## What To Do Instead
 
