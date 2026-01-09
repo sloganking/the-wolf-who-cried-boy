@@ -214,15 +214,13 @@ Unconscious mistakes often don't have satisfying explanations.
 
 Think about the [popcorn metaphor](../tools/popcorn-metaphor.md). When you burn popcorn, you can say "I wasn't paying attention." But you've been inattentive before without burning popcorn. So why this time?
 
-Sometimes there isn't a deeper reason. The only honest answer is: "It happened. I don't fully understand why."
-
-The person who made the mistake might genuinely not know why—because they weren't thinking when it happened. That's what makes it an unconscious mistake. Demanding an explanation they can't give, then treating absence of explanation as proof of malice, is how communities destroy innocent people.
+Sometimes there isn't a deeper reason. That's what makes it an unconscious mistake—they weren't thinking when it happened. And demanding an explanation they can't give, then treating that absence as proof of malice, is how communities destroy innocent people.
 
 And here's the double bind: when someone *tries* to explain an unconscious mistake, their explanation often sounds like excuse-making or manipulation. Because they're essentially figuring it out in real-time—explaining it to themselves while explaining it to you. The explanation won't be clean. It won't prove innocence. And observers interpret this fumbling as evidence of guilt too.
 
 Sometimes the most honest answer is simply: **"I don't know why I did that."**
 
-That answer feels unsatisfying. It doesn't give closure. But it's often the truth. And treating honesty as evidence of deception is backwards.
+That answer feels unsatisfying. It doesn't give closure. But it's often the truth.
 
 > **Lack of explanation is not evidence of guilt. It's often just evidence that the mistake was unconscious.**
 
