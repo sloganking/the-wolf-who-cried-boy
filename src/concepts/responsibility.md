@@ -295,18 +295,23 @@ See: [100% Control](../tools/100-percent-control.md)
 
 ## The Responsibility Mirror
 
-> **The Responsibility Mirror**: Before demanding responsibility from someone else, look in the mirror. Are you taking responsibility for your part?
+Here's the moment this matters most:
 
-Watch for this pattern:
+Someone wrongs you. You're hurt, angry, certain. Your mind says: _"This is their fault. They attacked me. I had nothing to do with it."_
 
-1. Something happens
-2. A group forms to condemn someone
-3. "You need to take responsibility!"
-4. But the accusers aren't taking any themselves
+That feeling is real. And it's also incomplete.
 
-They're pointing fingers while refusing to look at their own hands. They're demanding responsibility while taking none themselves.
+**The Responsibility Mirror:** Before pointing at them, look in the mirror. What's your part?
 
-That's not accountability—it's blame. And often, the mob does more harm than the original incident.
+- Did you vet this person before trusting them?
+- Did you communicate your boundaries clearly?
+- Did you ignore warning signs?
+- Did you [fawn](./fawning.md) instead of speaking up?
+- What choices—days, weeks, months ago—put you in this position?
+
+This isn't about excusing what they did. It's about reclaiming your power. As long as you see the outcome as 100% their creation, you're helpless. The moment you see your part, you can do something different next time.
+
+The lightning struck you. But you chose to be in the field.
 
 ## Decline False Responsibility
 
