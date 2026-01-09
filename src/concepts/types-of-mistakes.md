@@ -27,20 +27,6 @@ This is why TYPE matters. The same action can be malicious or accidental—and t
 | **Wrong Thinking** | Conscious but misguided | They thought it was okay. It wasn't. | Correct the belief                    |
 | **Fawning**   | Person said yes but meant no | Two victims. See [Fawning](./fawning.md). | Complex—both have responsibility |
 
-## The Key Question
-
-Before you respond, ask:
-
-> **Did they KNOW they were causing harm?**
-
-If yes → They had the chance to stop and didn't. That's closer to malice.
-
-If no → They didn't know. Treating them like they knew is unfair and harmful.
-
-Most mistakes in these spaces are the second kind. People aren't thinking. They get carried away. They misread. They assume. They're operating from wrong beliefs they've never examined.
-
-**Predators are rare. Clumsy humans are common.** If you treat every clumsy human like a predator, you'll destroy good people while actual predators blend in.
-
 ## By Awareness
 
 | Type                          | Description                                                                         |
@@ -54,41 +40,15 @@ The difference matters:
 
 - **Unconscious** needs a wake-up call. They weren't thinking at all. They need to become aware, not be taught—they probably already know better when they're conscious.
 
-## Common Patterns
+## Other Patterns
 
-These aren't excuses—they're explanations. Understanding the pattern helps determine the response.
-
-### Boundary Drift
-
-Gradual creep past lines without noticing.
-
-*What it looks like:* Touch starts at the shoulder. Over an hour, it migrates. By the end, it's somewhere neither person explicitly agreed to. Neither noticed the drift in real-time.
-
-*The response:* Wake-up call. Point out where it went. They probably didn't notice—and once they do, they're often mortified.
-
-### Assumption
-
-Acting on what you *think* someone wants.
-
-*What it looks like:* "She seemed into it." "He didn't say no." "Last time they liked this." They filled in the blanks with assumptions instead of asking.
-
-*The response:* Teach them to check instead of assume. The belief driving this: "I can read people well enough that I don't need to ask." That belief is wrong.
-
-### Freezing
-
-Person went silent/still, didn't communicate.
-
-*What it looks like:* Something started happening. They didn't want it. But instead of speaking up, they froze—went quiet, dissociated, waited for it to be over.
-
-*The response:* This is a trauma response, like fawning. The person who froze has [responsibility](./responsibility.md) to communicate, AND the other person has responsibility to notice something's wrong. Both have something to look at.
-
-### Delayed Realization
-
-Consented in the moment, realized later it wasn't okay.
-
-*What it looks like:* They said yes. They meant it at the time. Hours or days later, they feel violated. Something shifted.
-
-*The response:* Complex. Their consent was real in the moment. The other person acted in good faith. But the harm is also real. This often requires processing together, not blame. See [Making It Right](./making-it-right.md).
+| Type                    | Description                                                                |
+| ----------------------- | -------------------------------------------------------------------------- |
+| **Freezing**            | Person went silent/still instead of communicating. Trauma response, like fawning. |
+| **Assumption**          | "Last time they liked this." Filling in blanks instead of asking.          |
+| **Delayed Realization** | Consented in the moment, realized later it wasn't okay. Both acted in good faith. |
+| **Miscommunication**    | Both thought they understood, neither did.                                 |
+| **Aftercare Failure**   | Act was consensual, aftermath was neglected.                               |
 
 ## The Mistake Matrix
 
