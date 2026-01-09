@@ -63,7 +63,7 @@ This is why power is always mutual. The "vulnerable" person isn't just receiving
 
 ## The Vulnerability Flip
 
-Here's where this gets personal:
+Here's what this looks like:
 
 When a man touches a woman, our culture says _she's_ the vulnerable one. She's at risk. He holds all the power.
 
