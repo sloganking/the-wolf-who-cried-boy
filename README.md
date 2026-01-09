@@ -1,4 +1,4 @@
-# Sexy Minesweeper
+# Responsible Play
 
 **Explode Your Pleasure, Not Your Life.**
 
