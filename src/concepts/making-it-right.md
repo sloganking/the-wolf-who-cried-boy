@@ -39,14 +39,6 @@ Maybe they got something pleasurable out of it. Maybe they experienced a level o
 
 This is powerful. Most people don't do this. Most people give the minimum apology and hope it's enough. When you consistently add more value than you take—even in repair situations—you become someone people want in their lives.
 
-### This Changes How You See Yourself
-
-If you're someone who adds value in every interaction—including when you mess up—you start to like yourself more.
-
-If you've been insecure about what you offer, this gives you something concrete: **You're someone who makes things right in a way that leaves people better off.**
-
-That's rare. That's valuable. That's attractive.
-
 ### Don't Fawn When You Repair
 
 Here's something important: **making it right should not violate your own boundaries.**
