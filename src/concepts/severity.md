@@ -4,7 +4,9 @@
 
 ---
 
-How serious is the harm caused? This determines how serious the response should be.
+Most conflicts in these spaces aren't about what happened. They're about disagreements over how serious it was.
+
+**Severity is the foundation.** Get it right, and everything else follows. Get it wrong, and you either enable harm or become the source of it.
 
 ## The Scale
 
@@ -22,6 +24,62 @@ How serious is the harm caused? This determines how serious the response should 
 - Responding to HIGH with LOW = you enable continued harm
 
 See: [Appropriate Response](./appropriate-response.md)
+
+## Your Response Has a Severity
+
+Here's what most people miss:
+
+**Your reaction to harm is itself an action—with its own severity level.**
+
+Someone crosses your boundary. That's their action. You respond. That's YOUR action. And your action can be LOW, MEDIUM, or HIGH severity—independent of what they did.
+
+| They Did | You Did | Result |
+| -------- | ------- | ------ |
+| LOW harm | LOW response | Proportional. Good. |
+| MEDIUM harm | MEDIUM response | Proportional. Good. |
+| HIGH harm | HIGH response | Proportional. Justified. |
+| LOW harm | HIGH response | **You caused more harm than they did.** |
+
+That last row is where people destroy themselves and others.
+
+Someone makes an awkward comment (LOW). You publicly shame them as a predator (HIGH). Now you've done more damage than they ever did. You've caused permanent harm in response to a recoverable inconvenience.
+
+> **If you cry victim loud enough, you become the perpetrator.**
+
+This is the core insight of the entire book. Your response doesn't just *match* severity—it *has* severity. If your response is higher than the original harm, you're not a victim seeking justice. You're a source of harm.
+
+## Feelings Don't Determine Severity
+
+Your feelings are real. They're valid. They matter.
+
+**They don't determine objective severity.**
+
+You can feel HIGH severity distress from a LOW severity event. That's not proof the event was HIGH—it's information about your [filters](./trauma-and-filters.md). Your nervous system might be screaming "DANGER" while the actual harm was... an awkward comment.
+
+This doesn't mean your pain isn't real. It means your pain is not evidence of what actually happened.
+
+When assessing severity, ask:
+
+- What was the **actual harm**? (Not how you feel, but what happened)
+- Is it **permanent** or **recoverable**?
+- Would a neutral observer, with all the facts, call this HIGH/MEDIUM/LOW?
+
+Your feelings tell you something important—about yourself. They don't tell you how serious the other person's action was. Those are different questions.
+
+## Patterns Change Severity
+
+One exception to the scale: **repetition**.
+
+A single LOW severity mistake is LOW. The same mistake made repeatedly—after being told—becomes higher severity. It's no longer an accident; it's a pattern.
+
+- Someone touches your shoulder once without asking → LOW (awkward, forgivable)
+- The same person keeps doing it after you've said stop → MEDIUM or HIGH (pattern of disregard)
+
+Why? Because intent shifts. A one-time mistake can be unconscious. A repeated mistake after clear feedback demonstrates something about the person—they either don't care, or they can't control themselves. Either way, the severity increases.
+
+This works in the other direction too: a single MEDIUM mistake from someone with a track record of respect and care is different from the same mistake from someone with a pattern of boundary issues.
+
+**Context matters. History matters. A pattern is more than the sum of its incidents.**
 
 ## The Severity Shift
 
@@ -72,6 +130,7 @@ Use the [Gun Test](../tools/gun-test.md) to assess whether you're in a state to 
 
 ## Related
 
-- [Types of Mistakes](./types-of-mistakes.md) — Severity is separate from intent
 - [Appropriate Response](./appropriate-response.md) — Matching response to severity
+- [Types of Mistakes](./types-of-mistakes.md) — Severity is separate from intent
+- [Trauma & Filters](./trauma-and-filters.md) — Why your feelings may not match reality
 - [Gun Test](../tools/gun-test.md) — Self-assessment tool
