@@ -94,23 +94,27 @@ Sometimes people want revenge more than repair. That's a choice—but it's not r
 
 ## Real Repair Is Mutual
 
-Here's a pattern that looks like repair but isn't:
+[Everyone has responsibility](./responsibility.md#omniresponsible) in every situation. Even if someone clearly made a mistake, the other person can still look in the [responsibility mirror](./responsibility.md#the-responsibility-mirror)—not to excuse what happened, but because that's what responsibility looks like.
 
-Person A is apologizing, making amends, spending time and energy to make things right. Person B accepts the apology—but takes zero responsibility for their own part in what happened. They're doing all the blaming while A does all the owning.
+That said, sometimes one person clearly made the bigger mistake, the other person responds proportionally and allows repair, and one-sided amends works fine. No problem.
+
+**Here's when it becomes a problem:**
+
+Someone responds to a medium-severity harm with a high-severity attack. They play victim. They refuse to own any part—not even a small one. They extract maximum apology, maximum amends, maximum emotional labor—while contributing nothing. They're doing all the blaming while you do all the owning.
 
 **This isn't repair. It's one-sided extraction.**
 
 What happens:
 
-- Person A feels resentment, not resolution
+- You feel resentment, not resolution
 - The relationship doesn't actually heal
-- If B's actions were also harmful (which can happen—being wronged doesn't mean you caused no harm), they're getting away with it while A does all the work
+- If their response was also harmful (which it often is—over-responses cause real harm), they're getting away with it while you do all the work
 
-This doesn't mean repair has to be perfectly symmetrical. Sometimes one person genuinely contributed more to the problem. But if one person is doing *all* the owning and the other is doing *all* the blaming—with no acknowledgment of their part—the repair won't hold.
+This doesn't mean repair has to be perfectly symmetrical. But if one person is doing *all* the owning and the other is doing *all* the blaming—with zero acknowledgment of their part—the repair won't hold.
 
-Real repair looks like both people asking: "What was my part? What could I have done differently?" Even if the answer is "my part was smaller," the question still matters.
+Real repair looks like both people asking: "What was my part?" Even if the answer is "my part was smaller," the question still matters.
 
-If you're the one receiving repair and you're not looking in the [responsibility mirror](./responsibility.md#the-responsibility-mirror), you're not actually participating in repair. You're just collecting an apology while staying in Victim.
+If you're receiving repair and you're not asking that question, you're not participating in repair. You're collecting an apology while staying in Victim.
 
 ## When Repair Isn't Possible
 
