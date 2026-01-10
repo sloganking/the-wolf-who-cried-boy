@@ -198,6 +198,117 @@ When you take responsibility—even for things that weren't "your fault"—you'r
 
 This is the [Creator](./drama-triangle.md) mindset. It's the opposite of [Victim](./drama-triangle.md).
 
+## Responsibility ≠ Repair
+
+Here's another confusion that gets people trapped:
+
+**Responsibility and repair are not the same thing.**
+
+| Responsibility | Repair |
+| -------------- | ------ |
+| Internal, causal | Relational, restorative |
+| "How did I create this?" | "What needs to be restored for trust?" |
+| About your power and agency | About the relationship between you and them |
+| Owed to yourself, always | Conditional on safety and good faith |
+| Can be done privately, silently | Requires the other person's participation |
+| Non-negotiable | **Optional** |
+
+### Responsibility Is Always Owed
+
+You always owe yourself responsibility. It's how you learn. It's how you grow. It's how you create different outcomes.
+
+After something goes wrong, you can—and should—ask:
+
+- What happened?
+- How did my actions or inactions contribute?
+- What will I do differently to create what I want?
+
+You can do this alone. You can do this silently. You don't need anyone's permission or participation.
+
+**This is yours. It's internal. It's non-negotiable.**
+
+### Repair Is Conditional
+
+Repair is different. Repair is about restoring the relationship—acknowledging impact, making amends, rebuilding trust.
+
+Repair is only possible—and only owed—when certain conditions are met:
+
+1. **Safety** — You are not being attacked, threatened, or coerced
+2. **Good faith** — The other person is genuinely seeking resolution, not punishment
+3. **Proportionality** — What's being asked of you matches the actual harm
+
+If these conditions aren't present, **repair is not owed.**
+
+### Why This Distinction Matters
+
+People confuse these constantly. They think:
+
+> "If I'm responsible, I have to make it right with them."
+> 
+> "If I don't repair, I'm not taking responsibility."
+> 
+> "They're demanding repair, so I have to give it."
+
+**All of these are false.**
+
+You can take full responsibility for your part—internally, honestly, completely—without owing anyone repair.
+
+Especially if:
+
+- They're attacking you
+- They're demanding more than is proportional
+- They're not operating in good faith
+- The conditions aren't safe
+
+### The Trap
+
+Here's how this plays out:
+
+Someone makes a mistake. The other person is furious—yelling, threatening, publicly shaming. They demand the person "take responsibility."
+
+What they actually mean is: "Repair this. Apologize. Make it right. On my terms. Right now."
+
+And the person, wanting to be responsible, tries to do repair—while being attacked.
+
+**This is not responsibility. This is [fawning](./fawning.md).**
+
+Repair under attack is not repair. It's submission. And it doesn't work—it just trains the attacker that aggression gets results.
+
+See: [Decline False Responsibility](./decline-false-responsibility.md)
+
+### The Correct Sequence
+
+When something goes wrong:
+
+1. **Take responsibility** — Internally. Ask the questions. See your part.
+2. **Assess the conditions** — Is it safe? Is there good faith? Is the ask proportional?
+3. **Repair if conditions are met** — Acknowledge impact, make amends, rebuild trust.
+4. **Decline if conditions aren't met** — You can own your part without submitting to abuse.
+
+You can say:
+
+> "I've taken responsibility for my actions and what I'll do differently. Repair is only possible in a calm, direct conversation."
+
+That sentence preserves both your accountability and your dignity.
+
+### Repair Is Not Owed to Aggressors
+
+If someone is:
+
+- Attacking you publicly
+- Making threats
+- Refusing to hear your side
+- Demanding you accept their entire narrative
+- Treating a LOW severity mistake as HIGH
+
+You do not owe them repair.
+
+You still owe yourself responsibility. You can still look at your part. You can still learn and grow.
+
+But you do not have to stand there and take abuse in the name of "being responsible."
+
+**Responsibility without boundaries is self-destruction.**
+
 ## Why People Don't Take Responsibility
 
 1. **They don't see their power** — If you don't recognize your control, you can't take responsibility for it

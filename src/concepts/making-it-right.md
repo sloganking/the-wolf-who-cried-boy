@@ -10,6 +10,26 @@ When a mistake occurs, the goal is **repair**, not punishment.
 
 Rather than blaming, attacking, or going for an eye for an eye—if the person who made a mistake wants to make up for it, **allow them to make it right.**
 
+## Repair Requires Safe Conditions
+
+Before we talk about how to repair, an important clarification:
+
+**[Repair is not the same as responsibility](./responsibility.md#responsibility--repair).**
+
+You always owe yourself responsibility—looking at your part, learning, doing differently next time. That's internal and non-negotiable.
+
+But repair—restoring the relationship, making amends—is conditional. It requires:
+
+1. **Safety** — You're not being attacked, threatened, or publicly shamed
+2. **Good faith** — The other person wants resolution, not punishment
+3. **Proportionality** — What's being asked matches the actual harm
+
+If someone is screaming at you, making threats, or demanding you "take responsibility" while attacking you—that's not a repair conversation. That's an attack. And you don't owe repair to someone who is attacking you.
+
+**Contain first. Repair after.**
+
+Everything below assumes the conditions for repair are present. If they're not, see [Decline False Responsibility](./decline-false-responsibility.md).
+
 ## How to Make It Right
 
 1. **Take responsibility and ownership** of what occurred
