@@ -16,7 +16,7 @@ Before we talk about how to repair, an important clarification:
 
 **[Repair is not the same as responsibility](./responsibility.md#responsibility--repair).**
 
-You always owe yourself responsibility—looking at your part, learning, doing differently next time. That's internal and non-negotiable.
+Responsibility is always yours to take—looking at your part, learning, doing differently next time. That's internal and unconditional.
 
 But repair—restoring the relationship, making amends—is conditional. It requires:
 

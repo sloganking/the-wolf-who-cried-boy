@@ -209,15 +209,15 @@ Here's another confusion that gets people trapped:
 | Internal, causal | Relational, restorative |
 | "How did I create this?" | "What needs to be restored for trust?" |
 | About your power and agency | About the relationship between you and them |
-| Owed to yourself, always | Conditional on safety and good faith |
+| Yours to take, always | Conditional on safety and good faith |
 | Can be done privately, silently | Requires the other person's participation |
 | Non-negotiable | **Optional** |
 
-### Responsibility Is Always Owed
+### Responsibility Is Always Yours
 
-You always owe yourself responsibility. The [three questions](#what-responsibility-actually-means) are yours to ask, always. You can do this alone, silently, without anyone's permission.
+Responsibility is always available to you. The [three questions](#what-responsibility-actually-means) are yours to ask, always. You can do this alone, silently, without anyone's permission. Nothing can stop you.
 
-**This is internal. It's non-negotiable.**
+**This is internal. It's unconditional.**
 
 ### Repair Is Conditional
 
