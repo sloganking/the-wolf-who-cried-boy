@@ -215,17 +215,9 @@ Here's another confusion that gets people trapped:
 
 ### Responsibility Is Always Owed
 
-You always owe yourself responsibility. It's how you learn. It's how you grow. It's how you create different outcomes.
+You always owe yourself responsibility. The [three questions](#what-responsibility-actually-means) are yours to ask, always. You can do this alone, silently, without anyone's permission.
 
-After something goes wrong, you can—and should—ask:
-
-- What happened?
-- How did my actions or inactions contribute?
-- What will I do differently to create what I want?
-
-You can do this alone. You can do this silently. You don't need anyone's permission or participation.
-
-**This is yours. It's internal. It's non-negotiable.**
+**This is internal. It's non-negotiable.**
 
 ### Repair Is Conditional
 
@@ -246,19 +238,10 @@ People confuse these constantly. They think:
 > "If I'm responsible, I have to make it right with them."
 > 
 > "If I don't repair, I'm not taking responsibility."
-> 
-> "They're demanding repair, so I have to give it."
 
-**All of these are false.**
+**Both are false.**
 
-You can take full responsibility for your part—internally, honestly, completely—without owing anyone repair.
-
-Especially if:
-
-- They're attacking you
-- They're demanding more than is proportional
-- They're not operating in good faith
-- The conditions aren't safe
+You can take full responsibility for your part—internally, honestly, completely—without owing anyone repair. Especially if the conditions for repair aren't met.
 
 ### The Trap
 
@@ -291,9 +274,9 @@ You can say:
 
 That sentence preserves both your accountability and your dignity.
 
-### Repair Is Not Owed to Aggressors
+### What "Conditions Not Met" Looks Like
 
-If someone is:
+Concrete examples—if someone is:
 
 - Attacking you publicly
 - Making threats
@@ -301,11 +284,7 @@ If someone is:
 - Demanding you accept their entire narrative
 - Treating a LOW severity mistake as HIGH
 
-You do not owe them repair.
-
-You still owe yourself responsibility. You can still look at your part. You can still learn and grow.
-
-But you do not have to stand there and take abuse in the name of "being responsible."
+...the conditions for repair are not met. You do not owe them repair.
 
 **Responsibility without boundaries is self-destruction.**
 
