@@ -213,12 +213,6 @@ Here's another confusion that gets people trapped:
 | Can be done privately, silently | Requires the other person's participation |
 | Non-negotiable | **Optional** |
 
-### Responsibility Is Always Yours
-
-Responsibility is always available to you. The [three questions](#what-responsibility-actually-means) are yours to ask, always. You can do this alone, silently, without anyone's permission. Nothing can stop you.
-
-**This is internal. It's unconditional.**
-
 ### Repair Is Conditional
 
 Repair is different. Repair is about restoring the relationship—acknowledging impact, making amends, rebuilding trust.
