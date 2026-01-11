@@ -75,6 +75,16 @@ The same things that would make you dangerous with a gun—impaired judgment, sl
 
 ---
 
+## Beyond Tonight
+
+The Gun Test focuses on your state *tonight*—are you impaired, tired, activated right now?
+
+But there's also your **chronic state**—whether you've been sexually fed over time. If your animal body is starving, your autopilot is less safe. The Gun Test helps with conscious mistakes; feeding yourself helps with unconscious ones.
+
+See: [Staff Readiness: Feed Yourself First](../concepts/facilitator-protocols.md#staff-readiness-feed-yourself-first) — especially important for facilitators and staff.
+
+---
+
 ## The Point
 
 You wouldn't hand a gun to someone who's impaired. Don't hand your body—or access to someone else's—to an impaired version of yourself.
