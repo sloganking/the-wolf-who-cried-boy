@@ -16,6 +16,72 @@ If you're facilitating in intimate spaces without this foundation, you're playin
 
 ---
 
+## Staff Readiness: Feed Yourself First
+
+Here's something most facilitators don't talk about:
+
+**If you're sexually starved, you're a liability.**
+
+Think about it like a hungry dog at a buffet. A well-fed dog can walk past food without grabbing. A starving dog cannot. Its animal body takes over. Impulse overwhelms judgment.
+
+The same applies to facilitators and staff at sex-positive events. If you haven't been sexually satisfied—if you're running on empty, touch-starved, desperate for connection—your animal body is hungry. And hungry animal bodies make mistakes.
+
+### The Mechanism
+
+When you're sexually fed:
+
+- Your conscious mind has more control
+- You can be around intimacy without your body screaming for it
+- You make clearer decisions
+- Your presence is calmer, more grounded
+
+When you're sexually starved:
+
+- Your animal body has more control
+- Your subconscious is scanning for opportunities
+- You're more likely to miss cues, push boundaries unconsciously, or make mistakes you wouldn't make if you were satisfied
+- You're a hungry dog at a buffet
+
+This isn't about willpower or character. It's about state. A starved body behaves differently than a fed one.
+
+### The Facilitator Standard
+
+If you're facilitating sex-positive spaces, consider this a form of professional hygiene:
+
+**Take care of your sexual needs before you facilitate.**
+
+This might mean:
+
+- Having a partner who meets your needs
+- Attending parties for your own pleasure (separate from work)
+- Working with a sex worker
+- Finding regular outlets for intimacy and connection
+
+If you're leading a week-long retreat, make sure you're not arriving sexually starved. If you're running a play party, make sure your own needs have been met recently.
+
+### For Your Staff
+
+If you have staff or assistants, consider their state too.
+
+A team of sexually starved people facilitating a sex party is a team of hungry dogs managing a buffet. The risk of mistakes—unconscious boundary crossings, moments where the animal body takes over—goes up dramatically.
+
+You can't require your staff to be sexually satisfied. But you can:
+
+- Name this dynamic openly
+- Encourage self-care as professional responsibility
+- Create a culture where staff attend to their own needs
+- Not schedule people who are obviously running on empty
+
+### This Is Taking Responsibility
+
+This isn't indulgence. It's [responsibility](./responsibility.md).
+
+You're in a position where your state affects others. Taking care of yourself—including sexually—reduces the risk you pose to participants. It's the same logic as getting enough sleep, not drinking before facilitating, and managing your emotional state.
+
+Feed yourself first. Then you can hold space for others without your hunger getting in the way.
+
+---
+
 ## Will You Play With Participants?
 
 One of the first decisions you need to make as a facilitator is whether you will engage in intimate or sexual play with participants in your container.
