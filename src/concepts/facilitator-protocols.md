@@ -233,7 +233,7 @@ One of the most powerful things a facilitator can do is establish clear rules at
 
 > **As long as you follow these rules, you are safe. You will not be kicked out. You will not be punished. You have room to experiment, make mistakes, and learn. I have your back.**
 
-This concept comes from high-performance environments (like Sandler sales training): when people know exactly what the boundaries are, and know they're protected as long as they stay within them, they can relax. They can take risks. They can fail and learn without fear.
+This principle shows up in any high-performance environment: when people know exactly what the boundaries are, and know they're protected as long as they stay within them, they can relax. They can take risks. They can fail and learn without fear.
 
 ### Why This Matters
 
