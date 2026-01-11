@@ -132,6 +132,22 @@ If you're sexually starved and you make an unconscious mistake—like I did—yo
 
 By saying "you can't work here until you're fed," I'm saying: *Go take care of yourself. I won't let you jump with a rope around your neck.*
 
+### What This Is Actually About
+
+Someone might read this and think: "What, are your staff predators? People who will consciously violate boundaries if they're hungry?"
+
+No. That's not the concern.
+
+This isn't about morality. It's not designed to dissuade people from committing intentional harm. I expect all my staff to be completely consciously aligned—good people who would never choose to cross a boundary.
+
+The concern is **unconscious harm.**
+
+Like the [popcorn metaphor](../tools/popcorn-metaphor.md). Like my personal example. Mistakes that aren't choices. Moments where the conscious mind slips and the animal body does something the person would never consciously do.
+
+Even if you're completely aligned consciously, your unconscious has wants and desires. If those wants are starving, they have more pull. They're closer to the surface. And when your conscious mind dips—even for a second—the hungry unconscious is more likely to act.
+
+This rule isn't about stopping predators. It's about reducing micro-mistakes from good people whose animal bodies aren't fed. It's about making sure everyone's unconscious is as aligned and safe as possible—so that even when attention slips, the autopilot doesn't cause harm.
+
 ### If They Don't Understand
 
 A newbie might hear this boundary and feel excluded. "Why can't I assist at the party? Are you stopping me from having sex? I feel left out."
