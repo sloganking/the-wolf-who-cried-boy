@@ -106,12 +106,44 @@ If you have staff or assistants, consider their state too.
 
 A team of sexually starved people facilitating a sex party is a team of hungry dogs managing a buffet. The risk of mistakes—unconscious boundary crossings, moments where the animal body takes over—goes up dramatically.
 
-You can't require your staff to be sexually satisfied. But you can:
+**A recommendation:** Consider making this a hard boundary for your staff.
 
-- Name this dynamic openly
-- Encourage self-care as professional responsibility
-- Create a culture where staff attend to their own needs
-- Not schedule people who are obviously running on empty
+Not "encourage self-care." Not "create a culture." A requirement: *You cannot work my events unless you've been sexually satisfied recently.*
+
+Think of it like meals at a retreat. If something went wrong and meals had been delayed—if nobody had eaten in 24 hours—you wouldn't push forward with the curriculum. You'd stop. You'd make sure everyone was fed before continuing. Because hungry people can't show up fully. Their bodies are distracted by unmet needs.
+
+Sexual hunger works the same way. If your staff haven't been fed, they're not ready to serve.
+
+### The Jumpmaster Reframe
+
+There's a video of military paratroopers jumping from a plane. Before each jump, a jumpmaster does a final check—gear, straps, everything. In the video, someone is about to jump. Split second from the door. And the jumpmaster sees it: the static line is wrapped around the jumper's neck. If he jumps, he's decapitated.
+
+The jumpmaster grabs him. Shoves him back. Saves his life.
+
+That pre-check isn't bureaucracy. It's love.
+
+**Here's the reframe:**
+
+When I require my staff to be sexually satisfied before working my events, I'm not just protecting participants. I'm not just protecting myself. I'm protecting *them*.
+
+I'm the jumpmaster. I'm catching something that could hurt them before they jump.
+
+If you're sexually starved and you make an unconscious mistake—like I did—you don't just harm the participant. You harm yourself. Your reputation. Your standing in the community. Your self-image. You have to live with what your hungry animal body did while you weren't fully in control.
+
+By saying "you can't work here until you're fed," I'm saying: *Go take care of yourself. I won't let you jump with a rope around your neck.*
+
+### If They Don't Understand
+
+A newbie might hear this boundary and feel excluded. "Why can't I assist at the party? Are you stopping me from having sex? I feel left out."
+
+They might not understand yet.
+
+But saying no here is an act of love. It's looking out for them in two ways:
+
+1. **Stopping them from endangering themselves** — preventing the unconscious mistake that could damage their life
+2. **Requiring they take care of themselves** — the boundary isn't "you can't participate." The boundary is "go get fed first."
+
+Not all facilitators will do this. It's a high bar. But I'm considering it for my events—because if there's an obvious source of unsafety I can prevent, I want to prevent it.
 
 ### This Is Taking Responsibility
 
