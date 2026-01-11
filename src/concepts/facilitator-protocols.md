@@ -44,6 +44,45 @@ When you're sexually starved:
 
 This isn't about willpower or character. It's about state. A starved body behaves differently than a fed one.
 
+### A Personal Example
+
+I made my first significant unconscious mistake at a retreat. I was tired—failing the [Gun Test](../tools/gun-test.md), though I didn't have that lesson yet.
+
+What happened was my hand strayed somewhere it shouldn't have. For one second. A [popcorn metaphor](../tools/popcorn-metaphor.md) moment—unconscious, automatic, not a choice I made consciously.
+
+When I tried to understand why it happened, I couldn't explain it. The mistake wasn't conscious. My animal body had been running on autopilot while my conscious mind was fading.
+
+Here's what was happening inside me:
+
+```
+Conscious Mind:    ████████░░░░░░░░░░░░  40%
+Unconscious Mind:  ████████████░░░░░░░░  60%
+```
+
+My conscious mind had less than half the control. My animal body was driving.
+
+At the time, I thought the only lesson was: *stay conscious*. Control the front end. Don't let your awareness slip. Make sure your conscious mind always has more than 50% of the wheel.
+
+That's true. But it's incomplete.
+
+Later, I realized:
+
+> **I don't just control the front. I control the back too.**
+
+Here's what I mean:
+
+If you have a dog and it nips someone, it's not necessarily a bad dog. It might just be a hungry dog. A dog that hasn't been fed, hasn't been walked, hasn't had its needs met. The dog was mishandled—and when its needs overwhelm its training, it acts out.
+
+I was going into that interaction sexually unfulfilled. My animal body was hungry. And when my conscious mind faded—when I got tired—that hungry animal body did what hungry animals do: it reached for what it wanted.
+
+The front-end solution is: stay conscious, don't get tired, always maintain control.
+
+The back-end solution is: **feed your dog.**
+
+If your animal body isn't starving, it's safer on autopilot. Even if you lose focus for a second, even if your conscious mind dips below 50%, a well-fed animal body won't lunge. It doesn't need to.
+
+You don't just prevent mistakes by staying conscious. You prevent mistakes by taking care of your needs—so that even when you slip, your autopilot is safe.
+
 ### The Facilitator Standard
 
 If you're facilitating sex-positive spaces, consider this a form of professional hygiene:
