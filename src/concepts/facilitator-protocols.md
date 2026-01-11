@@ -138,7 +138,7 @@ Someone might read this and think: "What, are your staff predators? People who w
 
 No. That's not the concern.
 
-This isn't about morality. It's not designed to dissuade people from committing intentional harm. I expect and take steps to ensure my staff are completely consciously aligned—good people who would never choose to cross a boundary.
+This isn't about morality. It's about accounting for human nature. It's not designed to dissuade people from committing intentional harm. I expect and take steps to ensure my staff are completely consciously aligned—good people who would never choose to cross a boundary.
 
 The concern is **unconscious harm.**
 
