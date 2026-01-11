@@ -46,11 +46,13 @@ This isn't about willpower or character. It's about state. A starved body behave
 
 ### A Personal Example
 
-I made my first significant unconscious mistake at a retreat. I was tired—failing the [Gun Test](../tools/gun-test.md), though I didn't have that lesson yet.
+I made my first significant unconscious mistake at a retreat. I was tired—on sleeping medication, failing the [Gun Test](../tools/gun-test.md), though I didn't have that lesson yet. (This incident is why I created the Gun Test.)
 
 What happened was my hand strayed somewhere it shouldn't have. For one second. A [popcorn metaphor](../tools/popcorn-metaphor.md) moment—unconscious, automatic, not a choice I made consciously.
 
-When I tried to understand why it happened, I couldn't explain it. The mistake wasn't conscious. My animal body had been running on autopilot while my conscious mind was fading.
+When I tried to understand why it happened, I was confused. The action didn't line up with my identity. I want to create good things. I want everyone to be happy. I'm completely disinterested in crossing boundaries. So why did my body do something I would never consciously choose?
+
+I had to look deeper—into my subconscious. And I found something I didn't even know was there.
 
 Here's what was happening inside me:
 
