@@ -235,6 +235,19 @@ One of the most powerful things a facilitator can do is establish clear rules at
 
 This principle shows up in any high-performance environment: when people know exactly what the boundaries are, and know they're protected as long as they stay within them, they can relax. They can take risks. They can fail and learn without fear.
 
+### This Applies to Staff Too
+
+The promise isn't just for participants. Your staff need it too.
+
+At events where staff play with participants, mistakes can occur between them—just like between any two people. Staff should have clear boundaries about what happens when mistakes occur, so they're not operating in fear either.
+
+You can:
+
+- **Use the same promise for everyone** — participants and staff operate under identical rules
+- **Modify the promise for staff** — perhaps staff have additional responsibilities, or slightly different expectations given their role
+
+Either way, make it explicit. Staff who don't know where they stand will fawn, over-function, or hold back in ways that don't serve the container.
+
 ### Why This Matters
 
 Without clear rules, participants are anxious:
