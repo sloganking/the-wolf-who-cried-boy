@@ -150,7 +150,7 @@ This rule isn't about stopping predators. It's about reducing micro-mistakes fro
 
 ### If They Don't Understand
 
-A newbie might hear this boundary and feel excluded. "Why can't I assist at the party? Are you stopping me from having sex? I feel left out."
+A newbie might hear this boundary and feel excluded. "Why can't I assist at the party? Are you stopping me from having sex? From bonding with the staff team? I feel left out."
 
 They might not understand yet.
 
