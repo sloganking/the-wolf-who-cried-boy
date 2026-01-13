@@ -440,6 +440,36 @@ When you're tested—when a participant is angry, when a mob is forming, when yo
 
 **If your actions contradict your words, your actions are what people remember.**
 
+### The Intimidated Facilitator
+
+Here's a scenario that happens more often than it should:
+
+Participant A makes a mistake—an honest mistake, the kind your rules explicitly protect. Participant B is furious. They start attacking Participant A. Maybe they escalate to threats of violence, getting in their face, implying "if you disagree with me, something bad will happen."
+
+You, the facilitator, are scared. Participant B is intimidating. You don't want to deal with them. So you find a way to remove Participant A instead—the person who made the mistake. You rationalize it: "Things will be calmer if they leave." Maybe you even say afterward: "This shouldn't have happened. Mistakes are normally protected."
+
+**But what did your actions communicate?**
+
+Here's what every participant in that room just learned:
+
+> "Mistakes are not OK and will not be tolerated. And if you're a participant who makes a mistake, you'll be attacked and asked to leave too."
+
+It doesn't matter what you *said*. It doesn't matter if you apologized later. It doesn't matter if you explained that "normally" this wouldn't happen. Your actions taught the lesson. And the lesson was: **the intimidating person wins. The mistake-maker gets punished. Your promises of protection are worthless when someone scary gets upset.**
+
+Every participant now knows:
+- The rules don't actually protect them
+- If someone attacks them, the facilitator might side with the attacker
+- Intimidation works
+- They are not safe here
+
+**This is the opposite of walking your talk.** You said threats of violence result in removal—but you removed the *victim* of those threats instead. You said mistakes are protected—but you punished the mistake-maker. You taught everyone that your values crumble under pressure.
+
+The correct response was clear: Participant B, who escalated to threats and intimidation, should have been given a boundary and—if they continued—removed. That's what your rules say. That's what you promised.
+
+But you were scared. And fear made you betray everything you claimed to stand for.
+
+**This is why embodiment matters more than curriculum.** Anyone can write good rules. The question is: will you enforce them when the scary person is looking at you?
+
 ---
 
 ## Your Body Teaches Too
