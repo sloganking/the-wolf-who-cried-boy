@@ -444,9 +444,13 @@ When you're tested—when a participant is angry, when a mob is forming, when yo
 
 Here's a scenario that happens more often than it should:
 
-Participant A makes a mistake—an honest mistake, the kind your rules explicitly protect. Participant B is furious. They start attacking Participant A. Maybe they escalate to threats of violence, getting in their face, implying "if you disagree with me, something bad will happen."
+You're facilitating a retreat. At the beginning, you gave the promise. You stated clearly: "Mistakes made in good faith are protected—you won't be removed for honest errors. But threats of violence, whether verbal or physical intimidation, will result in removal."
 
-You, the facilitator, are scared. Participant B is intimidating. You don't want to deal with them. So you find a way to remove Participant A instead—the person who made the mistake. You rationalize it: "Things will be calmer if they leave." Maybe you even say afterward: "This shouldn't have happened. Mistakes are normally protected."
+Now something happens. Participant A makes a mistake—an honest mistake, the kind your promise explicitly protects. Participant B is furious. They start attacking Participant A. They escalate to threats of violence, getting in their face, implying "if you disagree with me, something bad will happen."
+
+You, the facilitator, are scared. Participant B is intimidating. And a fear rises in you: *"If I stand up to this person—if I enforce my boundary—will they try to destroy my reputation? Will they slander me online? Will they attack my organization?"*
+
+So you find a way to remove Participant A instead—the person who made the mistake. You rationalize it: "Things will be calmer if they leave." Maybe you even say afterward: "This shouldn't have happened. Mistakes are normally protected."
 
 **But what did your actions communicate?**
 
@@ -464,9 +468,27 @@ Every participant now knows:
 
 **This is the opposite of walking your talk.** You said threats of violence result in removal—but you removed the *victim* of those threats instead. You said mistakes are protected—but you punished the mistake-maker. You taught everyone that your values crumble under pressure.
 
+### This Is Exactly When the Promise Matters
+
+The promise isn't for easy moments. It's for *this* moment—when things are intense, when you're scared, when there's a threatening person in front of you and you're tempted to give in.
+
+This is exactly when the promise becomes useful:
+
+1. **You already know what to do.** There's no questioning, no agonizing over the decision. You stated the rule. Threats of violence mean removal. The path is clear.
+
+2. **Everyone else knows what's okay and what's not.** You announced it publicly. Every participant can see: "This behavior violates our agreements." Including the person violating them.
+
+3. **It protects you from being tempted to act out of fear.** If you give in to the bully, you're not just making a bad judgment call—you're violating your own word. You're breaking a promise you made to everyone in the room. The promise raises the stakes on betraying your values.
+
+Without the promise, you're in a fog. You don't know what you're supposed to do. You didn't commit to anything publicly. It's easy to rationalize giving in—"Maybe I'm overreacting. Maybe this isn't that serious."
+
+With the promise, the fog clears. The bully is doing exactly what you said would result in removal. Your job is obvious. The only question is: will you do it?
+
+**The promise benefits you as much as it benefits participants.** It gives you clarity when you're scared. It gives you something to point to when you're being pressured. It stops you from not knowing what to do and being tempted to cave.
+
 The correct response was clear: Participant B, who escalated to threats and intimidation, should have been given a boundary and—if they continued—removed. That's what your rules say. That's what you promised.
 
-But you were scared. And fear made you betray everything you claimed to stand for.
+But if you were scared—if fear made you betray everything you claimed to stand for—then you've shown everyone that your word means nothing when it costs you something.
 
 **This is why embodiment matters more than curriculum.** Anyone can write good rules. The question is: will you enforce them when the scary person is looking at you?
 
