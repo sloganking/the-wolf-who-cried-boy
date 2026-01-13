@@ -442,7 +442,7 @@ When you're tested—when a participant is angry, when a mob is forming, when yo
 
 ### The Intimidated Facilitator
 
-Here's a scenario that happens more often than it should:
+Here's a scenario:
 
 You're facilitating a retreat. At the beginning, you gave the promise. You stated clearly: "Mistakes made in good faith are protected—you won't be removed for honest errors. But threats of violence, whether verbal or physical intimidation, will result in removal."
 
