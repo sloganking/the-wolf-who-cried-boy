@@ -488,7 +488,7 @@ Without the promise, you're in a fog. You don't know what you're supposed to do.
 
 And it's not just you who's in a fog—your participants are too.
 
-Without clear rules stated upfront, participants are genuinely confused about what should happen. They're coming in with all kinds of preconceived cultural notions about what happens when someone makes a mistake—especially in areas of sexuality. And as we've discussed, humans tend to mirror the emotions of those around them. When Participant B is angry and upset and acting like Participant A did something terrible, other participants are going to absorb that framing. There's nothing to counteract it. No pre-established agreement that says "actually, mistakes are protected here."
+Without clear rules stated upfront, participants are genuinely confused about what should happen. They're coming in with all kinds of preconceived cultural notions about what happens when someone makes a mistake—especially in areas of sexuality. And humans tend to mirror the emotions of those around them (see: [People Mirror Emotions, Not Facts](#people-mirror-emotions-not-facts)). When Participant B is angry and upset and acting like Participant A did something terrible, other participants are going to absorb that framing. There's nothing to counteract it. No pre-established agreement that says "actually, mistakes are protected here."
 
 Maybe you, the facilitator, privately knew your boundaries. Maybe you had a "silent promise"—you knew you'd remove people who made threats of violence. But you never announced it.
 
