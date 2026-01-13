@@ -486,6 +486,14 @@ This is exactly when the promise becomes useful:
 
 Without the promise, you're in a fog. You don't know what you're supposed to do. You didn't commit to anything publicly. It's easy to rationalize giving in—"Maybe I'm overreacting. Maybe this isn't that serious."
 
+And it's not just you who's in a fog—your participants are too.
+
+Without clear rules stated upfront, participants are genuinely confused about what should happen. They're coming in with all kinds of preconceived cultural notions about what happens when someone makes a mistake—especially in areas of sexuality. And as we've discussed, humans tend to mirror the emotions of those around them. When Participant B is angry and upset and acting like Participant A did something terrible, other participants are going to absorb that framing. There's nothing to counteract it. No pre-established agreement that says "actually, mistakes are protected here."
+
+Maybe you, the facilitator, privately knew your boundaries. Maybe you had a "silent promise"—you knew you'd remove people who made threats of violence. But you never announced it.
+
+Now when you try to enforce that boundary—when you tell Participant B they can't threaten people here—the other participants don't see a facilitator upholding agreed-upon rules. They see you taking a personal stand. Moralizing. Making a judgment call. Because from their perspective, there were no rules. You never told them. So your enforcement looks like an opinion, not a boundary.
+
 With the promise, the fog clears. Participant B is doing exactly what you said would result in removal. Your job is obvious. The only question is: will you do it?
 
 **The promise benefits you as much as it benefits participants.** It gives you clarity when you're scared. It gives you something to point to when you're being pressured. It stops you from not knowing what to do and being tempted to cave.
