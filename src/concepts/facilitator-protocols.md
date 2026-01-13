@@ -448,7 +448,11 @@ You're facilitating a retreat. At the beginning, you gave the promise. You state
 
 Now something happens. Participant A makes a mistake—an honest mistake, the kind your promise explicitly protects. Participant B is furious. They start attacking Participant A. They escalate to threats of violence, getting in their face, implying "if you disagree with me, something bad will happen."
 
-You, the facilitator, are scared. Participant B is intimidating. And a fear rises in you: *"If I stand up to this person—if I enforce my boundary—will they try to destroy my reputation? Will they slander me online? Will they attack my organization?"*
+You, the facilitator, are scared. Participant B is intimidating. And fears rise in you:
+
+- *"This person is making threats of violence. If I confront them, will they physically attack me?"*
+- *"If I stand up to this person—if I enforce my boundary—will they try to destroy my reputation?"*
+- *"Will they slander me online? Will they attack my organization?"*
 
 So you find a way to remove Participant A instead—the person who made the mistake. You rationalize it: "Things will be calmer if they leave." Maybe you even say afterward: "This shouldn't have happened. Mistakes are normally protected."
 
