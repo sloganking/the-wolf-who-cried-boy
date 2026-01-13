@@ -482,11 +482,11 @@ This is exactly when the promise becomes useful:
 
 2. **Everyone else knows what's okay and what's not.** You announced it publicly. Every participant can see: "This behavior violates our agreements." Including the person violating them.
 
-3. **It protects you from being tempted to act out of fear.** If you give in to the bully, you're not just making a bad judgment call—you're violating your own word. You're breaking a promise you made to everyone in the room. The promise raises the stakes on betraying your values.
+3. **It protects you from being tempted to act out of fear.** If you give in to Participant B, you're not just making a bad judgment call—you're violating your own word. You're breaking a promise you made to everyone in the room. The promise raises the stakes on betraying your values.
 
 Without the promise, you're in a fog. You don't know what you're supposed to do. You didn't commit to anything publicly. It's easy to rationalize giving in—"Maybe I'm overreacting. Maybe this isn't that serious."
 
-With the promise, the fog clears. The bully is doing exactly what you said would result in removal. Your job is obvious. The only question is: will you do it?
+With the promise, the fog clears. Participant B is doing exactly what you said would result in removal. Your job is obvious. The only question is: will you do it?
 
 **The promise benefits you as much as it benefits participants.** It gives you clarity when you're scared. It gives you something to point to when you're being pressured. It stops you from not knowing what to do and being tempted to cave.
 
