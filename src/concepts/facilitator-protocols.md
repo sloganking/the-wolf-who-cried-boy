@@ -440,6 +440,70 @@ When you're tested—when a participant is angry, when a mob is forming, when yo
 
 **If your actions contradict your words, your actions are what people remember.**
 
+### The Intimidated Facilitator
+
+Here's a scenario:
+
+You're facilitating a retreat. At the beginning, you gave the promise. You stated clearly: "Mistakes made in good faith are protected—you won't be removed for honest errors. But threats of violence, whether verbal or physical intimidation, will result in removal."
+
+Now something happens. Participant A makes a mistake—an honest mistake, the kind your promise explicitly protects. Participant B is furious. They start attacking Participant A. They escalate to threats of violence, getting in their face, implying "if you disagree with me, something bad will happen."
+
+You, the facilitator, are scared. Participant B is intimidating. And fears rise in you:
+
+- *"This person is making threats of violence. If I confront them, will they physically attack me?"*
+- *"If I stand up to this person—if I enforce my boundary—will they try to destroy my reputation?"*
+- *"Will they slander me online? Will they attack my organization?"*
+
+So you find a way to remove Participant A instead—the person who made the mistake. You rationalize it: "Things will be calmer if they leave." Maybe you even say afterward: "This shouldn't have happened. Mistakes are normally protected."
+
+**But what did your actions communicate?**
+
+Here's what every participant in that room just learned:
+
+> "Mistakes are not OK and will not be tolerated. And if you're a participant who makes a mistake, you'll be attacked and asked to leave too."
+
+It doesn't matter what you *said*. It doesn't matter if you apologized later. It doesn't matter if you explained that "normally" this wouldn't happen. Your actions taught the lesson. And the lesson was: **the intimidating person wins. The mistake-maker gets punished. Your promises of protection are worthless when someone scary gets upset.**
+
+Every participant now knows:
+- The rules don't actually protect them
+- If someone attacks them, the facilitator might side with the attacker
+- Intimidation works
+- They are not safe here
+
+**This is the opposite of walking your talk.** You said threats of violence result in removal—but you removed the *victim* of those threats instead. You said mistakes are protected—but you punished the mistake-maker. You taught everyone that your values crumble under pressure.
+
+### This Is Exactly When the Promise Matters
+
+The promise isn't for easy moments. It's for *this* moment—when things are intense, when you're scared, when there's a threatening person in front of you and you're tempted to give in.
+
+This is exactly when the promise becomes useful:
+
+1. **You already know what to do.** There's no questioning, no agonizing over the decision. You stated the rule. Threats of violence mean removal. The path is clear.
+
+2. **Everyone else knows what's okay and what's not.** You announced it publicly. Every participant can see: "This behavior violates our agreements." Including the person violating them.
+
+3. **It protects you from being tempted to act out of fear.** If you give in to Participant B, you're not just making a bad judgment call—you're violating your own word. You're breaking a promise you made to everyone in the room. The promise raises the stakes on betraying your values.
+
+Without the promise, you're in a fog. You don't know what you're supposed to do. You didn't commit to anything publicly. It's easy to rationalize giving in—"Maybe I'm overreacting. Maybe this isn't that serious."
+
+And it's not just you who's in a fog—your participants are too.
+
+Without clear rules stated upfront, participants are genuinely confused about what should happen. They're coming in with all kinds of preconceived cultural notions about what happens when someone makes a mistake—especially in areas of sexuality. And humans tend to mirror the emotions of those around them (see: [People Mirror Emotions, Not Facts](#people-mirror-emotions-not-facts)). When Participant B is angry and upset and acting like Participant A did something terrible, other participants are going to absorb that framing. There's nothing to counteract it. No pre-established agreement that says "actually, mistakes are protected here."
+
+Maybe you, the facilitator, privately knew your boundaries. Maybe you had a "silent promise"—you knew you'd remove people who made threats of violence. But you never announced it.
+
+Now when you try to enforce that boundary—when you tell Participant B they can't threaten people here—the other participants don't see a facilitator upholding agreed-upon rules. They see you taking a personal stand. Moralizing. Making a judgment call. Because from their perspective, there were no rules. You never told them. So your enforcement looks like an opinion, not a boundary.
+
+With the promise, the fog clears. Participant B is doing exactly what you said would result in removal. Your job is obvious. The only question is: will you do it?
+
+**The promise benefits you as much as it benefits participants.** It gives you clarity when you're scared. It gives you something to point to when you're being pressured. It stops you from not knowing what to do and being tempted to cave.
+
+The correct response was clear: Participant B, who escalated to threats and intimidation, should have been given a boundary and—if they continued—removed. That's what your rules say. That's what you promised.
+
+But if you were scared—if fear made you betray everything you claimed to stand for—then you've shown everyone that your word means nothing when it costs you something.
+
+**This is why embodiment matters more than curriculum.** Anyone can write good rules. The question is: will you enforce them when the scary person is looking at you?
+
 ---
 
 ## Your Body Teaches Too
