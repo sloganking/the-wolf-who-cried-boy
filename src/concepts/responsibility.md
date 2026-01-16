@@ -204,14 +204,14 @@ Here's another confusion that gets people trapped:
 
 **Responsibility and repair are not the same thing.**
 
-| Responsibility | Repair |
-| -------------- | ------ |
-| Internal, causal | Relational, restorative |
-| "How did I create this?" | "What needs to be restored for trust?" |
-| About your power and agency | About the relationship between you and them |
-| Yours to take, always | Conditional on safety and good faith |
-| Can be done privately, silently | Requires the other person's participation |
-| Non-negotiable | **Optional** |
+| Responsibility                  | Repair                                      |
+| ------------------------------- | ------------------------------------------- |
+| Internal, causal                | Relational, restorative                     |
+| "How did I create this?"        | "What needs to be restored for trust?"      |
+| About your power and agency     | About the relationship between you and them |
+| Yours to take, always           | Conditional on safety and good faith        |
+| Can be done privately, silently | Requires the other person's participation   |
+| Non-negotiable                  | **Optional**                                |
 
 ### Repair Is Conditional
 
@@ -230,7 +230,7 @@ If these conditions aren't present, **repair is not owed.**
 People confuse these constantly. They think:
 
 > "If I'm responsible, I have to make it right with them."
-> 
+>
 > "If I don't repair, I'm not taking responsibility."
 
 **Both are false.**
