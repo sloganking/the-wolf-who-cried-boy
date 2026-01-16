@@ -77,11 +77,9 @@ The same things that would make you dangerous with a gun—impaired judgment, sl
 
 ## Beyond Tonight
 
-The Gun Test focuses on your state *tonight*—are you impaired, tired, activated right now?
+The Gun Test is a tool you use while still conscious to help you avoid impairment-caused unconscious mistakes.
 
-But there's also your **chronic state**—whether you've been sexually fed over time. If your animal body is starving, your autopilot is less safe. The Gun Test helps with conscious mistakes; feeding yourself helps with unconscious ones.
-
-See: [Staff Readiness: Feed Yourself First](../concepts/facilitator-protocols.md#staff-readiness-feed-yourself-first) — especially important for facilitators and staff.
+However, there are other tools you can use to reduce harm—even if you accidentally enter an unconscious state. For the full picture of preventing unconscious mistakes, see: [Why Unconscious Mistakes Happen](../concepts/types-of-mistakes.md#why-unconscious-mistakes-happen).
 
 ---
 
