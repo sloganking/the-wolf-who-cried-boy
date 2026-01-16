@@ -69,15 +69,15 @@ The answers point you to the quadrant, and the quadrant tells you the response.
 
 ---
 
-## If You're Good-Intentioned
+## Where Most Mistakes Come From
 
-If you have good intentions—if you genuinely don't want to harm anyone—then the vast majority of mistakes you'll make are **accidents**. Unconscious, unintentional moments where your body did something your conscious mind wouldn't have chosen.
+If you don't intend to harm anyone, the vast majority of mistakes you'll make are **accidents**. Unconscious, unintentional moments where your body did something your conscious mind wouldn't have chosen.
 
-A small minority might be **wrong-thinking**—conscious but mistaken. You thought something was okay when it wasn't. You misread the situation. You had a belief that turned out to be wrong.
+A smaller portion might be **wrong-thinking**—conscious but mistaken. You thought something was okay when it wasn't. You misread the situation. You had a belief that turned out to be wrong.
 
-**Malicious mistakes**—intentional harm—won't apply to you. If you're reading this book trying to become better, you're not the person who chooses to hurt others.
+**Malicious mistakes**—intentional harm—are rarer, but they happen. Sometimes people realize in hindsight that they were attacking rather than defending. Sometimes the line between "protecting myself" and "punishing them" got blurred.
 
-This is why we focus so much on understanding unconscious mistakes. For good people, that's where the risk lives. Not in your intentions—those are fine. In the moments when your conscious mind isn't driving.
+This book focuses heavily on unconscious mistakes because they're the most common source of unintended harm. Understanding why they happen—and how to prevent them—gives you tools to reduce risk even when your conscious mind isn't fully in control.
 
 ---
 
