@@ -91,8 +91,6 @@ This guide will challenge some things you might believe.
 
 It will say that victims have responsibility too. That power dynamics go both ways. That crying victim loud enough can make you the perpetrator. That your trauma doesn't excuse harming others.
 
-**This is not victim-blaming.**
-
 It's about empowerment. Seeing your power. Recognizing that you're not helpless, even when bad things happen. That clarity and fairness serve everyone better than mob justice and shame spirals.
 
 If that lands wrong at first, sit with it. The concepts build on each other.
