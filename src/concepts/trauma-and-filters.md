@@ -398,9 +398,17 @@ If you catch yourself thinking that, you're in the filter. Check it.
 
 This filter often compounds with "Facilitators are perfect"—and it's especially common in newcomers.
 
-Someone new to these spaces hasn't read this book. They don't know about [unconscious mistakes](./types-of-mistakes.md#why-unconscious-mistakes-happen)—autopilot errors, impairment slips, hunger-driven moments where the conscious mind wasn't driving. They've never learned that their own body can do things their conscious mind wouldn't choose.
+Someone new to these spaces hasn't read this book. They don't know about [unconscious mistakes](./types-of-mistakes.md#why-unconscious-mistakes-happen)—autopilot errors, impairment slips, hunger-driven moments where the conscious mind wasn't driving.
 
-So when they imagine a boundary violation, they can only imagine it as a choice. A conscious decision to harm someone. Because that's the only mechanism they know.
+> **They've never learned that their own body can do things their conscious mind wouldn't choose.**
+
+[Fawning](./fawning.md) is a perfect example. Someone says yes when they mean no—not because they chose to lie, but because their body produced the word before their conscious mind could intervene. Their mouth said yes while their mind was screaming no. If you've ever fawned, you already know what it's like for your body to act against your conscious will.
+
+The same thing happens on the other side of the interaction. Someone's hand moves somewhere it shouldn't—not because they chose to violate a boundary, but because their autopilot fired before their conscious mind caught it.
+
+If you understand fawning, you already have the reference frame to understand unconscious boundary crossings. They're the same mechanism pointing in different directions.
+
+So when newcomers imagine a boundary violation, they can only imagine it as a choice. A conscious decision to harm someone. Because that's the only mechanism they know.
 
 This creates a double problem:
 
