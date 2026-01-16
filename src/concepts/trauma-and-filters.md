@@ -313,16 +313,16 @@ In play spaces, where:
 | The Story                            | How It Distorts Perception                                                                         | The Mistake It Can Cause                                                                                       |
 | ------------------------------------ | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | "I'm always being left out"          | Sees exclusion everywhere; interprets ambiguous situations as "they're doing something without me" | Misreads what's happening, acts on false interpretation, creates boundary violations from confusion            |
-| "Everyone wants what we have"        | Paranoid about partner; assumes every friendly interaction is someone trying to steal them         | Accuses innocent people of predatory behavior, creates conflict, drives partner away with jealousy             |
+| "Everyone wants what I have"         | Paranoid about partner; assumes every friendly interaction is someone trying to steal them         | Accuses innocent people of predatory behavior, creates conflict, drives partner away with jealousy             |
 | "People always take advantage of me" | Sees manipulation in normal requests; assumes the worst intent                                     | Over-reacts to low-severity situations, shuts down connection, may launch [witch hunts](./before-you-judge.md) |
 | "I'm not worthy of attention"        | Assumes rejection is coming; doesn't believe genuine interest                                      | [Fawns](./fawning.md) instead of setting boundaries, says yes when they mean no, gets hurt                     |
 | "Men only want one thing"            | Interprets every touch as sexual; sees predatory intent in friendliness                            | Accuses someone of being "rapey" when they were just being warm, destroys reputations over nothing             |
 | "I have to earn my place"            | Feels like they don't belong unless they're useful or pleasing                                     | Over-gives, burns out, resents others, [fawns](./fawning.md) to stay accepted                                  |
 | "Facilitators are perfect"           | Expects staff to never make mistakes; sees any error as proof of predation                         | Over-responds to normal human error, starts witch hunts, destroys careers over accidents                       |
 
-**Example: "Everyone Wants What We Have"**
+**Example: "Everyone Wants What I Have"**
 
-A couple comes to a play party together. One partner has an unexamined story: "Everyone wants what we have. People are always trying to take what's mine."
+A couple comes to a play party together. One partner has an unexamined story: "Everyone wants what I have. People are always trying to take what's mine."
 
 At the party, someone chats warmly with their partner. Just friendly conversation—nothing flirtatious.
 
@@ -336,7 +336,7 @@ The jealous partner might even go further: warning others that this person is "p
 
 **Here's the problem: they genuinely believe their story.**
 
-It's not that they're being irrational. Within their reference frame—where "everyone wants what we have" is a core axiom—their actions make perfect sense. If you truly believe others are trying to steal your partner, of course you'd act defensive. Of course you'd push people away. Of course you'd warn others about the "threat."
+It's not that they're being irrational. Within their reference frame—where "everyone wants what I have" is a core axiom—their actions make perfect sense. If you truly believe others are trying to steal your partner, of course you'd act defensive. Of course you'd push people away. Of course you'd warn others about the "threat."
 
 The harm they're creating feels like self-defense. They think they're responding to high-severity aggression against them—but it's not true at all.
 
