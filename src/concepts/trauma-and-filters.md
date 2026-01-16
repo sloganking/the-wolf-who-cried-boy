@@ -195,6 +195,20 @@ When you notice yourself certain about what happened—certain about who's wrong
 
 You don't have to abandon your perspective. But recognizing that it IS a perspective—one shaped by where your attention went—creates room for something more complete.
 
+### Don't Act From Fear
+
+Here's a principle that will save you from regret:
+
+**If you're acting from fear, pause.**
+
+This isn't about telling you what to do. Whatever decision you're considering—that's your choice. But if you're making it because you're afraid, you're probably not thinking clearly. Fear contracts attention. Fear distorts perception. Fear makes everything look like a threat.
+
+Decisions made from fear tend to be decisions you regret.
+
+Wait until the fear subsides. Come back to it with a clear mind and well-adjusted feelings. Then decide. You might reach the same conclusion—but now it's a conclusion, not a reaction.
+
+If you can't wait—if action is required immediately—at least acknowledge: *"I'm acting from fear right now. I might be wrong about what I'm seeing."* That acknowledgment alone creates a small gap between stimulus and response. And sometimes that gap is enough to prevent harm.
+
 ## Sex Is Politics
 
 Here's something that explains why people are so bad at seeing clearly in these spaces:
