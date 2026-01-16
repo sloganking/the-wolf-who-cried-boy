@@ -71,7 +71,7 @@ I don't know which cause was primary. Maybe it was all three working together. W
 
 **This experience is why I created these rules.**
 
-The Gun Test. The feed-yourself-first principle. The idea of training safety checks into your autopilot. All of it came from this moment—from trying to understand how a good person with good intentions could do something they would never consciously choose.
+The [Gun Test](../tools/gun-test.md). The [feed-yourself-first principle](#staff-readiness-feed-yourself-first). The idea of [training safety checks into your autopilot](./types-of-mistakes.md#how-to-actually-prevent-autopilot-mistakes). All of it came from this moment—from trying to understand how a good person with good intentions could do something they would never consciously choose.
 
 The lesson isn't just "stay conscious." That's incomplete—you can't consciously prevent an unconscious problem.
 
