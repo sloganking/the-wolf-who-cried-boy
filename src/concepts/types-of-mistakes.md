@@ -89,7 +89,7 @@ This makes no logical sense. It could literally end your life. But autopilot doe
 
 **In intimate spaces**, this can mean your body goes through familiar motions (touch, escalation, movement) without conscious engagement. Not because you wanted to cross a boundary—but because that's what autopilot does in that context.
 
-**How to actually prevent autopilot mistakes:**
+#### How to Actually Prevent Autopilot Mistakes
 
 "Stay conscious" isn't useful advice—you can't consciously prevent an unconscious problem.
 
