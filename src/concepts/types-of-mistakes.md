@@ -81,7 +81,7 @@ Think about driving somewhere familiar. You meant to go to the store, but you zo
 
 **How severe can autopilot get?**
 
-In self-defense training, there's a rule: when you're done practicing with a weapon, you *never* hand it to your partner. You drop it on the ground. Always.
+In [Target Focus Training](https://targetfocustraining.com/)—a reality-based self-protection program—there's a rule: when you're done practicing with a weapon, you *never* hand it to your partner. You drop it on the ground. Always.
 
 Why? Because there are documented cases of people defending themselves from an attacker—successfully fending them off with a gun or knife—and then, in shock, *handing the weapon to their attacker*. The threat isn't over. The attacker could kill them. But their body, running on autopilot after the adrenaline spike, does what it did in practice: hand the weapon to your partner when you're done.
 
