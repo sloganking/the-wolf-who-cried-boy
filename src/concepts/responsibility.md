@@ -99,7 +99,7 @@ This is counterintuitive. Most people don't see it. But it's one of the most imp
 
 **If someone else makes a mistake in a container you're in, you have responsibility for that mistake.**
 
-Not because you did it. But because you were part of the system that allowed it.
+Not because you did it. But because you were part of the system that created it.
 
 ### An Example That Makes It Click
 
