@@ -211,7 +211,7 @@ This work became my path. I trained with some of the best in the field:
 
 - [Somatica Institute](https://www.somaticainstitute.com/) Core Training (AASECT-approved)
 - [Laurie Handlers'](https://lauriehandlers.com/) Sex & Happiness Apprenticeship
-- Week-long ISTA retreats and intensive containers
+- Week-long [ISTA](https://ista.life/) retreats and intensive containers
 - 2+ years of weekly workshops, play parties, and immersive practice
 
 ### Want to Work Together?
