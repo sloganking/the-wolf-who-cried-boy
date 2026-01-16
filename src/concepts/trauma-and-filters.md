@@ -370,7 +370,7 @@ But the "facilitators are perfect" filter inverts reality. When the safest perso
 
 The filter causes people to attack the lowest-risk participants while potentially overlooking actual risks from less experienced people who haven't yet learned what the veterans have.
 
-This is the same dynamic as "meet your heroes and be disappointed." The myth isn't that your heroes are secretly terrible. The myth is that they were ever superhuman to begin with.
+It's the "meet your heroes and be disappointed" effect. The disappointment isn't because your heroes are secretly terrible—it's because they were never superhuman to begin with. The myth was yours, not theirs.
 
 **This filter is why some containers don't allow facilitators or staff to play with participants.**
 
