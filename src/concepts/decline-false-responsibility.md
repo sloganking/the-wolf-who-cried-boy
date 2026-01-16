@@ -92,7 +92,7 @@ Let's be clear about something:
 
 What you DON'T take responsibility for is just as important as what you DO take responsibility for.
 
-In fact, declining false responsibility requires **more** integrity and resolve than accepting it. It's the harder path. Saying "Okay, you're right, I'll take responsibility for that" when you know it's not yours—that's the easy, cowardly way out. It's acting out of fear.
+In fact, declining false responsibility requires **more** integrity and resolve than accepting it. It's the harder path. Saying "Okay, you're right, I'll take responsibility for that" when you know it's not yours—that's the easy way out. It's acting out of fear.
 
 The courageous path is saying what you actually believe:
 
