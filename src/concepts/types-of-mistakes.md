@@ -89,6 +89,26 @@ This makes no logical sense. It could literally end your life. But autopilot doe
 
 **In intimate spaces**, this can mean your body goes through familiar motions (touch, escalation, movement) without conscious engagement. Not because you wanted to cross a boundary—but because that's what autopilot does in that context.
 
+**How to actually prevent autopilot mistakes:**
+
+"Stay conscious" isn't useful advice—you can't consciously prevent an unconscious problem.
+
+The real solution is what Target Focus Training does: **train the safety check into the habit itself.** They never hand the weapon to their partner—they drop it, partner picks it up. The check is part of the trained sequence. Even on autopilot, the safety mechanism fires.
+
+In intimate spaces, this could look like:
+
+- **Verbal check:** Train yourself to always ask before escalating to genital touch. Every time. Until it's automatic.
+- **Self-check:** Train yourself to run the [Gun Test](../tools/gun-test.md) before any significant escalation.
+- **Physical action:** Train a physical ritual with your partner—like a fist bump or specific gesture—that always precedes escalation. Your body learns: do this motion first.
+
+**The worst-case scenario with this training:**
+
+You're on autopilot, heading toward genital touch. Your trained habit triggers—you ask, or you do the gesture. Maybe it doesn't even make sense (they already told you their boundary). But you ask anyway, because that's what your autopilot does. They remind you: "No, that's my boundary." You wake up: "Oh right, I already knew that."
+
+**No harm done.** The autopilot safety caught you before you crossed the line.
+
+The goal isn't to never zone out—that's unrealistic. The goal is to make your autopilot itself safe, by training checks into the sequence before high-stakes actions.
+
 ### Hunger
 
 Unmet needs—sexual, emotional, connection—can drive the subconscious to reach for what it wants when the conscious mind isn't watching.
@@ -109,7 +129,7 @@ This is the classic [Popcorn Metaphor](../tools/popcorn-metaphor.md) situation�
 
 | Cause | Prevention |
 |-------|------------|
-| **Autopilot** | Stay conscious. Be present. Notice when you're zoning out. |
+| **Autopilot** | Train safety checks into the habit. Make your autopilot itself safe. |
 | **Hunger** | Feed yourself first. Address unmet needs before entering high-stakes situations. |
 | **Impairment** | Gun Test. Don't play when you're not fit to play. |
 
