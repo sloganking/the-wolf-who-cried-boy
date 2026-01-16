@@ -319,7 +319,7 @@ Before you enter this space, ask yourself honestly:
 - **What do I tend to see?** When someone makes a mistake, do I see an accident or an attack?
 - **What's my default interpretation?** Do I assume people are on my side until proven otherwise? Or do I assume they're threats until proven safe?
 
-If you're entering with your attention primed to see predators, you're likely to find them—even when they don't exist. Every ambiguous touch becomes suspicious. Every awkward moment becomes evidence. You may be a walking time bomb, ready to over-respond to something that isn't actually a threat.
+If you're entering with your attention primed to see predators, you're likely to find them—even when they don't exist. Every ambiguous touch becomes suspicious. Every awkward moment becomes evidence. You're more likely to over-respond to something that isn't actually a threat.
 
 This doesn't mean your fears aren't valid. But if you know you're primed for danger, [Notice, Feel, Story](../tools/notice-feel-story.md) becomes critical for you. Your first interpretation will almost certainly be "threat"—and you need a way to check whether that's actually true.
 
