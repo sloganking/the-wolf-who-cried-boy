@@ -194,35 +194,19 @@ On that last point: don't just help the person you harmed. Use this experience t
 
 You knew it was wrong, or at least questionable, and you did it anyway. Maybe you pushed past a soft boundary. Maybe you let desire override judgment. Maybe you convinced yourself it would be fine.
 
+This is a [wrong-thinking mistake](./types-of-mistakes.md#wrong-thinking-mistakes) — you were thinking, but thinking wrong. A belief made the action seem okay when it wasn't.
+
 **How to think about it:**
 
 This is harder. You can't hide behind "I didn't know."
 
-But here's the thing: this still doesn't make you irredeemable. It makes you someone who made a choice you regret. The question is what you do now.
+But this still doesn't make you irredeemable. It makes you someone who made a choice you regret. The question is what you do now.
 
 Be honest with yourself:
 
 - What was I telling myself in the moment to justify this?
 - What need was I trying to meet?
 - What would I do differently if I could go back?
-
-The critical work here is **identifying the wrong thinking** that led to the action. Not just "I shouldn't have done that"—but what belief or idea made it seem okay in the moment?
-
-Once you find it, you need to:
-
-1. Recognize it as wrong thinking that created harm
-2. Clearly articulate the new belief you'll think from instead
-3. Commit to that new thinking—and when the old thought arises, use the memory of this mistake and the pain it caused to remind yourself why you don't think that way anymore
-
-**Example of wrong thinking:**
-
-> "Hickeys just sometimes happen."
-
-This thought disowns your power. Giving someone a hickey is completely in your control—it's an action you take, not something that "happens." This belief allows you to excuse yourself from responsibility for medium-severity harm.
-
-Here's the thing: this idea might not be malicious. You might not think it because you want to violate someone's boundaries. You might think it because whatever culture or family you grew up in just passed this false belief around, and you never actually examined it. This is exactly the kind of subconscious story described in [Trauma & Filters](./trauma-and-filters.md)—a belief that sits in the background, pops up now and then, seems correct, but has never been examined.
-
-That doesn't make it less harmful. It just means you have unexamined beliefs that need examining.
 
 **What to do:**
 

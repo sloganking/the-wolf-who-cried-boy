@@ -81,6 +81,34 @@ This book focuses heavily on unconscious mistakes because they're the most commo
 
 ---
 
+## Wrong-Thinking Mistakes
+
+Wrong-thinking mistakes are **conscious but unintentional**. You were thinking—but thinking wrong. You had a belief that made the action seem okay, when it wasn't.
+
+The key feature: you weren't on autopilot. You made a choice. But the choice was based on a flawed belief you didn't know was flawed.
+
+**Example:**
+
+> "Hickeys just sometimes happen."
+
+This thought disowns your power. Giving someone a hickey is completely in your control—it's an action you take, not something that "happens." This belief allows you to excuse yourself from responsibility for medium-severity harm.
+
+Here's the thing: this idea might not be malicious. You might not think it because you want to violate someone's boundaries. You might think it because whatever culture or family you grew up in passed this false belief around, and you never actually examined it. This is exactly the kind of subconscious story described in [Trauma & Filters](./trauma-and-filters.md)—a belief that sits in the background, pops up now and then, seems correct, but has never been examined.
+
+That doesn't make it less harmful. It just means you have unexamined beliefs that need examining.
+
+**The response to wrong-thinking mistakes:**
+
+1. **Identify the wrong thinking** — What belief or idea made this seem okay in the moment?
+2. **Replace it** — Clearly articulate the new belief you'll think from instead
+3. **Commit** — When the old thought arises, use the memory of this mistake to remind yourself why you don't think that way anymore
+
+Wrong-thinking mistakes require **education and belief correction**—not just awareness (like unconscious mistakes) or consequences (like malicious ones).
+
+For what to do if you've made a wrong-thinking mistake, see: [Conscious Mistakes](./i-made-a-mistake.md#conscious-mistakes)
+
+---
+
 ## Why Unconscious Mistakes Happen
 
 The unconscious quadrant (ACCIDENT) can have different underlying causes:
