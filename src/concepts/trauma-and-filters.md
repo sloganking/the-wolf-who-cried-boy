@@ -102,7 +102,7 @@ Now: **How many red things did you see?**
 
 You don't know. You can't remember them. They all reached your eyeballs—you *saw* them—but you weren't paying attention to red. So they didn't register.
 
-This is your **reticular activating system (RAS)** at work. It filters what you notice based on what you're looking for. Everything else fades into the background.
+This is your **reticular activating system (RAS)**—a network in your brainstem that filters what you notice based on what you're looking for. Everything else fades into the background.
 
 ### The Horror Movie Effect
 
