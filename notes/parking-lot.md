@@ -35,3 +35,33 @@ A more detailed breakdown of the psychology behind over-responses:
 (Add ideas here as they come up)
 
 ---
+
+## Style Guide
+
+### Quote Formatting
+
+**Correct format:**
+```markdown
+> **"Quote text here."**  
+> — _Author Name_
+```
+
+Key points:
+- Quote text in bold with quotation marks
+- Two spaces after the closing `**` (creates line break in markdown)
+- Author on next line with em dash (—) and in italics
+- Both lines start with `>`
+
+**Example (from introduction):**
+```markdown
+> **"Goodness without wisdom always creates evil."**  
+> — _Stranger in a Strange Land_
+```
+
+**Wrong:**
+```markdown
+> **Quote text.** — Author Name
+```
+(Author should be on its own line, not same line as quote)
+
+---

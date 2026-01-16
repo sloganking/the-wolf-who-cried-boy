@@ -352,8 +352,8 @@ There's a progression:
 
 Reading this book gives you knowledge. Maybe understanding. But wisdom only comes from action—from applying truth in real situations.
 
-> **Wisdom is not something that's declared. Wisdom is something that's demonstrated. Wisdom isn't what you say. Wisdom is what you do.**
-> — Myron Golden
+> **"Wisdom is not something that's declared. Wisdom is something that's demonstrated. Wisdom isn't what you say. Wisdom is what you do."**  
+> — _Myron Golden_
 
 You can read this entire book. You can understand every concept intellectually. You can nod along, take notes, tell yourself "I'll remember this."
 
