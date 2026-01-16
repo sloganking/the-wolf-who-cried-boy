@@ -44,8 +44,6 @@ When you're sexually starved:
 
 This isn't about willpower or character. It's about state. A starved body behaves differently than a fed one.
 
-For a personal example of how unconscious mistakes happen—and why I created these prevention rules—see: [A Personal Example](./types-of-mistakes.md#a-personal-example).
-
 ### The Facilitator Standard
 
 If you're facilitating sex-positive spaces, consider this a form of professional hygiene:
