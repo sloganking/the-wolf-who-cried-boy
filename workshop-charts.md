@@ -36,7 +36,7 @@ All charts in one place for printing and drawing on easels.
                  │                   │                   │
                  ├───────────────────┼───────────────────┤
                  │                   │                   │
-  UNINTENTIONAL  │   WRONG THINKING  │     ACCIDENT      │
+  UNINTENTIONAL  │  HARMFUL BELIEF   │     ACCIDENT      │
   (not on        │                   │                   │
    purpose)      │  → Education      │  → Awareness      │
                  │  → Correct belief │  → Wake up        │

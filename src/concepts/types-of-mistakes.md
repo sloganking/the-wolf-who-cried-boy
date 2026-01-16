@@ -30,7 +30,7 @@ This is why TYPE matters. The same action can be malicious or accidental—and t
 
 | Type                          | Description                                                                         |
 | ----------------------------- | ----------------------------------------------------------------------------------- |
-| **Conscious, wrong thinking** | They were thinking, but thinking wrong                                              |
+| **Conscious, harmful belief** | They were thinking, but the belief driving them was harmful                         |
 | **Unconscious, not thinking** | Autopilot, sleepy, careless — the [Popcorn](../tools/popcorn-metaphor.md) situation |
 
 ## The Mistake Matrix
@@ -47,7 +47,7 @@ This is why TYPE matters. The same action can be malicious or accidental—and t
                  │                   │                   │
                  ├───────────────────┼───────────────────┤
                  │                   │                   │
-  UNINTENTIONAL  │   WRONG THINKING  │     ACCIDENT      │
+  UNINTENTIONAL  │  HARMFUL BELIEF   │     ACCIDENT      │
   (not on        │                   │                   │
    purpose)      │  → Education      │  → Awareness      │
                  │  → Correct belief │  → Wake up        │
@@ -73,7 +73,7 @@ The answers point you to the quadrant, and the quadrant tells you the response.
 
 If you don't intend to harm anyone, the vast majority of mistakes you'll make are **accidents**. Unconscious, unintentional moments where your body did something your conscious mind wouldn't have chosen.
 
-A smaller portion might be **wrong-thinking**—conscious but mistaken. You thought something was okay when it wasn't. You misread the situation. You had a belief that turned out to be wrong.
+A smaller portion might be **harmful belief** mistakes—conscious but mistaken. You thought something was okay when it wasn't. You misread the situation. You had a belief that turned out to cause harm.
 
 **Malicious mistakes**—intentional harm—are rarer, but they happen. Sometimes people realize in hindsight that they were attacking rather than defending. Sometimes the line between "protecting myself" and "punishing them" got blurred.
 
@@ -81,9 +81,9 @@ This book focuses heavily on unconscious mistakes because they're the most commo
 
 ---
 
-## Wrong-Thinking Mistakes
+## Harmful Belief Mistakes
 
-Wrong-thinking mistakes are **conscious but unintentional**. You were thinking—but thinking wrong. You had a belief that made the action seem okay, when it wasn't.
+Harmful belief mistakes are **conscious but unintentional**. You were thinking—but the belief driving your action caused harm. You had a belief that made the action seem okay, when it wasn't.
 
 The key feature: you weren't on autopilot. You made a choice. But the choice was based on a flawed belief you didn't know was flawed.
 
@@ -97,15 +97,15 @@ Here's the thing: this idea might not be malicious. You might not think it becau
 
 That doesn't make it less harmful. It just means you have unexamined beliefs that need examining.
 
-**The response to wrong-thinking mistakes:**
+**The response to harmful belief mistakes:**
 
-1. **Identify the wrong thinking** — What belief or idea made this seem okay in the moment?
+1. **Identify the harmful belief** — What belief or idea made this seem okay in the moment?
 2. **Replace it** — Clearly articulate the new belief you'll think from instead
 3. **Commit** — When the old thought arises, use the memory of this mistake to remind yourself why you don't think that way anymore
 
-Wrong-thinking mistakes require **education and belief correction**. The response is different from unconscious mistakes (which need awareness) or intentional harm (which may require removal from the space for safety).
+Harmful belief mistakes require **education and belief correction**. The response is different from unconscious mistakes (which need awareness) or intentional harm (which may require removal from the space for safety).
 
-For what to do if you've made a wrong-thinking mistake, see: [Conscious Mistakes](./i-made-a-mistake.md#conscious-mistakes)
+For what to do if you've made a harmful belief mistake, see: [Conscious Mistakes](./i-made-a-mistake.md#conscious-mistakes)
 
 ---
 

@@ -82,7 +82,7 @@ One of the most important things to do after making a mistake is to **keep going
 > **"Failure is not deadly. Giving up is."**  
 > — Tony Robbins
 
-Not recklessly. You shouldn't go back to parties without introspecting and figuring out what occurred. That would be negligent. But once you've done the work—corrected your wrong thinking, recognized how the mistake happened, identified steps to prevent it—returning to community is essential.
+Not recklessly. You shouldn't go back to parties without introspecting and figuring out what occurred. That would be negligent. But once you've done the work—corrected the harmful belief, recognized how the mistake happened, identified steps to prevent it—returning to community is essential.
 
 I've heard people say that if they made a medium-severity mistake, they'd feel such shame that they'd stay out of community for a whole year before maybe coming back—if ever. I've heard that many people actually do this.
 
@@ -194,7 +194,7 @@ On that last point: don't just help the person you harmed. Use this experience t
 
 You knew it was wrong, or at least questionable, and you did it anyway. Maybe you pushed past a soft boundary. Maybe you let desire override judgment. Maybe you convinced yourself it would be fine.
 
-This is a [wrong-thinking mistake](./types-of-mistakes.md#wrong-thinking-mistakes) — you were thinking, but thinking wrong. A belief made the action seem okay when it wasn't.
+This is a [harmful belief mistake](./types-of-mistakes.md#harmful-belief-mistakes) — you were thinking, but the belief driving you caused harm. A belief made the action seem okay when it wasn't.
 
 **How to think about it:**
 
@@ -212,7 +212,7 @@ Be honest with yourself:
 
 1. Full accountability—no minimizing, no excuses
 2. Real apology (see [Making It Right](./making-it-right.md))
-3. **Identify the wrong thinking**—what idea or belief made this seem okay?
+3. **Identify the harmful belief**—what idea or belief made this seem okay?
 4. **Replace it**—what will you believe instead? Write it down. Commit to it.
 5. Examine the pattern—is this a one-time lapse or a recurring blind spot?
 6. Consider: do you need support (therapy, coaching, community) to address this pattern?
