@@ -19,6 +19,8 @@ Examples that are ready to add but held back for now.
 
 At a retreat, there's a group exercise where men are invited to embody their strength—shouting, flexing, expressing power. One participant looks uncomfortable. He says something like: "Isn't this what toxic masculinity is? Isn't this what we're supposed to stop?"
 
+Notice where his attention already is: scanning for predators, toxic people, threats that need to be stopped. His reticular activating system is primed for danger before anything has happened. Everyone else sees a strength exercise. He sees potential abusers.
+
 He's identified a type of behavior he rejects. Aggressive masculinity. Loud, dominating energy. He can't imagine himself doing that. He's here to be different.
 
 Later in the retreat, someone makes a mistake. A LOW or MEDIUM severity accident.
