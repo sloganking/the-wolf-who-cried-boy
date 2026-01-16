@@ -71,8 +71,6 @@ Surround yourself with people who want you to grow, to contribute, to be loved. 
 
 Maybe people are calling you a bad person. Maybe they're saying you should be removed from community and never come back. Maybe they're labeling you a predator.
 
-Their response is immature.
-
 That kind of thinking doesn't treat all human beings with dignity and respect. It doesn't recognize and make room for mistakes and growth. It doesn't see your goodness—even if you were lacking in wisdom. It doesn't allow you to contribute to other human beings who would get value from interacting with you.
 
 Their reaction is about their filters, their fear, their need for a villain. It's not an accurate assessment of your worth or your future.
