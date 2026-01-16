@@ -90,6 +90,44 @@ Here's another layer: **stories don't just create feelings. They also direct att
 
 Where you look determines what you see. And what you see determines the story you tell. And the story you tell determines how you feel.
 
+### The Brown/Red Exercise
+
+Here's an exercise that makes this visceral:
+
+Look around the room for 10 seconds and count how many **brown** things you see. Go. Brown, brown, brown... count them all.
+
+Done? Good. You have a number. You can probably remember most of the brown things you saw.
+
+Now: **How many red things did you see?**
+
+You don't know. You can't remember them. They all reached your eyeballs—you *saw* them—but you weren't paying attention to red. So they didn't register.
+
+This is your **reticular activating system (RAS)** at work. It filters what you notice based on what you're looking for. Everything else fades into the background.
+
+### The Horror Movie Effect
+
+You know how after watching a horror film, you suddenly feel unsafe in your own home?
+
+You're walking to the kitchen at night—something you've done a thousand times—and now every dark corner feels threatening. Every shadow could be a monster. You're looking over your shoulder.
+
+Nothing changed about your house. It's exactly as safe as it's always been. What changed is your RAS. The movie primed you to look for threats. Now that's what your attention is scanning for—and you're finding them everywhere, even when they don't exist.
+
+**This is what happens to people who enter intimate spaces primed for danger.**
+
+If you walk into a temple or play party with your RAS set to "predator detection mode"—looking for threats, expecting harm, scanning for bad actors—you will find them. Every ambiguous touch becomes suspicious. Every awkward moment becomes evidence. Every mistake becomes confirmation.
+
+Not because the threats are real. Because that's what you're looking for.
+
+### Before You Enter a Space
+
+Ask yourself honestly:
+
+- **What is my attention primed for?** Am I expecting friends and fun? Or am I expecting predators and danger?
+- **What will I see?** If someone makes a mistake, will I see an accident or an attack?
+- **What filter am I bringing?** Do I assume people are on my side until proven otherwise? Or do I assume they're threats until proven safe?
+
+If you're entering a space primed to see predators, you're a walking time bomb. [Notice, Feel, Story](../tools/notice-feel-story.md) is critical for you—because your first interpretation will almost certainly be "threat," and you need a way to check whether that's actually true.
+
 ### The Blind Men and the Elephant
 
 You've probably heard the parable: several blind men encounter an elephant. One touches the trunk and says "It's a snake." One touches the leg and says "It's a tree." One touches the side and says "It's a wall."
@@ -126,7 +164,25 @@ This means:
 
 **They're not being malicious. They're not choosing to ignore the other perspective.** Their fear is directing their attention to one part of the elephant, and they never even realized there was more to see.
 
-This is why people with goodness and good intentions can still cause harm. They're not evil. They're just afraid. And fear makes the world look smaller than it is.
+This is why people can still cause harm even without intending to. They're just afraid. And fear makes the world look smaller than it is.
+
+### When Accusations Occur
+
+Here's what happens when someone makes a high-severity accusation—calling someone a predator, saying they were assaulted, demanding removal:
+
+**Everyone's RAS shifts.**
+
+Before the accusation, people were in "friends and fun" mode. Their attention was on connection, pleasure, the experience they came for. Every rustle in the bushes was assumed to be a friend.
+
+After the accusation, everyone shifts to "threat detection" mode. A scary word was spoken. Now their reticular activating system is scanning for danger. Every rustle in the bushes is assumed to be a hungry wolf.
+
+**And many of them will find a predator—even if one doesn't exist.**
+
+Not consciously. They're not choosing to see threats. But everything they witness is now filtered through their activated RAS. Confirmation bias kicks in. Ambiguous behaviors that would have been ignored five minutes ago now become "evidence." The accused person's nervousness becomes proof of guilt. Their defense becomes manipulation. Their confusion becomes deception.
+
+This is how witch hunts form. Not from evidence, but from collective attention shift. Once the word "predator" is spoken, everyone starts looking for predators—and the human brain is very good at finding what it's looking for.
+
+**This is why [verification matters](./before-you-judge.md).** The first story isn't evidence. It's a trigger that changes what everyone is looking for. And what they find afterward is contaminated by what they were primed to see.
 
 ### The Invitation
 

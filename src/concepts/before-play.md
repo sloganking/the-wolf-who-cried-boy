@@ -309,6 +309,22 @@ If you know someone responds to mistakes with HIGH severity—treating accidents
 
 This isn't about finding someone who will let you get away with things. It's about knowing what you're signing up for. If they can't tolerate accidents, and you're human (meaning you WILL make mistakes eventually), you're playing with fire.
 
+### Know Your Own Filter
+
+It's not just about them—it's about you too.
+
+Before you enter this space, ask yourself honestly:
+
+- **What is my attention primed for?** Am I expecting connection and fun? Or am I scanning for threats and danger?
+- **What do I tend to see?** When someone makes a mistake, do I see an accident or an attack?
+- **What's my default interpretation?** Do I assume people are on my side until proven otherwise? Or do I assume they're threats until proven safe?
+
+If you're entering with your attention primed to see predators, you're likely to find them—even when they don't exist. Every ambiguous touch becomes suspicious. Every awkward moment becomes evidence. You may be a walking time bomb, ready to over-respond to something that isn't actually a threat.
+
+This doesn't mean your fears aren't valid. But if you know you're primed for danger, [Notice, Feel, Story](../tools/notice-feel-story.md) becomes critical for you. Your first interpretation will almost certainly be "threat"—and you need a way to check whether that's actually true.
+
+For more on how attention filters work, see: [The Brown/Red Exercise](./trauma-and-filters.md#the-brownred-exercise) and [Before You Enter a Space](./trauma-and-filters.md#before-you-enter-a-space).
+
 ---
 
 ## T — Trauma
