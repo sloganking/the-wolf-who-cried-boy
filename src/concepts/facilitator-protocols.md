@@ -48,7 +48,7 @@ This isn't about willpower or character. It's about state. A starved body behave
 
 I made my first significant unconscious mistake at a retreat. What happened was my hand strayed somewhere it shouldn't have. For one second. A [popcorn metaphor](../tools/popcorn-metaphor.md) moment—unconscious, automatic, not a choice I made consciously.
 
-When I tried to understand why it happened, I was confused. The action didn't line up with my identity. I want to create good things. I want everyone to be happy. I'm completely disinterested in crossing boundaries. So why did my body do something I would never consciously choose?
+When I tried to understand why it happened, I was confused. The action didn't line up with my identity. I only want to create good things. Things where everyone participating feels good both during and after. I'm completely disinterested in crossing boundaries. So why did my body do something I would never consciously choose?
 
 Here's what was happening inside me:
 
