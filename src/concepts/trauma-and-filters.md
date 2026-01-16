@@ -85,7 +85,7 @@ This is why two people can witness the exact same event and have completely oppo
 
 Here's another layer: **stories don't just create feelings. They also direct attention.**
 
-> "We don't experience life. We experience the life we focus on."
+> **"We don't experience life. We experience the life we focus on."**  
 > — Tony Robbins
 
 Where you look determines what you see. And what you see determines the story you tell. And the story you tell determines how you feel.

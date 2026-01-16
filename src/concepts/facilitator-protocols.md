@@ -849,7 +849,7 @@ If *you* don't deserve dignity when things are hard, then *nobody* does. You've 
 
 Standing up for yourself when someone is attacking you—especially when you're in a role that's "supposed to serve"—is one of the hardest things there is.
 
-> "One of the biggest lies we were ever told is that it is supposedly easy to be selfish, and that self-sacrifice takes spiritual strength. People sacrifice themselves in a thousand ways every day. This is their tragedy. To honor the self—to honor mind, judgment, values, and convictions—is the ultimate act of courage. Observe how rare it is. But it is what self-esteem asks of us."
+> **"One of the biggest lies we were ever told is that it is supposedly easy to be selfish, and that self-sacrifice takes spiritual strength. People sacrifice themselves in a thousand ways every day. This is their tragedy. To honor the self—to honor mind, judgment, values, and convictions—is the ultimate act of courage. Observe how rare it is. But it is what self-esteem asks of us."**  
 > — Nathaniel Branden, _The Six Pillars of Self-Esteem_
 
 It's much easier to appease. To let it slide. To tell yourself "I'm being the bigger person" when really you're just scared. Self-sacrifice is common. Honoring yourself is rare.
