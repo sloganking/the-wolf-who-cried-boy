@@ -356,7 +356,7 @@ This is a myth. Facilitators are human. Staff are human. They make mistakes like
 
 But if you're carrying the "facilitators are perfect" filter, here's what happens when a staff member makes a normal human mistake:
 
-Your filter says: "Experienced people don't make mistakes. Therefore this wasn't a mistake. It was intentional. They're a predator using their position."
+Your filter says: "Experienced people don't make mistakes. Therefore this wasn't a mistake. It was intentional. They're a predator using their position to take advantage of people."
 
 You skip right past accident to malice. You skip right past LOW to HIGH severity. Because in your reference frame, the only explanation for staff error is predation.
 
