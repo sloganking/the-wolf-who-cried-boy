@@ -42,7 +42,7 @@ People may:
 
 ## The Point
 
-Accidents happen. Even to good people. Even to experienced people.
+Accidents happen. Even to experienced people. Even to the best of us.
 
 The question is:
 
