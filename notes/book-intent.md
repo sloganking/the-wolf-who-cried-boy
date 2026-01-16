@@ -44,6 +44,23 @@ You can be harmed by someone (even intentionally) AND still have power AND not b
 The person who thinks "I was helpless" stays angry forever.
 The person who sees "I had power and didn't use it" can learn, grow, and move on.
 
+## The Final Piece: You Don't Have to Fix Their Anger
+
+The old frame (from childhood): Their anger is scary. It has consequences for me. The only way to make those consequences go away is to appease them, make their anger go away.
+
+The new frame: I can just tell them "no, fuck off" and not deal with any of their shit. That's what power is.
+
+You don't have to:
+- Appease them
+- Convince them they're wrong
+- Explain why their behavior is unacceptable
+- Wait for them to understand
+- Get them to stop being angry
+
+You just say "I'm not available for this" and walk away. Two sentences. That's it.
+
+Their anger is their problem. Their wrongness is their problem. You don't have to fix it. You just leave.
+
 ## Why This Matters
 
 > "I don't want to start feeling disgruntled by something that happened to me and then end feeling disgruntled like a disgruntled victim. I want to fucking move through something and feel fucking complete after and powerful and able to take care of myself and able to drop this shit."
