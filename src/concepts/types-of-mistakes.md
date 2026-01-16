@@ -131,9 +131,13 @@ This makes no logical sense. It could literally end your life. But autopilot doe
 
 #### How to Actually Prevent Autopilot Mistakes
 
-"Stay conscious" isn't useful advice—you can't consciously prevent an unconscious problem.
+There are two layers of control:
 
-The real solution is what Target Focus Training does: **train the safety check into the habit itself.** They never hand the weapon to their partner—they drop it, partner picks it up. The check is part of the trained sequence. Even on autopilot, the safety mechanism fires.
+**Control the front:** Use conscious tools to maximize your chances of *staying* conscious. The [Gun Test](../tools/gun-test.md) is exactly this—a check you run while conscious to make sure you're fit to play. If you'd fail a breathalyzer, if you're exhausted, if you're emotionally activated—don't play. You're taking action while conscious to prevent slipping into unconsciousness during play.
+
+**Control the back:** Train your autopilot itself to be safe, so even if you DO slip, your subconscious has safety mechanisms built in. This is what Target Focus Training does—they never hand the weapon to their partner, they drop it and let them pick it up. The check is part of the trained sequence. Even on autopilot, the safety mechanism fires.
+
+**Do both.** The Gun Test reduces the odds of going unconscious. Training your autopilot reduces the damage if you slip anyway. You don't just control the front—you control the back too.
 
 In intimate spaces, this could look like:
 
@@ -147,7 +151,7 @@ You're on autopilot, heading toward genital touch. Your trained habit triggers�
 
 **No harm done.** The autopilot safety caught you before you crossed the line.
 
-The goal isn't to never zone out—that's unrealistic. The goal is to make your autopilot itself safe, by training checks into the sequence before high-stakes actions.
+The goal isn't just to never zone out—it's to control both layers. Use conscious tools to stay conscious as much as possible. *And* train your autopilot to be safe, so that even when you slip, the damage is contained.
 
 ### Hunger
 
@@ -167,13 +171,13 @@ This is the classic [Popcorn Metaphor](../tools/popcorn-metaphor.md) situation�
 
 ### Different Causes → Different Prevention
 
-| Cause | Prevention |
-|-------|------------|
-| **Autopilot** | Train safety checks into the habit. Make your autopilot itself safe. |
-| **Hunger** | Feed yourself first. Address unmet needs before entering high-stakes situations. |
-| **Impairment** | Gun Test. Don't play when you're not fit to play. |
+| Cause | Front (stay conscious) | Back (safe autopilot) |
+|-------|------------------------|----------------------|
+| **Autopilot** | Notice when you're zoning out; take breaks | Train safety checks into the habit itself |
+| **Hunger** | Recognize when unmet needs are affecting judgment | Feed yourself first, before entering high-stakes situations |
+| **Impairment** | Gun Test—don't play when you're not fit | Train check-ins so thoroughly they fire even when impaired |
 
-Sometimes it's one cause. Sometimes it's a combination. Sometimes you don't know which it was. But understanding that unconscious mistakes have *causes*—and those causes have *prevention strategies*—gives you ways to reduce the risk.
+Sometimes it's one cause. Sometimes it's a combination. Sometimes you don't know which it was. But understanding that unconscious mistakes have *causes*—and that each cause has *both* front-end and back-end prevention strategies—gives you ways to reduce the risk from multiple angles.
 
 ### A Personal Example
 
@@ -200,15 +204,19 @@ Looking back, I was probably failing all three causes of unconscious mistakes:
 
 I don't know which cause was primary. Maybe it was all three working together. What I know is that my conscious mind wasn't driving—and I had nothing in place to catch me when it slipped.
 
-The lesson isn't just "stay conscious." That's incomplete—you can't consciously prevent an unconscious problem.
+The lesson is: **control the front and the back.**
 
-The lesson is: **control the back end too.**
+**Front-end control** — conscious actions to stay conscious:
+- Check your impairment with the [Gun Test](../tools/gun-test.md)—don't play when you're not fit
+- Feed yourself first, so hunger doesn't compromise your judgment
+- Notice when you're getting tired or activated, and stop before you slip
 
-- Feed yourself, so hunger doesn't drive your autopilot
-- Check your impairment, so you don't play when you're not fit
-- Train safety checks into your habits, so your autopilot itself is safe
+**Back-end control** — training your autopilot to be safe:
+- Build safety checks into your habits, so your autopilot itself is safe
+- Train verbal check-ins until they're automatic
+- Create physical rituals that precede escalation
 
-You don't just prevent mistakes by staying conscious. You prevent them by making your unconscious safer—so that even when you slip, the damage is contained.
+You prevent mistakes by doing both: staying conscious as much as possible, *and* making your unconscious safer for when you slip.
 
 ---
 
