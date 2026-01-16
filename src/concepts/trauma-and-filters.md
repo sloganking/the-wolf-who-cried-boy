@@ -193,15 +193,13 @@ When you notice yourself certain about what happened—certain about who's wrong
 - What would someone with different fears focus on?
 - Am I touching the trunk and calling it a snake?
 
-You don't have to abandon your perspective. But recognizing that it IS a perspective—one shaped by where your attention went—creates room for something more complete.
-
 ### Don't Act From Fear
 
 Here's a principle that will save you from regret:
 
 **If you're acting from fear, pause.**
 
-This isn't about telling you what to do. Whatever decision you're considering—that's your choice. But if you're making it because you're afraid, you're probably not thinking clearly. Fear contracts attention. Fear distorts perception. Fear makes everything look like a threat.
+This isn't about telling you what to do. Whatever decision you're considering—that's your choice. But if you're making it while afraid, it's probably not going to lead to happiness or get you what you actually want. Fear contracts attention. Fear distorts perception. Fear makes everything look like a threat.
 
 Decisions made from fear tend to be decisions you regret.
 
