@@ -292,6 +292,66 @@ If you were genuinely powerless in the past, the victim feeling dissolves not by
 
 What power do you have now? Use it.
 
+### Where the Powerlessness Came From
+
+Something happened in your past—childhood, a traumatic situation—where defending yourself wasn't safe.
+
+Maybe standing up would have made it worse. Maybe the person was bigger, stronger, had authority over you. Maybe you learned that anger from others meant danger, and the only way to survive was to appease.
+
+So your nervous system recorded a lesson: _When faced with this kind of situation, don't fight. Appease. Fawn. Survive._
+
+That lesson made sense then. It may have saved you.
+
+The problem is it's still running now—in situations where it no longer applies.
+
+### Why You're Still Stuck
+
+The belief that you can't handle certain situations follows you around. Not as a conscious thought—as a felt sense. A background hum of _something bad is coming, and I won't be able to handle it_.
+
+This is what depression often is: the anticipation of powerlessness. The sense that situations you can't control are coming, and you'll be helpless when they arrive.
+
+This is what anxiety often is: the nervous system scanning for the next threat, the next moment where you'll need to fawn to survive.
+
+This is what the victim feeling is: _I can't handle what's happening. I have no power here._
+
+Your nervous system is running an old program. It learned powerlessness once, and it hasn't updated.
+
+### Why Knowing Isn't Enough
+
+You might already understand intellectually that you can handle things now. That you're not a child anymore. That the old situation is over.
+
+Understanding doesn't change it.
+
+Your nervous system doesn't update through insight. It updates through _experience_. It needs proof—not words, but lived moments where you faced the thing you feared and discovered you could handle it.
+
+This is why therapy often fails to change automatic responses. You can understand perfectly well that you should say no—and watch yourself fawn anyway. The understanding lives in your prefrontal cortex. The pattern lives in your body.
+
+### How You Actually Heal
+
+Your nervous system needs to experience: _I stood up. I said no. I defended myself. And nothing terrible happened. I can handle this._
+
+Not once. Repeatedly. Until the new pattern overwrites the old one.
+
+This is what the [fawning exercise](./fawning.md#how-to-actually-heal) does. It creates controlled situations where you practice the completion of the pattern—letting discomfort build until anger arises, then saying no. Your body learns: _I can do this. I survived. The thing I feared didn't destroy me._
+
+Each time you do this, the old belief weakens. The anticipation of powerlessness fades. Because your body now has counter-evidence.
+
+### What Dissolves
+
+When your body believes it—not just your mind—something shifts.
+
+The depression fades. Because depression was the anticipation of powerlessness, and you're no longer powerless.
+
+The anxiety fades. Because anxiety was your nervous system scanning for threats you couldn't handle, and now you know you can.
+
+The victim feeling fades. Because the victim feeling was _I can't handle this_, and you've proven to yourself that you can.
+
+You're not in that old situation anymore. You're not that child. You're not restrained. You're not facing someone you can't stand up to.
+
+And even when you face difficult people—angry, threatening, scary—you know now that you can say "I'm not receiving this" and walk away. Their anger doesn't control you. You have power.
+
+That knowing—not intellectual, but embodied—is what sets you free.
+
 ### The Painful Irony
 
 Here's what's hard to swallow:
