@@ -81,6 +81,9 @@ Their reaction is about their filters, their fear, their need for a villain. It'
 
 One of the most important things to do after making a mistake is to **keep going**.
 
+> "Failure is not deadly. Giving up is."
+> — Tony Robbins
+
 Not recklessly. You shouldn't go back to parties without introspecting and figuring out what occurred. That would be negligent. But once you've done the work—corrected your wrong thinking, recognized how the mistake happened, identified steps to prevent it—returning to community is essential.
 
 I've heard people say that if they made a medium-severity mistake, they'd feel such shame that they'd stay out of community for a whole year before maybe coming back—if ever. I've heard that many people actually do this.
