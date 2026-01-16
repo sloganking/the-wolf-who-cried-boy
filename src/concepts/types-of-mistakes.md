@@ -200,9 +200,9 @@ Looking back, I was probably failing all three causes of unconscious mistakes:
 
 I don't know which cause was primary. Maybe it was all three working together. What I know is that my conscious mind wasn't driving—and I had nothing in place to catch me when it slipped.
 
-**This experience is why I created these rules.**
+**This experience is why I created these rules and explanations.**
 
-The [Gun Test](../tools/gun-test.md). The [feed-yourself-first principle](./facilitator-protocols.md#staff-readiness-feed-yourself-first). The idea of [training safety checks into your autopilot](#how-to-actually-prevent-autopilot-mistakes). All of it came from this moment—from trying to understand how a good person with good intentions could do something they would never consciously choose.
+The [Popcorn Metaphor](../tools/popcorn-metaphor.md). The [Gun Test](../tools/gun-test.md). The [feed-yourself-first principle](./facilitator-protocols.md#staff-readiness-feed-yourself-first). The idea of [training safety checks into your autopilot](#how-to-actually-prevent-autopilot-mistakes). All of it came from this moment—from trying to understand how someone with good intentions could do something they would never consciously choose.
 
 The lesson isn't just "stay conscious." That's incomplete—you can't consciously prevent an unconscious problem.
 
