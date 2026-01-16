@@ -328,7 +328,7 @@ You don't have to win the argument. You just have to keep being yourself long en
 
 A mistake is an opportunity.
 
-Not in a toxic-positivity way—real harm happened, and that matters. But you now have information you didn't have before. You know something about yourself, about your patterns, about what you're capable of.
+The harm was real. And now you have information you didn't have before. You know something about yourself, about your patterns, about what you're capable of.
 
 **The question is:** what will you do with that knowledge?
 
