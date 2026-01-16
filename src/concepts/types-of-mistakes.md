@@ -69,6 +69,46 @@ The answers point you to the quadrant, and the quadrant tells you the response.
 
 ---
 
+## Why Unconscious Mistakes Happen
+
+The unconscious quadrant (ACCIDENT) can have different underlying causes:
+
+### Autopilot
+
+Familiar patterns run when you zone out. You didn't want the outcome; your body just did what it habitually does in that context.
+
+Think about driving somewhere familiar. You meant to go to the store, but you zoned out—and five minutes later you realize you're driving home instead. You didn't *want* to go home. It's just the pattern your body runs when you're not paying attention.
+
+In intimate spaces, this can mean your body goes through familiar motions (touch, escalation, movement) without conscious engagement. Not because you wanted to cross a boundary—but because that's what autopilot does in that context.
+
+### Hunger
+
+Unmet needs—sexual, emotional, connection—can drive the subconscious to reach for what it wants when the conscious mind isn't watching.
+
+Think about consciously deciding not to eat candy, but there's candy on your desk. You zone out while working. Your hand reaches for the candy before you realize what you're doing. The want existed; your conscious mind overruled it; when you zoned out, the want drove the action.
+
+This is why [feeding yourself first](./facilitator-protocols.md#staff-readiness-feed-yourself-first) matters—especially for facilitators and staff. A well-fed animal body is safer on autopilot.
+
+### Impairment
+
+The conscious mind isn't at full capacity. Tired, medicated, intoxicated, emotionally activated.
+
+When your conscious mind is running at 40%, your unconscious has more control. Mistakes become more likely—not because you wanted to make them, but because the part of you that would have stopped them wasn't fully online.
+
+This is what the [Gun Test](../tools/gun-test.md) catches.
+
+### Different Causes → Different Prevention
+
+| Cause | Prevention |
+|-------|------------|
+| **Autopilot** | Stay conscious. Be present. Notice when you're zoning out. |
+| **Hunger** | Feed yourself first. Address unmet needs before entering high-stakes situations. |
+| **Impairment** | Gun Test. Don't play when you're not fit to play. |
+
+Sometimes it's one cause. Sometimes it's a combination. Sometimes you don't know which it was. But understanding that unconscious mistakes have *causes*—and those causes have *prevention strategies*—gives you ways to reduce the risk.
+
+---
+
 ## Related
 
 - [Severity](./severity.md) — How serious (separate from type)
