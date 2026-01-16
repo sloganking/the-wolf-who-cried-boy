@@ -319,6 +319,7 @@ In play spaces, where:
 | "Men only want one thing"            | Interprets every touch as sexual; sees predatory intent in friendliness                            | Accuses someone of being "rapey" when they were just being warm, destroys reputations over nothing             |
 | "I have to earn my place"            | Feels like they don't belong unless they're useful or pleasing                                     | Over-gives, burns out, resents others, [fawns](./fawning.md) to stay accepted                                  |
 | "Facilitators are perfect"           | Expects staff to never make mistakes; sees any error as proof of predation                         | Over-responds to normal human error, starts witch hunts, destroys careers over accidents                       |
+| "I would never do that"              | Can't imagine making certain mistakes; assumes anyone who does must be malicious                   | Blind to own risk (more likely to make that mistake), crucifies others for accidents they can't conceive of    |
 
 **Example: "Everyone Wants What I Have"**
 
@@ -392,6 +393,42 @@ They are still human. They will still make mistakes. And when they do, the appro
 Not: "How could someone experienced do this? They must be a predator."
 
 If you catch yourself thinking that, you're in the filter. Check it.
+
+**Example: "I Would Never Do That"**
+
+This filter often compounds with "Facilitators are perfect"—and it's especially common in newcomers.
+
+Someone new to these spaces hasn't read this book. They don't know about [unconscious mistakes](./types-of-mistakes.md#why-unconscious-mistakes-happen)—autopilot errors, impairment slips, hunger-driven moments where the conscious mind wasn't driving. They've never learned that their own body can do things their conscious mind wouldn't choose.
+
+So when they imagine a boundary violation, they can only imagine it as a choice. A conscious decision to harm someone. Because that's the only mechanism they know.
+
+This creates a double problem:
+
+**1. They're blind to their own risk.**
+
+If you can't conceive of making an unconscious mistake, you won't take precautions against it. You won't learn the [Gun Test](../tools/gun-test.md). You won't train safety checks into your autopilot. You won't think "maybe I shouldn't play when I'm this tired."
+
+The person who thinks "I would never do that" is often the person most likely to do exactly that—because they're not watching for it. They're the newbie with no trained safety mechanisms, walking into high-stakes situations with the confidence of someone who doesn't know what they don't know.
+
+**2. They crucify others for mistakes they can't conceive of.**
+
+When they see someone cross a boundary, they have no mental category for "unconscious accident." The only explanation their reference frame offers is: "They meant to do that. They're a predator."
+
+They're not being malicious. They genuinely can't imagine another explanation. But the result is the same: they launch [HIGH severity responses](./severity.md) to LOW severity accidents, destroy reputations over moments of unconsciousness, and create witch hunts based on their own inability to conceive of how mistakes actually happen.
+
+**The painful irony:**
+
+The newcomer who thinks "I would never do that" is:
+- More likely to make that exact mistake (because they're not guarding against it)
+- More likely to destroy someone else for making it (because they can't conceive of innocence)
+- The least qualified to judge what happened (because they don't understand the mechanisms)
+
+Meanwhile, the veteran who HAS made that mistake and learned from it:
+- Is less likely to make it again (because they've trained against it)
+- Is more likely to recognize it as an accident when they see it (because they understand how it happens)
+- Is more qualified to assess what actually occurred (because they have the reference frame)
+
+The people who think they'd never make a mistake are the most dangerous—both to themselves and to everyone they might judge.
 
 **Example: "I'm Always Being Left Out"**
 
