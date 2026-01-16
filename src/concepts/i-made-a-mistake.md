@@ -341,19 +341,31 @@ You can have a pure heart and the best of intentions—and still cause harm. Tha
 
 Here's the uncomfortable truth: **wisdom requires lived experience.** You can't skip ahead. You can't absorb it from a book. You have to earn it the hard way.
 
-### The Difference Between Knowing and Understanding
+### The Difference Between Knowledge and Wisdom
+
+There's a progression:
+
+1. **Ignorance** — The absence of truth
+2. **Knowledge** — The accumulation of truth
+3. **Understanding** — The assimilation of truth (now you comprehend what you've collected)
+4. **Wisdom** — The application of truth
+
+Reading this book gives you knowledge. Maybe understanding. But wisdom only comes from action—from applying truth in real situations.
+
+> **Wisdom is not something that's declared. Wisdom is something that's demonstrated. Wisdom isn't what you say. Wisdom is what you do.**
+> — Myron Golden
 
 You can read this entire book. You can understand every concept intellectually. You can nod along, take notes, tell yourself "I'll remember this."
 
 And then you'll be in a heated moment at 2am, someone attractive is touching you, your judgment is compromised, and everything you "learned" will evaporate. You'll do the thing you knew not to do. And afterward, sitting in the wreckage, you'll think: "I knew better. Why didn't I do better?"
 
-Because knowing isn't the same as understanding.
+Because knowledge isn't wisdom.
 
-**Intellectual knowledge** lives in your prefrontal cortex. It's accessible when you're calm, rested, and thinking clearly. Under pressure, it vanishes.
+**Knowledge** lives in your prefrontal cortex. It's accessible when you're calm, rested, and thinking clearly. Under pressure, it vanishes.
 
-**Embodied wisdom** lives in your nervous system. It's the flinch before you touch a hot stove. It doesn't require thinking—it happens automatically, even when you're tired, triggered, or turned on.
+**Wisdom** lives in your nervous system. It's the flinch before you touch a hot stove. It doesn't require thinking—it happens automatically, even when you're tired, triggered, or turned on.
 
-You can't read your way to embodied wisdom. You have to feel your way there.
+You can't read your way to wisdom. You have to live your way there.
 
 ### How Mistakes Become Wisdom
 
