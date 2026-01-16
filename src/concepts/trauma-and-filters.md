@@ -364,6 +364,12 @@ So when something happens, it doesn't work like an inner monologue stepping thro
 
 You skip right past accident to malice. You skip right past LOW to HIGH severity. Because in your reference frame, the only explanation for staff error is predation.
 
+**The irony:** Facilitators and experienced staff are typically the *safest* people in the room. They've made their mistakes, learned from them, trained extensively, and developed refined awareness. They're the least likely to cause harm—and the most equipped to handle it well when they do.
+
+But the "facilitators are perfect" filter inverts reality. When the safest person makes a minor slip, they're suddenly perceived as the biggest threat—because "someone that experienced wouldn't make a mistake unless they meant to."
+
+The filter causes people to attack the lowest-risk participants while potentially overlooking actual risks from less experienced people who haven't yet learned what the veterans have.
+
 This is the same dynamic as "meet your heroes and be disappointed." The myth isn't that your heroes are secretly terrible. The myth is that they were ever superhuman to begin with.
 
 **This filter is why some containers don't allow facilitators or staff to play with participants.**
