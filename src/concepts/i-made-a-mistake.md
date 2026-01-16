@@ -402,9 +402,7 @@ The person who makes a mistake, takes responsibility, repairs what they can, and
 
 And sometimes, that person goes further: they create systems to prevent the mistake—not just for themselves, but for others. They turn their failure into something that helps people who haven't failed yet.
 
-That's the origin of this book. One mistake. One honest look at what went wrong. And then the decision: "I'm going to understand this deeply enough to prevent it—and share what I learn so others don't have to learn it the hard way."
-
-That's available to you too.
+That's available to you.
 
 ---
 
