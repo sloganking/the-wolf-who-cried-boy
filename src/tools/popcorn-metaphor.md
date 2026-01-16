@@ -68,14 +68,6 @@ This is what happens when people make mistakes out of unconsciousness. They're n
 
 The Iron Giant is pure goodness—but lacks wisdom about his own nature. He doesn't know what will trigger his programming. That's why goodness alone isn't enough. (See: ["Goodness without wisdom always creates evil"](../concepts/i-made-a-mistake.md#why-mistakes-are-necessary))
 
-## For Facilitators
-
-> My position, if mistakes happen in the container, is for you to tell us, the facilitators.
-
-We can help assess what actually happened and guide the repair process.
-
----
-
 ## Related
 
 - [Types of Mistakes](../concepts/types-of-mistakes.md) — Accident is a type
