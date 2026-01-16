@@ -44,44 +44,7 @@ When you're sexually starved:
 
 This isn't about willpower or character. It's about state. A starved body behaves differently than a fed one.
 
-### A Personal Example
-
-I made my first significant unconscious mistake at a retreat. What happened was my hand strayed somewhere it shouldn't have. For one second. A [popcorn metaphor](../tools/popcorn-metaphor.md) moment—unconscious, automatic, not a choice I made consciously.
-
-When I tried to understand why it happened, I was confused. The action didn't line up with my identity. I only want to create good things. Things where everyone participating feels good both during and after. I'm completely disinterested in crossing boundaries. So why did my body do something I would never consciously choose?
-
-Here's what was happening inside me:
-
-```
-Conscious Mind:    ████████░░░░░░░░░░░░  40%
-Unconscious Mind:  ████████████░░░░░░░░  60%
-```
-
-My conscious mind had less than half the control. My animal body was driving.
-
-Looking back, I was probably failing all three causes of unconscious mistakes (see: [Why Unconscious Mistakes Happen](./types-of-mistakes.md#why-unconscious-mistakes-happen)):
-
-1. **Impairment:** I was on sleeping medication. I was tired. I would have failed the [Gun Test](../tools/gun-test.md)—though I didn't have that lesson yet.
-
-2. **Hunger:** I hadn't had sex for a while before that retreat. My animal body was unfulfilled.
-
-3. **Autopilot:** I had no trained safety checks. No muscle memory for pre-escalation pauses. No ingrained habit of asking before touching. My autopilot had no safety mechanisms built in.
-
-I don't know which cause was primary. Maybe it was all three working together. What I know is that my conscious mind wasn't driving—and I had nothing in place to catch me when it slipped.
-
-**This experience is why I created these rules.**
-
-The [Gun Test](../tools/gun-test.md). The [feed-yourself-first principle](#staff-readiness-feed-yourself-first). The idea of [training safety checks into your autopilot](./types-of-mistakes.md#how-to-actually-prevent-autopilot-mistakes). All of it came from this moment—from trying to understand how a good person with good intentions could do something they would never consciously choose.
-
-The lesson isn't just "stay conscious." That's incomplete—you can't consciously prevent an unconscious problem.
-
-The lesson is: **control the back end too.**
-
-- Feed yourself, so hunger doesn't drive your autopilot
-- Check your impairment, so you don't play when you're not fit
-- Train safety checks into your habits, so your autopilot itself is safe
-
-You don't just prevent mistakes by staying conscious. You prevent them by making your unconscious safer—so that even when you slip, the damage is contained.
+For a personal example of how unconscious mistakes happen—and why I created these prevention rules—see: [A Personal Example](./types-of-mistakes.md#a-personal-example).
 
 ### The Facilitator Standard
 
