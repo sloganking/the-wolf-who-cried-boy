@@ -268,6 +268,30 @@ The creator frame says: "They intended harm, AND I had power, AND I didn't use i
 
 You can acknowledge that someone genuinely tried to hurt you without surrendering your agency. Both are true. Hold both.
 
+### "But I Genuinely Had No Power"
+
+Maybe you're reading this and thinking: "That's nice, but I actually _couldn't_ leave. I was a child. I was physically restrained. I was in a situation where 'just say no and walk away' wasn't an option."
+
+Fair. There are situations where power is genuinely limited. Where leaving wasn't possible. Where defending yourself would have made things worse.
+
+Here's the distinction:
+
+**Being victimized** = having harm done to you when you had limited or no power to stop it. This can be real. It happens.
+
+**Feeling like a victim** = the ongoing emotional state of helplessness, anger, and "this was done TO me and I can't do anything."
+
+The insight isn't about the past event. It's about the present feeling.
+
+You may have been genuinely powerless _then_. But you're not powerless _now_. The ongoing victim feeling persists when you're still seeing yourself as powerless in the present—when you haven't recognized that whatever power you lacked then, you have now.
+
+The child who was abused had no power to stop it. The adult that child became _does_ have power—to heal, to set boundaries, to choose who gets access to them, to build a life that isn't defined by what happened.
+
+The shift isn't "you could have stopped it and didn't." The shift is "that was then, and now you have power you didn't have before. What will you do with it?"
+
+If you were genuinely powerless in the past, the victim feeling dissolves not by rewriting history, but by claiming your _current_ power. You're not that child anymore. You're not restrained anymore. You're not in that situation anymore.
+
+What power do you have now? Use it.
+
 ### The Painful Irony
 
 Here's what's hard to swallow:
@@ -282,7 +306,7 @@ This isn't victim-blaming. The person who attacked you is still responsible for 
 
 That's bitter medicine. But it's also freedom.
 
-Because if your suffering came from not using your power, then using your power is the way out. You don't need them to apologize. You don't need justice. You don't need vindication. You just need to recognize: *I had power. I didn't use it. I can use it next time.*
+Because if your suffering came from not using your power, then using your power is the way out. You don't need them to apologize. You don't need justice. You don't need vindication. You just need to recognize: _I had power. I didn't use it. I can use it next time._
 
 ### What This Means Going Forward
 
@@ -291,6 +315,7 @@ You're not a victim. You were someone who fawned.
 Now you know. And knowing changes everything.
 
 Next time someone attacks you:
+
 - You can say "I'm not receiving this" and leave
 - You can enforce boundaries without waiting for their permission
 - You can make facilitators follow their own values
