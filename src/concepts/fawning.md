@@ -224,16 +224,16 @@ Fawning is automatic. It's a trauma response. It's a bitch to grow out of.
 
 But you _can_ grow out of it with practice. And it's the only way you'll ever stop being in pain.
 
-### Maturity Is Ownership
+### Ownership Creates Change
 
-The mature fawner:
+The empowered fawner:
 
 - Owns their pattern
 - Doesn't blame others for believing them
 - Works on changing the pattern
 - Takes [100% control](../tools/100-percent-control.md) of their safety
 
-The immature fawner:
+The disempowered fawner:
 
 - Blames others for not catching them
 - Plays victim when their fawning has consequences
