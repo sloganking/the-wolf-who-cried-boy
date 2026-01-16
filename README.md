@@ -6,7 +6,7 @@ A framework for navigating mistakes, power, and repair in intimate spaces.
 
 ## 📖 Read Online
 
-**[View the book →](https://sloganking.github.io/sexy-minesweeper/)**
+**[View the book →](https://sloganking.github.io/responsible-play/)**
 
 ## What This Is
 
