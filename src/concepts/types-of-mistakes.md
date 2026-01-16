@@ -69,6 +69,18 @@ The answers point you to the quadrant, and the quadrant tells you the response.
 
 ---
 
+## If You're Good-Intentioned
+
+If you have good intentions—if you genuinely don't want to harm anyone—then the vast majority of mistakes you'll make are **accidents**. Unconscious, unintentional moments where your body did something your conscious mind wouldn't have chosen.
+
+A small minority might be **wrong-thinking**—conscious but mistaken. You thought something was okay when it wasn't. You misread the situation. You had a belief that turned out to be wrong.
+
+**Malicious mistakes**—intentional harm—won't apply to you. If you're reading this book trying to become better, you're not the person who chooses to hurt others.
+
+This is why we focus so much on understanding unconscious mistakes. For good people, that's where the risk lives. Not in your intentions—those are fine. In the moments when your conscious mind isn't driving.
+
+---
+
 ## Why Unconscious Mistakes Happen
 
 The unconscious quadrant (ACCIDENT) can have different underlying causes:
