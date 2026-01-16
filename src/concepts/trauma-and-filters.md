@@ -358,6 +358,10 @@ But if you're carrying the "facilitators are perfect" filter, here's what happen
 
 Your filter says: "Experienced people don't make mistakes. Therefore this wasn't a mistake. It was intentional. They're a predator using their position to take advantage of people."
 
+Note: these words may never consciously go through your head. The belief that facilitators are perfect might be entirely subconscious—just part of how you see the world. The idea that facilitators are *not* perfect may not be something you've ever consciously considered, much less put into words.
+
+So when something happens, it doesn't work like an inner monologue stepping through logic. You see a staff member make a mistake, and your reference frame—which literally does not allow for the possibility of innocent error from experienced people—produces only one interpretation: predator. You're not *concluding* they're a predator. You're *perceiving* it, because your filter doesn't offer any other option.
+
 You skip right past accident to malice. You skip right past LOW to HIGH severity. Because in your reference frame, the only explanation for staff error is predation.
 
 This is the same dynamic as "meet your heroes and be disappointed." The myth isn't that your heroes are secretly terrible. The myth is that they were ever superhuman to begin with.
