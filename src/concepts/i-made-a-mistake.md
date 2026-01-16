@@ -162,7 +162,7 @@ None of that requires destroying yourself.
 
 ## What Kind of Mistake Did You Make?
 
-How you should think about this depends on the nature of your mistake.
+How you should think about this depends on the nature of your mistake. For the full framework on categorizing mistakes, see [Types of Mistakes](./types-of-mistakes.md). Below is guidance for the most common types.
 
 ### Unconscious Mistakes
 
@@ -238,7 +238,7 @@ Maybe you:
 - Caused lasting damage to their reputation, relationships, or livelihood
 - Responded with threats or actual violence
 
-**If you're reading this section, I want to say something first:**
+**If you're reading this section and recognizing that you've over-responded to someone in the past, I want to say something first:**
 
 Congratulations.
 
