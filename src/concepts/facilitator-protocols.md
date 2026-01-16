@@ -46,13 +46,9 @@ This isn't about willpower or character. It's about state. A starved body behave
 
 ### A Personal Example
 
-I made my first significant unconscious mistake at a retreat. I was tired—on sleeping medication, failing the [Gun Test](../tools/gun-test.md), though I didn't have that lesson yet. (This incident is why I created the Gun Test.)
-
-What happened was my hand strayed somewhere it shouldn't have. For one second. A [popcorn metaphor](../tools/popcorn-metaphor.md) moment—unconscious, automatic, not a choice I made consciously.
+I made my first significant unconscious mistake at a retreat. What happened was my hand strayed somewhere it shouldn't have. For one second. A [popcorn metaphor](../tools/popcorn-metaphor.md) moment—unconscious, automatic, not a choice I made consciously.
 
 When I tried to understand why it happened, I was confused. The action didn't line up with my identity. I want to create good things. I want everyone to be happy. I'm completely disinterested in crossing boundaries. So why did my body do something I would never consciously choose?
-
-I had to look deeper—into my subconscious. And I found something I didn't even know was there.
 
 Here's what was happening inside me:
 
@@ -63,27 +59,29 @@ Unconscious Mind:  ████████████░░░░░░░░ 
 
 My conscious mind had less than half the control. My animal body was driving.
 
-At the time, I thought the only lesson was: *stay conscious*. Control the front end. Don't let your awareness slip. Make sure your conscious mind always has more than 50% of the wheel.
+Looking back, I was probably failing all three causes of unconscious mistakes (see: [Why Unconscious Mistakes Happen](./types-of-mistakes.md#why-unconscious-mistakes-happen)):
 
-That's true. But it's incomplete.
+1. **Impairment:** I was on sleeping medication. I was tired. I would have failed the [Gun Test](../tools/gun-test.md)—though I didn't have that lesson yet.
 
-Later, I realized:
+2. **Hunger:** I hadn't had sex for a while before that retreat. My animal body was unfulfilled.
 
-> **I don't just control the front. I control the back too.**
+3. **Autopilot:** I had no trained safety checks. No muscle memory for pre-escalation pauses. No ingrained habit of asking before touching. My autopilot had no safety mechanisms built in.
 
-Here's what I mean:
+I don't know which cause was primary. Maybe it was all three working together. What I know is that my conscious mind wasn't driving—and I had nothing in place to catch me when it slipped.
 
-If you have a dog and it nips someone, it's not necessarily a bad dog. It might just be a hungry dog. A dog that hasn't been fed, hasn't been walked, hasn't had its needs met. The dog was mishandled—and when its needs overwhelm its training, it acts out.
+**This experience is why I created these rules.**
 
-I was going into that interaction sexually unfulfilled. My animal body was hungry. And when my conscious mind faded—when I got tired—that hungry animal body did what hungry animals do: it reached for what it wanted.
+The Gun Test. The feed-yourself-first principle. The idea of training safety checks into your autopilot. All of it came from this moment—from trying to understand how a good person with good intentions could do something they would never consciously choose.
 
-The front-end solution is: stay conscious, don't get tired, always maintain control.
+The lesson isn't just "stay conscious." That's incomplete—you can't consciously prevent an unconscious problem.
 
-The back-end solution is: **feed your dog.**
+The lesson is: **control the back end too.**
 
-If your animal body isn't starving, it's safer on autopilot. Even if you lose focus for a second, even if your conscious mind dips below 50%, a well-fed animal body won't lunge. It doesn't need to.
+- Feed yourself, so hunger doesn't drive your autopilot
+- Check your impairment, so you don't play when you're not fit
+- Train safety checks into your habits, so your autopilot itself is safe
 
-You don't just prevent mistakes by staying conscious. You prevent mistakes by taking care of your needs—so that even when you slip, your autopilot is safe.
+You don't just prevent mistakes by staying conscious. You prevent them by making your unconscious safer—so that even when you slip, the damage is contained.
 
 ### The Facilitator Standard
 
