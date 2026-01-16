@@ -438,6 +438,8 @@ Meanwhile, the veteran who HAS made that mistake and learned from it:
 
 The people who think they'd never make a mistake are the most dangerous—both to themselves and to everyone they might judge.
 
+<!-- PENDING: "This pattern in action" example is in notes/pending-examples.md -->
+
 **Example: "I'm Always Being Left Out"**
 
 Someone with this story attends a group experience. They're tired. Something ambiguous happens—maybe they see movement they can't quite interpret, or they notice others connecting in ways they're not part of.
