@@ -318,6 +318,7 @@ In play spaces, where:
 | "I'm not worthy of attention"        | Assumes rejection is coming; doesn't believe genuine interest                                      | [Fawns](./fawning.md) instead of setting boundaries, says yes when they mean no, gets hurt                     |
 | "Men only want one thing"            | Interprets every touch as sexual; sees predatory intent in friendliness                            | Accuses someone of being "rapey" when they were just being warm, destroys reputations over nothing             |
 | "I have to earn my place"            | Feels like they don't belong unless they're useful or pleasing                                     | Over-gives, burns out, resents others, [fawns](./fawning.md) to stay accepted                                  |
+| "Facilitators are perfect"           | Expects staff to never make mistakes; sees any error as proof of predation                         | Over-responds to normal human error, starts witch hunts, destroys careers over accidents                       |
 
 **Example: "Everyone Wants What We Have"**
 
@@ -342,6 +343,45 @@ The harm they're creating feels like self-defense. They think they're responding
 > "All people's actions are sane and reasonable, given their beliefs about the world they are operating within."
 
 This is why stories are so dangerous. The person acting from them isn't crazy. They're just operating from false premises they don't know are false.
+
+**Example: "Facilitators Are Perfect"**
+
+This one is especially common among newcomers to sex-positive spaces.
+
+Someone attends their first retreat or play party. They see facilitators and staff who've been in this world for years. They see confidence, skill, experience. And they form a story:
+
+> "These people know everything. They've seen everything. They don't make mistakes."
+
+This is a myth. Facilitators are human. Staff are human. They make mistakes like everyone else—unconscious slips, moments of impairment, autopilot errors. Years of experience reduce mistakes; they don't eliminate them.
+
+But if you're carrying the "facilitators are perfect" filter, here's what happens when a staff member makes a normal human mistake:
+
+Your filter says: "Experienced people don't make mistakes. Therefore this wasn't a mistake. It was intentional. They're a predator using their position."
+
+You skip right past accident to malice. You skip right past LOW to HIGH severity. Because in your reference frame, the only explanation for staff error is predation.
+
+This is the same dynamic as "meet your heroes and be disappointed." The myth isn't that your heroes are secretly terrible. The myth is that they were ever superhuman to begin with.
+
+**This filter is why some containers don't allow facilitators or staff to play with participants.**
+
+Not because facilitators are dangerous. Not because staff can't be trusted. But because:
+
+1. **Participants project perfection onto them** — and perfection is impossible
+2. **When mistakes inevitably happen, the filter amplifies them** — a LOW mistake from staff gets perceived as HIGH because "they should have known better"
+3. **The perceived power dynamic intensifies the over-response** — "they used their position" when actually they just slipped like any human would
+4. **Having a neutral party to hold space matters** — if the angry person is mad at the facilitator, who holds the container?
+
+Some containers allow assistants to play but not lead facilitators. Same logic—the more authority someone appears to have, the more the perfection myth applies, the more dangerous the over-response when they inevitably prove human.
+
+**The reality:**
+
+Facilitators have seen more than you. They have more experience. They probably have more wisdom about these dynamics.
+
+They are still human. They will still make mistakes. And when they do, the appropriate question is the same as for anyone: What [type of mistake](./types-of-mistakes.md) was it? What's the actual [severity](./severity.md)? Is your [response appropriate](./appropriate-response.md)?
+
+Not: "How could someone experienced do this? They must be a predator."
+
+If you catch yourself thinking that, you're in the filter. Check it.
 
 **Example: "I'm Always Being Left Out"**
 
