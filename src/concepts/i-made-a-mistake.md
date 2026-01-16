@@ -230,6 +230,8 @@ And then you responded with a level of severity that far exceeded theirs.
 They made a **medium** or **low** severity mistake.  
 You responded with **high** severity harm.
 
+This usually happens because of [harmful beliefs](./types-of-mistakes.md#harmful-belief-mistakes) (you believed they were malicious when they weren't) combined with [trauma filters](./trauma-and-filters.md) that made LOW or MEDIUM feel like HIGH. Sometimes there's also emotional indulgence—you knew you were going too far but your anger felt justified.
+
 Maybe you:
 
 - Publicly attacked their character
