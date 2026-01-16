@@ -126,7 +126,7 @@ Ask yourself honestly:
 - **What will I see?** If someone makes a mistake, will I see an accident or an attack?
 - **What filter am I bringing?** Do I assume people are on my side until proven otherwise? Or do I assume they're threats until proven safe?
 
-If you're entering a space primed to see predators, you're a walking time bomb. [Notice, Feel, Story](../tools/notice-feel-story.md) is critical for you—because your first interpretation will almost certainly be "threat," and you need a way to check whether that's actually true.
+If you're entering a space primed to see predators, you're more likely to over-respond to something that isn't actually a threat. [Notice, Feel, Story](../tools/notice-feel-story.md) is critical for you—because your first interpretation will almost certainly be "threat," and you need a way to check whether that's actually true.
 
 ### The Blind Men and the Elephant
 
