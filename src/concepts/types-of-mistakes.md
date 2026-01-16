@@ -79,7 +79,15 @@ Familiar patterns run when you zone out. You didn't want the outcome; your body 
 
 Think about driving somewhere familiar. You meant to go to the store, but you zoned out—and five minutes later you realize you're driving home instead. You didn't *want* to go home. It's just the pattern your body runs when you're not paying attention.
 
-In intimate spaces, this can mean your body goes through familiar motions (touch, escalation, movement) without conscious engagement. Not because you wanted to cross a boundary—but because that's what autopilot does in that context.
+**How severe can autopilot get?**
+
+In self-defense training, there's a rule: when you're done practicing with a weapon, you *never* hand it to your partner. You drop it on the ground. Always.
+
+Why? Because there are documented cases of people defending themselves from an attacker—successfully fending them off with a gun or knife—and then, in shock, *handing the weapon to their attacker*. The threat isn't over. The attacker could kill them. But their body, running on autopilot after the adrenaline spike, does what it did in practice: hand the weapon to your partner when you're done.
+
+This makes no logical sense. It could literally end your life. But autopilot doesn't care about logic. It runs the pattern that was trained, regardless of context.
+
+**In intimate spaces**, this can mean your body goes through familiar motions (touch, escalation, movement) without conscious engagement. Not because you wanted to cross a boundary—but because that's what autopilot does in that context.
 
 ### Hunger
 
@@ -95,7 +103,7 @@ The conscious mind isn't at full capacity. Tired, medicated, intoxicated, emotio
 
 When your conscious mind is running at 40%, your unconscious has more control. Mistakes become more likely—not because you wanted to make them, but because the part of you that would have stopped them wasn't fully online.
 
-This is what the [Gun Test](../tools/gun-test.md) catches.
+This is the classic [Popcorn Metaphor](../tools/popcorn-metaphor.md) situation—you've done something successfully a thousand times, but this time you were sleepy or impaired, and an accident happened. The [Gun Test](../tools/gun-test.md) helps you catch when you're too impaired to play safely.
 
 ### Different Causes → Different Prevention
 
