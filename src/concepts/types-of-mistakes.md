@@ -103,7 +103,7 @@ That doesn't make it less harmful. It just means you have unexamined beliefs tha
 2. **Replace it** — Clearly articulate the new belief you'll think from instead
 3. **Commit** — When the old thought arises, use the memory of this mistake to remind yourself why you don't think that way anymore
 
-Wrong-thinking mistakes require **education and belief correction**—not just awareness (like unconscious mistakes) or consequences (like malicious ones).
+Wrong-thinking mistakes require **education and belief correction**. The response is different from unconscious mistakes (which need awareness) or intentional harm (which may require removal from the space for safety).
 
 For what to do if you've made a wrong-thinking mistake, see: [Conscious Mistakes](./i-made-a-mistake.md#conscious-mistakes)
 
