@@ -120,6 +120,36 @@ Even when you learn that you *have* an RAS, you still don't know what it's filte
 
 That's why RAS-level distortions are so hard to overcome. You can't redirect your attention to possibilities that never reached your conscious mind. You can't consider interpretations that your brainstem already filtered out of existence. You don't even know they were options.
 
+### When Evidence Gets Through
+
+And when contradictory evidence *does* get through—when reality is staring you right in the face—your conscious mind will work to protect the belief.
+
+In *The Iron Giant*, there's a character named Kent Mansley who seems completely unreasonable. He looks like a comical villain—both evil and inept. The audience watches him take action after action that makes no sense. He seems to be lying, manipulating, endangering everyone around him for no clear reason.
+
+Until you notice the one belief running his entire life: "Everyone wants what we have."
+
+Once you see that filter, every action he takes suddenly makes sense. 
+
+The giant robot must be a weapon—sent by Russians, or aliens, or some enemy government that wants what we have. It can't be friendly. That's not a possibility. It must be harmful.
+
+So when a mother tells Kent her son is alive, safe in the giant's hands, and asks the army to stand down—Kent hears this, and his filter translates it. He turns to the general and reports: "She says the giant killed the boy."
+
+To Kent, this isn't lying. The giant was obviously made by bad actors who want to steal what we have. So of course it killed the child. The mother is probably just hopeful and delusional, wanting to believe her son is alive when he isn't. There's no other possibility.
+
+Later, the giant walks up with the boy visibly alive in its hands. Plain as day. Everyone can see it. The general calls ceasefire.
+
+Kent screams: "IT'S A TRICK! LAUNCH THE MISSILE!"
+
+His rational mind is working overtime to preserve the belief. *The giant couldn't have NOT killed the boy. Everyone wants what we have, so the giant must be made by an enemy. So the boy must actually be dead. But wait—if they can build a giant metal man, they can probably build holograms. That's it! That's what I'm seeing! Or the boy has been enslaved by the giant and is being forced to tell the army not to shoot, so we let our guard down right before the giant kills all of us!*
+
+The evidence is literally standing in front of him. He orders a nuclear strike on his own position.
+
+This is what foundational beliefs do. When proof against them is standing right in front of you, plain as day for all eyes to see, your rational mind will find a way to make the belief possible anyway. Every explanation it constructs will be logical—given the premise. The premise is never questioned.
+
+Here's the uncomfortable part: if you're watching Kent and thinking "I would never be that blind"—that's the exact filter that makes you Kent. The audience judging him as insane is doing the same thing he's doing: assuming their perception is accurate, assuming they'd see clearly in his position, never questioning the premise.
+
+Everyone has foundational beliefs. Including you. Including me. The question isn't whether you have them. The question is whether you've found them—and whether you've ever watched them override evidence standing right in front of you.
+
 ### The Horror Movie Effect
 
 You know how after watching a horror film, you suddenly feel unsafe in your own home?
