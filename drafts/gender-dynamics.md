@@ -36,9 +36,9 @@ This isn't because people are malicious. It's because [stories control attention
 
 Before going further, we need to acknowledge something important.
 
-Tony Robbins does an exercise in his seminars. He asks men to raise their hands if they've felt unsafe in the last week. In a room of 3,000 people, maybe three hands go up.
+Tony Robbins does an exercise in his seminars. He asks men to raise their hands if they've felt unsafe in the last month. In a room of 3,000 people, maybe three hands go up.
 
-Then he asks women the same question. 40-60% of the room raises their hands.
+Then he asks women the same question. About 90% of the room raises their hands.
 
 The difference is staggering. And it's real.
 
