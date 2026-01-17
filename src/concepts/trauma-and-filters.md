@@ -458,33 +458,62 @@ To everyone else, it looks like a boundary violation out of nowhere. To them, th
 
 Here's something that makes this worse: **complementary filters magnetize.**
 
-Two people with opposite-but-interlocking fear patterns will find each other like magnets—and create a feedback loop that reinforces both stories.
+Consider someone whose subconscious runs this story: "People are going to misunderstand me and attack me."
 
-**Example:**
+They might not consciously think this. But their body knows it. Every time their phone buzzes—a text, a call, a notification—they get a jolt of fear. *Is someone mad at me? Did they see some imperfection and now they think I'm deserving to be screamed at?* 
 
-- Person A's RAS: "Predators are everywhere. I need to find them before they hurt me."
-- Person B's RAS: "People are going to misunderstand me and attack me. I need to prevent it."
+They're not choosing to think this. Their nervous system just fires. Years of being misunderstood have trained their RAS to expect attack.
 
-These two don't consciously seek each other out. But in a room full of people, they're likely to end up in a dynamic together—because each is looking for exactly what the other is primed to provide.
+This story doesn't just distort perception. **It creates the thing it fears.**
 
-Person A sees threat everywhere. Person B is anxious and defensive—which looks suspicious to someone scanning for threats. Person A confronts. Person B fawns and over-explains—which looks like guilt to someone expecting predators. Person A escalates. Person B panics and apologizes for things they didn't do—which confirms Person A's story.
+Say they're on a team. They make a minor error—the kind everyone makes. But they hyper-focus on it: *Oh no, someone might misunderstand this.* So they proactively bring it up at the team meeting, trying to seem accountable.
 
-Neither intended this. Both are operating from fear. And together, they create the exact dynamic both were terrified of.
+The problem: everyone makes these mistakes, but no one else mentions theirs. Now this person is the only one the team hears making errors. Week after week. Their confessions are training everyone else's RAS: *This person is mistake-prone. Watch them.*
+
+They think they're being responsible. They're actually painting a target on themselves.
+
+**And then comes the fawning.**
+
+When someone does confront them—angry, accusing—their fear kicks in. Part of the fear is the story: *I don't know how to handle this. If I defend myself, it'll get worse.*
+
+So instead of saying "This is unreasonable. You can't speak to me this way. If you want to talk with dignity and respect, I'm available—otherwise, I'm not"—instead of that, they try to appease. They explain their actions, which to the attacker looks like manipulation, trying to get out of trouble. The attack intensifies.
+
+They apologize—not because they did anything wrong, but because apologizing makes angry people less angry. Fawning.
+
+But to the attacker, the apology looks like a confession. It reinforces the attacker's story: *See? They admitted it. I was right.*
+
+**The person never showed any other possibility.** They never took action that would make the attacker question what they were seeing. Their fear of being misunderstood and attacked caused them to take exactly the actions that caused people to misunderstand and attack them.
+
+---
+
+Now put these two people in the same room:
+
+- **Person A:** RAS primed for predators. "They're everywhere. I need to find them."
+- **Person B:** RAS primed for attack. "People will misunderstand me and explode."
+
+You don't have to consciously put them together. They're like magnets. They'll find each other.
+
+Person A is scanning for threats. Person B is anxious, apologetic, constantly flagging their own mistakes—which looks suspicious to someone hunting predators. Person A confronts. Person B fawns and explains—which looks like manipulation. Person A escalates. Person B apologizes for things they didn't do—which confirms Person A's story.
+
+This happens like magic. Neither intended it. But their reticular activating systems were looking for something with polarity—and they found each other.
 
 **The painful irony:**
 
-- Person A, looking for predators, *finds* one—but created the appearance through their own aggression
-- Person B, afraid of being misunderstood, *gets* attacked—but created the suspicion through their own anxiety
+> The people most afraid that predators are everywhere are most likely to see and attack false predators.
+>
+> The people most afraid of being misunderstood and attacked are most likely to wind up being attacked.
 
 Both feel like victims. Both think the other person proved their story right. Neither realizes they co-created the dynamic from complementary fears.
 
 **The way out:**
 
-If either one relaxed—if Person A stopped scanning for threats, or if Person B stopped expecting attacks—the magnetic pull dissolves. The dynamic can't form if one pole isn't charged.
+If either one chilled the fuck out, the dynamic dissolves.
 
-This is why the work on your own filters matters so much. You're not just protecting yourself from distorted perception. You're also removing yourself as a magnet for the people whose filters interlock with yours.
+If Person A relaxed and said, "I'm in a safe place. I don't need to scan for predators every second"—they'd stop seeing threats in anxious people.
 
-Chill out, and you stop attracting the dynamics you fear.
+If Person B relaxed and stopped looking for signs they're about to be attacked—they'd stop taking the defensive actions that look suspicious.
+
+If their reticular activating systems focused on literally anything else, both would be less likely to find what they're expecting to find. They might even find their patterns funny. They might even be friends.
 
 ### The Invitation
 
