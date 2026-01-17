@@ -57,6 +57,12 @@ The person you're responding to might deserve a high-severity response. Or they 
 
 **Being right by accident is not the same as being responsible.** The responsible person verifies first, then responds. The irresponsible person responds first and hopes they were right. One is creating safety. The other is gambling with other people's lives.
 
+Here's the principle: **You can't determine whether something was a good decision based on how it turned out.**
+
+If you play Russian Roulette and survive, was it a good decision? No. The fact that you got lucky doesn't change that it was a terrible decision given what you knew when you pulled the trigger. The outcome doesn't retroactively justify the choice.
+
+Same applies here. If you skip verification and launch a high-severity response, and the person happens to deserve it—that doesn't mean you made a good decision. It means you gambled and won. Next time you might destroy an innocent person. The decision was bad; you just got lucky this time.
+
 ## Common Inappropriate Responses
 
 | Response                     | What It Looks Like                     |
