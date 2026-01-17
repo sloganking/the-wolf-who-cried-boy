@@ -120,6 +120,20 @@ Even when you learn that you *have* an RAS, you still don't know what it's filte
 
 That's why RAS-level distortions are so hard to overcome. You can't redirect your attention to possibilities that never reached your conscious mind. You can't consider interpretations that your brainstem already filtered out of existence. You don't even know they were options.
 
+### The Horror Movie Effect
+
+You know how after watching a horror film, you suddenly feel unsafe in your own home?
+
+You're walking to the kitchen at night—something you've done a thousand times—and now every dark corner feels threatening. Every shadow could be a monster. You're looking over your shoulder.
+
+Nothing changed about your house. It's exactly as safe as it's always been. What changed is your RAS. The movie primed you to look for threats. Now that's what your attention is scanning for—and you're finding them everywhere, even when they don't exist.
+
+**This is what happens to people who enter intimate spaces primed for danger.**
+
+If you walk into a temple or play party with your RAS set to "predator detection mode"—looking for threats, expecting harm, scanning for bad actors—you will find them. Every ambiguous touch becomes suspicious. Every awkward moment becomes evidence. Every mistake becomes confirmation.
+
+Not because the threats are real. Because that's what you're looking for.
+
 ### When Evidence Gets Through
 
 And when contradictory evidence *does* get through—when reality is staring you right in the face—your conscious mind will work to protect the belief.
@@ -149,20 +163,6 @@ This is what foundational beliefs do. When proof against them is standing right 
 Here's the uncomfortable part: if you're watching Kent and thinking "I would never be that blind"—that's the exact filter that makes you Kent. The audience judging him as insane is doing the same thing he's doing: assuming their perception is accurate, assuming they'd see clearly in his position, never questioning the premise.
 
 Everyone has foundational beliefs. Including you. Including me. The question isn't whether you have them. The question is whether you've found them—and whether you've ever watched them override evidence standing right in front of you.
-
-### The Horror Movie Effect
-
-You know how after watching a horror film, you suddenly feel unsafe in your own home?
-
-You're walking to the kitchen at night—something you've done a thousand times—and now every dark corner feels threatening. Every shadow could be a monster. You're looking over your shoulder.
-
-Nothing changed about your house. It's exactly as safe as it's always been. What changed is your RAS. The movie primed you to look for threats. Now that's what your attention is scanning for—and you're finding them everywhere, even when they don't exist.
-
-**This is what happens to people who enter intimate spaces primed for danger.**
-
-If you walk into a temple or play party with your RAS set to "predator detection mode"—looking for threats, expecting harm, scanning for bad actors—you will find them. Every ambiguous touch becomes suspicious. Every awkward moment becomes evidence. Every mistake becomes confirmation.
-
-Not because the threats are real. Because that's what you're looking for.
 
 ### Before You Enter a Space
 
