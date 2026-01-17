@@ -438,7 +438,27 @@ Meanwhile, the veteran who HAS made that mistake and learned from it:
 
 The people who think they'd never make a mistake are the most dangerous—both to themselves and to everyone they might judge.
 
-<!-- PENDING: "This pattern in action" example is in notes/pending-examples.md -->
+**This pattern in action:**
+
+During a group exercise, men are invited to embody their strength—shouting, flexing, expressing power. One participant looks uncomfortable. He says something like: "Isn't this what toxic masculinity is? Isn't this what we're supposed to stop?"
+
+Notice where his attention already is: scanning for predators, toxic people, threats that need to be stopped. His reticular activating system is primed for danger before anything has happened. Everyone else sees a strength exercise. He sees potential abusers.
+
+He's identified a type of behavior he rejects. Aggressive masculinity. Loud, dominating energy. He can't imagine himself doing that. He's here to be different.
+
+Later, someone makes a mistake. A LOW or MEDIUM severity accident.
+
+This same participant—the one who couldn't imagine being aggressively masculine—becomes the loudest person in the room. Shouting. Screaming. More anger than anyone has seen in years. Playing hero, rushing to rescue, ready to harm anyone in his path who might interfere with his righteous cause. Publicly calling the other person a predator. Spreading it to others. Getting the room to take sides before anyone verified what actually happened. Causing HIGH severity harm to someone who made a LOW severity mistake.
+
+He's doing exactly what he said he was against. Aggressive. Dominating. Threatening. The only person in the room causing real harm.
+
+And he can't see it.
+
+Because in his reference frame, he's not being toxic—he's stopping a predator. He's not being aggressive—he's protecting the vulnerable. He's not causing harm—he's delivering justice.
+
+The filter that made him unable to imagine himself as harmful is exactly what made him blind to being harmful. He became the embodiment of what he thought he was fighting against.
+
+This happens more than people realize. The person most afraid of being X is often the person most likely to become X—because they're not watching for it in themselves. They've decided they're immune.
 
 **Example: "I'm Always Being Left Out"**
 
