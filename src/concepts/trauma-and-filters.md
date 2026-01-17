@@ -116,6 +116,8 @@ In real life, nobody prompts you. You don't realize you're scanning for predator
 
 From your perspective, you're not filtering at all. You're just looking at the world and seeing what's there. It feels accurate. It feels real. You have no experience of bias—just perception.
 
+Even when you learn that you *have* an RAS, you still don't know what it's filtering for. You don't know what it makes you see or what it makes you blind to. Figuring that out requires working backwards—noticing patterns like "I tend to see threats more often than other people do" or "I keep finding myself in the same dynamics." Your RAS can filter for multiple things at once, and you're never going to be fully aware of all of them.
+
 That's why RAS-level distortions are so hard to overcome. You can't redirect your attention to possibilities that never reached your conscious mind. You can't consider interpretations that your brainstem already filtered out of existence. You don't even know they were options.
 
 ### The Horror Movie Effect
