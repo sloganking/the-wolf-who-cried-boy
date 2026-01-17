@@ -45,6 +45,18 @@ If UNQUALIFIED:
 
 The severity chart assumes you know what happened. If you don't, you can't use it yet. **Get qualified first.**
 
+### "But I Was Right"
+
+Here's the loophole people use: "I didn't verify, but the person turned out to actually be a predator. So my response was justified."
+
+No. You got lucky.
+
+If you take high-severity action without doing due diligence—without checking your [stories](./trauma-and-filters.md), without verifying with primary sources, without using every tool available to see clearly—you're walking blindfolded into a minefield. If you happen not to step on a mine, that's not responsibility. That's chance.
+
+The person you're responding to might deserve a high-severity response. Or they might not. If you didn't check, you don't know which. And if you're wrong, you've just caused irreversible harm to an innocent person.
+
+**Being right by accident is not the same as being responsible.** The responsible person verifies first, then responds. The irresponsible person responds first and hopes they were right. One is creating safety. The other is gambling with other people's lives.
+
 ## Common Inappropriate Responses
 
 | Response                     | What It Looks Like                     |
