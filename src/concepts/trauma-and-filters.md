@@ -454,6 +454,38 @@ The mistake wasn't malicious. They weren't trying to violate anyone. But the unc
 
 To everyone else, it looks like a boundary violation out of nowhere. To them, they were just "joining in" with what they thought was already happening.
 
+### When Filters Find Each Other
+
+Here's something that makes this worse: **complementary filters magnetize.**
+
+Two people with opposite-but-interlocking fear patterns will find each other like magnets—and create a feedback loop that reinforces both stories.
+
+**Example:**
+
+- Person A's RAS: "Predators are everywhere. I need to find them before they hurt me."
+- Person B's RAS: "People are going to misunderstand me and attack me. I need to prevent it."
+
+These two don't consciously seek each other out. But in a room full of people, they're likely to end up in a dynamic together—because each is looking for exactly what the other is primed to provide.
+
+Person A sees threat everywhere. Person B is anxious and defensive—which looks suspicious to someone scanning for threats. Person A confronts. Person B fawns and over-explains—which looks like guilt to someone expecting predators. Person A escalates. Person B panics and apologizes for things they didn't do—which confirms Person A's story.
+
+Neither intended this. Both are operating from fear. And together, they create the exact dynamic both were terrified of.
+
+**The painful irony:**
+
+- Person A, looking for predators, *finds* one—but created the appearance through their own aggression
+- Person B, afraid of being misunderstood, *gets* attacked—but created the suspicion through their own anxiety
+
+Both feel like victims. Both think the other person proved their story right. Neither realizes they co-created the dynamic from complementary fears.
+
+**The way out:**
+
+If either one relaxed—if Person A stopped scanning for threats, or if Person B stopped expecting attacks—the magnetic pull dissolves. The dynamic can't form if one pole isn't charged.
+
+This is why the work on your own filters matters so much. You're not just protecting yourself from distorted perception. You're also removing yourself as a magnet for the people whose filters interlock with yours.
+
+Chill out, and you stop attracting the dynamics you fear.
+
 ### The Invitation
 
 This isn't about being paranoid about your every perception.
