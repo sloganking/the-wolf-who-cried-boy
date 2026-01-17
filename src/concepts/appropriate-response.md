@@ -59,9 +59,9 @@ The person you're responding to might deserve a high-severity response. Or they 
 
 Here's the principle: **You can't determine whether something was a good decision based on how it turned out.**
 
-If you play Russian Roulette and survive, was it a good decision? No. The fact that you got lucky doesn't change that it was a terrible decision given what you knew when you pulled the trigger. The outcome doesn't retroactively justify the choice.
+Don't judge a decision by what happened once. Judge it by what would happen if you made that decision a hundred times. If you play Russian Roulette and survive, was it a good decision? No—because if you played it a hundred times, you'd be dead. The single survival doesn't change the math.
 
-Same applies here. If you skip verification and launch a high-severity response, and the person happens to deserve it—that doesn't mean you made a good decision. It means you gambled and won. Next time you might destroy an innocent person. The decision was bad; you just got lucky this time.
+Same applies here. If you skip verification and launch a high-severity response, and this time the person happens to deserve it—run that decision a hundred times. How many innocent people do you destroy? That's the measure of the decision, not the single case where you got lucky.
 
 ## Common Inappropriate Responses
 
