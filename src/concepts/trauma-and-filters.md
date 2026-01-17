@@ -104,6 +104,20 @@ You don't know. You can't remember them. They all reached your eyeballs—you *s
 
 This is your **reticular activating system (RAS)**—a network in your brainstem that filters what you notice based on what you're looking for. Everything else fades into the background.
 
+**This is different from attention.**
+
+With attention, you perceive many things, and your conscious mind picks which to focus on. You could choose differently.
+
+With your RAS, things are filtered out *before they reach your conscious awareness*. You're not choosing to ignore them—you're literally blind to them. They never made it to the part of your brain that could choose.
+
+In the brown-red exercise, you can consciously shift your attention to red—because someone told you what you were filtering for. You know you were looking for brown, so you can choose to look for red instead.
+
+In real life, nobody prompts you. You don't realize you're scanning for predators. It never occurs to you to scan for friends. The filter runs without you knowing it exists.
+
+From your perspective, you're not filtering at all. You're just looking at the world and seeing what's there. It feels accurate. It feels real. You have no experience of bias—just perception.
+
+That's why RAS-level distortions are so hard to overcome. You can't redirect your attention to possibilities that never reached your conscious mind. You can't consider interpretations that your brainstem already filtered out of existence. You don't even know they were options.
+
 ### The Horror Movie Effect
 
 You know how after watching a horror film, you suddenly feel unsafe in your own home?
