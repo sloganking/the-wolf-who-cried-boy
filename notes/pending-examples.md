@@ -17,15 +17,15 @@ Examples that are ready to add but held back for now.
 
 **This pattern in action:**
 
-At a retreat, there's a group exercise where men are invited to embody their strength—shouting, flexing, expressing power. One participant looks uncomfortable. He says something like: "Isn't this what toxic masculinity is? Isn't this what we're supposed to stop?"
+During a group exercise, men are invited to embody their strength—shouting, flexing, expressing power. One participant looks uncomfortable. He says something like: "Isn't this what toxic masculinity is? Isn't this what we're supposed to stop?"
 
 Notice where his attention already is: scanning for predators, toxic people, threats that need to be stopped. His reticular activating system is primed for danger before anything has happened. Everyone else sees a strength exercise. He sees potential abusers.
 
 He's identified a type of behavior he rejects. Aggressive masculinity. Loud, dominating energy. He can't imagine himself doing that. He's here to be different.
 
-Later in the retreat, someone makes a mistake. A LOW or MEDIUM severity accident.
+Later, someone makes a mistake. A LOW or MEDIUM severity accident.
 
-This same participant—the one who couldn't imagine being aggressively masculine—becomes the loudest person in the room. Shouting. Screaming. More anger than anyone has seen in years. Playing hero, rushing to rescue, ready to harm anyone in his path who might interfere with his righteous cause. Making threats. Demanding punishment. Causing HIGH severity harm to someone who made a LOW severity mistake.
+This same participant—the one who couldn't imagine being aggressively masculine—becomes the loudest person in the room. Shouting. Screaming. More anger than anyone has seen in years. Playing hero, rushing to rescue, ready to harm anyone in his path who might interfere with his righteous cause. Publicly calling the other person a predator. Spreading it to others. Getting the room to take sides before anyone verified what actually happened. Causing HIGH severity harm to someone who made a LOW severity mistake.
 
 He's doing exactly what he said he was against. Aggressive. Dominating. Threatening. The only person in the room causing real harm.
 
