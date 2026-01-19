@@ -340,7 +340,7 @@ The author's personal experience:
 >
 > The only way I got out was staying and suffering until I got _pissed off_. Eventually the pain generated enough anger that I finally said 'fuck this, I'm not doing it anymore.' And I left.
 >
-> Six weeks is a long time. But it was faster than previous relationships. And that's the point: **each time this happens, recovery gets faster and easier.**"
+> Six weeks is a long time. But it was faster than my previous relationships. And that's the point: **each time this happens, recovery gets faster and easier.**"
 
 ### The Pattern That Heals
 

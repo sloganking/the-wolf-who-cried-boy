@@ -214,7 +214,7 @@ Not in the "I said yes when I meant no" sense. In the deeper sense: you had powe
 
 You could have said "No, you can't do this to me" and left. You could have set a boundary. You could have enforced consequences. You could have turned your ears off and stopped receiving the abuse.
 
-But you didn't. You stayed. You absorbed it. You fawned—not because you wanted to, but because your body did what it learned to do when faced with an angry person: freeze, appease, endure.
+But you didn't. You stayed. You absorbed it. You fawned—not because you wanted to, but because your body did what it learned to do when faced with an threatening person: freeze, appease, endure.
 
 And because you didn't use your power, you experienced yourself as powerless. That's where the victim feeling lives.
 
@@ -232,7 +232,7 @@ The harm was real. They may have genuinely intended to hurt you. AND you had pow
 
 Once you see that you HAD power—that you just didn't use it—something shifts:
 
-1. **You stop feeling helpless** (because you weren't)
+1. **You stop feeling helpless** (because you weren't and aren't)
 2. **The anger dissolves** (because anger is what happens when you feel wronged AND powerless—remove the powerless, and the anger has nowhere to live)
 3. **You can do it differently next time** (because now you know you can)
 
