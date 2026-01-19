@@ -336,6 +336,22 @@ This is what the [fawning exercise](./fawning.md#how-to-actually-heal) does. It 
 
 Each time you do this, the old belief weakens. The anticipation of powerlessness fades. Because your body now has counter-evidence.
 
+### The Painful Irony
+
+Here's what's hard to swallow:
+
+The suffering you experienced? The fear, the pain, the feeling of being violated?
+
+Much of it came from your own fawning.
+
+Not from what they did. From you staying and receiving it. From you not using your power to leave, to set boundaries, to make it stop.
+
+This isn't victim-blaming. The person who attacked you is still responsible for being an attacker. But the duration and intensity of your suffering was largely determined by how long you stayed in a situation you could have left.
+
+That's bitter medicine. But it's also freedom.
+
+Because if your suffering came from not using your power, then using your power is the way out. You don't need them to apologize. You don't need justice. You don't need vindication. You just need to recognize: _I had power. I didn't use it. I can use it next time._
+
 ### What Dissolves
 
 When your body believes it—not just your mind—something shifts.
@@ -357,22 +373,6 @@ You'll know you've succeeded—not just intellectually understood, but become on
 Until you get there, the depression and anger come from anticipated powerlessness: the sense that obstacles are coming, situations you won't be able to control, moments where you'll feel helpless again. The healing happens when that anticipation dissolves—when it's replaced by: _Whatever happens, I can handle it._
 
 That knowing—not intellectual, but embodied—is what sets you free.
-
-### The Painful Irony
-
-Here's what's hard to swallow:
-
-The suffering you experienced? The fear, the pain, the feeling of being violated?
-
-Much of it came from your own fawning.
-
-Not from what they did. From you staying and receiving it. From you not using your power to leave, to set boundaries, to make it stop.
-
-This isn't victim-blaming. The person who attacked you is still responsible for being an attacker. But the duration and intensity of your suffering was largely determined by how long you stayed in a situation you could have left.
-
-That's bitter medicine. But it's also freedom.
-
-Because if your suffering came from not using your power, then using your power is the way out. You don't need them to apologize. You don't need justice. You don't need vindication. You just need to recognize: _I had power. I didn't use it. I can use it next time._
 
 ### What This Means Going Forward
 
