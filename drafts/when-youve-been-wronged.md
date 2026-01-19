@@ -212,7 +212,7 @@ Here's what I discovered about why that feeling persists:
 
 Not in the "I said yes when I meant no" sense. In the deeper sense: you had power, and you didn't use it.
 
-You could have said "No, you can't do this to me" and left. You could have set a boundary. You could have enforced consequences. You could have made the facilitators follow their own values. You could have turned your ears off and stopped receiving the abuse.
+You could have said "No, you can't do this to me" and left. You could have set a boundary. You could have enforced consequences. You could have turned your ears off and stopped receiving the abuse.
 
 But you didn't. You stayed. You absorbed it. You fawned—not because you wanted to, but because your body did what it learned to do when faced with an angry person: freeze, appease, endure.
 
