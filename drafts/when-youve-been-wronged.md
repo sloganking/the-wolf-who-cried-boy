@@ -350,6 +350,12 @@ You're not in that old situation anymore. You're not that child. You're not rest
 
 And even when you face difficult people—angry, threatening, scary—you know now that you can say "I'm not receiving this" and walk away. Their anger doesn't control you. You have power.
 
+What claiming that power looks like is different for everyone. Maybe you take a self-defense class. Maybe you carry pepper spray. Maybe you develop the foresight to recognize dangerous situations earlier. Maybe you practice the tools in this book until responsibility isn't just something you understand, but something you embody.
+
+You'll know you've succeeded—not just intellectually understood, but become one with it—when the anger and victim feelings melt away and you feel safe. Not "safe because nothing bad can happen," but safe because you can handle whatever the world brings. That confidence, that sense of capability, is what replaces the victim feeling.
+
+Until you get there, the depression and anger come from anticipated powerlessness: the sense that obstacles are coming, situations you won't be able to control, moments where you'll feel helpless again. The healing happens when that anticipation dissolves—when it's replaced by: _Whatever happens, I can handle it._
+
 That knowing—not intellectual, but embodied—is what sets you free.
 
 ### The Painful Irony
