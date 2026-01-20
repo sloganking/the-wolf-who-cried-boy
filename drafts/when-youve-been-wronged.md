@@ -201,7 +201,7 @@ Everything above tells you what to do. This section is about something deeper: w
 
 ### Pain Is Part of Life. Suffering Is Optional.
 
-Something bad happened to you. That's pain. It's real. It's unavoidable.
+Something you didn't want happened to you. That's pain. It's real. It's unavoidable.
 
 But the ongoing anguish—the replaying, the resentment, the feeling of being a victim months or years later—that's suffering. And suffering is created by your story about what happened.
 
