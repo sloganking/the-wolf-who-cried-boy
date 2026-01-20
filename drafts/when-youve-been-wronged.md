@@ -215,7 +215,7 @@ The person who doesn't suffer tells a different story. Maybe "this happened FOR 
 
 The event happened. The pain was real. But the story you tell determines whether that pain becomes ongoing suffering or a chapter you move through.
 
-Here's the story that set me free:
+### Why You Feel Like a Victim
 
 If you've been attacked—really attacked, by someone who intended to harm you—you probably feel some combination of:
 
