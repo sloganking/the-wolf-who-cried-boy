@@ -338,6 +338,8 @@ Your nervous system needs to experience: _I stood up. I said no. I defended myse
 
 Not once. Repeatedly. Until the new pattern overwrites the old one.
 
+And somewhere along the way, you might have the realization: _Wait—that's it? That's all that happens? I've felt terror about this my whole life, and the actual consequence is... this tiny thing?_
+
 This is what the [fawning exercise](./fawning.md#how-to-actually-heal) does. It creates controlled situations where you practice the completion of the pattern—letting discomfort build until anger arises, then saying no. Your body learns: _I can do this. I survived. The thing I feared didn't destroy me._
 
 Each time you do this, the old belief weakens. The anticipation of powerlessness fades. Because your body now has counter-evidence.
