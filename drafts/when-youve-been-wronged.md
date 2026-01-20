@@ -332,6 +332,8 @@ Your nervous system doesn't update through insight. It updates through _experien
 
 This is why therapy often fails to change automatic responses. You can understand perfectly well that you should say no—and watch yourself fawn anyway. The understanding lives in your prefrontal cortex. The pattern lives in your body.
 
+You don't need to tell your body you're safe now. You need to show it. And once you do, it will relax.
+
 ### How You Actually Heal
 
 Your nervous system needs to experience: _I stood up. I said no. I defended myself. And nothing terrible happened. I can handle this._
