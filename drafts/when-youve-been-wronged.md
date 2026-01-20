@@ -199,6 +199,24 @@ Take responsibility for your actual mistakes. Reject the distortions. Heal. And 
 
 Everything above tells you what to do. This section is about something deeper: why you feel like a victim, and how to stop.
 
+### Pain Is Part of Life. Suffering Is Optional.
+
+Something bad happened to you. That's pain. It's real. It's unavoidable.
+
+But the ongoing anguish—the replaying, the resentment, the feeling of being a victim months or years later—that's suffering. And suffering is created by your story about what happened.
+
+Look at any painful event and you'll find: some people experience it and crumble. Others experience the same thing and come out fine—even stronger. Same event. Different stories. Different outcomes.
+
+What's the difference?
+
+The person who suffers tells a story where they're powerless. Where something was done TO them that they couldn't stop. Where they're a victim.
+
+The person who doesn't suffer tells a different story. Maybe "this happened FOR me." Maybe "I can handle this." Maybe "[every position has an advantage](./all-power-is-mutual.md)—even this one."
+
+The event happened. The pain was real. But the story you tell determines whether that pain becomes ongoing suffering or a chapter you move through.
+
+Here's the story that set me free:
+
 If you've been attacked—really attacked, by someone who intended to harm you—you probably feel some combination of:
 
 - Helpless
