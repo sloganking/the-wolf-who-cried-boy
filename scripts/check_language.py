@@ -86,15 +86,22 @@ def load_approved(approved_path: Path) -> list[ApprovedInstance]:
     return instances
 
 
-def find_matches(search_dirs: list[Path], terms: list[str]) -> list[Match]:
-    """Find all occurrences of flagged terms in the given directories."""
+def find_matches(search_paths: list[Path], terms: list[str]) -> list[Match]:
+    """Find all occurrences of flagged terms in the given files/directories."""
     matches = []
     
-    for search_dir in search_dirs:
-        if not search_dir.exists():
+    for search_path in search_paths:
+        if not search_path.exists():
+            print(f"Warning: Path not found: {search_path}", file=sys.stderr)
             continue
         
-        for md_file in search_dir.rglob('*.md'):
+        # Handle single file vs directory
+        if search_path.is_file():
+            md_files = [search_path] if search_path.suffix == '.md' else []
+        else:
+            md_files = search_path.rglob('*.md')
+        
+        for md_file in md_files:
             try:
                 with open(md_file, 'r', encoding='utf-8') as f:
                     lines = f.readlines()
@@ -105,8 +112,10 @@ def find_matches(search_dirs: list[Path], terms: list[str]) -> list[Match]:
             for line_num, line in enumerate(lines, start=1):
                 line_lower = line.lower()
                 for term in terms:
-                    # Case-insensitive search
-                    if term.lower() in line_lower:
+                    # Case-insensitive search with word boundaries
+                    # This prevents "victim" from matching "victimhood"
+                    pattern = r'\b' + re.escape(term.lower()) + r'\b'
+                    if re.search(pattern, line_lower):
                         # Get relative path for cleaner output
                         try:
                             rel_path = md_file.relative_to(Path.cwd())
@@ -170,10 +179,21 @@ def main():
     # Paths
     terms_path = project_root / 'notes' / 'language-terms.yaml'
     approved_path = project_root / 'notes' / 'language-approved.yaml'
-    search_dirs = [
-        project_root / 'src',
-        project_root / 'drafts'
-    ]
+    
+    # Check for command-line arguments (specific files/dirs to scan)
+    if len(sys.argv) > 1:
+        search_paths = []
+        for arg in sys.argv[1:]:
+            path = Path(arg)
+            if not path.is_absolute():
+                path = project_root / path
+            search_paths.append(path)
+    else:
+        # Default: scan src/ and drafts/
+        search_paths = [
+            project_root / 'src',
+            project_root / 'drafts'
+        ]
     
     # Validate paths
     if not terms_path.exists():
@@ -188,7 +208,7 @@ def main():
     print(f"Loaded {len(approved)} approved instances.\n")
     
     # Find matches
-    matches = find_matches(search_dirs, terms)
+    matches = find_matches(search_paths, terms)
     
     # Filter to unapproved
     unapproved = [m for m in matches if not is_approved(m, approved)]
