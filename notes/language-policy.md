@@ -23,6 +23,7 @@ These terms should NOT appear in the author's voice. They may appear in quotes/e
 | predator (as label) | person who harmed, person who crossed boundaries | Moralizing label vs. description of behavior |
 | victim (as identity) | person who was harmed, person who experienced X | Identity vs. event |
 | abuser (as label) | person who caused harm | Moralizing label vs. description |
+| banished | excluded, removed, asked to leave | Dramatic/medieval; implies righteous exile |
 
 ## Terms That Are Borderline (Evaluate Case-by-Case)
 

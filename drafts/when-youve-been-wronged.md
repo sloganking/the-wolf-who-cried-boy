@@ -388,9 +388,9 @@ That knowing—not intellectual, but embodied—is what sets you free.
 
 Here's a diagnostic: listen to the words you use when you talk about what happened.
 
-If you're saying "I was violated," "character assassination," "witch hunt"—you're still in the wound. These words carry judgment, drama, victim-frame energy. They keep you focused on what was done TO you.
+If you're saying "I was violated," "character assassination," "witch hunt," "I was banished"—you're still in the wound. These words carry judgment, drama, victim-frame energy. They keep you focused on what was done TO you.
 
-If you can say "they crossed my boundaries," "they attacked my reputation publicly," "there was a coordinated attack"—you're describing the same events, but neutrally. No less true. No less serious. Just... graduated. You're not hexing yourself with victim language.
+If you can say "they crossed my boundaries," "they attacked my reputation publicly," "there was a coordinated attack," "I was asked to leave"—you're describing the same events, but neutrally. No less true. No less serious. Just... graduated. You're not hexing yourself with victim language.
 
 And here's what full healing looks like: you can describe what happened in neutral terms, AND your attention isn't on it day-to-day. You're focused forward on creating what you want. The past comes up when relevant, you speak about it clearly, and then you move on. It doesn't live in your head rent-free.
 
