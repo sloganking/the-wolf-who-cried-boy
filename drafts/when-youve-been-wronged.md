@@ -400,6 +400,12 @@ The destination is: your attention is forward. You're building what you want. Th
 
 The words we use shape how we see the world. If your vocabulary only contains victim-frame terms, you can only think in victim-frame. Words are spells. Choose ones that point forward.
 
+The words that come to mind are automatic—and influenced by those around you. If you hear a word a lot, it'll be on the tip of your tongue. This is the subconscious at work, and you train it like you train the body.
+
+At first, it takes conscious effort. You'll catch yourself mid-sentence using victim language and have to speak something else. Awkward. Slow. Deliberate.
+
+But over time, it becomes automatic. Speaking without victim language—and thus *thinking* without it—becomes your default. The victim lens dissolves not because you fought it, but because you stopped feeding it words.
+
 ### What This Means Going Forward
 
 You're not a victim. You were someone who fawned.
