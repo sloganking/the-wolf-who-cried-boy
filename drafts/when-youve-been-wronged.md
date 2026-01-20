@@ -4,9 +4,9 @@
 
 ---
 
-This section is for when **you** are the target of an over-response.
+This section is for when **you** have been wronged.
 
-You made a mistake—maybe LOW, maybe MEDIUM. And someone responded with HIGH-severity aggression. Character assassination. Accusations of being a predator. Witch hunt energy. Reputation damage.
+Maybe you made a small mistake and someone responded with HIGH-severity aggression—character assassination, accusations of being a predator, witch hunt energy. Or maybe you made no mistake at all and someone harmed you—physically, sexually, or through abuse of power.
 
 This is one of the most disorienting, painful experiences in these spaces. And there's almost no guidance for it anywhere.
 
@@ -76,7 +76,7 @@ Let's be honest: **this will take time.**
 
 Maybe weeks. Maybe months. There's no shortcut.
 
-You've been attacked. Your character has been questioned. You may have been publicly shamed for something that doesn't match reality. That's grief. That's trauma. It doesn't just evaporate because you understand the framework.
+You've been attacked—whether that means your character was questioned, your body was violated, or your sense of safety was shattered. That's grief. That's trauma. It doesn't just evaporate because you understand the framework.
 
 ### What Helps
 
@@ -154,7 +154,7 @@ Here's what no one wants to say:
 
 **Sometimes there's nothing you can do.**
 
-Sometimes the witch hunt happens anyway. Sometimes your reputation takes a hit. Sometimes people believe them. Sometimes there's no justice, no vindication, no moment where everyone realizes you were treated unfairly.
+Sometimes the damage happens anyway. Sometimes your reputation takes a hit, or your body bears scars, or your sense of safety doesn't come back on schedule. Sometimes there's no justice, no vindication, no moment where everyone realizes you were treated unfairly.
 
 This is reality. It sucks.
 
@@ -185,11 +185,11 @@ You don't need to prove anything. Just keep being who you are. The people worth 
 
 ## You're Not Alone
 
-This happens more than people talk about. Many people in these spaces have experienced being on the wrong end of an over-response, a witch hunt, a disproportionate attack.
+This happens more than people talk about. Many people in these spaces have experienced being wronged—whether through an over-response, a boundary violation, or harm they didn't deserve.
 
 Most of them stay silent because speaking up risks being attacked again.
 
-But know this: you're not the first. You're not alone. And the fact that it happened to you doesn't mean you're what they said you are.
+But know this: you're not the first. You're not alone. And the fact that it happened to you doesn't define you.
 
 Take responsibility for your actual mistakes. Reject the distortions. Heal. And keep going.
 
