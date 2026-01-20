@@ -67,6 +67,20 @@ People who want your harm and suffering are not people you want connection or bl
 
 Surround yourself with people who want you to grow, to contribute, to be loved. Not people who want you to suffer.
 
+### It's an Over-Response
+
+The severity framework applies to yourself too.
+
+If someone else made a LOW severity mistake and the community responded with year-long exile and identity destruction, you'd recognize that as disproportionate. HIGH severity response to LOW severity harm. Unfair.
+
+So why hold yourself to a harsher standard?
+
+When you punish yourself excessively for a mistake, you're doing exactly what you'd call unjust if it happened to someone else. You're over-responding. The harm you're inflicting on yourself doesn't match the harm you caused.
+
+You wouldn't accept someone else treating a friend this way. Don't accept it from yourself.
+
+Check your severity. Match your response.
+
 ### Even When Others Call You a Predator
 
 Maybe people are calling you a bad person. Maybe they're saying you should be removed from community and never come back. Maybe they're labeling you a predator.
