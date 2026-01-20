@@ -1,0 +1,28 @@
+# Approved Language Instances
+#
+# Each entry represents a specific use of a flagged term that has been
+# reviewed and approved. The checker matches by file + context substring.
+#
+# Format:
+#   - term: "the flagged term"
+#     file: "path/to/file.md"
+#     context: "unique substring from that line"
+#     reason: "why this instance is okay"
+#
+# Context should be a short, unique substring from the line containing
+# the term. This is more stable than line numbers.
+
+approved:
+  # Example entries (replace with real approvals after running checker):
+  
+  # Drama Triangle framework uses "victim" as a technical term
+  # - term: "victim"
+  #   file: "src/concepts/drama-triangle.md"
+  #   context: "The Victim position"
+  #   reason: "Drama Triangle framework term"
+  
+  # Quoting what someone might say
+  # - term: "predator"
+  #   file: "src/concepts/trauma-and-filters.md"
+  #   context: "Your filter says:"
+  #   reason: "Example of what a filter might tell someone"

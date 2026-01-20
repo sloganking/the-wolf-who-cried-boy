@@ -1,0 +1,20 @@
+# Language Terms to Flag
+# 
+# These terms are searched for in src/ and drafts/
+# Each hit is checked against language-approved.yaml
+# Unapproved instances are reported for review
+
+# Terms that should NEVER appear in author voice
+# (may appear in quotes/examples)
+remove_always:
+  - "character assassination"
+  - "violated"
+  - "witch hunt"
+  - "banished"
+
+# Terms that are context-dependent
+# Always flag for review, but may be legitimate
+context_dependent:
+  - "victim"
+  - "predator"
+  - "abuser"
