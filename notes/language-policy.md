@@ -1,5 +1,8 @@
 # Language Policy
 
+**Words are spells**
+https://open.spotify.com/track/1OQE22v0zTX3HPkgD0Y1cD?si=6c0b754ab2ab45f2
+
 This book uses **inarguable language**—descriptions that anyone on any side of an incident could read without feeling attacked or mischaracterized.
 
 ## Why This Matters
