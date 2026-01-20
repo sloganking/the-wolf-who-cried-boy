@@ -384,6 +384,22 @@ Until you get there, the depression and anger come from anticipated powerlessnes
 
 That knowing—not intellectual, but embodied—is what sets you free.
 
+### Your Language Tells You Where You Are
+
+Here's a diagnostic: listen to the words you use when you talk about what happened.
+
+If you're saying "I was violated," "character assassination," "witch hunt"—you're still in the wound. These words carry judgment, drama, victim-frame energy. They keep you focused on what was done TO you.
+
+If you can say "they crossed my boundaries," "they attacked my reputation publicly," "there was a coordinated attack"—you're describing the same events, but neutrally. No less true. No less serious. Just... graduated. You're not hexing yourself with victim language.
+
+And here's what full healing looks like: you can describe what happened in neutral terms, AND your attention isn't on it day-to-day. You're focused forward on creating what you want. The past comes up when relevant, you speak about it clearly, and then you move on. It doesn't live in your head rent-free.
+
+Some empowerment songs and mantras get halfway there—"you're not what they called you," "it doesn't define you." True, but notice: the attention is still on what happened. Still processing the grievance. That's a step, not the destination.
+
+The destination is: your attention is forward. You're building what you want. The past is just... past.
+
+The words we use shape how we see the world. If your vocabulary only contains victim-frame terms, you can only think in victim-frame. Words are spells. Choose ones that point forward.
+
 ### What This Means Going Forward
 
 You're not a victim. You were someone who fawned.
