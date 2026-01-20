@@ -376,7 +376,7 @@ You're not in that old situation anymore. You're not that child. You're not rest
 
 And even when you face difficult people—angry, threatening, scary—you know now that you can say "I'm not receiving this" and walk away. Their anger doesn't control you. You have power.
 
-What claiming that power looks like is different for everyone. Maybe you take a self-defense class. Maybe you carry pepper spray. Maybe you develop the foresight to recognize dangerous situations earlier. Maybe you practice the tools in this book until responsibility isn't just something you understand, but something you embody.
+What claiming that power looks like is different for everyone. Maybe you take a self-defense class. Maybe you carry pepper spray. Maybe you develop the foresight to recognize dangerous situations earlier. Maybe you practice the tools in this book until responsibility isn't just something you understand, but something you effortlessly embody.
 
 You'll know you've succeeded—not just intellectually understood, but become one with it—when the anger and victim feelings melt away and you feel safe. Not "safe because nothing bad can happen," but safe because you can handle whatever the world brings. That confidence, that sense of capability, is what replaces the victim feeling.
 
@@ -394,7 +394,7 @@ Next time someone attacks you:
 
 - You can say "I'm not receiving this" and leave
 - You can enforce boundaries without waiting for their permission
-- You can make facilitators follow their own values
+- You can name what happened without needing them to agree
 - You can stop absorbing abuse that you don't have to absorb
 
 Their anger doesn't control you. Their intentions don't determine your experience. You have power—real power—to not be a victim.
