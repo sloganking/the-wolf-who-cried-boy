@@ -1,5 +1,7 @@
 # When You've Been Wronged
 
+> **⚠️ DRAFT:** This chapter is still being refined. Content may change.
+
 ← [Back to Introduction](../introduction.md)
 
 ---
