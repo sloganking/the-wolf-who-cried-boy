@@ -234,6 +234,8 @@ You feel like a victim because you didn't defend yourself. Because you stayed wh
 
 The harm was real. They may have genuinely intended to hurt you. AND you had power. Both are true.
 
+Maybe you didn't see the power you had at the time. Maybe it was invisible to you—your nervous system was running an old program, and "use your power" wasn't even on the menu. That doesn't mean you didn't have it. You did. You just didn't see it.
+
 Once you see that you HAD power—that you just didn't use it—something shifts:
 
 1. **You stop feeling helpless** (because you weren't and aren't)
