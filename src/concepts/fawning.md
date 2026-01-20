@@ -366,7 +366,7 @@ What changes the pattern isn't insight. It's **experience**.
 
 The same principle that works for phobias works for fawning:
 
-> "When I had panic attacks around sexual rejection, the only thing that helped was exposure. Going to parties. Sometimes not connecting with anyone. Sometimes crying ugly at the orgy because my body was telling me I was hopeless and unlovable.
+> "When I had panic attacks around sexual rejection, the only thing that helped was exposure. Going to parties. Sometimes not connecting with anyone. Sometimes crying ugly at the party because my body was telling me I was hopeless and unlovable.
 >
 > Each time I had a panic attack, it got easier. The meaning-making went away. I realized not hooking up every time didn't mean anything about me—it's just what happens."
 
