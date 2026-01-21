@@ -69,7 +69,7 @@ People use the same words to mean different things. Here's the clean split:
 | --- | --- | --- | --- |
 | Responsibility | Seeing your part and your power | Learning and future choices | "What did I do (or not do), and what will I change?" |
 | Accountability | Making it right | Repair and restitution | "How do we restore what was lost?" |
-| Blame | Assigning fault and punishment | Retribution | "Who should suffer for this?" |
+| Punishment | Assigning fault and consequences | Retribution | "Who should suffer for this?" |
 
 When someone says "take responsibility," listen for which one they actually mean.
 
