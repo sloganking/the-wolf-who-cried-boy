@@ -61,6 +61,18 @@ It's about recognizing your power and using it intentionally.
 
 Note: it's actions **or inactions**. What you didn't do is just as much a part of what you created as what you did do.
 
+## The Responsibility Triad
+
+People use the same words to mean different things. Here's the clean split:
+
+| Term | What it means | Focus | Quick test |
+| --- | --- | --- | --- |
+| Responsibility | Seeing your part and your power | Learning and future choices | "What did I do (or not do), and what will I change?" |
+| Accountability | Making it right | Repair and restitution | "How do we restore what was lost?" |
+| Blame | Assigning fault and punishment | Retribution | "Who should suffer for this?" |
+
+When someone says "take responsibility," listen for which one they actually mean.
+
 ## Everyone Has Responsibility
 
 In any interaction between two or more people, **everyone** has responsibility for the outcome—because everyone's actions and inactions played a part in creating it.
