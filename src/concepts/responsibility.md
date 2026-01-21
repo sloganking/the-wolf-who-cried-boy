@@ -55,9 +55,7 @@ Responsibility means asking:
 
 > **What happened? How did my actions—or inactions—play a part in creating this outcome? What can I do in the future to create something else I want instead?**
 
-That's it. It's not about fault. It's not about punishment. It's not about being "the bad guy."
-
-It's about recognizing your power and using it intentionally.
+That's it. It's about recognizing your power and using it intentionally.
 
 Note: it's actions **or inactions**. What you didn't do is just as much a part of what you created as what you did do.
 
@@ -71,7 +69,9 @@ People use the same words to mean different things. Here's the clean split:
 | Accountability | Making it right | Repair and restitution | "How do we restore what was lost?" |
 | Punishment | Assigning fault and consequences | Retribution | "Who should suffer for this?" |
 
-When someone says "take responsibility," listen for which one they actually mean.
+Responsibility is something you do for yourself. Accountability is something you do to repair a relationship and create good on both sides. It doesn't require pain or suffering; it might involve inconvenience, but the focus is value added and restored trust. If the focus is the other person's pain—or your pain—it's punishment. Punishment is about suffering and tends to destroy trust rather than restore it.
+
+So if someone says "take responsibility," listen for which one they actually mean. People often say responsibility when they're really asking for punishment.
 
 ## Everyone Has Responsibility
 
