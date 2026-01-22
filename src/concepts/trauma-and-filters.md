@@ -567,7 +567,7 @@ Both feel like victims. Both think the other person proved their story right. Ne
 
 **The way out:**
 
-If either one chilled the fuck out, the dynamic dissolves.
+If either one calmed down and re-centered, the dynamic dissolves.
 
 If Person A relaxed and said, "I'm in a safe place. I don't need to scan for predators every second"—they'd stop seeing threats in anxious people.
 
