@@ -339,6 +339,8 @@ Their "exclusion" filter kicks in automatically:
 
 And from that interpretation—which may or may not be accurate—they take an action. An action they might not have taken if they'd seen the situation clearly.
 
+To everyone else, it looks like a boundary violation out of nowhere. To them, they were just "joining in" with what they thought was already happening.
+
 **The mistake wasn't malicious.** They weren't trying to harm anyone. But their unconscious story distorted their perception, and their perception drove their behavior.
 
 ### Why This Matters
@@ -511,20 +513,6 @@ Because in his reference frame, he's not being toxic—he's stopping a predator.
 The filter that made him unable to imagine himself as harmful is exactly what made him blind to being harmful. He became the embodiment of what he thought he was fighting against.
 
 This happens more than people realize. The person most afraid of being X is often the person most likely to become X—because they're not watching for it in themselves. They've decided they're immune.
-
-**Example: "I'm Always Being Left Out"**
-
-Someone with this story attends a group experience. They're tired. Something ambiguous happens—maybe they see movement they can't quite interpret, or they notice others connecting in ways they're not part of.
-
-Their filter activates:
-
-> "Everyone else is getting something. I'm being excluded again."
-
-From that interpretation—which may be completely wrong—they start engaging with others in a way they think everyone else is already doing and welcoming. But they're not. What they thought they saw wasn't actually happening. Now they've suddenly started engaging in a way others don't want and find inappropriate.
-
-The mistake wasn't malicious. They weren't trying to violate anyone. But the unconscious story distorted their perception, and their tired brain acted on the distortion.
-
-To everyone else, it looks like a boundary violation out of nowhere. To them, they were just "joining in" with what they thought was already happening.
 
 ### When Filters Find Each Other
 
