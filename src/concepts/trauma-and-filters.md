@@ -150,7 +150,9 @@ The giant robot must be a weapon—sent by Russians, or aliens, or some enemy go
 
 So when a mother tells Kent her son is alive, safe in the giant's hands, and asks the army to stand down—Kent hears this, and his filter translates it. He turns to the general and reports: "She says the giant killed the boy."
 
-To Kent, this isn't lying. The giant was obviously made by bad actors who want to steal what we have. So of course it killed the child. The mother is probably just hopeful and delusional, wanting to believe her son is alive when he isn't. There's no other possibility.
+This is one of those moments that makes Kent look purely selfish—or insane. He just lied to a general's face. Why?
+
+But through his filter, this isn't lying. The giant was obviously made by bad actors who want to steal what we have. So of course it killed the child. The mother is probably just hopeful and delusional, wanting to believe her son is alive when he isn't. There's no other possibility. Kent is reporting the truth as his filter sees it.
 
 Later, the giant walks up with the boy visibly alive in its hands. Plain as day. Everyone can see it. The general calls ceasefire.
 
