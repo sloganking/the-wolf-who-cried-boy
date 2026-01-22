@@ -160,7 +160,7 @@ Kent screams: "IT'S A TRICK! LAUNCH THE MISSILE!"
 
 His rational mind is working overtime to preserve the belief. *The giant couldn't have NOT killed the boy. Everyone wants what we have, so the giant must be made by an enemy. So the boy must actually be dead. But wait—if they can build a giant metal man, they can probably build holograms. That's it! That's what I'm seeing! Or the boy has been enslaved by the giant and is being forced to tell the army not to shoot, so we let our guard down right before the giant kills all of us!*
 
-The evidence is literally standing in front of him. He orders a nuclear strike on his own position.
+The evidence that the giant is friendly and not a threat—is literally standing in front of him. Everyone else can see it. But his filter can't let it in. As a result he orders a nuclear strike on his own position.
 
 This is what foundational beliefs do. When proof against them is standing right in front of you, plain as day for all eyes to see, your rational mind will find a way to make the belief possible anyway. Every explanation it constructs will be logical—given the premise. The premise is never questioned.
 
