@@ -264,6 +264,10 @@ Once you see that you HAD power—that you just didn't use it—something shifts
 2. **The anger dissolves** (because anger is what happens when you feel wronged AND powerless—remove the powerless, and the anger has nowhere to live)
 3. **You can do it differently next time** (because now you know you can)
 
+You'll feel safe when you recognize you had [100% control](../tools/100-percent-control.md). The depression, anger, anxiety, and victim feeling drain away because the gravity is gone. You can see: *I didn't know I was doing that to myself then—but now that I'm awake to it, I don't have to do it again. I can choose differently.* That recognition is what makes your body relax.
+
+You see this with fawning: people let unwanted things happen for a long time, afraid and frozen, and then the moment they say a single word—“stop,” “no,” “I’m not available”—it ends. The entire dynamic flips in a second. One word, one action, and the world rearranges around it. That’s how much power you actually have.
+
 ### It Doesn't Matter If They're Mad
 
 This might be the most important sentence in this chapter:
