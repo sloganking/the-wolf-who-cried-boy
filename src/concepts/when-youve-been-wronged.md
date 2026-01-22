@@ -256,6 +256,8 @@ The harm was real. They may have genuinely intended to hurt you. AND you had pow
 
 Maybe you didn't see the power you had at the time. Maybe it was invisible to you—your nervous system was running an old program, and "use your power" wasn't even on the menu. That doesn't mean you didn't have it. You did. You just didn't see it.
 
+The way out of the victim feeling is to recognize that what happened was also something you created. Not because you deserved it, and not because the other person's actions weren't real—but because your actions, choices, and omissions were part of the outcome. That's the definition of responsibility. It's the moment "they did this to me and I couldn't do anything" flips into "I had power, and I can use it now."
+
 Once you see that you HAD power—that you just didn't use it—something shifts:
 
 1. **You stop feeling helpless** (because you weren't and aren't)
