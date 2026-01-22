@@ -140,9 +140,11 @@ And when contradictory evidence *does* get through—when reality is staring you
 
 In *The Iron Giant*, there's a character named Kent Mansley who seems completely unreasonable. He looks like a comical villain—both evil and inept. The audience watches him take action after action that makes no sense. He seems to be lying, manipulating, endangering everyone around him for no clear reason.
 
-Until you notice the one belief running his entire life: "Everyone wants what we have."
+We never see inside Kent's head—so this is interpretation. But it's grounded in what he actually says. Early in the film, he tells Hogarth about the Russians, about needing to defend the country: "Everyone wants what we have."
 
-Once you see that filter, every action he takes suddenly makes sense. 
+That's not just a throwaway line. It's the belief running his entire life.
+
+Once you see that filter, every action he takes suddenly makes sense.
 
 The giant robot must be a weapon—sent by Russians, or aliens, or some enemy government that wants what we have. It can't be friendly. That's not a possibility. It must be harmful.
 
