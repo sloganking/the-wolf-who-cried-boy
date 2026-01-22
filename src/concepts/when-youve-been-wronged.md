@@ -268,6 +268,8 @@ You'll feel safe when you recognize you had [100% control](../tools/100-percent-
 
 You see this with fawning: people let unwanted things happen for a long time, afraid and frozen, and then the moment they say a single word—“stop,” “no,” “I’m not available”—it ends. The entire dynamic flips in a second. One word, one action, and the world rearranges around it. That’s how much power you actually have.
 
+It’s like the moment in *Avatar* where Jake is panicking on the flying beast, falling, screaming—and then he just says: “Oh shut up and fly straight.” The beast obeys. The panic stops. The control was there the whole time—he just didn’t use it.
+
 ### It Doesn't Matter If They're Mad
 
 This might be the most important sentence in this chapter:
