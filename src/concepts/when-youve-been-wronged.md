@@ -340,6 +340,8 @@ This is what anxiety often is: the nervous system scanning for the next threat, 
 
 This is what the victim feeling is: _I can't handle what's happening. I have no power here._
 
+This is also where anger often comes from. "You wronged me" plus "I have no power" creates rage. The anger lingers because the power is still invisible.
+
 Your nervous system is running an old program. It learned powerlessness once, and it hasn't updated.
 
 ### Why Knowing Isn't Enough
