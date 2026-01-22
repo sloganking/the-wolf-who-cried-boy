@@ -232,15 +232,15 @@ Here's what I discovered about why that feeling persists:
 
 Not in the "I said yes when I meant no" sense. In the deeper sense: you had power, and you didn't use it.
 
-You could have said "No, you can't do this to me" and left. You could have set a boundary. You could have enforced consequences. You could have turned your ears off and stopped receiving the abuse.
+“No” isn’t just something you speak in the moment. You can say no in three ways:
 
-And when words don't work—when you can't immediately get away—you can still say no with your body. Call out for help. Fight back. Resist instead of freezing. It's scary, it's risky, but it's power you had.
+- **Before it ever happens:** use foresight. Prepare. Shape your life so you don’t end up in that situation in the first place.
+- **In the moment, with your words:** say “No, you can’t do this to me” and leave. Set a boundary. Enforce consequences. Turn your ears off and stop receiving the abuse.
+- **In the moment, with your body:** if you can’t immediately get away, you can still say no with your actions. Call out for help. Fight back. Resist instead of freezing. It’s scary, it’s risky, but it’s power you had.
 
-But you didn't. You stayed. You absorbed it. You fawned—not because you wanted to, but because your body did what it learned to do when faced with a threatening person: freeze, appease, endure.
+But you didn’t. You stayed. You absorbed it. You fawned—not because you wanted to, but because your body did what it learned to do when faced with a threatening person: freeze, appease, endure.
 
-And because you didn't use your power, you experienced yourself as powerless. That's where the victim feeling lives.
-
-Here's the thing: "no" isn't just something you speak in the moment. It's something you can enact through foresight, through preparation, through shaping your life so certain things can't reach you. You can say no by controlling circumstances beforehand. By not being in that situation in the first place. By taking a physical or social self-defense class. By developing the awareness to see danger before it arrives.
+And because you didn’t use your power, you experienced yourself as powerless. That’s where the victim feeling lives.
 
 ### The Shift
 
