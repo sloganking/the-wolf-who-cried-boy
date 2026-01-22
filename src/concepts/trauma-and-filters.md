@@ -154,7 +154,7 @@ This is one of those moments that makes Kent look purely selfish—or insane. He
 
 But through his filter, this isn't lying. The giant was obviously made by bad actors who want to steal what we have. So of course it killed the child. The mother is probably just hopeful and delusional, wanting to believe her son is alive when he isn't. There's no other possibility. Kent is reporting the truth as his filter sees it.
 
-Later, the giant walks up with the boy visibly alive in its hands. Plain as day. Everyone can see it. The general calls ceasefire.
+Later, the giant walks up with the boy visibly alive in its hands. Hogarth—the boy—is shouting: "Don't shoot! Don't shoot!" Plain as day. Everyone can see it. The general calls ceasefire.
 
 Kent screams: "IT'S A TRICK! LAUNCH THE MISSILE!"
 
