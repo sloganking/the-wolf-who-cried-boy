@@ -480,7 +480,7 @@ They're not being malicious. They genuinely can't imagine another explanation. B
 
 The newcomer who thinks "I would never do that" is:
 - More likely to make that exact mistake (because they're not guarding against it)
-- More likely to destroy someone else for making it (because they can't conceive of innocence)
+- Most likely to cause real harm (their attack feels like defense to them)
 - The least qualified to judge what happened (because they don't understand the mechanisms)
 
 Meanwhile, the veteran who HAS made that mistake and learned from it:
