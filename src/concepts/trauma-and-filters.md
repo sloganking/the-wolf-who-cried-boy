@@ -553,7 +553,7 @@ Now put these two people in the same room:
 
 You don't have to consciously put them together. They're like magnets. They'll find each other.
 
-Person A is scanning for threats. Person B is anxious, apologetic, constantly flagging their own mistakes—which looks suspicious to someone hunting predators. Person A confronts. Person B fawns and explains—which looks like manipulation. Person A escalates. Person B apologizes for things they didn't do—which confirms Person A's story.
+Person A is scanning for threats. Person B is anxious, apologetic, constantly flagging their own mistakes—which looks suspicious to someone hunting predators. Person A confronts. Person B fawns and explains—which looks like manipulation. Person A escalates. Person B apologizes for things they didn't do—which Person A sees as reinforcing their story.
 
 This happens like magic. Neither intended it. But their reticular activating systems were looking for something with polarity—and they found each other.
 
