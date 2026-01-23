@@ -291,8 +291,6 @@ This is one of the most important questions you can ask:
 
 **Why this matters:**
 
-You need to know if you're playing with a gun to your head.
-
 If you accidentally cross a boundary for a moment—your hand goes somewhere it shouldn't, you misread a cue—what happens?
 
 - **Charitable interpretation:** "Hey, I think you forgot, but I have a boundary about that." You say "Oh, thank you for telling me," and appreciate their respectful response.
@@ -315,7 +313,7 @@ Then they discover the system: the punishment for breaking *any* rule on this pl
 
 The crew who were just enjoying new friendships suddenly become horrified. Everything around them is immensely dangerous in a way they didn't see before. Before they can warn the others, one of the kids—Wesley—breaks a rule by jumping a fence. The locals immediately demand justice: he must be put to death.
 
-Before you play with someone, find out: Are you on a paradise planet, or a paradise planet with hidden death sentences?
+Different people have different ideas about justice. Find out how the person you're playing with—and their partners—handle mistakes before you discover you were playing with a gun to your head.
 
 ### Know Your Own Filter
 
