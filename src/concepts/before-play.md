@@ -359,7 +359,7 @@ That made complete sense for them. But I forgot to tell them about MY trauma—w
 
 Now I have a request I make upfront:
 
-> "If we're headed toward sex and you decide you're no longer interested, please tell me as soon as you become aware. I have trauma around expecting something and then being let down. If I know early, I can adjust. If I find out at the last moment, it's much harder for me."
+> "You don't have to decide anything—I invite not knowing, feeling into what's natural without obligation. But if you confidently decide you're not available for sex, I'd like to know as soon as you're aware. I have trauma around expecting something and being let down at the last moment. Early clarity helps me adjust."
 
 That's me taking [responsibility](./responsibility.md) for my own trauma. Not expecting them to read my mind—but communicating what I need so we can both have a good experience.
 
