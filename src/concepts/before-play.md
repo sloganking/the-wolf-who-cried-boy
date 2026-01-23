@@ -315,6 +315,8 @@ The crew who were just enjoying new friendships suddenly become horrified. Every
 
 Different people have different ideas about justice. Find out how the person you're playing with—and their partners—handle mistakes before you discover you were playing with a gun to your head.
 
+This is exactly why [your touch is a privilege](./fawning.md#your-touch-is-a-privilege). When you touch someone, *you* become vulnerable—to their interpretation, their response, their idea of justice. You don't have to offer that vulnerability to someone who won't treat you with dignity if you make a simple mistake.
+
 ### Know Your Own Filter
 
 It's not just about them—it's about you too.
