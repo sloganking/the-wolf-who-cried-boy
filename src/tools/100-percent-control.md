@@ -10,7 +10,7 @@ It takes two to dance.
 
 When something you don't want occurs while interacting with another person, multiple people played a part in creating that outcome.
 
-**However:** The majority of the time, you have the power to influence 100% of the outcome.
+**However:** The majority of the time, you have the power to control 100% of the outcome.
 
 ## The Dance Metaphor
 
