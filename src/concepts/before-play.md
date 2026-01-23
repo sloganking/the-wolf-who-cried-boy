@@ -309,6 +309,14 @@ If you know someone responds to mistakes with HIGH severity—treating accidents
 
 This isn't about finding someone who will let you get away with things. It's about knowing what you're signing up for. If they can't tolerate accidents, and you're human (meaning you WILL make mistakes eventually), you're playing with fire.
 
+**The paradise with one rule:** There's a *Star Trek: The Next Generation* episode called "Justice" that shows this perfectly. The crew visits a paradise pleasure planet for some rest. They meet the locals—hospitable, warm, genuinely delightful. Everyone's having a wonderful time together.
+
+Then they discover the system: the punishment for breaking *any* rule on this planet is death. Nothing else. No exceptions.
+
+The crew who were just enjoying new friendships suddenly become horrified. Everything around them is immensely dangerous in a way they didn't see before. Before they can warn the others, one of the kids—Wesley—breaks a rule by jumping a fence. The locals immediately demand justice: he must be put to death.
+
+Before you play with someone, find out: Are you on a paradise planet, or a paradise planet with hidden death sentences?
+
 ### Know Your Own Filter
 
 It's not just about them—it's about you too.
