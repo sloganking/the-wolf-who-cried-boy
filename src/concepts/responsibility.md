@@ -314,10 +314,12 @@ Concrete examples—if someone is:
 
 **The limit:** Don't be a [Rescuer](./drama-triangle.md). If they're so resistant that your attempts are causing them pain, back off. You're not saving them under any cost. You're offering something. If they can't receive it, that's information—not a mandate to push harder.
 
+**The suspicion:** Humans are suspicious of anything non-selfish. Our culture teaches that people are inherently selfish—so when someone offers genuine help, the recipient often can't compute it. "What do you want from me? Where's the catch?" Your benevolent intent gets interpreted as hidden manipulation. This is why so many misunderstandings happen. This is why people cry wolf when there are no wolves.
+
 > **"The biggest problem in communication is thinking that it happened."**  
 > — *Myron Golden's daughter*
 
-You can't just tell people they have power and expect them to believe you. Even with the best intentions. They may respond with an energetic *fuck you, I don't have power here, this is all your fault!* Telling bounces off.
+You can't just tell people they have power and expect them to believe you. Even with the best intentions. They may respond with an energetic *fuck you, I don't have power here, this is all your fault! You're just trying to get out of accountability and manipulate me!* Telling bounces off.
 
 **Two principles:**
 
