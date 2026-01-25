@@ -23,6 +23,12 @@ When you refuse to take responsibility, you disown your power. You say: "I had n
 - Take responsibility → You have the power to create the life you want
 - Refuse responsibility → You get virtually nothing you want, because you've convinced yourself you can't
 
+**What it looks like when someone doesn't take responsibility:**
+
+At best, they live a smaller life than they could have. Things are okay. There are pleasantries. But they never realize what was possible.
+
+At worst, they keep winding up in situations that cause them suffering. The same conflict in every relationship. The same pattern at every job. The same "bad luck" that follows them everywhere. And because they see themselves as powerless—because everything that happens is determined by forces outside them—they feel terrified. Helpless. It's a hellish, painful life. Not because the world is actually that dangerous, but because their story says it is.
+
 This is why we care about responsibility. Not because it's the "right" thing to do. Because it's the only path to actually getting what you want.
 
 ---
@@ -303,6 +309,10 @@ Concrete examples—if someone is:
 5. **It's easier to point outward than look inward** — Self-examination is uncomfortable
 
 ### How to Help Someone Take Responsibility
+
+**Why bother?** Because if someone doesn't see their power now, they're going to keep suffering. Every future relationship. Every recurring pattern. The same pain, over and over. Helping them wake up to their responsibility isn't about making them feel bad—it's about freeing them from a loop they can't escape while they're blind to it.
+
+**The limit:** Don't be a [Rescuer](./drama-triangle.md). If they're so resistant that your attempts are causing them pain, back off. You're not saving them under any cost. You're offering something. If they can't receive it, that's information—not a mandate to push harder.
 
 > **"The biggest problem in communication is thinking that it happened."**  
 > — *Myron Golden's daughter*
