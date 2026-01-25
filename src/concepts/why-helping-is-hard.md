@@ -88,6 +88,34 @@ If someone doesn't see their power, they may interpret your attempt to show them
 
 This can happen even when you've already taken full responsibility. You're not deflecting; you're trying to help them see how they can end their own suffering. But because their frame is "I'm the victim, you're the perpetrator," any suggestion that they had power sounds like blame-shifting.
 
+### Talk For, Not About
+
+Here's a technique that sidesteps the blame trap entirely.
+
+When you look at a situation with "responsible eyes," you start seeing all the ways you created the outcome—and all the ways *they* created it too. You see their power even when they don't. And you might want to tell them, so they can create the outcomes they desire in the future.
+
+But if you just walk up and say "here's all the things you could have done differently," it sounds like blame. It sounds like you're deflecting accountability. It's not well-received.
+
+**The fix: talk *for* instead of *about*.**
+
+**Talking about** is describing what went wrong:
+> "You went ahead and spent money without checking in with me first. I know we talked about it being a potential interest, but you committed before you fully verified with me."
+
+This is backward-looking. It analyzes fault. It invites defensiveness.
+
+**Talking for** is making a clear request for the future:
+> "Next time there's a moment where you're about to spend resources or commit to something—right before that happens—I want you to explicitly reach out and ask: 'I know we talked about this. My understanding is you're positive. Can I go ahead and commit now?'"
+
+Every sentence spent "talking for" is actively solving the problem. You're not analyzing what went wrong. You're just making a request that, if they agree, fixes it.
+
+**The beauty of this:**
+- You don't have to show them their power or discuss responsibility at all
+- There's nothing to defend against—it's just a request
+- If they say yes, the problem is solved
+- You get what you actually want (different future behavior) instead of what you don't want (a fight about the past)
+
+You don't always have to help someone see their part. Sometimes you can just fix the problem with your language.
+
 ---
 
 ## The Limits
