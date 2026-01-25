@@ -56,7 +56,7 @@ You're not doing this to win an argument. You're doing it because you've seen wh
 
 ### They Can't Hear You When They're Activated
 
-Once someone is emotionally charged—stuck in their automatic perception of powerlessness and blame—they can't hear you. Everything you say gets filtered through "you're attacking me."
+Once someone is emotionally charged—stuck in their automatic perception of victimhood, powerlessness and blame—they can't hear you. Everything you say gets filtered through "you're attacking me."
 
 This is why timing matters. It's best to help people see their power *before* something goes wrong. After the incident, they're activated. They'll interpret benevolent intent as attack.
 
