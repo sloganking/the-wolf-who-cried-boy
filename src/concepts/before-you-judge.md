@@ -71,6 +71,18 @@ Before you judge someone as malicious, consider:
 
 That doesn't mean there are no consequences. That doesn't mean harm didn't happen. But it does mean your response should match the reality—a mistake by a good person—not the fear of what they _could_ have been.
 
+### Facilitators Especially
+
+It's not that facilitators and those in authority roles are 10x more likely to be bad people. It's that 10x more people are asking if they are.
+
+The scrutiny is higher. The assumptions are darker. And when something goes wrong, the leap to "predator" is faster—even though the base rate of actual predators is no higher than anywhere else.
+
+### Being Selfish Is Hard
+
+It's easier to give than to receive. It's easier to fold under pressure and say "okay, okay" than to stand up for yourself against wrongful accusations.
+
+Standing up for yourself when you're being attacked—especially when you made an honest mistake—is genuinely hard. Not because you're weak, but because [honoring the self is the ultimate act of courage](./facilitator-protocols.md#this-is-the-hardest-lesson).
+
 ## Are You a Qualified Source?
 
 Before you judge someone, before you assess [severity](./severity.md), before you take any action—ask yourself:
