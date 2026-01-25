@@ -321,6 +321,14 @@ Often you don't even need to tell people deep truths. You just show them. Tellin
 
 People can't take responsibility for things they believe they have no control over. Once they *see* their power, responsibility follows naturally.
 
+### Sometimes What Looks Like Victim-Blaming Is Actually Someone Trying to Help
+
+If someone doesn't see their power, they may interpret your attempt to show them as manipulation—as you trying to dodge accountability.
+
+This can happen even when you've already taken full responsibility. You're not deflecting; you're trying to help them see what they can do differently next time. But because their frame is "I'm the victim, you're the perpetrator," any suggestion that they had power sounds like blame-shifting.
+
+This is why timing matters. When someone is activated, they can't hear you. They'll interpret benevolent intent as attack. Wait until they're calm—or better, have the conversation before anything goes wrong.
+
 **An example:** The [lightning thought experiment](#am-i-responsible-if-im-struck-by-lightning) below is an attempt to show you something instead of telling you—in an area where you probably thought you had no power.
 
 ## Am I Responsible If I'm Struck by Lightning?
