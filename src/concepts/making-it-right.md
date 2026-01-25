@@ -32,10 +32,20 @@ Everything below assumes the conditions for repair are present. If they're not, 
 
 ## How to Make It Right
 
+This isn't a moral instruction. I'm not telling you "you did wrong, now you must suffer through repair."
+
+This is an invitation: **here's how to actually feel good about yourself after you fucked up.**
+
+You made a mistake. You don't feel great about it. So—is there something you can do right now that will leave you feeling *better* about yourself and your value than before this happened?
+
+The answer is yes. And the answer is: add so much value that you're more connected with the person afterward. Make things better than they were *before* the accident occurred.
+
+That's the whole message. Not obligation. Not punishment. Just: here's what works.
+
+### Show, Don't Tell
+
 1. **Take responsibility and ownership** of what occurred
 2. **Apologize with action**, not just words
-
-### Apologizing with Action
 
 "I'm sorry" is not enough if it leaves the other person still hurt.
 
