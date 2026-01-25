@@ -134,6 +134,14 @@ If you walk into a temple or play party with your RAS set to "predator detection
 
 Not because the threats are real. Because that's what you're looking for.
 
+**The actionable version: Don't watch horror before Temple.**
+
+If you spend five hours consuming content about scary murders, rapists, and consent violations right before you go to a play party—what are you setting yourself up for? You're priming your RAS to scan for predators. You're walking into a room full of friends who love and support you, but now you're jumpy and suspicious of everyone.
+
+This is a clear example of how you affect the probability of your outcomes. You're not *causing* an assault by watching horror. But you're absolutely affecting how you'll perceive and react to normal touch—and that affects what happens next.
+
+You have [responsibility](./responsibility.md) here. You can choose what you consume before entering a space. You can choose to prime your filter for connection instead of danger.
+
 ### When Evidence Gets Through
 
 And when contradictory evidence *does* get through—when reality is staring you right in the face—your conscious mind will work to protect the belief.
