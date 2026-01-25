@@ -76,7 +76,7 @@ Often you don't even need to tell people deep truths. You just show them. Tellin
 
 If someone doesn't see their power, they may interpret your attempt to show them as manipulation—as you trying to dodge accountability.
 
-This can happen even when you've already taken full responsibility. You're not deflecting; you're trying to help them see what they can do differently next time. But because their frame is "I'm the victim, you're the perpetrator," any suggestion that they had power sounds like blame-shifting.
+This can happen even when you've already taken full responsibility. You're not deflecting; you're trying to help them see how they can end their own suffering. But because their frame is "I'm the victim, you're the perpetrator," any suggestion that they had power sounds like blame-shifting.
 
 ---
 
