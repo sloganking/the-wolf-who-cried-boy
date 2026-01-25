@@ -72,6 +72,10 @@ Telling someone "you have more power than you think" is an arguable statement. I
 
 Often you don't even need to tell people deep truths. You just show them. Telling may not be useful at all, because telling does nothing that showing wouldn't do better. Telling only helps them put it into words *after* they've gained the real knowledge through experience.
 
+**But showing takes time.** That's the catch. I can tell you "you have more power than you think" in a single sentence—and it won't actually communicate anything. It's just an arguable statement we collectively don't know is true or false.
+
+Showing you—which is so much more powerful and actually constitutes real communication—takes time. And if something's already happened and they don't trust you, or they're emotionally charged, they won't give you that time. They'll interrupt. They'll protest. You can only tell them the short-form single sentence truth that bounces off, because they're not open to being shown.
+
 ### Sometimes What Looks Like Victim-Blaming Is Actually Someone Trying to Help
 
 If someone doesn't see their power, they may interpret your attempt to show them as manipulation—as you trying to dodge accountability.
