@@ -156,6 +156,8 @@ That's it. Everything else is detail.
 > **"Goodness without wisdom always creates evil."**  
 > — _Stranger in a Strange Land_
 
+Wisdom is demonstrated by action and gained only through personal lived experience. This book will give you knowledge, and when you combine it with your own experiences, it will accelerate how quickly you gain wisdom.
+
 You can enter these spaces with a pure heart and the best intentions—and still cause harm.
 
 That's not a character flaw. It's what happens when wisdom hasn't caught up to goodness yet. And wisdom only comes from lived experience.
