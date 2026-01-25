@@ -81,6 +81,8 @@ The scrutiny is higher. The assumptions are darker. And when something goes wron
 
 Most people assume being selfish is easy and being selfless takes strength. It's the opposite.
 
+(Yes, there are people for whom selfishness comes easy—and they tend to prefer it. But 9 out of 10 people reading this right now would have a comically painful time doing one thing they genuinely perceived as selfish.)
+
 It's easier to give than to receive. It's easier to fold under pressure and say "okay, okay" than to stand up for yourself against wrongful accusations.
 
 Standing up for yourself when you're being attacked—especially when you made an honest mistake—is genuinely hard. Not because you're weak, but because [honoring the self is the ultimate act of courage](./facilitator-protocols.md#this-is-the-hardest-lesson).
