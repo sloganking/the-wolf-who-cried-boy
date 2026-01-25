@@ -76,7 +76,7 @@ Telling someone "you have more power than you think" is an arguable statement. I
 
 **Showing is different.** Showing is irrefutable. It's waking someone up to something they didn't see before. The truth was always there—you're just bringing their attention to it.
 
-Often you don't even need to tell people deep truths. You just show them. Telling may not be useful at all, because telling does nothing that showing wouldn't do better. Telling only helps them put it into words *after* they've gained the real knowledge through experience.
+Often you don't even need to tell people deep truths. You just show them. Telling may not be useful at all, because telling does nothing that showing wouldn't do better. Telling only helps them put it into words *after* they've already been shown.
 
 **But showing takes time.** That's the catch. I can tell you "you have more power than you think" in a single sentence—and it won't actually communicate anything. It's just an arguable statement we collectively don't know is true or false.
 
