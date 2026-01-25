@@ -92,7 +92,7 @@ This can happen even when you've already taken full responsibility. You're not d
 
 Here's a technique that sidesteps the blame trap entirely.
 
-When you look at a situation with "responsible eyes," you start seeing all the ways you created the outcome—and all the ways *they* created it too. You see their power even when they don't. And you might want to tell them, so they can create the outcomes they desire in the future.
+When you look at a situation with "responsible eyes," you start seeing all the ways you created the outcome—and as a side effect you start seeing all the ways *they* created it too. You see their power even when they don't. And you might want to tell them, so they can create the outcomes they desire in the future.
 
 But if you just walk up and say "here's all the things you could have done differently," it sounds like blame. It sounds like you're deflecting accountability. It's not well-received.
 
