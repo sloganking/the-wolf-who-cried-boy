@@ -91,9 +91,9 @@ At some workshops and retreats, there's an exercise based on Betty Martin's Whee
 
 Most people step into serving. The smallest groups are always taking and receiving.
 
-This isn't a character flaw. It might be baked into our nature as beings who need each other to survive. But our culture has also placed such negative weight on receiving—calling it selfish—that most people are scared out of any role that could be perceived that way.
+This isn't a character flaw. It might be baked into our human nature as beings who need each other to survive. But our culture has also placed such negative weight on receiving—calling it selfish—that most people are scared out of any role that could be perceived that way.
 
-And here's the important distinction: for most people, the pain isn't "what if others think I'm selfish?" The pain is "I don't want to be a bad person." They've internalized the story that receiving is bad—so receiving genuinely conflicts with their need to feel good about themselves. It's not social fear. It's identity pain.
+And here's the important distinction: for most people, the pain isn't "what if others think I'm selfish?" The pain is "I don't want to be a bad person." They've internalized the story that receiving is bad—so receiving genuinely conflicts with their need to feel good about themselves. It's not social fear. It's foundational identity pain.
 
 The irony: receiving is necessary. If you can't receive income, you can't take care of yourself or anyone else. In play spaces, there's far more pleasure when you can allow moments of pure receiving—mixed with moments of pure giving later. But if someone's trying to give you pleasure and you're scrambling to serve them back simultaneously, that stops pleasure. For both of you.
 
