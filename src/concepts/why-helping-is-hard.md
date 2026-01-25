@@ -56,9 +56,15 @@ You're not doing this to win an argument. You're doing it because you've seen wh
 
 ### They Can't Hear You When They're Activated
 
-Once someone is emotionally charged—stuck in their automatic pattern of blame—they can't hear you. Everything you say gets filtered through "you're attacking me."
+Once someone is emotionally charged—stuck in their automatic perception of powerlessness and blame—they can't hear you. Everything you say gets filtered through "you're attacking me."
 
 This is why timing matters. It's best to help people see their power *before* something goes wrong. After the incident, they're activated. They'll interpret benevolent intent as attack.
+
+**If you're reading this page:** odds are something has already happened. You've woken up to your own responsibility and power, and now you want to help someone else see theirs—but you're reading this *because* something went wrong and now you're learning about these dynamics.
+
+That's why most of this book is written around the assumption that a mistake has already occurred. The easy case—nothing's wrong between you, no one's charged—is simple: "Hey, I found this book that I think is really valuable. Want to read it?" They spend a few hours with it and absorb the same communication. Showing is easy when nothing's on fire.
+
+But you're probably here because something's on fire.
 
 ### Telling Doesn't Work
 
