@@ -109,12 +109,15 @@ This is backward-looking. It analyzes fault. It invites defensiveness.
 Every sentence spent "talking for" is actively solving the problem. You're not analyzing what went wrong. You're just making a request that, if they agree, fixes it.
 
 **The beauty of this:**
-- You don't have to show them their power or discuss responsibility at all
 - There's nothing to defend against—it's just a request
 - If they say yes, the problem is solved
 - You get what you actually want (different future behavior) instead of what you don't want (a fight about the past)
 
-You don't always have to help someone see their part. Sometimes you can just fix the problem with your language.
+**And here's the deeper layer:** This is showing instead of telling.
+
+You didn't tell them "you have power" or "you control 100% of the outcome." You didn't use any responsibility language at all. But by making a request for their future behavior, you demonstrated that they can create a different outcome. If they agree and follow through, they *experience* their power directly.
+
+They learn their agency without ever having to be told they have it. The request itself shows them.
 
 ---
 
