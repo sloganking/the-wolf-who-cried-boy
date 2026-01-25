@@ -308,40 +308,13 @@ Concrete examples—if someone is:
 4. **Taking responsibility feels like admitting fault** — They confuse responsibility with blame, and fear that any admission will be weaponized against them
 5. **It's easier to point outward than look inward** — Self-examination is uncomfortable
 
-### How to Help Someone Take Responsibility
+### Helping Others Take Responsibility
 
-**Why bother?** Because if someone doesn't see their power now, they're going to keep suffering. Every future relationship. Every recurring pattern. The same pain, over and over. Helping them wake up to their responsibility isn't about making them feel bad—it's about freeing them from a loop they can't escape while they're blind to it.
+If you want to help someone else see their power, that's its own challenge. It's harder than it sounds—and often backfires for reasons that aren't obvious.
 
-**The limit:** Don't be a [Rescuer](./drama-triangle.md). If they're so resistant that your attempts are causing them pain, back off. You're not saving them under any cost. You're offering something. If they can't receive it, that's information—not a mandate to push harder.
+See: [Why Helping Is Hard](./why-helping-is-hard.md)
 
-**The suspicion:** Humans are suspicious of anything non-selfish. Our culture teaches that people are inherently selfish—so when someone offers genuine help, the recipient often can't compute it. "What do you want from me? Where's the catch?" Your benevolent intent gets interpreted as hidden manipulation. This is why so many misunderstandings happen. This is why people cry wolf when there are no wolves.
-
-> **"The biggest problem in communication is thinking that it happened."**  
-> — *Myron Golden's daughter*
-
-You can't just tell people they have power and expect them to believe you. Even with the best intentions. They may respond with an energetic *fuck you, I don't have power here, this is all your fault! You're just trying to get out of accountability and manipulate me!* Telling bounces off.
-
-**Two principles:**
-
-**1. Show before the incident.** It's best to help people see their power *before* something goes wrong—when they're not emotionally charged and stuck in their automatic pattern of blame. Once they're activated, they can't hear you.
-
-**2. Show, don't tell.** Telling someone "you have more power than you think" is an arguable statement. It doesn't prove itself. Whether it's true would be an entirely separate discussion.
-
-Showing is different. Showing is irrefutable. It's waking someone up to something they didn't see before. The truth was always there—you're just bringing their attention to it.
-
-Often you don't even need to tell people deep truths. You just show them. Telling may not be useful at all, because telling does nothing that showing wouldn't do better. Telling only helps them put it into words *after* they've gained the real knowledge through experience.
-
-People can't take responsibility for things they believe they have no control over. Once they *see* their power, responsibility follows naturally.
-
-### Sometimes What Looks Like Victim-Blaming Is Actually Someone Trying to Help
-
-If someone doesn't see their power, they may interpret your attempt to show them as manipulation—as you trying to dodge accountability.
-
-This can happen even when you've already taken full responsibility. You're not deflecting; you're trying to help them see what they can do differently next time. But because their frame is "I'm the victim, you're the perpetrator," any suggestion that they had power sounds like blame-shifting.
-
-This is why timing matters. When someone is activated, they can't hear you. They'll interpret benevolent intent as attack. Wait until they're calm—or better, have the conversation before anything goes wrong.
-
-**An example:** The [lightning thought experiment](#am-i-responsible-if-im-struck-by-lightning) below is an attempt to show you something instead of telling you—in an area where you probably thought you had no power.
+**An example for you:** The [lightning thought experiment](#am-i-responsible-if-im-struck-by-lightning) below is an attempt to show you something instead of telling you—in an area where you probably thought you had no power.
 
 ## Am I Responsible If I'm Struck by Lightning?
 

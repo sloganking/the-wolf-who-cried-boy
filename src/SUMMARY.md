@@ -15,6 +15,7 @@
 # The Core Reframe
 
 - [Responsibility](./concepts/responsibility.md)
+- [Why Helping Is Hard](./concepts/why-helping-is-hard.md)
 - [Decline False Responsibility](./concepts/decline-false-responsibility.md)
 - [All Power Is Mutual](./concepts/all-power-is-mutual.md)
 - [Drama Triangle](./concepts/drama-triangle.md)
