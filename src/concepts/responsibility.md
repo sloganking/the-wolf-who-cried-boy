@@ -298,7 +298,7 @@ Concrete examples—if someone is:
 
 1. **They don't see their power** — If you don't recognize your control, you can't take responsibility for it
 2. **They've been taught they're powerless** — Society often encourages victimhood over agency
-3. **Trauma has convinced them the world happens TO them** — Their filters say they're not safe, not in control
+3. **Trauma has convinced them the world happens TO them** — Their filters say they're not safe, not in control—and each new experience gets mistakenly used as evidence
 4. **Taking responsibility feels like admitting fault** — They confuse responsibility with blame
 5. **It's easier to point outward than look inward** — Self-examination is uncomfortable
 
