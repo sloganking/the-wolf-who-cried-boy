@@ -128,6 +128,22 @@ You're in a position where your state affects others. Taking care of yourself—
 
 Feed yourself first. Then you can hold space for others without your hunger getting in the way.
 
+### Don't Watch Horror Before Temple
+
+Here's another form of professional hygiene that sounds like satire:
+
+**If my staff are consuming predator-hunting content right before working my events, they don't get to work.**
+
+This means: no horror films, no true crime binges, no doom-scrolling through callout posts, no consent-violation discourse—right before showing up to hold space.
+
+Why? Because of the [horror movie effect](./trauma-and-filters.md#dont-watch-horror-before-temple). If you spend hours priming your RAS to scan for threats, you're going to walk into a room full of friends and see predators everywhere. Every ambiguous touch becomes suspicious. Every awkward moment becomes evidence. You're setting yourself up to see shit that isn't real—and then react to it.
+
+This sounds unbelievable. It sounds like a joke. "You can't be staff if you watched a horror movie?" But that's exactly the level of sensitivity we're operating at. The number of unconscious filters running your perception is immense. If you're filling your head with monsters before entering an intimate space, you are not in a state to hold it safely.
+
+The same logic applies: you wouldn't let someone work your event if they hadn't slept, if they were drunk, if they were sexually starved. Mental state matters too. Filter state matters. What you consume affects what you perceive—and what you perceive affects what you do.
+
+This is the jumpmaster check for your staff's filters. Don't let them jump with their RAS primed for predators.
+
 ---
 
 ## Will You Play With Participants?
