@@ -304,13 +304,24 @@ Concrete examples—if someone is:
 
 ### How to Help Someone Take Responsibility
 
-Instead of lecturing someone on morality:
+> **"The biggest problem in communication is thinking that it happened."**  
+> — *Myron Golden's daughter*
 
-- Show them their own power
-- Show them they can create a different outcome
-- Once they see their power, responsibility follows naturally
+You can't just tell people they have power and expect them to believe you. Even with the best intentions. They may respond with an energetic *fuck you, I don't have power here, this is all your fault!* Telling bounces off.
 
-People can't take responsibility for things they believe they have no control over. The key is helping them see their control.
+**Two principles:**
+
+**1. Show before the incident.** It's best to help people see their power *before* something goes wrong—when they're not emotionally charged and stuck in their automatic pattern of blame. Once they're activated, they can't hear you.
+
+**2. Show, don't tell.** Telling someone "you have more power than you think" is an arguable statement. It doesn't prove itself. Whether it's true would be an entirely separate discussion.
+
+Showing is different. Showing is irrefutable. It's waking someone up to something they didn't see before. The truth was always there—you're just bringing their attention to it.
+
+Often you don't even need to tell people deep truths. You just show them. Telling may not be useful at all, because telling does nothing that showing wouldn't do better. Telling only helps them put it into words *after* they've gained the real knowledge through experience.
+
+People can't take responsibility for things they believe they have no control over. Once they *see* their power, responsibility follows naturally.
+
+**An example:** The [lightning thought experiment](#am-i-responsible-if-im-struck-by-lightning) below is an attempt to show you something instead of telling you—in an area where you probably thought you had no power.
 
 ## Am I Responsible If I'm Struck by Lightning?
 
