@@ -16,6 +16,8 @@ Our culture teaches that people are inherently selfish. So when someone offers g
 
 "What do you want from me? Where's the catch?"
 
+Their filter cycles through: *If they're not selfishly trying to sell me something, they must be selfishly trying to get out of something—like accountability.* There *must* be a selfish angle somewhere.
+
 Your benevolent intent gets interpreted as hidden manipulation. You're trying to help them see their power—and they hear you saying it's their fault. You're trying to free them from a loop—and they think you're dodging accountability.
 
 This is why so many misunderstandings happen. This is why people cry wolf when there are no wolves. They can't conceive of selflessness, so they interpret it as disguised selfishness.
