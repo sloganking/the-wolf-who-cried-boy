@@ -10,9 +10,19 @@ Here's the problem: **helping is hard.** Not because you lack the insight. Becau
 
 ---
 
+## The Filter Behind It All
+
+We talked about [trauma and filters](./trauma-and-filters.md)—the stories that shape how we perceive everything. This page is about one of the most widespread cultural filters there is:
+
+**"People are inherently selfish."**
+
+This belief is so pervasive, so destructive, and causes so many misunderstandings that it deserves its own page. It's not just one example among many. It's a filter that poisons countless interactions between people who are genuinely trying to help each other.
+
+---
+
 ## Humans Are Suspicious of Selflessness
 
-Our culture teaches that people are inherently selfish. So when someone offers genuine help, the recipient often can't compute it.
+When someone offers genuine help, the recipient often can't compute it.
 
 "What do you want from me? Where's the catch?"
 
