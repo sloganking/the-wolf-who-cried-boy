@@ -62,7 +62,7 @@ This is why timing matters. It's best to help people see their power *before* so
 
 **If you're reading this page:** odds are something has already happened. You've woken up to your own responsibility and power, and now you want to help someone else see theirs—but you're reading this *because* something went wrong and now you're learning about these dynamics.
 
-That's why most of this book is written around the assumption that a mistake has already occurred. The easy case—nothing's wrong between you, no one's charged—is simple: "Hey, I found this book that I think is really valuable. Want to read it?" They spend a few hours with it and absorb the same communication. Showing is easy when nothing's on fire.
+That's why most of this page is written around the assumption that a mistake has already occurred. The easy case—nothing's wrong between you, no one's charged—is simple: "Hey, I found this book that I think is really valuable. Want to read it?" They spend a few hours with it and absorb the same communication. Showing is easy when nothing's on fire.
 
 But you're probably here because something's on fire.
 
