@@ -139,9 +139,9 @@ But you can't force that seeing. You can only offer conditions where it might ha
 
 ## What This Looks Like in Practice
 
-At a retreat, I was in a pod with a few people. After one exercise, some time passed. When we reconnected, a woman told me she’d fawned. She apologized and said that at first she felt like a victim and was judging me through that lens. Later she realized that wasn’t fair, saw her power, and wanted to own her part.
+At an event, I was in a group with a few people. After one exercise, some time passed. When we reconnected, a woman told me she’d fawned. She apologized and said that at first she felt like a victim and was judging me through that lens. Later she realized that wasn’t fair, saw her power, and wanted to own her part.
 
-I told her I was sad to hear that she had fawned to me, because I thought the moment had been good and consensual. I owned my part: I didn’t catch it.
+I told her I was sad to hear that she had fawned to me, because I thought the moment had been mutually enjoyed and consensual. Her feeling bad or uncomfortable wasn’t something I wanted. I owned my part: I didn’t catch it.
 
 It was a double fawn. I felt weird energy and checked in. She said, “No, it’s okay—let’s keep going.” Her yes was actually a no. I’d been attuned enough to ask, and it still fell through.
 
