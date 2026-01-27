@@ -145,9 +145,7 @@ I told her I was sad to hear that she had fawned to me, because I thought the mo
 
 It was a double fawn. I felt weird energy and checked in. She said, "No, it's okay—let's keep going." Her yes was actually a no. I'd been attuned enough to ask, and it still fell through.
 
-Then I told her I was genuinely grateful—personally grateful—that she could see through that distortion and recognize her own power. I've been in situations where people *don't* do that, and it really sucks. When someone stays in the victim lens, they often attack the person they fawned to and label them a perpetrator. Her seeing her power meant she didn't do that. I was grateful.
-
-At the same time, I was happy for *her*—because recognizing her power is the only way her suffering stops in the future. If she doesn't own her power, she can't use it.
+I expressed gratitude that she saw through her pattern and didn't attack me. And I expressed delight that now that she sees her power, she knows how to end her suffering next time.
 
 I wasn't trying to deflect my responsibility. I was trying to show her the part of this she could control so she wouldn't keep suffering.
 
