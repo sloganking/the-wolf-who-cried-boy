@@ -139,9 +139,20 @@ But you can't force that seeing. You can only offer conditions where it might ha
 
 ## What This Looks Like in Practice
 
-<!-- TODO: Add personal example from play party context. What happened, how helping was misread, what you learned. -->
+At a retreat, I was in a pod with a few people. After one exercise, some time passed. When we reconnected, a woman told me she’d fawned. She apologized and said that at first she felt like a victim and was judging me through that lens. Later she realized that wasn’t fair, saw her power, and wanted to own her part.
 
-*[Section to be completed with author's personal example]*
+I told her I was sad to hear that, because I thought the moment had been good and consensual. I owned my part: I didn’t catch it.
+
+It was a double fawn. I felt weird energy and checked in. She said, “No, it’s okay—let’s keep going.” Her yes was actually a no. I’d been attuned enough to ask, and it still fell through.
+
+Then I told her I was genuinely happy she could see through that distortion and recognize her own power—because that’s what keeps her from suffering in the future. I wasn’t trying to deflect my responsibility. I was trying to show her the part of this she could control so she wouldn’t keep suffering.
+
+Another woman in the pod responded with: “See? He’s being manipulative again. He’s trying to get out of accountability.”  
+Same moment. Two completely different filters.
+
+The first person could receive the showing. The second couldn’t. To her, any mention of power was blame-shifting. It didn’t matter that I’d already owned my part. The frame was “victim/perpetrator,” and everything I said passed through that filter.
+
+That’s why helping is hard. Even when your intent is benevolent, if someone’s lens is locked, the help will read as harm.
 
 ---
 
