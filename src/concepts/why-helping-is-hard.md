@@ -34,9 +34,7 @@ This is why so many misunderstandings happen. This is why people cry wolf when t
 
 ### The Inversion Most People Miss
 
-Most people assume being selfish is easy and being selfless takes strength. It's actually the opposite.
-
-People sacrifice themselves in a thousand ways every day. Serving is comfortable. Receiving is hard. Standing up for yourself—[honoring the self](./facilitator-protocols.md#this-is-the-hardest-lesson)—is the ultimate act of courage.
+Most people assume being selfish is easy and being selfless takes strength. It's the opposite. (See: [Being Selfish Is Hard](./before-you-judge.md#being-selfish-is-hard))
 
 But because the cultural story says humans are selfish, anyone who *appears* selfless must be hiding something. And anyone trying to help you see your own power must be trying to get out of theirs.
 
