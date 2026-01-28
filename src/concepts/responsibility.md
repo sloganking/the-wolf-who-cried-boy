@@ -413,6 +413,9 @@ This isn't about excusing what they did. It's about reclaiming your power. As lo
 
 The lightning struck you. But you chose to be in the field.
 
+> **"There are no victims, only volunteers."**  
+> — *Tony Robbins*
+
 ---
 
 Now that you understand your responsibility, see [Decline False Responsibility](./decline-false-responsibility.md) for what to do when someone tries to make you carry theirs.
