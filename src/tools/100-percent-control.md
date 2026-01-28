@@ -30,6 +30,14 @@ This isn't a contradiction. It's not zero-sum. You're not dividing 100% between 
 
 When something goes wrong, multiple people created it. You had 100% control. They had 100% control. Both are true. Both can take full responsibility without diminishing the other's.
 
+### Why People Miss This
+
+When someone feels like a victim and doesn't see their power, they often correctly see that the other person had 100% control. But they fail to see that *they* also had 100% control—or something close to it.
+
+They think it's 100% vs 0%. It's actually 100% vs 100%.
+
+Because they don't see their own part, they put all the blame on the other person. The other person becomes the sole creator of the outcome. This is why victimhood feels so certain—they're not wrong that the other person had power. They're just blind to their own.
+
 ## What This Is NOT
 
 This does **not** abdicate other participants from [responsibility](../concepts/responsibility.md).
