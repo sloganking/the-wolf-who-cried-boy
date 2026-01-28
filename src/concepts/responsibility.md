@@ -53,6 +53,8 @@ So if someone says "take responsibility," listen for which one they actually mea
 
 ## Why You Want Responsibility
 
+Now that you know what responsibility actually is, here's why you want it:
+
 > **Responsibility is what gives you the power to create what you want in life.**
 
 This isn't about morality. It's not about being a "good person." It's not about blame or punishment or what you "should" do.
