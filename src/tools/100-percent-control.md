@@ -22,6 +22,14 @@ When something you don't want occurs while interacting with another person, mult
 
 You don't have just part of the power. Oftentimes, you have ALL the power to create the reality you want.
 
+### Both People Have 100% Control
+
+Here's the key distinction: you have 100% control over whether you dance. And so does the other person. Both of you, simultaneously, have 100% control over whether the dance happens.
+
+This isn't a contradiction. It's not zero-sum. You're not dividing 100% between you. You each have 100% control over *your* part—and since either of you saying no stops the dance, you each have 100% power to prevent the outcome.
+
+When something goes wrong, multiple people created it. You had 100% control. They had 100% control. Both are true. Both can take full responsibility without diminishing the other's.
+
 ## What This Is NOT
 
 This does **not** abdicate other participants from [responsibility](../concepts/responsibility.md).
