@@ -134,9 +134,9 @@ What happens? Accidents. People feel bad. They don't know how to handle it. Blam
 
 What happens? People feel safe, held, and have fun. When mistakes happen—and they will—people know how to handle them. Everyone wins.
 
-Most people look at this and think: "Yeah, the facilitator has a duty to prepare people."
+Most people look at this and think: "The facilitators are the ones with power to prepare people. That's their job."
 
-**Here's the part they miss: So do you.**
+**Here's the part they miss:** You have just as much power as they do. And if things go wrong because people weren't prepared, that's your creation just as much as theirs.
 
 You're not a passive consumer of the container. You're a co-creator of it. You have power to influence what happens—whether you're staff or a first-time participant.
 
