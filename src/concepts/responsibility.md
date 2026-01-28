@@ -4,7 +4,7 @@
 
 ---
 
-## Why Responsibility Matters
+## Why You Want Responsibility
 
 Before we define responsibility, let's be clear about why you want it:
 
