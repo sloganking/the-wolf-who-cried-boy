@@ -411,7 +411,11 @@ The harm they're creating feels like self-defense. They think they're responding
 
 This is why stories are so dangerous. The person acting from them isn't crazy. They're just operating from false premises they don't know are false.
 
-> "All people's actions are sane and reasonable, given their beliefs about the world they are operating within."
+> "All people's actions are sane and reasonable, given their beliefs about the world they are operating within."  
+> — *Logan King*
+
+> **"Never assume malice, where belief will do."**  
+> — *Logan King👑*
 
 **The tool:** When someone's behavior looks "purely selfish" or "purely evil," there's almost always a belief underneath that makes it make sense to them. Ask: **What would this person have to believe about the world for this to be a rational response?** That question reveals the hidden premise—the filter running their perception.
 
