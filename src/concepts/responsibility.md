@@ -31,6 +31,14 @@ At worst, they keep winding up in situations that cause them suffering. The same
 
 This is why we care about responsibility. Not because it's the "right" thing to do. Because it's the only path to actually getting what you want.
 
+**Responsibility is always beneficial.** There is no downside to the person taking it. Pure upside. You see your power, you can use it, that's it.
+
+People avoid responsibility because they confuse it with accountability or punishment—which may involve costs, inconvenience, or suffering. But responsibility itself? No cost. Only power.
+
+The choice is simple:
+- Responsibility = feel powerful, feel safe, feel like you have control
+- No responsibility = feel helpless, feel scared, feel like the world happens to you
+
 ---
 
 ## Most People Don't Understand Responsibility
@@ -78,15 +86,6 @@ People use the same words to mean different things. Here's the clean split:
 Responsibility is something you do for yourself. Accountability is something you do to repair a relationship and create good on both sides. It doesn't require pain or suffering; it might involve inconvenience, but the focus is value added and restored trust. If the focus is the other person's pain—or your pain—it's punishment. Punishment is about suffering and tends to destroy trust rather than restore it. In this book's terms, punishment is a form of attack, not defense.
 
 So if someone says "take responsibility," listen for which one they actually mean. People often say responsibility when they're really asking for punishment.
-
-**The key distinction:** Responsibility is always beneficial to the person taking it. There is no downside. People avoid it because they confuse it with accountability or punishment—which may involve costs, inconvenience, or suffering. But responsibility itself? Pure upside. You see your power. You can use it. That's it.
-
-The alternative is pain. If you don't recognize your power, you feel helpless. And if you feel helpless, you're scared of the next moment you'll feel helpless—which will inevitably come. So you're neurotic all the time, waiting for the next thing to happen *to* you.
-
-Responsibility is: feel powerful, feel safe, feel like you have control.  
-No responsibility is: feel helpless, feel scared, feel like the world happens to you.
-
-That's the choice.
 
 ## Everyone Has Responsibility
 
