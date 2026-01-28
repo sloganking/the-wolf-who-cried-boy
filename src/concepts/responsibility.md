@@ -4,38 +4,6 @@
 
 ---
 
-## Why You Want Responsibility
-
-Before we define responsibility, let's be clear about why you want it:
-
-> **Responsibility is what gives you the power to create what you want in life.**
-
-This isn't about morality. It's not about being a "good person." It's not about blame or punishment or what you "should" do.
-
-Responsibility is a tool. The most powerful tool you have.
-
-**Here's the fundamental truth:** Responsibility is nothing more than recognizing your power and using it. When you take responsibility, you're saying: "I had power here. I can see how I influenced this outcome. And I can use that same power to create something different."
-
-When you refuse to take responsibility, you disown your power. You say: "I had no control. It happened to me. I can't change anything." And then you can't. Not because it's true, but because you've blinded yourself to your own agency.
-
-**What it looks like when someone doesn't take responsibility:**
-
-At best, they live a smaller life than they could have. Things are okay. There are pleasantries. But they never realize what was possible.
-
-At worst, they keep winding up in situations that cause them suffering. The same conflict in every relationship. The same pattern at every job. The same "bad luck" that follows them everywhere. And because they see themselves as powerless—because everything that happens is determined by forces outside them—they feel terrified. Helpless. It's a hellish, painful life. Not because the world is actually that dangerous, but because their story says it is.
-
-This is why we care about responsibility. Not because it's the "right" thing to do. Because it's the only path to actually getting what you want.
-
-**Responsibility is always beneficial.** There is no downside to the person taking it. Pure upside. You see your power, you can use it, that's it.
-
-People avoid responsibility because they confuse it with accountability or punishment—which may involve costs, inconvenience, or suffering. But responsibility itself? No cost. Only power.
-
-The choice is simple:
-- Responsibility = feel powerful, feel safe, feel like you have control
-- No responsibility = feel helpless, feel scared, feel like the world happens to you
-
----
-
 ## Most People Don't Understand Responsibility
 
 Here's the problem: most people have a broken understanding of what responsibility even means.
@@ -81,6 +49,36 @@ People use the same words to mean different things. Here's the clean split:
 Responsibility is something you do for yourself. Accountability is something you do to repair a relationship and create good on both sides. It doesn't require pain or suffering; it might involve inconvenience, but the focus is value added and restored trust. If the focus is the other person's pain—or your pain—it's punishment. Punishment is about suffering and tends to destroy trust rather than restore it. In this book's terms, punishment is a form of attack, not defense.
 
 So if someone says "take responsibility," listen for which one they actually mean. People often say responsibility when they're really asking for punishment.
+
+
+## Why You Want Responsibility
+
+> **Responsibility is what gives you the power to create what you want in life.**
+
+This isn't about morality. It's not about being a "good person." It's not about blame or punishment or what you "should" do.
+
+Responsibility is a tool. The most powerful tool you have.
+
+**Here's the fundamental truth:** Responsibility is nothing more than recognizing your power and using it. When you take responsibility, you're saying: "I had power here. I can see how I influenced this outcome. And I can use that same power to create something different."
+
+When you refuse to take responsibility, you disown your power. You say: "I had no control. It happened to me. I can't change anything." And then you can't. Not because it's true, but because you've blinded yourself to your own agency.
+
+**What it looks like when someone doesn't take responsibility:**
+
+At best, they live a smaller life than they could have. Things are okay. There are pleasantries. But they never realize what was possible.
+
+At worst, they keep winding up in situations that cause them suffering. The same conflict in every relationship. The same pattern at every job. The same "bad luck" that follows them everywhere. And because they see themselves as powerless—because everything that happens is determined by forces outside them—they feel terrified. Helpless. It's a hellish, painful life. Not because the world is actually that dangerous, but because their story says it is.
+
+This is why we care about responsibility. Not because it's the "right" thing to do. Because it's the only path to actually getting what you want.
+
+**Responsibility is always beneficial.** There is no downside to the person taking it. Pure upside. You see your power, you can use it, that's it.
+
+People avoid responsibility because they confuse it with accountability or punishment—which may involve costs, inconvenience, or suffering. But responsibility itself? No cost. Only power.
+
+The choice is simple:
+- Responsibility = feel powerful, feel safe, feel like you have control
+- No responsibility = feel helpless, feel scared, feel like the world happens to you
+
 
 ## Everyone Has Responsibility
 
