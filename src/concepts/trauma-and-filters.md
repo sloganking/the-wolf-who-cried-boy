@@ -412,7 +412,7 @@ The harm they're creating feels like self-defense. They think they're responding
 This is why stories are so dangerous. The person acting from them isn't crazy. They're just operating from false premises they don't know are false.
 
 > "All people's actions are sane and reasonable, given their beliefs about the world they are operating within."  
-> — *Logan King*
+> — *Logan King👑*
 
 > **"Never assume malice, where belief will do."**  
 > — *Logan King👑*
