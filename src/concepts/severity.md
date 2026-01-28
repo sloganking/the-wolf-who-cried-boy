@@ -37,7 +37,7 @@ Someone makes an awkward comment (LOW). You publicly shame them as a predator (H
 
 > **If you cry victim loud enough, you become the perpetrator.**
 
-This is the core insight of the entire book. Your response doesn't just *match* severity—it *has* severity. If your response is higher than the original harm, you're not a victim seeking justice. You're a source of harm.
+This is the core insight of the entire book. Your response doesn't just *match* severity—it *has* severity. If your response is higher than the original harm, you've crossed from a victim seeking justice into being a source of harm.
 
 ## Key Principle
 
