@@ -70,11 +70,6 @@ Responsibility is a tool. The most powerful tool you have.
 
 When you refuse to take responsibility, you disown your power. You say: "I had no control. It happened to me. I can't change anything." And then you can't. Not because it's true, but because you've blinded yourself to your own agency.
 
-**The stakes are simple:**
-
-- Take responsibility → You have the power to create the life you want
-- Refuse responsibility → You get virtually nothing you want, because you've convinced yourself you can't
-
 **What it looks like when someone doesn't take responsibility:**
 
 At best, they live a smaller life than they could have. Things are okay. There are pleasantries. But they never realize what was possible.
