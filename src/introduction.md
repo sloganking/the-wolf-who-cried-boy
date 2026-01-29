@@ -38,7 +38,8 @@ This book won't give you all the answers. But it will give you a framework—a w
 
 A friend who's prominent in these spaces once told me:
 
-> "Temple is just concentrated life."
+> "Temple is concentrated life."  
+> — _Enki, organizer of temple community in the San Francisco Bay Area_
 
 In sacred sexuality spaces—where everything is welcome, where desire and pleasure and jealousy and despair all happen at once—you experience in one night what might take months or years to encounter elsewhere. The intensity is turned up. Everything is amplified.
 
