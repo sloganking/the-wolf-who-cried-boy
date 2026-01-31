@@ -32,41 +32,6 @@ A more detailed breakdown of the psychology behind over-responses:
 
 ## Future Ideas
 
-### The Wounded Masculine Archetype
-
-A man who was beaten or terrorized by a masculine figure (father, etc.) in childhood. He learned to fear and hate traits of masculinity because those traits were dangerous in his environment.
-
-This creates a complex dynamic:
-
-1. **Fear of healthy masculine men.** He attacks or avoids men who display healthy masculinity because those traits trigger his trauma response. He sees threat where there isn't one.
-
-2. **Protective fear for partners.** He fears masculine men *on behalf of* his wife/partners too—projecting that masculine = dangerous onto her relationships with other men.
-
-3. **Simultaneous insecurity.** Despite hating/fearing masculinity, he has a deep (possibly subconscious) fear that he's not masculine enough. That his woman won't be attracted to him. That she'll leave him for someone more masculine.
-
-The contradiction: He attacks and fears the very thing he's terrified he lacks.
-
-**Potential relevance:** This could connect to jealousy dynamics, trauma/filters affecting perception of threats, or projection of internal fears onto partners. Might belong in a section on how trauma distorts threat perception in relationships.
-
----
-
-### Subconscious Warfare in Sexuality (Book Idea?)
-
-The idea of writing something that exposes all the *invisible* dynamics happening in sexual/relational contexts—the hidden warfare people engage in without realizing it.
-
-**Layers of awareness:**
-1. Fully subconscious (they don't know they're doing it)
-2. Conscious and intentional (strategic deception)
-3. In-between (vaguely aware but not fully owning it)
-
-**The vision:** Show how multiple people's dynamics interact. Person A's wounds, Person B's subconscious fears, Person C's conscious intentions—all weaving together in ways none of them fully see.
-
-**The ethical tension:** This kind of exposure can feel like stripping people naked in ways they weren't even aware of themselves. Valuable for understanding, potentially harmful if applied to real people without consent.
-
-**Possible framing:** Fiction? Composite characters? Abstract dynamics without specific cases?
-
----
-
 (Add ideas here as they come up)
 
 ---
