@@ -146,8 +146,45 @@
 
 ## Status
 
-- [ ] Draft the Inquisitor section
-- [ ] Add mirror moment before "What To Do Instead"
-- [ ] Decide on circumcision example placement
-- [ ] Review for tone/moralizing
-- [ ] Test that it fits the flow
+- [x] Draft the Inquisitor section
+- [x] Add mirror moment before "What To Do Instead"
+- [x] Decide on circumcision example placement
+- [x] Review for tone/moralizing
+- [x] Test that it fits the flow
+
+---
+
+## TODO: When You've Been Wronged — Specific Scenarios
+
+**Goal:** Show that even when you're unjustly attacked (reputation destroyed, called a predator publicly), you have options. You're not fucked. 
+
+**What to add:**
+
+### Scenario: You've been publicly accused/slandered as a predator
+
+**The fear:** "My life is over. Everyone believes them. I have no recourse."
+
+**The reality (empowered version):**
+- They can't actually control your life — you do
+- The people who matter will verify before judging
+- The witch hunters eventually reveal themselves through repeated over-responses
+- You can choose to leave that community and build elsewhere
+- Your reputation with quality people is built by your actions over time, not by one accusation
+- Legal options exist if the slander is actionable
+- Document everything — truth tends to emerge
+
+**What the healed/empowered person looks like:**
+- Takes responsibility for their actual mistake (if any) without accepting the distorted story
+- Doesn't fawn or over-apologize
+- Knows they can walk away from the community if needed
+- Builds relationships with people who verify before judging
+- Focuses forward on creating what they want
+- The past comes up when relevant, spoken about neutrally, then moves on
+
+**Examples to potentially add:**
+- Logan's own ISTA experience (if appropriate to share)
+- Historical examples of people falsely accused who came out okay
+- The pattern: witch hunters tend to self-destruct over time
+
+**Key insight to communicate:**
+> "They can attack your reputation. They can't control your life. You still have choices. The victim feeling comes from not seeing those choices — not from the attack itself."
