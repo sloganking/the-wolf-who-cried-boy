@@ -127,6 +127,32 @@ Before you judge someone as malicious, consider:
 
 That doesn't mean there are no consequences. That doesn't mean harm didn't happen. But it does mean your response should match the reality—a mistake by a good person—not the fear of what they _could_ have been.
 
+### What "Predator" Actually Means
+
+When people hear "predator," they think: *someone who intentionally causes harm. Someone who knows what they're doing and doesn't care.*
+
+But most people who get called "predator" aren't that. Here's what's actually happening:
+
+- **Most "predators"** — people operating from harmful beliefs they've never questioned. They genuinely think they're in the right.
+- **Some "predators"** — people who made unconscious mistakes. Autopilot errors. Moments of impairment.
+- **Very few "predators"** — people who deliberately, knowingly cause harm for their own benefit.
+
+The word "predator" implies the last category. But the reality is almost always the first two.
+
+### 90% of Predators Are Just Like You
+
+Here's the uncomfortable extension: even when someone IS causing real harm — high-severity harm, the kind that looks unmistakably predatory — they're usually not a calculating monster.
+
+They're a scared human in rescuer mode. Certain they're protecting someone. Certain they're on the right side. Causing massive harm while feeling completely righteous.
+
+The person making death threats? Probably terrified, convinced they're defending the vulnerable.
+The person destroying someone's reputation? Probably certain they're warning the community about a real threat.
+The person launching the witch hunt? They ARE the predator in that moment — causing significant harm — while feeling like a hero.
+
+**90% of "predators" — meaning people causing significant harm — are just like you.** Someone who hasn't fully checked their stories. Someone whose fear is running the show. Someone who could wake up tomorrow and be horrified at what they did.
+
+This doesn't excuse the harm. It explains where it comes from. And it means: if you're scared, certain, and ready to act — you might be about to become what you're afraid of.
+
 ### Facilitators Especially
 
 It's not that facilitators and those in authority roles are 10x more likely to be bad people. It's that 10x more people are asking if they are.
