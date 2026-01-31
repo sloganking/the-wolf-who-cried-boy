@@ -83,6 +83,16 @@
 - Circumcision (removing significant tissue with nerve endings from penis) → called "tradition," feels normal
 - The word "circumcision" itself sanitizes the act — without it, we'd just say "cut part of the penis off"
 
+**Origin story (verified):**
+- John Harvey Kellogg (1852–1943) was a major promoter of routine circumcision
+- His explicit goal: prevent boys from masturbating by reducing sensitivity
+- He believed masturbation caused "general debility, unnatural pale eyes and forehead acne"
+- This was part of his broader anti-sex philosophy (same reason he invented bland corn flakes — to reduce sexual urges)
+- Medical and childcare manuals continued recommending circumcision as an anti-masturbation measure through the 1950s
+- Source: "The Masturbation Taboo and the Rise of Routine Male Circumcision: A Review of the Historiography" (Journal of Social History)
+
+**The irony:** Whatever you think about circumcision now, it started as a religious/moral crusade to stop children from touching themselves. Then it got normalized. So normal that an uncircumcised penis now "looks weird" to many Americans. The belief became invisible.
+
 **Why it works:**
 - It's not "over there" — it's right here, in reader's own culture/body
 - Reader might catch themselves: "I don't feel bad about circumcision... but logically..."

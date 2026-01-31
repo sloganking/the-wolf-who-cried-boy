@@ -302,7 +302,9 @@ The next time you feel absolutely certain someone is a predator, a bad person, a
 
 The Inquisitor never questioned his certainty. That's why he could torture with a clean conscience.
 
-What makes you different?
+**What makes you different?**
+
+Whatever you just answered — would the Inquisitor have said the same thing?
 
 ## What To Do Instead
 
