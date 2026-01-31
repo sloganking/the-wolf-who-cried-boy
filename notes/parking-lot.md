@@ -32,6 +32,24 @@ A more detailed breakdown of the psychology behind over-responses:
 
 ## Future Ideas
 
+### The Wounded Masculine Archetype
+
+A man who was beaten or terrorized by a masculine figure (father, etc.) in childhood. He learned to fear and hate traits of masculinity because those traits were dangerous in his environment.
+
+This creates a complex dynamic:
+
+1. **Fear of healthy masculine men.** He attacks or avoids men who display healthy masculinity because those traits trigger his trauma response. He sees threat where there isn't one.
+
+2. **Protective fear for partners.** He fears masculine men *on behalf of* his wife/partners too—projecting that masculine = dangerous onto her relationships with other men.
+
+3. **Simultaneous insecurity.** Despite hating/fearing masculinity, he has a deep (possibly subconscious) fear that he's not masculine enough. That his woman won't be attracted to him. That she'll leave him for someone more masculine.
+
+The contradiction: He attacks and fears the very thing he's terrified he lacks.
+
+**Potential relevance:** This could connect to jealousy dynamics, trauma/filters affecting perception of threats, or projection of internal fears onto partners. Might belong in a section on how trauma distorts threat perception in relationships.
+
+---
+
 (Add ideas here as they come up)
 
 ---
