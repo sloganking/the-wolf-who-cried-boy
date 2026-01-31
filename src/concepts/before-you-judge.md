@@ -39,6 +39,8 @@ They had supreme goodness. They were acting from love—love of God, love of fam
 > **"Never assume malice, where belief will do."**  
 > — *Logan King👑*
 
+This is the [Rescuer](./drama-triangle.md) in its most dangerous form. The Inquisitor saw himself as saving souls — and the urgency of *something terrible will happen if I don't act now* is exactly what drove him to cause harm. When you're caught in the Rescuer role, becoming the Perpetrator is always a danger.
+
 Most people today look back at the witch trials and think: _Those people were insane. Witches don't even exist. They were just murdering innocent people._
 
 And because we don't hear about literal witch hunts anymore, we assume the behavior stopped.
