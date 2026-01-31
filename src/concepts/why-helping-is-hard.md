@@ -70,6 +70,9 @@ You can't just tell people they have power and expect them to believe you. Even 
 
 Telling bounces off.
 
+> **"The biggest problem in communication is thinking that it happened."**  
+> — *Myron Golden's daughter*
+
 Telling someone "you have more power than you think" is an arguable statement. It doesn't prove itself. Whether it's true would be an entirely separate discussion.
 
 **Showing is different.** Showing is irrefutable. It's waking someone up to something they didn't see before. The truth was always there—you're just bringing their attention to it.
