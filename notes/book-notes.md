@@ -1,6 +1,14 @@
-# Inquisitor Section — Points to Include
+# Book Notes & TODOs
 
-**Target location:** `before-you-judge.md`, new section after "The Witch Hunt Dynamic"
+Working notes for content to add, refine, or research.
+
+---
+
+## Completed: Witch Hunts Never Ended Section
+
+**Location:** `before-you-judge.md`, after "The Witch Hunt Dynamic"
+
+**Status:** ✅ Done
 
 ---
 
