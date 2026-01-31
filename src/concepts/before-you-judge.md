@@ -51,6 +51,14 @@ The only thing that changed is the target. The accusation. The scary word that a
 
 Today, in sex-positive spaces, that word is often "predator."
 
+This is the uncomfortable truth: **Being a good person is not enough.**
+
+You can have a pure heart. You can genuinely want to protect people. You can believe with absolute certainty that you're fighting evil. And you can still be the one causing the most harm in the room.
+
+The Inquisitors weren't bad people. That's what makes it terrifying. They were good people — faithful, devoted, sincere — who lacked the wisdom to see that their beliefs were wrong. And because they couldn't see it, they tortured and killed with a clean conscience.
+
+If you're operating on belief without verifying reality, you could be doing the same thing right now. Smaller scale, maybe. But the same pattern. The same certainty. The same blindness.
+
 ## Most People Aren't Predators
 
 Here's something important, based on lived experience in these spaces:
