@@ -11,6 +11,15 @@
    - They genuinely thought they were protecting souls, families, God, civilization
    - Torturing people to "save them from hell" — they believed this was love
 
+   **Historical verification (from scholarship):**
+   - Inquisitors "persecuted not despite their faith but rather because of it"
+   - They viewed torture as a "pious way to carry out their pastoral task" — literally pastoral care through torture
+   - Bringing people to repentance "through whatever methods necessary" was seen as compatible with Christian love
+   - Scholars call this **"righteous persecution"** — they believed their actions were morally and religiously justified, not sinful
+   - Some were "zealous" and "preferred not to delay too long before sending heretics to the stake"
+   - **They didn't feel guilty. They felt righteous.** The more devout, the more justified they felt.
+   - Sources: Karen Sullivan's "The Inner Lives of Medieval Inquisitors", "Righteous Persecution: Inquisition, Dominicans, and Christianity in the Middle Ages"
+
 2. **"Goodness without wisdom creates evil" — the extreme case**
    - These weren't evil people doing evil
    - They were good people with distorted perception causing massive harm
@@ -95,6 +104,33 @@
 - Before You Judge (how "normal" blinds us)
 - Inquisitor section (modern parallel to historical blindness)
 - Sidebar/callout so it doesn't derail main flow
+
+---
+
+## Potential Additional Example: Honor Killings / Stoning
+
+**The point:** People who stone a woman to death after she's been raped aren't "bad people" — they're operating from belief. That belief feels as normal and unquestioned to them as circumcision does to Americans.
+
+**The example:**
+- In some cultures, a raped woman is seen as degraded/at fault
+- The community stones her to death
+- The people doing this are probably good people — acting from belief, not malice
+- To them, this is as normal and unconsidered as any American tradition
+
+**The follow-up framing:**
+- You may look at other cultures and see atrocities
+- But wherever you are, your culture has these things too
+- If you've never stepped back and asked "Does this really make sense?" — you're already doing these things
+- They seem as natural as breathing
+
+**Risk:**
+- Readers might dismiss as "those barbaric people over there"
+- Need to immediately pivot to "your culture has this too" to prevent distancing
+
+**Potential placement:**
+- Could pair with circumcision example as a one-two punch
+- Or use alone if circumcision feels too politically charged
+- The pivot to "your culture too" is essential
 
 ---
 

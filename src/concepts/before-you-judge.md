@@ -25,13 +25,39 @@ Here's what often happens:
 
 The bystanders never asked what happened. They never heard from primary sources. They just read the room and picked a side.
 
+## Witch Hunts Never Ended
+
+The Inquisition. The Crusades. The Salem witch trials. Centuries of torture, execution, and genocide—carried out by people who genuinely believed they were doing good.
+
+The Inquisitors weren't cartoon villains. They believed they were saving souls from eternal damnation. When they tortured someone into confessing heresy, they believed they were giving that person a chance at heaven. When they burned someone alive, they believed they were protecting their families, their communities, their God.
+
+They had supreme goodness. They were acting from love—love of God, love of family, love of the very people they were destroying. What they lacked was wisdom. They couldn't see that their beliefs were distorting reality. They couldn't see that they were the monsters in the story.
+
+Most people today look back at the witch trials and think: _Those people were insane. Witches don't even exist. They were just murdering innocent people._
+
+And because we don't hear about literal witch hunts anymore, we assume the behavior stopped.
+
+It didn't. The label changed. The behavior never stopped.
+
+We tell ourselves those people were different from us. Less civilized. Less educated. Stupider. We've evolved past that. We know better now.
+
+We haven't. We don't.
+
+Human nature hasn't changed. The pattern of hearing a scary accusation, feeling righteous fear, and attacking someone before verifying what's true — that happens just as often today as it did in Salem. We just use different words. "Witch" became "heretic" became "communist" became "predator."
+
+The certainty people feel that they're doing good while causing extreme harm — that never stopped either. The Inquisitors didn't feel guilty. They felt righteous. And so do the people launching witch hunts today. They genuinely believe they're protecting the vulnerable. They genuinely believe they're on the right side. They have no idea they're the ones causing harm.
+
+The only thing that changed is the target. The accusation. The scary word that activates the fear and bypasses verification.
+
+Today, in sex-positive spaces, that word is often "predator."
+
 ## Most People Aren't Predators
 
 Here's something important, based on lived experience in these spaces:
 
 **Nine times out of ten, when something goes wrong, it's not malice. It's a mistake made by a good person.**
 
-They weren't trying to harm anyone. They misread a signal. They got caught up in a moment. They didn't notice something they should have. They're horrified when they realize what happened, and they want to fix it.
+They weren't trying to harm anyone. They misread a signal. They got caught up in a moment and forgot a boundary. They didn't notice something they should have. They're horrified when they realize what happened, and they want to fix it.
 
 But we don't act like this is true. We act like predators are everywhere.
 
@@ -242,7 +268,7 @@ Think about the [popcorn metaphor](../tools/popcorn-metaphor.md). When you burn 
 
 Sometimes there isn't a deeper reason. That's what makes it an unconscious mistake—they weren't thinking when it happened. And demanding an explanation they can't give, then treating that absence as proof of malice, is how communities destroy innocent people.
 
-And here's the double bind: when someone *tries* to explain an unconscious mistake, their explanation often sounds like excuse-making or manipulation. Because they're essentially figuring it out in real-time—explaining it to themselves while explaining it to you. The explanation won't be clean. It won't prove innocence. And observers interpret this fumbling as evidence of guilt too.
+And here's the double bind: when someone _tries_ to explain an unconscious mistake, their explanation often sounds like excuse-making or manipulation. Because they're essentially figuring it out in real-time—explaining it to themselves while explaining it to you. The explanation won't be clean. It won't prove innocence. And observers interpret this fumbling as evidence of guilt too.
 
 Sometimes the most honest answer is simply: **"I don't know why I did that."**
 
