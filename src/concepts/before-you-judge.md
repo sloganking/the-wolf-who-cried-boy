@@ -59,6 +59,20 @@ The Inquisitors weren't bad people. That's what makes it terrifying. They were g
 
 If you're operating on belief without verifying reality, you could be doing the same thing right now. Smaller scale, maybe. But the same pattern. The same certainty. The same blindness.
 
+### You're Not Immune
+
+Here's a test: If someone pricks a girl's clitoris with a needle — reducing sensitivity slightly — we Americans call it genital mutilation. We despise the cultures that do it. We consider it barbaric.
+
+If someone cuts off a section of a boy's penis — removing tissue containing a significant portion of nerve endings — we call it circumcision. We consider it normal. Traditional. Maybe even cleaner or healthier.
+
+The word "circumcision" exists specifically to make the act feel different from what it is. Without that word, we'd have to say what actually happened: _someone cut part of a baby's genitals off._
+
+And here's the origin most people don't know: routine circumcision in America was popularized in the late 1800s by doctors like John Harvey Kellogg — the cereal guy — who promoted it explicitly to stop boys from masturbating. He believed reducing sensitivity would make them less sinful. That was the point.
+
+The religious crusade worked. It became normal. So normal that today, an uncircumcised penis looks "weird" to many Americans. The belief became invisible.
+
+Whatever your opinion on circumcision — notice how differently you _feel_ about these two procedures. That difference in feeling is the filter. That's what we're talking about.
+
 ## Most People Aren't Predators
 
 Here's something important, based on lived experience in these spaces:
