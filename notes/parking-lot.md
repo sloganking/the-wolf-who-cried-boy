@@ -50,6 +50,23 @@ The contradiction: He attacks and fears the very thing he's terrified he lacks.
 
 ---
 
+### Subconscious Warfare in Sexuality (Book Idea?)
+
+The idea of writing something that exposes all the *invisible* dynamics happening in sexual/relational contexts—the hidden warfare people engage in without realizing it.
+
+**Layers of awareness:**
+1. Fully subconscious (they don't know they're doing it)
+2. Conscious and intentional (strategic deception)
+3. In-between (vaguely aware but not fully owning it)
+
+**The vision:** Show how multiple people's dynamics interact. Person A's wounds, Person B's subconscious fears, Person C's conscious intentions—all weaving together in ways none of them fully see.
+
+**The ethical tension:** This kind of exposure can feel like stripping people naked in ways they weren't even aware of themselves. Valuable for understanding, potentially harmful if applied to real people without consent.
+
+**Possible framing:** Fiction? Composite characters? Abstract dynamics without specific cases?
+
+---
+
 (Add ideas here as they come up)
 
 ---
