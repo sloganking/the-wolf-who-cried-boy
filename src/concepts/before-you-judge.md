@@ -33,6 +33,12 @@ The Inquisitors weren't cartoon villains. They believed they were saving souls f
 
 They had supreme goodness. They were acting from love—love of God, love of family, love of the very people they were destroying. What they lacked was wisdom. They couldn't see that their beliefs were distorting reality. They couldn't see that they were the monsters in the story.
 
+> "All people's actions are sane and reasonable, given their beliefs about the world they are operating within."  
+> — *Logan King👑*
+
+> **"Never assume malice, where belief will do."**  
+> — *Logan King👑*
+
 Most people today look back at the witch trials and think: _Those people were insane. Witches don't even exist. They were just murdering innocent people._
 
 And because we don't hear about literal witch hunts anymore, we assume the behavior stopped.
