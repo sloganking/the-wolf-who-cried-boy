@@ -286,6 +286,24 @@ That answer feels unsatisfying. It doesn't give closure. But it's often the trut
 
 This single misunderstanding is behind countless character assassinations, destroyed reputations, and banishments of people who made a small mistake and simply couldn't articulate why.
 
+## A Reflection
+
+Think of the last time you formed an opinion about someone based on something you heard.
+
+Did you talk to them directly? Did you hear their side? Or did you just hear an accusation, feel something rise in your chest, and let that feeling become your verdict?
+
+Here's what's uncomfortable: **that feeling of righteous certainty is the same feeling the Inquisitor had.**
+
+He wasn't conflicted. He wasn't suppressing guilt. He felt clear. He felt like he was protecting the innocent. He felt like he was on the right side of history.
+
+That feeling wasn't evidence he was right. It was evidence he was captured by a belief he couldn't see past.
+
+The next time you feel absolutely certain someone is a predator, a bad person, a threat — notice the certainty itself. That certainty is not proof. It's a warning. It means you've stopped questioning. It means your filter is running the show.
+
+The Inquisitor never questioned his certainty. That's why he could torture with a clean conscience.
+
+What makes you different?
+
 ## What To Do Instead
 
 ### If you're a bystander:
