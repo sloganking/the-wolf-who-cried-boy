@@ -1,0 +1,39 @@
+---
+description: Never delete valuable content (quotes, attributions, examples) without explicit permission
+alwaysApply: true
+---
+
+# Content Preservation Rules
+
+## NEVER Delete Without Permission
+
+When moving, refactoring, or reorganizing content:
+
+1. **Quotes are sacred.** Any blockquote with attribution (`> "..." — *Author*`) must be preserved. NEVER remove quotes during refactoring unless explicitly told to delete them.
+
+2. **Show before deleting.** If a refactor would remove content, LIST what would be removed and get explicit approval before proceeding.
+
+3. **Moving ≠ Deleting.** When asked to "move content from A to B," this means COPY to B, then remove from A. Verify nothing was lost.
+
+4. **Attributions matter.** Logan wants credit on his quotes. Never remove `— *Logan King👑*` or any other attribution.
+
+## Red Flags to Watch For
+
+- Refactoring that shortens content significantly
+- Moving content between files
+- "Cleaning up" or "simplifying" sections
+- Any operation on blockquotes
+
+## When in Doubt
+
+Ask: "This refactor would remove [X]. Should I preserve it or is it okay to delete?"
+
+## Examples
+
+❌ BAD: Moving a section and silently dropping a quote
+❌ BAD: Removing attribution when copying a quote
+❌ BAD: "Simplifying" by cutting valuable examples
+
+✅ GOOD: "I'm moving this section. It contains 2 quotes — I'll preserve both."
+✅ GOOD: "This refactor would remove the Kellogg example. Keep it or delete?"
+✅ GOOD: Copying content fully, then confirming nothing was lost
