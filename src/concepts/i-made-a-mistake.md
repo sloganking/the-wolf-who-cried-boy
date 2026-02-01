@@ -325,7 +325,7 @@ But don't let someone else's story become your identity. Listen, learn what's us
 ### The Response to Misunderstanding
 
 > **"If people misunderstand you, just keep showing yourself."**  
-> — *Logan King👑*
+> — _Logan King👑_
 
 You can't argue someone out of a story they've decided is true. The more you defend, the more defensive you look. The more you explain, the more it sounds like excuses.
 
@@ -349,7 +349,7 @@ The harm was real. And now you have information you didn't have before. You know
 
 ### Why Mistakes Are Necessary
 
-> **"Goodness without wisdom always creates evil."**  
+> **"Goodness without wisdom always accomplishes evil."**  
 > — _Stranger in a Strange Land_
 
 You can have a pure heart and the best of intentions—and still cause harm. That's not a character flaw. That's what happens when wisdom hasn't caught up to goodness yet.
