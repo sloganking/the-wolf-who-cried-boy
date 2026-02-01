@@ -7,3 +7,54 @@ Love,
 Logan King.
 
 I'd just add something like In order to overcome my own victimhood and suffering and pain, I had to learn to identify and see my own delusions, the beliefs and stories that were keeping me hurt and small. And in doing so, I learned to see with clear eyes others and the stories they tell themselves and why people do the things that they do. Which is always a more nuanced answer than they're just a good or bad person. I learned to see the dynamics, conscious and unconscious, that people go through when interacting with each other, and the traps they get caught in, etc.
+
+---
+
+# DRAFT: Restructured Introduction
+
+## Part 1: Why I Wrote This
+
+For the first twenty-five years of my life, I felt powerless.
+
+Every fault I had, every difficulty, every failure—I used them all to reinforce the same story: _I'm broken. I can't do this. I'm not safe. I can't control my life or the things around me._
+
+I felt like a victim of circumstance. A victim of not having what others seemed to have. A victim of other people's influence over me whenever I didn't like the result.
+
+I was terrified. All the time.
+
+In sexuality, it was worse. I believed I was unlovable—especially to women. That I'd never have sex, never have connection, never have the nervous system regulation that comes with being held and wanted. I thought I'd never become the comfortable, confident, capable person I am today. The person who feels like he can handle whatever comes at him.
+
+But I was wrong.
+
+To overcome my own suffering, I had to learn to see my own delusions—the beliefs and stories that were keeping me hurt and small. And in learning to see through my own stories, I learned to see through others' too. I started to understand why people do the things they do. Which is always a more nuanced answer than "they're just a good person" or "they're just a bad person."
+
+I learned to see the dynamics—conscious and unconscious—that play out when humans interact. The traps we fall into. The ways we hurt each other without meaning to. The ways we hurt each other while meaning to. And the ways out.
+
+That's what I really am: a belief doctor. I help people see the stories that are keeping them stuck, so they can find their own power and create the life they actually want.
+
+---
+
+## Part 2: What This Book Is
+
+This book is a field guide on human nature.
+
+An operating manual for how we work—all the pitfalls and valleys and perils and rewards that come with being human and interacting with other humans.
+
+Because in many ways, the scariest thing you can ever do is interact with another person. You might be misunderstood. Rejected. Attacked. Hurt in ways you didn't see coming.
+
+But learning how to ask for what you want, to become aware of what you want, to enroll other humans in it, to negotiate and navigate—that's how we get everything good there is in life.
+
+Wherever you go, whatever job you do, the universal skill that follows you is _human skills_. Knowing how to interact with people. Knowing how to create good things with them. Until you develop those skills, you'll have suffering in life. At best, you'll do just okay.
+
+I wrote this for people in sex-positive spaces—temples and the communities around them—because that's where I learned what I know. I've watched people have something happen to them that they didn't want, and feel like there's no way out. They feel helpless to prevent it from happening again. They feel unsafe, violated, with energy stuck in their body that they don't know how to release.
+
+If this is happening in the temple, it's happening in your life outside the temple too.
+
+This book is one step into showing you your power. The truth that you can create what you want in your life. That the suffering and misfortune and all the unwanted things that seem like random chance—they can be avoided. They can be gotten out of.
+
+I offer you knowledge, so that you may combine it with experience and create wisdom.
+
+May it serve you well.
+
+Love,
+Logan King
