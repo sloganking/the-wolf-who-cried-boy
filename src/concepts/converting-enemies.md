@@ -128,6 +128,14 @@ Moralizing fails for several reasons:
 
 Inspiration is pull motivation—running _toward_ something good. It's stronger, it lasts, and it leaves people feeling capable.
 
+**It creates collateral damage.** Shame doesn't stay where you put it. It expands.
+
+Consider: a child starts exploring their body. Their parents see it happening in public and shame them for it. Maybe the parents just wanted "not in public." But what does the child internalize? Often: _all sexuality is wrong. Pleasure is wrong. Receiving enjoyment is wrong._
+
+That child may grow up hobbled in ways the parents never intended—unable to have normal sexual function as an adult, carrying shame that bleeds into every intimate relationship.
+
+Moralizing is a blunt instrument. When you attach "bad person" to a behavior, you can't control what else gets caught in the blast radius. The shame expands to influence behavior you never meant to influence.
+
 > A teacher can think about rules in one of two ways. She can wonder "How can I _make_ students do what needs to be done?" Or she can wonder "How can I _inspire_ students to _want_ to do what needs to be done?"
 >
 > The first orientation is adversarial and achieves obedience while encouraging dependency. The second is benevolent and achieves cooperation while encouraging self-responsibility.
