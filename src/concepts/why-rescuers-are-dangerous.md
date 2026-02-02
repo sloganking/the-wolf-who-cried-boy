@@ -62,6 +62,28 @@ This is how you get the Inquisition. Not one predator—an _institution_ of Resc
 
 A predator is one person doing harm. A Rescuer with a harmful belief can mobilize armies.
 
+### Case Study: Circumcision
+
+Here's a Rescuer causing harm at civilizational scale—so successfully that most people can't even see it as harm.
+
+In the late 1800s, doctors like John Harvey Kellogg—yes, the cereal guy—promoted routine circumcision in America. The explicit purpose: stop boys from masturbating. Kellogg believed reducing sensitivity would make them less sinful. He was saving souls.
+
+That was the point. That was the Rescuer belief.
+
+The crusade worked. It became normal. So normal that today, an uncircumcised penis looks "weird" to many Americans. The belief became invisible. The practice continues—millions of non-consensual genital surgeries on infants, every year, in a country that considers itself enlightened.
+
+If someone pricks a girl's clitoris with a needle—reducing sensitivity slightly—we call it genital mutilation. We despise cultures that do it. We consider it barbaric.
+
+If someone cuts off a section of a boy's penis—removing tissue containing a significant portion of nerve endings—we call it circumcision. We consider it normal. Traditional. Maybe even cleaner or healthier.
+
+The word "circumcision" exists specifically to make the act feel different from what it is. Without that word, we'd have to say what actually happened: _someone cut part of a baby's genitals off._
+
+For those who are circumcised and still think circumcision is normal: would you allow another piece to be removed? If not—why was the first piece acceptable?
+
+This is what Rescuer harm looks like. Not a lone predator. A cultural movement powered by a harmful belief, operating with moral certainty, causing harm at scale—so successfully normalized that questioning it feels radical.
+
+Kellogg wasn't a villain. He was a Rescuer. That's what made him dangerous.
+
 ---
 
 ## The Mechanism
