@@ -16,7 +16,15 @@ There's a saying in [Target Focus Training](https://targetfocustraining.com/)—
 
 If Inquisitors are knocking down your door, fighting back may be exactly what the situation requires. When someone is actively attacking you and there's no other option, self-defense isn't just justified—it's necessary.
 
-But here's what changes when you step back and see the pattern clearly.
+But here's the thing:
+
+**Nine times out of ten, when you think violence is inevitable—when you think you have no choice—you're deluding yourself.**
+
+There's usually a path you're not seeing. A way to de-escalate, to reframe, to find common ground. The certainty that "I have no choice but to fight" is often just a failure of imagination—or a story your fear is telling you.
+
+The moments when violence is truly the only answer are rarer than they feel.
+
+Here's what changes when you step back and see the pattern clearly.
 
 ---
 
