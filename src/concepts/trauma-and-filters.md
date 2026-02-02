@@ -140,6 +140,10 @@ Not because the threats are real. Because that's what you're looking for.
 
 If you spend five hours consuming content about scary murders, rapists, and consent violations right before you go to a play party—what are you setting yourself up for?
 
+**You're pre-framing yourself to see predators.**
+
+Pre-framing is what happens before you enter a situation that shapes how you'll perceive it. It's the lens you put on before you walk through the door. And whatever lens you're wearing determines what you see.
+
 You're priming your RAS to scan for predators. You're walking into a room full of friends who love and support you, but now you're jumpy and suspicious of everyone. Because you chose to fill your head with monsters right before entering a space full of humans.
 
 This sounds like satire. It sounds unbelievable that someone would need to be told "don't watch horror before you go to the sex party." But that's exactly the level of sensitivity we're operating at. The number of unconscious stories running your perception is immense. If you're consuming predator-hunting content before entering an intimate space, you are setting yourself up to see a bunch of things that aren't real.
