@@ -198,6 +198,8 @@ This doesn't mean "never help anyone." It means: the moment you feel righteous u
 
 The Inquisitor never questioned his certainty. That's why he could torture with a clean conscience.
 
+> **There is no greater danger than being certain you're right.**
+
 What makes you different?
 
 ---
