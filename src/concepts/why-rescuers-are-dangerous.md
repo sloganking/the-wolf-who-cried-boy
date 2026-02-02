@@ -124,6 +124,24 @@ This isn't a statement about the morality or correctness of any religion. It's a
 
 The Crusades happened because enough people shared a belief. The Inquisition happened because enough people shared a belief. These weren't lone predators—they were _movements_ powered by shared conviction.
 
+### Why Rescuer Beliefs Self-Propagate
+
+Here's what makes Rescuer beliefs uniquely dangerous: they're self-propagating.
+
+Even if the original advocate was a predator trying to cause harm—if they managed to convince a few people that out of moral necessity something needed to be done—those converts become genuine Rescuers. And genuine Rescuers don't just act on the belief. They spread it.
+
+A Rescuer who genuinely believes something bad is happening will:
+
+- Teach the belief to their children
+- Advocate that their community adopt the same perspective
+- Recruit others into the urgency
+
+Once a harmful belief is out in the wild, backed by Rescuer fear and certainty and necessity, it sustains itself. It doesn't need the original advocate anymore. The belief has its own life.
+
+And it propagates _well_—because scaring people into thinking something terrible will happen unless they urgently care is an effective recruitment strategy. Fear spreads faster than nuance. Urgency spreads faster than verification. Moral certainty spreads faster than doubt.
+
+This is why a single Rescuer with a harmful belief can cause more damage than any predator. The predator's harm ends when they stop. The Rescuer's harm keeps going—generation after generation—long after they're gone.
+
 But religion is just the visible version.
 
 **Cultural attitudes are equally powerful—and less visible.**
