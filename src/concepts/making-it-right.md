@@ -142,13 +142,42 @@ When you ask for what you actually want—clearly, without apology—you create 
 
 You won't know unless you ask.
 
-**How to do it:**
+### Give Them a Way to Win
 
-1. Before the repair conversation, ask yourself: _What would actually make this right for me? Not the minimum—the real answer._
+If you ask for something less than what would actually put a smile on your face—less than what would make you feel like the relationship is truly repaired—then they're spending time and energy on a false request.
+
+They're doing something for you that doesn't actually make you feel good. They're trying to repair something while you've already decided it can't be repaired. They're working toward a target that doesn't exist.
+
+**You never gave them a real chance to win with you.**
+
+When someone makes a genuine mistake, they often _want_ to make it right. They want to be a hero in your story, not a villain. They want to contribute to you, add value, leave things better than they found them.
+
+If your response is "you're just a selfish asshole, burn in hell"—they never get that chance. You've decided they're the villain, and no amount of repair will change the story.
+
+Giving someone a way to win means making a request that would _actually_ allow them to be a value in your life. Maybe you don't want them in your life forever—that's fine. But if they want to make it right, there's an opportunity to let them contribute to you in a way that feels good for you both.
+
+### Think Bigger
+
+If you're thinking "this person wronged me so significantly that there's no way they could ever make it right"—you're probably not thinking big enough.
+
+You might be limiting yourself to small, "reasonable" requests. Things that feel appropriate. Things that won't make you look demanding or weird.
+
+But what if the thing that would actually lighten your heart is something you'd never dare to ask?
+
+Maybe you're thinking: _I can't ask them to come to my home, dress in nothing but a sexy maid outfit, cook me dinner, massage my back, and be my submissive servant for a day. That would be ridiculous. What would they think!?_
+
+But if that's something that would actually feel fun, repair the relationship, and leave you both laughing—they might say yes.
+
+And if they say no? Behind every no is something someone cares about. A no is just information. It's an opportunity to figure out what they need in order to feel good while doing repair—and come to a new idea that works for you both. That new idea might even be better than the one you first proposed.
+
+### How to Ask
+
+1. Before the repair conversation, ask yourself: _What would actually make this right for me? Not the minimum—the real answer. Think bigger._
 2. Say it. Clearly. Without hedging or minimizing.
 3. Let them respond. They might say yes. They might negotiate. They might surprise you.
+4. If they say no, get curious. What do they need? What would work for both of you?
 
-The person offering repair usually _wants_ to make it right. Give them something real to aim for.
+The person offering repair usually _wants_ to make it right. Give them something real to aim for. Give them a way to win.
 
 ## Real Repair Is Mutual
 
