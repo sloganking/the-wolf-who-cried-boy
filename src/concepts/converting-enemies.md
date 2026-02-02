@@ -42,6 +42,26 @@ When you have that recognition, something shifts.
 
 ---
 
+## The Opportunity You're Missing
+
+When someone crosses your boundary or makes a mistake against you, your brain goes into predator-detection mode. _This person is a threat. They'll hurt me again. I need to protect myself._
+
+That's one possibility. Here's the other one:
+
+**This person could make your day. Or your life.**
+
+If they want to make it right and you let them—or if you help them see out of their harmful belief and they become your ally—they could add value you can't even comprehend right now. They could solve a problem you've been stuck on. They could become a close friend. They could open doors you didn't know existed.
+
+But if all your attention is on what a burden they might be, you miss every opportunity to have immense value added to your life.
+
+> **"Risk and opportunity are two words for the same thing."**
+
+The person in front of you is both. Which one manifests often depends on which one you're looking for. Expect a predator, and you'll find evidence for it. Expect a potential ally, and you'll find evidence for that too.
+
+Most people's attention is tuned entirely to the downside. They're scanning for danger, preparing for the worst, ready to cut and run. And so they never discover what could have been—because they never gave it a chance to happen.
+
+---
+
 ## The Strategic Insight
 
 If the problem were that these people are _evil_—genuinely malicious, consciously choosing to cause harm for its own sake—then communication would be pointless. You'd have no choice but to fight or flee.
