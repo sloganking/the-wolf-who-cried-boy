@@ -106,7 +106,22 @@ But religion is just the visible version.
 
 **Cultural attitudes are equally powerful—and less visible.**
 
-The belief that "accusers should always be believed." The belief that "someone in a position of power is probably abusing it." The belief that "if someone is upset, someone else must have done something wrong."
+Consider stranger abductions. The statistics:
+
+- Roughly 100-115 stranger abductions per year in the U.S., out of tens of millions of children
+- The odds of a stranger kidnapping: approximately 1 in 720,000 to 1 in 1,000,000
+- Most "missing child" cases (~99%) are runaways or family custody disputes
+- Violent victimization of children has actually _declined_ over recent decades
+
+And yet: parents today are more paranoid about abduction than ever. Children who once roamed freely are now supervised constantly. Parents who allow age-appropriate independence—the same independence they themselves had as children—risk being reported, investigated, or even arrested. Some states have had to pass "free-range parenting" laws to protect parents from prosecution.
+
+Think about that: a generation of parents who roamed their neighborhoods freely as kids, who walked to school alone, who played outside until dark—now terrified to let their own children do the same. Not because the world got more dangerous. It got _less_ dangerous. But the cultural narrative shifted, and the narrative is what they experience.
+
+**The fear escalated. The actual danger decreased.**
+
+This disconnect was created by media saturation, high-profile cases, and cultural narratives that amplified rare events into constant anxiety. Lenore Skenazy documented this in her book _Free-Range Kids_ and launched a movement challenging parents to calibrate fear to actual risk.
+
+The belief that "accusers should always be believed." The belief that "someone in a position of power is probably abusing it." The belief that "if someone is upset, someone else must have done something wrong." These operate the same way.
 
 These beliefs don't announce themselves. They sit in the background, shaping perception, triggering reactive responses. They're just as transmissible as religious beliefs—passed through social circles, reinforced by media, absorbed without examination.
 
