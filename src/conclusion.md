@@ -44,6 +44,8 @@ If you're not committed to helping people see through their harmful beliefs, you
 
 The cycle never ends—until someone commits to ending it differently.
 
+**It's not us versus them. It's us against our own beliefs.** Us against fear and the urge to urgently rescue with harmful action.
+
 ---
 
 ## The Gap
@@ -85,6 +87,8 @@ Will you fight for win-win even when it's hard?
 Will you see the Rescuer in yourself before you become the harm you're afraid of?
 
 Will you help people see through their beliefs instead of just punishing them for having them?
+
+The war ends when we decide it does. If someone's extending a hand of peace and love, and you can't see them as anything but an evil predator and attack them—you chose war. You chose it with [100% control](./tools/100-percent-control.md) over the outcome.
 
 **Are you actually committed—or is it pretend?**
 
