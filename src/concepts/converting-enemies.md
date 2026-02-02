@@ -109,6 +109,37 @@ You might even become allies.
 
 ---
 
+## Don't Moralize
+
+Some people try a different approach: tell the person what they're doing is _wrong_. Appeal to their desire to be good. Shame them into changing.
+
+> **"No one was ever made good by being told he or she was bad."**  
+> — _Nathaniel Branden, The Six Pillars of Self-Esteem_
+
+Moralizing fails for several reasons:
+
+**It skips understanding.** When you moralize, you're not figuring out _why_ the person is doing what they're doing. You're not addressing the concerns, fears, or beliefs that led to the behavior. You're just slapping a label on it and demanding they stop.
+
+**It's just blame with extra steps.** Moralizing is shame dressed up as guidance. You're trying to narratively domesticate someone—make them compliant through guilt rather than through genuine understanding.
+
+**It often doesn't work.** Some people are susceptible to shaming. Many aren't. And even when it "works," you've created obedience, not transformation. They're avoiding punishment, not pursuing something they actually want.
+
+**It disempowers them.** If you actually care about the person in front of you, think about what motivation you're giving them. Fear, shame, and guilt are push motivations—running _away_ from something bad. They're weaker, less sustainable, and they leave people feeling small.
+
+Inspiration is pull motivation—running _toward_ something good. It's stronger, it lasts, and it leaves people feeling capable.
+
+> A teacher can think about rules in one of two ways. She can wonder "How can I _make_ students do what needs to be done?" Or she can wonder "How can I _inspire_ students to _want_ to do what needs to be done?"
+>
+> The first orientation is adversarial and achieves obedience while encouraging dependency. The second is benevolent and achieves cooperation while encouraging self-responsibility.
+>
+> — _Nathaniel Branden, The Six Pillars of Self-Esteem_
+
+If you want someone to change, don't tell them they're bad for not changing. Show them why they'd _want_ to change. Make the alternative so compelling that choosing it feels like winning.
+
+That's not manipulation. That's respect—treating them as a capable person who can choose, rather than a child who must be shamed into compliance.
+
+---
+
 ## The Deepest Win
 
 There's a level beyond getting someone to cooperate:
