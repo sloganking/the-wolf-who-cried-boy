@@ -4,31 +4,45 @@
 
 ## The Promise
 
-People in sacred sexuality temples and similar spaces sometimes talk about planetary transformation.
+Every movement that wants to change the world makes the same promise.
 
-They say: we're setting people free. Getting them over guilt and shame. Creating environments where everyone is included. Healing the world through sex, through pleasure, through connection and love with one another.
+Sacred sexuality temples talk about planetary transformation—healing the world through pleasure, connection, and love. Political movements promise justice, equality, liberation. Spiritual communities offer enlightenment, peace, transcendence. Workplaces promise innovation, impact, making a difference.
 
-On the surface, it's impressive. People dancing naked. Having revelations they've never had before. Feeling things they didn't know they could feel.
+On the surface, it's impressive. People having revelations. Feeling part of something bigger. Believing they're on the right side.
 
-But if you want real planetary transformation, it requires more than impressive surfaces.
+But wanting to change the world isn't the same as actually changing it.
 
 ---
 
-## What Commitment Actually Looks Like
+## The Pattern
 
-Real planetary transformation requires commitment.
+Here's what usually happens instead:
 
-**Commitment to creating good things.** Things that feel good for everyone—both during and after. Not just peak experiences, but sustainable ones. Not just breakthroughs, but integration.
+Someone makes a mistake. An unconscious slip. A misunderstanding. Maybe even a harmful belief acted upon.
 
-**Commitment to helping people see through their distorting beliefs.** The beliefs that are causing them to cause harm. Not punishing them for having the beliefs. Helping them see past them.
+And then—the people who were just talking about love and transformation become the harm they claimed to be fighting.
 
-**Commitment to seeing people as people.** People operating on beliefs the best they know how. Not demonizing them. Not calling them stupid. Not hand-waving them away as "bad people who will never change."
+They attack. They assume the worst. They refuse to hear the other side. They become certain they're good and the other person is evil. They punish instead of repair.
 
-**Commitment to fighting for win-win in every situation.** Even when it's hard. Even when the other person is making it hard. Keeping your word to find the path where everyone wins.
+> **"[Goodness without wisdom always accomplishes evil.](./concepts/i-made-a-mistake.md#why-mistakes-are-necessary)"**
 
-**Commitment to not giving up on people.** Even when—out of misguided beliefs—they're physically attacking you. Making death threats. Severely misunderstanding things. Doing significant harm.
+This is why [Rescuers cause more destruction than predators ever could](./concepts/why-rescuers-are-dangerous.md). Not because they intend harm—but because they're certain they don't. Their righteousness blinds them to the damage they're doing.
 
-The only answer is to see people as good people and commit—no matter how mistaken, no matter how much harm they've caused—commit to helping them gain insight so they can actually do good.
+The Inquisition tortured people to save their souls. Modern movements destroy people to protect the community. The mechanism is identical. The certainty of goodness becomes the justification for harm.
+
+---
+
+## What Commitment Actually Requires
+
+Real transformation—personal, relational, planetary—requires something harder than good intentions.
+
+**It requires [responsibility](./concepts/responsibility.md).** Not blame. Not shame. The recognition that you have power here, and what you do with that power matters.
+
+**It requires seeing people as people.** People operating on beliefs the best they know how. Not monsters. Not irredeemable. Confused, scared, certain they're protecting something important—and wrong about what that requires.
+
+**It requires fighting for win-win.** Even when it's hard. Even when the other person is making it hard. Keeping your word to find the path where everyone wins.
+
+**It requires not giving up.** Even when—out of misguided beliefs—someone is attacking you. Making threats. Causing real harm. The only answer is to commit to helping them gain insight so they can actually do good.
 
 ---
 
@@ -36,9 +50,9 @@ The only answer is to see people as good people and commit—no matter how mista
 
 What's the alternative?
 
-Kill them. Or force your ideology into power through oppression. Cause them pain. Create permanent enemies.
+Kill them. Or force your ideology into power. Cause them pain. Create permanent enemies.
 
-That's it. Those are the options.
+That's it. Those are your options.
 
 If you're not committed to helping people see through their harmful beliefs, you're left with force. And force creates resistance. Resistance creates enemies. Enemies create war.
 
@@ -52,23 +66,23 @@ The cycle never ends—until someone commits to ending it differently.
 
 Here's where it falls apart:
 
-You can't one moment be bonding with others, calling them sister and brother, and then—at the drop of a hat, at the first sign of an unconscious mistake—assume they're evil, no-good people who deserve punishment.
+You can't one moment be bonding with others, calling them sister and brother, and then—at the first sign of an unconscious mistake—assume they're evil, no-good people who deserve punishment.
 
-If you call people sister or brother, but you're not willing to hear them out when something happens...
+If you call people family, but you're not willing to hear them out when something happens...
 
-If you're not committed to their happiness and well-being, even when they cause harm through accident or harmful belief...
+If you're not committed to their well-being, even when they cause harm through accident or harmful belief...
 
 Then it's all just pretend.
 
-You'll say you want planetary transformation. But at the first sign of an obstacle, you'll show that you're happy to attack others. Assume wrongdoing. Cause harm out of fear.
+You'll say you want transformation. But at the first obstacle, you'll attack others. Assume wrongdoing. Cause harm out of fear.
 
-You'll refuse to question your beliefs. Pretend there's no way reality is anything other than what you first assumed. Convince yourself there's no way you could ever cause harm—because you're a good person.
+You'll refuse to question your beliefs. Pretend there's no way you could be wrong. Convince yourself there's no way you could ever cause harm—because you're a good person.
 
-That's not commitment to world peace. That's not planetary transformation.
+That's not commitment. That's the [Drama Triangle](./concepts/drama-triangle.md)—Victim becoming Persecutor, certain they're the Rescuer.
 
 **That's becoming the biggest source of harm yourself.**
 
-That's the reason we have wars and killing and violence and hatred. People who are certain they're good, certain the other side is evil, and unwilling to question either belief.
+That's why we have wars and killing and violence and hatred. People certain they're good, certain the other side is evil, unwilling to question either belief.
 
 ---
 
@@ -82,9 +96,9 @@ The question isn't whether you understand the concepts.
 
 The question is whether you'll keep your word—to yourself, to others, to the vision of a world where people can make mistakes and still be treated as human.
 
-Will you fight for win-win even when it's hard?
+Will you own your [responsibility](./concepts/responsibility.md) instead of playing [Victim](./concepts/drama-triangle.md)?
 
-Will you see the Rescuer in yourself before you become the harm you're afraid of?
+Will you see the [Rescuer](./concepts/why-rescuers-are-dangerous.md) in yourself before you become the harm you're afraid of?
 
 Will you help people see through their beliefs instead of just punishing them for having them?
 
