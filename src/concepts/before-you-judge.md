@@ -34,12 +34,12 @@ The Inquisitors weren't cartoon villains. They believed they were saving souls f
 They had supreme goodness. They were acting from love—love of God, love of family, love of the very people they were destroying. What they lacked was wisdom. They couldn't see that their beliefs were distorting reality. They couldn't see that they were the monsters in the story.
 
 > "All people's actions are sane and reasonable, given their beliefs about the world they are operating within."  
-> — *Logan King👑*
+> — _Logan King👑_
 
 > **"Never assume malice, where belief will do."**  
-> — *Logan King👑*
+> — _Logan King👑_
 
-This is the [Rescuer](./drama-triangle.md) in its most dangerous form. The Inquisitor saw himself as saving souls — and the urgency of *something terrible will happen if I don't act now* is exactly what drove him to cause harm. When you're caught in the Rescuer role, becoming the Perpetrator is always a danger.
+This is the [Rescuer](./drama-triangle.md) in its most dangerous form. The Inquisitor saw himself as saving souls — and the urgency of _something terrible will happen if I don't act now_ is exactly what drove him to cause harm. When you're caught in the Rescuer role, becoming the Perpetrator is always a danger.
 
 Most people today look back at the witch trials and think: _Those people were insane. Witches don't even exist. They were just murdering innocent people._
 
@@ -129,7 +129,7 @@ That doesn't mean there are no consequences. That doesn't mean harm didn't happe
 
 ### What "Predator" Actually Means
 
-When people hear "predator," they think: *someone who intentionally causes harm. Someone who knows what they're doing and doesn't care.*
+When people hear "predator," they think: _someone who intentionally causes harm. Someone who knows what they're doing and doesn't care._
 
 But most people who get called "predator" aren't that. Here's what's actually happening:
 
