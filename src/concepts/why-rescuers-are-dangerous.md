@@ -74,7 +74,15 @@ When you believe something terrible is happening RIGHT NOW, you don't have time 
 
 **2. The righteousness justifies escalation.**
 
-If you're saving someone from eternal damnation, torture is mercy. If you're protecting the community from a predator, destroying someone's reputation is defense. The higher the perceived stakes, the more extreme the response seems justified.
+If you're saving someone from eternal damnation, torture is mercy. If you're protecting the community from a predator, destroying someone's reputation is defense. If you're certain you know better than someone else, treating them like a prisoner until you convert them to your way of right thinking is seen as doing them good.
+
+The higher the perceived stakes, the more extreme the response seems justified.
+
+**In the name of good is the reason we do so much bad.**
+
+> Of all tyrannies, a tyranny sincerely exercised for the good of its victims may be the most oppressive. It would be better to live under robber barons than under omnipotent moral busybodies. The robber baron's cruelty may sometimes sleep, his cupidity may at some point be satiated; but those who torment us for our own good will torment us without end for they do so with the approval of their own conscience.
+>
+> — _C.S. Lewis, God in the Dock_
 
 **3. The certainty prevents self-correction.**
 
