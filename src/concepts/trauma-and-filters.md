@@ -232,6 +232,12 @@ This means:
 
 This is why people can still cause harm even without intending to. They're just afraid. And fear makes the world look smaller than it is.
 
+Here's the dangerous part: **when fear enters a room, all the blind men teleport to the trunk.**
+
+They all feel the trunk. They all conclude it's a snake. They all freak out together. And because they all agree, they become even more certain they're right.
+
+But they're not right. It's still an elephant. Fear just caused them all to perceive the scariest part—and unanimous agreement among frightened people doesn't make the snake real.
+
 ### When Accusations Occur
 
 Here's what happens when someone makes a high-severity accusation—calling someone a predator, saying they were assaulted, demanding removal:
