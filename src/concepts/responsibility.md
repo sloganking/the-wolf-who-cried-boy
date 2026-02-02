@@ -40,16 +40,15 @@ Note: it's actions **or inactions**. What you didn't do is just as much a part o
 
 People use the same words to mean different things. Here's the clean split:
 
-| Term | What it means | Focus | Quick test |
-| --- | --- | --- | --- |
-| Responsibility | Seeing your part and your power | Learning and future choices | "What did I do (or not do), and what will I change?" |
-| Accountability | Making it right | Repair and restitution | "How do we restore what was lost?" |
-| Punishment | Assigning fault and consequences | Retribution | "Who should suffer for this?" |
+| Term           | What it means                    | Focus                       | Quick test                                           |
+| -------------- | -------------------------------- | --------------------------- | ---------------------------------------------------- |
+| Responsibility | Seeing your part and your power  | Learning and future choices | "What did I do (or not do), and what will I change?" |
+| Accountability | Making it right                  | Repair and restitution      | "How do we restore what was lost?"                   |
+| Punishment     | Assigning fault and consequences | Retribution                 | "Who should suffer for this?"                        |
 
 Responsibility is something you do for yourself. Accountability is something you do to repair a relationship and create good on both sides. It doesn't require pain or suffering; it might involve inconvenience, but the focus is value added and restored trust. If the focus is the other person's pain—or your pain—it's punishment. Punishment is about suffering and tends to destroy trust rather than restore it. In this book's terms, punishment is a form of attack, not defense.
 
 So if someone says "take responsibility," listen for which one they actually mean. People often say responsibility when they're really asking for punishment.
-
 
 ## Why You Want Responsibility
 
@@ -78,9 +77,9 @@ This is why we care about responsibility. Not because it's the "right" thing to 
 People avoid responsibility because they confuse it with accountability or punishment—which may involve costs, inconvenience, or suffering. But responsibility itself? No cost. Only power.
 
 The choice is simple:
+
 - Responsibility = feel powerful, feel safe, feel like you have control
 - No responsibility = feel helpless, feel scared, feel like the world happens to you
-
 
 ## Everyone Has Responsibility
 
@@ -360,7 +359,7 @@ And that means you can shape it differently next time.
 ### The Dice Principle
 
 > **"Luck happens in moments. Not in days, years, or lifetimes."**  
-> — *Logan King👑*
+> — _Logan King👑_
 
 Think of it like dice.
 
@@ -418,7 +417,7 @@ This isn't about excusing what they did. It's about reclaiming your power. As lo
 The lightning struck you. But you chose to be in the field.
 
 > **"There are no victims, only volunteers."**  
-> — *Tony Robbins*
+> — _Tony Robbins_
 
 ---
 
