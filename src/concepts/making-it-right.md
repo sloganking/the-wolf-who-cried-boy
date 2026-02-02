@@ -142,7 +142,7 @@ This is [fawning](./fawning.md) showing up in repair. You're not fully advocatin
 
 **Why this matters:**
 
-Remember: [risk and opportunity are two words for the same thing](./converting-enemies.md#the-opportunity-youre-missing). The person who wronged you could become an ally who adds immense value to your life. But that only happens if you give them the chance.
+Remember: [risk and opportunity are two words for the same thing](./from-threat-to-ally.md#the-opportunity-youre-missing). The person who wronged you could become an ally who adds immense value to your life. But that only happens if you give them the chance.
 
 When you ask for less than you want, you cap the upside. You get a mediocre repair that leaves you still slightly resentful, and they never get to show you what they're capable of.
 

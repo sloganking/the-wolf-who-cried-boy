@@ -1,4 +1,4 @@
-# Converting Enemies
+# From Threat to Ally
 
 ← [Back to Introduction](../introduction.md)
 
