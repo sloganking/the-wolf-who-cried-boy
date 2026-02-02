@@ -170,6 +170,23 @@ But if that's something that would actually feel fun, repair the relationship, a
 
 And if they say no? Behind every no is something someone cares about. A no is just information. It's an opportunity to figure out what they need in order to feel good while doing repair—and come to a new idea that works for you both. That new idea might even be better than the one you first proposed.
 
+> I bargained with Life for a penny,  
+> And Life would pay no more,  
+> However I begged at evening  
+> When I counted my scanty store.
+>
+> For Life is a just employer,  
+> He gives you what you ask,  
+> But once you have set the wages,  
+> Why, you must bear the task.
+>
+> I worked for a menial's hire,  
+> Only to learn, dismayed,  
+> That any wage I had asked of Life,  
+> Life would have willingly paid.
+>
+> — _Quoted in Think and Grow Rich_
+
 ### How to Ask
 
 1. Before the repair conversation, ask yourself: _What would actually make this right for me? Not the minimum—the real answer. Think bigger._
