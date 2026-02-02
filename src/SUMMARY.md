@@ -19,6 +19,7 @@
 - [Decline False Responsibility](./concepts/decline-false-responsibility.md)
 - [All Power Is Mutual](./concepts/all-power-is-mutual.md)
 - [Drama Triangle](./concepts/drama-triangle.md)
+- [Why Rescuers Are Dangerous](./concepts/why-rescuers-are-dangerous.md)
 
 ---
 
