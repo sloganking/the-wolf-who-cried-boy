@@ -212,7 +212,7 @@ Consider a [fawning](./fawning.md) situation. The same event occurred—someone 
 **They feel:** Violated, victimized, hurt
 
 **If the fawner's attention is on:** "I lied to this person about my consent and then attacked them for believing me"
-**They feel:** Guilt, responsibility, remorse
+**They feel:** Guilt, embarrassment, remorse
 
 Same event. Same person. The only difference is where attention went. And that difference creates completely opposite emotional experiences—and completely different actions that follow.
 
