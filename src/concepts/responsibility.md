@@ -218,6 +218,29 @@ When you take responsibility—even for things that weren't "your fault"—you'r
 
 This is the [Creator](./drama-triangle.md) mindset. It's the opposite of [Victim](./drama-triangle.md).
 
+### The Questions You Ask
+
+Here's a practical way to catch yourself: **notice what question you're asking.**
+
+Your brain will answer whatever question you give it. Ask a disempowering question, get disempowering answers. Ask an empowering question, get useful ones.
+
+| Victim Question              | Creator Question                                   |
+| ---------------------------- | -------------------------------------------------- |
+| "Why did this happen to me?" | "How can I prevent this next time?"                |
+| "Why am I so broken?"        | "What's one thing I can do differently?"           |
+| "Why are they so stupid?"    | "What would I need to show them to help them see?" |
+| "Whose fault is this?"       | "What's my part, and what can I change?"           |
+
+When you ask "why did this happen to me?"—your brain goes hunting for reasons you're a victim. It will find them. It will build a case for your powerlessness, and you'll feel worse.
+
+When you ask "how can I prevent this next time?"—your brain goes hunting for solutions. It will find those too. And you'll feel like someone who has power.
+
+Same situation. Different question. Completely different experience.
+
+**The question you ask is a choice.** It's one of the most immediate ways you either claim your power or give it away. If you catch yourself asking victim questions, you can simply... ask a different one.
+
+This doesn't mean the pain isn't real. It doesn't mean you caused everything that happened. It means: given that this happened, what question will serve you?
+
 ## Responsibility ≠ Repair
 
 Here's another confusion that gets people trapped:
