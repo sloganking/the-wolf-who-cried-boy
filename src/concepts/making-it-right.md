@@ -124,6 +124,32 @@ If you're the one who was harmed:
 
 Sometimes people want revenge more than repair. That's a choice—but it's not resolution.
 
+### Ask for What You Actually Want
+
+Here's what usually happens: someone wrongs you, they offer to make it right, and you ask for less than you actually want.
+
+Maybe you downplay the harm. Maybe you say "it's fine" when it isn't. Maybe you ask for the minimum—just enough to technically count as repair—when something bigger would actually make you whole.
+
+This is [fawning](./fawning.md) showing up in repair. You're not fully advocating for yourself. You're making yourself small, asking for less, settling.
+
+**Why this matters:**
+
+Remember: [risk and opportunity are two words for the same thing](./converting-enemies.md#the-opportunity-youre-missing). The person who wronged you could become an ally who adds immense value to your life. But that only happens if you give them the chance.
+
+When you ask for less than you want, you cap the upside. You get a mediocre repair that leaves you still slightly resentful, and they never get to show you what they're capable of.
+
+When you ask for what you actually want—clearly, without apology—you create space for them to rise to it. Maybe they can't meet it. But maybe they exceed it. Maybe the repair is so generous that you end up better off than before the mistake happened.
+
+You won't know unless you ask.
+
+**How to do it:**
+
+1. Before the repair conversation, ask yourself: _What would actually make this right for me? Not the minimum—the real answer._
+2. Say it. Clearly. Without hedging or minimizing.
+3. Let them respond. They might say yes. They might negotiate. They might surprise you.
+
+The person offering repair usually _wants_ to make it right. Give them something real to aim for.
+
 ## Real Repair Is Mutual
 
 [Everyone has responsibility](./responsibility.md#omniresponsible) in every situation. Even if someone clearly made a mistake, the other person can still look in the [responsibility mirror](./responsibility.md#the-responsibility-mirror)—not to excuse what happened, but because that's what responsibility looks like.
