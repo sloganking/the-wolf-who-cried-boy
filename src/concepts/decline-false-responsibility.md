@@ -86,9 +86,9 @@ You might have had [100% control](../tools/100-percent-control.md) over the outc
 
 Let's be clear about something:
 
-> **Declining responsibility for things you're not responsible for IS responsible.**
->
-> **Accepting responsibility for things you're not responsible for IS irresponsible.**
+**Taking responsibility for YOUR actions is responsible. Taking responsibility for THEIR actions is fawning.**
+
+When you accept responsibility for someone else's part, you're not being extra accountable—you're enabling their victim pattern and disempowering yourself. That's not noble. That's not helpful. That's not responsible.
 
 What you DON'T take responsibility for is just as important as what you DO take responsibility for.
 
