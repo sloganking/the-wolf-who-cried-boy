@@ -71,3 +71,7 @@
 
 - [Example Scenarios](./examples.md)
 - [Quick Reference](./quick-reference.md)
+
+---
+
+[Conclusion](./conclusion.md)
