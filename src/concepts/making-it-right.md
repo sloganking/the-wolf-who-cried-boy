@@ -36,9 +36,9 @@ This isn't a moral instruction. I'm not telling you "you did wrong, now you must
 
 This is an invitation: **here's how to actually feel good about yourself after you fucked up.**
 
-You made a mistake. You don't feel great about it. So—is there something you can do right now that will leave you feeling *better* about yourself and your value than before this happened?
+You made a mistake. You don't feel great about it. So—is there something you can do right now that will leave you feeling _better_ about yourself and your value than before this happened?
 
-The answer is yes. And the answer is: add so much value that you're more connected with the person afterward. Make things better than they were *before* the accident occurred.
+The answer is yes. And the answer is: add so much value that you're more connected with the person afterward. Make things better than they were _before_ the accident occurred.
 
 That's the whole message. Not obligation. Not punishment. Just: here's what works.
 
@@ -77,7 +77,7 @@ You might feel grief or remorse after making a mistake. That's natural. But repa
 
 The goal is to add value to them—not to take value from yourself. This isn't eye-for-an-eye. You're not trying to suffer proportionally to what they experienced.
 
-If your repair actions are slightly uncomfortable, that might feel appropriate—your mistake caused them discomfort, so some discomfort in fixing it makes sense. But it doesn't *have* to be uncomfortable. The best repairs come from genuine care, not from guilt-driven self-sacrifice.
+If your repair actions are slightly uncomfortable, that might feel appropriate—your mistake caused them discomfort, so some discomfort in fixing it makes sense. But it doesn't _have_ to be uncomfortable. The best repairs come from genuine care, not from guilt-driven self-sacrifice.
 
 **Here's the trap:** If you [fawn](./fawning.md) when you repair—if you appease them by doing things you actually don't want to do—two things happen:
 
@@ -142,7 +142,7 @@ What happens:
 - The relationship doesn't actually heal
 - If their response was also harmful (which it often is—over-responses cause real harm), they're getting away with it while you do all the work
 
-This doesn't mean repair has to be perfectly symmetrical. But if one person is doing *all* the owning and the other is doing *all* the blaming—with zero acknowledgment of their part—the repair won't hold.
+This doesn't mean repair has to be perfectly symmetrical. But if one person is doing _all_ the owning and the other is doing _all_ the blaming—with zero acknowledgment of their part—the repair won't hold.
 
 Real repair looks like both people asking: "What was my part?" Even if the answer is "my part was smaller," the question still matters.
 
