@@ -103,6 +103,10 @@ That belief is a lie. But they don't know it's a lie. They're acting rationally 
 
 Calling them stupid or evil is easier than doing the hard work of understanding their world well enough to show them a different one. It's a cop-out dressed up as insight.
 
+It's also the opposite of [responsibility](./responsibility.md). When you say "they're just too stupid to get it," you're pretending you don't have the power to affect them. You're disowning your influence. But you _do_ have power here—you just haven't figured out how to use it yet.
+
+Blaming their stupidity is giving up while telling yourself you never had a chance.
+
 The real question isn't "why are they so dumb?" It's: "What would I need to show them for them to see what I see?"
 
 ## Show, Don't Tell
