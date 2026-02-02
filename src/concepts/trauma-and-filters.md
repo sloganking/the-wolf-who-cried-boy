@@ -100,7 +100,7 @@ Done? Good. You have a number. You can probably remember most of the brown thing
 
 Now: **How many red things did you see?**
 
-You don't know. You can't remember them. They all reached your eyeballs—you *saw* them—but you weren't paying attention to red. So they didn't register.
+You don't know. You can't remember them. They all reached your eyeballs—you _saw_ them—but you weren't paying attention to red. So they didn't register.
 
 This is your **reticular activating system (RAS)**—a network in your brainstem that filters what you notice based on what you're looking for. Everything else fades into the background.
 
@@ -108,7 +108,7 @@ This is your **reticular activating system (RAS)**—a network in your brainstem
 
 With attention, you perceive many things, and your conscious mind picks which to focus on. You could choose differently.
 
-With your RAS, things are filtered out *before they reach your conscious awareness*. You're not choosing to ignore them—you're literally blind to them. They never made it to the part of your brain that could choose.
+With your RAS, things are filtered out _before they reach your conscious awareness_. You're not choosing to ignore them—you're literally blind to them. They never made it to the part of your brain that could choose.
 
 In the brown-red exercise, you can consciously shift your attention to red—because someone told you what you were filtering for. You know you were looking for brown, so you can choose to look for red instead.
 
@@ -116,7 +116,7 @@ In real life, nobody prompts you. You don't realize you're scanning for predator
 
 From your perspective, you're not filtering at all. You're just looking at the world and seeing what's there. It feels accurate. It feels real. You have no experience of bias—just perception.
 
-Even when you learn that you *have* an RAS, you still don't know what it's filtering for. You don't know what it makes you see or what it makes you blind to. Figuring that out requires working backwards—noticing patterns like "I tend to see threats more often than other people do" or "I keep finding myself in the same dynamics." Your RAS can filter for multiple things at once, and you're never going to be fully aware of all of them.
+Even when you learn that you _have_ an RAS, you still don't know what it's filtering for. You don't know what it makes you see or what it makes you blind to. Figuring that out requires working backwards—noticing patterns like "I tend to see threats more often than other people do" or "I keep finding myself in the same dynamics." Your RAS can filter for multiple things at once, and you're never going to be fully aware of all of them.
 
 That's why RAS-level distortions are so hard to overcome. You can't redirect your attention to possibilities that never reached your conscious mind. You can't consider interpretations that your brainstem already filtered out of existence. You don't even know they were options.
 
@@ -144,7 +144,7 @@ You're priming your RAS to scan for predators. You're walking into a room full o
 
 This sounds like satire. It sounds unbelievable that someone would need to be told "don't watch horror before you go to the sex party." But that's exactly the level of sensitivity we're operating at. The number of unconscious stories running your perception is immense. If you're consuming predator-hunting content before entering an intimate space, you are setting yourself up to see a bunch of things that aren't real.
 
-This is a clear example of how you affect the probability of your outcomes. You're not *causing* an assault by watching horror. But you're absolutely affecting how you'll perceive and react to normal touch—and that affects what happens next.
+This is a clear example of how you affect the probability of your outcomes. You're not _causing_ an assault by watching horror. But you're absolutely affecting how you'll perceive and react to normal touch—and that affects what happens next.
 
 You have [responsibility](./responsibility.md) here. You can choose what you consume before entering a space. You can choose to prime your filter for connection instead of danger.
 
@@ -152,9 +152,9 @@ You have [responsibility](./responsibility.md) here. You can choose what you con
 
 ### When Evidence Gets Through
 
-And when contradictory evidence *does* get through—when reality is staring you right in the face—your conscious mind will work to protect the belief.
+And when contradictory evidence _does_ get through—when reality is staring you right in the face—your conscious mind will work to protect the belief.
 
-In *The Iron Giant*, there's a character named Kent Mansley who seems completely unreasonable. He looks like a comical villain—both evil and inept. The audience watches him take action after action that makes no sense. He seems to be lying, manipulating, endangering everyone around him for no clear reason.
+In _The Iron Giant_, there's a character named Kent Mansley who seems completely unreasonable. He looks like a comical villain—both evil and inept. The audience watches him take action after action that makes no sense. He seems to be lying, manipulating, endangering everyone around him for no clear reason.
 
 We never see inside Kent's head—so this is interpretation. But it's grounded in what he actually says. Early in the film, he tells Hogarth about the Russians, about needing to defend the country: "Everyone wants what we have."
 
@@ -174,7 +174,7 @@ Later, the giant walks up with the boy visibly alive in its hands. Hogarth—the
 
 Kent screams: "IT'S A TRICK! LAUNCH THE MISSILE!"
 
-His rational mind is working overtime to preserve the belief. *The giant couldn't have NOT killed the boy. Everyone wants what we have, so the giant must be made by an enemy. So the boy must actually be dead. But wait—if they can build a giant metal man, they can probably build holograms. That's it! That's what I'm seeing! Or the boy has been enslaved by the giant and is being forced to tell the army not to shoot, so we let our guard down right before the giant kills all of us!*
+His rational mind is working overtime to preserve the belief. _The giant couldn't have NOT killed the boy. Everyone wants what we have, so the giant must be made by an enemy. So the boy must actually be dead. But wait—if they can build a giant metal man, they can probably build holograms. That's it! That's what I'm seeing! Or the boy has been enslaved by the giant and is being forced to tell the army not to shoot, so we let our guard down right before the giant kills all of us!_
 
 The evidence that the giant is friendly and not a threat—is literally standing in front of him. Everyone else can see it. But his filter can't let it in. As a result he orders a nuclear strike on his own position.
 
@@ -271,7 +271,7 @@ Decisions made from fear tend to be decisions you regret.
 
 Wait until the fear subsides. Come back to it with a clear mind and well-adjusted feelings. Then decide. You might reach the same conclusion—but now it's a conclusion, not a reaction.
 
-If you can't wait—if action is required immediately—at least acknowledge: *"I'm acting from fear right now. I might be wrong about what I'm seeing."* That acknowledgment alone creates a small gap between stimulus and response. And sometimes that gap is enough to prevent harm.
+If you can't wait—if action is required immediately—at least acknowledge: _"I'm acting from fear right now. I might be wrong about what I'm seeing."_ That acknowledgment alone creates a small gap between stimulus and response. And sometimes that gap is enough to prevent harm.
 
 ## Sex Is Politics
 
@@ -427,13 +427,13 @@ But if you're carrying the "facilitators are perfect" filter, here's what happen
 
 Your filter says: "Experienced people don't make mistakes. Therefore this wasn't a mistake. It was intentional. They're a predator using their position to take advantage of people."
 
-Note: these words may never consciously go through your head. The belief that facilitators are perfect might be entirely subconscious—just part of how you see the world. The idea that facilitators are *not* perfect may not be something you've ever consciously considered, much less put into words.
+Note: these words may never consciously go through your head. The belief that facilitators are perfect might be entirely subconscious—just part of how you see the world. The idea that facilitators are _not_ perfect may not be something you've ever consciously considered, much less put into words.
 
-So when something happens, it doesn't work like an inner monologue stepping through logic. You see a staff member make a mistake, and your reference frame—which literally does not allow for the possibility of innocent error from experienced people—produces only one interpretation: predator. You're not *concluding* they're a predator. You're *perceiving* it, because your filter doesn't offer any other option.
+So when something happens, it doesn't work like an inner monologue stepping through logic. You see a staff member make a mistake, and your reference frame—which literally does not allow for the possibility of innocent error from experienced people—produces only one interpretation: predator. You're not _concluding_ they're a predator. You're _perceiving_ it, because your filter doesn't offer any other option.
 
 You skip right past accident to malice. You skip right past LOW to HIGH severity. Because in your reference frame, the only explanation for staff error is predation.
 
-**The irony:** Facilitators and experienced staff are typically the *safest* people in the room. They've made their mistakes, learned from them, trained extensively, and developed refined awareness. They're the least likely to cause harm—and the most equipped to handle it well when they do.
+**The irony:** Facilitators and experienced staff are typically the _safest_ people in the room. They've made their mistakes, learned from them, trained extensively, and developed refined awareness. They're the least likely to cause harm—and the most equipped to handle it well when they do.
 
 But the "facilitators are perfect" filter inverts reality. When the safest person makes a minor slip, they're suddenly perceived as the biggest threat—because "someone that experienced wouldn't make a mistake unless they meant to."
 
@@ -495,11 +495,13 @@ They're not being malicious. They genuinely can't imagine another explanation. B
 **The painful irony:**
 
 The newcomer who thinks "I would never do that" is:
+
 - More likely to make that exact mistake (because they're not guarding against it)
 - Most likely to cause real harm (their attack feels like defense to them)
 - The least qualified to judge what happened (because they don't understand the mechanisms)
 
 Meanwhile, the veteran who HAS made that mistake and learned from it:
+
 - Is less likely to make it again (because they've trained against it)
 - Is more likely to recognize it as an accident when they see it (because they understand how it happens)
 - Is more qualified to assess what actually occurred (because they have the reference frame)
@@ -534,27 +536,27 @@ Here's something that makes this worse: **complementary filters magnetize.**
 
 Consider someone whose subconscious runs this story: "People are going to misunderstand me and attack me."
 
-They might not consciously think this. But their body knows it. Every time their phone buzzes—a text, a call, a notification—they get a jolt of fear. *Is someone mad at me? Did they see some imperfection and now they think I'm deserving to be screamed at?* 
+They might not consciously think this. But their body knows it. Every time their phone buzzes—a text, a call, a notification—they get a jolt of fear. _Is someone mad at me? Did they see some imperfection and now they think I'm deserving to be screamed at?_
 
 They're not choosing to think this. Their nervous system just fires. Years of being misunderstood have trained their RAS to expect attack.
 
 This story doesn't just distort perception. **It creates the thing it fears.**
 
-Say they're on a team. They make a minor error—the kind everyone makes. But they hyper-focus on it: *Oh no, someone might misunderstand this.* So they proactively bring it up at the team meeting, trying to seem accountable.
+Say they're on a team. They make a minor error—the kind everyone makes. But they hyper-focus on it: _Oh no, someone might misunderstand this._ So they proactively bring it up at the team meeting, trying to seem accountable.
 
-The problem: everyone makes these mistakes, but no one else mentions theirs. Now this person is the only one the team hears making errors. Week after week. Their confessions are training everyone else's RAS: *This person is mistake-prone. Watch them.*
+The problem: everyone makes these mistakes, but no one else mentions theirs. Now this person is the only one the team hears making errors. Week after week. Their confessions are training everyone else's RAS: _This person is mistake-prone. Watch them._
 
 They think they're being responsible. They're actually painting a target on themselves.
 
 **And then comes the fawning.**
 
-When someone does confront them—angry, accusing—their fear kicks in. Part of the fear is the story: *I don't know how to handle this. If I defend myself, it'll get worse.*
+When someone does confront them—angry, accusing—their fear kicks in. Part of the fear is the story: _I don't know how to handle this. If I defend myself, it'll get worse._
 
 So instead of saying "This is unreasonable. You can't speak to me this way. If you want to talk with dignity and respect, I'm available—otherwise, I'm not"—instead of that, they try to appease. They explain their actions, which to the attacker looks like manipulation, trying to get out of trouble. The attack intensifies.
 
 They apologize—not because they did anything wrong, but because apologizing makes angry people less angry. Fawning.
 
-But to the attacker, the apology looks like a confession. It reinforces the attacker's story: *See? They admitted it. I was right.*
+But to the attacker, the apology looks like a confession. It reinforces the attacker's story: _See? They admitted it. I was right._
 
 **The person never showed any other possibility.** They never took action that would make the attacker question what they were seeing. Their fear of being misunderstood and attacked caused them to take exactly the actions that caused people to misunderstand and attack them.
 
