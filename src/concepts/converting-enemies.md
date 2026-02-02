@@ -50,6 +50,33 @@ Communication becomes the superior strategy. Not because it's morally better (th
 
 ---
 
+## They're Not Stupid
+
+Here's the cop-out most people take:
+
+"They're just dumb."
+"They're incapable of seeing clearly."
+"They can't think at my level."
+"They're too far gone."
+
+This is an excuse to give up. It lets you off the hook from having to figure out how to actually reach them.
+
+**If they can't see through their story, you haven't communicated well enough.**
+
+That's not an insult to you—it's an invitation. It means the problem is solvable. It means there's a way to frame things, a way to show them, a way to connect that would actually land. You just haven't found it yet.
+
+The person in front of you has reasons for what they're doing. Based on their beliefs about the situation—about the world, about you, about what's at stake—everything they're doing makes sense. Their actions are sane and reasonable _given their model of reality_.
+
+> **"All people's actions are sane and reasonable, given their beliefs about the world they are operating within."**
+
+Even acts that look purely selfish often come from something deeper. Someone hoarding resources, stepping on others to get ahead, refusing to cooperate—that's often not malice. It's a belief in scarcity. A belief that there's not enough to go around. That we can't all win. That it's you or me.
+
+That belief is a lie. But they don't know it's a lie. They're acting rationally within a false model.
+
+Calling them stupid or evil is easier than doing the hard work of understanding their world well enough to show them a different one. It's a cop-out dressed up as insight.
+
+The real question isn't "why are they so dumb?" It's: "What would I need to show them for them to see what I see?"
+
 ## Show, Don't Tell
 
 Here's where most people fail:
