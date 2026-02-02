@@ -354,6 +354,42 @@ The Inquisitor never questioned his certainty. That's why he could torture with 
 
 Whatever you just answered — would the Inquisitor have said the same thing?
 
+## When You See the Pattern
+
+There's a saying in [Target Focus Training](https://targetfocustraining.com/)—a reality-based self-protection program:
+
+> **"Violence is rarely the answer—until it is the only answer."**
+
+If Inquisitors are knocking down your door, fighting back may be exactly the right move. When someone is actively attacking you and there's no other option, self-defense isn't just justified—it's necessary.
+
+But here's what changes when you step back and see the pattern clearly:
+
+**These people who seem like threats are usually good people operating on harmful, false beliefs.**
+
+When you have that recognition—and when the option exists—communication becomes the superior strategy. Not because it's morally better (though it might be), but because it's _strategically_ better.
+
+The problem isn't that these are evil people who can't be reasoned with. The problem is a communication problem.
+
+### Show, Don't Tell
+
+You can't just _say_ "it's better if we work together." If you tell them cooperation is more advantageous than fighting, but you don't _show_ them how—they won't believe you. You haven't actually communicated anything.
+
+But if you can demonstrate that working together creates outcomes they want more than fighting does? They'll put down their weapons. You might even become allies.
+
+### The Deepest Win
+
+There's a level beyond getting someone to cooperate:
+
+**Help them see out of the delusion itself.**
+
+If you can communicate so clearly that they recognize their limiting beliefs—the ones that were driving them to cause harm—something shifts. They step back. They have empathy. They see that what they've been doing isn't actually creating what they want in the world.
+
+When that happens, you've done more than neutralize a threat. You've helped someone escape a belief that was causing them pain—so much pain it was driving them to drastic, harmful action to protect themselves.
+
+And here's the bonus: someone who escapes a limiting belief usually wants to help their friends escape it too. An enemy becomes an advocate. One conversion creates more conversions.
+
+This isn't always possible. Some situations require immediate action. Some people aren't ready to hear anything. But when it _is_ possible, it's the highest-leverage move available.
+
 ## What To Do Instead
 
 ### If you're a bystander:
