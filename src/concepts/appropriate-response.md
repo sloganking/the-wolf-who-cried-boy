@@ -190,7 +190,9 @@ When someone wrongs you, show them a way to win with you. Don't just say "you ne
 
 **Make a precise ask.**
 
-Tell them exactly what you would like. They're not obligated to say yes, but now they have:
+Tell them exactly what you would like. Not "I want to feel respected"—that's not actionable. What actions would make you feel respected? Give them something concrete they can actually do.
+
+They're not obligated to say yes, but now they have:
 
 - A clear path to repair
 - Understanding of what matters to you
@@ -199,6 +201,8 @@ Tell them exactly what you would like. They're not obligated to say yes, but now
 When you give someone a clear way to win, you might end up with an outcome that's net positive—where the repair was done so well that you got more value from the interaction than was taken.
 
 That's not possible if you attack first.
+
+For more on receiving repair well—including why you should ask for what you _actually_ want—see [Making It Right: If You Were Harmed](./making-it-right.md#if-you-were-harmed).
 
 ## Report to Facilitators
 

@@ -30,6 +30,10 @@ If someone is screaming at you, making threats, or demanding you "take responsib
 
 Everything below assumes the conditions for repair are present. If they're not, see [Decline False Responsibility](./decline-false-responsibility.md).
 
+---
+
+# If You Made the Mistake
+
 ## How to Make It Right
 
 This isn't a moral instruction. I'm not telling you "you did wrong, now you must suffer through repair."
@@ -114,6 +118,10 @@ When direct repair isn't available—they don't want contact, or the harm can't 
 
 That's how you make it right when you can't make it right directly. The debt doesn't disappear—but it can be paid to the world instead of the person.
 
+---
+
+# If You Were Harmed
+
 ## Allowing Repair
 
 If you're the one who was harmed:
@@ -190,9 +198,10 @@ And if they say no? Behind every no is something someone cares about. A no is ju
 ### How to Ask
 
 1. Before the repair conversation, ask yourself: _What would actually make this right for me? Not the minimum—the real answer. Think bigger._
-2. Say it. Clearly. Without hedging or minimizing.
-3. Let them respond. They might say yes. They might negotiate. They might surprise you.
-4. If they say no, get curious. What do they need? What would work for both of you?
+2. **Make it precise.** Not "I want to feel like you care about me"—that's not actionable. What actions would make you feel cared about? "Take me to the movies." "Spend quality time with me at home." "Write me a letter." Give them something concrete they can actually do.
+3. Say it. Clearly. Without hedging or minimizing.
+4. Let them respond. They might say yes. They might negotiate. They might surprise you.
+5. If they say no, get curious. What do they need? What would work for both of you?
 
 The person offering repair usually _wants_ to make it right. Give them something real to aim for. Give them a way to win.
 
