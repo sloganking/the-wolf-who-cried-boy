@@ -39,6 +39,7 @@
 
 - [Before You Judge](./concepts/before-you-judge.md)
 - [Appropriate Response](./concepts/appropriate-response.md)
+- [Converting Enemies](./concepts/converting-enemies.md)
 - [I Made a Mistake](./concepts/i-made-a-mistake.md)
 - [Making It Right](./concepts/making-it-right.md)
 - [When You've Been Wronged](./concepts/when-youve-been-wronged.md)
