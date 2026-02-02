@@ -84,6 +84,8 @@ This is what Rescuer harm looks like. Not a lone predator. A cultural movement p
 
 Kellogg wasn't a villain. He was a Rescuer. That's what made him dangerous.
 
+For how to respond differently to each type of mistake, see [Types of Mistakes](./types-of-mistakes.md).
+
 ---
 
 ## The Mechanism
