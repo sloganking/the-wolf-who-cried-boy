@@ -62,6 +62,22 @@ This is how you get the Inquisition. Not one predator—an _institution_ of Resc
 
 A predator is one person doing harm. A Rescuer with a harmful belief can mobilize armies.
 
+### "Think of the Children"
+
+Four words that have justified more harm than any predator ever caused.
+
+In the name of protecting children, we've:
+
+- **Hit them.** Corporal punishment—spanking, beating, "discipline"—was the norm for centuries. Still is, in many places. The belief: pain teaches lessons. Spare the rod, spoil the child. It was for their own good.
+
+- **Shamed them.** Children exploring their bodies, asking questions about sex, expressing normal curiosity—met with disgust, punishment, silence. The belief: shame protects innocence. The result: adults who can't have healthy relationships with pleasure, their bodies, or intimacy.
+
+- **Cut parts off them.** (See below.)
+
+Every one of these was done by people who genuinely believed they were protecting children. Every one caused harm that rippled through generations. Every one was powered by Rescuer certainty.
+
+The phrase "think of the children" is now a cultural joke—shorthand for moral panic. But the pattern it names is deadly serious. When someone invokes children's safety to justify action, that's exactly when you should slow down and verify. Because Rescuers with children as their cause have justified some of humanity's worst behavior.
+
 ### Case Study: Circumcision
 
 Here's a Rescuer causing harm at civilizational scale—so successfully that most people can't even see it as harm.
