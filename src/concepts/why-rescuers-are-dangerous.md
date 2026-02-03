@@ -158,6 +158,44 @@ This is why Rescuers are so hard to stop. Fighting back doesn't discourage them.
 
 ---
 
+## How to Tell If Urgency Is Real
+
+Rescuers feel urgent. That urgency feels like evidence that the threat is real. But the feeling of urgency and the reality of danger are two different things.
+
+Here's the test:
+
+**Before this situation began, did this person have enemies?**
+
+The Inquisitors felt urgent. They believed they were in danger—that heretics and demons threatened everything they loved. But before the Inquisition started, they had no enemies. The "enemies" only appeared _after_ the Inquisitors began torturing and killing innocent people. The resistance they faced was a response to their own harm.
+
+**They created the enemies they were afraid of.**
+
+This is the pattern:
+
+1. Feel urgency about a threat that doesn't exist (or is vastly exaggerated)
+2. Take extreme action to "protect" against it
+3. Create real enemies through that extreme action
+4. Point to those enemies as proof the threat was real all along
+
+If you're feeling urgent about someone who wasn't causing harm before you intervened—pause. The urgency might be manufactured by your own fear, not by reality.
+
+**Questions to ask:**
+
+- Was this person actively harming anyone before I got involved?
+- Is the "threat" something they did, or something I'm afraid they _might_ do?
+- If there is resistance or hostility toward me, did it exist before I took action—or did my action create it?
+- Am I responding to what happened, or to a story about what it means?
+
+Real urgency looks like: someone is being harmed _right now_ and will continue to be harmed if no one acts.
+
+Manufactured urgency looks like: someone _might_ cause harm, someone _could_ be dangerous, someone _fits a pattern_ I'm afraid of.
+
+The Inquisitors couldn't tell the difference. That's why they tortured people with clean consciences.
+
+Can you?
+
+---
+
 ## The Transmissibility of Belief
 
 Religion is the most visible example of how powerful and transmissible belief can be.
