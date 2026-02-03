@@ -133,6 +133,24 @@ If they're so resistant that your attempts are causing them pain, back off. You'
 
 See: [Drama Triangle — Rescuer](./drama-triangle.md)
 
+### When Help Creates Harm
+
+Here's the trap: **rescuing someone who could have handled it themselves teaches them they needed rescuing.**
+
+Next time they face a challenge, they don't try. They wait for rescue. Your "help" created dependence.
+
+This isn't about whether to support people. It's about _how_ you support them.
+
+**Coaching** helps someone see their own power. You ask questions. You point at things they might not have noticed. You let them struggle, because the struggle is where they discover what they're capable of. They walk away stronger.
+
+**Rescuing** takes over. You solve the problem _for_ them. You remove the struggle. They walk away with the problem solved—but no new capacity to handle it next time. And a reinforced story: "I couldn't have done that myself."
+
+The difference isn't whether you help. It's whether your help builds their agency or erodes it.
+
+**Compassion that disempowers is not kindness. It's a trap.**
+
+If you truly care about someone's well-being, help them see their power—don't do things that reinforce the story that they don't have any.
+
 ### You Can't Force Awakening
 
 People can't take responsibility for things they believe they have no control over. Once they _see_ their power, responsibility follows naturally.
