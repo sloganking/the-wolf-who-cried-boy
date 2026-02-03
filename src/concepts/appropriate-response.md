@@ -90,12 +90,16 @@ These responses are _orders of magnitude_ larger than the original offense. Even
 
 "Was this intentional? Should this person leave the event?" — these might be legitimate questions. But **assuming the answer is yes before any due process, and taking action based on that assumption** — that's also disproportionate.
 
-The story in your head about their intent doesn't change the math. Strip away the story. Look at the actions:
+The story in your head about their intent doesn't change the math. Strip away the story. Look at the actions.
 
-- **Their action:** crossed a boundary briefly, then stopped
-- **Your action:** death threats, assault, reputation destruction
+**How to strip away the story:** Use the [Notice, Feel, Story](../tools/notice-feel-story.md) tool—but only look at the "Notice" portion. What would a camera record? No interpretation, no intent, no "they were trying to..." Just: what physically happened?
 
-Which caused more harm?
+- **Their action (notice only):** hand touched [place] for [duration], then stopped
+- **Your action (notice only):** sent messages saying [content], told [number] of people [content]
+
+Now compare the two. Which caused more harm?
+
+If your response causes more damage than the original offense, you're not defending yourself. You're attacking. And you've become a source of harm larger than the one you were responding to.
 
 If your response causes more damage than the original offense, you're not defending yourself. You're attacking. And you've become a source of harm larger than the one you were responding to.
 
