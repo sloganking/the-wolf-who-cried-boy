@@ -100,6 +100,22 @@ This is what Rescuer harm looks like. Not a lone predator. A cultural movement p
 
 Kellogg wasn't a villain. He was a Rescuer. That's what made him dangerous.
 
+### Case Study: Women's Oppression
+
+For most of history, women couldn't vote, own property, work outside the home, or make decisions about their own lives. This wasn't ancient history—American women couldn't vote until 1920. Couldn't have their own credit cards until 1974.
+
+The easy story: men were selfish assholes who wanted to keep women down.
+
+The harder truth: **most of those men were Rescuers.**
+
+They genuinely believed that if women were allowed to vote, society would collapse. The family would disintegrate. Chaos would reign. They weren't consciously oppressing women—they were _protecting_ civilization from what they saw as a genuine threat.
+
+This sounds absurd now. "Men thought the world would end if women voted" is almost funny. But that's exactly how normalized harmful beliefs work—they seem obviously wrong in hindsight, and obviously right at the time.
+
+The men who opposed women's suffrage weren't monsters. They were good people operating on a harmful belief, certain they were doing right. Some women believed it too—and advocated against their own rights, convinced they were protecting something important.
+
+That's what made the oppression so durable. It wasn't enforced by a few predators. It was maintained by millions of Rescuers who genuinely thought they were saving the world.
+
 For how to respond differently to each type of mistake, see [Types of Mistakes](./types-of-mistakes.md).
 
 ---
