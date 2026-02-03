@@ -148,6 +148,14 @@ When you _know_ you're on the right side, evidence to the contrary gets filtered
 
 "There's a predator and we must stop them" is a compelling story. People want to help. They want to be heroes too. The Rescuer doesn't stay alone—they build a mob. And the mob provides social proof that the Rescuer must be right.
 
+**5. Resistance confirms the story.**
+
+A predator, when met with resistance, often backs off. It's not worth it. They'll find an easier target.
+
+A Rescuer, when met with resistance, escalates. Your resistance _proves_ they were right—you're defending the evil they're trying to stop. Urgent action is even more necessary now.
+
+This is why Rescuers are so hard to stop. Fighting back doesn't discourage them. It feeds the narrative.
+
 ---
 
 ## The Transmissibility of Belief
