@@ -75,6 +75,30 @@ Same applies here. If you skip verification and launch a high-severity response,
 | **Eye for an Eye**           | Trying to hurt them back equally       |
 | **Mob Judgment**             | Group condemns without verification    |
 
+## The Math of Proportionality
+
+Here's a concrete test:
+
+**If someone crosses a boundary for one second and then stops—what response is proportional?**
+
+Death threats? No.
+Physical assault? No.
+Destroying their reputation? No.
+Demanding they be removed from the community? No.
+
+These responses are _orders of magnitude_ larger than the original offense. Even if the transgression was real. Even if it was intentional.
+
+"Was this intentional? Should this person leave the event?" — these might be legitimate questions. But **assuming the answer is yes before any due process, and taking action based on that assumption** — that's also disproportionate.
+
+The story in your head about their intent doesn't change the math. Strip away the story. Look at the actions:
+
+- **Their action:** crossed a boundary briefly, then stopped
+- **Your action:** death threats, assault, reputation destruction
+
+Which caused more harm?
+
+If your response causes more damage than the original offense, you're not defending yourself. You're attacking. And you've become a source of harm larger than the one you were responding to.
+
 ## How Trauma Distorts Response
 
 See: [Trauma & Filters](./trauma-and-filters.md)
