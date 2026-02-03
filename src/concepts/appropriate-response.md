@@ -103,6 +103,31 @@ If your response causes more damage than the original offense, you're not defend
 
 If your response causes more damage than the original offense, you're not defending yourself. You're attacking. And you've become a source of harm larger than the one you were responding to.
 
+### The Self-Check
+
+Here's the question that catches most over-responses:
+
+> **Am I responding to what happened, or what I'm afraid might happen?**
+
+If someone crossed a boundary for one second and stopped—that's what happened. That's the "notice."
+
+If you're now afraid they'll attack again, afraid other people aren't safe, afraid this is a predator who will hurt someone if they stay—that's a story about what _might_ happen. It might be true. It might not. But you don't know yet.
+
+**When you respond to what might happen instead of what did happen:**
+
+- You skip due process because "there's no time"
+- Your response becomes disproportionate to the actual offense
+- You're taking action based on fear, not facts
+- You become the source of harm
+
+Preparing for the future matters. But if you're taking high-severity action based on a fear story, and you haven't even used [Notice, Feel, Story](../tools/notice-feel-story.md) to separate what happened from what you're afraid of—you're throwing rocks in a minefield.
+
+The Inquisitors responded to what they were afraid might happen. That's how they tortured people with clean consciences.
+
+**Before you act, ask:** What _actually_ happened? Not what it means, not what it could lead to, not what kind of person does this. Just: what happened?
+
+Start there.
+
 ## How Trauma Distorts Response
 
 See: [Trauma & Filters](./trauma-and-filters.md)
