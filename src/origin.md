@@ -72,12 +72,6 @@ Eventually, at a retreat, I saw the same pattern play out that had shaped my chi
 
 I saw how much we need clear eyes in this area. Sexuality, intimacy, connection—this is where our culture carries the most distortion, the most unprocessed fear, the most potential for harm done in the name of protection.
 
-I wasn't small. I wasn't helpless. The story that said I was—the story I'd believed for years—was just a story. It felt like truth. It wasn't.
-
-When I saw that, everything changed.
-
-I started taking [responsibility](./concepts/responsibility.md). Not blame—responsibility. I started seeing where I had control. I started making choices instead of just reacting. I started building a life instead of just surviving one.
-
 ---
 
 ## Why This Matters
@@ -118,7 +112,7 @@ That's why I care about belief. About responsibility. About helping people see t
 
 That's why I wrote this book.
 
-**Waking people up from the dream that they're small—that's what I'm here for.**
+**Waking people up from the dream that they're small, and helping them see clearly so they can create good in the world. That's what I'm here for.**
 
 ---
 
