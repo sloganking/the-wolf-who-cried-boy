@@ -19,6 +19,7 @@ This is the guiding principle of the entire book.
 NEVER use moralizing language. Describe behaviors, not character.
 
 **Avoid:**
+
 - Labels that assign moral character ("bully", "predator" as a label, "toxic person")
 - Defensive hedges ("not in a toxic-positivity way", "this isn't victim-blaming")
 - Language that paints people as morally inferior
@@ -26,6 +27,7 @@ NEVER use moralizing language. Describe behaviors, not character.
 - Narrative language that assigns blame or moral judgment
 
 **Instead:**
+
 - Describe what happened objectively
 - Describe the impact of actions
 - Let readers draw their own conclusions
@@ -39,6 +41,7 @@ Actions teach more than words. Examples demonstrate more than explanations. Let 
 ### 3. 10x Value Mindset
 
 Every addition should add significant value. Ask constantly:
+
 - Does this add 10x value or is it just verbose?
 - Could this be said more powerfully in fewer words?
 - Is there something better I could add here that I'm not seeing?
@@ -46,6 +49,7 @@ Every addition should add significant value. Ask constantly:
 ### 4. Inarguable Writing
 
 Write in a way that's hard to argue with:
+
 - State observations, not accusations
 - Describe patterns, not people
 - Use "Notice, Feel, Story" style framing when possible
@@ -54,6 +58,7 @@ Write in a way that's hard to argue with:
 ### 5. Be a Co-Creator
 
 Don't just execute—think. Ask:
+
 - What would add the most value here?
 - Is there an opportunity to improve something I'm not being asked about?
 - Would asking a question be more valuable than assuming?
@@ -67,22 +72,58 @@ Take risks if they're significantly value-adding, even if it's not the "normal" 
 ### Quote Formatting
 
 **Correct format:**
+
 ```markdown
 > **"Quote text here."**  
 > — _Author Name_
 ```
 
 Key points:
+
 - Quote text in bold with quotation marks
 - Two spaces after the closing `**` (creates line break in markdown)
 - Author on next line with em dash (—) and in italics
 - Both lines start with `>`
 
 **Wrong:**
+
 ```markdown
 > **Quote text.** — Author Name
 ```
+
 (Author should be on its own line)
+
+---
+
+## Author Voice & Personality
+
+The tone of "The Rescue That Broke Me" is the gold standard. The rest of the book should feel like this.
+
+### The Vibe
+
+**What to embody:**
+
+- **Vulnerable without victimhood** — Share painful things without staying in "poor me." Own the story without being defined by it.
+- **Compassion for those who caused harm** — Understand their fear, their love, their misguided intent. Not excusing—understanding.
+- **Honesty about your own patterns** — Admit your fawning, your resentment, your pull toward harm. You're not a saint in your own story.
+- **Growth orientation** — The story is about transformation, not complaint. "This happened, here's what I learned."
+- **Courage** — Walking into fire. Doing anything to change. Sharing vulnerably.
+- **Hard-won wisdom** — Not preaching from above. "I've been there. Here's what I found."
+- **Directness** — No hedging. No apologizing for existing. Say what happened clearly.
+- **Integration** — Pain and understanding coexist. Harm and love coexist. Both/and.
+
+**What to avoid:**
+
+- Angry
+- Resentful
+- Victimized
+- Preachy
+- Bitter
+- Disgruntled "they hurt me" energy
+
+### The Feel
+
+Wise. Grounded. Honest. Compassionate. Courageous. Purposeful.
 
 ---
 
