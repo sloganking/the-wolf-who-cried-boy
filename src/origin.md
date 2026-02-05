@@ -48,7 +48,17 @@ That's when things started shifting. I did therapy—five hours a week for a yea
 
 But the biggest shift came from somewhere unexpected: play parties.
 
-My first one was the most exciting and terrifying thing I'd ever done. I was so sensitive to rejection—especially around sexuality—that the smallest sign of it could send me into an eight-hour panic attack. But I went anyway. Because I'd decided I would do anything.
+I'd never been to one before. The idea of going to anything sexuality-based had always terrified me in a way I could never put into words. I had stories of helplessness, of unlovability. The thought of talking to a woman with romantic interest made me want to disappear.
+
+As a result, I'd been in a dry spell without sex for seven years. Seven years of those stories getting stronger, more terrifying, more painful.
+
+Going to my first play party was the biggest leap of faith I ever made.
+
+At that time, the smallest sign of sexual rejection would send me into an eight-hour panic attack. And every panic attack reinforced the story: _I'm unlovable. It's hopeless._ When you actually believe that, life is hell.
+
+But I was in so much pain that I knew I wasn't going to last long if nothing changed. And eventually, I became more afraid of what would happen if I stayed the same than I was of the rejection. The fear of walking into fire became smaller than the fear of burning where I stood.
+
+So I went.
 
 And I kept going.
 
