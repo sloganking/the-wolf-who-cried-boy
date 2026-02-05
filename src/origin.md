@@ -32,7 +32,9 @@ I felt small. Helpless. Terrified of a world that seemed designed to crush me.
 
 I developed a victim mentality. Everything happened _to_ me. I had no power. I couldn't protect myself, couldn't change my circumstances, couldn't do anything but endure.
 
-That mindset ran my life for decades. It was hell. Not dramatic, movie-scene hell—just a low, grinding misery where nothing ever got better because I didn't believe I could make it better.
+That mindset ran my life for years. And then, at 25, it culminated.
+
+Multiple traumas I'd never processed came up at once. I developed PTSD. I had eight-hour panic attacks every other day. I felt like a helpless slave—broken by my past, unable to get the connection and intimacy I desperately wanted, terrified of rejection. I was resentful. I was borderline suicidal.
 
 I was stuck in the [Victim](./concepts/drama-triangle.md) position. And I didn't even know there was another option.
 
@@ -40,11 +42,21 @@ I was stuck in the [Victim](./concepts/drama-triangle.md) position. And I didn't
 
 ## Waking Up
 
-I don't remember the exact moment it shifted. It wasn't one conversation or one book. It was a slow accumulation—of experiences, of people who saw more in me than I saw in myself, of moments where I accidentally discovered I had power I didn't know I had.
+The path out was unexpected: play parties.
 
-Eventually, I saw through the dream.
+I was terrified. Every time I walked into one of those spaces, I was certain I'd have a panic attack at the first sign of rejection. Sometimes I did. But I kept going anyway.
 
-I wasn't small. I wasn't helpless. The story that said I was—the story I'd believed for decades—was just a story. It felt like truth. It wasn't.
+I met people. Lots of people. I built relationships. I learned how humans actually work—not from studying them at a distance, but from being in the mess with them. I saw all the different ways people think, react, protect themselves, hurt each other, love each other.
+
+Slowly, something shifted.
+
+I started seeing my own stories for what they were. I started noticing the difference between what actually happened and the meaning I was layering on top. I started discovering power I didn't know I had.
+
+Eventually, at a retreat, I saw the same pattern play out that had shaped my childhood. Someone, through distorted beliefs, thought they were protecting someone—but all they were really doing was deeply harming someone else. It was my father and me, replayed in a different context. And in that moment, something crystallized.
+
+I saw how much we need clear eyes in this area. Sexuality, intimacy, connection—this is where our culture carries the most distortion, the most unprocessed fear, the most potential for harm done in the name of protection.
+
+I wasn't small. I wasn't helpless. The story that said I was—the story I'd believed for years—was just a story. It felt like truth. It wasn't.
 
 When I saw that, everything changed.
 
@@ -76,11 +88,15 @@ The moment you see your power, everything changes. Not because the world gets ea
 
 ## Why I Wrote This
 
-I'm here because I've been on both sides.
+I'm here because I've been on all sides.
 
-I've been harmed by a Rescuer who loved me. I've lived in the victim dream. I've crawled out. I've learned to see through the stories—my own and others'.
+I've been harmed by a Rescuer who loved me. I've lived in the victim dream. And I've come close to becoming the harm myself.
 
-I'm not lecturing from above. I'm not claiming to have it all figured out. I'm someone who suffered for a long time, found a way out, and wants to help others find it too.
+In my years of resentment and victimhood, I felt the pull toward perpetrator. My relationships were dysfunctional. I carried bitterness toward my father and others who didn't deserve it—or at least didn't deserve the intensity of what I felt. I caused people stress. I was a drain when I could have been a gift.
+
+I know what it's like to be so trapped in your own pain that you start hurting the people around you without even seeing it. I've felt the gravity that pulls Victim toward Persecutor.
+
+I'm not lecturing from above. I'm not claiming to have it all figured out. I'm someone who suffered for a long time, caused suffering to others, found a way out, and wants to help others find it too.
 
 That's why I care about belief. About responsibility. About helping people see their power instead of reinforcing their helplessness.
 
