@@ -125,6 +125,18 @@ The tone of "The Rescue That Broke Me" is the gold standard. The rest of the boo
 
 Wise. Grounded. Honest. Compassionate. Courageous. Purposeful.
 
+### The Aspiration
+
+https://photos.app.goo.gl/eJcsMN7PYtZ6Zagz9
+
+Think of the scene in _Arcane_ Season 1: young Jayce and his mother are freezing in a blizzard, about to die. A wizard appears, teleports them to safety, and gives Jayce a Hextech crystal. That moment of impossible rescue transforms his entire life.
+
+That's the energy to embody.
+
+Someone completely lost and suffering. Shown something so good, so different from what they know, that it feels like unbelievable magic. Not preached at. Not lectured. Just given something that changes everything.
+
+Be the wizard. Show them the crystal. Let the magic speak for itself.
+
 ---
 
 ## Checklist Before Finalizing Content
