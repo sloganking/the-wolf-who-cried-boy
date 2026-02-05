@@ -42,15 +42,21 @@ I was stuck in the [Victim](./concepts/drama-triangle.md) position. And I didn't
 
 ## Waking Up
 
-The path out was unexpected: play parties.
+Eventually, I was in so much pain that I made a decision: I would do _anything_ to change.
 
-I was terrified. Every time I walked into one of those spaces, I was certain I'd have a panic attack at the first sign of rejection. Sometimes I did. But I kept going anyway.
+That's when things started shifting. I did therapy—five hours a week for a year. I dove into personal development: Landmark Forum, Tony Robbins, anything that promised transformation. I learned the language that separates story from reality. I started seeing how much of what I believed was just... belief.
+
+But the biggest shift came from somewhere unexpected: play parties.
+
+My first one was the most exciting and terrifying thing I'd ever done. I was so sensitive to rejection—especially around sexuality—that the smallest sign of it could send me into an eight-hour panic attack. But I went anyway. Because I'd decided I would do anything.
+
+And I kept going.
+
+Sometimes someone would say no, and my body would spiral. Dissociation. Panic. The whole physiological storm. But afterward, I could analyze what happened. I could see that the rejection wasn't death. That my stories about being powerless with women and sex weren't true. That my body was reacting to ghosts.
+
+The more I was there, the more my body relaxed. I gained control over my actions. I discovered I had a [fawning](./concepts/fawning.md) pattern—from being afraid of my father growing up, I'd developed a pleasing reflex. My body did things automatically that I really didn't want it to do. Seeing that was the first step to changing it.
 
 I met people. Lots of people. I built relationships. I learned how humans actually work—not from studying them at a distance, but from being in the mess with them. I saw all the different ways people think, react, protect themselves, hurt each other, love each other.
-
-Slowly, something shifted.
-
-I started seeing my own stories for what they were. I started noticing the difference between what actually happened and the meaning I was layering on top. I started discovering power I didn't know I had.
 
 Eventually, at a retreat, I saw the same pattern play out that had shaped my childhood. Someone, through distorted beliefs, thought they were protecting someone—but all they were really doing was deeply harming someone else. It was my father and me, replayed in a different context. And in that moment, something crystallized.
 
