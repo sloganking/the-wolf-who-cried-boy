@@ -4,6 +4,21 @@
 
 ---
 
+## A Note on Context
+
+Not all facilitation looks the same. There's a spectrum:
+
+- A **seven-day transformation retreat** where deep work happens and you're guiding people through life-changing experiences
+- A **weekend workshop** mixing education with exploration
+- A **one-night play party** where you're primarily holding safety
+- A **casual gathering** with minimal structure and a loose host
+
+This page is written for the deep end—because that's where the stakes are highest and the principles matter most. But the core ideas scale down. Even a casual host benefits from understanding [Rescuer dynamics](./why-rescuers-are-dangerous.md), [proportional response](./appropriate-response.md), and not [fawning](./fawning.md) when things get uncomfortable.
+
+Take what's relevant to your context. The deeper the container you hold, the more of this applies.
+
+---
+
 ## A Note on Severity
 
 Facilitating sex-positive events is **higher severity** than most other facilitation work.
