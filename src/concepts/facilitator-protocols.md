@@ -706,6 +706,34 @@ If yes, you're walking your talk.
 
 If no, your words are just noise. And your participants will learn from your actions instead.
 
+### When the Facilitator Fawns
+
+Here's the worst version of this gap:
+
+**A facilitator who knows the truth but doesn't speak it out of fear.**
+
+I've seen this happen. Facilitators—and sometimes their staff—who believed something should be handled one way, but were afraid. Afraid of confrontation. Afraid of backlash. Afraid of losing participants or reputation. So they acted out the *opposite* of what they believed should be done.
+
+They didn't tell their truth about how things should be handled. They *showed* everyone the opposite.
+
+The damage cascades:
+
+**Participants learn the wrong lesson.** They watched how the facilitator handled the situation and assumed *that's how it should be handled.* They left the retreat with their harmful beliefs reinforced—beliefs the facilitator knew were wrong but was too afraid to challenge.
+
+**Participants were deprived of clarity.** The facilitator had an opportunity to show them a hard truth. A truth that didn't fit their comfortable story. A truth that, if they'd actually received it, would have let them take a hard look at their assumptions—and might have been the singular life-changing lesson of that retreat.
+
+**The harm propagates.** Those participants go home with their [Rescuer beliefs](./why-rescuers-are-dangerous.md) intact. They continue causing harm to everyone around them. They pass the beliefs to others. All because one person—the person in the room with the most influence—was too afraid to show them something different.
+
+When a participant [fawns](./fawning.md), they harm themselves and maybe one other person. When a facilitator fawns, they fail every participant who was looking to them for clarity. It's a force multiplier.
+
+**You are the person in the room with the most influence.** Participants—and even your staff—are impressionable. They look to you for clarity about what's true and how things should be handled. They form their own beliefs based on what you *show*, regardless of what you tell or don't tell.
+
+Are you going to be the reason your participants see clearly from this day forward? The reason they become a value-adding presence to everyone they interact with?
+
+Or are you going to be part of the reason they stay stuck in a false story—one that brings continuing suffering to them and everyone around them?
+
+Most people act from fear. Most people aren't clear-seeing enough to know what should be done. But you can be the one who shows them something they can never forget. In a way that possibly only you can.
+
 ---
 
 ## This Is Your Integrity
