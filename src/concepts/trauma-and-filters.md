@@ -283,6 +283,24 @@ Wait until the fear subsides. Come back to it with a clear mind and well-adjuste
 
 If you can't wait—if action is required immediately—at least acknowledge: _"I'm acting from fear right now. I might be wrong about what I'm seeing."_ That acknowledgment alone creates a small gap between stimulus and response. And sometimes that gap is enough to prevent harm.
 
+### You Become the Thing You Fear
+
+Here's the pattern this book keeps showing you:
+
+Someone causes harm—through an unconscious mistake or a harmful belief. You see the harm. You get afraid. You assume it was intentional. You assume they're selfish, malicious, dangerous. You label them a predator. You attack.
+
+**But they weren't a predator. They were confused, unconscious, or operating on a bad belief.** And now you're causing harm through *your* harmful belief—the belief that they were evil. You're doing the exact thing you were afraid of.
+
+The Inquisitor feared heretics destroying civilization—so he destroyed lives. The Rescuer feared a predator in the community—so she destroyed a reputation. The parent feared their child wouldn't be strong enough to survive a harsh world—so they [became the harsh world](../origin.md).
+
+Every one of them became the harm they were trying to prevent. Not despite their fear—*because* of it. Fear drove them to act without verification, without proportionality, without seeing clearly. And the actions they took in that state caused more damage than the thing they were afraid of.
+
+**This is the central warning of this book:** Your fear of harm is itself the most likely source of harm. The thing you're trying to prevent is the thing you'll create—if you let fear drive your actions.
+
+The Inquisitor didn't wake up and decide to be evil. He woke up afraid. And fear did the rest.
+
+---
+
 ## Sex Is Politics
 
 Here's something that explains why people are so bad at seeing clearly in these spaces:
