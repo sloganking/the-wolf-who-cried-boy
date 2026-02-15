@@ -34,6 +34,12 @@ The word "predator" collapses all of this into one label. It assigns the worst p
 
 If you call someone a predator and they don't deserve it—if you destroy their reputation, mobilize others against them, treat an accident like malice—then you're the one doing the predating. You've become the very thing you accused them of being.
 
+And here's the part that should stop you cold: **you're doing the exact same thing they did.** They caused harm—through a harmful belief or unconscious mistake. Now you're causing harm—through your harmful belief that they're a predator, without having done due diligence to determine the truth. You're harming someone because of *your* unexamined story, while demanding *they* be punished for theirs.
+
+The only difference? You've claimed moral authority. You think you're justified. You don't see your mistake.
+
+That's the pattern. That's how [you become the thing you fear](./trauma-and-filters.md#you-become-the-thing-you-fear).
+
 ## By Intent
 
 | Type          | Description                  | Response                              |
