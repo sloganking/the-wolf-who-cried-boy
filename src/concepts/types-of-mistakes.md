@@ -32,6 +32,8 @@ The word "predator" collapses all of this into one label. It assigns the worst p
 
 **This is why TYPE matters.** The same action can be malicious or accidental—and the appropriate response is completely different. Get the type wrong, and you become the source of harm.
 
+If you call someone a predator and they don't deserve it—if you destroy their reputation, mobilize others against them, treat an accident like malice—then you're the one doing the predating. You've become the very thing you accused them of being.
+
 ## By Intent
 
 | Type          | Description                  | Response                              |
