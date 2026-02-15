@@ -16,7 +16,21 @@ A LOW or MEDIUM severity accident. Met with a HIGH severity response designed fo
 
 **The person who made the mistake wasn't the predator. The person who responded became one.**
 
-This is why TYPE matters. The same action can be malicious or accidental—and the appropriate response is completely different. Get the type wrong, and you become the source of harm.
+### A Note on the Word "Predator"
+
+When someone says "predator," the listener assumes intentional malice. Someone evil. Someone selfish. Someone who *chose* to cause harm for their own gratification.
+
+But the vast majority of the time, that's not what happened.
+
+Most of the time, the person who caused harm was operating on a **harmful belief**—they thought what they were doing was okay, or necessary, or even good. A smaller but significant portion were simply **unconscious**—accidents, autopilot, a moment of inattention.
+
+Genuine malice—someone who consciously chose to cause harm for selfish or evil reasons—is vanishingly rare.
+
+Even when there's malice mixed in—when someone indulged their anger and went too far—there's usually a harmful belief fueling it. They weren't purely evil. They were confused, reactive, carried by a story, and slipped into causing more harm than they would have chosen from a clear state.
+
+The word "predator" collapses all of this into one label. It assigns the worst possible intent before any investigation has happened. It's a [story](./trauma-and-filters.md) dressed up as a fact. And once that label sticks, due process is over—because who needs due process for a "predator"?
+
+**This is why TYPE matters.** The same action can be malicious or accidental—and the appropriate response is completely different. Get the type wrong, and you become the source of harm.
 
 ## By Intent
 
