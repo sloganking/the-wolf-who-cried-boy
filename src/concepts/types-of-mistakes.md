@@ -32,9 +32,9 @@ The word "predator" collapses all of this into one label. It assigns the worst p
 
 **This is why TYPE matters.** The same action can be malicious or accidental—and the appropriate response is completely different. Get the type wrong, and you become the source of harm.
 
-If you call someone a predator and they don't deserve it—if you destroy their reputation, mobilize others against them, treat an accident like malice—then you're the one doing the predating. You've become the very thing you accused them of being.
+If you call someone a predator and they don't deserve it—if you attack their reputation, mobilize others against them, treat an accident like malice—then you're the one doing the predating.
 
-And here's the part that should stop you cold: **you're doing the exact same thing they did.** They caused harm—through a harmful belief or unconscious mistake. Now you're causing harm—through your harmful belief that they're a predator, without having done due diligence to determine the truth. You're harming someone because of *your* unexamined story, while demanding *they* be punished for theirs.
+They caused harm through a harmful belief or unconscious mistake. Now you're causing harm through *your* harmful belief—that they're a predator—without having done due diligence to determine the truth. You're harming someone because of your unexamined story, while demanding they be punished for theirs.
 
 The only difference? You've claimed moral authority. You think you're justified. You don't see your mistake.
 
