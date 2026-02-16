@@ -280,6 +280,20 @@ The person who was called a predator—the one who made an unconscious mistake o
 
 No predator was ever present. But the trauma fed itself, proved itself, and grew. The shadow on the wall was a kitten and a candle. But everyone left believing it was a tiger.
 
+### When the Room Splinters
+
+Here's a signal that stories are running:
+
+**Something happens, and the room can't agree on what it was.**
+
+Half the people are screaming predator. Others say it was nothing. Some have a different take entirely but aren't speaking up because they're afraid of the loudest voices. Emotions are high. Narratives are competing. The loudest story—usually the scariest one—dominates.
+
+This disagreement isn't evidence that the truth is somewhere in the middle. It's evidence that almost no one is looking at reality yet. They're reacting from their own filters, their own trauma, their own stories about what "must have" happened.
+
+The person closest to reality in that moment will be the one asking questions. Not jumping to conclusions. Not making assumptions in panicked urgency. Just asking: *What actually happened here?*
+
+If everyone paused and genuinely investigated—talked to primary sources, separated [notice from story](../tools/notice-feel-story.md), verified before acting—they'd converge. Because reality is one thing. When people are seeing wildly different things, it's not because reality is complicated. It's because stories are running.
+
 ### The Invitation
 
 When you notice yourself certain about what happened—certain about who's wrong, who's a threat, who's the victim—pause and ask:
