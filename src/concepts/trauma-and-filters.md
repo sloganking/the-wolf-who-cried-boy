@@ -260,6 +260,26 @@ This is how witch hunts form. Not from evidence, but from collective attention s
 
 **This is why [verification matters](./before-you-judge.md).** The first story isn't evidence. It's a trigger that changes what everyone is looking for. And what they find afterward is contaminated by what they were primed to see.
 
+### The Self-Reinforcing Cycle
+
+Here's where it gets truly insidious:
+
+Imagine a room where there are no predators. None. Everyone present has good intentions.
+
+Someone with trauma around predators sees a shadow on the wall—an ambiguous touch, an awkward moment, a misread signal. Their body reacts: *predator.* They sound the alarm.
+
+Now the room shifts. Everyone's RAS activates. People start scanning for threats. Someone fawns and apologizes—not because they did anything wrong, but because they're afraid. The apology looks like a confession. Others see the "confession" and think: *See? There really was a predator.*
+
+The event ends. Everyone goes home with the same story: *There was a predator in the room. It was terrifying. I need to be more vigilant next time.*
+
+**But there was no predator.**
+
+The trauma created a predator that wasn't there. The collective reaction created "evidence" that confirmed the story. And now everyone's trauma is *stronger*—more certain that predators are everywhere, more primed to see them next time, more likely to create the same cycle again.
+
+The person who was called a predator—the one who made an unconscious mistake or did nothing wrong at all—is the one who suffered the most real harm. And even the bystanders who just watched are now carrying reinforced fear that will distort their perception in every future space they enter.
+
+No predator was ever present. But the trauma fed itself, proved itself, and grew. The shadow on the wall was a kitten and a candle. But everyone left believing it was a tiger.
+
 ### The Invitation
 
 When you notice yourself certain about what happened—certain about who's wrong, who's a threat, who's the victim—pause and ask:
