@@ -30,7 +30,7 @@ When you cross a boundary for one second at a play party before catching yoursel
 
 Here's what destroys people in these spaces:
 
-Someone's hand slips. Someone misreads a cue. Someone gets carried away for a moment. It was unconscious, unintentional, immediately regretted.
+Someone's hand slips. Someone misreads a cue. Someone gets carried away for a moment and forgets a boundary. It was unconscious, unintentional, immediately regretted.
 
 And then the response: "Predator." "You need to leave and never come back." Public shaming. Reputation destroyed.
 
