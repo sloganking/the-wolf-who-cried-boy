@@ -51,7 +51,9 @@ But for many women—even those with some direct experience—the *majority* of 
 
 This is [cultural inheritance](../src/concepts/trauma-and-filters.md#where-body-stories-come-from)—fear absorbed from stories, from other women's experiences shared as warnings, from media, from movements that keep attention fixed on danger. When your attention is constantly directed toward how you're prey, that's what you experience—even when it doesn't match your actual life.
 
-Different cultures have vastly different levels of this fear. In some places, women walk freely at night without a second thought. In others, they're taught from childhood that men are dangerous—the fear implanted before they've even had meaningful interactions with men.
+Different cultures have vastly different levels of this fear—and vastly different levels of actual danger. Some places genuinely have higher rates of sexual violence, and in those places, women's vigilance may be well-calibrated to reality. But how much fear a culture carries and how much danger actually exists are two independent variables. A culture can have high fear and low danger. It can have low fear and high danger. The fear doesn't automatically track the reality—as the child abduction data below demonstrates.
+
+In some places, women walk freely at night without a second thought. In others, they're taught from childhood that men are dangerous—the fear implanted before they've even had meaningful interactions with men. Whether that fear matches the actual landscape they live in is a separate question—and one worth asking.
 
 This doesn't make the fear feel less real to the person experiencing it. An [implicit memory](../src/concepts/trauma-and-filters.md#when-the-feeling-comes-first) doesn't come with a label saying "this is cultural, not personal." It just shows up as fear. And the mind builds a story to explain it.
 
