@@ -415,6 +415,20 @@ You're not angry *at* them. You're expressing your own genuine frustration and i
 
 Once they feel received, the energy can come down naturally. Not because you told them to calm down—but because the message finally landed. They don't need to keep escalating because someone heard them.
 
+### A Warning on This Tool
+
+You might think raising your voice at a participant will just make things worse. Often it would. This tool requires attunement.
+
+**The question to ask:** Does this person need to be emotionally matched right now? Or would raising my voice make them feel attacked—like the facilitator just became another threat?
+
+If someone's in full [Rescuer](./why-rescuers-are-dangerous.md) urgency mode—*oh my god, no one is safe, harmful action needs to happen NOW*—matching their intensity can snap them into the present moment. It breaks through the wall that calm can't penetrate.
+
+But if someone is fragile, collapsing, or already terrified—yelling could shatter them further. Read the person, not just the volume.
+
+**This is a deliberate tool, not a loss of composure.** When it works, everyone in the room should be able to see that it was intentional—that you raised your voice to reach someone who couldn't be reached any other way. Not that you lost your temper.
+
+After the situation is resolved and things have calmed down, acknowledge it. Something like: *"I raised my voice earlier because I felt it was the only way to get through in that moment. I'm glad we were able to work through it together."* This signals to everyone—the person you mirrored and every other participant watching—that it was a choice, not a breakdown.
+
 ### The Sequence
 
 1. **Start with groundedness.** Your calm conviction is your strongest tool. Most activated people will settle when they encounter someone who is genuinely grounded.
