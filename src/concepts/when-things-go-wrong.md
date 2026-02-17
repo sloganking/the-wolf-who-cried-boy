@@ -393,19 +393,27 @@ Most of the time, this is enough.
 
 ### When Calm Makes It Worse
 
-Sometimes your calm makes an activated person feel *more* unheard. They're screaming, and you're calm, and to them it feels like you don't understand the severity. Like you're not taking them seriously. They escalate.
+Sometimes your calm makes an activated person feel *more* unheard. They're screaming, and you're calm, and to them it feels like you don't understand the severity. Like you're not taking them seriously. Like nothing is wrong and nobody cares.
+
+Here's what happens in their head: *"Nobody is hearing me. Nobody recognizes the urgency. I need to communicate louder."*
+
+So they escalate. They get more volatile. More demanding. More desperate. They're going to communicate urgency until they feel like their message has been received. And if it's not being received, they'll just communicate it more loudly. They won't stop until someone demonstrates that they actually get it.
+
+Telling them to calm down makes it worse. Being calm makes it worse. Everything that signals "this isn't urgent" makes them feel more alone and more desperate to be heard.
 
 When this happens, switch tools: **emotional mirroring.**
 
-Match their energy. Not to escalate—to make them feel received.
+Match their energy. Not to agree with their story—to show them you *feel* the intensity of what they're going through.
 
-If they're at a 9, meet them at a 7. Show them you feel the weight of what they're experiencing. Not agreeing with their story—but acknowledging the intensity of what they're going through.
+This doesn't look polished. It doesn't sound like a facilitator. It sounds like a human being who's had enough.
 
-Something like: *"I hear you. This is serious to me too. I am taking this seriously, and I need you to work with me so I can handle it."*
+It looks like stepping completely out of your normal facilitator tone and *yelling back:*
 
-When someone who's panicking feels met—feels like the person in charge actually registers the urgency they feel—their nervous system can start to settle. They're no longer screaming into a void. Someone received them.
+**"I'VE BEEN HERE SINCE 7AM. I'M EXHAUSTED. I DON'T WANT THIS SITUATION ANY MORE THAN YOU DO. BUT I'M HERE AND I'M FUCKING DEALING WITH IT."**
 
-Once they feel received, you can guide the energy down together. From 7 to 5. From 5 to 3. Until you're both in a state where actual communication can happen.
+You're not angry *at* them. You're expressing your own genuine frustration and intensity at the situation. You're meeting them where they are emotionally—not from above, not from calm facilitator mode, but from the same raw, human place they're in. When they see that someone is at their level of intensity—that someone is actually *feeling* the weight of the situation—their nervous system can start to settle. They're no longer screaming into a void. Someone received them.
+
+Once they feel received, the energy can come down naturally. Not because you told them to calm down—but because the message finally landed. They don't need to keep escalating because someone heard them.
 
 ### The Sequence
 
