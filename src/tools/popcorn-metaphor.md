@@ -30,7 +30,7 @@ This happens in sacred sexuality temples and play parties too.
 
 When you burn popcorn, people understand. "Oh, you weren't paying attention."
 
-When an accident happens at a play party, our culture has so much trauma and sensitivity around sexuality that the mistake is often not seen kindly.
+When you cross a boundary for one second at a play party before catching yourself, our culture has so much trauma and sensitivity around sexuality that the mistake is often not seen kindly.
 
 ## What Happens
 
