@@ -69,7 +69,7 @@ Every participant now knows:
 - Intimidation works
 - They are not safe here
 
-**This is the opposite of walking your talk.** You said threats of violence result in removal—but you removed the *victim* of those threats instead. You said mistakes are protected—but you punished the mistake-maker. You taught everyone that your values crumble under pressure.
+**This is the opposite of walking your talk.** You removed the person who made an honest mistake—and kept the person making threats. You punished vulnerability and rewarded intimidation. Whether you stated your values publicly or not, your actions taught everyone in the room what you actually stand for.
 
 ### This Is Exactly When the Promise Matters
 
