@@ -101,7 +101,7 @@ If you're a woman in these spaces, here's what you may not see:
 - The man across from you may be acutely aware that a single accusation—true or not—could end his career, his reputation, and his access to community
 - His defensiveness may not be guilt—it may be fear of a system that presumes his guilt
 - What feels like him "not taking responsibility" might be him protecting himself from consequences that don't match what actually happened
-- He's not necessarily being dismissive—he may be genuinely terrified of what an accusation means for his life
+- If he seems shut down or cold when you're telling him he hurt you, he may not be dismissing your pain—he may be in his own fear response, calculating whether this conversation ends with him being publicly labeled a predator
 
 **Neither person is seeing the full picture.** Both are touching different parts of the elephant. Both vulnerabilities are real. And both are invisible to the other—because [fear narrows attention](../src/concepts/trauma-and-filters.md#stories-control-attention) to the threat *you* can see.
 
