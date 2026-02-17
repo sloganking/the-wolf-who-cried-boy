@@ -374,7 +374,45 @@ _[Section in development: Protocol for when a participant reports an incident]_
 
 ## De-escalation
 
-_[Section in development: What to do when someone is activated]_
+When someone is activated—screaming, accusing, panicking—you need tools to bring them back to a state where communication is possible.
+
+### Groundedness Is Contagious
+
+Your first tool is your own state.
+
+If someone is screaming "predator!" and you're calm, centered, and certain the situation is being handled—not dismissive, not minimizing, but genuinely grounded—it creates a force that makes them question their certainty.
+
+> **Anyone ever been around somebody that just believes balls-to-bones something that you think is batshit crazy? So much so that you start to question what you believe? That's what real conviction does.**  
+> — _Alex Hormozi_
+
+This works in reverse too. If you believe—with deep, embodied conviction—that the situation is not what they think it is, that calm conviction transfers. They feel it. It doesn't argue with their story. It just sits there, solid, and their certainty starts to waver.
+
+This isn't about being dismissive or pretending nothing happened. It's about being so grounded in your assessment of the situation that your presence itself communicates: *I hear you. I see what happened. And this is not the emergency you think it is.*
+
+Most of the time, this is enough.
+
+### When Calm Makes It Worse
+
+Sometimes your calm makes an activated person feel *more* unheard. They're screaming, and you're calm, and to them it feels like you don't understand the severity. Like you're not taking them seriously. They escalate.
+
+When this happens, switch tools: **emotional mirroring.**
+
+Match their energy. Not to escalate—to make them feel received.
+
+If they're at a 9, meet them at a 7. Show them you feel the weight of what they're experiencing. Not agreeing with their story—but acknowledging the intensity of what they're going through.
+
+Something like: *"I hear you. This is serious to me too. I am taking this seriously, and I need you to work with me so I can handle it."*
+
+When someone who's panicking feels met—feels like the person in charge actually registers the urgency they feel—their nervous system can start to settle. They're no longer screaming into a void. Someone received them.
+
+Once they feel received, you can guide the energy down together. From 7 to 5. From 5 to 3. Until you're both in a state where actual communication can happen.
+
+### The Sequence
+
+1. **Start with groundedness.** Your calm conviction is your strongest tool. Most activated people will settle when they encounter someone who is genuinely grounded.
+2. **If they escalate because they feel unheard,** switch to emotional mirroring. Meet their energy, show them you take it seriously.
+3. **Once they feel received,** guide the energy down gradually.
+4. **Only then** begin the actual conversation about what happened.
 
 ---
 
