@@ -349,7 +349,7 @@ The harm was real. And now you have information you didn't have before. You know
 
 ### Why Mistakes Are Necessary
 
-> **"Goodness without wisdom always accomplishes evil."**  
+> **"But goodness alone is never enough. A hard cold wisdom is required for goodness to accomplish good. Goodness without wisdom always accomplishes evil."**  
 > — _Robert A. Heinlein, Stranger in a Strange Land_
 
 You can have a pure heart and the best of intentions—and still cause harm. That's not a character flaw. That's what happens when wisdom hasn't caught up to goodness yet.
