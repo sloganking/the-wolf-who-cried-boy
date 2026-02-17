@@ -466,10 +466,10 @@ But when trauma is stored in the body, the chain can run differently:
   │ EXPERIENCE │─────►│  FEELINGS  │─────►│  CONSCIOUS     │─────►│ MORE         │
   │            │      │            │      │  STORY         │      │ FEELINGS     │
   │ What       │      │ Fear,      │      │                │      │              │
-  │ actually   │      │ anger,     │      │ "Why do I feel │      │ Now you're   │
-  │ happened   │      │ dread—     │      │  this way?     │      │ reacting to  │
-  │            │      │ arriving   │      │  They must be  │      │ the story,   │
-  │            │      │ instantly  │      │  dangerous."   │      │ not reality  │
+  │ actually   │      │ anger,     │      │ The feeling    │      │ Now you're   │
+  │ happened   │      │ dread—     │      │ needs a cause, │      │ reacting to  │
+  │            │      │ arriving   │      │ so your mind   │      │ the story,   │
+  │            │      │ instantly  │      │ builds one     │      │ not reality  │
   └────────────┘      └────────────┘      └────────────────┘      └──────────────┘
 ```
 
@@ -477,25 +477,21 @@ Notice the difference. In the normal path, the story comes first and generates t
 
 This is what psychologists call an **implicit memory.** It's a memory stored in your body that you don't experience as a memory. It doesn't come with a flashback or a "this reminds me of..." It just shows up as an emotion. Fear. Dread. Disgust. Rage. It feels like a response to *right now*—because you have no awareness that it's coming from *back then.*
 
-And here's the critical part: **your conscious mind doesn't know the feeling is from the past.** So it does what minds do—it looks at the present situation and constructs an explanation.
-
-You feel afraid around someone. Your mind asks: *Why am I afraid?* And it looks at what's in front of you and builds a story: *They must be dangerous. They must have bad intentions. Something is wrong here.*
-
-The story feels like perception. It feels like you're reading the situation accurately. But you're not reading the situation at all—you're reading the feeling, and then projecting a cause onto whatever's in front of you.
+And here's the critical part: **your conscious mind doesn't know the feeling is from the past.** It doesn't say to itself, "Why am I feeling this way?" and deliberately reason through it. It's far more automatic than that. The feeling arrives, and your mind *instantly* constructs a cause—so fast that the story feels like perception. You don't experience yourself making up an explanation. You just *see* the person in front of you as dangerous. It feels like you're reading the situation. But you're reading the feeling, and projecting a cause onto whatever's in front of you.
 
 **Example:**
 
-Someone has unprocessed trauma involving men. They don't know it's there—or they think they've dealt with it. They're at a play event.
+Years ago, someone had a frightening experience with a man. Maybe he violated a boundary. Maybe he used his size to intimidate. Maybe something worse. Whatever happened, the fear got stored—not as a narrative they can recall, but as a body pattern. A template. *Man + certain traits + certain context = danger.*
 
-A man makes an innocent mistake. He bumps into someone. He misreads a signal. Something minor—the kind of thing that happens to everyone.
+They've moved on. Maybe they've even done therapy. They don't walk around thinking about it.
 
-The implicit memory fires. Fear floods this person's body. Not because of what the man *did*—but because the combination of "man" and "mistake" matched the pattern stored in their nervous system.
+Now they're at a play event. A man is there—maybe he's tall, maybe he has a deep voice, maybe he carries himself with a kind of confidence that happens to pattern-match. He makes an innocent mistake. He bumps into someone. He misreads a signal. Something minor—the kind of thing that happens to everyone.
 
-They don't think: *"Oh, this feeling is from my past trauma."* They don't have that awareness. The feeling just *is.* It feels like it belongs to right now.
+The implicit memory fires. The body recognizes the pattern—*man, physicality, mistake*—and the old fear floods in. Not because of what this man *did*, but because the situation looks enough like the original one to trigger the stored response.
 
-So their conscious mind goes to work: *Why do I feel this afraid? He must be more dangerous than he looks. That "mistake" was probably intentional. He's testing boundaries. He's a predator.*
+They don't think: *"Oh, this feeling is from my past trauma."* They don't have that awareness. The feeling just *is.* It feels like it belongs to right now. They look at this man and feel afraid, and the fear feels *caused by him*—because what else would it be caused by?
 
-None of that is necessarily true. But the feeling is real, and the mind needs a story to explain a real feeling. So it builds one. And the story it builds makes the man look like exactly the kind of threat that the original trauma was about.
+And so their perception shifts. That innocent mistake doesn't look so innocent anymore. His confidence looks like arrogance. His physical presence looks like a threat. The "accident" looks intentional. None of this is a deliberate thought process. It's instant. The feeling came first, and the meaning arranged itself around the feeling—automatically, invisibly, convincingly.
 
 Now they're reacting to the story—not the situation. And the story was generated *by* the feeling, which was generated *by* the implicit memory, which has nothing to do with the person standing in front of them.
 
