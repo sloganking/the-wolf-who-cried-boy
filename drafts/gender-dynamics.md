@@ -47,15 +47,15 @@ And it means something for these spaces: **the fact that places exist—play par
 
 Some of it is earned. Some women have had direct experiences with men who caused real harm. That fear is legitimate.
 
-But for many women—even those with some direct experience—the *majority* of their fear doesn't come from what has actually happened to them. It comes from what they've been taught to expect.
+But for many women—even those with some direct experience—much of their fear doesn't come from what has actually happened to them. It comes from what they've been taught to expect.
 
 This is [cultural inheritance](../src/concepts/trauma-and-filters.md#where-body-stories-come-from)—fear absorbed from stories, from other women's experiences shared as warnings, from media, from movements that keep attention fixed on danger. When your attention is constantly directed toward how you're prey, that's what you experience—even when it doesn't match your actual life.
 
-Different cultures have vastly different levels of this fear—and vastly different levels of actual danger. Some places genuinely have higher rates of sexual violence, and in those places, women's vigilance may be well-calibrated to reality. But how much fear a culture carries and how much danger actually exists are two independent variables. A culture can have high fear and low danger. It can have low fear and high danger. The fear doesn't automatically track the reality—as the child abduction data below demonstrates.
+Different cultures have vastly different levels of this fear—and vastly different levels of actual danger. In some places, women walk freely at night without a second thought. In others, they're taught from childhood that men are dangerous—the fear implanted before they've even had meaningful interactions with men.
 
-In some places, women walk freely at night without a second thought. In others, they're taught from childhood that men are dangerous—the fear implanted before they've even had meaningful interactions with men. Whether that fear matches the actual landscape they live in is a separate question—and one worth asking.
+And regardless of culture, there's a baseline vulnerability that doesn't go away: women face the physical reality of rape and sexual assault in a way that men almost never do. That's not cultural programming. That's a genuine asymmetry in what's at stake when things go wrong. If you're a man trying to understand why a woman seems more afraid than the situation warrants, start here—she's carrying a weight you've probably never had to feel.
 
-This doesn't make the fear feel less real to the person experiencing it. An [implicit memory](../src/concepts/trauma-and-filters.md#when-the-feeling-comes-first) doesn't come with a label saying "this is cultural, not personal." It just shows up as fear. And the mind builds a story to explain it.
+This doesn't make the fear feel less real to the person experiencing it—whether it's earned, inherited, or some mix of both. An [implicit memory](../src/concepts/trauma-and-filters.md#when-the-feeling-comes-first) doesn't come with a label saying "this is cultural, not personal." It just shows up as fear. And the mind builds a story to explain it.
 
 ### Fear vs. Reality: A Pattern We Can Prove
 
