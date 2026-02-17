@@ -409,6 +409,30 @@ Someone makes an innocent mistake, and your body screams "PREDATOR!" Someone ask
 
 The experience is new. But you're reacting to an old story.
 
+### Trauma Lives in the Body, Not the Mind
+
+If you think these patterns are purely intellectual—that you can think your way out of them—you'll never solve them.
+
+In *My Grandmother's Hands*, Resmaa Menakem makes this point about racism: it's not a problem of the mind. It's a trauma stored in the body. When someone with that body story sees a Black person, they don't consciously decide to feel afraid. Their body reacts—muscles tense, heart rate spikes, threat detection activates—before any conscious thought occurs.
+
+Here's an example from the book that shows exactly how this plays out:
+
+A crime occurred. A police officer arrived on scene. A Black man was present—he may have even been the one who called the police. He'd done nothing wrong. But when the officer arrived, the Black man immediately got on the ground, lowered his head, and put his arms above his head. He was afraid of the cop and wanted to show he wasn't a threat.
+
+The officer shot him. Multiple times. Hit him in the leg.
+
+The Black man called out: *"Why did you shoot me?"*
+
+The officer paused. Then answered: *"I don't know."*
+
+**"I don't know."** That's not intellectual racism. That's a body story firing. The officer's trauma response activated—something about the situation triggered "threat"—and his body acted before his conscious mind could intervene. When his conscious mind caught up, it had no explanation. Because there wasn't one. It was automatic.
+
+And notice the [fawning](./fawning.md) parallel: the Black man's fear response—getting on the ground, making himself small—may have been the very thing that triggered the officer's body story. His submission looked like guilt. His fear looked like evidence. The fawning created the outcome it was trying to prevent.
+
+This is the same dynamic described throughout this book. Someone [fawns](./fawning.md), and their appeasement gets interpreted as a confession. Someone acts afraid, and their fear gets interpreted as evidence of wrongdoing. The body story creates the behavior that confirms the other person's body story.
+
+This isn't about racism specifically. Racism is one manifestation of a universal pattern: **trauma stored in the body causes automatic reactions that harm people—and the person causing harm often can't explain why they did it.** Because it wasn't a decision. It was a reflex.
+
 ### How Subtle Stories Create Real Problems
 
 Here's what makes this tricky: **you might not even know your story exists.**
