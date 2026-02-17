@@ -481,9 +481,9 @@ And here's the critical part: **your conscious mind doesn't know the feeling is 
 
 **Example:**
 
-Years ago, someone had a frightening experience with a man. Maybe he violated a boundary. Maybe he used his size to intimidate. Maybe something worse. Whatever happened, the fear got stored—not as a narrative they can recall, but as a body pattern. A template. *Man + certain traits + certain context = danger.*
+Someone has a body pattern around men. Maybe it came from a direct experience—a man who violated a boundary, who used his size to intimidate, or worse. Or maybe nothing like that ever happened to them personally. Maybe they grew up in a culture, a family, a community that constantly reinforced: *Men are dangerous. Predators are everywhere. Here's what predators look like—they do these kinds of things, they act this way, they go to these kinds of places.* The message got absorbed. Not as a belief they can articulate and examine, but as a body-level template. *Man + certain traits + certain context = danger.*
 
-They've moved on. Maybe they've even done therapy. They don't walk around thinking about it.
+Either way, the result is the same: fear stored in the body. They may not even know it's there. They don't walk around thinking about it.
 
 Now they're at a play event. A man is there—maybe he's tall, maybe he has a deep voice, maybe he carries himself with a kind of confidence that happens to pattern-match. He makes an innocent mistake. He bumps into someone. He misreads a signal. Something minor—the kind of thing that happens to everyone.
 
