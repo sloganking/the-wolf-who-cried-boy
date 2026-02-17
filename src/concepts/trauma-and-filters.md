@@ -501,6 +501,22 @@ Not because someone is lying. Not because they're malicious. But because their b
 
 This doesn't mean every feeling is an implicit memory. Sometimes fear is a signal that something is genuinely wrong. The point isn't to dismiss your emotions—it's to recognize that **not every feeling is about what's happening right now.** Some feelings are echoes. And if you can't tell the difference, you will hurt people who don't deserve it while being absolutely convinced you're protecting yourself.
 
+### Where Body Stories Come From
+
+Body stories don't always start with your own experience. There are at least three ways fear gets stored in your body:
+
+**1. Direct experience.** Something happened to *you*. A man violated your boundary. A woman betrayed your trust. You were in a situation where you felt genuinely unsafe. Your body stored the pattern: *this type of person / this type of situation = danger.* This is the one most people think of when they hear "trauma."
+
+**2. Secondhand transmission.** Something happened to someone close to you—or they *told* you it did. Your mother was hurt by a man, and she raised you with the message: *Men are dangerous. Don't trust them. Here's what they do.* You absorbed her fear as your own. You never had the experience yourself, but your body stored it as if you did. Her story became your body story.
+
+**3. Cultural inheritance.** The fear goes so far back that nobody you know has the direct experience either. It's just *what everyone believes.* An entire community, religion, or culture teaches that a certain type of person is dangerous—predators are everywhere, those people are all criminals, the outside world is full of rapists and murderers. You grow up marinating in this fear. It seeps into your nervous system not through any single moment, but through thousands of small messages over years. By the time you're an adult, the fear feels as real and as *yours* as if you'd lived through something terrible. But you didn't. Nobody you know did. The story just... propagated.
+
+All three produce the same result: an implicit memory that fires when the pattern matches. Your body doesn't distinguish between fear you earned and fear you inherited. It all feels the same from the inside.
+
+**The self-check:** If you're deeply afraid of something you've never actually encountered—if the fear is intense but you can't point to a direct experience that caused it—that's a signal. It doesn't mean the fear is "fake." It means the fear may have been *given* to you rather than *earned* by you, and the story underneath it deserves examination rather than automatic trust.
+
+And here's the trap: even when you finally *do* encounter the thing you've been taught to fear, your [RAS](#the-horror-movie-effect) is already primed. You walk in scanning for confirmation. You find it—not because the danger is real, but because [that's what you're looking for](#when-every-rustle-is-a-wolf). Your first real encounters *reinforce* the inherited story instead of challenging it, and now the cultural fear has "evidence." This is the same dynamic described in [The Predator That Was Never There](#the-predator-that-was-never-there)—except the priming didn't come from a single accusation. It came from a lifetime of messaging.
+
 ### How Subtle Stories Create Real Problems
 
 Here's what makes this tricky: **you might not even know your story exists.**
