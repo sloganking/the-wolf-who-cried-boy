@@ -30,6 +30,14 @@ It's seeing that the person in front of you—the one who seems like a threat—
 
 If enough people learned to do this—to see through their stories, to respond to reality instead of fear, to treat confused people as confused instead of evil—that would change the world. Not as a slogan. As a practice.
 
+It's easy to call someone brother or sister in a ritual. It's easy to say you're committed to love and transformation when everything is going well. The test is what happens at the drop of a hat—when someone makes a mistake, when your stories activate, when your fear says *monster* and your body wants to fight.
+
+If you can't trust each other through that—if the commitment evaporates at the first sign of conflict—then it was never real. It was just a word.
+
+Planetary transformation is nothing more than the commitment to seeing clearly. Checking your stories. Treating every person you interact with as a human being instead of a monster. Even when your childhood wounds scream otherwise. Even when urgency says there's no time. Even when everyone around you is certain they're right.
+
+That's it. That's the whole thing.
+
 ---
 
 ## The Path
