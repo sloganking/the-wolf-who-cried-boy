@@ -4,17 +4,13 @@
 
 ---
 
-## The Teaching Tool
+## The Setup
 
-Start with a question:
-
-> **Raise your hand if you've ever burned popcorn in the microwave.**
+Have you ever burned popcorn in the microwave?
 
 Almost everyone has.
 
-## The Follow-Up
-
-> When you burned the popcorn, was it because you **wanted** to burn it?
+Now: when you burned it, was it because you *wanted* to burn it?
 
 No. It was because you weren't thinking.
 
