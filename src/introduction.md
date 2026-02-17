@@ -155,7 +155,7 @@ That's it. Everything else is detail.
 ## You Will Make Mistakes
 
 > **"Goodness without wisdom always accomplishes evil."**  
-> — _Stranger in a Strange Land_
+> — _Robert A. Heinlein, Stranger in a Strange Land_
 
 Wisdom is demonstrated by action and gained only through personal lived experience. This book will give you knowledge, and when you combine it with your own experiences, it will accelerate how quickly you gain wisdom.
 
