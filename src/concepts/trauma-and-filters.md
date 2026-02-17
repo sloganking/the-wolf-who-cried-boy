@@ -433,7 +433,7 @@ If the Black man had been standing casually—relaxed energy, "Thanks, officer, 
 
 **This is because most communication is nonverbal.** Your words tell someone what to think. Your body tells them how to feel about it. If you say "I got fired today" in a panic, they'll panic with you. If you say "I got fired today" with a smile and ease, they'll feel like it's not a big deal—even though the words are identical.
 
-The Black man's words didn't matter. His body was screaming fear. And the officer's body received that fear and interpreted it as threat.
+The Black man's words didn't matter. His body communicated: *I am afraid of you.* And the officer's body concluded: *He should be afraid of me.* And it came up with its own explanations as to why, a.k.a. they did something wrong, they're the criminal. 
 
 This is the same dynamic described throughout this book. Someone [fawns](./fawning.md), and their appeasement gets interpreted as a confession. Someone acts afraid, and their fear gets interpreted as evidence of wrongdoing. The body story creates the behavior that confirms the other person's body story.
 
