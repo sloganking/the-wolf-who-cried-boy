@@ -179,6 +179,12 @@ The first woman could receive the showing. The second couldn't. To her, any ment
 
 That's why helping is hard. Even when your intent is benevolent, if someone's lens is locked, the help will read as harm.
 
+And here's the deeper irony: **the person stuck in that lens is the most vulnerable to actual manipulation.**
+
+If you can't tell the difference between someone genuinely trying to help you see your power and someone actually manipulating you—if everything looks like manipulation through your filter—then you have no defense against real manipulation. A genuinely clear-seeing person who wanted to take advantage of you could exploit that blind spot easily. You'd be so busy attacking the people trying to help that you'd never see the real threat coming.
+
+The person who cries "manipulator!" at everyone isn't protected. They're exposed. Their filter doesn't keep them safe—it keeps them blind. It keeps them suffering, keeps bad things happening that they don't understand, and they'll call it fate or bad luck or a curse. But it's the filter.
+
 ---
 
 ## Related
