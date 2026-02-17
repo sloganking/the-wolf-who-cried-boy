@@ -501,8 +501,8 @@ Not because someone is lying. Not because they're malicious. But because their b
 
 This doesn't mean every feeling is an implicit memory. Sometimes fear is a signal that something is genuinely wrong. The point isn't to dismiss your emotions—it's to recognize that **not every feeling is about what's happening right now.** Some feelings are echoes. And if you can't tell the difference, you will hurt people who don't deserve it while being absolutely convinced you're protecting yourself.
 
-### Where Body Stories Come From
 
+### Where Body Stories Come From
 It's better for a cat to jump when it sees a cucumber than to not jump when it sees a snake.
 
 This is the evolutionary logic of fear: **the system is biased toward false positives.** The cost of overreacting (jumping at a cucumber) is trivial. The cost of underreacting (ignoring a snake) is death. So your fear system is *designed* to trigger too often. That's not a flaw. In animals, it's a perfect design.
