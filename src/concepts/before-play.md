@@ -16,7 +16,7 @@ Before engaging in play, intimacy, or sex with someone, have a conversation. Not
 
 Let's define what we're trying to create:
 
-> **A "good thing" is an experience where each participant feels good—both during the interaction and afterward—about what happened.**
+> **A "good thing" is an experience where each participant feels good—both during and after the interaction.**
 
 That's the goal. Not just pleasure in the moment—but something you both feel good about afterward.
 
