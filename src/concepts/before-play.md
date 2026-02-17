@@ -79,6 +79,8 @@ Not all couples are equally safe to play with. Ask yourself—and ask THEM:
 - **Have they been non-monogamous for a while?** Or have they been monogamous their whole lives and this is completely new? Someone with years of non-monogamy experience handles things differently than someone trying it for the first time.
 - **Do they have precedent?** If they've played with others before and it went well, they have a track record. If this is new territory, there's higher risk of jealousy, upset, or unexpected reactions.
 - **Is one of them more ready than the other?** Sometimes one partner says they're good with it, but they're not really. Or one partner pressured the other into "being open."
+- **How do they interpret mistakes?** Does either partner lean toward assuming the worst? If one of them carries trauma around sexuality—fear of men, fear of predators, past experiences that make them see threats where there aren't any—a one-second accident could be interpreted as intentional malice. And their response may be disproportionate. This doesn't mean you can't play with them. It means you should know what you're walking into.
+- **Would both partners give you the benefit of the doubt?** It's not just the person you're playing with who matters. If their partner would [cry predator](./types-of-mistakes.md#a-note-on-the-word-predator) over an honest mistake, you need to know that before you're in it.
 
 **Ask explicitly:** "Have you been open and playing with others for a while? Or is non-monogamy new to you?"
 
