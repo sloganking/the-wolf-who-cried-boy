@@ -66,7 +66,7 @@ The war ends when we decide it does. If someone's extending a hand of peace and 
 
 But if you choose differently—if you pause, see clearly, and respond with wisdom instead of fear—you've done something rare. Something most people never manage. Something that ripples outward to every person you interact with for the rest of your life.
 
-**Are you actually committed—or is it pretend?**
+That's the commitment. Not a promise you make once. A choice you make every time it matters.
 
 ---
 
