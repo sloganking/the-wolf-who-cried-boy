@@ -48,7 +48,7 @@ The question is:
 
 ## Film Example: The Iron Giant
 
-[📽️ Watch the clip](https://photos.app.goo.gl/3ZyB4dvqFej34N3p6)
+[📽️ Watch the clip](https://youtu.be/BPvtRdOMzeg?si=cPGZR206wnRQft71)
 
 In this scene, Hogarth pulls out a toy gun. The Iron Giant's automatic defense programming kicks in—lasers fire from his eyes before he can stop himself. He almost kills the child he loves.
 
