@@ -429,6 +429,8 @@ The officer paused. Then answered: *"I don't know."*
 
 And notice the [fawning](./fawning.md) parallel: the Black man's fear response—getting on the ground, making himself small—may have been the very thing that triggered the officer's body story. His submission looked like guilt. His fear looked like evidence. The fawning created the outcome it was trying to prevent.
 
+If the Black man had been standing casually—relaxed energy, "Thanks, officer, glad you're here"—the outcome may have been completely different. The officer would have read a calm person who was there to help, not a threat. But because the Black man was afraid, his body communicated danger to the officer's body. And the officer's body reacted.
+
 This is the same dynamic described throughout this book. Someone [fawns](./fawning.md), and their appeasement gets interpreted as a confession. Someone acts afraid, and their fear gets interpreted as evidence of wrongdoing. The body story creates the behavior that confirms the other person's body story.
 
 This isn't about racism specifically. Racism is one manifestation of a universal pattern: **trauma stored in the body causes automatic reactions that harm people—and the person causing harm often can't explain why they did it.** Because it wasn't a decision. It was a reflex.
