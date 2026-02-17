@@ -78,4 +78,18 @@ That's the commitment. Not a promise you make once. A choice you make every time
 
 ---
 
+## Going Deeper
+
+This book gives you the map. But here's the thing about invisible strings: **they're invisible specifically to *you*.**
+
+You can read every chapter, understand every concept, and still not see the particular patterns running your life—because that's how these patterns work. They don't feel like patterns. They feel like reality. Your filters, your body stories, your implicit memories—they're not hiding in some corner of your mind waiting to be noticed. They *are* the lens you're looking through. You can't see them for the same reason you can't see your own eyes.
+
+That's why this work is hard to do alone.
+
+If you read this book and thought *"I want someone to find my strings"*—if you want help seeing the specific patterns that are shaping your relationships, your reactions, and your life in ways you can't see yourself—I do this work personally.
+
+Reach out: [sloganking.github.io/coaching](https://sloganking.github.io/coaching/)
+
+---
+
 [← Back to Introduction](./introduction.md)
