@@ -403,6 +403,8 @@ Telling them to calm down makes it worse. Being calm makes it worse. Everything 
 
 When this happens, switch tools: **emotional mirroring.**
 
+This is a de-escalation technique commonly used in emergency rooms when a patient is so activated that nothing else works. The principle: when someone's fight-or-flight response has taken over, logic doesn't reach them. Commands don't reach them. Calm doesn't reach them. What reaches them is someone matching their emotional state—meeting them where they are—so their nervous system registers: *someone is with me.*
+
 Match their energy. Not to agree with their story—to show them you *feel* the intensity of what they're going through.
 
 This doesn't look polished. It doesn't sound like a facilitator. It sounds like a human being who's had enough.
