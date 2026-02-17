@@ -4,6 +4,20 @@
 
 ---
 
+## Why Read This If You're Not a Facilitator
+
+You don't have to run events to benefit from understanding how good containers work.
+
+If you know what responsible facilitation looks like, you can:
+
+- **Recognize when a container isn't being held well**—when safety protocols are missing, when incidents are being handled poorly, when the facilitator is [fawning](#when-the-facilitator-fawns) instead of leading. That awareness lets you navigate with more care, protect yourself, or choose not to return.
+- **Speak up when something's off.** You're not a passive consumer. If you see something that should be handled differently, having the language and framework to name it gives you the power to create change—even as a participant.
+- **Be part of the solution.** The best containers aren't held by facilitators alone. They're held by participants who take [responsibility](./responsibility.md), who understand the dynamics, who add value instead of just consuming the experience.
+
+Knowing how things *should* work makes you a better participant everywhere you go.
+
+---
+
 ## A Note on Context
 
 Not all facilitation looks the same. There's a spectrum:
