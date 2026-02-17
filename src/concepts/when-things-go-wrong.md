@@ -425,7 +425,9 @@ If someone's in full [Rescuer](./why-rescuers-are-dangerous.md) urgency mode—*
 
 But if someone is fragile, collapsing, or already terrified—yelling could shatter them further. Read the person, not just the volume.
 
-**This is a deliberate tool, not a loss of composure.** When it works, everyone in the room should be able to see that it was intentional—that you raised your voice to reach someone who couldn't be reached any other way. Not that you lost your temper.
+**This is a last resort, not a first move.** Use it when you've tried groundedness and it's not working. When nothing else will get through. When you're attuned enough to judge that the probability of it landing is significant—not just rolling the dice.
+
+**And it's a deliberate tool, not a loss of composure.** When it works, everyone in the room should be able to see that it was intentional—that you raised your voice to reach someone who couldn't be reached any other way. Not that you lost your temper.
 
 After the situation is resolved and things have calmed down, acknowledge it. Something like: *"I raised my voice earlier because I felt it was the only way to get through in that moment. I'm glad we were able to work through it together."* This signals to everyone—the person you mirrored and every other participant watching—that it was a choice, not a breakdown.
 
