@@ -61,7 +61,7 @@ Here's what every participant in that room just learned:
 
 > "Mistakes are not OK and will not be tolerated. And if you're a participant who makes a mistake, you'll be attacked and asked to leave too."
 
-It doesn't matter what you *said*. It doesn't matter if you apologized later. It doesn't matter if you explained that "normally" this wouldn't happen. Your actions taught the lesson. And the lesson was: **the intimidating person wins. The mistake-maker gets punished. Your promises of protection are worthless when someone scary gets upset.**
+It doesn't matter what you *said*. It doesn't matter if you apologized later. It doesn't matter if you explained that "normally" this wouldn't happen. Your actions taught the lesson. And the lesson was: **the intimidating person wins. The mistake-maker gets punished. Threats of violence are tolerated and even rewarded. Your promises of protection are worthless when someone scary gets upset.**
 
 Every participant now knows:
 - The rules don't actually protect them
