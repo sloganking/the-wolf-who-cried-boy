@@ -503,6 +503,18 @@ This doesn't mean every feeling is an implicit memory. Sometimes fear is a signa
 
 ### Where Body Stories Come From
 
+It's better for a cat to jump when it sees a cucumber than to not jump when it sees a snake.
+
+This is the evolutionary logic of fear: **the system is biased toward false positives.** The cost of overreacting (jumping at a cucumber) is trivial. The cost of underreacting (ignoring a snake) is death. So your fear system is *designed* to trigger too often. That's not a flaw. In animals, it's a perfect design.
+
+In animals, the reaction is momentary. The cat jumps, sees it's a cucumber, and goes back to eating. Fear fires and resolves in seconds. No story is created. No narrative persists. The system resets.
+
+Humans broke this system—not by changing the fear response, but by bolting two things on top of it: **a storytelling engine and a social broadcasting network.**
+
+When a human's fear fires, it doesn't just resolve. The mind creates a *story* about what happened. The cucumber becomes "my kitchen isn't safe." The momentary reaction becomes a permanent lens. And because humans are ultra-social cooperators, we *share* those stories. "There was a snake in my kitchen!" Now everyone in your group is afraid of kitchens. Now their children are afraid of kitchens. Now it's cultural knowledge: *kitchens are dangerous.*
+
+This is why everything in this chapter happens. The fear system works as designed—but the storytelling and sharing mechanisms turn a momentary survival reflex into persistent body stories that can propagate across people, across generations, and across entire cultures.
+
 Body stories don't always start with your own experience. There are at least three ways fear gets stored in your body:
 
 **1. Direct experience.** Something happened to *you*. A man violated your boundary. A woman betrayed your trust. You were in a situation where you felt genuinely unsafe. Your body stored the pattern: *this type of person / this type of situation = danger.* This is the one most people think of when they hear "trauma."
