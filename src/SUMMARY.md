@@ -16,7 +16,6 @@
 
 - [Severity](./concepts/severity.md)
 - [Types of Mistakes](./concepts/types-of-mistakes.md)
-- [Popcorn Metaphor](./tools/popcorn-metaphor.md)
 - [Trauma & Filters](./concepts/trauma-and-filters.md)
 - [Notice, Feel, Story](./tools/notice-feel-story.md)
 

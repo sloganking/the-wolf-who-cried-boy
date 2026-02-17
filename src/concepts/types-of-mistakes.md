@@ -4,9 +4,31 @@
 
 ---
 
-Here's what destroys people in these spaces:
+## The Popcorn Metaphor
 
-**Treating an accident like malice.**
+Have you ever burned popcorn in the microwave?
+
+Almost everyone has.
+
+Now: when you burned it, was it because you *wanted* to burn it?
+
+No. It was because you weren't thinking.
+
+Even though you've cooked popcorn successfully a thousand times, due to being sleepy or careless or something in between—you had an accident out of unconsciousness.
+
+People do this all the time, in every field. It happens in sacred sexuality temples and play parties too.
+
+**The difference:**
+
+When you burn popcorn, people understand. "Oh, you weren't paying attention. Obviously a mistake."
+
+When you cross a boundary for one second at a play party before catching yourself? "Oh my god, did you do that on purpose? Are you a predator?" Our culture has so much trauma and sensitivity around sexuality that the same kind of mistake—a moment of unconsciousness—gets treated as intentional malice.
+
+---
+
+## Treating an Accident Like Malice
+
+Here's what destroys people in these spaces:
 
 Someone's hand slips. Someone misreads a cue. Someone gets carried away for a moment. It was unconscious, unintentional, immediately regretted.
 
