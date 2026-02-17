@@ -2,107 +2,69 @@
 
 ---
 
-## The Promise
+## The Bigger Picture
 
-Every movement that wants to change the world makes the same promise.
+This book started in play parties and temples. But the patterns it describes aren't unique to intimate spaces.
 
-Sacred sexuality temples talk about planetary transformation—healing the world through pleasure, connection, and love. Political movements promise justice, equality, liberation. Spiritual communities offer enlightenment, peace, transcendence. Workplaces promise innovation, impact, making a difference.
+Racism is good people operating on harmful beliefs about other races—and being certain those beliefs are true. War is good people on both sides, certain the other side is evil, willing to destroy to protect what they love. Political division is good people in different reference frames, unable to see that the other side is also trying to do right.
 
-On the surface, it's impressive. People having revelations. Feeling part of something bigger. Believing they're on the right side.
+The Inquisitors weren't unique. They were *typical*. The same pattern plays out in every culture, every community, every family. Good people, harmful beliefs, devastating outcomes.
 
-But wanting to change the world isn't the same as actually changing it.
-
----
-
-## The Pattern
-
-Here's what usually happens instead:
-
-Someone makes a mistake. An unconscious slip. A misunderstanding. Maybe even a harmful belief acted upon.
-
-And then—the people who were just talking about love and transformation become the harm they claimed to be fighting.
-
-They attack. They assume the worst. They refuse to hear the other side. They become certain they're good and the other person is evil. They punish instead of repair.
-
-> **"[Goodness without wisdom always accomplishes evil.](./concepts/i-made-a-mistake.md#why-mistakes-are-necessary)"**
-
-This is why [Rescuers cause more destruction than predators ever could](./concepts/why-rescuers-are-dangerous.md). Not because they intend harm—but because they're certain they don't. Their righteousness blinds them to the damage they're doing.
-
-The Inquisition tortured people to save their souls. Modern movements destroy people to protect the community. The mechanism is identical. The certainty of goodness becomes the justification for harm.
+**This isn't just about play parties. This is the mechanism by which good people harm each other. And understanding it is what planetary transformation actually requires.**
 
 ---
 
-## What Commitment Actually Requires
+## What Planetary Transformation Actually Looks Like
 
-Real transformation—personal, relational, planetary—requires something harder than good intentions.
+In sacred sexuality spaces, people talk about planetary transformation. They say: we're healing the world through connection, through love, through setting people free from shame and cultural delusion.
 
-**It requires [responsibility](./concepts/responsibility.md).** Not blame. Not shame. The recognition that you have power here, and what you do with that power matters.
+That vision is beautiful. And there's truth in it—people do have breakthroughs. They do shed limiting beliefs. They do connect in ways they never thought possible.
 
-**It requires seeing people as people.** People operating on beliefs the best they know how. Not monsters. Not irredeemable. Confused, scared, certain they're protecting something important—and wrong about what that requires.
+But breakthroughs alone don't transform the planet.
 
-**It requires fighting for win-win.** Even when it's hard. Even when the other person is making it hard. Keeping your word to find the path where everyone wins.
+What transforms the planet is what happens *after* the breakthrough—when you're back in the real world, and someone makes a mistake, and your old patterns want to take over. When someone crosses a boundary and your fear says *predator*. When someone disagrees with you and your certainty says *enemy*.
 
-**It requires not giving up.** Even when—out of misguided beliefs—someone is attacking you. Making threats. Causing real harm. The only answer is to commit to helping them gain insight so they can actually do good.
+Planetary transformation isn't a peak experience. It's what you do in the hard moments.
+
+It's seeing that the person in front of you—the one who seems like a threat—is probably a [good person operating on a harmful belief](./concepts/before-you-judge.md). It's choosing to understand before you attack. It's [taking responsibility](./concepts/responsibility.md) for your part instead of pointing fingers. It's recognizing that [your fear of harm is itself the most likely source of harm](./concepts/trauma-and-filters.md#you-become-the-thing-you-fear).
+
+If enough people learned to do this—to see through their stories, to respond to reality instead of fear, to treat confused people as confused instead of evil—that would change the world. Not as a slogan. As a practice.
 
 ---
 
-## The Alternative
+## The Path
 
-What's the alternative?
+This book has given you the map:
 
-Kill them. Or force your ideology into power. Cause them pain. Create permanent enemies.
+- **[Filters](./concepts/trauma-and-filters.md)** distort what you see. Learn to catch them.
+- **[Responsibility](./concepts/responsibility.md)** gives you power. Own it.
+- **[Rescuers](./concepts/why-rescuers-are-dangerous.md)** cause more harm than predators. Watch for the pattern in yourself.
+- **[Proportional response](./concepts/appropriate-response.md)** prevents you from becoming the harm. Match your response to reality, not fear.
+- **[Notice, Feel, Story](./tools/notice-feel-story.md)** separates what happened from what you made it mean. Use it.
 
-That's it. Those are your options.
+These aren't abstract principles. They're the tools that stop good people from destroying each other. Every time you use them—in a play party, in a relationship, in a political argument, at Thanksgiving dinner—you're doing the actual work of making the world less harmful.
 
-If you're not committed to helping people see through their harmful beliefs, you're left with force. And force creates resistance. Resistance creates enemies. Enemies create war.
+That's not a slogan. That's planetary transformation, one interaction at a time.
 
-The cycle never ends—until someone commits to ending it differently.
+---
+
+## The Invitation
+
+I wrote this book because I've been on all sides.
+
+I've been [harmed by a Rescuer who loved me](./origin.md). I've lived in the victim dream for decades. I've felt the pull toward becoming the harm myself. And I've [crawled out](./origin.md#waking-up).
+
+I'm not asking you to be perfect. I'm not asking you to never make mistakes. Mistakes are how we learn—that's the whole point of [responsible play](./concepts/i-made-a-mistake.md).
+
+I'm asking you to commit to seeing clearly. To questioning your stories before you act on them. To treating people as human—even when they've harmed you, even when your fear says they're monsters.
+
+I'm asking you to do the hard thing: slow down when everything in you wants to react. Verify before you judge. Repair instead of punish. See the confused person behind the harmful behavior.
 
 **It's not us versus them. It's us against our own beliefs.** Us against fear and the urge to urgently rescue with harmful action.
 
----
-
-## The Gap
-
-Here's where it falls apart:
-
-You can't one moment be bonding with others, calling them sister and brother, and then—at the first sign of an unconscious mistake—assume they're evil, no-good people who deserve punishment.
-
-If you call people family, but you're not willing to hear them out when something happens...
-
-If you're not committed to their well-being, even when they cause harm through accident or harmful belief...
-
-Then it's all just pretend.
-
-You'll say you want transformation. But at the first obstacle, you'll attack others. Assume wrongdoing. Cause harm out of fear.
-
-You'll refuse to question your beliefs. Pretend there's no way you could be wrong. Convince yourself there's no way you could ever cause harm—because you're a good person.
-
-That's not commitment. That's the [Drama Triangle](./concepts/drama-triangle.md)—Victim becoming Persecutor, certain they're the Rescuer.
-
-**That's becoming the biggest source of harm yourself.**
-
-That's why we have wars and killing and violence and hatred. People certain they're good, certain the other side is evil, unwilling to question either belief.
-
----
-
-## The Question
-
-This book has given you frameworks. Tools. Ways to think more clearly about mistakes, responsibility, and repair.
-
-But frameworks don't create transformation. Commitment does.
-
-The question isn't whether you understand the concepts.
-
-The question is whether you'll keep your word—to yourself, to others, to the vision of a world where people can make mistakes and still be treated as human.
-
-Will you own your [responsibility](./concepts/responsibility.md) instead of playing [Victim](./concepts/drama-triangle.md)?
-
-Will you see the [Rescuer](./concepts/why-rescuers-are-dangerous.md) in yourself before you become the harm you're afraid of?
-
-Will you help people see through their beliefs instead of just punishing them for having them?
-
 The war ends when we decide it does. If someone's extending a hand of peace and love, and you can't see them as anything but an evil predator and attack them—you chose war. You chose it with [100% control](./tools/100-percent-control.md) over the outcome.
+
+But if you choose differently—if you pause, see clearly, and respond with wisdom instead of fear—you've done something rare. Something most people never manage. Something that ripples outward to every person you interact with for the rest of your life.
 
 **Are you actually committed—or is it pretend?**
 
