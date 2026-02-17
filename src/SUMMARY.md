@@ -56,7 +56,9 @@
 
 # For Facilitators
 
-- [Facilitator Protocols](./concepts/facilitator-protocols.md)
+- [Before You Facilitate](./concepts/before-you-facilitate.md)
+- [Walking Your Talk](./concepts/walking-your-talk.md)
+- [When Things Go Wrong](./concepts/when-things-go-wrong.md)
 
 ---
 
