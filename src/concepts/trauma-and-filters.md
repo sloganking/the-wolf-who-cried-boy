@@ -260,7 +260,7 @@ This is how witch hunts form. Not from evidence, but from collective attention s
 
 **This is why [verification matters](./before-you-judge.md).** The first story isn't evidence. It's a trigger that changes what everyone is looking for. And what they find afterward is contaminated by what they were primed to see.
 
-### The Self-Reinforcing Cycle
+### The Predator That Was Never There
 
 Here's where it gets truly insidious:
 
