@@ -45,9 +45,11 @@ And it means something for these spaces: **the fact that places exist—play par
 
 ### Where Does the Fear Come From?
 
-Some of it is earned. Some women have had direct experiences with men who caused real harm. That fear is legitimate.
+Some of it is earned—and the numbers aren't small. According to the CDC's National Intimate Partner and Sexual Violence Survey, roughly 1 in 5 women experience rape or attempted rape in their lifetime. When you include other forms of sexual violence—coercion, unwanted contact—it's closer to 2 in 5. Even if you've never personally been assaulted, walking through life knowing those odds apply to you and to the women around you is a real and rational basis for vigilance. This isn't paranoia. It's math.
 
-But for many women—even those with some direct experience—much of their fear doesn't come from what has actually happened to them. It comes from what they've been taught to expect.
+And beyond statistics, many women have had direct experiences—a boundary crossed, a man who used his size to intimidate, or worse. That fear is legitimate and earned.
+
+But here's the layer most people don't examine: for many women—even those with some direct experience—much of their fear doesn't come from what has actually happened to *them*. It comes from what they've been taught to expect.
 
 This is [cultural inheritance](../src/concepts/trauma-and-filters.md#where-body-stories-come-from)—fear absorbed from stories, from other women's experiences shared as warnings, from media, from movements that keep attention fixed on danger. When your attention is constantly directed toward how you're prey, that's what you experience—even when it doesn't match your actual life.
 
@@ -79,7 +81,7 @@ A generation of parents who roamed their neighborhoods freely as kids, who walke
 
 The fear escalated. The actual danger decreased.
 
-This disconnect was created by media saturation, high-profile cases, and cultural narratives that amplified rare events into constant anxiety. Lenore Skenazy documented this in *Free-Range Kids* and launched a movement challenging parents to calibrate fear to actual risk.
+This disconnect was created by media saturation, high-profile cases, and cultural narratives that amplified rare events into constant anxiety. Lenore Skenazy documented this in [*Free-Range Kids*](https://www.freerangekids.com/) and launched a movement challenging parents to calibrate fear to actual risk.
 
 **The parallel:** How much we fear something is often disconnected from how dangerous it actually is. Cultural narratives and shared stories can inflate fear far beyond statistical reality. This applies to fear of male predators in intimate spaces too. The fear is culturally alive, strongly felt, and shapes behavior—but that doesn't mean it accurately reflects the actual level of danger in any given situation.
 
