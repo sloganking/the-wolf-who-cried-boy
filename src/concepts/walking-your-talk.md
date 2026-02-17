@@ -45,9 +45,7 @@ When you're tested—when a participant is angry, when a mob is forming, when yo
 
 Here's a scenario:
 
-You're facilitating a retreat. At the beginning, you gave the promise. You stated clearly: "Mistakes made in good faith are protected—you won't be removed for honest errors. But threats of violence, whether verbal or physical intimidation, will result in removal."
-
-Now something happens. Participant A makes a mistake—an honest mistake, the kind your promise explicitly protects. Participant B is furious. They start attacking Participant A. They escalate to threats of violence, getting in their face, implying "if you disagree with me, something bad will happen."
+You're facilitating a retreat. Participant A makes an honest mistake. Participant B is furious. They start attacking Participant A. They escalate to threats of violence, getting in their face, implying "if you disagree with me, something bad will happen."
 
 You, the facilitator, are scared. Participant B is intimidating. And fears rise in you:
 
@@ -84,6 +82,8 @@ This is exactly when the promise becomes useful:
 2. **Everyone else knows what's okay and what's not.** You announced it publicly. Every participant can see: "This behavior violates our agreements." Including the person violating them.
 
 3. **It protects you from being tempted to act out of fear.** If you give in to Participant B, you're not just making a bad judgment call—you're violating your own word. You're breaking a promise you made to everyone in the room. The promise raises the stakes on betraying your values.
+
+**This can happen whether you made a promise or not.** If you made the promise and cave, you've broken your word publicly. If you never made a promise, you're even more vulnerable—because there's nothing anchoring you when the pressure hits.
 
 Without the promise, you're in a fog. You don't know what you're supposed to do. You didn't commit to anything publicly. It's easy to rationalize giving in—"Maybe I'm overreacting. Maybe this isn't that serious."
 
