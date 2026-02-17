@@ -82,7 +82,7 @@ Not all couples are equally safe to play with. Ask yourself—and ask THEM:
 
 **Ask explicitly:** "Have you been open and playing with others for a while? Or is non-monogamy new to you?"
 
-### The Mismatched Couple
+### The Unaligned Couple
 
 Watch out for this dynamic:
 
@@ -94,7 +94,7 @@ This is a relationship under significant stress. That doesn't mean you CAN'T pla
 
 ### If You Choose to Engage
 
-Playing with someone in a mismatched couple is possible. But consider:
+Playing with someone in an unaligned couple is possible. But consider:
 
 - **The level of play should probably be lower.** Not sex. Lesser intimacy. Something that won't create massive waves.
 - **Communicate with BOTH partners.** If you're playing with the one who wants non-monogamy, be in deep communication with the one who wants monogamy. What are they actually comfortable with? What would hurt them?
