@@ -16,13 +16,16 @@
 
 - [Severity](./concepts/severity.md)
 - [Types of Mistakes](./concepts/types-of-mistakes.md)
+- [Popcorn Metaphor](./tools/popcorn-metaphor.md)
 - [Trauma & Filters](./concepts/trauma-and-filters.md)
+- [Notice, Feel, Story](./tools/notice-feel-story.md)
 
 ---
 
 # The Core Reframe
 
 - [Responsibility](./concepts/responsibility.md)
+- [100% Control](./tools/100-percent-control.md)
 - [Why Helping Is Hard](./concepts/why-helping-is-hard.md)
 - [Decline False Responsibility](./concepts/decline-false-responsibility.md)
 - [All Power Is Mutual](./concepts/all-power-is-mutual.md)
@@ -40,6 +43,7 @@
 # Before You Play
 
 - [Before Play (RBDSMT)](./concepts/before-play.md)
+- [Gun Test](./tools/gun-test.md)
 
 ---
 
@@ -59,15 +63,6 @@
 - [Before You Facilitate](./concepts/before-you-facilitate.md)
 - [Walking Your Talk](./concepts/walking-your-talk.md)
 - [When Things Go Wrong](./concepts/when-things-go-wrong.md)
-
----
-
-# Teaching Tools
-
-- [Popcorn Metaphor](./tools/popcorn-metaphor.md)
-- [Gun Test](./tools/gun-test.md)
-- [Notice, Feel, Story](./tools/notice-feel-story.md)
-- [100% Control](./tools/100-percent-control.md)
 
 ---
 
