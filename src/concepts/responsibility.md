@@ -384,6 +384,16 @@ You can't control the roll. But you can make the die so small that "bad luck" be
 
 **That's your power. That's your responsibility.**
 
+## Omniresponsible
+
+The lightning and dice principles don't just apply to unlikely events. They apply to _everything_.
+
+Every outcome in your life—the relationships, the conflicts, the opportunities, the harm—was shaped by choices you made, often long before the moment arrived. This is what it means to be **omniresponsible**: recognizing that your influence extends to everything you touch, and everything you don't.
+
+This isn't a burden. It's power.
+
+If your actions contributed to creating something, your actions can contribute to creating something different. Responsibility isn't a weight to carry—it's leverage to move things. The more you see your reach, the more you can change.
+
 ### Contributing Factors vs. Determining Factors
 
 Here's a distinction that stops arguments:
@@ -403,16 +413,6 @@ When someone says "I was late because of traffic" — traffic was a contributing
 Contributing factors are real, and they matter for understanding what happened. But they don't *determine* outcomes — your choices do. The moment you confuse the two, you give your power away. You're saying "something external controlled what happened" when the truth is: you had the determining vote, and you either used it or you didn't.
 
 Next time someone — including you — explains an outcome by pointing at external circumstances, ask: "Is that a contributing factor or a determining one?" The answer is almost always contributing. And the determining factor is almost always a choice that was within someone's power.
-
-## Omniresponsible
-
-The lightning and dice principles don't just apply to unlikely events. They apply to _everything_.
-
-Every outcome in your life—the relationships, the conflicts, the opportunities, the harm—was shaped by choices you made, often long before the moment arrived. This is what it means to be **omniresponsible**: recognizing that your influence extends to everything you touch, and everything you don't.
-
-This isn't a burden. It's power.
-
-If your actions contributed to creating something, your actions can contribute to creating something different. Responsibility isn't a weight to carry—it's leverage to move things. The more you see your reach, the more you can change.
 
 See: [100% Control](../tools/100-percent-control.md)
 
