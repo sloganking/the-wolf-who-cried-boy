@@ -719,7 +719,7 @@ During a group exercise, men are invited to embody their strength—shouting, fl
 
 Notice where his attention already is: scanning for predators, toxic people, threats that need to be stopped. His reticular activating system is primed for danger before anything has happened. Everyone else sees a strength exercise. He sees potential abusers.
 
-He's identified a type of behavior he rejects. Aggressive masculinity. Loud, dominating energy. He can't imagine himself doing that. He's here to be different.
+He's identified a type of behavior he rejects. Aggressive masculinity. Loud, dominating energy. He can't imagine himself doing that. He's here to be different. And he's already afraid of the men around him—primed by that fear to see a predator the moment anything goes wrong.
 
 Later, someone makes a mistake. A LOW or MEDIUM severity accident.
 
