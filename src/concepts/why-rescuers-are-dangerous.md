@@ -242,7 +242,7 @@ Think about that: a generation of parents who roamed their neighborhoods freely 
 
 **The fear escalated. The actual danger decreased.**
 
-This disconnect was created by media saturation, high-profile cases, and cultural narratives that amplified rare events into constant anxiety. Lenore Skenazy documented this in her book _Free-Range Kids_ and launched a movement challenging parents to calibrate fear to actual risk.
+This disconnect was created by media saturation, high-profile cases, and cultural narratives that amplified rare events into constant anxiety. Lenore Skenazy documented this in her book [_Free-Range Kids_](https://letgrow.org/book/free-range-kids/) and launched a movement challenging parents to calibrate fear to actual risk.
 
 The belief that "accusers should always be believed." The belief that "someone in a position of power is probably abusing it." The belief that "if someone is upset, someone else must have done something wrong." These operate the same way.
 
