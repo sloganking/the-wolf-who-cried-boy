@@ -64,9 +64,11 @@ You can't guarantee that the next person you ask will say yes. You can't guarant
 
 But you have 100% control over *whether* it happens. And you have significant control over *roughly when*—because the more action you take, the more you compress the timeline.
 
-Think of it like rolling a die. If you roll once and need a six, you might wait a while. But if you roll a hundred dice at once, getting at least one six is nearly inevitable. Each ask, each attempt, each creative move is another die hitting the table. People who feel stuck are usually rolling one die, waiting, and concluding the game is rigged. People who get what they want are rolling fistfuls.
+This is the [dice principle](../concepts/responsibility.md#the-dice-principle) applied to action. You can roll more dice—ask more people, show up more places, take more swings. But you can also roll *smarter* dice. Step back. Think creatively. Find leverage. Maybe you don't need to ask a hundred people to dance—maybe you need to become the person who hosts the dance, and now everyone comes to you.
 
-You don't control the exact moment. But you control whether you keep rolling—and how many dice you throw at once. That's the difference between "it'll happen eventually" and "it'll happen soon."
+Working harder is one lever. Working smarter—finding the creative angle that changes the odds entirely—is the lever most people never pull because they're too busy grinding or too busy feeling stuck to step back and think.
+
+You don't control the exact moment. But you control whether you keep rolling, how many dice you throw, and how good your odds are on each one.
 
 ### Why People Miss This
 
