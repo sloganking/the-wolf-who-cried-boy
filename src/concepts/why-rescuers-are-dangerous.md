@@ -93,7 +93,7 @@ The crusade worked. It became normal. So normal that today, an uncircumcised pen
 
 If someone pricks a girl's clitoris with a needle—reducing sensitivity slightly—we call it genital mutilation. We despise cultures that do it. We consider it barbaric.
 
-If someone cuts off a section of a boy's penis—removing tissue containing a significant portion of nerve endings—we call it tradition. We consider it normal. Maybe even cleaner or healthier.
+If someone cuts off a section of a boy's penis—removing tissue containing a significant portion of nerve endings—we call it tradition. We consider it normal. Maybe even cleaner or healthier—justifications that arrived long after the practice started, and long after its original purpose became embarrassing. People don't circumcise their sons because of health statistics. They do it because their dad was circumcised, and his dad before him, and it's just what you do.
 
 The word "circumcision" exists specifically to make the act feel different from what it is. Without that word, we'd have to say what actually happened: _someone cut part of a baby's genitals off._
 
