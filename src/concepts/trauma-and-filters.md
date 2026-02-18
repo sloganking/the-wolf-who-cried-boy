@@ -55,7 +55,10 @@ Someone touches you without asking:
 
 Same touch. Same person. Completely different emotional experiences—based entirely on the story.
 
-This isn't hypothetical. In *Sex at Dawn*, Christopher Ryan describes a Melanesian culture where married men traditionally had young concubines. In Western culture, that would produce jealousy, betrayal, rage. In this culture, wives regarded the concubines as *status symbols*. They were proud. When colonial law ended the practice, both men and women called it "the worst result of contact with European culture."
+This isn't hypothetical. In *Sex at Dawn*, Christopher Ryan describes a Melanesian culture where married men traditionally had young concubines. In Western culture, that would produce jealousy, betrayal, rage. In this culture, wives regarded the concubines as *status symbols.* They were proud. When colonial law ended the practice:
+
+> **"Both men and women regarded the loss of this practice 'the worst result of contact with European culture.'"**  
+> — *Sex at Dawn*, Christopher Ryan
 
 Same situation—your partner sleeping with someone else. One culture produces devastation. Another produces pride. The difference isn't the event. It's the story the culture tells about what it means.
 
