@@ -32,9 +32,15 @@ I felt small. Helpless. Terrified of a world that seemed designed to crush me.
 
 I developed a victim mentality. Everything happened _to_ me. I had no power. I couldn't protect myself, couldn't change my circumstances, couldn't do anything but endure.
 
-That mindset ran my life for years. And then, at 25, it culminated.
+That mindset ran my life for years. And it wasn't limited to my father. I was a victim *everywhere.* Powerless with women—terrified that talking to one would confirm I was unlovable. Powerless with money—convinced I couldn't create anything, that the world decided what I got. Powerless with my own mind—hostage to thoughts I couldn't control, feelings I couldn't stop, patterns I couldn't see. Every dimension of my life was filtered through the same lens: *I can't. It's hopeless. I have no power here.*
+
+I was the most victim-ish victim I'd ever seen. And I believed it with every cell.
+
+Then, at 25, it culminated.
 
 Multiple traumas I'd never processed came up at once. I developed PTSD. I had eight-hour panic attacks every other day. I felt like a helpless slave—broken by my past, unable to get the connection and intimacy I desperately wanted, terrified of rejection. I was resentful. I was borderline suicidal.
+
+That's why I'm so passionate about what this book teaches. I know what it's like to live in hell—not because the world is hell, but because perceiving yourself as a powerless victim *turns it into one.* I lived there for years. The world wasn't actually crushing me. My stories were. But I couldn't see that from inside the dream.
 
 I was stuck in the [Victim](./concepts/drama-triangle.md) position. And I didn't even know there was another option.
 
