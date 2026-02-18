@@ -55,10 +55,10 @@ Someone touches you without asking:
 
 Same touch. Same person. Completely different emotional experiences—based entirely on the story.
 
-This isn't hypothetical. In *Sex at Dawn*, Christopher Ryan describes a Melanesian culture where married men traditionally had young concubines. In Western culture, that would produce jealousy, betrayal, rage. In this culture, wives regarded the concubines as *status symbols.* They were proud. When colonial law ended the practice:
+This isn't hypothetical. In _Sex at Dawn_, Christopher Ryan describes a Melanesian culture where married men traditionally had young concubines. In Western culture, that would produce jealousy, betrayal, rage. In this culture, wives regarded the concubines as _status symbols._ They were proud. When colonial law ended the practice:
 
 > **"Both men and women regarded the loss of this practice 'the worst result of contact with European culture.'"**  
-> — *Sex at Dawn*, Christopher Ryan
+> — _Sex at Dawn_, Christopher Ryan
 
 Same situation—your partner sleeping with someone else. One culture produces devastation. Another produces pride. The difference isn't the event. It's the story the culture tells about what it means.
 
@@ -175,11 +175,11 @@ Once you see that filter, every action he takes suddenly makes sense.
 
 The giant robot must be a weapon—sent by Russians, or aliens, or some enemy government that wants what we have. It can't be friendly. That's not a possibility. It must be harmful.
 
-So when a mother tells Kent her son is alive, safe in the giant's hands, and asks the army to stand down—Kent hears this, and his filter translates it. He turns to the general and reports: "She says the giant killed the boy."
+So when Dean—the man who's been sheltering Hogarth—tells Kent the boy is alive, safe in the giant's hands, and asks the army to stand down—Kent hears this, and his filter translates it. He turns to the general and reports: "The giant killed the boy."
 
 This is one of those moments that makes Kent look purely selfish—or insane. He just lied to a general's face. Why?
 
-But through his filter, this isn't lying. The giant was obviously made by bad actors who want to steal what we have. So of course it killed the child. The mother is probably just hopeful and delusional, wanting to believe her son is alive when he isn't. There's no other possibility. Kent is reporting the truth as his filter sees it.
+But through his filter, this isn't lying. The giant was obviously made by bad actors who want to steal what we have. So of course it killed the child. Dean is probably just hopeful and delusional, wanting to believe the boy is alive when he isn't. There's no other possibility. Kent is reporting the truth as his filter sees it.
 
 Later, the giant walks up with the boy visibly alive in its hands. Hogarth—the boy—is shouting: "Don't shoot! Don't shoot!" Plain as day. Everyone can see it. The general calls ceasefire.
 
@@ -273,15 +273,15 @@ Here's where it gets truly insidious:
 
 Imagine a room where there are no predators. None. Everyone present has good intentions.
 
-Someone with trauma around predators sees a shadow on the wall—an ambiguous touch, an awkward moment, a misread signal. Their body reacts: *predator.* They sound the alarm.
+Someone with trauma around predators sees a shadow on the wall—an ambiguous touch, an awkward moment, a misread signal. Their body reacts: _predator._ They sound the alarm.
 
-Now the room shifts. Everyone's RAS activates. People start scanning for threats. Someone fawns and apologizes—not because they did anything wrong, but because they're afraid. The apology looks like a confession. Others see the "confession" and think: *See? There really was a predator.*
+Now the room shifts. Everyone's RAS activates. People start scanning for threats. Someone fawns and apologizes—not because they did anything wrong, but because they're afraid. The apology looks like a confession. Others see the "confession" and think: _See? There really was a predator._
 
-The event ends. Everyone goes home with the same story: *There was a predator in the room. It was terrifying. I need to be more vigilant next time.*
+The event ends. Everyone goes home with the same story: _There was a predator in the room. It was terrifying. I need to be more vigilant next time._
 
 **But there was no predator.**
 
-The trauma created a predator that wasn't there. The collective reaction created "evidence" that confirmed the story. And now everyone's trauma is *stronger*—more certain that predators are everywhere, more primed to see them next time, more likely to create the same cycle again.
+The trauma created a predator that wasn't there. The collective reaction created "evidence" that confirmed the story. And now everyone's trauma is _stronger_—more certain that predators are everywhere, more primed to see them next time, more likely to create the same cycle again.
 
 The person who was called a predator—the one who made an unconscious mistake or did nothing wrong at all—is the one who suffered the most real harm. And even the bystanders who just watched are now carrying reinforced fear that will distort their perception in every future space they enter.
 
@@ -297,7 +297,7 @@ Half the people are screaming predator. Others say it was nothing. Some have a d
 
 This disagreement isn't evidence that the truth is somewhere in the middle. It's evidence that almost no one is looking at reality yet. They're reacting from their own filters, their own trauma, their own stories about what "must have" happened.
 
-The person closest to reality in that moment will be the one asking questions. Not jumping to conclusions. Not making assumptions in panicked urgency. Just asking: *What actually happened here?*
+The person closest to reality in that moment will be the one asking questions. Not jumping to conclusions. Not making assumptions in panicked urgency. Just asking: _What actually happened here?_
 
 If everyone paused and genuinely investigated—talked to primary sources, separated [notice from story](../tools/notice-feel-story.md), verified before acting—they'd converge. Because reality is one thing. When people are seeing wildly different things, it's not because reality is complicated. It's because stories are running.
 
@@ -330,11 +330,11 @@ Here's the pattern this book keeps showing you:
 
 Someone causes harm—through an unconscious mistake or a harmful belief. You see the harm. You get afraid. You assume it was intentional. You assume they're selfish, malicious, dangerous. You label them a predator. You attack.
 
-**But they weren't a predator. They were confused, unconscious, or operating on a bad belief.** And now you're causing harm through *your* harmful belief—the belief that they were evil. You're doing the exact thing you were afraid of.
+**But they weren't a predator. They were confused, unconscious, or operating on a bad belief.** And now you're causing harm through _your_ harmful belief—the belief that they were evil. You're doing the exact thing you were afraid of.
 
 The Inquisitor feared heretics destroying civilization—so he destroyed lives. The Rescuer feared a predator in the community—so she destroyed a reputation. The parent feared their child wouldn't be strong enough to survive a harsh world—so they [became the harsh world](../origin.md).
 
-Every one of them became the harm they were trying to prevent. Not despite their fear—*because* of it. Fear drove them to act without verification, without proportionality, without seeing clearly. And the actions they took in that state caused more damage than the thing they were afraid of.
+Every one of them became the harm they were trying to prevent. Not despite their fear—_because_ of it. Fear drove them to act without verification, without proportionality, without seeing clearly. And the actions they took in that state caused more damage than the thing they were afraid of.
 
 **This is the central warning of this book:** Your fear of harm is itself the most likely source of harm. The thing you're trying to prevent is the thing you'll create—if you let fear drive your actions.
 
@@ -420,7 +420,7 @@ The experience is new. But you're reacting to an old story.
 
 If you think these patterns are purely intellectual—that you can think your way out of them—you'll never solve them.
 
-In *My Grandmother's Hands*, Resmaa Menakem makes this point about racism: it's not a problem of the mind. It's a trauma stored in the body. When someone with that body story sees a Black person, they don't consciously decide to feel afraid. Their body reacts—muscles tense, heart rate spikes, threat detection activates—before any conscious thought occurs.
+In _My Grandmother's Hands_, Resmaa Menakem makes this point about racism: it's not a problem of the mind. It's a trauma stored in the body. When someone with that body story sees a Black person, they don't consciously decide to feel afraid. Their body reacts—muscles tense, heart rate spikes, threat detection activates—before any conscious thought occurs.
 
 Here's an example from the book that shows exactly how this plays out:
 
@@ -428,9 +428,9 @@ A crime occurred. A police officer arrived on scene. A Black man was present—h
 
 The officer shot him. Multiple times. Hit him in the leg.
 
-The Black man called out: *"Why did you shoot me?"*
+The Black man called out: _"Why did you shoot me?"_
 
-The officer paused. Then answered: *"I don't know."*
+The officer paused. Then answered: _"I don't know."_
 
 **"I don't know."** That's not intellectual racism. That's a body story firing. The officer's trauma response activated—something about the situation triggered "threat"—and his body acted before his conscious mind could intervene. When his conscious mind caught up, it had no explanation. Because there wasn't one. It was automatic.
 
@@ -440,7 +440,7 @@ If the Black man had been standing casually—relaxed energy, "Thanks, officer, 
 
 **This is because most communication is nonverbal.** Your words tell someone what to think. Your body tells them how to feel about it. If you say "I got fired today" in a panic, they'll panic with you. If you say "I got fired today" with a smile and ease, they'll feel like it's not a big deal—even though the words are identical.
 
-The Black man's words didn't matter. His body communicated: *I am afraid of you.* And the officer's body concluded: *He should be afraid of me.* And it came up with its own explanations as to why, a.k.a. they did something wrong, they're the criminal. 
+The Black man's words didn't matter. His body communicated: _I am afraid of you._ And the officer's body concluded: _He should be afraid of me._ And it came up with its own explanations as to why, a.k.a. they did something wrong, they're the criminal.
 
 This is the same dynamic described throughout this book. Someone [fawns](./fawning.md), and their appeasement gets interpreted as a confession. Someone acts afraid, and their fear gets interpreted as evidence of wrongdoing. The body story creates the behavior that confirms the other person's body story.
 
@@ -482,25 +482,25 @@ But when trauma is stored in the body, the chain can run differently:
 
 Notice the difference. In the normal path, the story comes first and generates the feeling. In this path, **the feeling arrives first**—and then the conscious mind invents a story to explain it.
 
-This is what psychologists call an **implicit memory.** It's a memory stored in your body that you don't experience as a memory. It doesn't come with a flashback or a "this reminds me of..." It just shows up as an emotion. Fear. Dread. Disgust. Rage. It feels like a response to *right now*—because you have no awareness that it's coming from *back then.*
+This is what psychologists call an **implicit memory.** It's a memory stored in your body that you don't experience as a memory. It doesn't come with a flashback or a "this reminds me of..." It just shows up as an emotion. Fear. Dread. Disgust. Rage. It feels like a response to _right now_—because you have no awareness that it's coming from _back then._
 
-And here's the critical part: **your conscious mind doesn't know the feeling is from the past.** It doesn't say to itself, "Why am I feeling this way?" and deliberately reason through it. It's far more automatic than that. The feeling arrives, and your mind *instantly* constructs a cause—so fast that the story feels like perception. You don't experience yourself making up an explanation. You just *see* the person in front of you as dangerous. It feels like you're reading the situation. But you're reading the feeling, and projecting a cause onto whatever's in front of you.
+And here's the critical part: **your conscious mind doesn't know the feeling is from the past.** It doesn't say to itself, "Why am I feeling this way?" and deliberately reason through it. It's far more automatic than that. The feeling arrives, and your mind _instantly_ constructs a cause—so fast that the story feels like perception. You don't experience yourself making up an explanation. You just _see_ the person in front of you as dangerous. It feels like you're reading the situation. But you're reading the feeling, and projecting a cause onto whatever's in front of you.
 
 **Example:**
 
-Someone has a body pattern around men. Maybe it came from a direct experience—a man who violated a boundary, who used his size to intimidate, or worse. Or maybe nothing like that ever happened to them personally. Maybe they grew up in a culture, a family, a community that constantly reinforced: *Men are dangerous. Predators are everywhere. Here's what predators look like—they do these kinds of things, they act this way, they go to these kinds of places.* The message got absorbed. Not as a belief they can articulate and examine, but as a body-level template. *Man + certain traits + certain context = danger.*
+Someone has a body pattern around men. Maybe it came from a direct experience—a man who violated a boundary, who used his size to intimidate, or worse. Or maybe nothing like that ever happened to them personally. Maybe they grew up in a culture, a family, a community that constantly reinforced: _Men are dangerous. Predators are everywhere. Here's what predators look like—they do these kinds of things, they act this way, they go to these kinds of places._ The message got absorbed. Not as a belief they can articulate and examine, but as a body-level template. _Man + certain traits + certain context = danger._
 
 Either way, the result is the same: fear stored in the body. They may not even know it's there. They don't walk around thinking about it.
 
 Now they're at a play event. A man is there—maybe he's tall, maybe he has a deep voice, maybe he carries himself with a kind of confidence that happens to pattern-match. He makes an innocent mistake. He bumps into someone. He misreads a signal. Something minor—the kind of thing that happens to everyone.
 
-The implicit memory fires. The body recognizes the pattern—*man, physicality, mistake*—and the old fear floods in. Not because of what this man *did*, but because the situation looks enough like the original one to trigger the stored response.
+The implicit memory fires. The body recognizes the pattern—_man, physicality, mistake_—and the old fear floods in. Not because of what this man _did_, but because the situation looks enough like the original one to trigger the stored response.
 
-They don't think: *"Oh, this feeling is from my past trauma."* They don't have that awareness. The feeling just *is.* It feels like it belongs to right now. They look at this man and feel afraid, and the fear feels *caused by him*—because what else would it be caused by?
+They don't think: _"Oh, this feeling is from my past trauma."_ They don't have that awareness. The feeling just _is._ It feels like it belongs to right now. They look at this man and feel afraid, and the fear feels _caused by him_—because what else would it be caused by?
 
 And so their perception shifts. That innocent mistake doesn't look so innocent anymore. His confidence looks like arrogance. His physical presence looks like a threat. The "accident" looks intentional. None of this is a deliberate thought process. It's instant. The feeling came first, and the meaning arranged itself around the feeling—automatically, invisibly, convincingly.
 
-Now they're reacting to the story—not the situation. And the story was generated *by* the feeling, which was generated *by* the implicit memory, which has nothing to do with the person standing in front of them.
+Now they're reacting to the story—not the situation. And the story was generated _by_ the feeling, which was generated _by_ the implicit memory, which has nothing to do with the person standing in front of them.
 
 **This is how innocent people get labeled as predators.**
 
@@ -508,33 +508,33 @@ Not because someone is lying. Not because they're malicious. But because their b
 
 This doesn't mean every feeling is an implicit memory. Sometimes fear is a signal that something is genuinely wrong. The point isn't to dismiss your emotions—it's to recognize that **not every feeling is about what's happening right now.** Some feelings are echoes. And if you can't tell the difference, you will hurt people who don't deserve it while being absolutely convinced you're protecting yourself.
 
-
 ### Where Body Stories Come From
+
 It's better for a cat to jump when it sees a cucumber than to not jump when it sees a snake.
 
-This is the evolutionary logic of fear: **the system is biased toward false positives.** The cost of overreacting (jumping at a cucumber) is trivial. The cost of underreacting (ignoring a snake) is death. So your fear system is *designed* to trigger too often. That's not a flaw. In animals, it's a perfect design.
+This is the evolutionary logic of fear: **the system is biased toward false positives.** The cost of overreacting (jumping at a cucumber) is trivial. The cost of underreacting (ignoring a snake) is death. So your fear system is _designed_ to trigger too often. That's not a flaw. In animals, it's a perfect design.
 
 In animals, the reaction is momentary. The cat jumps, sees it's a cucumber, and goes back to eating. Fear fires and resolves in seconds. No story is created. No narrative persists. The system resets.
 
 Humans broke this system—not by changing the fear response, but by bolting two things on top of it: **a storytelling engine and a social broadcasting network.**
 
-When a human's fear fires, it doesn't just resolve. The mind creates a *story* about what happened. The cucumber becomes "my kitchen isn't safe." The momentary reaction becomes a permanent lens. And because humans are ultra-social cooperators, we *share* those stories. "There was a snake in my kitchen!" Now everyone in your group is afraid of kitchens. Now their children are afraid of kitchens. Now it's cultural knowledge: *kitchens are dangerous.*
+When a human's fear fires, it doesn't just resolve. The mind creates a _story_ about what happened. The cucumber becomes "my kitchen isn't safe." The momentary reaction becomes a permanent lens. And because humans are ultra-social cooperators, we _share_ those stories. "There was a snake in my kitchen!" Now everyone in your group is afraid of kitchens. Now their children are afraid of kitchens. Now it's cultural knowledge: _kitchens are dangerous._
 
 This is why everything in this chapter happens. The fear system works as designed—but the storytelling and sharing mechanisms turn a momentary survival reflex into persistent body stories that can propagate across people, across generations, and across entire cultures.
 
 Body stories don't always start with your own experience. There are at least three ways fear gets stored in your body:
 
-**1. Direct experience.** Something happened to *you*. A man violated your boundary. A woman betrayed your trust. You were in a situation where you felt genuinely unsafe. Your body stored the pattern: *this type of person / this type of situation = danger.* This is the one most people think of when they hear "trauma."
+**1. Direct experience.** Something happened to _you_. A man violated your boundary. A woman betrayed your trust. You were in a situation where you felt genuinely unsafe. Your body stored the pattern: _this type of person / this type of situation = danger._ This is the one most people think of when they hear "trauma."
 
-**2. Secondhand transmission.** Something happened to someone close to you—or they *told* you it did. Your mother was hurt by a man, and she raised you with the message: *Men are dangerous. Don't trust them. Here's what they do.* You absorbed her fear as your own. You never had the experience yourself, but your body stored it as if you did. Her story became your body story.
+**2. Secondhand transmission.** Something happened to someone close to you—or they _told_ you it did. Your mother was hurt by a man, and she raised you with the message: _Men are dangerous. Don't trust them. Here's what they do._ You absorbed her fear as your own. You never had the experience yourself, but your body stored it as if you did. Her story became your body story.
 
-**3. Cultural inheritance.** The fear goes so far back that nobody you know has the direct experience either. It's just *what everyone believes.* An entire community, religion, or culture teaches that a certain type of person is dangerous—predators are everywhere, those people are all criminals, the outside world is full of rapists and murderers. You grow up marinating in this fear. It seeps into your nervous system not through any single moment, but through thousands of small messages over years. By the time you're an adult, the fear feels as real and as *yours* as if you'd lived through something terrible. But you didn't. Nobody you know did. The story just... propagated.
+**3. Cultural inheritance.** The fear goes so far back that nobody you know has the direct experience either. It's just _what everyone believes._ An entire community, religion, or culture teaches that a certain type of person is dangerous—predators are everywhere, those people are all criminals, the outside world is full of rapists and murderers. You grow up marinating in this fear. It seeps into your nervous system not through any single moment, but through thousands of small messages over years. By the time you're an adult, the fear feels as real and as _yours_ as if you'd lived through something terrible. But you didn't. Nobody you know did. The story just... propagated.
 
 All three produce the same result: an implicit memory that fires when the pattern matches. Your body doesn't distinguish between fear you earned and fear you inherited. It all feels the same from the inside.
 
-**The self-check:** If you're deeply afraid of something you've never actually encountered—if the fear is intense but you can't point to a direct experience that caused it—that's a signal. It doesn't mean the fear is "fake." It means the fear may have been *given* to you rather than *earned* by you, and the story underneath it deserves examination rather than automatic trust.
+**The self-check:** If you're deeply afraid of something you've never actually encountered—if the fear is intense but you can't point to a direct experience that caused it—that's a signal. It doesn't mean the fear is "fake." It means the fear may have been _given_ to you rather than _earned_ by you, and the story underneath it deserves examination rather than automatic trust.
 
-And here's the trap: even when you finally *do* encounter the thing you've been taught to fear, your [RAS](#the-horror-movie-effect) is already primed. You walk in scanning for confirmation. You find it—not because the danger is real, but because [that's what you're looking for](#when-every-rustle-is-a-wolf). Your first real encounters *reinforce* the inherited story instead of challenging it, and now the cultural fear has "evidence." This is the same dynamic described in [The Predator That Was Never There](#the-predator-that-was-never-there)—except the priming didn't come from a single accusation. It came from a lifetime of messaging.
+And here's the trap: even when you finally _do_ encounter the thing you've been taught to fear, your [RAS](#the-horror-movie-effect) is already primed. You walk in scanning for confirmation. You find it—not because the danger is real, but because [that's what you're looking for](#when-every-rustle-is-a-wolf). Your first real encounters _reinforce_ the inherited story instead of challenging it, and now the cultural fear has "evidence." This is the same dynamic described in [The Predator That Was Never There](#the-predator-that-was-never-there)—except the priming didn't come from a single accusation. It came from a lifetime of messaging.
 
 ### How Subtle Stories Create Real Problems
 
