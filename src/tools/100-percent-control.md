@@ -24,25 +24,25 @@ You don't have just part of the power. Oftentimes, you have ALL the power to cre
 
 ### Both People Have 100% Control
 
-Here's the key distinction: you have 100% control over whether you dance. And so does the other person. Both of you, simultaneously, have 100% control over whether the dance happens.
+You have 100% control over whether you dance. And so does the other person. Both of you, simultaneously, each have the power to stop the dance from happening.
 
-This isn't a contradiction. It's not zero-sum. You're not dividing 100% between you. You each have 100% control over *your* part—and since either of you saying no stops the dance, you each have 100% power to prevent the outcome.
+This isn't a contradiction. It's not zero-sum. You're not dividing power between you. Since either person saying no stops the dance, each of you independently holds the entire outcome in your hands.
 
-When something goes wrong, multiple people created it. You had 100% control. They had 100% control. Both are true. Both can take full responsibility without diminishing the other's.
+When something goes wrong, multiple people created it. Both had full control. Both can take full responsibility without diminishing the other's.
 
 ### This Works Both Ways
 
 Most people hear "100% control" and think about prevention—the power to stop something from happening. That's the obvious half.
 
-But you also have 100% control over whether something *does* happen.
+But you also have 100% control over whether something _does_ happen.
 
-If you want to dance, one person can say no. But you have 100% control over *whether* you dance—just not *who* you dance with. Ask someone else. You can have anything you want. You just can't have it with whoever you want.
+If you want to dance, one person can say no. But you have 100% control over _whether_ you dance—just not _who_ you dance with. Ask someone else. You can have anything you want. You just can't have it with whoever you want.
 
 The same [responsibility](../concepts/responsibility.md#the-dice-principle) that lets you prevent outcomes lets you create them. You shape the odds. You choose where to be, who to ask, how to show up. The more creative and persistent you are, the more inevitable the outcome becomes.
 
 ### Why People Miss This
 
-When someone feels like a victim and doesn't see their power, they often correctly see that the other person had 100% control. But they fail to see that *they* also had 100% control—or something close to it.
+When someone feels like a victim and doesn't see their power, they often correctly see that the other person had 100% control. But they fail to see that _they_ also had 100% control—or something close to it.
 
 They think it's 100% vs 0%. It's actually 100% vs 100%.
 
