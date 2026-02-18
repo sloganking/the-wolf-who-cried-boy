@@ -42,6 +42,22 @@ If you want to dance and one person says no, you ask someone else. And someone e
 
 This applies far beyond dancing. You can have connection, intimacy, love, adventure—you just can't force a specific person to be the one you have it with. When people feel powerless, it's often because they've confused "I can't have this with *them*" with "I can't have this at all." Those are very different statements. The first might be true. The second almost never is.
 
+### "But What If Nobody Will Dance?"
+
+Go a level up.
+
+If the only three dancers in your village all said no, you're not stuck. You can travel to a place where there are more dancers. You can move there permanently if dancing matters enough to you. Or you can stay where you are and *create* dancers—start a dance school, make dancing look fun, inspire people who never considered it.
+
+This is the difference between a [Victim and a Creator](../concepts/drama-triangle.md). The Victim stops at the first "no" and concludes: *I can't dance. It's not possible for me.* The Creator steps back, looks at the bigger picture, and asks: *How else could I make this happen?*
+
+People stop too soon. They stop at "she said no" and conclude they can't have connection. They stop at "the school rejected me" and conclude they can't have education. They stop at "there are no events in my city" and conclude they can't have this experience. Each of these has a solution one level up—but you have to be willing to look for it.
+
+**You're never actually stuck. You just stopped looking for solutions too soon.**
+
+The prestigious school in town said no? Apply to ten others. Move cities. Build the skills that make you undeniable. Create your own program. The path you *imagined* was blocked. The path *itself* was never blocked—you just hadn't looked for it yet.
+
+This is what 100% control actually means in practice. Not that every door opens for you. But that there's always another door—and finding it is your responsibility and your power.
+
 ### Why People Miss This
 
 When someone feels like a victim and doesn't see their power, they often correctly see that the other person had 100% control. But they fail to see that *they* also had 100% control—or something close to it.
