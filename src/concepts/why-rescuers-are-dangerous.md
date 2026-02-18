@@ -133,7 +133,7 @@ When you believe something terrible is happening RIGHT NOW, you don't have time 
 
 **2. The righteousness justifies escalation.**
 
-If you're saving someone from eternal damnation, torture is mercy. If you're protecting the community from a predator, destroying someone's reputation is defense. If you're certain you know better than someone else, treating them like a prisoner until you convert them to your way of right thinking is seen as doing them good.
+If you're protecting the community from a predator, destroying someone's reputation feels like defense. If you're certain you know better than someone else, overriding their autonomy feels like helping. If you're saving someone from harm, any action—no matter how extreme—feels justified.
 
 The higher the perceived stakes, the more extreme the response seems justified.
 
@@ -169,9 +169,11 @@ Here's the test:
 
 **Before this situation began, did this person have enemies?**
 
-The Inquisitors felt urgent. They believed they were in danger—that heretics and demons threatened everything they loved. But before the Inquisition started, they had no enemies. The "enemies" only appeared _after_ the Inquisitors began torturing and killing innocent people. The resistance they faced was a response to their own harm.
+Think about the parent who won't let their child walk to school. Before they started hovering, the child had no problems. The "dangers" only became real _after_ the parent's anxiety created a child who couldn't navigate the world independently. The parent's protection created the very vulnerability they were afraid of.
 
-**They created the enemies they were afraid of.**
+**They created the problem they were trying to prevent.**
+
+The same thing happens in these spaces. Someone intervenes to "protect" a person who didn't need protecting. The intervention creates conflict. The conflict creates sides. Now there are real enemies—and the Rescuer points to them as proof the threat was real all along.
 
 This is the pattern:
 
@@ -193,9 +195,7 @@ Real urgency looks like: someone is being harmed _right now_ and will continue t
 
 Manufactured urgency looks like: someone _might_ cause harm, someone _could_ be dangerous, someone _fits a pattern_ I'm afraid of.
 
-The Inquisitors couldn't tell the difference. That's why they tortured people with clean consciences.
-
-Can you?
+Most people can't tell the difference when their fear is activated. That's why verification matters *more* when you feel urgent, not less.
 
 ---
 
@@ -205,7 +205,7 @@ Religion is the most visible example of how powerful and transmissible belief ca
 
 This isn't a statement about the morality or correctness of any religion. It's an observation: religious beliefs spread across generations, shape behavior, justify extreme actions, and create automatic responses in billions of people.
 
-The Crusades happened because enough people shared a belief. The Inquisition happened because enough people shared a belief. These weren't lone predators—they were _movements_ powered by shared conviction.
+Every major atrocity in history was powered by shared belief. Not lone predators—_movements_ of people who were certain they were on the right side.
 
 ### Why Rescuer Beliefs Self-Propagate
 
