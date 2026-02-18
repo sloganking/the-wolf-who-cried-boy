@@ -384,6 +384,26 @@ You can't control the roll. But you can make the die so small that "bad luck" be
 
 **That's your power. That's your responsibility.**
 
+### Contributing Factors vs. Determining Factors
+
+Here's a distinction that stops arguments:
+
+**Contributing factors** are external. The traffic. The weather. The other person's behavior. The cultural conditioning. The fact that you were tired. These are real. They played a part. Nobody is denying them.
+
+**Determining factors** are internal. Your choices. Your preparation. Your awareness. Your actions and inactions. These are what actually created the outcome.
+
+When someone says "I was late because of traffic" — traffic was a contributing factor. But it didn't *determine* the outcome. You knew traffic was a possibility. You could have left earlier. You could have checked conditions. You could have accounted for it. The determining factor was that you didn't create the outcome you say you wanted.
+
+**All blame is pointing at contributing factors and calling them determining ones.**
+
+"I crossed their boundary because I was tired." Being tired contributed. But you *determined* whether you were in a state to be around people's boundaries. You determined whether you checked in. You determined whether you put yourself in that situation while impaired.
+
+"They over-responded because they have trauma." Their trauma contributed. But they *determined* whether they acted on it without verifying, whether they launched a witch hunt, whether they let their fear drive their actions.
+
+Contributing factors are real, and they matter for understanding what happened. But they don't *determine* outcomes — your choices do. The moment you confuse the two, you give your power away. You're saying "something external controlled what happened" when the truth is: you had the determining vote, and you either used it or you didn't.
+
+Next time someone — including you — explains an outcome by pointing at external circumstances, ask: "Is that a contributing factor or a determining one?" The answer is almost always contributing. And the determining factor is almost always a choice that was within someone's power.
+
 ## Omniresponsible
 
 The lightning and dice principles don't just apply to unlikely events. They apply to _everything_.
