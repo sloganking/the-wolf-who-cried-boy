@@ -287,6 +287,14 @@ The person who was called a predator—the one who made an unconscious mistake o
 
 No predator was ever present. But the trauma fed itself, proved itself, and grew. The shadow on the wall was a kitten and a candle. But everyone left believing it was a tiger.
 
+#### When Jealousy Becomes "Predator"
+
+There's another way the predator-that-wasn't-there gets created—especially in spaces where couples are exploring together.
+
+In non-monogamous spaces, jealousy is often unwelcome. It's seen as something you should have "worked through." So when jealousy shows up in your body—that knot in your stomach, that spike of fear, that urgent sense of *something is wrong*—your mind doesn't label it jealousy. It doesn't even occur to you that this is jealousy. The [feeling needs a cause](#when-the-feeling-comes-first), and "I'm insecure" isn't available. So your mind reaches for the explanation that fits: *that person is dangerous.*
+
+You're not choosing this translation. You don't know it's happening. You genuinely experience the other person as threatening—because the feeling is real, and the story your mind built to explain it is the only one you can see. And in a space where "that person seems predatory" gets concern and support while "I'm jealous" gets side-eyed, the unconscious mind has every reason to keep reaching for "predator." Not because you're manipulating anyone, but because it's the story that makes sense of the feeling without requiring you to face what's actually underneath it.
+
 ### When the Room Splinters
 
 Here's a signal that stories are running:
