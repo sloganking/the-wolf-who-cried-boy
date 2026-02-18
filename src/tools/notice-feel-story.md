@@ -108,13 +108,13 @@ The first creates defensiveness. The second creates dialogue.
 
 ### It Makes High-Stakes Conversations Inarguable
 
-Here's something powerful: when you use this framework, everything you say is **inarguable**.
+Here's something powerful: when you use this framework, everything you say is **inarguable** — because every part is a true statement about you, not a claim about external reality.
 
-- **What you noticed** — This is your subjective observation. No one can tell you that you didn't notice what you noticed.
-- **What you felt** — This is your internal experience. No one can tell you that you didn't feel what you felt.
-- **Your story** — You're explicitly naming it as a story, not claiming it as truth. You're asking if it's true, not asserting it.
+- **What you noticed** — No one can tell you that you didn't notice what you noticed.
+- **What you felt** — No one can tell you that you didn't feel what you felt.
+- **Your story** — No one can tell you that you didn't create the story you created.
 
-There's nothing to fight about. You're not making claims about objective reality. You're sharing your subjective experience and asking for clarification.
+There's nothing to fight about. You're sharing your subjective experience and then asking for clarification — inquiry, not assertion.
 
 When conversations get heated, people start making claims about what the other person did, meant, or intended. Those claims are arguable. "You abandoned me!" invites "No I didn't!"
 
