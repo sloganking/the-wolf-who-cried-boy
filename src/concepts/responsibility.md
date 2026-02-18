@@ -94,9 +94,9 @@ Not just the "perpetrator." Not just the person who made the most obvious mistak
 | The bystanders                        | What they saw and didn't address, not verifying               |
 | The facilitators                      | The container, not intervening, lack of education             |
 
-"Victim" is not a get-out-of-responsibility-free card.
+Being wronged is real. And it doesn't erase your power.
 
-Having been wronged doesn't mean you have nothing to look at.
+Even when someone else created harm, responsibility asks the same question: *What's within my reach to create differently next time?* This isn't blame. It's how you take your power back.
 
 ### What "The Person Whose Boundary Was Crossed" Can Look At
 
