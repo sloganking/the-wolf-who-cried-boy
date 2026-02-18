@@ -30,6 +30,18 @@ This isn't a contradiction. It's not zero-sum. You're not dividing 100% between 
 
 When something goes wrong, multiple people created it. You had 100% control. They had 100% control. Both are true. Both can take full responsibility without diminishing the other's.
 
+### "But What If They Say No?"
+
+Someone might hear this and think: "I *don't* have 100% control. If I ask someone to dance and they say no, I can't dance. So I'm at their mercy."
+
+Not quite. You have 100% control over *whether* you dance. You don't have 100% control over *who* you dance with.
+
+If you want to dance and one person says no, you ask someone else. And someone else. Eventually, someone says yes. The dance happens—just not with the specific person you first imagined.
+
+**You can have anything you want. You just can't have it with whoever you want.**
+
+This applies far beyond dancing. You can have connection, intimacy, love, adventure—you just can't force a specific person to be the one you have it with. When people feel powerless, it's often because they've confused "I can't have this with *them*" with "I can't have this at all." Those are very different statements. The first might be true. The second almost never is.
+
 ### Why People Miss This
 
 When someone feels like a victim and doesn't see their power, they often correctly see that the other person had 100% control. But they fail to see that *they* also had 100% control—or something close to it.
