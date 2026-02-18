@@ -99,7 +99,17 @@ The word "circumcision" exists specifically to make the act feel different from 
 
 For those who are circumcised and still think circumcision is normal: would you allow another piece to be removed? If not—why was the first piece acceptable?
 
-This is what Rescuer harm looks like. Not a lone predator. A cultural movement powered by a harmful belief, operating with moral certainty, causing harm at scale—so successfully normalized that questioning it feels radical.
+**Now notice your own reaction.**
+
+If you read this section and felt uncomfortable—like the author is making a weird deal out of something normal—pause. Look at that feeling. That's not an argument. That's not evidence that circumcision is fine. That's what being inside a normalized belief feels like.
+
+You weren't born thinking cutting part of a penis off is normal. You absorbed that belief the same way you absorb air. It came from your culture, your parents, your doctors, your environment—and now it feels so obvious that questioning it seems stranger than the practice itself.
+
+*That feeling of "this is just normal, why is he making it weird"—that is exactly what every harmful belief feels like from the inside.* The Inquisitor didn't feel weird about torture. Parents don't feel weird about hovering over their children. People in the grip of a witch hunt don't feel weird about destroying someone's reputation. It all feels *obviously correct.* That's the trap.
+
+Whether or not you ultimately agree that non-consensual circumcision is harmful—your reaction to this section is the lesson. This is what it looks like when you're inside a belief so normalized that you can't see it as a belief. It just looks like reality.
+
+And if this one is hard to see, consider: what *else* might you believe that feels just as obviously true—and is just as culturally constructed?
 
 Kellogg wasn't a villain. He was a Rescuer. That's what made him dangerous.
 
