@@ -32,7 +32,7 @@ I felt small. Helpless. Terrified of a world that seemed designed to crush me.
 
 I developed a victim mentality. Everything happened _to_ me. I had no power. I couldn't protect myself, couldn't change my circumstances, couldn't do anything but endure.
 
-That mindset ran my life for years. And it wasn't limited to my father. I was a victim *everywhere.* Powerless with women—terrified that talking to one would confirm I was unlovable. Powerless with money—convinced I couldn't create anything, that the world decided what I got. Powerless with my own mind—hostage to thoughts I couldn't control, feelings I couldn't stop, patterns I couldn't see. Every dimension of my life was filtered through the same lens: *I can't. It's hopeless. I have no power here.*
+That mindset ran my life for years. And it wasn't limited to my father. I was a victim *everywhere.* Powerless with women—terrified that talking to one would confirm I was unlovable. Powerless with money—terrified I couldn't take care of myself. Powerless with my own mind—hostage to thoughts I couldn't control, feelings I couldn't stop, patterns I couldn't see. Every dimension of my life was filtered through the same lens: *I can't. It's hopeless. I have no power here.*
 
 I was the most victim-ish victim I'd ever seen. And I believed it with every cell.
 
