@@ -59,31 +59,11 @@ And regardless of culture, there's a baseline vulnerability that doesn't go away
 
 This doesn't make the fear feel less real to the person experiencing it—whether it's earned, inherited, or some mix of both. An [implicit memory](../src/concepts/trauma-and-filters.md#when-the-feeling-comes-first) doesn't come with a label saying "this is cultural, not personal." It just shows up as fear. And the mind builds a story to explain it.
 
-### Fear vs. Reality: A Pattern We Can Prove
+### Fear vs. Reality
 
-We don't have reliable historical statistics on rape to prove this disconnect directly. But we have an analogous case that's well-documented: **child abduction.**
+How much we fear something is often disconnected from how dangerous it actually is. Cultural narratives can inflate fear far beyond statistical reality—and the fear feels completely real to the person experiencing it.
 
-Consider:
-
-- Stranger abductions are extremely rare—roughly 100-115 per year in the U.S., out of tens of millions of children
-- The statistical odds of a stranger kidnapping: approximately 1 in 720,000 to 1 in 1,000,000
-- Most "missing child" cases (~99%) are runaways or family custody disputes, not stranger abductions
-- Violent victimization of children has actually **declined** over recent decades
-
-And yet:
-
-- Parents today are more afraid of abduction than ever
-- Children who once roamed freely are now supervised constantly
-- Parents who allow age-appropriate independence—the same independence they themselves had as children—risk being reported, investigated, or even jailed
-- Some states have had to pass "free-range parenting" laws to protect parents from prosecution
-
-A generation of parents who roamed their neighborhoods freely as kids, who walked to school alone, who played outside until dark—now terrified to let their own children do the same. Not because the world got more dangerous. It got *less* dangerous. But the cultural narrative shifted, and the narrative is what they experience.
-
-The fear escalated. The actual danger decreased.
-
-This disconnect was created by media saturation, high-profile cases, and cultural narratives that amplified rare events into constant anxiety. Lenore Skenazy documented this in [*Free-Range Kids*](https://www.freerangekids.com/) and launched a movement challenging parents to calibrate fear to actual risk.
-
-**The parallel:** How much we fear something is often disconnected from how dangerous it actually is. Cultural narratives and shared stories can inflate fear far beyond statistical reality. This applies to fear of male predators in intimate spaces too. The fear is culturally alive, strongly felt, and shapes behavior—but that doesn't mean it accurately reflects the actual level of danger in any given situation.
+For a concrete, statistically proven example of this disconnect, see [The Transmissibility of Belief](../src/concepts/why-rescuers-are-dangerous.md#the-transmissibility-of-belief). The same dynamic applies here: the fear of male predators in intimate spaces is culturally alive and strongly felt, but that doesn't mean it accurately reflects the actual level of danger in any given situation.
 
 ---
 
