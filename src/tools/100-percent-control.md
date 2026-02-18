@@ -56,7 +56,17 @@ People stop too soon. They stop at "she said no" and conclude they can't have co
 
 The prestigious school in town said no? Apply to ten others. Move cities. Build the skills that make you undeniable. Create your own program. The path you *imagined* was blocked. The path *itself* was never blocked—you just hadn't looked for it yet.
 
-This is what 100% control actually means in practice. Not that every door opens for you. But that there's always another door—and finding it is your responsibility and your power.
+### Control Over *If*, Not *When*
+
+There's one thing you don't have 100% control over: **timing.**
+
+You can't guarantee that the next person you ask will say yes. You can't guarantee the dance happens tonight.
+
+But you have 100% control over *whether* it happens. And you have significant control over *roughly when*—because the more action you take, the more you compress the timeline.
+
+Think of it like rolling a die. If you roll once and need a six, you might wait a while. But if you roll a hundred dice at once, getting at least one six is nearly inevitable. Each ask, each attempt, each creative move is another die hitting the table. People who feel stuck are usually rolling one die, waiting, and concluding the game is rigged. People who get what they want are rolling fistfuls.
+
+You don't control the exact moment. But you control whether you keep rolling—and how many dice you throw at once. That's the difference between "it'll happen eventually" and "it'll happen soon."
 
 ### Why People Miss This
 
