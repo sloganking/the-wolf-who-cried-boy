@@ -786,6 +786,9 @@ This happens like magic. Neither intended it. But their reticular activating sys
 
 Both feel like victims. Both think the other person proved their story right. Neither realizes they co-created the dynamic from complementary fears.
 
+> **"Until you make the unconscious conscious, it will direct your life and you will call it fate."**  
+> — *Paraphrase of Carl Jung*
+
 **The way out:**
 
 If either one calmed down and re-centered, the dynamic dissolves.
