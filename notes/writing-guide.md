@@ -97,7 +97,7 @@ Key points:
 
 ## Author Voice & Personality
 
-The tone of "The Rescue That Broke Me" is the gold standard. The rest of the book should feel like this.
+The tone of "The Rescue That Made Me See" is the gold standard. The rest of the book should feel like this.
 
 ### The Vibe
 
