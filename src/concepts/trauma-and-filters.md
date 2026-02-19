@@ -287,7 +287,7 @@ The person who was called a predator—the one who made an unconscious mistake o
 
 No predator was ever present. But the trauma fed itself, proved itself, and grew. The shadow on the wall was a kitten and a candle. But everyone left believing it was a tiger.
 
-And the initial feeling doesn't have to come from trauma. It can come from jealousy. Insecurity. Fear of inadequacy. Any strong feeling that arrives without a clear label will get one—and in these spaces, "predator" is the label that's always within reach. The person feeling jealous doesn't know they're jealous. They just know something feels wrong, and their mind [builds a story](#when-the-feeling-comes-first) to explain it.
+And the initial feeling doesn't have to come from trauma. It can come from jealousy, insecurity, fear of inadequacy—anything that creates a strong fear reaction in your body. Any strong feeling that arrives without a clear label will get one, and in these spaces, "predator" is the label that's always within reach. The person doesn't know what's actually driving the feeling. They just know something feels wrong, and their mind [builds a story](#when-the-feeling-comes-first) to explain it.
 
 #### When the Feeling Is Jealousy
 
