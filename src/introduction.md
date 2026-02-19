@@ -92,7 +92,9 @@ This guide will challenge some things you might believe.
 
 It will say that victims have responsibility too. That power dynamics go both ways. That crying victim loud enough can make you the perpetrator. That your trauma doesn't excuse harming others. That [Rescuers cause more destruction than predators ever could](./concepts/why-rescuers-are-dangerous.md).
 
-It's about empowerment. Seeing your power. Recognizing that you're not helpless, even when bad things happen. That clarity and fairness serve everyone better than mob justice and shame spirals.
+The question this book keeps asking: **are the people causing harm in these spaces bad — or are they blind?**
+
+Most harm doesn't come from malice. It comes from people who can't see what they're doing — to themselves or to others. That changes everything about how you respond. You don't fix blindness with punishment. You fix it with sight.
 
 If that lands wrong at first, sit with it. The concepts build on each other.
 
