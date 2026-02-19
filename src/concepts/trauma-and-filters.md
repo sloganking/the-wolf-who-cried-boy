@@ -289,6 +289,20 @@ No predator was ever present. But the trauma fed itself, proved itself, and grew
 
 And the initial feeling doesn't have to come from trauma. It can come from jealousy. Insecurity. Fear of inadequacy. Any strong feeling that arrives without a clear label will get one—and in these spaces, "predator" is the label that's always within reach. The person feeling jealous doesn't know they're jealous. They just know something feels wrong, and their mind [builds a story](#when-the-feeling-comes-first) to explain it.
 
+#### When the Feeling Is Jealousy
+
+> **"Love is that condition in which the happiness of another person is essential to your own."**
+>
+> — _Stranger in a Strange Land_, Robert A. Heinlein
+
+Jealousy is not love. People confuse them constantly—"I'm only this upset because I love them so much." But if love is wanting someone's happiness, and jealousy is wanting to control who gives it to them, they're pulling in opposite directions. They can coexist, but one crowds the other out.
+
+If you're at an event and you find yourself activated—angry, protective, ready to go after someone—pause and ask:
+
+1. **If this didn't involve the person I care about, would I react this intensely?** If the answer is no, the intensity is coming from your attachment, not from what actually happened.
+2. **Did they ask for this? Were they already okay?** If they already felt complete—if they already did repair, already moved on—then your response isn't serving them. It's serving something in you. That could be jealousy, trauma, insecurity, or something else entirely. But if the person you're "protecting" is already fine, you're not doing this for them.
+3. **What am I actually afraid of?** Not what the story says you're afraid of. What's underneath it. Sometimes it's genuine concern for safety. Sometimes it's jealousy you haven't admitted. Sometimes it's old trauma that found a target. The answer matters—because each one calls for a completely different response.
+
 ### When the Room Splinters
 
 Here's a signal that stories are running:
