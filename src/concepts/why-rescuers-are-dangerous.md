@@ -107,8 +107,6 @@ This is how language creates belief-blindness. A specialized word packages somet
 
 When you notice a community — any community — using specific language that outsiders don't use, pay attention. Ask yourself: _if I stripped this word away, what would someone with no context call what's happening?_ The gap between the specialized word and the plain description is where belief-blindness lives.
 
-For those who are circumcised and still think circumcision is normal: would you allow another piece to be removed? If not—why was the first piece acceptable?
-
 **Now notice your own reaction.**
 
 If you read this section and felt uncomfortable—like the author is making a weird deal out of something normal—pause. Look at that feeling. That's not an argument. That's not evidence that circumcision is fine. That's what being inside a normalized belief feels like.
