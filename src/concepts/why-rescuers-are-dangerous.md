@@ -111,7 +111,7 @@ When you notice a community — any community — using specific language that o
 
 If you read this section and felt uncomfortable—like the author is making a weird deal out of something normal—pause. Look at what that belief is actually doing. It's causing you to feel normal about cutting part of someone's body off without their consent or opinion. Step back from the belief and look at that mechanically: a person who cannot speak for themselves has a piece of their body permanently removed because the people around them believe it's fine. From the outside, that looks remarkably close to harm. The only reason it doesn't look that way from the inside is the belief.
 
-Whenever you strip a belief away and the thing underneath looks like harm — whenever what's left is someone being hit, cut, shamed, controlled, or made to suffer — that's your cue to stop and examine. Even if everyone involved seems fine with it. Not because you know better than they do — but because *you* deserve to make your own informed choice about what you believe and what you do, rather than running on autopilot installed by your culture.
+Whenever you strip a belief away and the thing underneath looks like harm — whenever what's left is someone being hit, cut, shamed, controlled, exiled, or made to suffer — that's your cue to stop and examine. Even if everyone involved seems fine with it. Not because you know better than they do — but because *you* deserve to make your own informed choice about what you believe and what you do, rather than running on autopilot installed by your culture.
 
 Ask: is this belief actually serving me and the people around me? Or is it causing harm that I've been trained not to see?
 
