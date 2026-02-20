@@ -109,6 +109,10 @@ You weren't born thinking cutting part of a penis off is normal. You absorbed th
 
 Whether or not you ultimately agree that non-consensual circumcision is harmful—your reaction to this section is the lesson. This is what it looks like when you're inside a belief so normalized that you can't see it as a belief. It just looks like reality.
 
+There's a word for this state: **belief-blind.** Not stupid. Not gullible. Not lacking intelligence. Just unable to see past a belief that feels so obviously true it doesn't register as a belief at all. Everyone who's ever looked at a cult and thought "how could they not see it?" is asking the wrong question. They couldn't see it the same way you can't see yours — because from the inside, beliefs don't look like beliefs. They look like the way things are.
+
+If you haven't been in the practice of examining what you believe and where those beliefs came from, you're navigating life with blind spots you don't know you have. And the beliefs you've never examined are the ones running the most of your life.
+
 And if this one is hard to see, consider: what *else* might you believe that feels just as obviously true—and is just as culturally constructed?
 
 Kellogg wasn't a villain. He was a Rescuer. That's what made him dangerous.
