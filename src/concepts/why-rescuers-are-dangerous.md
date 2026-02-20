@@ -97,6 +97,10 @@ If someone cuts off a section of a boy's penis—removing tissue containing a si
 
 The word "circumcision" exists specifically to make the act feel different from what it is. Without that word, we'd have to say what actually happened: _someone cut part of a baby's genitals off._
 
+This is how language creates belief-blindness. A specialized word packages an act so neatly that you stop seeing what it actually is. "Circumcision" sounds medical and routine. "Heretic" let an entire civilization skip individual assessment — anyone with that label deserved whatever came next, no questions asked. In these spaces, the word "predator" does the same thing: once someone is labeled a predator, due process feels unnecessary. Who needs due process for a *predator*?
+
+When you notice a community — any community — using specific language that outsiders don't use, pay attention. Ask yourself: *if I stripped this word away, what would someone with no context call what's happening?* The gap between the specialized word and the plain description is where belief-blindness lives.
+
 For those who are circumcised and still think circumcision is normal: would you allow another piece to be removed? If not—why was the first piece acceptable?
 
 **Now notice your own reaction.**
