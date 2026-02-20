@@ -109,7 +109,11 @@ You weren't born thinking cutting part of a penis off is normal. You absorbed th
 
 Whether or not you ultimately agree that non-consensual circumcision is harmful—your reaction to this section is the lesson. This is what it looks like when you're inside a belief so normalized that you can't see it as a belief. It just looks like reality.
 
-There's a word for this state: **belief-blind.** Not stupid. Not gullible. Not lacking intelligence. Just unable to see past a belief that feels so obviously true it doesn't register as a belief at all. Everyone who's ever looked at a cult and thought "how could they not see it?" is asking the wrong question. They couldn't see it the same way you can't see yours — because from the inside, beliefs don't look like beliefs. They look like the way things are.
+There's a term for this state: **belief-blindness.** Not stupidity. Not gullibility. Not a lack of intelligence. Just the inability to see past a belief that feels so obviously true it doesn't register as a belief at all.
+
+Most people look at a cult and think the members must be stupid — that a smarter person would see through the delusion. But that assumption is itself a form of belief-blindness. You're blind to how belief actually works in humans. People don't join cults because they're dumb. They drift into beliefs the same way you drifted into yours — through culture, environment, repetition, and trust. And once a belief is installed, intelligence doesn't protect you from it. It just makes you better at defending it.
+
+Thinking "they're just stupid" isn't clarity. It's a story — your first plausible explanation — and because you've accepted it, you're blind to what's actually happening, blind to how to help, and blind to the fact that you're doing the exact same thing in areas you haven't examined yet.
 
 If you haven't been in the practice of examining what you believe and where those beliefs came from, you're navigating life with blind spots you don't know you have. And the beliefs you've never examined are the ones running the most of your life.
 
