@@ -115,11 +115,9 @@ Whenever you strip a belief away and the thing underneath looks like harm — wh
 
 Ask: is this belief actually serving me and the people around me? Or is it causing harm that I've been trained not to see?
 
-You weren't born thinking cutting part of a penis off is normal. You absorbed that belief the same way you absorb air. It came from your culture, your parents, your doctors, your environment—and now it feels so obvious that questioning it seems stranger than the practice itself.
+You weren't born thinking any of this was normal. You absorbed it the same way you absorb air — from your culture, your parents, your environment. The Inquisitor didn't feel weird about torture. Parents don't feel weird about hovering over their children. People in the grip of a witch hunt don't feel weird about destroying someone's reputation. It all feels *obviously correct.* That's the trap.
 
-_That feeling of "this is just normal, why is he making it weird"—that is exactly what every harmful belief feels like from the inside._ The Inquisitor didn't feel weird about torture. Parents don't feel weird about hovering over their children. People in the grip of a witch hunt don't feel weird about destroying someone's reputation. It all feels _obviously correct._ That's the trap.
-
-Whether or not you ultimately agree that non-consensual circumcision is harmful—your reaction to this section is the lesson. This is what it looks like when you're inside a belief so normalized that you can't see it as a belief. It just looks like reality.
+Whether or not you ultimately agree that non-consensual circumcision is harmful — your reaction to this section is the lesson. This is what it looks like when you're inside a belief so normalized that you can't see it as a belief. It just looks like reality.
 
 There's a term for this state: **belief-blindness.** Not stupidity. Not gullibility. Not a lack of intelligence. Just the inability to see past a belief that feels so obviously true it doesn't register as a belief at all.
 
