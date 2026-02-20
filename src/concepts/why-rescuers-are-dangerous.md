@@ -95,11 +95,17 @@ If someone pricks a girl's clitoris with a needle—reducing sensitivity slightl
 
 If someone cuts off a section of a boy's penis—removing tissue containing a significant portion of nerve endings—we call it tradition. We consider it normal. Maybe even cleaner or healthier—justifications that arrived long after the practice started, and long after its original purpose became embarrassing. People don't circumcise their sons because of health statistics. They do it because their dad was circumcised, and his dad before him, and it's just what you do.
 
-The word "circumcision" exists specifically to make the act feel different from what it is. Without that word, we'd have to say what actually happened: _someone cut part of a baby's genitals off._
+The word "circumcision" exists to make you think and feel about the act differently than you would by default. Without that word, you'd have to describe what actually happened — and notice how differently these two sentences land:
 
-This is how language creates belief-blindness. A specialized word packages an act so neatly that you stop seeing what it actually is. "Circumcision" sounds medical and routine. "Heretic" let an entire civilization skip individual assessment — anyone with that label deserved whatever came next, no questions asked. In these spaces, the word "predator" does the same thing: once someone is labeled a predator, due process feels unnecessary. Who needs due process for a *predator*?
+_"Would you like to be circumcised?"_
 
-When you notice a community — any community — using specific language that outsiders don't use, pay attention. Ask yourself: *if I stripped this word away, what would someone with no context call what's happening?* The gap between the specialized word and the plain description is where belief-blindness lives.
+_"Can I cut part of your penis off?"_
+
+Same act. Completely different feeling. That's the power of language to shape perception. The specialized word wraps the act in familiarity and routine. The plain description lets you see it fresh.
+
+This is how language creates belief-blindness. A specialized word packages something so neatly that you stop noticing what's underneath it. "Heretic" let an entire civilization skip individual assessment — anyone with that label deserved whatever came next, no questions asked. In these spaces, the word "predator" does the same thing: once someone is labeled a predator, due process feels unnecessary. Who needs due process for a _predator_?
+
+When you notice a community — any community — using specific language that outsiders don't use, pay attention. Ask yourself: _if I stripped this word away, what would someone with no context call what's happening?_ The gap between the specialized word and the plain description is where belief-blindness lives.
 
 For those who are circumcised and still think circumcision is normal: would you allow another piece to be removed? If not—why was the first piece acceptable?
 
@@ -109,7 +115,7 @@ If you read this section and felt uncomfortable—like the author is making a we
 
 You weren't born thinking cutting part of a penis off is normal. You absorbed that belief the same way you absorb air. It came from your culture, your parents, your doctors, your environment—and now it feels so obvious that questioning it seems stranger than the practice itself.
 
-*That feeling of "this is just normal, why is he making it weird"—that is exactly what every harmful belief feels like from the inside.* The Inquisitor didn't feel weird about torture. Parents don't feel weird about hovering over their children. People in the grip of a witch hunt don't feel weird about destroying someone's reputation. It all feels *obviously correct.* That's the trap.
+_That feeling of "this is just normal, why is he making it weird"—that is exactly what every harmful belief feels like from the inside._ The Inquisitor didn't feel weird about torture. Parents don't feel weird about hovering over their children. People in the grip of a witch hunt don't feel weird about destroying someone's reputation. It all feels _obviously correct._ That's the trap.
 
 Whether or not you ultimately agree that non-consensual circumcision is harmful—your reaction to this section is the lesson. This is what it looks like when you're inside a belief so normalized that you can't see it as a belief. It just looks like reality.
 
@@ -121,7 +127,7 @@ Thinking "they're just stupid" isn't clarity. It's a story — your first plausi
 
 If you haven't been in the practice of examining what you believe and where those beliefs came from, you're navigating life with blind spots you don't know you have. And the beliefs you've never examined are the ones running the most of your life.
 
-And if this one is hard to see, consider: what *else* might you believe that feels just as obviously true—and is just as culturally constructed?
+And if this one is hard to see, consider: what _else_ might you believe that feels just as obviously true—and is just as culturally constructed?
 
 Kellogg wasn't a villain. He was a Rescuer. That's what made him dangerous.
 
@@ -217,7 +223,7 @@ Real urgency looks like: someone is being harmed _right now_ and will continue t
 
 Manufactured urgency looks like: someone _might_ cause harm, someone _could_ be dangerous, someone _fits a pattern_ I'm afraid of.
 
-Most people can't tell the difference when their fear is activated. That's why verification matters *more* when you feel urgent, not less.
+Most people can't tell the difference when their fear is activated. That's why verification matters _more_ when you feel urgent, not less.
 
 ---
 
