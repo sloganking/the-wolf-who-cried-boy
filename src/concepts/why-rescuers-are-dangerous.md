@@ -109,7 +109,9 @@ When you notice a community — any community — using specific language that o
 
 **Now notice your own reaction.**
 
-If you read this section and felt uncomfortable—like the author is making a weird deal out of something normal—pause. Look at that feeling. That's not an argument. That's not evidence that circumcision is fine. That's what being inside a normalized belief feels like.
+If you read this section and felt uncomfortable—like the author is making a weird deal out of something normal—pause. Look at what that belief is actually doing. It's causing you to feel normal about cutting part of someone's body off without their consent or opinion. Step back from the belief and look at that mechanically: a person who cannot speak for themselves has a piece of their body permanently removed because the people around them believe it's fine. From the outside, that looks remarkably close to harm. The only reason it doesn't look that way from the inside is the belief.
+
+Whenever you strip a belief away and the thing underneath looks like harm — whenever what's left is someone being hit, cut, shamed, controlled, or made to suffer — that's your cue to stop and examine. Ask: is this belief actually serving me and the people around me? Or is it causing harm that I've been trained not to see?
 
 You weren't born thinking cutting part of a penis off is normal. You absorbed that belief the same way you absorb air. It came from your culture, your parents, your doctors, your environment—and now it feels so obvious that questioning it seems stranger than the practice itself.
 
