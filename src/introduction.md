@@ -21,6 +21,7 @@ It's not about being perfect. It's about knowing what to do when things aren't.
 - **Participants** in play parties, cuddle events, tantra workshops, sacred sexuality temples, somatic experiencing groups, or any space where bodies and boundaries intersect
 - **Facilitators** who hold these spaces and need to respond when things go wrong
 - **Anyone** who wants to think more clearly about mistakes, responsibility, and repair
+- **Anyone** who suspects their perception might not be as clear as it feels
 
 ### A Note for Facilitators
 
@@ -192,25 +193,25 @@ Welcome to clearer thinking.
 
 A few years ago, I was barely surviving.
 
-I was in a seven-year dry spell—no romance, no intimacy, no touch. I was having panic attacks that lasted eight hours, every other day. I was borderline suicidal, overwhelmed with intrusive thoughts I'd never experienced before. I genuinely believed I was the most hopeless case I'd ever seen.
+I was in a seven-year dry spell — no romance, no intimacy, no touch. I was having panic attacks that lasted eight hours, every other day. I was borderline suicidal, overwhelmed with intrusive thoughts I'd never experienced before. I genuinely believed I was the most hopeless case I'd ever seen.
 
-I went to therapy—five hours a week for over a year. It helped me understand things intellectually, but it didn't change my automatic patterns. That's when I realized: you can't think your way out of trauma. You have to live your way out.
+I was blind. Completely blind — to the beliefs running my life, to the stories I was telling myself, to the invisible patterns keeping me trapped. And because I couldn't see them, I couldn't change them. I just suffered and called it fate.
 
-So I tried everything. I went to my first BDSM party, terrified but done hiding. I discovered conscious sexuality communities. I started attending play parties as exposure therapy—crying at some of them, connecting at others, learning at all of them. Each experience taught me something. Each risk built evidence that I could create the life I wanted.
+I went to therapy — five hours a week for over a year. It helped me understand things intellectually, but it didn't change my automatic patterns. That's when I realized: you can't think your way out of trauma. You have to live your way out.
 
-Today, I'm living a life I couldn't have imagined.
+So I tried everything. I went to my first BDSM party, terrified but done hiding. I discovered conscious sexuality communities. I started attending play parties as exposure therapy — crying at some of them, connecting at others, learning at all of them. Each experience taught me something. Each risk built evidence that I could create the life I wanted.
 
-I've gone from a 7-year dry spell to having five times as many meaningful connections in two years as in my entire life before. I walk into play parties and retreats with ease. Rejection rolls off in minutes instead of days. The trauma, the triggers, the panic—they don't run my life anymore.
+But the real transformation wasn't going from no sex to sex parties. It was going from blind and suffering to _seeing_. Seeing the invisible beliefs that had been running my entire life — around women, money, worth, safety, power — and learning to snip them, one by one. The external changes followed on their own.
+
+Today, I work as an Identity Engineer. I see the invisible beliefs running people's lives — the puppet strings they don't know are there — and I show them how to cut them. Sex and intimacy are a specialty, but the skill applies everywhere: money, confidence, relationships, identity under crisis. The machinery is the same.
 
 **I wrote this book because I know what it's like to be on both sides.**
 
-I've made mistakes in these spaces. I've been accused of things I didn't do. I've fawned when I should have set boundaries. I've watched people destroy each other with witch hunts based on vibes instead of facts. And I've learned—the hard way—how to navigate all of it with more clarity and less harm.
+I've made mistakes in these spaces. I've been accused of things I didn't do. I've fawned when I should have set boundaries. I've watched people destroy each other with witch hunts based on vibes instead of facts. And I've learned — the hard way — how to navigate all of it with more clarity and less harm.
 
-Our spaces have so much going for them. But when conflict arises—when someone cries victim, when accusations fly, when mistakes get treated like malice—most people have no framework. They just react from fear, trauma, and mob instinct. **This is the single area where our communities need the most help.** And nobody was teaching it.
+Our spaces have so much going for them. But when conflict arises — when someone cries victim, when accusations fly, when mistakes get treated like malice — most people have no framework. They just react from fear, trauma, and mob instinct. **This is the single area where our communities need the most help.** And nobody was teaching it.
 
-So I built this. Everything here comes from lived experience—years of navigating these spaces, learning from both successes and mistakes, and growing through all of it. This book is the framework I wish everyone had.
-
-This work became my path. I trained with some of the best in the field:
+So I built this. Everything here comes from lived experience — years of navigating these spaces, seeing the patterns most people miss, and learning from both sides of every dynamic. This book is the framework I wish everyone had.
 
 ### Training & Background
 
@@ -219,11 +220,11 @@ This work became my path. I trained with some of the best in the field:
 - Week-long [ISTA](https://ista.life/) retreats and intensive containers
 - 2+ years of weekly workshops, play parties, and immersive practice
 
-### Want to Work Together?
+### Want to Go Deeper?
 
-If you want personalized support navigating these spaces—or transforming your relationship with intimacy, rejection, and connection—I offer 1-on-1 coaching.
+If something in this book hit home — if you recognized a pattern in yourself, a belief you didn't know you had, a string you want to cut — I work with people 1-on-1.
 
-**Learn more:** [sloganking.github.io/coaching-website](https://sloganking.github.io/coaching-website/)
+**Learn more:** [sloganking.github.io/coaching](https://sloganking.github.io/coaching/)
 
 ---
 
