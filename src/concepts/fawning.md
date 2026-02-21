@@ -472,7 +472,7 @@ Same experience—being told no. Completely different feelings based on the stor
 | Story                                         | Feeling                   |
 | --------------------------------------------- | ------------------------- |
 | "I'm not enough for this person"              | Pain, rejection, shame    |
-| "This person cares enough to protect us both" | Gratitude, relief, safety |
+| "This person cares enough to protect us both" | Gratitude, relief, safety, trust |
 
 The experience didn't change. Your interpretation did. And that story will shift as you gain experience.
 
