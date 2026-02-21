@@ -478,7 +478,7 @@ The experience didn't change. Your interpretation did. And that story will shift
 
 ### What Confidence Actually Is
 
-Behavioral researcher Chase Hughes defines confidence as "a generalized expectation of positive outcomes."
+Chase Hughes, founder of NCI University and trainer of law enforcement and intelligence professionals in reading human behavior, defines confidence as "a generalized expectation of positive outcomes."
 
 Confidence isn't a performance. It's not something you fake or force. It's what happens when your body has enough evidence that things tend to work out.
 
