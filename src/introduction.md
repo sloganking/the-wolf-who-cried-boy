@@ -209,7 +209,7 @@ Today, I work as an Identity Engineer. I see the invisible beliefs running peopl
 
 I've made mistakes in these spaces. I've been accused of things I didn't do. I've fawned when I should have set boundaries. I've watched people destroy each other with witch hunts based on vibes instead of facts. And I've learned — the hard way — how to navigate all of it with more clarity and less harm.
 
-Our spaces have so much going for them. But when conflict arises — when someone cries victim, when accusations fly, when mistakes get treated like malice — most people have no framework. They just react from fear, trauma, and mob instinct. **This is the single area where our communities need the most help.** And nobody was teaching it.
+Play parties, tantra workshops, conscious sexuality spaces — they have so much going for them. But when conflict arises — when someone cries victim, when accusations fly, when mistakes get treated like malice — most people have no framework. They just react from fear, trauma, and mob instinct. **This is the single area where our communities need the most help.** And nobody was teaching it.
 
 So I built this. Everything here comes from lived experience — years of navigating these spaces, seeing the patterns most people miss, and learning from both sides of every dynamic. This book is the framework I wish everyone had.
 
