@@ -193,7 +193,7 @@ Welcome to clearer thinking.
 
 A few years ago, I was barely surviving.
 
-It started long before the dry spell. I grew up with a victim mentality — stories about being small, powerless, not enough — installed so early I didn't know they were stories. They felt like reality. By the time I was an adult, those beliefs had shaped everything: seven years without sex, intimacy, or touch. Panic attacks that lasted eight hours, every other day. Anxiety around worth and rejection so severe I could barely function. I was borderline suicidal, overwhelmed with intrusive thoughts I'd never experienced before. I genuinely believed I was the most hopeless case I'd ever seen.
+It started long before the dry spell. I grew up with a victim mentality — stories about being small, powerless, not enough — installed so early I didn't know they were stories. They felt like reality. By the time I was an adult, one belief ran everything: I'm unworthy, and anyone who really sees me will see that and reject me. That belief made me so afraid that I stopped taking action — and that's what created seven years without sex, intimacy, or touch. Not bad luck. Not being unattractive. One invisible belief, keeping me frozen. Panic attacks that lasted eight hours, every other day. Anxiety around worth and rejection so severe I could barely function. I was borderline suicidal, overwhelmed with intrusive thoughts I'd never experienced before. I genuinely believed I was the most hopeless case I'd ever seen.
 
 I was blind. Completely blind — to the beliefs running my life, to the stories I was telling myself, to the invisible patterns keeping me trapped. And because I couldn't see them, I couldn't change them. I just suffered and called it fate.
 
