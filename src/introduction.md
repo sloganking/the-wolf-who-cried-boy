@@ -199,7 +199,7 @@ I was blind. Completely blind — to the beliefs running my life, to the stories
 
 I went to therapy — five hours a week for over a year. It helped me understand things intellectually, but it didn't change my automatic patterns. That's when I realized: you can't think your way out of trauma. You have to live your way out.
 
-So I tried everything. I went to my first play party, terrified — not because of the party, but because rejection felt like death to me. I discovered conscious sexuality communities. I started attending as exposure therapy — crying at some events, connecting at others, learning at all of them. Each experience taught me something. Each risk built evidence that I could create the life I wanted.
+So I tried everything. I went to my first play party, terrified — not because of the party, but because rejection felt like walking into fire. Every "no" confirmed the story I'd been carrying: _I'm unlovable. No one will ever want me._ I discovered conscious sexuality communities. I started attending as exposure therapy — crying at some events, connecting at others, learning at all of them. Each experience taught me something. Each risk built evidence that I could create the life I wanted.
 
 But the real transformation wasn't going from no sex to play parties. It was learning to _see_. The childhood beliefs that made me feel small — they were the same beliefs that created the dry spell, the panic attacks, the paralysis around women. It was always one thread. Once I could see it, I could pull it. And once the first invisible belief came loose, I started finding them everywhere — around money, worth, safety, power, all of it. The external changes followed on their own.
 
