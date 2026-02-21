@@ -193,15 +193,15 @@ Welcome to clearer thinking.
 
 A few years ago, I was barely surviving.
 
-I was in a seven-year dry spell — no romance, no intimacy, no touch. I was having panic attacks that lasted eight hours, every other day. I was borderline suicidal, overwhelmed with intrusive thoughts I'd never experienced before. I genuinely believed I was the most hopeless case I'd ever seen.
+It started long before the dry spell. I grew up with a victim mentality — stories about being small, powerless, not enough — installed so early I didn't know they were stories. They felt like reality. By the time I was an adult, those beliefs had shaped everything: seven years without romance, intimacy, or touch. Panic attacks that lasted eight hours, every other day. Anxiety around rejection so severe I could barely function. I was borderline suicidal, overwhelmed with intrusive thoughts I'd never experienced before. I genuinely believed I was the most hopeless case I'd ever seen.
 
 I was blind. Completely blind — to the beliefs running my life, to the stories I was telling myself, to the invisible patterns keeping me trapped. And because I couldn't see them, I couldn't change them. I just suffered and called it fate.
 
 I went to therapy — five hours a week for over a year. It helped me understand things intellectually, but it didn't change my automatic patterns. That's when I realized: you can't think your way out of trauma. You have to live your way out.
 
-So I tried everything. I went to my first BDSM party, terrified but done hiding. I discovered conscious sexuality communities. I started attending play parties as exposure therapy — crying at some of them, connecting at others, learning at all of them. Each experience taught me something. Each risk built evidence that I could create the life I wanted.
+So I tried everything. I went to my first play party, terrified — not because of the party, but because rejection felt like death to me. I discovered conscious sexuality communities. I started attending as exposure therapy — crying at some events, connecting at others, learning at all of them. Each experience taught me something. Each risk built evidence that I could create the life I wanted.
 
-But the real transformation wasn't going from no sex to sex parties. It was going from blind and suffering to _seeing_. Seeing the invisible beliefs that had been running my entire life — around women, money, worth, safety, power — and learning to snip them, one by one. The external changes followed on their own.
+But the real transformation wasn't going from no sex to play parties. It was learning to _see_. The childhood beliefs that made me feel small — they were the same beliefs that created the dry spell, the panic attacks, the paralysis around women. It was always one thread. Once I could see it, I could pull it. And once the first invisible belief came loose, I started finding them everywhere — around money, worth, safety, power, all of it. The external changes followed on their own.
 
 Today, I work as an Identity Engineer. I see the invisible beliefs running people's lives — the puppet strings they don't know are there — and I show them how to cut them. Sex and intimacy are a specialty, but the skill applies everywhere: money, confidence, relationships, identity under crisis. The machinery is the same.
 
