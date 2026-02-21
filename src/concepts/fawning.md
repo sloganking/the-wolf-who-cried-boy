@@ -476,6 +476,16 @@ Same experience—being told no. Completely different feelings based on the stor
 
 The experience didn't change. Your interpretation did. And that story will shift as you gain experience.
 
+### What Confidence Actually Is
+
+Behavioral researcher Chase Hughes defines confidence as "a generalized expectation of positive outcomes."
+
+Confidence isn't a performance. It's not something you fake or force. It's what happens when your body has enough evidence that things tend to work out.
+
+Each time you show up and survive — each rejection that doesn't kill you, each connection that surprises you — your expectation updates. You stop bracing for catastrophe. That shift IS confidence. You don't build it. You accumulate evidence, and it arrives on its own.
+
+This is why experienced people seem relaxed at events. They're not naturally confident. They've just been to enough of them where things went okay that their nervous system updated.
+
 ### No Is an Act of Care
 
 Here's what you'll eventually see:
