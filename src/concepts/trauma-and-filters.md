@@ -804,6 +804,8 @@ This happens like magic. Neither intended it. But their reticular activating sys
 
 Both feel like victims. Both think the other person proved their story right. Neither realizes they co-created the dynamic from complementary fears.
 
+[Taking responsibility](./responsibility.md) here is tricky — because both people's patterns are invisible to them. The person afraid of predators doesn't see how their hypervigilance creates false accusations. The person afraid of being attacked doesn't see how their over-apologizing paints a target on themselves. They'll cycle through this dynamic over and over — feeling victimized, feeling afraid, never resting — genuinely believing it's happening *to* them. Breaking the cycle requires something most people never consider: waking up to the unconscious pattern itself. You can't take responsibility for power you don't know you have.
+
 > **"Until you make the unconscious conscious, it will direct your life and you will call it fate."**  
 > — _Paraphrase of Carl Jung_
 
