@@ -798,7 +798,7 @@ This happens like magic. Neither intended it. But their reticular activating sys
 
 **The painful irony:**
 
-> The people most afraid of being harmed are most likely to cause harm—by seeing and attacking false predators.
+> The people most afraid of predators are most likely to cause harm—by seeing and attacking people who aren't.
 >
 > The people most afraid of being misunderstood and attacked are most likely to wind up being attacked.
 
