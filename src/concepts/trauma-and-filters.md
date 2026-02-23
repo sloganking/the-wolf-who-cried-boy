@@ -733,7 +733,7 @@ The people who think they'd never make a mistake are the most dangerous—both t
 
 **This pattern in action:**
 
-During a group exercise, men are invited to embody their strength—shouting, flexing, expressing power. One participant looks uncomfortable. He says something like: "Isn't this what toxic masculinity is? Isn't this what we're supposed to stop?"
+During a group exercise, men are invited to embody their protective strength — the warrior who fights for what he loves. Shouting, flexing, expressing power. One participant looks uncomfortable. He says something like: "Isn't this what toxic masculinity is? Isn't this what we're supposed to stop?"
 
 Notice where his attention already is: scanning for predators, toxic people, threats that need to be stopped. His reticular activating system is primed for danger before anything has happened. Everyone else sees a strength exercise. He sees potential abusers.
 
