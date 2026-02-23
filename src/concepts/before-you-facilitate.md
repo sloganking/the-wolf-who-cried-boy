@@ -174,6 +174,16 @@ The same logic applies: you wouldn't let someone work your event if they hadn't 
 
 This is the jumpmaster check for your staff's filters. Don't let them jump with their RAS primed for predators.
 
+### Pre-Framing: The Flip Side
+
+What you just read is pre-framing — your filter gets set before you walk into the room. Horror content pre-frames your staff to see threats. But the same mechanism works in the positive direction.
+
+When you open your container by telling everyone "people here are learning, mistakes are expected, and when something goes wrong we repair with love — everyone around you is your friend," you're pre-framing every participant's filter. You're setting their RAS to interpret ambiguous moments as learning rather than threats.
+
+This matters because the first frame applied to a situation tends to stick. If someone's filter is already set to "safe learning environment where mistakes are expected," then when a boundary gets crossed, their first interpretation is "that was a mistake, let's repair." If their filter was never set — or worse, was set by scrolling through callout posts before arriving — their first interpretation might be "predator." And once that label lands, it's nearly impossible to dislodge. The group's perception crystallizes around it.
+
+Your opening remarks aren't a formality. They're inoculation — you're installing the group's immune system before anyone gets sick.
+
 ---
 
 ## Will You Play With Participants?
