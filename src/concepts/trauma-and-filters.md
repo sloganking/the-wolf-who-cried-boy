@@ -854,9 +854,7 @@ Both interpretations create very different [appropriate responses](./appropriate
 
 One leads to a simple conversation. The other might lead to accusations, witch hunts, or [high-severity](./severity.md) responses to a low-severity mistake.
 
-## Limiting Beliefs & Primary Questions
-
-(Concept from Tony Robbins' Date with Destiny)
+## The Filter You Don't Know You're Wearing
 
 There may be a single sentence running your life and tainting how you see everything in the world.
 
