@@ -143,7 +143,7 @@ Not because the threats are real. Because that's what you're looking for.
 
 ---
 
-### Don't Watch Horror Before Temple
+### Choose Your Lens
 
 If you spend five hours consuming content about scary murders, rapists, and consent violations right before you go to a play party—what are you setting yourself up for?
 
