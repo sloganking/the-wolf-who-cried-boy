@@ -767,7 +767,7 @@ This story doesn't just distort perception. **It creates the thing it fears.**
 
 Say they're on a team. They make a minor error—the kind everyone makes. But they hyper-focus on it: _Oh no, someone might misunderstand this._ So they proactively bring it up at the team meeting, trying to seem accountable.
 
-The problem: everyone makes these mistakes, but no one else mentions theirs. Now this person is the only one the team hears making errors. Week after week. Their confessions are training everyone else's RAS: _This person is mistake-prone. Watch them._
+The problem: everyone makes these mistakes, but no one else mentions theirs. In fact, the others might not even perceive their own identical actions as mistakes — their RAS isn't tuned to "being misunderstood," so the same behavior that this person agonizes over doesn't even register for them. They're not staying quiet strategically. They genuinely don't see it. Now this person is the only one the team hears making errors. Week after week. Their confessions are training everyone else's RAS: _This person is mistake-prone. Watch them._
 
 They think they're being responsible. They're actually painting a target on themselves.
 
