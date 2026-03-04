@@ -138,6 +138,16 @@ Learning sticks better when it's immediately applicable. Real experiences make t
 
 Then explore the rest as needed.
 
+### If your team is in active crisis:
+
+You don't have time to read this entire book. But you don't have to.
+
+Call a staff meeting. Assign each person on your team one page from this book — whichever pages are most relevant to what you're dealing with. Give everyone enough time to read their page. Then come back together and discuss.
+
+Each person now has deep knowledge of one piece of the framework. One person understands [severity](./concepts/severity.md). Another understands [trauma and filters](./concepts/trauma-and-filters.md). Another has read [handling threats of violence](./concepts/handling-threats-of-violence.md). When you discuss as a group, the collective intelligence of the team covers far more ground than any single person could absorb under pressure.
+
+This works even if you've already read the book yourself — because your staff are the ones making real-time decisions alongside you, and right now they're operating without the framework. Getting them up to speed on even one page each transforms the quality of your team's thinking when you need it most.
+
 ### If something just happened:
 
 Go straight to:
@@ -154,16 +164,6 @@ Read everything, then focus on:
 2. [Before You Judge](./concepts/before-you-judge.md)
 3. [Power Dynamics](./concepts/power-dynamics.md)
 4. [Facilitator Protocols](./concepts/facilitator-protocols.md)
-
-### If your team is in active crisis:
-
-You don't have time to read this entire book. But you don't have to.
-
-Call a staff meeting. Assign each person on your team one page from this book — whichever pages are most relevant to what you're dealing with. Give everyone enough time to read their page. Then come back together and discuss.
-
-Each person now has deep knowledge of one piece of the framework. One person understands [severity](./concepts/severity.md). Another understands [trauma and filters](./concepts/trauma-and-filters.md). Another has read [handling threats of violence](./concepts/handling-threats-of-violence.md). When you discuss as a group, the collective intelligence of the team covers far more ground than any single person could absorb under pressure.
-
-This works even if you've already read the book yourself — because your staff are the ones making real-time decisions alongside you, and right now they're operating without the framework. Getting them up to speed on even one page each transforms the quality of your team's thinking when you need it most.
 
 ---
 
