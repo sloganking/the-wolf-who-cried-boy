@@ -103,7 +103,7 @@ If the violent person walked up to someone aggressively—got in their face, use
 
 This is [fawning](./fawning.md). You're scared of the violent person, so you sacrifice the easier target. You might tell yourself you're "de-escalating" or "being strategic," but what you're actually doing is letting fear decide who stays and who goes.
 
-And if the violent person stays, has a good time, faces zero consequences, and later says "I love this retreat, I want to host the next one at my place"—and you say yes—you've just handed your container to the person who threatened to kill someone in it. Anyone watching learns that violence is not only tolerated but rewarded.
+And if the violent person stays, has a good time, and faces zero consequences — everyone watching learns that violence is not only tolerated but rewarded.
 
 ### Don't Do Nothing
 
