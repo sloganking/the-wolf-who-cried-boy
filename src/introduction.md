@@ -148,6 +148,8 @@ Each person now has deep knowledge of one piece of the framework. One person und
 
 This works even if you've already read the book yourself — because your staff are the ones making real-time decisions alongside you, and right now they're operating without the framework. Getting them up to speed on even one page each transforms the quality of your team's thinking when you need it most.
 
+There's another reason this matters: your staff are not immune to their own [trauma, filters, and stories](./concepts/trauma-and-filters.md). In a crisis, those blind spots are at their most active — and at their most dangerous. A staff member who hasn't examined their own filters might be creating harm right now without realizing it, driven by invisible beliefs about who's dangerous and who's safe. Having them read this material while they're in it doesn't just inform their decisions — it helps them see the stories they're running so those stories don't run the container.
+
 ### If something just happened:
 
 Go straight to:
