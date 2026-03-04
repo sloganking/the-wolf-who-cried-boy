@@ -57,7 +57,7 @@ This isn't moralizing. You're not telling them they're a bad person. You're enfo
 
 ### Step 4: Address the Crowd
 
-After both parties have left, you talk to everyone else. (See: [What to Say to the Crowd](#what-to-say-to-the-crowd).)
+After both parties have left, you talk to everyone else. (See: [What to Say to the Crowd](#to-the-crowd).)
 
 ---
 
