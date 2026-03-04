@@ -105,7 +105,9 @@ It will say that victims have responsibility too. That power dynamics go both wa
 
 The question this book keeps asking: **are the people causing harm in these spaces bad — or are they blind?**
 
-Most harm doesn't come from malice. It comes from people who can't see what they're doing — to themselves or to others. That changes everything about how you respond. You don't fix blindness with punishment. You fix it with sight.
+Most harm doesn't come from malice. It comes from people who can't see what they're doing — to themselves or to others. That changes everything about how you respond.
+
+> **You don't fix blindness with punishment. You fix it with sight.**
 
 If that lands wrong at first, sit with it. The concepts build on each other.
 
