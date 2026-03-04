@@ -62,6 +62,7 @@
 - [Before You Facilitate](./concepts/before-you-facilitate.md)
 - [Walking Your Talk](./concepts/walking-your-talk.md)
 - [When Things Go Wrong](./concepts/when-things-go-wrong.md)
+- [Handling Threats of Violence](./concepts/handling-threats-of-violence.md)
 
 ---
 
