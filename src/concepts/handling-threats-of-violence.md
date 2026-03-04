@@ -257,11 +257,15 @@ After both parties have left and you've addressed the crowd, the container needs
 
 People are shaken. They saw something intense. Even if you handled everything well, the energy is disrupted. Some people might be scared. Some might be questioning whether *they're* safe. Some might be processing their own trauma responses.
 
-Your transparent communication—the explanation, the refund disclosure, the re-entry policy—is itself a form of aftercare. It gives people a framework to understand what happened, which is far better than leaving them to construct their own stories.
+And every person in the room is seeing what happened through their own [filters](./trauma-and-filters.md). Some will be in a story that the mistake-maker was a predator and the violent person was a hero. Some will think the violent person was an asshole. Some will have opinions about the decisions you made as a facilitator. Most people have not done the work to see clearly — they haven't examined their own stories, and they don't yet realize that you should [never assume malice where blindness will do](./types-of-mistakes.md). You're not going to change fifty people's filters in one conversation, and you don't have to.
 
-But also: check in with the group. Ask how people are doing. Create space for processing without letting it become a referendum on whether you made the right calls. The calls have been made. Now the container needs to metabolize what happened and find its footing again.
+What you can do is be transparent. Your communication — the explanation, the refund disclosure, the re-entry policy — is itself a form of aftercare. It gives people a framework to understand what happened, which is far better than leaving them to construct their own stories.
 
-This is a genuinely shit situation. Even handled perfectly, it's disruptive. The goal isn't to make it painless—it's to make it clear, fair, and safe. And to show everyone that when the worst happens, the container holds.
+This is also where [the promise](./before-you-facilitate.md#the-promise) pays off. If you told everyone at the start of the container what would happen in a crisis, and then you followed through exactly as you said you would, then your authority holds — even if people disagree with your specific calls. They might have opinions about how things could be handled differently in the future, and that's fine. But they can see you have integrity because you walked your talk. You did what you said you were going to do. That's not something people can easily argue with, even through their own stories. And it means they're less likely to question the authority of the container itself — which is what keeps everyone else safe.
+
+Check in with the group. Ask how people are doing. Create space for processing without letting it become a referendum on whether you made the right calls. The calls have been made. Now the container needs to metabolize what happened and find its footing again.
+
+This is a genuinely shit situation. Even handled perfectly, it's disruptive. The goal isn't to make it painless — it's to make it clear, fair, and safe. And to show everyone that when the worst happens, the container holds.
 
 ---
 
