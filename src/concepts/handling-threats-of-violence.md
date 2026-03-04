@@ -218,6 +218,24 @@ This shows everyone: threats of violence have lasting consequences. You are safe
 
 "You're not welcome in our containers right now. We can talk about coming back after [timeframe], but only if you've done real work on what happened—including making it right with the person you threatened. This isn't permanent. But it's real, and it's not negotiable."
 
+### What You Should NOT Do with a Violent Person Afterward
+
+This is a concise list of ways facilitators and organizations fail after an incident—usually through fawning, avoidance, or not wanting to have a hard conversation.
+
+**Do not:**
+
+- **Set no boundaries at all.** Act like it happened and move on. Never tell them what they did was unacceptable. Never communicate consequences. This teaches them that death threats have no cost—and teaches your community the same.
+
+- **Let them back into containers without repair or a cooling-off period.** No conversation, no accountability, no time. They just show up at the next event like nothing happened. Their stories are intact. Their activation patterns haven't changed. They will do it again.
+
+- **Put them on your staff or assistant team.** If someone made death threats in your container and hasn't seen through the stories that caused it, putting them in a position of power is one of the most dangerous things you can do. They're liable to attack participants who don't deserve it, moralize from a position of authority, and see predators where there are none. A person who's still running on "I was right to threaten someone's life because they were dangerous" should not be holding space for others. Period.
+
+- **Let them host events through your organization.** Even indirectly—like building a retreat center and having your organization run events there. If they own the property, they have power over the container whether they're on the staff team or not. They control access, they're physically present, and participants may feel unsafe knowing the person who made death threats is also their landlord for the week. Don't let someone who hasn't done repair gain structural power over your containers.
+
+- **Fawn your way into normalcy.** This is the pattern underneath all of the above: you didn't set boundaries because it was uncomfortable, then time passed, and now it feels too late to bring it up. So you just... don't. And their role in your community quietly grows. And nobody says anything. And the person they threatened watches from a distance as the person who tried to kill them gets rewarded with more access, more power, more trust—without ever being told what they did was wrong.
+
+Every item on this list is a version of the same failure: avoiding the hard conversation because you're afraid of their reaction. That's [fawning as a facilitator](./fawning.md). And it puts every future participant at risk.
+
 ---
 
 ## When Staff Make the Mistake
