@@ -36,6 +36,12 @@ A more detailed breakdown of the psychology behind over-responses:
 
 ## Future Ideas
 
+### Trust as a Concept
+
+When you make a mistake—even a good-faith one, even if you're not malicious—you've taken an action that decreased trust in those around you and in your community. Trust as a specific concept deserves its own treatment: how trust is built, how it's lost, what it takes to rebuild, and how it differs from forgiveness or repair.
+
+**Why deferred:** The current framework covers repair and making it right, but doesn't explicitly address trust as its own dynamic. Worth developing when the core pages are solid.
+
 (Add ideas here as they come up)
 
 ---
