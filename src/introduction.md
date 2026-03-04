@@ -152,18 +152,23 @@ This works even if you've already read the book yourself — because your staff 
 
 Go straight to:
 
-1. [Appropriate Response](./concepts/appropriate-response.md) — Step-by-step what to do
+1. [Appropriate Response](./concepts/appropriate-response.md) — Match your reaction to what actually happened
 2. [Before You Judge](./concepts/before-you-judge.md) — Make sure you're qualified to respond
-3. [Making It Right](./concepts/making-it-right.md) — How repair works
+3. [Severity](./concepts/severity.md) — Assess how serious it actually is
+4. [I Made a Mistake](./concepts/i-made-a-mistake.md) — If you're the one who made it
+5. [Making It Right](./concepts/making-it-right.md) — How repair works
+6. [When You've Been Wronged](./concepts/when-youve-been-wronged.md) — If it happened to you
 
 ### If you're a facilitator:
 
 Read everything, then focus on:
 
-1. [Appropriate Response](./concepts/appropriate-response.md)
-2. [Before You Judge](./concepts/before-you-judge.md)
-3. [Power Dynamics](./concepts/power-dynamics.md)
-4. [Facilitator Protocols](./concepts/facilitator-protocols.md)
+1. [Before You Facilitate](./concepts/before-you-facilitate.md) — The promise, agreements, and pre-framing
+2. [When Things Go Wrong](./concepts/when-things-go-wrong.md) — Attacks, fawning, de-escalation
+3. [Handling Threats of Violence](./concepts/handling-threats-of-violence.md) — Complete crisis walkthrough
+4. [Appropriate Response](./concepts/appropriate-response.md) — Matching response to severity
+5. [Power Dynamics](./concepts/power-dynamics.md) — Power goes both ways
+6. [Walking Your Talk](./concepts/walking-your-talk.md) — Modeling what you teach
 
 ---
 
