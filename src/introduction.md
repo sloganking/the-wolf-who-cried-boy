@@ -73,6 +73,16 @@ You're here. You're learning. That means you're ahead.
 
 **Everything in this book will serve you far beyond the temple.**
 
+### Why Facilitators of Any Space Should Read This
+
+This book is written for sex-positive events, but the facilitation frameworks here apply to any container—retreats, workshops, team events, community gatherings.
+
+Here's why: sex-positive spaces are medium-to-high severity environments. When something goes wrong at a play party, the consequences are heavier than at a yoga retreat or a corporate offsite. The emotional intensity is higher. The vulnerability is deeper. The potential for harm is greater.
+
+That means the frameworks developed here have to be *more* robust. They have to handle harder situations. And if a framework can handle a death threat at a play party where someone is naked and vulnerable, it can handle a conflict at a team-building retreat.
+
+The principles scale down cleanly. You're not learning niche skills for a niche space. You're learning facilitation under pressure—and pressure-tested frameworks work everywhere.
+
 ---
 
 ## What You'll Learn
