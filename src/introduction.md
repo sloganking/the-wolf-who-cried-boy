@@ -65,7 +65,7 @@ Play spaces are a **training ground**. The intensity accelerates learning.
 
 - When you practice setting boundaries with someone who wants to touch you, you get better at setting boundaries with everyone
 - When you learn to recognize your fawning pattern in high-stakes moments, you start catching it everywhere
-- When you understand how your trauma distorts your perception in intimacy, you see how it distorts your perception in relationships, work, family
+- When you understand how your trauma distorts your perception in intimacy, you see how it distorts your perception in relationships, work, family, and major policy and life decisions
 
 Many people go through their entire lives fawning to authority figures, running subconscious stories that create outcomes they don't want, and never becoming aware of it—because they never enter spaces intense enough to make the patterns undeniable.
 
