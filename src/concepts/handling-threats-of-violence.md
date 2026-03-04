@@ -95,6 +95,11 @@ This is the single worst outcome. The mistake-maker is gone, the violent person 
 - Death threats are tolerated
 - The angriest person runs the container
 - The facilitator is afraid
+- [The promise](./before-you-facilitate.md#the-promise) (if they made one) was empty
+
+And now the container is dead. Not officially—you might still run the schedule, do the exercises, hold the sharing circles. But they're not real sharing circles anymore. Every share from that point forward is filtered through one question: *will this upset the person who makes death threats?* Nobody is going to say their authentic feelings when they just watched the facilitators tolerate violence and remove the person who made a mistake instead. The angry person's story becomes the only safe story to agree with—"oh my god, that person was such a predator, thank god they're gone"—because no one is willing to stand up and say "this is bullshit" when standing up might make them the next target.
+
+If the violent person walked up to someone aggressively—got in their face, used their body to communicate "I will hurt you"—and the facilitators either did nothing or stepped in after the person was already in striking range, everyone saw something very specific: *if you disagree with the angry person, the facilitators won't stop them from hurting you.* They might deal with it after. They might retroactively address it. But they won't actually protect you in the moment it matters. And that's enough to silence every honest voice in the room.
 
 This is [fawning](./fawning.md). You're scared of the violent person, so you sacrifice the easier target. You might tell yourself you're "de-escalating" or "being strategic," but what you're actually doing is letting fear decide who stays and who goes.
 
