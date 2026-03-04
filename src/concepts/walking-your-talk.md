@@ -394,6 +394,16 @@ Not yes-men who agree with everything you say. Not people who are afraid to chal
 
 **This is extremely important.** You're human. You have blind spots. You'll make calls in the heat of the moment that aren't right. You need someone who can say: "Hey, I think you might be off here. Have you considered...?"
 
+### Challenge Privately, Support Publicly
+
+This is the most important rule of the first officer relationship: if you think the lead facilitator is making a mistake, pull them aside. "Can I speak with you privately for a moment?" Then say what you need to say away from the participants.
+
+What you don't do is publicly contradict the facilitator in front of the group. If every decision the facilitator makes is met with "actually, I think we should do this instead" from a co-facilitator or assistant, the participants see a team that isn't coherent. They lose confidence in the container. They don't know who's actually in charge. And that uncertainty makes everything less safe.
+
+There are rare emergencies where something needs to be said immediately — where waiting to pull someone aside would create real harm. But even then, the default should be: interrupt, request a private word, step away, come back with a unified decision. Not a public debate in front of fifty people.
+
+Being told you're wrong is essential. Being told you're wrong *in front of everyone you're leading* undermines the container itself.
+
 ### How to Find Your First Officer
 
 Look for people who:
