@@ -165,7 +165,7 @@ Then give them information:
 
 3. **Safety planning.** Does the violent person live in their area? Could they be found, harassed, or attacked outside the container? If you know where your participants live, flag this risk proactively. If the violent person is local to them, they may need to take steps: being cautious about sharing their address in community spaces, being aware that the violent person might try to damage their reputation locally.
 
-4. **Notification about future attendance.** If the violent person is eventually allowed back into your events, let the mistake-maker know. Ideally, the mistake-maker also takes responsibility for checking themselves—asking "is this person attending?" before registering—because facilitators can't always track every conflict pair across every event. But give them the tools to keep themselves safe.
+4. **Notification about future attendance.** If the violent person is eventually allowed back into your events, let the mistake-maker know. Give them the tools to keep themselves safe — like being able to check with facilitators before registering whether that person will be attending. The mistake-maker taking responsibility for checking is also [100% control](../tools/100-percent-control.md) in action.
 
 ### With the Violent Person
 
