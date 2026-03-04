@@ -6,7 +6,9 @@
 
 Sometimes, despite everything you've done right as a facilitator—the pre-framing, the promise, the clear agreements—someone makes a good-faith mistake, and someone else responds with death threats.
 
-This is one of the hardest situations you'll face. There's no version of it that feels clean. But there are versions that preserve trust, safety, and the integrity of your container—and versions that destroy all three.
+This is one of the hardest situations you'll face — because it sits at the intersection of consent culture, facilitation ethics, and physical safety all at once. A good-faith mistake escalating to violence. The person being threatened is also the person who made the mistake. The crowd is primed to moralize. And you have to navigate all of it while preserving the container's integrity and the promise you made at the start.
+
+There's no version of it that feels clean. But there are versions that preserve trust, safety, and the integrity of your container — and versions that destroy all three.
 
 This page walks through the entire scenario: what to do, what to say, to whom, in what order, and why. It covers the immediate crisis, the aftermath, and the follow-up that most facilitators forget about.
 
