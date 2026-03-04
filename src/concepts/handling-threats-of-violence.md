@@ -115,25 +115,7 @@ Whether you do nothing or remove the wrong person, the underlying pattern is the
 
 ---
 
-## What to Say to Each Party
-
-### To the Mistake-Maker
-
-When asking them to leave:
-
-> "You're leaving not because your mistake wasn't okay—those are protected. You're leaving because I can't guarantee your safety right now, and getting you out is my first priority. This is an emergency action, not a consequence. I'll be in touch."
-
-Make it crystal clear: their mistake is still protected. They are not being punished. This is a safety action. If there's any ambiguity here, they'll carry the story that their mistake got them expelled—and so will everyone watching.
-
-### To the Violent Person
-
-When removing them:
-
-> "I can see you're in a lot of pain right now, and I take that seriously. AND threats of violence are outside the agreements of this container. You need to leave. We can talk about what happened after you've had time to come down, but right now, you cannot be here."
-
-Not "fuck you, get out." Not moralizing. Firm, clear, and leaving the door open for a future conversation. This does two things: it enforces the boundary, and it shows that you're not their enemy. You're holding the container.
-
-### To the Crowd
+## What to Say to the Crowd
 
 After both parties have left:
 
