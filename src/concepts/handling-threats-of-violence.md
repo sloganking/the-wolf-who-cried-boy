@@ -265,7 +265,7 @@ This is also where [the promise](./before-you-facilitate.md#the-promise) pays of
 
 Check in with the group. Ask how people are doing. Create space for processing without letting it become a referendum on whether you made the right calls. The calls have been made. Now the container needs to metabolize what happened and find its footing again.
 
-This is a genuinely shit situation. Even handled perfectly, it's disruptive. The goal isn't to make it painless — it's to make it clear, fair, and safe. And to show everyone that when the worst happens, the container holds.
+This is a genuinely painful situation. Even handled perfectly, it's disruptive. The goal isn't to make it painless — it's to make it clear, fair, and safe. And to show everyone that when the worst happens, the container holds.
 
 ---
 
