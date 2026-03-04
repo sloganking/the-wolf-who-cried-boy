@@ -355,7 +355,7 @@ When you help someone recognize their fawning and support them in setting bounda
 - You have the right to be treated with dignity, and the responsibility to enforce it
 - The container supports people standing up for themselves
 
-This is the [Creator](./drama-triangle.md) dynamic, not the Rescuer dynamic. You're not saving them. You're helping them save themselves.
+This is the [Coach](./drama-triangle.md) dynamic, not the Rescuer dynamic. You're not saving them—you're empowering them to save themselves. You've got their back, and they know it. But the boundary is theirs to set.
 
 ---
 
