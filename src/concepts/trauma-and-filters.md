@@ -829,6 +829,33 @@ It's about humility:
 
 This is why [Notice, Feel, Story](../tools/notice-feel-story.md) and [Before You Judge](./before-you-judge.md) matter so much. They're tools for catching your filters before they cause harm.
 
+### Narrative Lock
+
+Sometimes a person's filter doesn't just distort — it locks.
+
+Narrative Lock is the moment someone stops asking "what actually happened?" and starts asking "how does this prove my story?" Once this shift occurs, all incoming information gets converted into confirmation:
+
+- **Explanation** becomes defensiveness
+- **Apology** becomes admission of guilt
+- **Silence** becomes avoidance
+- **Engagement** becomes pressure
+
+Every move loses. Repair becomes structurally impossible — not because the situation is unresolvable, but because the interpretive system is no longer processing new information. It's only confirming what it already decided.
+
+**Three signals that someone has entered Narrative Lock:**
+
+1. **Motive Attribution** — they claim to know *why* you acted. Your internal experience is replaced with their theory. They've become the authority on your intentions.
+
+2. **Framework Substitution** — they stop talking about the specific event and invoke a larger ideological system. You're no longer a person who did a thing. You're an instance of a pattern — patriarchy, toxic masculinity, predatory behavior. Individuals can't repair conflicts inside frameworks they didn't create and don't control.
+
+3. **No Repair Path Offered** — healthy boundaries usually include a way back. "Give me space and I'll reach out when I'm ready." Narrative Lock closes the door entirely. There's no renegotiation, no path to reconnection. The verdict is final.
+
+When you detect these three signals together, the connection is already over — not emotionally, but structurally. Two meaning-making systems have diverged past the point where communication can bridge them.
+
+**The move:** exit cleanly. No defense, no argument, no chasing. Continued engagement doesn't repair — it generates more evidence for the locked narrative.
+
+> Repair requires curiosity. Certainty kills connection.
+
 ## The Problem in Sex-Positive Spaces
 
 When a boundary violation occurs, what do you assume about the person who made it?
