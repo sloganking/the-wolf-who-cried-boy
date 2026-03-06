@@ -809,26 +809,6 @@ Both feel like victims. Both think the other person proved their story right. Ne
 > **"Until you make the unconscious conscious, it will direct your life and you will call it fate."**  
 > — _Paraphrase of Carl Jung_
 
-**The way out:**
-
-If either one calmed down and re-centered, the dynamic dissolves.
-
-If Person A relaxed and said, "I'm in a safe place. I don't need to scan for predators every second"—they'd stop seeing threats in anxious people.
-
-If Person B relaxed and stopped looking for signs they're about to be attacked—they'd stop taking the defensive actions that look suspicious.
-
-If their reticular activating systems focused on literally anything else, both would be less likely to find what they're expecting to find. They might even find their patterns funny. They might even be friends.
-
-### The Invitation
-
-This isn't about being paranoid about your every perception.
-
-It's about humility:
-
-> "I might have stories I don't know about. My interpretation might not be accurate. Before I act—especially on something significant—let me check."
-
-This is why [Notice, Feel, Story](../tools/notice-feel-story.md) and [Before You Judge](./before-you-judge.md) matter so much. They're tools for catching your filters before they cause harm.
-
 ### Narrative Lock
 
 Sometimes a person's filter doesn't just distort — it locks.
@@ -855,6 +835,26 @@ When you detect these three signals together, the connection is already over —
 **The move:** exit cleanly. No defense, no argument, no chasing. Continued engagement doesn't repair — it generates more evidence for the locked narrative.
 
 > Repair requires curiosity. Certainty kills connection.
+
+**The way out:**
+
+If either one calmed down and re-centered, the dynamic dissolves.
+
+If Person A relaxed and said, "I'm in a safe place. I don't need to scan for predators every second"—they'd stop seeing threats in anxious people.
+
+If Person B relaxed and stopped looking for signs they're about to be attacked—they'd stop taking the defensive actions that look suspicious.
+
+If their reticular activating systems focused on literally anything else, both would be less likely to find what they're expecting to find. They might even find their patterns funny. They might even be friends.
+
+### The Invitation
+
+This isn't about being paranoid about your every perception.
+
+It's about humility:
+
+> "I might have stories I don't know about. My interpretation might not be accurate. Before I act—especially on something significant—let me check."
+
+This is why [Notice, Feel, Story](../tools/notice-feel-story.md) and [Before You Judge](./before-you-judge.md) matter so much. They're tools for catching your filters before they cause harm.
 
 ## The Problem in Sex-Positive Spaces
 
