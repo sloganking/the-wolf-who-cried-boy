@@ -809,9 +809,19 @@ Both feel like victims. Both think the other person proved their story right. Ne
 > **"Until you make the unconscious conscious, it will direct your life and you will call it fate."**  
 > — _Paraphrase of Carl Jung_
 
+**The way out:**
+
+If either one calmed down and re-centered, the dynamic dissolves.
+
+If Person A relaxed and said, "I'm in a safe place. I don't need to scan for predators every second"—they'd stop seeing threats in anxious people.
+
+If Person B relaxed and stopped looking for signs they're about to be attacked—they'd stop taking the defensive actions that look suspicious.
+
+If their reticular activating systems focused on literally anything else, both would be less likely to find what they're expecting to find. They might even find their patterns funny. They might even be friends.
+
 ### Narrative Lock
 
-Sometimes a person's filter doesn't just distort — it locks.
+But sometimes the filter doesn't just distort — it locks.
 
 Narrative Lock is the moment someone stops asking "what actually happened?" and starts asking "how does this prove my story?" Once this shift occurs, all incoming information gets converted into confirmation:
 
@@ -826,7 +836,7 @@ Every move loses. Repair becomes structurally impossible — not because the sit
 
 1. **Motive Attribution** — they claim to know *why* you acted. Your internal experience is replaced with their theory. They've become the authority on your intentions.
 
-2. **Framework Substitution** — they stop talking about the specific event and invoke a larger ideological system. You're no longer a person who did a thing. You're an instance of a pattern — patriarchy, toxic masculinity, predatory behavior. Individuals can't repair conflicts inside frameworks they didn't create and don't control.
+2. **Framework Substitution** — they stop talking about the specific event and invoke a larger ideological system. You're no longer a person who did a thing. You're an instance of a pattern — patriarchy, rape culture, predatory behavior. Individuals can't repair conflicts inside frameworks they didn't create and don't control.
 
 3. **No Repair Path Offered** — healthy boundaries usually include a way back. "Give me space and I'll reach out when I'm ready." Narrative Lock closes the door entirely. There's no renegotiation, no path to reconnection. The verdict is final.
 
@@ -835,16 +845,6 @@ When you detect these three signals together, the connection is already over —
 **The move:** exit cleanly. No defense, no argument, no chasing. Continued engagement doesn't repair — it generates more evidence for the locked narrative.
 
 > Repair requires curiosity. Certainty kills connection.
-
-**The way out:**
-
-If either one calmed down and re-centered, the dynamic dissolves.
-
-If Person A relaxed and said, "I'm in a safe place. I don't need to scan for predators every second"—they'd stop seeing threats in anxious people.
-
-If Person B relaxed and stopped looking for signs they're about to be attacked—they'd stop taking the defensive actions that look suspicious.
-
-If their reticular activating systems focused on literally anything else, both would be less likely to find what they're expecting to find. They might even find their patterns funny. They might even be friends.
 
 ### The Invitation
 
