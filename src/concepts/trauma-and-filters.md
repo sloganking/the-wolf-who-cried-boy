@@ -848,9 +848,9 @@ When you detect these three signals together, the connection is already over —
 
 ### The Invitation
 
-This isn't about being paranoid about your every perception.
+That's how to recognize when someone else's filter has locked. Now turn it around: how do you know yours hasn't?
 
-It's about humility:
+This isn't about being paranoid about your every perception. It's about humility:
 
 > "I might have stories I don't know about. My interpretation might not be accurate. Before I act—especially on something significant—let me check."
 
