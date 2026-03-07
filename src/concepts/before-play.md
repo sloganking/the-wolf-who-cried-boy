@@ -433,7 +433,7 @@ The first person is more likely to go silent when hurt, build stories about your
 
 This isn't about judging someone for having been hurt. It's about detecting whether they've moved from *this happened to me* to *here's what I've learned about myself.* That shift predicts almost everything about how they'll handle friction with you.
 
-**Watch for asymmetry.** The killer pattern: they want lots of attunement from you and very little responsibility from themselves. They expect you to track their feelings and infer their unspoken boundaries, while they don't have to state clearly, own their meaning, or name their needs. That asymmetry is a landmine.
+**Watch for asymmetry.** The killer pattern: they want lots of attunement from you and very little responsibility from themselves. They expect you to track their feelings, infer their unspoken boundaries, and correctly interpret every ambiguous thing they say — while they don't have to state clearly, own their meaning, or name their needs. When you misunderstand something they communicated poorly, they treat it as your failure of character rather than their failure of clarity. That asymmetry is a landmine.
 
 ### But My RBDSMT Conversation Already Asks About Mistakes
 
