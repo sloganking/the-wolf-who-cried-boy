@@ -421,7 +421,17 @@ So don't ask "are you a good communicator?" Ask for stories.
 
 Listen for curiosity vs. blame. Ownership vs. indictment. Directness vs. festering.
 
-**Watch how they talk about past partners and conflicts.** If every story is "he violated me," "they crossed my boundaries," "people always do this to me" — with zero self-authorship, zero "I should have spoken up sooner" — you're hearing their story style live.
+**Watch how they talk about past partners and conflicts.** You're hearing their story style live. Two people can describe similar experiences and reveal completely different orientations:
+
+> *"My ex was emotionally abusive. They manipulated me for years. I was a victim of their behavior."*
+
+> *"I had a really painful relationship. In hindsight, I stayed way too long and didn't set the boundaries I needed to. I've learned a lot about what I'll accept now."*
+
+Same type of experience. But the first person is telling you: *when things go wrong, someone else is the cause and I am acted upon.* The second is telling you: *I see my part, I've grown, and I handle things differently now.*
+
+The first person is more likely to go silent when hurt, build stories about your intentions, and treat their discomfort as your fault. The second is more likely to speak up, check their assumptions, and engage in repair.
+
+This isn't about judging someone for having been hurt. It's about detecting whether they've moved from *this happened to me* to *here's what I've learned about myself.* That shift predicts almost everything about how they'll handle friction with you.
 
 **Watch for asymmetry.** The killer pattern: they want lots of attunement from you and very little responsibility from themselves. They expect you to track their feelings and infer their unspoken boundaries, while they don't have to state clearly, own their meaning, or name their needs. That asymmetry is a landmine.
 
