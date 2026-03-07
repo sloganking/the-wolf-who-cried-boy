@@ -381,11 +381,11 @@ Two people can align perfectly on relationships, boundaries, desires, health, me
 
 ### Why This Matters
 
-You have a great RBDSMT conversation. Everything aligns. You play together. It's wonderful.
+You have a great RBDSMT conversation. Everything aligns. You're both poly. They say "this is casual for me." They mean it when they say it. You play together. It's wonderful.
 
-The next day, you flirt with someone else. They see it. Instead of saying "hey, I'm feeling something, can we talk?", they go silent. They build a story: *he used me. I was just a conquest.* By the time you notice something's off, they've told three friends you're "that kind of guy."
+The next day, you flirt with someone else. They see it. Jealousy hits — and suddenly "this is casual" isn't running the show anymore. Instead of saying "hey, I'm feeling something, can we talk?", they go silent. They build a story: *he used me. I was just a conquest.* By the time you notice something's off, they've told three friends you're "that kind of guy."
 
-Nothing in RBDSMT would have caught this. The mismatch was interpretive.
+RBDSMT asked the right questions. They gave honest answers. But self-description breaks down under emotional activation. Their story style only appeared when reality stopped matching their expectations — and no checklist question would have predicted it.
 
 ### The Question RBDSMT Doesn't Ask
 
