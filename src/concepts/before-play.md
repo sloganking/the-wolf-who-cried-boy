@@ -429,7 +429,7 @@ Listen for curiosity vs. blame. Ownership vs. indictment. Directness vs. festeri
 
 Yes — and keep it.
 
-The M in RBDSMT asks a pointed question: *if my hand goes somewhere wrong during sex, will you tell me to adjust, or call me a predator?* That's concrete safety screening for the play itself.
+The M in RBDSMT asks a pointed question: *if my hand goes somewhere wrong during sex, will you politely remind me of your boundary and tell me to adjust, or call me a predator?* That's concrete safety screening for the play itself.
 
 The Friction Check is broader. It covers the entire relational dynamic beyond the sex act — jealousy, unspoken expectations, post-play meaning, communication gaps, and the stories they build when you're not in the room.
 
