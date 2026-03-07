@@ -821,7 +821,7 @@ If their reticular activating systems focused on literally anything else, both w
 
 ### Narrative Lock
 
-But sometimes the filter doesn't just distort — it locks.
+But sometimes people don't relax. Sometimes the story hardens — and any attempt to help them see it only strengthens it.
 
 Narrative Lock is the moment someone stops asking "what actually happened?" and starts asking "how does this prove my story?" Once this shift occurs, all incoming information gets converted into confirmation:
 
