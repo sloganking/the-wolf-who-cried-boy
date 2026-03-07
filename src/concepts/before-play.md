@@ -369,16 +369,95 @@ That's me taking [responsibility](./responsibility.md) for my own trauma. Not ex
 
 ---
 
+## The Friction Check: Interpretive Compatibility
+
+RBDSMT screens for the sex. It aligns you on logistics, safety, and expectations.
+
+It does not screen for what happens when reality gets ambiguous.
+
+> **The most dangerous mismatch is not sexual. It is interpretive.**
+
+Two people can align perfectly on relationships, boundaries, desires, health, meaning, and trauma — and still create a disaster. Because the disaster doesn't come from the sex. It comes from the stories they build when something unexpected happens.
+
+### Why This Matters
+
+You have a great RBDSMT conversation. Everything aligns. You play together. It's wonderful.
+
+The next day, you flirt with someone else. They see it. Instead of saying "hey, I'm feeling something, can we talk?", they go silent. They build a story: *he used me. I was just a conquest.* By the time you notice something's off, they've told three friends you're "that kind of guy."
+
+Nothing in RBDSMT would have caught this. The mismatch was interpretive.
+
+### The Question RBDSMT Doesn't Ask
+
+RBDSMT asks: *Are we aligned for sex?*
+
+The missing question: **Are we aligned for friction?**
+
+Because friction is inevitable in intimacy. Moments will be awkward. Signals will be misread. Expectations will mismatch in ways neither of you predicted. The question isn't whether friction will happen — it's what they do when it does.
+
+Three dimensions matter:
+
+**Story Style** — When something ambiguous happens, do they get curious or assign blame? Do they ask what you meant, or decide what you meant? Do they come to you directly, or build a narrative and recruit allies?
+
+**Repair Style** — After friction, do they seek conversation or create distance? Do they state clearly what they need, or go silent and fester? Do they offer a path forward, or close the door permanently?
+
+**Communication Clarity** — Can they state a boundary plainly? Or do they imply, go quiet, and punish you for not reading their mind? A boundary that requires mind-reading is not a clean boundary. And a clarifying question is not automatically a violation.
+
+### Don't Trust Self-Description
+
+Almost everyone describes themselves as reasonable, direct, and emotionally mature. That tells you almost nothing.
+
+The person who will destroy your reputation over a misunderstanding genuinely believes they handle conflict well. The most dangerous people don't announce themselves as dangerous — they announce themselves as righteous.
+
+> **People show you who they really are when things stop going their way.**
+
+So don't ask "are you a good communicator?" Ask for stories.
+
+**Ask for past examples, not self-ratings:**
+
+- "Tell me about a time someone misunderstood you in an intimate space. What happened next?"
+- "When you feel hurt or jealous, what do you usually do first?"
+- "Have you ever had an awkward experience that got repaired well? What made it work?"
+
+Listen for curiosity vs. blame. Ownership vs. indictment. Directness vs. festering.
+
+**Watch how they talk about past partners and conflicts.** If every story is "he violated me," "they crossed my boundaries," "people always do this to me" — with zero self-authorship, zero "I should have spoken up sooner" — you're hearing their story style live.
+
+**Watch for asymmetry.** The killer pattern: they want lots of attunement from you and very little responsibility from themselves. They expect you to track their feelings and infer their unspoken boundaries, while they don't have to state clearly, own their meaning, or name their needs. That asymmetry is a landmine.
+
+### But My RBDSMT Conversation Already Asks About Mistakes
+
+Yes — and keep it.
+
+The M in RBDSMT asks a pointed question: *if my hand goes somewhere wrong during sex, will you tell me to adjust, or call me a predator?* That's concrete safety screening for the play itself.
+
+The Friction Check is broader. It covers the entire relational dynamic beyond the sex act — jealousy, unspoken expectations, post-play meaning, communication gaps, and the stories they build when you're not in the room.
+
+One screens for safety *during* play. The other screens for whether the connection itself is safe.
+
+### Quick Reference: The Friction Check
+
+```
+BEFORE INTIMACY, ASSESS:
+
+Story Style            How do they interpret ambiguity? Curiosity or blame?
+Repair Style           After friction: conversation, silence, or accusation?
+Communication Clarity  Can they state needs plainly, or do they expect mind-reading?
+```
+
+---
+
 ## How This Prevents the Mistakes in This Book
 
-| RBDSMT Element     | Prevents                                                      |
-| ------------------ | ------------------------------------------------------------- |
-| Relationships      | Third-party harm, broken agreements, surprise consequences    |
-| Boundaries         | Accidental boundary crossings, unspoken limits violated       |
-| Desires            | Mismatched expectations, disappointment, resentment           |
-| Sexual Health      | Physical harm, uninformed risk-taking, unwanted pregnancy     |
-| Meaning & Mistakes | Hurt from mismatched expectations, disproportionate responses |
-| Trauma             | Dissociation, fawning, activation, re-traumatization          |
+| Element                   | Prevents                                                      |
+| ------------------------- | ------------------------------------------------------------- |
+| Relationships             | Third-party harm, broken agreements, surprise consequences    |
+| Boundaries                | Accidental boundary crossings, unspoken limits violated       |
+| Desires                   | Mismatched expectations, disappointment, resentment           |
+| Sexual Health             | Physical harm, uninformed risk-taking, unwanted pregnancy     |
+| Meaning & Mistakes        | Hurt from mismatched expectations, disproportionate responses |
+| Trauma                    | Dissociation, fawning, activation, re-traumatization          |
+| Interpretive Compatibility | Silent story-building, [narrative lock](./trauma-and-filters.md#narrative-lock), festering, witch hunts from ambiguity |
 
 ---
 
