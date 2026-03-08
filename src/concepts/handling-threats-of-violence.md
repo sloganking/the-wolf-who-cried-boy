@@ -37,7 +37,7 @@ Most people who make death threats in these spaces are not planning to kill anyo
 
 It's posturing — making yourself look big and dangerous when you're actually scared and overwhelmed. Think about it: if this person has a family, a life, people who depend on them — actually following through would destroy everything they care about. They'd lose their freedom, their family, their future. That's not protecting anyone. That's indulging rage at the cost of everything they say matters to them.
 
-This doesn't mean you treat death threats casually. You never test whether a threat is real by waiting to see what happens. Every threat gets the same response: immediate separation, removal from the container, real consequences. The distinction matters not for your *actions* — which stay the same regardless — but for your *understanding*. When you know the person across from you is scared, not evil, you can hold the boundary firmly without dehumanizing them. That's the difference between a facilitator who handles a crisis and a facilitator who creates a second one.
+This doesn't mean you treat death threats casually. You never test whether a threat is real by waiting to see what happens. Every threat gets the same response: immediate separation, removal from the container, real consequences. The distinction matters not for your _actions_ — which stay the same regardless — but for your _understanding_. When you know the person across from you is scared, not evil, you can hold the boundary firmly without dehumanizing them. That's the difference between a facilitator who handles a crisis and a facilitator who creates a second one.
 
 ---
 
@@ -79,7 +79,7 @@ After both parties have left, you talk to everyone else. (See: [What to Say to t
 
 Between Step 1 and Step 3, there's a window where the violent person is still in the room and the mistake-maker is the one who just left. This is the most turbulent moment.
 
-People are watching. They saw you remove the person who made a mistake and *not* the person making death threats. That looks like the opposite of what you promised.
+People are watching. They saw you remove the person who made a mistake and _not_ the person making death threats. That looks like the opposite of what you promised.
 
 ### Pre-Frame Emergency Protocols
 
@@ -111,9 +111,9 @@ Short of doing nothing and letting the situation escalate to actual violence, th
 - The facilitator is afraid
 - [The promise](./before-you-facilitate.md#the-promise) (if they made one) was empty
 
-And now the container is dead. Not officially—you might still run the schedule, do the exercises, hold the sharing circles. But they're not real sharing circles anymore. Every share from that point forward is filtered through one question: *will this upset the person who makes death threats?* Nobody is going to say their authentic feelings when they just watched the facilitators tolerate violence and remove the person who made a mistake instead. The angry person's story becomes the only safe story to agree with—"oh my god, that person was such a predator, thank god they're gone"—because no one is willing to stand up and say "this is bullshit" when standing up might make them the next target.
+And now the container is dead. Not officially—you might still run the schedule, do the exercises, hold the sharing circles. But they're not real sharing circles anymore. Every share from that point forward is filtered through one question: _will this upset the person who makes death threats?_ Nobody is going to say their authentic feelings when they just watched the facilitators tolerate violence and remove the person who made a mistake instead. The angry person's story becomes the only safe story to agree with—"oh my god, that person was such a predator, thank god they're gone"—because no one is willing to stand up and say "this is bullshit" when standing up might make them the next target.
 
-If the violent person walked up to someone aggressively—got in their face, used their body to communicate "I will hurt you"—and the facilitators either did nothing or stepped in after the person was already in striking range, everyone saw something very specific: *if you disagree with the angry person, the facilitators won't stop them from hurting you.* They might deal with it after. They might retroactively address it. But they won't actually protect you in the moment it matters. And that's enough to silence every honest voice in the room.
+If the violent person walked up to someone aggressively—got in their face, used their body to communicate "I will hurt you"—and the facilitators either did nothing or stepped in after the person was already in striking range, everyone saw something very specific: _if you disagree with the angry person, the facilitators won't stop them from hurting you._ They might deal with it after. They might retroactively address it. But they won't actually protect you in the moment it matters. And that's enough to silence every honest voice in the room.
 
 This is [fawning](./fawning.md). You're scared of the violent person, so you sacrifice the easier target. You might tell yourself you're "de-escalating" or "being strategic," but what you're actually doing is letting fear decide who stays and who goes.
 
@@ -237,7 +237,7 @@ This is a concise list of ways facilitators and organizations fail after an inci
 
 - **Put them on your staff or assistant team.** If someone made death threats in your container and hasn't seen through the stories that caused it, putting them in a position of power is one of the most dangerous things you can do. They're liable to attack participants who don't deserve it, moralize from a position of authority, and see predators where there are none. A person who's still running on "I was right to threaten someone's life because they were dangerous" should not be holding space for others. Period.
 
-- **Let them host events for your organization.** Directly — making them a lead facilitator or co-facilitator — is the worst version of this. You now have someone who is primed to see predators everywhere, hasn't seen through the blind spots that created harm, and is making real-time decisions over participants from the highest position of authority in the room. Even indirectly — like having your organization run events at a retreat center they own — gives them structural power over the container whether they're on the staff team or not. They control access and they're physically present. Someone who's already shown they'll escalate to death threats over a mistake in a container can just as easily decide to eject someone from *their property* over something that happens in *your* container — overriding your facilitation decisions because they own the land you're on. They don't need to be on the staff team to run your container if they hold the keys to the building. Don't let someone who hasn't done repair gain power over your containers in any form.
+- **Let them host events for your organization.** Directly — making them a lead facilitator or co-facilitator — is the worst version of this. You now have someone who is primed to see predators everywhere, hasn't seen through the blind spots that created harm, and is making real-time decisions over participants from the highest position of authority in the room. Even indirectly — like having your organization run events at a retreat center they own — gives them structural power over the container whether they're on the staff team or not. They control access and they're physically present. Someone who's already shown they'll escalate to death threats over a mistake in a container can just as easily decide to eject someone from _their property_ over something that happens in _your_ container — overriding your facilitation decisions because they own the land you're on. They don't need to be on the staff team to run your container if they hold the keys to the building. Don't let someone who hasn't done repair gain power over your containers in any form.
 
 - **Fawn your way into normalcy.** This is the pattern underneath all of the above: you didn't set boundaries because it was uncomfortable, then time passed, and now it feels too late to bring it up. So you just... don't. And their role in your community quietly grows. And nobody says anything. And the person who made death threats gains more access, more power, more trust — without ever being given a boundary about what happened.
 
@@ -265,9 +265,9 @@ At the beginning of the container, say something like:
 
 "Our staff are trained, experienced, and held to high standards. They're also human. If a staff member makes a mistake, it's handled with the same framework as any other mistake: transparency, accountability, and repair."
 
-This isn't scary. It's credible. The facilitator who says "my staff are perfect and nothing will ever go wrong" hasn't thought about failure modes—and that makes them *less* trustworthy, not more. It's the same pattern as a participant who says ["I would never do that"](./trauma-and-filters.md)—the certainty itself is the red flag.
+This isn't scary. It's credible. The facilitator who says "my staff are perfect and nothing will ever go wrong" hasn't thought about failure modes—and that makes them _less_ trustworthy, not more. It's the same pattern as a participant who says ["I would never do that"](./trauma-and-filters.md)—the certainty itself is the red flag.
 
-Think about airline safety briefings. Nobody gets off the plane because the flight attendant mentions emergency exits. They feel *safer* knowing there's a plan. The same principle applies here: pre-framing what happens when things go wrong increases confidence that you've also thought about preventing things from going wrong.
+Think about airline safety briefings. Nobody gets off the plane because the flight attendant mentions emergency exits. They feel _safer_ knowing there's a plan. The same principle applies here: pre-framing what happens when things go wrong increases confidence that you've also thought about preventing things from going wrong.
 
 ---
 
@@ -275,7 +275,7 @@ Think about airline safety briefings. Nobody gets off the plane because the flig
 
 After both parties have left and you've addressed the crowd, the container needs care.
 
-People are shaken. They saw something intense. Even if you handled everything well, the energy is disrupted. Some people might be scared. Some might be questioning whether *they're* safe. Some might be processing their own trauma responses.
+People are shaken. They saw something intense. Even if you handled everything well, the energy is disrupted. Some people might be scared. Some might be questioning whether _they're_ safe. Some might be processing their own trauma responses.
 
 And every person in the room is seeing what happened through their own [filters](./trauma-and-filters.md). Some will be in a story that the mistake-maker was a predator and the violent person was a hero. Some will think the violent person was an asshole and the mistake-maker was the real victim who didn't deserve any of what happened to them. Some will have opinions about the decisions you made as a facilitator. Most people have not done the work to see clearly — they haven't examined their own stories, and they don't yet realize that you should ["never assume malice, where belief will do."](./before-you-judge.md#witch-hunts-never-ended) You're not going to change fifty people's filters in one conversation, and you don't have to.
 
