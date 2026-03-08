@@ -10,6 +10,8 @@ Racism is good people operating on harmful beliefs about other races—and being
 
 The Inquisitors weren't unique. They were *typical*. The same pattern plays out in every culture, every community, every family. Good people, harmful beliefs, devastating outcomes.
 
+Every generation looks back at the previous one and sees the delusion clearly. We see the Inquisitors, the witch trials, the people who thought the earth was flat — and we think: *we've evolved past that. We're civilized now.* But "civilized" doesn't mean you've escaped your invisible beliefs. It just means you've traded one set of stories for another. Every civilization thinks it sees more clearly than the one before it. That's the delusion. You're not less blind than your ancestors. You're blind in different directions.
+
 **This isn't just about play parties. This is the mechanism by which good people harm each other. And understanding it is what planetary transformation actually requires.**
 
 ---
