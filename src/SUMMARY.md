@@ -12,32 +12,37 @@
 
 ---
 
-# Foundation
+# What's Running You
 
-- [Severity](./concepts/severity.md)
-- [Types of Mistakes](./concepts/types-of-mistakes.md)
 - [Trauma & Filters](./concepts/trauma-and-filters.md)
 - [Body Stories](./concepts/body-stories.md)
 - [Invisible Patterns](./concepts/invisible-patterns.md)
+
+---
+
+# Seeing Clearly
+
+- [Severity](./concepts/severity.md)
+- [Types of Mistakes](./concepts/types-of-mistakes.md)
 - [Notice, Feel, Story](./tools/notice-feel-story.md)
 
 ---
 
-# The Core Reframe
+# Taking Responsibility
 
 - [Responsibility](./concepts/responsibility.md)
 - [100% Control](./tools/100-percent-control.md)
-- [Why Helping Is Hard](./concepts/why-helping-is-hard.md)
 - [Own Your Part — Not Theirs](./concepts/decline-false-responsibility.md)
 - [All Power Is Mutual](./concepts/all-power-is-mutual.md)
-- [Drama Triangle](./concepts/drama-triangle.md)
 
 ---
 
-# Specific Patterns
+# The Patterns
 
 - [Fawning](./concepts/fawning.md)
 - [Power Dynamics](./concepts/power-dynamics.md)
+- [Drama Triangle](./concepts/drama-triangle.md)
+- [Why Helping Is Hard](./concepts/why-helping-is-hard.md)
 
 ---
 
@@ -48,7 +53,7 @@
 
 ---
 
-# How to Respond
+# When Something Goes Wrong
 
 - [Before You Judge](./concepts/before-you-judge.md)
 - [Appropriate Response](./concepts/appropriate-response.md)
