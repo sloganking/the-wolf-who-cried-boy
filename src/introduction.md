@@ -258,12 +258,12 @@ So I built this. Everything here comes from lived experience — years of naviga
 
 ### Training & Background
 
-- [Tony Robbins](https://www.tonyrobbins.com/) Platinum Partnership
-- [Landmark Forum](https://www.landmarkworldwide.com/)
 - [Somatica Institute](https://www.somaticainstitute.com/) Core Training (AASECT-approved)
 - [Laurie Handlers'](https://lauriehandlers.com/) Sex & Happiness Apprenticeship
 - Week-long [ISTA](https://ista.life/) retreats and intensive containers
 - 2+ years of weekly workshops, play parties, and immersive practice
+- [Tony Robbins](https://www.tonyrobbins.com/) Platinum Partnership
+- [Landmark Forum](https://www.landmarkworldwide.com/)
 
 ### Want to Go Deeper?
 
