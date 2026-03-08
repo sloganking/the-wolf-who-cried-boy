@@ -168,13 +168,9 @@ When someone is playing victim and trying to make you carry their responsibility
 
 ## When Their Ears Are Closed
 
-Sometimes you'll try to have a conversation with someone who's highly emotionally charged. They're attacking you. They're playing victim. They're seeing you through their [traumas and filters](./trauma-and-filters.md).
+Sometimes the person pushing their responsibility onto you isn't just being difficult — they're in [Narrative Lock](./trauma-and-filters.md#narrative-lock).
 
-And their ears are closed.
-
-**Why this happens:**
-
-There's some foundational belief they have about you—that you're a predator, that you intended harm, that you're the villain—and they've already decided it's true before the conversation started. Because they're emotionally activated, they're not doing things like [Notice, Feel, Story](../tools/notice-feel-story.md) to check their interpretation. They're not open to new information.
+They've already decided you're the villain. Your explanation becomes defensiveness. Your apology becomes admission of guilt. Your boundary becomes proof that you don't care. Every move you make gets converted into confirmation of the story they've already locked in.
 
 No matter how perfect your logical argument, you will not change their mind in this moment.
 
