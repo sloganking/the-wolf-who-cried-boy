@@ -850,6 +850,21 @@ When you detect these three signals together, the connection is already over —
 
 That's how to recognize when someone else's filter has locked. Now turn it around: how do you know yours hasn't?
 
+**Am I in Narrative Lock?**
+
+Ask yourself honestly:
+
+1. Have I decided *why* they did what they did — without asking them?
+2. Have I stopped seeing a person and started seeing a category — predator, narcissist, abuser, "that type"?
+3. Is there anything they could say or do right now that would change my mind? Or has the verdict already landed?
+4. If someone I trusted said "you might be wrong about this," would I consider it — or would I feel attacked?
+
+If that last question made you bristle, pay attention. Resistance to checking is one of the strongest signals that you're already locked. The person in full-blown Narrative Lock doesn't think they need to check — they're *certain*. That certainty feels like clarity. It isn't.
+
+**A hard truth:** you probably won't catch yourself in the moment. When anger and certainty are running the show, self-reflection isn't on the menu. That's human. But you can catch it afterward — hours later, days later — when the activation fades and you can look back and ask: *was I actually processing information, or was I just confirming what I'd already decided?*
+
+The goal isn't to never enter Narrative Lock. It's to recognize it faster each time, and to build the habit of checking before you act on the story your certainty is telling you.
+
 This isn't about being paranoid about your every perception. It's about humility:
 
 > "I might have stories I don't know about. My interpretation might not be accurate. Before I act—especially on something significant—let me check."
