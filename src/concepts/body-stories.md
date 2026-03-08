@@ -10,7 +10,7 @@ Here's something that explains why people are so bad at seeing clearly in these 
 
 **When a topic becomes political, people stop thinking.**
 
-There's a [fascinating study](https://youtu.be/zB_OApdxcno?si=TdsW5Isfr8Jsw9QM) where researchers gave people a chart with numbers and asked them to draw conclusions. When the topic was neutral (like a skin cream's effectiveness), people with high numeracy skills got the right answers regardless of their beliefs.
+In Veritasium's video ["On These Math Problems, Smarter People Do Worse"](https://youtu.be/zB_OApdxcno?si=TdsW5Isfr8Jsw9QM), they cover a study where researchers gave people a chart with numbers and asked them to draw conclusions. When the topic was neutral (like a skin cream's effectiveness), people with high numeracy skills got the right answers regardless of their beliefs.
 
 But when the exact same numbers were presented in a political context (gun control), something changed. People stopped analyzing the data. They came with preconceived conclusions and worked backward to justify them. Even the smartest, most numerate people failed—because they weren't doing math anymore. They were defending their tribe.
 
