@@ -99,7 +99,9 @@ The people at these events are, overwhelmingly, not predators. They're people wh
 
 And yet many people in these spaces [fawn](./fawning.md). They say yes when they mean no. They don't say stop. They feel violated afterward — and the feeling is real. But the word never came out.
 
-[Fawning](./fawning.md) is a real pattern, and saying "stop" when your body is flooded with fear is genuinely hard. But hard is not the same as impossible. You have power here that you may not be using:
+The fear driving this is usually a fear of real predators — someone who won't stop if you say stop, someone who will escalate, someone who will hurt you worse for resisting. That fear makes sense in a dark alley. It doesn't match where you actually are: a room full of people who will immediately protect you. The body doesn't know the difference. It's running an old story in a new environment, and the story says "speaking up is dangerous" even when the room says the opposite.
+
+[Fawning](./fawning.md) is a real pattern, and saying "stop" when your body is flooded with that kind of fear is genuinely hard. But hard is not the same as impossible. You have power here that you may not be using:
 
 - You can tell your partner *before* play: "I have a tendency to fawn. Please check in with me frequently, and don't trust my 'yes' if I seem frozen or disconnected." That's [one conversation](./before-play.md) that changes everything.
 - You can set up a system — a safeword, a check-in interval, a hand signal — specifically because you know this about yourself.
