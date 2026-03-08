@@ -1,9 +1,5 @@
 # Trauma & Filters
 
-← [Back to Introduction](../introduction.md)
-
----
-
 ## How Feelings Actually Work
 
 Most people believe their feelings are caused by what happens to them.

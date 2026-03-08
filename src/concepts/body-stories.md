@@ -1,9 +1,5 @@
 # Body Stories
 
-← Previous: [Trauma & Filters](./trauma-and-filters.md)
-
----
-
 This chapter goes deeper into the machinery: how trauma lives in the body, how your mind invents stories to explain feelings you don't understand, and the specific story patterns that cause the most harm in play spaces.
 
 ---
