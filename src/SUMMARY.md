@@ -17,6 +17,8 @@
 - [Severity](./concepts/severity.md)
 - [Types of Mistakes](./concepts/types-of-mistakes.md)
 - [Trauma & Filters](./concepts/trauma-and-filters.md)
+- [Body Stories](./concepts/body-stories.md)
+- [Invisible Patterns](./concepts/invisible-patterns.md)
 - [Notice, Feel, Story](./tools/notice-feel-story.md)
 
 ---
