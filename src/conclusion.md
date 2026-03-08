@@ -58,6 +58,10 @@ Not cruel laughter. Not laughing at people. Laughing at *us*. At the whole bizar
 
 Because the alternative is the pained rescuer. The one who sees suffering and absorbs it. Who carries the weight of every broken pattern as their own burden. Who burns out, gets angry, gets righteous, and eventually becomes the harm they were trying to stop. That's not helping. That's just suffering with extra steps.
 
+And here's how the rescue cycle perpetuates itself: the pained rescuer wakes someone up — but wakes them up into *urgency*. Into anxiety. Into "oh my god, everyone is blind and we have to fix it *now*." And that person, freshly awake and vibrating with fear, goes out and urgently wakes up more people — into the same anxiety. Now you have a whole community of people who can see clearly but feel terrible about what they see. Neurotic. Suffering. Certain that they need to save everyone. That's not awakening. That's just a new flavor of the [rescue pattern](./concepts/why-rescuers-are-dangerous.md) this entire book warned you about.
+
+If you're going to wake people up, wake them up into happiness. Into contentment. Into joy. Not into urgent rescuer necessity — because that urgency will inevitably create the same harm this book describes. The only way out of the rescue cycle is to break the chain: see clearly, laugh, help where you can, and refuse to pass the suffering forward.
+
 The real move is learning to love humanity — yourself included — with all its flaws, mistakes, and invisible delusions. To cherish the mess. To laugh at it. To not take any of it too seriously, even as you work to wake people up. Which, honestly, might be one of the craziest beliefs of all — that you can wake people up from stories they don't know they're in. But someone has to be crazy enough to try.
 
 ---
