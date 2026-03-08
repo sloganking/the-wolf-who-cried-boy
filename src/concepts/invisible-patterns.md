@@ -74,26 +74,23 @@ If their reticular activating systems focused on literally anything else, both w
 
 But sometimes people don't relax. Sometimes the story hardens — and any attempt to help them see it only strengthens it.
 
-Narrative Lock is the moment someone stops asking "what actually happened?" and starts asking "how does this prove my story?" Once this shift occurs, all incoming information gets converted into confirmation:
+You try to explain what happened. They hear you making excuses. You apologize. They hear you admitting guilt. You go quiet. They say you're avoiding accountability. You keep engaging. They say you're pressuring them.
 
-- **Explanation** becomes defensiveness
-- **Apology** becomes admission of guilt
-- **Silence** becomes avoidance
-- **Engagement** becomes pressure
+Every move loses. Not because you're doing the wrong thing — because they've stopped processing new information. Everything coming in gets converted into confirmation of what they already decided.
 
-Every move loses. Repair becomes structurally impossible — not because the situation is unresolvable, but because the interpretive system is no longer processing new information. It's only confirming what it already decided.
+That's Narrative Lock. The person isn't asking "what actually happened?" anymore. They're asking "how does this prove my story?"
 
 **Three signals that someone has entered Narrative Lock:**
 
-1. **Motive Attribution** — they claim to know *why* you acted. Your internal experience is replaced with their theory. They've become the authority on your intentions.
+1. **Motive Attribution** — they tell you *why* you did what you did. Not what you did — *why*. Your internal experience doesn't matter anymore. They've become the authority on your intentions. "You did that because you wanted to..."
 
-2. **Framework Substitution** — they stop talking about the specific event and invoke a larger ideological system. You're no longer a person who did a thing. You're an instance of a pattern — patriarchy, rape culture, predatory behavior. Individuals can't repair conflicts inside frameworks they didn't create and don't control.
+2. **Framework Substitution** — they stop talking about the specific event and start invoking a larger system. You're no longer a person who did a thing. You're an instance of patriarchy, rape culture, predatory behavior. It's impossible to repair a conflict with someone who's no longer talking about you — they're talking about a category you've been filed under.
 
-3. **No Repair Path Offered** — healthy boundaries usually include a way back. "Give me space and I'll reach out when I'm ready." Narrative Lock closes the door entirely. There's no renegotiation, no path to reconnection. The verdict is final.
+3. **No Repair Path** — healthy boundaries usually include a way back. "I need space. I'll reach out when I'm ready." Narrative Lock closes the door entirely. There's no "when I'm ready." The verdict is final. You've been sentenced, and there's no appeal.
 
-When you detect these three signals together, the connection is already over — not emotionally, but structurally. Two meaning-making systems have diverged past the point where communication can bridge them.
+When all three are present, the connection is already over. Not because you can't fix it — because the other person is no longer in a conversation with you. They're in a conversation with the version of you their story created.
 
-**The move:** exit cleanly. No defense, no argument, no chasing. Continued engagement doesn't repair — it generates more evidence for the locked narrative.
+**The move:** exit cleanly. No defense, no argument, no chasing. Every word you add becomes more evidence for the locked story.
 
 > Repair requires curiosity. Certainty kills connection.
 
