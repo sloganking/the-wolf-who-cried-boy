@@ -23,7 +23,7 @@ This looks like:
 
 Not because you're trying to avoid accountability. But because carrying someone else's responsibility:
 
-1. **Enables their victim pattern** — If you take their responsibility, they never have to grow
+1. **Keeps them in pain** — Their victim story is what's causing their suffering. If you carry their responsibility, you're confirming the story that keeps them stuck. That's not kindness — it's the action that results in the most pain for them going forward
 2. **Disempowers you** — You're accepting blame for things you can't control
 3. **Creates an impossible standard** — You can't be responsible for their choices, feelings, or growth
 4. **Isn't actually helpful** — Real repair requires both people owning their parts
