@@ -135,6 +135,8 @@ Some in the audience may be forming a mob mentality, viewing things through thei
 
 They might think: "Oh my god, witnessing this right now, I see how _I've_ been the accuser in my life. I've been treating people poorly. The person defending themselves is completely right."
 
+Or the opposite breakthrough: "Oh my god — I've been on the receiving end of this exact thing, and I've never seen someone stand up for themselves like that. I didn't know that was an option. I've been fawning and taking punishment I don't deserve, and I can stop."
+
 You might do more good in the world with an audience to your dispute than without one. By standing your ground publicly, you're not just speaking to one person—you're modeling something for everyone watching.
 
 Your resistance becomes a teaching moment for people you'll never know you reached.
