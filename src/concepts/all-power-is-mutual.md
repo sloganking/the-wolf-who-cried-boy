@@ -1,9 +1,5 @@
 # All Power Is Mutual
 
-← [Back to Introduction](../introduction.md)
-
----
-
 Here's the blind spot almost everyone has:
 
 **They think power flows one direction.**
@@ -63,20 +59,25 @@ This is why power is always mutual. The "vulnerable" person isn't just receiving
 
 ## The Vulnerability Flip
 
-Here's what this looks like:
+Here's a scene that makes this undeniable:
 
-When a man touches a woman, our culture says _she's_ the vulnerable one. She's at risk. He holds all the power.
+A woman is tied up in shibari at a play party. She can't move. She's physically helpless — suspended, bound, completely dependent on the person who tied her.
 
-But consider:
+Everyone in the room sees her as the vulnerable one. And physically, she is.
 
-- She can accuse him of anything
-- His reputation can be destroyed by her word
-- The cultural narrative will side with her by default
-- He has almost no defense if she decides to play victim
+Now imagine the man makes a mistake. His hand slips. He misreads a signal. Something happens that she didn't want — not malicious, not predatory, just a moment of unconsciousness while she's in the most vulnerable position possible.
 
-Who's actually more vulnerable?
+Watch what happens next:
 
-This isn't about who _should_ be protected. It's about seeing clearly. [Your touch is a privilege](./fawning.md#your-touch-is-a-privilege)—because when you touch someone, you're trusting them with your safety, your reputation, your future.
+The room sees a bound woman and a man who just crossed a line. Every filter in every person activates at once. The story writes itself before anyone asks a single question. He's the predator. She's the victim. The [righteous predators](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs) mobilize. His name gets spoken in whispers. His reputation — built over years — disintegrates in minutes. He may be banned from every space he's ever attended. He may lose friendships, community, his entire social world. If she takes it further, he could face legal consequences.
+
+And her? She has the sympathy of everyone in the room. She has moral authority. She has the cultural narrative on her side. She will be believed, supported, protected.
+
+**The person who was physically helpless holds almost all the power in the aftermath. The person who had physical freedom faces the most catastrophic consequences.**
+
+This isn't about who *should* be protected — both should. It's about seeing what's actually there. The man in that scene isn't just touching her body. He's trusting her with his reputation, his community, his future. [Your touch is a privilege](./fawning.md#your-touch-is-a-privilege) — and so is your vulnerability. When you make yourself physically vulnerable with someone, you're giving them enormous power over your perception of what happened, and through that, power over their entire life.
+
+The person everyone calls powerful is often the most exposed. The person everyone calls vulnerable often holds the weapons that can destroy. And because nobody sees it — because the cultural filter says power only flows one direction — the "powerful" person walks into the interaction blind to the risk they're taking.
 
 Power flows both ways. Always.
 
