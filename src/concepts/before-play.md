@@ -445,6 +445,16 @@ The Friction Check is broader. It covers the entire relational dynamic beyond th
 
 One screens for safety *during* play. The other screens for whether the connection itself is safe.
 
+### The Gate
+
+This check runs both directions.
+
+**Them → You:** If you don't know whether this person would give you the benefit of the doubt for a simple mistake — if they might assume malice over a one-second boundary cross — don't play with them yet. Get to know them first.
+
+**You → Them:** If you don't trust this person enough that a one-second mistake would make you assume they intended harm — if your filter would turn an accident into an attack — don't play with them yet either. You're setting yourself up for a bad time, not because they'll hurt you, but because your own story will.
+
+Both directions require a baseline of trust: *if something goes wrong, we'll both treat it as a mistake first and work from there.* If either side can't offer that, the play is premature. Build the trust first. Play after.
+
 ### Quick Reference: The Friction Check
 
 ```
@@ -453,6 +463,7 @@ BEFORE INTIMACY, ASSESS:
 Story Style            How do they interpret ambiguity? Curiosity or blame?
 Repair Style           After friction: conversation, silence, or accusation?
 Communication Clarity  Can they state needs plainly, or do they expect mind-reading?
+The Gate               Can you BOTH extend the trust that a mistake is a mistake?
 ```
 
 ---
