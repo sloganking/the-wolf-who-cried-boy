@@ -81,7 +81,9 @@ The person everyone calls powerful is often the most exposed. The person everyon
 
 Everyone's instinct is to protect the person who *looks* vulnerable. Which is exactly why the person who *doesn't* look vulnerable has no protection when things go wrong. Nobody's watching out for them. Nobody thinks they need it. And that blind spot is where the most damage happens.
 
-Because nobody sees it — because the cultural filter says power only flows one direction — the "powerful" person walks into the interaction blind to the risk they're taking.
+**There is no such thing as one-way vulnerability.** If one person is vulnerable, both people are vulnerable — just in different directions. The person who looks physically helpless has 30 friends in the room who will stop everything the moment they say the word. That's not helplessness — that's an instant safety net. The person who *doesn't* look vulnerable has no equivalent. There's no word they can say that makes 30 people rush to protect them. If they're accused, no amount of "stop" will make the room pause and verify before acting.
+
+In play spaces especially, the idea that only one person is at risk is a dangerous fiction. Both people are at risk. One is at risk of a boundary violation. The other is at risk of having their entire life destroyed by the response to a mistake. Seeing only one of those risks — and building all your protections around it — is how the other risk goes unmanaged and causes the most damage.
 
 Power flows both ways. Always.
 
