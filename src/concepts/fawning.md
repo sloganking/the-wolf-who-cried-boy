@@ -546,6 +546,13 @@ Before you touch someone, before you go deep with someone, before you commit to 
 
 - **How do they handle mistakes?** Not what they say they'll do — how they've actually responded in the past when something went wrong. Do they assume good intent, or do they treat accidents like attacks? (See [Before Play: Meaning & Mistakes](./before-play.md#m--meaning-and-mistakes) for how to ask this.)
 - **Victim lens or creator lens?** Someone who sees the world through a [victim lens](./drama-triangle.md) will default to "this was done to me" when something uncomfortable happens — even if they told you beforehand they'd handle it gracefully. Self-description breaks down under emotional activation. What you're looking for is whether they take [responsibility](./responsibility.md) for their experience as a pattern, not just as a claim.
+- **How do they talk about past partners and conflicts?** If every ex is a villain and every bad experience happened *to* them, that's how they'll frame you when friction shows up. (See [The Friction Check](./before-play.md#the-friction-check-interpretive-compatibility) for more on this.)
+- **Can they receive a no without punishing you for it?** Someone who handles your no with grace is someone whose yes you can trust.
+
+A stepped approach works: offer something small first. See how they respond. If they handle it well, go deeper. If they don't, you've lost very little.
+
+This isn't hesitation. It's the same intelligence as having an [RBDSMT conversation](./before-play.md) before sex — screening for safety before you're already in it, rather than discovering the problem after you're exposed.
+
 ### For Fawners: Your No Is a Gift
 
 If you struggle to tell others no—if you tend to fawn and people-please—flip the lens:
