@@ -57,9 +57,9 @@ The apex predator. The **righteous predator.**
 
 We have a word for someone who causes harm for their own benefit — we call them a predator. A selfish predator. Everyone understands what that means.
 
-We don't have a word for someone who causes equal or greater harm while genuinely believing they're saving people. So we call them a hero. A protector. A good person.
+We don't have a word for someone who causes equal or greater harm while genuinely believing they're saving people. So we call them a hero. A protector. A good person. And because we don't have the word, we can't see the pattern. Our language pre-frames us to look for selfish predators — and completely miss the righteous ones doing ten times the damage.
 
-They're not. They're a righteous predator — someone who causes significant harm to people who don't deserve it, powered by moral certainty instead of selfishness. And most predators are righteous predators, not selfish ones.
+They're not heroes. They're righteous predators — people who cause significant harm to others who don't deserve it, powered by moral certainty instead of selfishness. And most predators are righteous predators, not selfish ones.
 
 A righteous predator has everything that makes harmful beliefs dangerous, plus:
 
@@ -67,7 +67,7 @@ A righteous predator has everything that makes harmful beliefs dangerous, plus:
 - **Moral certainty** — "I'm saving people, so extreme measures are justified"
 - **Ability to organize** — "Join me in this righteous cause"
 
-This is how you get the Inquisition. Not one predator—an _institution_ of Rescuers, all certain they were doing God's work, torturing people to save their souls.
+This is how you get the Inquisition. Not one predator—an _institution_ of Rescuers, all certain they were doing God's work, torturing people to save their souls. Every one of them a righteous predator. None of them knew it.
 
 A selfish predator is one person doing harm. A righteous predator can mobilize armies.
 
