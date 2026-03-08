@@ -4,13 +4,13 @@
 
 ---
 
-If you're [responsible for everything](./responsibility.md), how can there be "false" responsibility to decline?
+If you're [responsible for everything](./responsibility.md), how can someone push responsibility onto you that isn't yours?
 
-Here's the key: **Outcomes are created by multiple people.** You're responsible for YOUR part—your actions, your inactions, your choices. You're not responsible for carrying someone else's part when they refuse to own it.
+Here's the key: **Outcomes are created by multiple people.** You're responsible for YOUR part — your actions, your inactions, your choices. You're not responsible for carrying someone else's part when they refuse to own it.
 
-False responsibility is when someone denies their own power, plays victim, and tries to make you accountable for their failures. They won't look at how their choices contributed. They won't own their part. Instead, they push all the blame onto you—and expect you to carry it.
+Sometimes people deny their own power, play victim, and try to make you accountable for their choices. They won't look at how they contributed. They won't own their part. Instead, they push all the weight onto you — and expect you to carry it.
 
-This is what you decline.
+Don't.
 
 This looks like:
 
@@ -19,9 +19,9 @@ This looks like:
 - "This is all your fault" (when they also made choices that contributed)
 - "You have to fix this" (when the repair requires their participation too)
 
-**You need to decline these bids for false responsibility.**
+**Own your part fully. Refuse to own theirs.**
 
-Not because you're trying to avoid accountability. But because taking responsibility for things that aren't yours:
+Not because you're trying to avoid accountability. But because carrying someone else's responsibility:
 
 1. **Enables their victim pattern** — If you take their responsibility, they never have to grow
 2. **Disempowers you** — You're accepting blame for things you can't control
@@ -59,13 +59,13 @@ You are NOT responsible for:
 - Their growth or lack thereof
 - Their decision to forgive or not
 
-**Own your part fully. Decline to own theirs.**
+**Own your part fully. Refuse to own theirs.**
 
 ---
 
 ## What Blame Actually Does
 
-Here's what's really happening when someone pushes false responsibility:
+Here's what's really happening when someone pushes their responsibility onto you:
 
 They're not just failing to own their part—they're claiming they had **no part**. They act as if the outcome was 100% your creation and they were a passive victim of it.
 
@@ -76,29 +76,29 @@ This framing has consequences:
 3. **You become 100% responsible** — All the weight falls on you
 4. **Their demands become disproportionate** — They ask for more repair than your actual part warrants, because in their story, your part was everything
 
-This is why declining false responsibility isn't about avoiding accountability. It's about refusing to accept a false framing that makes you solely responsible for an outcome multiple people created.
+This is why refusing to carry their part isn't about avoiding accountability. It's about rejecting a false framing that makes you solely responsible for an outcome multiple people created.
 
 You might have had [100% control](../tools/100-percent-control.md) over the outcome—meaning you _could_ have prevented it. But others created it too. Having the power to stop something doesn't mean you should bear 100% of the fallout when multiple people's choices contributed.
 
 ---
 
-## Declining Is Responsible
+## Refusing Is Responsible
 
 Let's be clear about something:
 
-**Taking responsibility for YOUR actions is responsible. Taking responsibility for THEIR actions is fawning.**
+**Taking responsibility for YOUR actions is responsible. Taking responsibility for THEIR actions is [fawning](./fawning.md).**
 
-When you accept responsibility for someone else's part, you're not being extra accountable—you're enabling their victim pattern and disempowering yourself. That's not noble. That's not helpful. That's not responsible.
+When you carry someone else's part, you're not being extra accountable — you're enabling their victim pattern and disempowering yourself. That's not noble. That's not helpful. That's not responsible.
 
-What you DON'T take responsibility for is just as important as what you DO take responsibility for.
+What you refuse to carry is just as important as what you own.
 
-In fact, declining false responsibility requires **more** integrity and resolve than accepting it. It's the harder path. Saying "Okay, you're right, I'll take responsibility for that" when you know it's not yours—that's the easy way out. It's acting out of fear.
+In fact, holding this line requires **more** integrity and resolve than caving. Saying "Okay, you're right, I'll take responsibility for that" when you know it's not yours — that's the easy way out. It's acting out of fear.
 
 The courageous path is saying what you actually believe:
 
-> "Your assessment is wrong. I'll take responsibility for what I'm responsible for—but nothing more. Asking me to take responsibility for things that aren't mine, if I allowed that, would make me a victim to you. And I'm not going to do that."
+> "Your assessment is wrong. I'll take responsibility for what I'm responsible for — but nothing more. Asking me to carry things that aren't mine, if I allowed that, would make me a victim to you. And I'm not going to do that."
 
-When you accept false responsibility, you're:
+When you carry someone else's responsibility, you're:
 
 - [Fawning](./fawning.md) — saying yes when you mean no
 - Acting out of fear — afraid of their reaction if you don't comply
@@ -115,7 +115,7 @@ We live in a world where standing up for yourself is often seen as shirking resp
 
 In reality, it's the opposite.
 
-Declining false responsibility IS taking responsibility—for yourself, for the truth, for not participating in a false narrative. It's doing the hard thing. It's doing the right thing, even when others don't understand it.
+Refusing to carry what isn't yours IS taking responsibility — for yourself, for the truth, for not participating in a false narrative. It's doing the hard thing. It's doing the right thing, even when others don't understand it.
 
 The responsible thing to do when someone is playing victim is to **call it out**. Not harshly, but clearly. Help guide them into seeing their own power—how they can create safety for themselves and a future they actually want.
 
@@ -160,7 +160,7 @@ The compassionate response isn't to take their responsibility. It's to help them
 
 ## The Path Forward
 
-When someone is playing victim and trying to make you carry their responsibility, the most loving thing you can do—for both of you—is to decline. You take yours. They take theirs. That's the only path to real resolution.
+When someone is playing victim and trying to make you carry their responsibility, the most loving thing you can do — for both of you — is to refuse. You take yours. They take theirs. That's the only path to real resolution.
 
 ---
 
