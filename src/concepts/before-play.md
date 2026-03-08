@@ -478,7 +478,7 @@ The Gate               Can you BOTH extend the trust that a mistake is a mistake
 | Sexual Health             | Physical harm, uninformed risk-taking, unwanted pregnancy     |
 | Meaning & Mistakes        | Hurt from mismatched expectations, disproportionate responses |
 | Trauma                    | Dissociation, fawning, activation, re-traumatization          |
-| Interpretive Compatibility | Silent story-building, [narrative lock](./trauma-and-filters.md#narrative-lock), festering, witch hunts from ambiguity |
+| Interpretive Compatibility | Silent story-building, [narrative lock](./invisible-patterns.md#narrative-lock), festering, witch hunts from ambiguity |
 
 ---
 

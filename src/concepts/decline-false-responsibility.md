@@ -168,7 +168,7 @@ When someone is playing victim and trying to make you carry their responsibility
 
 ## When Their Ears Are Closed
 
-Sometimes the person pushing their responsibility onto you isn't just being difficult — they're in [Narrative Lock](./trauma-and-filters.md#narrative-lock).
+Sometimes the person pushing their responsibility onto you isn't just being difficult — they're in [Narrative Lock](./invisible-patterns.md#narrative-lock).
 
 They've already decided you're the villain. Your explanation becomes defensiveness. Your apology becomes admission of guilt. Your boundary becomes proof that you don't care. Every move you make gets converted into confirmation of the story they've already locked in.
 
