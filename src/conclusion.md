@@ -46,7 +46,17 @@ And when you see all of it — really see it — you might feel the weight. The 
 >
 > — _Stranger in a Strange Land_, Robert A. Heinlein
 
-The response to seeing clearly isn't despair. It's a kind of laughter — not because any of it is funny, but because seeing it is brave, and once you see it, you can't unsee it, and the only thing left to do is something about it.
+The response to seeing clearly isn't despair. It's a kind of laughter — not because any of it is funny, but because seeing it is brave.
+
+This entire book started with one premise: [your feelings come from your stories](./concepts/trauma-and-filters.md#how-feelings-actually-work). That doesn't stop being true when you zoom out to the species level. If you see all the tragedy — the rescuers destroying what they love, the filters creating the predators, the invisible beliefs running everyone's lives — and your story is *this is awful, humanity is broken,* you're going to suffer. And there's no point in that. You're just adding your pain to the pile.
+
+But if you can look at the same picture and see something else — the sheer ridiculousness of it, the absurd elegance of how humans deceive themselves, the unconscious games we play, the invisible strings pulling everyone in directions they didn't choose and can't see — then you're not suffering. You're seeing clearly. And seeing clearly, it turns out, is hilarious.
+
+Not cruel laughter. Not laughing at people. Laughing at *us*. At the whole bizarre machinery of being human — the way we hurt the people we're trying to protect, the way we become the thing we fear, the way we build safety systems and then can't use them. It's ridiculous. It's tragic. It's both at once. And the person who can hold both — who can see the tragedy without drowning in it — is the person who can actually help.
+
+Because the alternative is the pained rescuer. The one who sees suffering and absorbs it. Who carries the weight of every broken pattern as their own burden. Who burns out, gets angry, gets righteous, and eventually becomes the harm they were trying to stop. That's not helping. That's just suffering with extra steps.
+
+The real move is learning to love humanity — yourself included — with all its flaws, mistakes, and invisible delusions. To cherish the mess. To laugh at it. To not take any of it too seriously, even as you work to wake people up. Which, honestly, might be one of the craziest beliefs of all — that you can wake people up from stories they don't know they're in. But someone has to be crazy enough to try.
 
 ---
 
