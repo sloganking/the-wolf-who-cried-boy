@@ -19,7 +19,7 @@ Everything at a glance. New here? Start with the [Introduction](./introduction.m
 | Concept                                                              | Description                                  |
 | -------------------------------------------------------------------- | -------------------------------------------- |
 | [Responsibility](./concepts/responsibility.md)                       | What it means and how to take it             |
-| [Decline False Responsibility](./concepts/decline-false-responsibility.md) | When someone pushes their responsibility onto you |
+| [Own Your Part — Not Theirs](./concepts/decline-false-responsibility.md) | When someone pushes their responsibility onto you |
 | [Drama Triangle](./concepts/drama-triangle.md)                       | Victim / Persecutor / Rescuer                |
 | [All Power Is Mutual](./concepts/all-power-is-mutual.md)             | Power always flows both ways                 |
 

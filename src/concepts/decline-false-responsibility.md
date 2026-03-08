@@ -1,4 +1,4 @@
-# Decline False Responsibility
+# Own Your Part — Not Theirs
 
 ← [Back to Responsibility](./responsibility.md)
 
