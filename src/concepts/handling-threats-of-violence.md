@@ -125,11 +125,11 @@ Also fawning. Pretending death threats didn't happen because you're afraid of wh
 
 ### Both Are Fawning
 
-> "You should just leave me. It would be easier."
+> You should listen to the others. Just leave me. It'll be easier for all of us.
 >
-> "Maybe. But that doesn't make it right."
+> Maybe. Being easier doesn't make it right.
 >
-> — _Secret Level_
+> — _Secret Level, Season 1, Episode 1._
 
 Whether you do nothing or remove the wrong person, the underlying pattern is the same: you're avoiding confrontation with the threatening person because you're afraid of them. The mistake-maker is easier to handle, so they become the casualty. That's not facilitation. That's survival mode wearing a facilitator shirt.
 
