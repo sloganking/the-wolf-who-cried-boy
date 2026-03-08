@@ -299,7 +299,7 @@ This means that when you find yourself activated at an event—angry, protective
 
 If you're about to go after someone—on behalf of yourself, your partner, or anyone you care about—pause and ask:
 
-1. **If this didn't involve the person I care about, would I react this intensely?** If the answer is no, the intensity is coming from your attachment, not from what actually happened. That doesn't mean nothing happened. It means your response isn't proportional to the event—it's proportional to your fear.
+1. **If this didn't involve the person I care about, would I react this intensely?** If the answer is no, the intensity is coming from your attachment, not from what actually happened. That doesn't mean nothing happened — maybe a boundary genuinely was crossed. But if you'd respond to the same boundary violation with a 3 when it happens to a stranger and a 10 when it happens to your partner, that 7-point gap isn't about the violation. It's insecurity. And if you act on the 10, you're going to cause harm proportional to a story, not proportional to what occurred.
 2. **Did they ask for this? Were they already okay?** If they already felt complete—already did repair, already moved on—then your response isn't serving them. It's serving something in you. Jealousy, trauma, insecurity—it could be anything. But if the person you're "protecting" is already fine, you're not doing this for them.
 3. **What am I actually afraid of?** Not what the story says. What's underneath. Sometimes it's genuine concern for safety—and that's valid. Sometimes it's jealousy you haven't admitted. Sometimes it's old trauma that found a target. The answer matters, because each one calls for a completely different response.
 
