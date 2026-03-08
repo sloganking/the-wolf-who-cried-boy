@@ -38,6 +38,16 @@ Planetary transformation is nothing more than the commitment to seeing clearly. 
 
 That's it. That's the whole thing.
 
+And when you see all of it — really see it — you might feel the weight. The rescuers destroying what they love. The fawners setting up the people they're afraid of. The filters creating the predators they're scanning for. Good people, everywhere, hurting each other in ways they can't see. It's tragic.
+
+> **"I was not laughing at the little monkey. I was laughing at *us.* People. And suddenly I knew I was people and could not stop laughing."**
+>
+> "I had thought — I had been told — that a funny thing is a thing of goodness. It isn't. Not ever is it funny to the person it happens to. The goodness is in the laughing itself. **I grok it is a bravery, and a sharing, against pain and sorrow and defeat.**"
+>
+> — _Stranger in a Strange Land_, Robert A. Heinlein
+
+The response to seeing clearly isn't despair. It's a kind of laughter — not because any of it is funny, but because seeing it is brave, and once you see it, you can't unsee it, and the only thing left to do is something about it.
+
 ---
 
 ## The Path
