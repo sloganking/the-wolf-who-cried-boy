@@ -103,7 +103,7 @@ If you're facilitating without a co-facilitator and this happens, you're in a ge
 
 ### Don't Remove the Mistake-Maker and Keep the Violent Person
 
-This is the single worst outcome. The mistake-maker is gone, the violent person stays, and here's what everyone just learned:
+Short of doing nothing and letting the situation escalate to actual violence, this is the single worst way to handle it. The mistake-maker is gone, the violent person stays, and here's what everyone just learned:
 
 - Mistakes get you expelled
 - Death threats are tolerated
@@ -124,6 +124,12 @@ And if the violent person stays, has a good time, and faces zero consequences â€
 Also fawning. Pretending death threats didn't happen because you're afraid of what happens if you address them. The container is now unsafe for everyone, and the violent person knows they can do whatever they want.
 
 ### Both Are Fawning
+
+> "You should just leave me. It would be easier."
+>
+> "Maybe. But that doesn't make it right."
+>
+> â€” _Secret Level_
 
 Whether you do nothing or remove the wrong person, the underlying pattern is the same: you're avoiding confrontation with the threatening person because you're afraid of them. The mistake-maker is easier to handle, so they become the casualty. That's not facilitation. That's survival mode wearing a facilitator shirt.
 
