@@ -1,5 +1,13 @@
 # Body Stories
 
+← Previous: [Trauma & Filters](./trauma-and-filters.md)
+
+---
+
+This chapter goes deeper into the machinery: how trauma lives in the body, how your mind invents stories to explain feelings you don't understand, and the specific story patterns that cause the most harm in play spaces.
+
+---
+
 ## Sex Is Politics
 
 Here's something that explains why people are so bad at seeing clearly in these spaces:
@@ -192,7 +200,7 @@ All three produce the same result: an implicit memory that fires when the patter
 
 **The self-check:** If you're deeply afraid of something you've never actually encountered—if the fear is intense but you can't point to a direct experience that caused it—that's a signal. It doesn't mean the fear is "fake." It means the fear may have been _given_ to you rather than _earned_ by you, and the story underneath it deserves examination rather than automatic trust.
 
-And here's the trap: even when you finally _do_ encounter the thing you've been taught to fear, your [RAS](#the-horror-movie-effect) is already primed. You walk in scanning for confirmation. You find it—not because the danger is real, but because [that's what you're looking for](#when-every-rustle-is-a-wolf). Your first real encounters _reinforce_ the inherited story instead of challenging it, and now the cultural fear has "evidence." This is the same dynamic described in [The Predator That Was Never There](#the-predator-that-was-never-there)—except the priming didn't come from a single accusation. It came from a lifetime of messaging.
+And here's the trap: even when you finally _do_ encounter the thing you've been taught to fear, your [RAS](./trauma-and-filters.md#the-horror-movie-effect) is already primed. You walk in scanning for confirmation. You find it—not because the danger is real, but because that's what you're looking for. Your first real encounters _reinforce_ the inherited story instead of challenging it, and now the cultural fear has "evidence." This is the same dynamic described in [The Predator That Was Never There](./trauma-and-filters.md#the-predator-that-was-never-there)—except the priming didn't come from a single accusation. It came from a lifetime of messaging.
 
 ### How Subtle Stories Create Real Problems
 
@@ -392,4 +400,18 @@ Because in his reference frame, he's not being toxic—he's stopping a predator.
 The filter that made him unable to imagine himself as harmful is exactly what made him blind to being harmful. He became the embodiment of what he thought he was fighting against.
 
 This happens more than people realize. The person most afraid of being X is often the person most likely to become X—because they're not watching for it in themselves. They've decided they're immune.
+
+---
+
+**Next:** [Invisible Patterns](./invisible-patterns.md) — What happens when complementary filters find each other, how to recognize Narrative Lock, and taking responsibility for your stories.
+
+---
+
+## Related
+
+- [Trauma & Filters](./trauma-and-filters.md) — How stories create feelings and control attention
+- [Invisible Patterns](./invisible-patterns.md) — When filters find each other, Narrative Lock, and responsibility
+- [Fawning](./fawning.md) — One of the four trauma responses in depth
+- [Types of Mistakes](./types-of-mistakes.md) — Trauma distorts how we read intent
+- [Notice, Feel, Story](../tools/notice-feel-story.md) — A tool for checking your interpretations
 

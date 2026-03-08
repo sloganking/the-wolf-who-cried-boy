@@ -267,7 +267,7 @@ At the beginning of the container, say something like:
 
 "Our staff are trained, experienced, and held to high standards. They're also human. If a staff member makes a mistake, it's handled with the same framework as any other mistake: transparency, accountability, and repair."
 
-This isn't scary. It's credible. The facilitator who says "my staff are perfect and nothing will ever go wrong" hasn't thought about failure modes—and that makes them _less_ trustworthy, not more. It's the same pattern as a participant who says ["I would never do that"](./trauma-and-filters.md)—the certainty itself is the red flag.
+This isn't scary. It's credible. The facilitator who says "my staff are perfect and nothing will ever go wrong" hasn't thought about failure modes—and that makes them _less_ trustworthy, not more. It's the same pattern as a participant who says ["I would never do that"](./body-stories.md)—the certainty itself is the red flag.
 
 Think about airline safety briefings. Nobody gets off the plane because the flight attendant mentions emergency exits. They feel _safer_ knowing there's a plan. The same principle applies here: pre-framing what happens when things go wrong increases confidence that you've also thought about preventing things from going wrong.
 

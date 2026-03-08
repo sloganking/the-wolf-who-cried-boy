@@ -1,6 +1,14 @@
 # Invisible Patterns
 
-### When Filters Find Each Other
+← Previous: [Body Stories](./body-stories.md)
+
+---
+
+Stories don't just distort your own perception — they interact with other people's stories. This chapter covers what happens when complementary filters collide, how to recognize when someone (including you) has locked into a narrative, and what it means to take responsibility for your filters.
+
+---
+
+## When Filters Find Each Other
 
 Here's something that makes this worse: **complementary filters magnetize.**
 
@@ -66,7 +74,7 @@ If Person B relaxed and stopped looking for signs they're about to be attacked�
 
 If their reticular activating systems focused on literally anything else, both would be less likely to find what they're expecting to find. They might even find their patterns funny. They might even be friends.
 
-### Narrative Lock
+## Narrative Lock
 
 But sometimes people don't relax. Sometimes the story hardens — and any attempt to help them see it only strengthens it.
 
@@ -93,7 +101,7 @@ When you detect these three signals together, the connection is already over —
 
 > Repair requires curiosity. Certainty kills connection.
 
-### The Invitation
+## The Invitation
 
 That's how to recognize when someone else's filter has locked. Now turn it around: how do you know yours hasn't?
 
@@ -235,8 +243,8 @@ This is what it means to take responsibility for your trauma while also having c
 
 ## Related
 
-- [Types of Mistakes](./types-of-mistakes.md) — Trauma distorts how we read intent
-- [Appropriate Response](./appropriate-response.md) — Trauma can cause over-response
+- [Trauma & Filters](./trauma-and-filters.md) — How stories create feelings and control attention
+- [Body Stories](./body-stories.md) — What trauma is and how body-level stories create real problems
 - [Responsibility](./responsibility.md) — Owning your filters
 - [Before You Judge](./before-you-judge.md) — Verify before acting
 - [Notice, Feel, Story](../tools/notice-feel-story.md) — A tool for checking your interpretations

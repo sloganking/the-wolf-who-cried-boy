@@ -287,7 +287,7 @@ The person who was called a predator—the one who made an unconscious mistake o
 
 No predator was ever present. But the trauma fed itself, proved itself, and grew. The shadow on the wall was a kitten and a candle. But everyone left believing it was a tiger.
 
-And the initial feeling doesn't have to come from trauma. It can come from jealousy, insecurity, fear of inadequacy—anything that creates a strong fear reaction in your body. Any strong feeling that arrives without a clear label will get one, and in these spaces, "predator" is the label that's always within reach. The person doesn't know what's actually driving the feeling. They just know something feels wrong, and their mind [builds a story](#when-the-feeling-comes-first) to explain it.
+And the initial feeling doesn't have to come from trauma. It can come from jealousy, insecurity, fear of inadequacy—anything that creates a strong fear reaction in your body. Any strong feeling that arrives without a clear label will get one, and in these spaces, "predator" is the label that's always within reach. The person doesn't know what's actually driving the feeling. They just know something feels wrong, and their mind [builds a story](./body-stories.md#when-the-feeling-comes-first) to explain it.
 
 This means that when you find yourself activated at an event—angry, protective, certain someone is a threat—you can't automatically trust that certainty. The feeling is real. But the story your mind built to explain it might not be.
 
@@ -359,3 +359,15 @@ Every one of them became the harm they were trying to prevent. Not despite their
 The Inquisitor didn't wake up and decide to be evil. He woke up afraid. And fear did the rest.
 
 ---
+
+**Next:** [Body Stories](./body-stories.md) — What trauma actually is, how it lives in the body, and the specific story patterns that cause harm in play spaces.
+
+---
+
+## Related
+
+- [Body Stories](./body-stories.md) — What trauma is and how body-level stories create real problems
+- [Invisible Patterns](./invisible-patterns.md) — When filters find each other, Narrative Lock, and responsibility
+- [Types of Mistakes](./types-of-mistakes.md) — Trauma distorts how we read intent
+- [Appropriate Response](./appropriate-response.md) — Trauma can cause over-response
+- [Notice, Feel, Story](../tools/notice-feel-story.md) — A tool for checking your interpretations
