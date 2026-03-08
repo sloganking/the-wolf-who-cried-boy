@@ -16,6 +16,7 @@ And everyone looks at the "top" of the hierarchy and says: _That's where the pow
 **This is never true.**
 
 > **"There's actually an advantage to every position."**
+>
 > — Alex Hormozi
 
 Every position has power. The "bottom" of the hierarchy has weapons the "top" cannot wield. The question is never whether you have power—it's whether you see it.
