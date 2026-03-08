@@ -77,7 +77,11 @@ And her? She has the sympathy of everyone in the room. She has moral authority. 
 
 This isn't about who *should* be protected — both should. It's about seeing what's actually there. The man in that scene isn't just touching her body. He's trusting her with his reputation, his community, his future. [Your touch is a privilege](./fawning.md#your-touch-is-a-privilege) — and so is your vulnerability. When you make yourself physically vulnerable with someone, you're giving them enormous power over your perception of what happened, and through that, power over their entire life.
 
-The person everyone calls powerful is often the most exposed. The person everyone calls vulnerable often holds the weapons that can destroy. And because nobody sees it — because the cultural filter says power only flows one direction — the "powerful" person walks into the interaction blind to the risk they're taking.
+The person everyone calls powerful is often the most exposed. The person everyone calls vulnerable often holds the weapons that can destroy.
+
+Everyone's instinct is to protect the person who *looks* vulnerable. Which is exactly why the person who *doesn't* look vulnerable has no protection when things go wrong. Nobody's watching out for them. Nobody thinks they need it. And that blind spot is where the most damage happens.
+
+Because nobody sees it — because the cultural filter says power only flows one direction — the "powerful" person walks into the interaction blind to the risk they're taking.
 
 Power flows both ways. Always.
 
