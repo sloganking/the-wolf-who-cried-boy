@@ -14,6 +14,14 @@ People make mistakes. Boundaries get crossed. Feelings get hurt. And because our
 
 It's not about being perfect. It's about knowing what to do when things aren't.
 
+### Why Play Spaces?
+
+The patterns in this book are everywhere — in families, workplaces, politics, online communities. But sex is where our culture sees least clearly. It's where the most fear lives, where "predator" gets thrown around fastest, and where the gap between intention and impact is widest.
+
+Play spaces were chosen as the lens because they make these dynamics undeniable. When someone is naked and vulnerable and a mistake happens, there's nowhere to hide — not for the person who made the mistake, and not for the person whose reaction reveals more about their stories than about what actually occurred.
+
+If a framework can handle a false accusation at a play party, it can handle a conflict anywhere. This book uses the hardest domain on purpose.
+
 ---
 
 ## Who This Is For
