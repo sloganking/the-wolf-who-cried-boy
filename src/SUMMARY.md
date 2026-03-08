@@ -26,7 +26,7 @@
 - [Responsibility](./concepts/responsibility.md)
 - [100% Control](./tools/100-percent-control.md)
 - [Why Helping Is Hard](./concepts/why-helping-is-hard.md)
-- [Decline False Responsibility](./concepts/decline-false-responsibility.md)
+- [Own Your Part — Not Theirs](./concepts/decline-false-responsibility.md)
 - [All Power Is Mutual](./concepts/all-power-is-mutual.md)
 - [Drama Triangle](./concepts/drama-triangle.md)
 
