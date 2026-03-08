@@ -93,6 +93,10 @@ Play spaces may be the safest environments in the world to have sex.
 
 You're surrounded by people who share your values. There are facilitators trained to intervene. There are agreements in place. If you say "stop," 30 people will jump to help you. That's not a metaphor — that's the literal design of these spaces. One word, and the room mobilizes on your behalf.
 
+Which also means it's the absolute worst place for a selfish predator to operate. Someone who genuinely wants to take advantage of another person does it where there are no witnesses, no facilitators, no community that will mobilize against them. Violating someone's boundaries in front of 30 people who will immediately intervene is the dumbest possible strategy. Real predators don't hunt in rooms full of people watching. They go where it's easier — where no one can see, where no one will believe the victim, where there's no safety net.
+
+The people at these events are, overwhelmingly, not predators. They're people who showed up to a space specifically designed around consent, communication, and mutual care. When mistakes happen — and they will — they're almost always [unconscious](./types-of-mistakes.md), not malicious. Your [RAS](./trauma-and-filters.md#the-horror-movie-effect) might be scanning for predators, but the math says you're far more likely to encounter someone who made an honest mistake than someone who intended to harm you.
+
 And yet many people in these spaces [fawn](./fawning.md). They say yes when they mean no. They don't say stop. They feel violated afterward — and the feeling is real. But the word never came out.
 
 [Fawning](./fawning.md) is a real pattern, and saying "stop" when your body is flooded with fear is genuinely hard. But hard is not the same as impossible. You have power here that you may not be using:
