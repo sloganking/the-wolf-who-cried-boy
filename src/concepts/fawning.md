@@ -536,6 +536,16 @@ This isn't bitterness. It's self-respect. It's [taking responsibility](./respons
 
 Most men have never thought about it this way. But once you do, everything shifts. You stop seeing yourself as someone begging for permission. You start seeing yourself as someone offering something valuable—and choosing carefully who receives it.
 
+### Vet Before You Give, Not Just After
+
+"Your touch is a privilege" means you can revoke access when someone mistreats it. But the stronger move is vetting *before* you offer — not waiting until something goes wrong.
+
+Before you touch someone, before you go deep with someone, before you commit to anything intimate — do you know enough about them to trust that what you're offering will be treated with care? Not just "will they hurt me?" but "will they handle my vulnerability well if something gets messy?"
+
+**What to vet for:**
+
+- **How do they handle mistakes?** Not what they say they'll do — how they've actually responded in the past when something went wrong. Do they assume good intent, or do they treat accidents like attacks? (See [Before Play: Meaning & Mistakes](./before-play.md#m--meaning-and-mistakes) for how to ask this.)
+- **Victim lens or creator lens?** Someone who sees the world through a [victim lens](./drama-triangle.md) will default to "this was done to me" when something uncomfortable happens — even if they told you beforehand they'd handle it gracefully. Self-description breaks down under emotional activation. What you're looking for is whether they take [responsibility](./responsibility.md) for their experience as a pattern, not just as a claim.
 ### For Fawners: Your No Is a Gift
 
 If you struggle to tell others no—if you tend to fawn and people-please—flip the lens:
