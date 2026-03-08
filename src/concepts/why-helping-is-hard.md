@@ -115,7 +115,7 @@ Every sentence spent "talking for" is actively solving the problem. You're not a
 
 - There's nothing to defend against—it's just a request
 - If they say yes, the problem is solved
-- If they say no, it's an opportunity to discover what they actually care about — and can craft a different solution that might work even better for you both
+- If they say no, it's an opportunity to discover what they actually care about — and craft a different solution that might work even better for you both
 - You get what you actually want (different future behavior) instead of what you don't want (a fight about the past)
 
 **And here's the deeper layer:** This is showing instead of telling.
