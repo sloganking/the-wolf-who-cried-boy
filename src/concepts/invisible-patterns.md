@@ -1,9 +1,5 @@
 # Invisible Patterns
 
-← Previous: [Body Stories](./body-stories.md)
-
----
-
 Stories don't just distort your own perception — they interact with other people's stories. This chapter covers what happens when complementary filters collide, how to recognize when someone (including you) has locked into a narrative, and what it means to take responsibility for your filters.
 
 ---
