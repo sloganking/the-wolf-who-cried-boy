@@ -51,11 +51,17 @@ This is where it gets dangerous. Beliefs spread. They recruit. They justify esca
 
 ### Rescuers with Harmful Beliefs
 
-The apex predator.
+The apex predator. The **righteous predator.**
 
 **Scale: Civilizational.**
 
-A Rescuer has everything that makes harmful beliefs dangerous, plus:
+We have a word for someone who causes harm for their own benefit — we call them a predator. A selfish predator. Everyone understands what that means.
+
+We don't have a word for someone who causes equal or greater harm while genuinely believing they're saving people. So we call them a hero. A protector. A good person.
+
+They're not. They're a righteous predator — someone who causes significant harm to people who don't deserve it, powered by moral certainty instead of selfishness. And most predators are righteous predators, not selfish ones.
+
+A righteous predator has everything that makes harmful beliefs dangerous, plus:
 
 - **Urgency** — "Something terrible will happen if I don't act NOW"
 - **Moral certainty** — "I'm saving people, so extreme measures are justified"
@@ -63,7 +69,7 @@ A Rescuer has everything that makes harmful beliefs dangerous, plus:
 
 This is how you get the Inquisition. Not one predator—an _institution_ of Rescuers, all certain they were doing God's work, torturing people to save their souls.
 
-A predator is one person doing harm. A Rescuer with a harmful belief can mobilize armies.
+A selfish predator is one person doing harm. A righteous predator can mobilize armies.
 
 ### "Think of the Children"
 
