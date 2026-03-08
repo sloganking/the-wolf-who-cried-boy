@@ -87,31 +87,7 @@ In play spaces especially, the idea that only one person is at risk is a dangero
 
 Power flows both ways. Always.
 
-## The Safest Place in the World
-
-Play spaces may be the safest environments in the world to have sex.
-
-You're surrounded by people who share your values. There are facilitators trained to intervene. There are agreements in place. If you say "stop," 30 people will jump to help you. That's not a metaphor — that's the literal design of these spaces. One word, and the room mobilizes on your behalf.
-
-Which also means it's the absolute worst place for a selfish predator to operate. Someone who genuinely wants to take advantage of another person does it where there are no witnesses, no facilitators, no community that will mobilize against them. Violating someone's boundaries in front of 30 people who will immediately intervene is the dumbest possible strategy. Real predators don't hunt in rooms full of people watching. They go where it's easier — where no one can see, where no one will believe the victim, where there's no safety net.
-
-The people at these events are, overwhelmingly, not predators. They're people who showed up to a space specifically designed around consent, communication, and mutual care. When mistakes happen — and they will — they're almost always [unconscious](./types-of-mistakes.md), not malicious. Your [RAS](./trauma-and-filters.md#the-horror-movie-effect) might be scanning for predators, but the math says you're far more likely to encounter someone who made an honest mistake than someone who intended to harm you.
-
-And yet many people in these spaces [fawn](./fawning.md). They say yes when they mean no. They don't say stop. They feel violated afterward — and the feeling is real. But the word never came out.
-
-The fear driving this is usually a fear of real predators — someone who won't stop if you say stop, someone who will escalate, someone who will hurt you worse for resisting. That fear makes sense in a dark alley. It doesn't match where you actually are: a room full of people who will immediately protect you. The body doesn't know the difference. It's running an old story in a new environment, and the story says "speaking up is dangerous" even when the room says the opposite.
-
-[Fawning](./fawning.md) is a real pattern, and saying "stop" when your body is flooded with that kind of fear is genuinely hard. But hard is not the same as impossible. You have power here that you may not be using:
-
-- You can tell your partner *before* play: "I have a tendency to fawn. Please check in with me frequently, and don't trust my 'yes' if I seem frozen or disconnected." That's [one conversation](./before-play.md) that changes everything.
-- You can set up a system — a safeword, a check-in interval, a hand signal — specifically because you know this about yourself.
-- You can say "stop" — and 30 people in this room will back you up instantly. This is the safest place in the world to practice using your voice.
-
-The helplessness feels real. But it's a story — and it's one you have [responsibility](./responsibility.md) to examine before you play. If you know you fawn, and you enter a sexual situation without communicating that or taking any precautions, you're not using the power available to you. That doesn't make what happens your "fault" — but it does mean you had options you didn't take.
-
-The safety system is already built. A seatbelt can't protect you if you don't put it on. And if you know you struggle to put it on, you can ask the person next to you to help — *before* the car starts moving.
-
-This matters because when someone fawns and then names what happened as a violation, the person on the other side — the person who heard "yes" and believed it — faces consequences that can destroy their life. Both people are harmed. And the path to preventing it isn't making the space even safer. It's each person honestly assessing: **am I using the power I already have?**
+This is especially true in play spaces — which may be [the safest environments in the world](./fawning.md#the-safest-place-in-the-world) to say "stop," yet where many people still [fawn](./fawning.md) instead of using the power they have.
 
 ## Why This Matters
 
