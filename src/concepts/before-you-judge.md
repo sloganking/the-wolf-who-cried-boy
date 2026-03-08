@@ -130,7 +130,7 @@ When people hear "predator," they think: _someone who intentionally causes harm.
 But most people who get called "predator" aren't that. Here's what's actually happening:
 
 - **Most "predators"** — [righteous predators](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs). People operating from harmful beliefs they've never questioned. They genuinely think they're in the right. They're causing harm while feeling like heroes.
-- **Some "predators"** — people who made unconscious mistakes. Autopilot errors. Moments of impairment.
+- **Some "predators"** — good people who made an unconscious mistake and got labeled before they could offer or complete [repair](./making-it-right.md). Autopilot errors. Moments of impairment. Often the primary victims of righteous predators.
 - **Very few "predators"** — selfish predators. People who deliberately, knowingly cause harm for their own benefit.
 
 The word "predator" implies the last category. But the reality is almost always the first two. Most predators aren't selfish. They're righteous. And that's what makes them so hard to see — including when you're being one.
