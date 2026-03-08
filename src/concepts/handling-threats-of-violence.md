@@ -29,6 +29,18 @@ And they're both in your room.
 
 ---
 
+## What Death Threats Usually Are
+
+Before you act, understand what you're looking at.
+
+Most people who make death threats in these spaces are not planning to kill anyone. They're terrified. They don't know how else to communicate the severity of what they're feeling. "I'll kill you" is often the only language their nervous system has for "stay back, I'm serious, I need you to take this seriously, I don't know what else to do."
+
+It's posturing — making yourself look big and dangerous when you're actually scared and overwhelmed. Think about it: if this person has a family, a life, people who depend on them — actually following through would destroy everything they care about. They'd lose their freedom, their family, their future. That's not protecting anyone. That's indulging rage at the cost of everything they say matters to them.
+
+This doesn't mean you treat death threats casually. You never test whether a threat is real by waiting to see what happens. Every threat gets the same response: immediate separation, removal from the container, real consequences. The distinction matters not for your *actions* — which stay the same regardless — but for your *understanding*. When you know the person across from you is scared, not evil, you can hold the boundary firmly without dehumanizing them. That's the difference between a facilitator who handles a crisis and a facilitator who creates a second one.
+
+---
+
 ## The Order of Operations
 
 Your instinct might be to remove the violent person first. They're the one breaking the rules. They're the one the promise says should leave.
