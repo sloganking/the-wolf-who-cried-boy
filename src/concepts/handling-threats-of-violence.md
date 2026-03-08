@@ -163,9 +163,11 @@ This is where actions communicate louder than any speech.
 
 This is a judgment call, but I lean toward transparency. Tell the group that the mistake-maker was refunded. Tell them the violent person was not.
 
-Here's why: it does something words alone can't. It shows—through a concrete, material action—that mistakes are genuinely protected and that threats of violence have real consequences. Every person in that room now knows: if I make a mistake and the worst happens, the facilitator will actually take care of me. And if I threaten someone's life, it will cost me.
+Here's why: the refund and the transparency are both acts of [making it right](./making-it-right.md). You asked someone to leave who didn't violate the agreements — that's a deviation from the promise, even if it was necessary for their safety. The refund acknowledges that. The transparency protects their reputation — because without it, every person in that room fills the vacuum with "they must have done something wrong if they had to leave." Telling the crowd openly that this person was protected, refunded, and removed only for their safety is how you stay in the spirit of the promise even when the emergency forced you outside the letter of it.
 
-That's not just handling a crisis. That's teaching your container how crises should be handled—so if any of them ever hold space themselves, they've seen what it looks like done right.
+It also does something words alone can't. It shows — through a concrete, material action — that mistakes are genuinely protected and that threats of violence have real consequences. Every person in that room now knows: if I make a mistake and the worst happens, the facilitator will actually take care of me. And if I threaten someone's life, it will cost me.
+
+That's not just handling a crisis. That's teaching your container how crises should be handled — so if any of them ever hold space themselves, they've seen what it looks like done right.
 
 ---
 
