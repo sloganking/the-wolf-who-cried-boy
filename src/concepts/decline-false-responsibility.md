@@ -8,7 +8,7 @@ If you're [responsible for everything](./responsibility.md), how can someone pus
 
 Here's the key: **Outcomes are created by multiple people.** You're responsible for YOUR part — your actions, your inactions, your choices. You're not responsible for carrying someone else's part when they refuse to own it.
 
-Sometimes people deny their own power, play victim, and try to make you accountable for their choices. They won't look at how they contributed. They won't own their part. Instead, they push all the weight onto you — and expect you to carry it.
+Sometimes people deny their own power, cry victim, and try to make you accountable for their choices. They won't look at how they contributed. They won't own their part. Instead, they push all the weight onto you — and expect you to carry it.
 
 Don't.
 
@@ -117,7 +117,7 @@ In reality, it's the opposite.
 
 Refusing to carry what isn't yours IS taking responsibility — for yourself, for the truth, for not participating in a false narrative. It's doing the hard thing. It's doing the right thing, even when others don't understand it.
 
-The responsible thing to do when someone is playing victim is to **call it out**. Not harshly, but clearly. Help guide them into seeing their own power—how they can create safety for themselves and a future they actually want.
+The responsible thing to do when someone is crying victim is to **call it out**. Not harshly, but clearly. Help guide them into seeing their own power—how they can create safety for themselves and a future they actually want.
 
 That's the Creator move. Taking their responsibility for them keeps them stuck in Victim.
 
@@ -162,7 +162,7 @@ The compassionate response isn't to take their responsibility. It's to help them
 
 ## The Path Forward
 
-When someone is playing victim and trying to make you carry their responsibility, the most loving thing you can do — for both of you — is to refuse. You take yours. They take theirs. That's the only path to real resolution.
+When someone is crying victim and trying to make you carry their responsibility, the most loving thing you can do — for both of you — is to refuse. You take yours. They take theirs. That's the only path to real resolution.
 
 ---
 
