@@ -319,7 +319,11 @@ Not because facilitators are dangerous. Not because staff can't be trusted. But 
 
 Some containers allow assistants to play but not lead facilitators. Same logic—the more authority someone appears to have, the more the perfection myth applies, the more dangerous the over-response when they inevitably prove human.
 
-Notice what all four reasons have in common: they're protecting the *facilitator*, not the participant. The facilitator is the most trained person in the room. They have the most experience with boundaries, communication, and consent. They are the *least* likely person to cause harm. The rule doesn't exist because facilitators are dangerous — it exists because participants' stories about facilitators make facilitators disproportionately vulnerable to catastrophic consequences when anything goes wrong. Everyone assumes the rule protects the less powerful person from the more powerful one. It's the opposite. It protects the person everyone *perceives* as powerful from the distortions that perception creates.
+Notice what all four reasons have in common: they're protecting the *facilitator*, not the participant. The facilitator is the most trained person in the room. They have the most experience with boundaries, communication, and consent. They are the *least* likely person to cause harm. The rule doesn't exist because facilitators are dangerous — it exists because participants' stories about facilitators make facilitators disproportionately vulnerable to catastrophic consequences when anything goes wrong.
+
+And it's not just the participant they played with. Anyone who hears "a facilitator played with a participant" fills in the rest of the story automatically: *the facilitator took advantage.* They don't ask what happened. They don't need to — the cultural narrative is pre-loaded. The story writes itself before a single question gets asked. So the facilitator isn't just vulnerable to one person's filter. They're vulnerable to *everyone's* filter, including people who weren't there and have no information beyond the roles involved.
+
+Everyone assumes the rule protects the less powerful person from the more powerful one. It's the opposite. It protects the person everyone *perceives* as powerful from the distortions that perception creates.
 
 **The reality:**
 
