@@ -32,7 +32,7 @@ If they dropped the frame — if they stopped seeing enemies and started seeing 
 
 > **"No one was ever made good by being told he or she is bad."**
 >
-> — Nathaniel Branden
+> — _Nathaniel Branden, The Six Pillars of Self-Esteem_
 
 If your movement's strategy is "stop those people from doing bad things," you've already lost — because you never stopped to ask why they're doing it. You never looked at their beliefs. You never considered that they think they're doing *good*. And you can't fix what you've never tried to understand.
 
