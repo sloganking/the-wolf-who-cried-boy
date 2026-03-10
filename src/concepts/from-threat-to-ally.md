@@ -93,6 +93,8 @@ This is an excuse to give up. It lets you off the hook from having to figure out
 
 That's not an insult to you—it's an invitation. It means the problem is solvable. It means there's a way to frame things, a way to show them, a way to connect that would actually land. You just haven't found it yet.
 
+One caveat: if someone is in [Narrative Lock](./invisible-patterns.md#narrative-lock), they literally cannot process what you're saying right now. Every word you offer gets filtered through their locked story and comes out confirming it. That's not a communication problem you can solve in the moment — it's a state they need to come down from first. The difference between "I haven't found the right framing" and "they're locked" matters, because one means keep trying and the other means wait.
+
 The person in front of you has reasons for what they're doing. Based on their beliefs about the situation—about the world, about you, about what's at stake—everything they're doing makes sense. Their actions are sane and reasonable _given their model of reality_.
 
 > **"All people's actions are sane and reasonable, given their beliefs about the world they are operating within."**
@@ -211,7 +213,7 @@ This approach works when:
 Sometimes fighting _is_ the only answer.
 
 - **Immediate physical threat.** If you're in danger right now, your priority is safety, not conversion.
-- **Someone who won't engage.** Some people aren't ready or willing to hear anything. You can't force understanding.
+- **Someone in [Narrative Lock](./invisible-patterns.md#narrative-lock).** Some people aren't ready or willing to hear anything — they've locked into a story and everything you say gets filtered to confirm it. You can't force understanding. You can only wait for the lock to break, or walk away.
 - **Bad faith.** If they're genuinely malicious—consciously choosing harm for its own sake—communication won't help. (But remember: this is far rarer than it seems. [Most "predators" are confused, not evil](./before-you-judge.md#most-people-arent-predators).)
 - **Power imbalance too extreme.** If they hold all the cards and have no incentive to listen, you may need to change your position before communication becomes viable.
 
