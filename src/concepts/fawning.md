@@ -106,7 +106,7 @@ Here's the thing: the harm to Person A can be MEDIUM or HIGH—depending on how 
 - Person A may be banned, shunned, or publicly shamed
 - [Severity](./severity.md): **HIGH** — potentially permanent harm
 
-The fawner who plays [Victim](./drama-triangle.md) and blames Person A for "not catching their lie" is now creating HIGH severity harm to someone who was acting in good faith.
+The fawner who cries [Victim](./drama-triangle.md) and blames Person A for "not catching their lie" is now creating HIGH severity harm to someone who was acting in good faith.
 
 > The fawner who started as a victim becomes the perpetrator.
 
@@ -115,7 +115,7 @@ The fawner who plays [Victim](./drama-triangle.md) and blames Person A for "not 
 When you consent to play with someone you know has a fawning pattern, you're trusting them:
 
 - To take responsibility for their pattern
-- To not play victim if they fawn
+- To not cry victim if they fawn
 - To not attempt HIGH-severity harm against you
 - To own that their "yes" was their creation, not your violation
 
@@ -193,7 +193,7 @@ Which means:
 
 ### The Victim Trap
 
-Some fawners, when their fawning isn't caught, play [Victim](./drama-triangle.md):
+Some fawners, when their fawning isn't caught, cry [Victim](./drama-triangle.md):
 
 - "You should have caught my lie"
 - "I feel violated"
@@ -210,7 +210,7 @@ The hard truth:
 
 > **The only way a fawner can ever truly feel safe is to take responsibility for their fawning.**
 
-Not to find a perfect partner who catches every lie. Not to blame others for not reading minds. Not to play victim when their pattern creates consequences.
+Not to find a perfect partner who catches every lie. Not to blame others for not reading minds. Not to cry victim when their pattern creates consequences.
 
 But to:
 
@@ -236,7 +236,7 @@ The empowered fawner:
 The disempowered fawner:
 
 - Blames others for not catching them
-- Plays victim when their fawning has consequences
+- Cries victim when their fawning has consequences
 - Expects others to protect them from themselves
 - Never changes
 
@@ -277,7 +277,7 @@ Before playing with someone, before pairing up for an exercise, before entering 
 >
 > I'm not going to blame you. I might ask you to notice what happened so you can learn to detect fawning better next time—but I won't throw all responsibility on you. I'll take responsibility for not saying no.
 >
-> I recognize that your touch is a privilege and a gift. If you decide to play with me knowing I have this pattern, you're putting trust in my hands to not play victim. I thank you for that.
+> I recognize that your touch is a privilege and a gift. If you decide to play with me knowing I have this pattern, you're putting trust in my hands to not cry victim. I thank you for that.
 >
 > I really want to work out of this pattern, and this will help me. I also really want to play."
 
@@ -426,7 +426,7 @@ Not disappointed. Not rejected. Grateful. And relieved.
 
 ### Why No Creates Safety
 
-When you've interacted with enough fawners who later play victim, you learn something important: **being told yes when they mean no is dangerous.**
+When you've interacted with enough fawners who later cry victim, you learn something important: **being told yes when they mean no is dangerous.**
 
 They lie to you. Then they feel violated by something they agreed to. Then they attack you with [high-severity](./severity.md) accusations for a situation they created.
 
@@ -455,9 +455,9 @@ When you say no clearly, you create trust. The other person knows:
 
 I'll be direct about the gender dynamic here.
 
-As a man who typically initiates touch, I'm incredibly vulnerable to women who fawn and then play victim. If a woman says yes when she means no, then later decides she was violated, there's not a lot I can do. The cultural narrative will side with her. My reputation can be destroyed based on her lie about her own consent.
+As a man who typically initiates touch, I'm incredibly vulnerable to women who fawn and then cry victim. If a woman says yes when she means no, then later decides she was violated, there's not a lot I can do. The cultural narrative will side with her. My reputation can be destroyed based on her lie about her own consent.
 
-This isn't bitterness—it's [taking responsibility](./responsibility.md) for my experience. I pay attention. When I see someone fawning, that's a flag. When I see them fawn and then play victim? I'm out. I don't play with people who can't own their no. It's not going to be fun for either of us—and if something goes wrong, it would be 100% my creation for ignoring the warning signs.
+This isn't bitterness—it's [taking responsibility](./responsibility.md) for my experience. I pay attention. When I see someone fawning, that's a flag. When I see them fawn and then cry victim? I'm out. I don't play with people who can't own their no. It's not going to be fun for either of us—and if something goes wrong, it would be 100% my creation for ignoring the warning signs.
 
 So when I find someone who clearly owns their no? Who says what they mean? That's gold. That's safety. That's someone I can trust.
 
@@ -518,7 +518,7 @@ But consider the flip side:
 
 **When you touch someone, you're becoming vulnerable.**
 
-You're trusting them. You're putting yourself at risk. If they fawn and then play victim, you could face accusations, reputation damage, witch hunts—all for believing their yes.
+You're trusting them. You're putting yourself at risk. If they fawn and then cry victim, you could face accusations, reputation damage, witch hunts—all for believing their yes.
 
 Your touch is a gift. Your vulnerability is a gift. Your trust is a gift.
 
@@ -578,7 +578,7 @@ You have [power over the people you interact with](./power-dynamics.md). Real po
 
 **Telling someone yes when you're actually a no is an abuse of your power.** You're using it to deceive them, to create a situation that harms them, to set them up for consequences they didn't consent to.
 
-And if you then play victim afterward—attacking them for believing your lie—you are **abusing your power as a victim.** It should be recognized as such.
+And if you then cry victim afterward—attacking them for believing your lie—you are **abusing your power as a victim.** It should be recognized as such.
 
 Your no isn't selfish. Your no is love. And your yes, when it's real, is a gift they can trust.
 
