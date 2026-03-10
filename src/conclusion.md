@@ -22,9 +22,15 @@ In sacred sexuality spaces, people talk about planetary transformation. They say
 
 That vision is beautiful. And there's truth in it—people do have breakthroughs. They do shed limiting beliefs. They do connect in ways they never thought possible.
 
-But breakthroughs alone don't transform the planet.
+But breakthroughs alone don't transform the planet. And here's the part nobody in these communities wants to hear:
 
-What transforms the planet is what happens *after* the breakthrough—when you're back in the real world, and someone makes a mistake, and your old patterns want to take over. When someone crosses a boundary and your fear says *predator*. When someone disagrees with you and your certainty says *enemy*.
+The people most dedicated to "love and transformation" are often the most stuck in a story that guarantees they can't deliver it. Their love carries judgment they don't see. Their message of unity has a boundary around it — and everyone outside that boundary is the enemy. Capitalism is evil. Patriarchy is the problem. Those people over there are what's wrong with the world. They'll say it with compassion in their voice and not hear the hate underneath.
+
+A message that opposes half of humanity can never transform all of humanity. It can only transform the fraction that already agrees — and keep them blind by reinforcing the frame. The people they'd need to enroll to actually change the world are the same people their story has labeled as the problem. And because the judgment feels like righteousness — because fighting capitalism or patriarchy feels like love — they can't see that they're doing the exact thing this book describes: [becoming the harm they're trying to prevent](./concepts/trauma-and-filters.md#you-become-the-thing-you-fear). A [righteous predator](./concepts/why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs) with a mission statement.
+
+If they dropped the frame — if they stopped seeing enemies and started seeing confused humans — they could enroll the very people they currently oppose. They'd be infinitely more powerful. But that would require seeing through the story their entire identity is built on. And that's the hardest thing there is.
+
+What actually transforms the planet is what happens *after* the breakthrough—when you're back in the real world, and someone makes a mistake, and your old patterns want to take over. When someone crosses a boundary and your fear says *predator*. When someone disagrees with you and your certainty says *enemy*.
 
 Planetary transformation isn't a peak experience. It's what you do in the hard moments.
 
