@@ -159,7 +159,7 @@ The scrutiny is higher. The assumptions are darker. And when something goes wron
 
 Most people assume being selfish is easy and being selfless takes strength. It's the opposite.
 
-(Yes, there are people for whom selfishness comes easy—and they tend to prefer it. But 9 out of 10 people reading this right now would have a comically painful time doing one thing they genuinely perceived as selfish.)
+(Yes, there are people for whom selfishness comes easy—and they tend to prefer it. But 9 out of 10 people reading this right now would have a comically painful time doing one thing they genuinely perceived as selfish. And if they managed it, the [sinsickness](./i-made-a-mistake.md#sinsickness) alone might destroy them.)
 
 It's easier to give than to receive. It's easier to fold under pressure and say "okay, okay" than to stand up for yourself against wrongful accusations.
 

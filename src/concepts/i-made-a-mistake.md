@@ -93,7 +93,19 @@ And here's where the [judgment double-edge](./invisible-patterns.md#what-narrati
 
 The person who thought ["I would never do that"](./body-stories.md#i-would-never-do-that) and judged everyone who did is the person most likely to be destroyed by sinsickness when they inevitably do. They didn't just build the cage — they sharpened the bars.
 
-The cure isn't more guilt. It's recalibrating the system. Recognizing that mistakes are human, that intent matters, that [severity](./severity.md) exists on a spectrum — and that the standard you apply to others is the standard that will eventually apply to you. If you want to survive your own mistakes, start by being fair to other people's.
+The distinction that tells you whether you're processing or sinsick:
+
+> **Guilt says "I did bad." Shame says "I am bad."**
+>
+> — Brené Brown
+
+Guilt is healthy. It's your system saying "I don't want to do that again" — and it motivates change. You feel bad about your *actions*, and that feeling drives you to repair, learn, and show up differently. Guilt is actionable. It has a direction.
+
+Shame is sinsickness. It attacks your identity, not your behavior. It says you *are* the problem — not that you *did* something problematic. And because you can't fix who you are the way you can fix what you do, shame has no exit. It just loops. It's a [disempowering belief](./responsibility.md) — you believe you've committed something unforgivable, and that belief keeps you stuck, suffering, and unable to create good in the world.
+
+If what you're feeling has a direction — "I need to make this right, I need to learn from this, I need to show up differently" — that's guilt. Use it. If what you're feeling is a collapse — "I'm a bad person, I don't deserve to be in community, I'm broken" — that's sinsickness. It's your moral immune system attacking you, and the cure isn't more shame. It's recalibrating the system.
+
+Recognize that mistakes are human. That intent matters. That [severity](./severity.md) exists on a spectrum. And that the standard you apply to others is the standard that will eventually apply to you. If you want to survive your own mistakes, start by being fair to other people's.
 
 ### Even When Others Call You a Predator
 
