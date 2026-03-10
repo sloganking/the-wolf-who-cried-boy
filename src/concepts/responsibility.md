@@ -167,9 +167,9 @@ The only difference between you and the facilitator is that the facilitator is e
 
 You don't have to be the one who made the mistake to be responsible for helping prevent it. You are a co-creator of the container—not a passive consumer of it.
 
-This matters most when an angry crowd turns on someone. In [a famous psychology experiment](https://cruciallearning.com/blog/how-to-speak-up-and-listen-at-work-crucial-learning/), researchers showed people a line and asked them to match it to one of three options. The correct answer was obvious. But when everyone else in the room confidently gave the wrong answer, about two-thirds of people went along with it — even though they could see it was wrong. Most people will not contest the loudest voice in the room, even when they know it's wrong.
+This matters most when an angry crowd turns on someone. In [a famous psychology experiment](https://cruciallearning.com/blog/how-to-speak-up-and-listen-at-work-crucial-learning/), researchers showed a group of people a line and asked them to match it to one of three options. The correct answer was obvious — but everyone in the room except one person was an actor, told to confidently give the wrong answer. About two-thirds of the real test subjects went along with the group's wrong answer, even though they could see it was wrong. Most people will not contest the loudest voice in the room, even when they know it's wrong.
 
-But here's the part that matters: **when even one person said "I see it differently," 95% of people suddenly answered correctly.** One voice changed the entire room. The silent people who privately disagreed suddenly had permission to speak. The false consensus collapsed.
+But here's the part that matters: **when even one actor broke from the group and said "I see it differently," 95% of test subjects said what they actually saw instead of conforming.** One voice giving them permission to disagree was all it took. The false consensus collapsed.
 
 When someone is being attacked and you think the response is disproportionate, you're probably not the only one who sees it. You might be the only one considering saying it. And the difference between a room where no one speaks the truth and a room where actual dialogue happens might be your singular voice.
 
