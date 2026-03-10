@@ -140,6 +140,8 @@ Maybe you downplay the harm. Maybe you say "it's fine" when it isn't. Maybe you 
 
 This is [fawning](./fawning.md) showing up in repair. You're not fully advocating for yourself. You're making yourself small, asking for less, settling.
 
+People think asking for a lot is selfish. It's the opposite. Asking for less than what you actually need to feel repaired is selfish — because they do what you asked, and you're still not happy. They spent their time and energy on something that didn't work. The relationship doesn't actually heal. And the reason it didn't heal isn't that they failed — it's that you never gave them a real target. You protected your own ego instead of contributing to the repair. Whatever discomfort you avoided by asking small — the guilt, the insecurity, the fear of seeming demanding — you traded it for a relationship that stays broken.
+
 **Why this matters:**
 
 Remember: [risk and opportunity are two words for the same thing](./from-threat-to-ally.md#the-opportunity-youre-missing). The person who wronged you could become an ally who adds immense value to your life. But that only happens if you give them the chance.
