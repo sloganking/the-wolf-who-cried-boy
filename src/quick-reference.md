@@ -40,7 +40,7 @@ Everything in one place. Click any link to jump to the full explanation.
 | [Fawning](./concepts/fawning.md) | When "yes" means "no" — a trauma response that creates two victims. The fawner is harmed by their own compliance, and the other person is set up to look like an aggressor. |
 | [Pre-framing](./concepts/before-you-facilitate.md#pre-framing-the-flip-side) | The first frame presented tends to stick. Facilitators can pre-frame groups toward trust and repair instead of fear and accusation. |
 | [Love vs. Jealousy](./concepts/trauma-and-filters.md#how-to-check) | Love is wanting someone's happiness. Jealousy is wanting to control who gives it to them. If your actions make the person you love less happy and more afraid, what's driving you isn't love. |
-| [Own Your Part — Not Theirs](./concepts/decline-false-responsibility.md) | Take full responsibility for what you did. Refuse to carry what isn't yours. Accepting false responsibility keeps them stuck in the story that's causing their pain. |
+| [Own Your Part — Not Theirs](./concepts/own-your-part.md) | Take full responsibility for what you did. Refuse to carry what isn't yours. Accepting false responsibility keeps them stuck in the story that's causing their pain. |
 | [Serving vs. Pleasing](./concepts/walking-your-talk.md) | Serving means doing what's right for them, even if it makes them mad. Pleasing means doing what keeps them comfortable, even if it harms them. |
 
 ---

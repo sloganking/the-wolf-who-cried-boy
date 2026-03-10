@@ -277,7 +277,7 @@ And the person, wanting to be responsible, tries to do repair—while being atta
 
 Repair under attack is not repair. It's submission. And it doesn't work—it just trains the attacker that aggression gets results.
 
-See: [Own Your Part — Not Theirs](./decline-false-responsibility.md)
+See: [Own Your Part — Not Theirs](./own-your-part.md)
 
 ### The Correct Sequence
 
@@ -470,13 +470,13 @@ This doesn't mean the pain isn't real. It doesn't mean you caused everything tha
 
 ---
 
-Now that you understand your responsibility, see [Own Your Part — Not Theirs](./decline-false-responsibility.md) for what to do when someone tries to make you carry theirs.
+Now that you understand your responsibility, see [Own Your Part — Not Theirs](./own-your-part.md) for what to do when someone tries to make you carry theirs.
 
 ---
 
 ## Related
 
-- [Own Your Part — Not Theirs](./decline-false-responsibility.md) — When someone pushes their responsibility onto you
+- [Own Your Part — Not Theirs](./own-your-part.md) — When someone pushes their responsibility onto you
 - [100% Control](../tools/100-percent-control.md) — The teaching tool for seeing your power
 - [Power Dynamics](./power-dynamics.md) — Unrecognized power
 - [Making It Right](./making-it-right.md) — Taking responsibility in action

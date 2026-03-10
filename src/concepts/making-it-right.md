@@ -28,7 +28,7 @@ If someone is screaming at you, making threats, or demanding you "take responsib
 
 **Contain first. Repair after.**
 
-Everything below assumes the conditions for repair are present. If they're not, see [Own Your Part — Not Theirs](./decline-false-responsibility.md).
+Everything below assumes the conditions for repair are present. If they're not, see [Own Your Part — Not Theirs](./own-your-part.md).
 
 ---
 

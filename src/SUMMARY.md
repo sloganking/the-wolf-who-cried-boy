@@ -32,7 +32,7 @@
 
 - [Responsibility](./concepts/responsibility.md)
 - [100% Control](./tools/100-percent-control.md)
-- [Own Your Part — Not Theirs](./concepts/decline-false-responsibility.md)
+- [Own Your Part — Not Theirs](./concepts/own-your-part.md)
 - [All Power Is Mutual](./concepts/all-power-is-mutual.md)
 
 ---
