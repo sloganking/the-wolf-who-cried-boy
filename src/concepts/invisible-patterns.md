@@ -100,6 +100,25 @@ When all three are present, the connection is already over. Not because you can'
 
 > Repair requires curiosity. Certainty kills connection.
 
+### What Narrative Lock Feels Like From the Inside
+
+If you've been on the receiving end of this, you know: it doesn't just feel like someone is mad at you. It feels like you've stopped being a person to them.
+
+You're no longer someone with intentions, feelings, and a story. You're a category — predator, threat, monster, a thing to be eliminated. Your internal experience stops mattering. Your intentions get overwritten by whatever they've decided you intended. They're not interacting with you anymore. They're interacting with the version of you their story created.
+
+That feeling of dehumanization isn't just meaning-making. It's an accurate read of what's happening. When someone is in Narrative Lock, they genuinely are no longer treating you as a human being. They're treating you as an archetype — and archetypes don't get heard, don't get to have intentions, and don't get repair paths.
+
+Now turn it around. If you're the one who's locked — if you're the one who's certain — check yourself against this:
+
+- Are you treating this person like a human being with their own intentions, feelings, and story? Or are you treating them like a category?
+- Are you hearing what they say? Or are you hearing what your story tells you they mean?
+- If they asked you to stop and listen, would you? Or have you already decided what they are?
+- Would you treat anyone else the way you're treating them right now?
+
+If you're advocating for someone's exclusion, refusing to hear them, and treating them as something less than a confused human who made a mistake — you're in Narrative Lock. Even if they genuinely harmed someone. Even if your anger is justified. The moment you stop treating them as human, you've crossed from defense into something else.
+
+And here's the double edge: judgment sets a standard you'll be held to. If you treat someone as a monster for their mistake, you will make a mistake someday — everyone does — and you will judge yourself by the same standard. The people who collapse hardest after making mistakes are the ones who judged others the harshest. They built the cage they eventually walked into.
+
 ## The Invitation
 
 That's how to recognize when someone else's filter has locked. Now turn it around: how do you know yours hasn't?
