@@ -28,7 +28,15 @@ The people most dedicated to "love and transformation" are often the most stuck 
 
 A message that opposes half of humanity can never transform all of humanity. It can only transform the fraction that already agrees — and keep them blind by reinforcing the frame. The people they'd need to enroll to actually change the world are the same people their story has labeled as the problem. And because the judgment feels like righteousness — because fighting capitalism or patriarchy feels like love — they can't see that they're doing the exact thing this book describes: [becoming the harm they're trying to prevent](./concepts/trauma-and-filters.md#you-become-the-thing-you-fear). A [righteous predator](./concepts/why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs) with a mission statement.
 
-If they dropped the frame — if they stopped seeing enemies and started seeing confused humans — they could enroll the very people they currently oppose. They'd be infinitely more powerful. But that would require seeing through the story their entire identity is built on. And that's the hardest thing there is.
+If they dropped the frame — if they stopped seeing enemies and started seeing confused humans who want to do good while operating on harmful beliefs — they could enroll the very people they currently oppose. Not by punishing them into compliance, but by understanding what they believe and why, and showing them a way to get what they actually want that works for everyone. That's infinitely more powerful than moralizing. But it would require seeing through the story their entire identity is built on. And that's the hardest thing there is.
+
+> **"No one was ever made good by being told he or she is bad."**
+>
+> — Nathaniel Branden
+
+If your movement's strategy is "stop those people from doing bad things," you've already lost — because you never stopped to ask why they're doing it. You never looked at their beliefs. You never considered that they think they're doing *good*. And you can't fix what you've never tried to understand.
+
+A simple test: if your message is love and compassion, but the strongest emotion in the room whenever you speak is anger — *"fuck capitalism," "fuck the patriarchy," "fuck those people"* — then what you're actually spreading isn't love. It's anger dressed in a love costume. You don't see it because the anger feels justified. It feels like warrior energy. It feels like defending the vulnerable. But walk into that room as an outsider and all you'll feel is hate. That's not a movement anyone new wants to join. That's a tribe bonding over a shared enemy — which is the oldest, most primitive form of human organization there is. It's the opposite of evolved.
 
 What actually transforms the planet is what happens *after* the breakthrough—when you're back in the real world, and someone makes a mistake, and your old patterns want to take over. When someone crosses a boundary and your fear says *predator*. When someone disagrees with you and your certainty says *enemy*.
 
