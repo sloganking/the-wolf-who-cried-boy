@@ -140,7 +140,7 @@ Maybe you downplay the harm. Maybe you say "it's fine" when it isn't. Maybe you 
 
 This is [fawning](./fawning.md) showing up in repair. You're not fully advocating for yourself. You're making yourself small, asking for less, settling.
 
-People think asking for a lot is selfish. It's the opposite. Asking for less than what you actually need to feel repaired is selfish — because they do what you asked, and you're still not happy. They spent their time and energy on something that didn't work. The relationship doesn't actually heal. And the reason it didn't heal isn't that they failed — it's that you never gave them a real target. You protected your own ego instead of contributing to the repair. Whatever discomfort you avoided by asking small — the guilt, the insecurity, the fear of seeming demanding — you traded it for a relationship that stays broken.
+People think asking for a lot is selfish. It's the opposite. Asking for less than what you actually need to feel repaired is selfish — because they do what you asked, wanting to please you and repair the relationship, and you're still not happy. They spent their time and energy on something that didn't work. The relationship doesn't actually heal. And the reason it didn't heal isn't that they failed — it's that you never gave them a real target. You protected your own ego instead of contributing to the repair. Whatever discomfort you avoided by asking small — the guilt, the insecurity, the fear of seeming demanding — you traded it for a relationship that stays broken.
 
 **Why this matters:**
 
@@ -201,7 +201,7 @@ And if they say no? Behind every no is something someone cares about. A no is ju
 
 1. Before the repair conversation, ask yourself: _What would actually make this right for me? Not the minimum—the real answer. Think bigger._
 2. **Make it precise.** Not "I want to feel like you care about me"—that's not actionable. What actions would make you feel cared about? "Take me to the movies." "Spend quality time with me at home." "Write me a letter." Give them something concrete they can actually do.
-3. Say it. Clearly. Without hedging or minimizing.
+3. Say it. Clearly. Without hedging or minimizing. If you need time to find the words, say so: "I need a second to get this out." That's not weakness — it's letting them support you while you figure out how to say what's true. The alternative is panicking because you can't articulate it in three seconds and blurting out "it's fine" or "I don't need anything" — which is a lie that costs you both.
 4. Let them respond. They might say yes. They might negotiate. They might surprise you.
 5. If they say no, get curious. What do they need? What would work for both of you?
 
