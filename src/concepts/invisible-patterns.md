@@ -110,10 +110,11 @@ That feeling of dehumanization isn't just meaning-making. It's an accurate read 
 
 Now turn it around. If you're the one who's locked — if you're the one who's certain — check yourself against this:
 
-- Are you treating this person like a human being with their own intentions, feelings, and story? Or are you treating them like a category?
 - Are you hearing what they say? Or are you hearing what your story tells you they mean?
 - If they asked you to stop and listen, would you? Or have you already decided what they are?
-- Would you treat anyone else the way you're treating them right now?
+- Would you treat a loved one — someone you deeply care about — this way if they'd done the same thing? If the answer is no, the gap between how you'd treat them and how you're treating this person is the measure of how far you've left their humanity behind.
+
+Listen to the words coming out of your mouth. Every label is a story. The moment you call someone a predator, a monster, an asshole — even "toxic" or "narcissist" — you've stopped looking at the person and started looking at an archetype. The label replaces them. You're no longer responding to a human who did a thing. You're responding to a category, and categories don't get heard. This includes categorical frameworks — the moment you stop talking about what this specific person did and start talking about patriarchy, toxic masculinity, or rape culture, you've filed them under a system. You're no longer in a conversation with them. You're in a conversation with an ideology, and they just happen to be standing where you're pointing.
 
 If you're advocating for someone's exclusion, refusing to hear them, and treating them as something less than a confused human who made a mistake — you're in Narrative Lock. Even if they genuinely harmed someone. Even if your anger is justified. The moment you stop treating them as human, you've crossed from defense into something else.
 
