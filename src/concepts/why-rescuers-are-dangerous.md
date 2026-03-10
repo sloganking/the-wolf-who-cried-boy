@@ -71,6 +71,10 @@ This is how you get the Inquisition. Not one predator—an _institution_ of Resc
 
 A selfish predator is one person doing harm. A righteous predator can mobilize armies.
 
+> **"A confidence man knows he's lying; that limits his scope. But a successful shaman believes what he says — and belief is contagious. There's no limit to his scope."**
+>
+> — _Robert A. Heinlein, Stranger in a Strange Land_
+
 ### "Think of the Children"
 
 Four words that have justified more harm than any predator ever caused.
