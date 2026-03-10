@@ -33,7 +33,7 @@ And they're both in your room.
 
 Before you act, understand what you're looking at.
 
-Most people who make death threats in these spaces are not planning to kill anyone. They're terrified. They don't know how else to communicate the severity of what they're feeling. "I'll kill you" is often the only language their nervous system has for "stay back, I'm serious, I need you to take this seriously, I don't know what else to do."
+Most people who make death threats in these spaces are not planning to kill anyone. They're [righteous predators](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs) — terrified, certain they're protecting someone, and causing harm in the process. They don't know how else to communicate the severity of what they're feeling. "I'll kill you" is often the only language their nervous system has for "stay back, I'm serious, I need you to take this seriously, I don't know what else to do."
 
 It's posturing — making yourself look big and dangerous when you're actually scared and overwhelmed. Think about it: if this person has a family, a life, people who depend on them — actually following through would destroy everything they care about. They'd lose their freedom, their family, their future. That's not protecting anyone. That's indulging rage at the cost of everything they say matters to them.
 

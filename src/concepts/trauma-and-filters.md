@@ -346,7 +346,7 @@ Someone causes harm—through an unconscious mistake or a harmful belief. You se
 
 **But they weren't a predator. They were confused, unconscious, or operating on a bad belief.** And now you're causing harm through _your_ harmful belief—the belief that they were evil. You're doing the exact thing you were afraid of.
 
-The Inquisitor feared heretics destroying civilization—so he destroyed lives. The Rescuer feared a predator in the community—so she destroyed a reputation. The parent feared their child wouldn't be strong enough to survive a harsh world—so they [became the harsh world](../origin.md).
+The Inquisitor feared heretics destroying civilization—so he destroyed lives. The Rescuer feared a predator in the community—so she destroyed a reputation. The parent feared their child wouldn't be strong enough to survive a harsh world—so they [became the harsh world](../origin.md). Every one of them a [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs) — causing harm while certain they were preventing it.
 
 Every one of them became the harm they were trying to prevent. Not despite their fear—_because_ of it. Fear drove them to act without verification, without proportionality, without seeing clearly. And the actions they took in that state caused more damage than the thing they were afraid of.
 
