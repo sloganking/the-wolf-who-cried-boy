@@ -85,9 +85,13 @@ Check your severity. Match your response.
 
 Maybe people are calling you a bad person. Maybe they're saying you should be removed from community and never come back. Maybe they're labeling you a predator.
 
-That kind of thinking doesn't treat all human beings with dignity and respect. It doesn't recognize and make room for mistakes and growth. It doesn't see your goodness—even if you were lacking in wisdom. It doesn't allow you to contribute to other human beings who would get value from interacting with you.
+> **"You're not a bad person. You're a very good person who bad things have happened to. Besides, the world isn't split into good people and Death Eaters. We've all got both light and dark inside us. What matters is the part we choose to act on. That's who we really are."**
+>
+> — _Sirius Black, Harry Potter and the Order of the Phoenix_
 
-Their reaction is about their filters, their fear, their need for a villain. It's not an accurate assessment of your worth or your future.
+That kind of thinking — splitting the world into good people and predators — doesn't treat all human beings with dignity and respect. It doesn't recognize and make room for mistakes and growth. It doesn't see your goodness — even if you were lacking in wisdom. It doesn't allow you to contribute to other human beings who would get value from interacting with you.
+
+Their reaction is about their filters, their fear, their need for a villain. It's not an accurate assessment of your worth or your future. What defines you isn't the mistake. It's what you choose to do next.
 
 ### Return to Community
 
