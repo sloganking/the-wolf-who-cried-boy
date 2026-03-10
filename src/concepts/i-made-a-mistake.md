@@ -132,7 +132,7 @@ I've heard people say that if they made a medium-severity mistake, they'd feel s
 
 **This is self-punishment, not accountability.** And if someone is *recommending* this to you — telling you that people like you should feel so ashamed they shouldn't want to show up — they're not holding you accountable. They're shaming you. They're saying your presence is a problem, that you should want to disappear, and that if you don't feel that way, something's wrong with you. That's not a repair path. That's exile dressed up as responsibility.
 
-It might feel like penance. It might feel like "the responsible thing to do." But disconnecting from community as punishment isn't responsibility—it's guilt-as-self-indulgence. It's blame turned inward. It's punishing yourself instead of growing and contributing.
+It might feel like penance. It might feel like "the responsible thing to do." But disconnecting from community as punishment isn't responsibility—it's guilt-as-self-indulgence. It's blame turned inward. It's punishing yourself instead of growing — and depriving everyone else of what you could contribute if you stayed.
 
 Here's the thing: **The only way you become the person everyone receives value from interacting with is by continuing to interact.**
 
