@@ -323,7 +323,9 @@ Notice what all four reasons have in common: they're protecting the *facilitator
 
 And it's not just the participant they played with. Anyone who hears "a facilitator played with a participant" fills in the rest of the story automatically: *the facilitator took advantage.* They don't ask what happened. They don't need to — the cultural narrative is pre-loaded. The story writes itself before a single question gets asked. So the facilitator isn't just vulnerable to one person's filter. They're vulnerable to *everyone's* filter, including people who weren't there and have no information beyond the roles involved.
 
-Everyone assumes the rule protects the less powerful person from the more powerful one. It's the opposite. It protects the person everyone *perceives* as powerful from the distortions that perception creates.
+There's a secondary benefit: participants feel safer when facilitators don't play. It strengthens the sense of containment. But that's almost a side effect. The primary reason is that if something goes wrong between a facilitator and a participant, it goes *catastrophically* wrong — because every filter in the room and beyond activates at maximum intensity.
+
+Everyone assumes the rule protects the less powerful person from the more powerful one. It's actually the opposite. It protects the person everyone *perceives* as powerful from the distortions that perception creates.
 
 **The reality:**
 
