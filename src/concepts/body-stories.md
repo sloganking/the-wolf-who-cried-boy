@@ -317,7 +317,7 @@ Not because facilitators are dangerous. Not because staff can't be trusted. But 
 3. **The perceived power dynamic intensifies the over-response** — "they used their position" when actually they just slipped like any human would
 4. **Having a neutral party to hold space matters** — if the angry person is mad at the facilitator, who holds the container?
 
-Some containers allow assistants to play but not lead facilitators. Same logic—the more authority someone appears to have, the more the perfection myth applies, the more dangerous the over-response when they inevitably prove human.
+Some containers let assistants play with participants while lead facilitators can't. Same logic—the more authority someone appears to have, the more the perfection myth applies, the more dangerous the over-response when they inevitably prove human.
 
 Notice what all four reasons have in common: they're protecting the *facilitator*, not the participant. The facilitator is the most trained person in the room. They have the most experience with boundaries, communication, and consent. They are the *least* likely person to cause harm. The rule doesn't exist because facilitators are dangerous — it exists because participants' stories about facilitators make facilitators disproportionately vulnerable to catastrophic consequences when anything goes wrong.
 
