@@ -130,9 +130,9 @@ Not recklessly. You shouldn't go back to parties without introspecting and figur
 
 I've heard people say that if they made a medium-severity mistake, they'd feel such shame that they'd stay out of community for a whole year before maybe coming back—if ever. I've heard that many people actually do this.
 
-**This is guilt-as-self-indulgence, not responsibility.**
+**This is self-punishment, not accountability.** And if someone is *recommending* this to you — telling you that people like you should feel so ashamed they shouldn't want to show up — they're not holding you accountable. They're shaming you. They're saying your presence is a problem, that you should want to disappear, and that if you don't feel that way, something's wrong with you. That's not a repair path. That's exile dressed up as responsibility.
 
-It might feel like penance. It might feel like "the responsible thing to do." But disconnecting from community as punishment isn't responsibility—it's blame turned inward. It's punishing yourself instead of growing.
+It might feel like penance. It might feel like "the responsible thing to do." But disconnecting from community as punishment isn't responsibility—it's guilt-as-self-indulgence. It's blame turned inward. It's punishing yourself instead of growing and contributing.
 
 Here's the thing: **The only way you become the person everyone receives value from interacting with is by continuing to interact.**
 
