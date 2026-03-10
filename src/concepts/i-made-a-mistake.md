@@ -81,6 +81,20 @@ You wouldn't accept someone else treating a friend this way. Don't accept it fro
 
 Check your severity. Match your response.
 
+### Sinsickness
+
+If you read the above and think "I know, but I can't stop" — that's not weakness. It's an autoimmune disorder of the psyche.
+
+Your moral judgment system is designed to identify harmful behavior — in others. It scans for threats, categorizes actions as acceptable or unacceptable, and generates the emotional weight to respond. That's its job. But when you make a mistake that matches the pattern, the system can't tell the difference between "I did something harmful" and "I am the threat." So it attacks you. Not because you're choosing to feel guilty — because the system you built is running on autopilot against its own host.
+
+This is sinsickness. The feeling that you've committed something unforgivable. The lethargy, the depression, the low energy, the inability to function — not because you're lazy or self-indulgent, but because your entire moral immune system is treating you as the enemy. You're bedridden with sin.
+
+And here's where the [judgment double-edge](./invisible-patterns.md#what-narrative-lock-feels-like-from-the-inside) comes back: the severity of your sinsickness is proportional to how harshly you judged others. If you spent years believing that anyone who makes a mistake in a play space is an evil person regardless of intent — and then you accidentally make one — your system doesn't give you a pass. It applies the same standard. The harsher the judgment you calibrated it with, the harder it attacks you.
+
+The person who thought ["I would never do that"](./body-stories.md#i-would-never-do-that) and judged everyone who did is the person most likely to be destroyed by sinsickness when they inevitably do. They didn't just build the cage — they sharpened the bars.
+
+The cure isn't more guilt. It's recalibrating the system. Recognizing that mistakes are human, that intent matters, that [severity](./severity.md) exists on a spectrum — and that the standard you apply to others is the standard that will eventually apply to you. If you want to survive your own mistakes, start by being fair to other people's.
+
 ### Even When Others Call You a Predator
 
 Maybe people are calling you a bad person. Maybe they're saying you should be removed from community and never come back. Maybe they're labeling you a predator.
