@@ -167,6 +167,12 @@ The only difference between you and the facilitator is that the facilitator is e
 
 You don't have to be the one who made the mistake to be responsible for helping prevent it. You are a co-creator of the container—not a passive consumer of it.
 
+This matters most when an angry crowd turns on someone. In Solomon Asch's [conformity experiments](https://cruciallearning.com/blog/how-to-speak-up-and-listen-at-work-crucial-learning/), about two-thirds of people went along with an obviously wrong answer just because the rest of the group said it. Most people in a room will not contest the loudest voice — even when they can see it's wrong. The mob looks unanimous, but it rarely is. It's one loud voice and a room full of people afraid that speaking up will make them the next target.
+
+But here's the part that matters: **when even one person said "I see it differently," 95% of test subjects suddenly answered correctly.** One voice. That's all it took. The silent people who privately disagreed suddenly had permission to speak. The false consensus collapsed.
+
+If you're in a room where someone is being attacked and you think the response is disproportionate — you are probably not the only one who thinks that. You're just the only one considering saying it. And if you do, others will follow. That's not a theory. That's what the research shows.
+
 See: [Power Dynamics](./power-dynamics.md) — You have more power than you think.
 
 ## Responsibility ≠ Blame
