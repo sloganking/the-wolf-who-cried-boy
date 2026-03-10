@@ -51,7 +51,7 @@ And it doesn't require a fawner. Imagine Person B doesn't apologize — they fig
 
 Person A started the fight. Person A attacked an innocent person based on a story. Person B's anger is a completely rational response to being falsely accused. But through Person A's filter, the anger IS the proof. They created the hostile person standing in front of them — and they'll never see it, because from their perspective, they were right all along.
 
-Whether Person B fawns or fights, the trap is total. Fawning looks like a confession. Fighting looks like aggression. Both confirm the story. The only response that *doesn't* confirm it is calm, clear boundary-setting — and that requires a level of composure most people don't have when they've just been falsely accused of being a predator.
+Whether Person B fawns or fights, the trap is total. Fawning looks like a confession. Fighting looks like aggression. Both confirm the story. Calm, clear boundary-setting has the best chance of breaking through — but even that can get filtered as "the predator is using boundaries to manipulate." When someone's story is locked, there may be no response that doesn't confirm it. That's what makes it a trap.
 
 **The painful irony:**
 
