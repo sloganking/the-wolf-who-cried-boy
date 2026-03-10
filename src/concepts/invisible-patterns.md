@@ -118,7 +118,7 @@ Listen to the words coming out of your mouth. Every label is a story. The moment
 
 If you're advocating for someone's exclusion, refusing to hear them, and treating them as something less than a confused human who made a mistake — you're in Narrative Lock. Even if they genuinely harmed someone. Even if your anger is justified. The moment you stop treating them as human, you've crossed from defense into something else.
 
-And here's the double edge: judgment sets a standard you'll be held to. If you treat someone as a monster for their mistake, you will make a mistake someday — everyone does — and you will judge yourself by the same standard. The people who collapse hardest after making mistakes are the ones who judged others the harshest.
+And here's the double edge: judgment sets a standard you'll be held to. If you treat someone as a monster for their mistake, you will make a mistake someday — everyone does. (If you think you won't, you're in the ["I would never do that"](./body-stories.md#i-would-never-do-that) filter.) And you will judge yourself by the same standard. The people who collapse hardest after making mistakes are the ones who judged others the harshest.
 
 But it's worse than that. Even if you manage to forgive yourself — even if you see through it and think "maybe I shouldn't have attacked those people, because now I see how easy it is to make a mistake" — you've already trained everyone around you. Every judgment you expressed taught the people in your life that mistakes are unforgivable. So when you falter, the culture you built is what crushes you. You don't just judge yourself. You get judged by the standard you set. By attacking others, you were attacking yourself. You just had to wait until the mirror turned around.
 
