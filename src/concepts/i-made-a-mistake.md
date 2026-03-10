@@ -118,6 +118,18 @@ Taking a year off does nothing that a month of actual engagement wouldn't do bet
 
 And here's what happens if you don't return: **the intellectual understanding fades.** Without practice, without real situations to apply your learning, the lesson never solidifies. You end up learning it worse than if you'd stayed in community.
 
+### Everything Happens For You
+
+> **"Everything happens for you, not to you."**
+> 
+> — Tony Robbins
+
+This isn't positive thinking. It's a strategic frame. The person who treats a mistake as something that happened *to* them gets crushed by it — they hide, they shame themselves, they lose years. The person who treats it as something that happened *for* them uses it. They get stronger. They gain sight they couldn't have gotten any other way.
+
+The concept is antifragility — some things don't just survive pressure, they grow from it. Bones get denser under stress. Immune systems get stronger from exposure. And people who go through hard experiences, introspect honestly, and return to community become more capable than people who never faced adversity at all.
+
+Your mistake didn't just teach you what not to do. It taught you what it's like to be on the receiving end of people's stories, their filters, their righteous certainty. It showed you how wrong people can be about you — and that means you now know how wrong you can be about others. That's wisdom you can't get from reading a book. You had to live it.
+
 ### You Become the Teacher
 
 There's another reason to return quickly:
