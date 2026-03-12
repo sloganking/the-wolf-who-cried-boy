@@ -21,3 +21,19 @@ Ideas, quotes, and concepts that don't belong in the book but are valuable for c
 **Where to use:** Coaching page, pricing philosophy, blog post on "why coaches charge." Supports the idea that charging high dollar *shows* your work is valuable (show, don't tell). If everyone is speaking random bullshit and you're speaking truth, no one can tell the difference — unless you're charging for it and people are buying and happy. Also: the people willing to invest are the ones most ready to receive help.
 
 ---
+
+## Staff Fit Check
+
+Pick staff who align with your worldview on conflict handling, not just people you like casually. If your staff team is fighting each other's worldview during a live conflict, you can't handle the actual conflict. The reason staff fight during a disagreement is often that they didn't fit-check before forming the team.
+
+**Where to use:** Facilitator-specific book or training program. Could be part of a "building your facilitation team" guide.
+
+---
+
+## Contributing vs. Determining Factors / "They Had It Easier"
+
+Most people list contributing factors and think they're determining ones. "They had it easier" is belief blindness — people assume others had no obstacles without ever checking. They see someone succeed and assume it was easy, without asking what obstacles that person faced. This is a form of disempowering belief that keeps people from trying.
+
+**Where to use:** Blog post, coaching content, or general self-help writing. Extends the responsibility framework but is broader than the play space context.
+
+---
