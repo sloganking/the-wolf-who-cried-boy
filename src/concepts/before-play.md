@@ -401,7 +401,7 @@ Three dimensions matter:
 
 **Repair Style** — After friction, do they seek conversation or create distance? Do they state clearly what they need, or go silent and fester? Do they offer a path forward, or close the door permanently?
 
-**Communication Clarity** — Can they state a boundary plainly? Or do they imply, go quiet, and punish you for not reading their mind? A boundary that requires mind-reading is not a clean boundary. And a clarifying question is not automatically a violation.
+**Communication Clarity** — Can they state a boundary plainly? Or do they say something ambiguous that they expect you to understand is a boundary — and then punish you when you don't? "I'm needing a few days to disconnect. I'll get back to you when I have more capacity" could mean "give me three days to cool down" or "don't contact me until I contact you — even if that's months." If you interpreted it one way and they meant the other, that's not a boundary violation — that's a communication failure. A boundary that requires mind-reading is not a clean boundary. And a clarifying question is not automatically a violation.
 
 ### Don't Trust Self-Description
 
