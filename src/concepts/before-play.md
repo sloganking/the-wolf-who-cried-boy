@@ -445,7 +445,7 @@ The Friction Check is broader. It covers the entire relational dynamic beyond th
 
 One screens for safety *during* play. The other screens for whether the connection itself is safe.
 
-### The Gate
+### The Trust Baseline
 
 This check runs both directions.
 
@@ -463,7 +463,7 @@ BEFORE INTIMACY, ASSESS:
 Story Style            How do they interpret ambiguity? Curiosity or blame?
 Repair Style           After friction: conversation, silence, or accusation?
 Communication Clarity  Can they state needs plainly, or do they expect mind-reading?
-The Gate               Can you BOTH extend the trust that a mistake is a mistake?
+Trust Baseline         Can you BOTH extend the trust that a mistake is a mistake?
 ```
 
 ---
