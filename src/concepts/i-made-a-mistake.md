@@ -12,8 +12,6 @@ Mistakes in these spaces come in different forms:
 
 - **You were a selfish predator.** You knowingly did something harmful — manipulated someone, exploited a power dynamic, crossed boundaries you knew were there. Maybe a harmful belief justified it at the time. Maybe you told yourself they wanted it, or that the world owed you, or that everyone does it. Now you see through that story and you want to do better. This page is for you too — *especially* the sections on [sinsickness](#sinsickness) and [shame vs. guilt](#sinsickness). The repair is bigger. The accountability is bigger. But the path forward is the same.
 
-- **You didn't speak up.** Someone was being attacked — maybe by a righteous predator, maybe by a mob — and you saw it was wrong, but you stayed silent. Now you're carrying the weight of what you didn't do. The [responsibility](./responsibility.md) chapter and the [Asch experiment](./responsibility.md#your-voice-matters) section are especially relevant for you.
-
 Whatever brought you here, the core message is the same: what you did is not who you are. What you do next is.
 
 ---
