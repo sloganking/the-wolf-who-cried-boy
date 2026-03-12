@@ -35,7 +35,7 @@ Everything in one place. Click any link to jump to the full explanation.
 | Distinction | The Point |
 |-------------|-----------|
 | [Severity vs. Feeling](./concepts/severity.md#feelings-dont-determine-severity) | How bad something *feels* and how bad it *is* are independent. High fear doesn't mean high severity. |
-| [Righteous Predator vs. Selfish Predator](./concepts/why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs) | Most "predators" are righteous — causing harm while genuinely believing they're helping. The selfish predator who knowingly exploits is far rarer. We have a word for the second. We didn't have one for the first. |
+| [Righteous Predator vs. Selfish Predator](./concepts/why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) | Most "predators" are righteous — causing harm while genuinely believing they're helping. The selfish predator who knowingly exploits is far rarer. We have a word for the second. We didn't have one for the first. |
 | [Narrative Lock](./concepts/invisible-patterns.md#narrative-lock) | When someone stops processing new information and filters everything to confirm their existing story. Repair becomes structurally impossible. |
 | [Fawning](./concepts/fawning.md) | When "yes" means "no" — a trauma response that creates two victims. The fawner is harmed by their own compliance, and the other person is set up to look like an aggressor. |
 | [Pre-framing](./concepts/before-you-facilitate.md#pre-framing-the-flip-side) | The first frame presented tends to stick. Facilitators can pre-frame groups toward trust and repair instead of fear and accusation. |

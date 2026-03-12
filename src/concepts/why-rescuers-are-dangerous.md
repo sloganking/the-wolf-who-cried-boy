@@ -49,9 +49,9 @@ Someone genuinely believes something false—and that belief drives them to caus
 
 This is where it gets dangerous. Beliefs spread. They recruit. They justify escalation. "We must protect the children" becomes a witch hunt. "They're predators" becomes mob justice. The person causing harm feels _righteous_, which means they don't stop. They double down.
 
-### Rescuers with Harmful Beliefs
+### Rescuers with Harmful Beliefs: The Righteous Predator
 
-The apex predator. The **righteous predator.**
+The apex predator.
 
 **Scale: Civilizational.**
 

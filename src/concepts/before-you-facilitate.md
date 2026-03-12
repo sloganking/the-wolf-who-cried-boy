@@ -420,7 +420,7 @@ You can adapt this language to your style. The key is: **say it early, say it cl
 
 Everything above addresses what happens when participants conflict with each other. But the promise matters *most* in the scenario nobody plans for: when someone accuses the facilitator of being the problem.
 
-If a [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs) attacks a facilitator — publicly calling them a predator, demanding their removal, rallying the room — and they successfully [Narrative Lock](./invisible-patterns.md#narrative-lock) the group into believing the facilitator is the threat, the container's integrity is at maximum risk. Not because the facilitator did something wrong, but because the person *everyone relies on* to hold the container is the one being questioned.
+If a [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) attacks a facilitator — publicly calling them a predator, demanding their removal, rallying the room — and they successfully [Narrative Lock](./invisible-patterns.md#narrative-lock) the group into believing the facilitator is the threat, the container's integrity is at maximum risk. Not because the facilitator did something wrong, but because the person *everyone relies on* to hold the container is the one being questioned.
 
 Without a pre-established promise, the facilitator has no ground to stand on. Every decision they make looks self-serving. "Of course they're not removing themselves — they're the predator." The righteous predator's story becomes the only story, because the facilitator's authority — the only thing that could counter it — has been undermined.
 
