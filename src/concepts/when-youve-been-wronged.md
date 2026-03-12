@@ -8,9 +8,17 @@
 
 This section is for when **you** have been wronged.
 
-Maybe you made a small mistake and someone responded with HIGH-severity aggression—character assassination, accusations of being a predator, witch hunt energy. Or maybe you made no mistake at all and someone harmed you—physically, sexually, or through abuse of power.
+Being wronged in these spaces takes different forms, and they all deserve to be named:
 
-This is one of the most disorienting, painful experiences in these spaces. And there's almost no guidance for it anywhere.
+- **Someone [over-responded](./appropriate-response.md) to your mistake.** You made a LOW or MEDIUM mistake — an accidental boundary crossing, a miscommunication — and the response was HIGH-severity: character assassination, accusations of being a predator, reputation destruction, community exile. A [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs) decided you were the villain and mobilized the room. The harm from their response dwarfed the harm from your original mistake.
+
+- **You [fawned](./fawning.md) and feel violated.** You didn't say no when you wanted to. You said yes when you meant no. Someone did something to you that you didn't want — and you went along with it. Now you feel hurt, used, maybe disgusted. This is real harm. It's also the most common form of harm in play spaces. You have power here: learning to feel and honor your own no is how you prevent this from happening again. But that doesn't erase what happened.
+
+- **Someone made an unconscious mistake against you.** They crossed a boundary accidentally, moved too fast, didn't check in when they should have. It wasn't malicious — but it still hurt. This is what [repair](./making-it-right.md) is for. This is where [asking for what you actually want](./making-it-right.md#ask-for-what-you-actually-want) matters most.
+
+- **Someone deliberately harmed you.** Manipulation, exploitation, conscious deception — a [selfish predator](./why-rescuers-are-dangerous.md) who knowingly used you. This is the rarest form of harm in these spaces, but it's real. If this happened to you, this book's frameworks still apply — responsibility, filters, repair — but you may also need support beyond what a book can offer. Find a therapist or counselor who specializes in trauma. You deserve professional care.
+
+All of these are real. All of them hurt. And there's almost no guidance for any of them anywhere.
 
 Here's what I've learned.
 
