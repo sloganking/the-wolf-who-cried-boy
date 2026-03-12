@@ -428,6 +428,6 @@ With a promise, the co-facilitators can step in and honor the agreements made at
 
 The group might disagree with the call. That's fine. But they can see the promise being honored. They can see that the facilitators do what they said they would do, even when it's hard, even when the facilitator themselves is the one under fire. That's integrity — and integrity holds containers together when nothing else can.
 
-This is why the promise needs to be made by the *entire facilitation team*, not just the lead. If the lead is the one being accused, the co-facilitators need to be empowered — and committed — to uphold the same agreements. A promise that only one person can enforce is a promise that breaks the moment that person is targeted.
+This is why the promise needs to be made by the *entire facilitation team*, not just the lead. If the lead is the one being accused, the co-facilitators need to be empowered — and committed — to uphold the same agreements. A promise that only one person can enforce is a promise that breaks the moment that person is targeted. **The promise is what holds the container — not any individual facilitator's personal authority.** If the container can only survive as long as the lead facilitator's authority goes unchallenged, it was never solid to begin with.
 
 ---
