@@ -139,7 +139,9 @@ Everything on this page applies to you — *especially* the [sinsickness](#sinsi
 
 The repair you owe is bigger. The accountability is bigger. You may need to spend significant time and energy [making things right](./making-it-right.md). But "I am bad and should feel bad about myself forever" is not repair. It's not accountability. It's sinsickness — and it keeps you stuck in exactly the place where you can't contribute anything good to the world.
 
-Most selfish predation isn't a person who's evil by nature. It's a person operating on a harmful belief — maybe that the world is hostile and taking what you can is just survival, maybe that everyone does it, maybe that the other person wanted it. Those beliefs justified the harm at the time. Now you see through them. That's the hardest part — and you've already done it. What comes next is choosing differently, consistently, until the person you're becoming replaces the person you were.
+Most people are more complicated than a single label. Even genuinely selfish actions usually have something behind them — a belief that the world is hostile and taking what you can is just survival, a story that everyone does it, a justification that the other person wanted it. Unlike a [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs) who genuinely doesn't see the harm they're causing, you may have known on some level that what you were doing was wrong — but the belief gave you enough of an excuse to keep going. That's a harder thing to face than pure ignorance. And sometimes the line between selfish and righteous is blurry — most people aren't purely one or the other. There's usually some righteousness justifying the selfishness, or some selfishness hiding behind the righteousness.
+
+You see through the justification now. That's the hardest part — and you've already done it. What comes next is choosing differently, consistently, until the person you're becoming replaces the person you were.
 
 ### Even When You Were the Righteous Predator
 
@@ -147,7 +149,7 @@ Maybe you attacked someone. Maybe you called them a predator, rallied people aga
 
 Now you're not so certain.
 
-If you're reading this section, you're starting to see that your response may have caused more harm than the thing you were responding to. That the person you attacked might have been a confused human who made a mistake — not the monster your story made them into. That you might have been a [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs).
+If you're reading this section, you're starting to see that your response may have caused more harm than the thing you were responding to. That the person you attacked might have been a confused human who made a mistake — or someone who was only fighting back because they perceived you attacking them out of nowhere — not the monster your story made them into. That you might have been a [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs).
 
 This is one of the most disorienting realizations a person can have. You didn't think you were doing harm. You thought you were *preventing* it. The harm you caused was powered by genuine care — for the person you were protecting, for the community, for safety. That care was real. The actions it drove were not proportional.
 
