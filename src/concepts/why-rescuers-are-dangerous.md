@@ -57,7 +57,7 @@ The apex predator.
 
 We have a word for someone who causes harm for their own benefit — we call them a predator. A selfish predator. Everyone understands what that means.
 
-We don't have a word for someone who causes equal or greater harm while genuinely believing they're saving people. So we call them a hero. A protector. A good person. And because we don't have the word, we can't see the pattern. Our language pre-frames us to look for selfish predators — and completely miss the righteous ones doing ten times the damage.
+We don't have a word for someone who causes equal or greater harm while genuinely believing they're saving people. So we call them a hero. A protector. A good person. And the people who *do* see the harm? They call them an asshole. A villain. A jerk. But none of these labels describe what's actually happening — because the person is neither hero nor villain. They're both at once. They genuinely believe they're helping AND they're causing serious harm. Without a word that holds both of those truths, people default to one or the other — and miss the pattern entirely. Our language pre-frames us to look for selfish predators — and completely miss the righteous ones doing ten times the damage.
 
 They're not heroes. They're righteous predators — people who cause significant harm to others who don't deserve it, powered by moral certainty instead of selfishness. And most predators are righteous predators, not selfish ones.
 
