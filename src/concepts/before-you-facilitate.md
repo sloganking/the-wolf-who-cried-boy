@@ -416,4 +416,18 @@ Here's language you might use at the opening of your container:
 
 You can adapt this language to your style. The key is: **say it early, say it clearly, and put it in writing if possible.**
 
+### When the Facilitator Is the Target
+
+Everything above addresses what happens when participants conflict with each other. But the promise matters *most* in the scenario nobody plans for: when someone accuses the facilitator of being the problem.
+
+If a [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs) attacks a facilitator — publicly calling them a predator, demanding their removal, rallying the room — and they successfully [Narrative Lock](./invisible-patterns.md#narrative-lock) the group into believing the facilitator is the threat, the container's integrity is at maximum risk. Not because the facilitator did something wrong, but because the person *everyone relies on* to hold the container is the one being questioned.
+
+Without a pre-established promise, the facilitator has no ground to stand on. Every decision they make looks self-serving. "Of course they're not removing themselves — they're the predator." The righteous predator's story becomes the only story, because the facilitator's authority — the only thing that could counter it — has been undermined.
+
+With a promise, the co-facilitators can step in and honor the agreements made at the beginning of the container. They don't have to make judgment calls under pressure. They don't have to take sides. They just follow the promise: threats of violence result in removal. Character assassination results in removal. The person making accusations is either within the agreements or they're not. The promise decides — not the popularity of the accusation.
+
+The group might disagree with the call. That's fine. But they can see the promise being honored. They can see that the facilitators do what they said they would do, even when it's hard, even when the facilitator themselves is the one under fire. That's integrity — and integrity holds containers together when nothing else can.
+
+This is why the promise needs to be made by the *entire facilitation team*, not just the lead. If the lead is the one being accused, the co-facilitators need to be empowered — and committed — to uphold the same agreements. A promise that only one person can enforce is a promise that breaks the moment that person is targeted.
+
 ---
