@@ -140,6 +140,20 @@ This book defines [responsibility](./responsibility.md#what-responsibility-actua
 
 When someone says "you're not being accountable" and what they mean is "you're not accepting punishment" — that's their filters talking. They've been taught that accountability means suffering, that responsibility means shame, and that the measure of how sorry you are is how much you hurt. You can look at the [definitions in this book](./responsibility.md) and decide for yourself which version you want to live by. But don't let someone else's definition of accountability convince you that self-destruction is a virtue.
 
+But here's what needs to be acknowledged: **when you make a mistake, you damage trust.** That's real. People around you become less certain that you're safe to be around. Less certain you're a friend and not a problem. That's not just their filters — that's a legitimate response to something you did. And it needs to be addressed, not ignored.
+
+The question is: what actually rebuilds trust?
+
+Not exile. Absence provides zero evidence of change. You come back after a year and you're still the person who made the mistake — except now you're also a stranger. Nobody got new data about you. The trust wasn't rebuilt. It was just paused.
+
+Not punishment. Suffering doesn't predict future behavior. Someone can feel terrible about what they did and do the same thing again. Punishment might satisfy a sense of justice, but it doesn't answer the question people actually need answered: *will this person show up differently next time?*
+
+Not telling people you've changed. Words are telling. Telling is not [showing](./from-threat-to-ally.md#show-dont-tell).
+
+**The only thing that rebuilds trust is demonstrated behavior over time.** Showing up differently, consistently, in the situations where you previously failed. Which means you *have* to be in community to do it. Exile is the worst strategy for trust because it removes every opportunity to demonstrate change.
+
+And the "trust" that exile builds — if it builds any at all — isn't trust in your character or competence. It's trust that you'll submit to the group's authority when punished. Those are fundamentally different things. One says "I trust you to show up well." The other says "I trust you to obey."
+
 Here's the thing: **The only way you become the person everyone receives value from interacting with is by continuing to interact.**
 
 - The only way to embody wisdom is through lived experience
