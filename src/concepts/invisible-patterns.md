@@ -88,11 +88,11 @@ That's Narrative Lock. The person isn't asking "what actually happened?" anymore
 
 **Three signals that someone has entered Narrative Lock:**
 
-1. **Motive Attribution** — they tell you *why* you did what you did. Not what you did — *why*. Your internal experience doesn't matter anymore. They've become the authority on your intentions. "You did that because you wanted to..."
+1. **Motive Attribution** — they tell you *why* you did what you did. Not what you did — *why*. Your internal experience doesn't matter anymore. They've become the authority on your intentions. Listen for the shift: they stop saying "you did X" and start saying "you did X *because*..." — *"You did that because you wanted to." "You knew exactly what you were doing." "You planned this."* The moment someone tells you your own intentions, they've stopped listening.
 
-2. **Framework Substitution** — they stop talking about the specific event and start invoking a larger system. You're no longer a person who did a thing. You're an instance of patriarchy, rape culture, predatory behavior. It's impossible to repair a conflict with someone who's no longer talking about you — they're talking about a category you've been filed under.
+2. **Framework Substitution** — they stop talking about the specific event and start invoking a larger system. You're no longer a person who did a thing. You're an instance of patriarchy, rape culture, predatory behavior. Listen for the shift: they stop saying "you did X" and start saying "this is what X looks like" — *"This is exactly what toxic masculinity is." "This is predatory behavior." "Isn't this what we're here to stop?"* That's the moment they stopped talking to you and started talking to a category. It's impossible to repair a conflict with someone who's no longer talking about you — they're talking about a framework you've been filed under.
 
-3. **No Repair Path** — healthy boundaries usually include a way back. "I need space. I'll reach out when I'm ready." Narrative Lock closes the door entirely. There's no "when I'm ready." The verdict is final. You've been sentenced, and there's no appeal.
+3. **No Repair Path** — healthy boundaries usually include a way back. "I need space. I'll reach out when I'm ready." Narrative Lock closes the door entirely. Listen for the finality: *"I'm done." "There's nothing to discuss." "You need to leave and never come back."* There's no "when I'm ready." The verdict is final. You've been sentenced, and there's no appeal.
 
 When all three are present, the connection is already over. Not because you can't fix it — because the other person is no longer in a conversation with you. They're in a conversation with the version of you their story created.
 
