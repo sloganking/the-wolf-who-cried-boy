@@ -100,13 +100,13 @@ When all three are present, the connection is already over. Not because you can'
 
 > Repair requires curiosity. Certainty kills connection.
 
-### What Narrative Lock Feels Like From the Inside
+### They're Not Talking to You Anymore
 
-If you've been on the receiving end of this, you know: it doesn't just feel like someone is mad at you. It feels like you've stopped being a person to them.
+If you've been on the receiving end of Narrative Lock, you know: it doesn't just feel like someone is mad at you. It feels like they're not treating you like a human being.
 
-You're no longer someone with intentions, feelings, and a story. You're a category — predator, threat, monster, a thing to be eliminated. Your internal experience stops mattering. Your intentions get overwritten by whatever they've decided you intended. They're not interacting with you anymore. They're interacting with the version of you their story created.
+That's because they're not. They're not talking to a person — they're talking to a label. Once someone assigns a story label to you and locks into it, the things that make an interaction human — curiosity, listening, asking what you feel, caring about your intentions — all stop. They don't need to ask. They already know. The label told them.
 
-That feeling of dehumanization isn't just meaning-making. It's an accurate read of what's happening. When someone is in Narrative Lock, they genuinely are no longer treating you as a human being. They're treating you as an archetype — and archetypes don't get heard, don't get to have intentions, and don't get repair paths.
+Your intentions get overwritten by whatever they've decided you intended. Your internal experience stops mattering. You're not a person with feelings and a story anymore — you're a category. Predator, threat, monster, a thing to be eliminated. They're not interacting with you. They're interacting with the version of you their story created. And archetypes don't get heard, don't get to have intentions, and don't get repair paths.
 
 Now turn it around. If you're the one who's locked — if you're the one who's certain — check yourself against this:
 

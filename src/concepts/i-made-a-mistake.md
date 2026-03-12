@@ -89,7 +89,7 @@ Your moral judgment system is designed to identify harmful behavior — in other
 
 This is sinsickness. The feeling that you've committed something unforgivable. The lethargy, the depression, the low energy, the inability to function — not because you're lazy or self-indulgent, but because your entire moral immune system is treating you as the enemy. You're bedridden with sin.
 
-And here's where the [judgment double-edge](./invisible-patterns.md#what-narrative-lock-feels-like-from-the-inside) comes back: the severity of your sinsickness is proportional to how harshly you judged others. If you spent years believing that anyone who makes a mistake in a play space is an evil person regardless of intent — and then you accidentally make one — your system doesn't give you a pass. It applies the same standard. The harsher the judgment you calibrated it with, the harder it attacks you.
+And here's where the [judgment double-edge](./invisible-patterns.md#theyre-not-talking-to-you-anymore) comes back: the severity of your sinsickness is proportional to how harshly you judged others. If you spent years believing that anyone who makes a mistake in a play space is an evil person regardless of intent — and then you accidentally make one — your system doesn't give you a pass. It applies the same standard. The harsher the judgment you calibrated it with, the harder it attacks you.
 
 The person who thought ["I would never do that"](./body-stories.md#i-would-never-do-that) and judged everyone who did is the person most likely to be destroyed by sinsickness when they inevitably do. They didn't just build the cage — they sharpened the bars.
 
