@@ -4,6 +4,18 @@ You made a mistake. You're here because you recognize that.
 
 This page is about what comes next: how to think about yourself, how to maintain your sense of self, and what actions to take depending on what kind of mistake you made.
 
+Mistakes in these spaces come in different forms:
+
+- **You made an unconscious mistake.** An accidental boundary crossing, a miscommunication, moving too fast, not checking in. You didn't intend harm — you just weren't aware enough in the moment. This is the most common kind of mistake, and [types of mistakes](./types-of-mistakes.md) covers the mechanics. Most of this page was written for you.
+
+- **You were a [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs).** You attacked someone — maybe publicly, maybe viciously — because you genuinely believed they were dangerous and you were protecting others. Now you're realizing the harm you caused was disproportionate, or that the person you attacked didn't deserve it. You thought you were the hero. You're now seeing you might have been the villain in someone else's story. That's a specific kind of crisis, and this page is for you too.
+
+- **You were a selfish predator.** You knowingly did something harmful — manipulated someone, exploited a power dynamic, crossed boundaries you knew were there. Maybe a harmful belief justified it at the time. Maybe you told yourself they wanted it, or that the world owed you, or that everyone does it. Now you see through that story and you want to do better. This page is for you too — *especially* the sections on [sinsickness](#sinsickness) and [shame vs. guilt](#sinsickness). The repair is bigger. The accountability is bigger. But the path forward is the same.
+
+- **You didn't speak up.** Someone was being attacked — maybe by a righteous predator, maybe by a mob — and you saw it was wrong, but you stayed silent. Now you're carrying the weight of what you didn't do. The [responsibility](./responsibility.md) chapter and the [Asch experiment](./responsibility.md#your-voice-matters) section are especially relevant for you.
+
+Whatever brought you here, the core message is the same: what you did is not who you are. What you do next is.
+
 ---
 
 ## Protect Your Identity
