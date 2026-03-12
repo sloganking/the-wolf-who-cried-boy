@@ -1,7 +1,5 @@
 # When You've Been Wronged
 
-> **⚠️ DRAFT:** This chapter is still being refined. Content may change.
-
 ← [Back to Introduction](../introduction.md)
 
 ---
@@ -116,7 +114,7 @@ Neither serves you. Find the middle: "I made a MEDIUM mistake. I wish I hadn't. 
 
 **Let yourself feel it.**
 
-Anger, grief, confusion, shame—all of it. Don't rush to "get over it." The feelings are information. They're processing.
+Anger, grief, confusion, shame—all of it. Don't rush to "get over it." The feelings are information. They're processing. But if what you're feeling isn't just grief — if it's collapsing into "maybe I deserve this," "maybe I am what they say I am" — that's [sinsickness](./i-made-a-mistake.md#sinsickness), and it's worth reading about before it takes root.
 
 ## What Actions To Take
 
@@ -134,7 +132,7 @@ Sometimes a direct conversation helps. Sometimes it makes things worse.
 
 Questions to ask:
 
-- Are they capable of hearing you right now, or are they fully in Victim/Persecutor mode?
+- Are they capable of hearing you right now, or are they in [Narrative Lock](./invisible-patterns.md#narrative-lock)?
 - Do you have a mediator or third party who can help?
 - What's the best realistic outcome of this conversation?
 
@@ -156,7 +154,7 @@ If the facilitator only listens to the accuser, that tells you something about t
 
 You get to choose who has access to you.
 
-This person has shown you they respond to mistakes with disproportionate aggression. They've shown you they may not be safe to be vulnerable with.
+This person has shown you they respond to mistakes with [righteous predation](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) — disproportionate aggression powered by moral certainty. They've shown you they may not be safe to be vulnerable with.
 
 You don't have to forgive them. You don't have to reconcile. You can simply decide: this person doesn't get the privilege of my presence, my touch, my vulnerability anymore.
 
@@ -191,7 +189,7 @@ Focus on what you can control. Let go of what you can't. Not because it's fair�
 
 Over time, truth tends to emerge.
 
-People who over-respond once usually over-respond again. Their pattern becomes visible. Others start to notice.
+People who over-respond once usually over-respond again. Their pattern becomes visible. Others start to notice. And sometimes, [one person saying what they actually see](./responsibility.md#your-voice-matters) is all it takes for others to start speaking the truth too.
 
 Meanwhile, if you conduct yourself with integrity—taking responsibility for your actual mistakes without accepting false accusations—that becomes visible too.
 
