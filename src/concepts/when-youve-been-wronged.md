@@ -20,6 +20,10 @@ Being wronged in these spaces takes different forms, and they all deserve to be 
 
 All of these are real. All of them hurt. And most of the guidance that exists focuses on preventing harm — not on what to do when you're the one living through it.
 
+If you fawned, the [fawning chapter](./fawning.md) goes deep into the mechanics of what happened and how to build the capacity to say no. If someone made an unconscious mistake against you and wants to make it right, [Making It Right](./making-it-right.md) covers the repair process — including [how to ask for what you actually want](./making-it-right.md#ask-for-what-you-actually-want) from them.
+
+The advice that follows is general — it applies regardless of how you were wronged. Much of it focuses on the scenario where someone over-responded to your mistake, because that's the most common and least understood form of harm in these spaces. Take what serves your situation.
+
 Here's what I've learned.
 
 ## First: Name What Happened
