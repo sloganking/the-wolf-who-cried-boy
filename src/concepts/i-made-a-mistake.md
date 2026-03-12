@@ -134,6 +134,12 @@ I've heard people say that if they made a medium-severity mistake, they'd feel s
 
 It might feel like penance. It might feel like "the responsible thing to do." But disconnecting from community as punishment isn't responsibility—it's guilt-as-self-indulgence. It's blame turned inward. It's punishing yourself instead of growing — and depriving everyone else of what you could contribute if you stayed.
 
+Be prepared: some people will tell you that *this* is being irresponsible. That staying in community is selfish. That real accountability means punishment — exile, shame, disappearing until you've "earned" the right to exist in the space again. They'll use the word "accountability" and mean something very different from what this book means.
+
+This book defines [responsibility](./responsibility.md#what-responsibility-actually-means) as seeing your power — asking "how did I create this?" and "what will I do differently?" It defines [repair](./responsibility.md#responsibility--repair) as restoring the relationship through action, when conditions allow it. Neither of those requires punishment. Neither requires exile. Neither requires you to destroy yourself to prove you're sorry.
+
+When someone says "you're not being accountable" and what they mean is "you're not accepting punishment" — that's their filters talking. They've been taught that accountability means suffering, that responsibility means shame, and that the measure of how sorry you are is how much you hurt. You can look at the [definitions in this book](./responsibility.md) and decide for yourself which version you want to live by. But don't let someone else's definition of accountability convince you that self-destruction is a virtue.
+
 Here's the thing: **The only way you become the person everyone receives value from interacting with is by continuing to interact.**
 
 - The only way to embody wisdom is through lived experience
