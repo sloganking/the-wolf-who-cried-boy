@@ -94,6 +94,8 @@ That's Narrative Lock. The person isn't asking "what actually happened?" anymore
 
 3. **No Repair Path** — healthy boundaries usually include a way back. "I need space. I'll reach out when I'm ready." Or even better: "Here's what I'd need to feel like this is actually repaired: [specific request]. If you can do that, I'm open to continuing this." Narrative Lock closes the door entirely. Listen for the finality: *"I'm done." "There's nothing to discuss." "You need to leave and never come back."* There's no "when I'm ready." The verdict is final. You've been sentenced, and there's no appeal.
 
+One caveat: choosing not to reconnect with someone isn't always Narrative Lock. If you've seen a repeated pattern, you've processed what happened honestly, and you've decided the risk isn't worth it — that's a boundary based on experience, not a locked story. The difference is whether you're *unable* to see them as a human who might have changed, or whether you *can* see that possibility and simply choose not to find out. One is a locked filter. The other is a clear-eyed decision about where you want to spend your energy.
+
 When all three are present, the connection is already over. Not because you can't fix it — because the other person is no longer in a conversation with you. They're in a conversation with the version of you their story created.
 
 **The move:** exit cleanly. No defense, no argument, no chasing. Every word you add becomes more evidence for the locked story.
