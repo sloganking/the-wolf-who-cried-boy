@@ -76,6 +76,12 @@ And here's how the rescue cycle perpetuates itself: the pained rescuer wakes som
 
 If you're going to wake people up, wake them up into happiness. Into contentment. Into joy. Not into urgent rescuer necessity — because that urgency will inevitably create the same harm this book describes. The only way out of the rescue cycle is to break the chain: see clearly, laugh, help where you can, and refuse to pass the suffering forward.
 
+There's a difference between a rescuer and a coach. A rescuer sees themselves as urgently needing to save people — including people who don't want to be saved. They're neurotic about it. They feel pain because not everyone is rescued yet. They sacrifice themselves in the process, giving and giving until they have nothing left, and then they can't help anyone — including themselves.
+
+A coach only helps people who want help. They know their work is valuable, and they act like it — they don't just tell you, they [show you](./concepts/from-threat-to-ally.md#show-dont-tell). They receive for what they give — not because they're greedy, but because [receiving is harder than giving](./concepts/before-you-judge.md#being-selfish-is-hard), and a coach who won't receive is a coach who's still in the rescue pattern. The people most ready to receive your help are the ones who want it enough to invest in it. The ones who aren't willing to invest often aren't ready to receive — and pouring your energy into someone who isn't ready is rescuing, not helping.
+
+This shifts the entire energy. Instead of *"I have an urgent necessity to help others and I'm in pain because the world isn't fixed yet,"* it becomes *"I enjoy helping people who want help, I provide immense value, and I'm taking care of myself in the process."* You can donate your time. You can do work for free. But if that's all you do — so much so that you're not taking care of yourself — it's neurotic. And it doesn't actually let you help as many people as you could, because a depleted person can't serve anyone well. If you don't give your equipment regular maintenance, it will schedule the maintenance for you.
+
 The real move is learning to love humanity — yourself included — with all its flaws, mistakes, and invisible delusions. To cherish the mess. To laugh at it. To not take any of it too seriously, even as you work to wake people up. Which, honestly, might be one of the craziest beliefs of all — that you can wake people up from stories they don't know they're in. But someone has to be crazy enough to try.
 
 ---
