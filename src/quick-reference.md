@@ -12,7 +12,7 @@ Everything in one place. Click any link to jump to the full explanation.
 | [Types of Mistakes](./concepts/types-of-mistakes.md) | Classifies intent: Malicious, Accident, or Fawning | Foundation |
 | [RBDSMT](./concepts/before-play.md#rbdsmt-the-safer-sex-conversation) | The safer sex conversation — Relationships, Boundaries, Desires, Sexual Health, Meaning & Mistakes, Trauma | Before Play |
 | [The Friction Check](./concepts/before-play.md#the-friction-check-interpretive-compatibility) | Screens for how someone handles ambiguity, conflict, and meaning-making under stress. Three dimensions: Story Style, Repair Style, Communication Clarity | Before Play |
-| [The Gate](./concepts/before-play.md#the-gate) | Bidirectional trust threshold — if either person can't trust that a mistake will be treated as a mistake (not malice), play is premature | Before Play |
+| [The Trust Baseline](./concepts/before-play.md#the-trust-baseline) | Bidirectional trust threshold — if either person can't trust that a mistake will be treated as a mistake (not malice), play is premature | Before Play |
 | [Drama Triangle](./concepts/drama-triangle.md) | Victim / Persecutor / Rescuer — the three roles people cycle through | Core Reframe |
 | [The Promise](./concepts/before-you-facilitate.md#the-promise) | The facilitator's public commitment that determines how incidents are handled | For Facilitators |
 | [Appropriate Response](./concepts/appropriate-response.md) | Match response severity to harm severity — not to fear | How to Respond |
