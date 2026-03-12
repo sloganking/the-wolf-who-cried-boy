@@ -129,6 +129,32 @@ That kind of thinking — splitting the world into good people and predators —
 
 Their reaction is about their filters, their fear, their need for a villain. It's not an accurate assessment of your worth or your future. What defines you isn't the mistake. It's what you choose to do next.
 
+### Even When the Label Was Accurate
+
+Maybe you weren't wrongly accused. Maybe you did something you knew was wrong — or something you justified at the time with a story that you now see through. Maybe you manipulated someone. Maybe you exploited a dynamic you understood better than they did. Maybe you crossed a line you knew was there.
+
+You're here because you see it now. That matters more than most people will give you credit for.
+
+Everything on this page applies to you — *especially* the [sinsickness](#sinsickness) section. The guilt you feel — "I did something harmful and I don't want to do it again" — is healthy. Use it. Let it drive change. But the shame — "I am a bad person" — will destroy you without helping anyone. Your self-destruction doesn't un-harm the person you hurt. It just adds another casualty.
+
+The repair you owe is bigger. The accountability is bigger. You may need to spend significant time and energy [making things right](./making-it-right.md). But "I am bad and should feel bad about myself forever" is not repair. It's not accountability. It's sinsickness — and it keeps you stuck in exactly the place where you can't contribute anything good to the world.
+
+Most selfish predation isn't a person who's evil by nature. It's a person operating on a harmful belief — maybe that the world is hostile and taking what you can is just survival, maybe that everyone does it, maybe that the other person wanted it. Those beliefs justified the harm at the time. Now you see through them. That's the hardest part — and you've already done it. What comes next is choosing differently, consistently, until the person you're becoming replaces the person you were.
+
+### Even When You Were the Righteous Predator
+
+Maybe you attacked someone. Maybe you called them a predator, rallied people against them, demanded their removal. You were certain you were protecting someone. You were certain you were right.
+
+Now you're not so certain.
+
+If you're reading this section, you're starting to see that your response may have caused more harm than the thing you were responding to. That the person you attacked might have been a confused human who made a mistake — not the monster your story made them into. That you might have been a [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs).
+
+This is one of the most disorienting realizations a person can have. You didn't think you were doing harm. You thought you were *preventing* it. The harm you caused was powered by genuine care — for the person you were protecting, for the community, for safety. That care was real. The actions it drove were not proportional.
+
+The sinsickness that comes from this is unique: you can't fall back on "I didn't mean to." You meant every word. You just meant it toward the wrong target, at the wrong intensity, based on a story that felt like truth. Now you have to live with having been the thing this book warns about — while also recognizing that you were operating on the same invisible beliefs that drive everyone in this book. You're not uniquely evil. You're typically human.
+
+Everything on this page applies to you. The guilt — "I caused disproportionate harm and I need to make it right" — has a direction. Follow it. The shame — "I'm a terrible person for doing that" — is sinsickness, and it won't help you or the person you harmed. [Make it right](./making-it-right.md). And become the person who sees clearly next time the room is about to turn on someone who doesn't deserve it.
+
 ### Return to Community
 
 One of the most important things to do after making a mistake is to **keep going**.
