@@ -84,13 +84,37 @@ So what actually works?
 
 The body doesn't just need the old story removed. It needs a **replacement**. A story to run *instead*. If your nervous system has been running "I am not safe, people will misunderstand me and attack me" for twenty years, you can't just delete that and leave a blank. The blank fills itself with the old story again. You have to give it something specific to run in its place.
 
-**Step 1: Find the sentence.** There's probably a single sentence your body has been operating on — something installed by experience, not chosen consciously. "People will attack me." "I'm not safe." "My needs are too much." "I don't belong." You may not be able to articulate it immediately. But when you find it, your body will recognize it — a gut reaction, a clench, maybe tears. That recognition is how you know you've hit it.
+**Step 1: Find the sentence.**
 
-**Step 2: Write the opposite.** Not a vague positive affirmation. The *specific* inverse of your sentence. If yours is "I am not safe and people will attack me," the opposite isn't "everything is fine." It's: "I am safe. People receive me." It has to be precise enough that your body feels something when you say it — resistance, longing, grief, relief. If it feels like nothing, it's not the right sentence.
+There's probably a single sentence — or a cluster of sentences — your body has been operating on. Something installed by experience, not chosen consciously. You may not be able to articulate it immediately. But when you find it, your body will recognize it — a gut reaction, a clench, maybe tears. That recognition is how you know you've hit it.
 
-**Step 3: Install it through the body, not the mind.** Say it out loud while physically moving — running, walking, anything that has your body engaged. Not thinking it quietly. Saying it, with your lungs and your voice, while your body is open and activated. Your body updates through experience and repetition, not through understanding. This is why insight alone doesn't work: the body doesn't read books. It learns from what it *does* and what it *feels* while doing it.
+I'll share mine, because seeing a real one is worth more than a dozen hypotheticals.
 
-**Step 4: Repeat.** Not once. Daily. The old sentence had years of installation. The new one needs reps. You're not trying to believe it immediately. You're giving your body a competing signal, over and over, until the new signal starts to feel as familiar as the old one.
+For 28 years, my body was running this:
+
+> *"I am not safe. I can never stop fighting. I don't belong here. I am unwelcome. People reject me. There is no home."*
+
+I didn't consciously think those words. But they were underneath everything I did. Why I spent 30 minutes crafting every text message. Why I performed value compulsively so people would let me stay in the room. Why I flinched when my phone buzzed. Why I tested people by being off-putting, hoping they'd stay anyway — and then interpreting it as confirmation when they didn't. Why I isolated myself for years, solving loneliness by being alone. Every one of those actions made perfect sense if you knew the sentence running underneath. And I couldn't see it, because it didn't feel like a story. It felt like reality. It felt like how the world actually is.
+
+**Step 2: Write the opposite.**
+
+Not a vague positive affirmation. The *specific* inverse of your sentence — one that addresses every face of the wound. If your sentence has six parts, your replacement needs six parts. Each one targets a different angle of the same fear. Skip any of them and the body finds the gap.
+
+Here's my inverse:
+
+> *"I am safe. I can stop fighting. I belong here. I am welcome in every room I walk into. People receive me. I am home."*
+
+Each line is the direct opposite of one part of the old sentence. Safety against danger. Rest against fighting. Belonging against exclusion. Welcome against rejection. Reception against being pushed away. Home against homelessness. The replacement has to be precise enough that your body feels something when you say it — resistance, longing, grief, relief. If it feels like nothing, you haven't found the right words yet. If it makes you want to cry, you're close.
+
+**Step 3: Install it through the body, not the mind.**
+
+Say it out loud while physically moving — running, walking, anything that has your body engaged. Not thinking it quietly. Saying it, with your lungs and your voice, while your body is open and activated. Your body updates through experience and repetition, not through understanding. This is why insight alone doesn't work: the body doesn't read books. It learns from what it *does* and what it *feels* while doing it.
+
+The first time I ran while saying my inverse out loud, I came home and — for the first time — seriously considered walking outside to talk to my neighbors. That's how subtle the shift is. Not fireworks. Just a quiet willingness to approach people without performing first. My body briefly believed it was safe. That was new.
+
+**Step 4: Repeat.**
+
+Not once. Daily. The old sentence had years of installation. The new one needs reps. You're not trying to believe it immediately. You're giving your body a competing signal, over and over, until the new signal starts to feel as familiar as the old one. Same principle as everything else in this book: the body learns from experience, not from being told.
 
 This won't fix everything in a day. But it's the difference between seeing the pattern and actually changing it. The rest of this book teaches you to see. This is how you start to move.
 
