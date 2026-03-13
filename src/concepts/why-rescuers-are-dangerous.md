@@ -63,6 +63,12 @@ We don't have a word for someone who causes equal or greater harm while genuinel
 
 Our language pre-frames us to look for selfish predators — and completely miss the righteous ones doing ten times the damage.
 
+The gap doesn't just prevent you from seeing the pattern — it prevents you from *describing your experience* if you've been through it. If the only language you have is "someone called me a predator and I was asked to leave," every listener immediately distrusts you. The accusation becomes the headline. You're on trial before you've said a word. But "I was attacked by a righteous predator" communicates what actually happened — accurately — without leading with the false narrative someone else created about you.
+
+This even affects how you process it internally. If the only words you have to describe what happened to yourself are "someone called me a predator," your own [moral immune system](./i-made-a-mistake.md#sinsickness) can turn on you — *maybe they're right, maybe I am what they said.* That's [sinsickness](./i-made-a-mistake.md#sinsickness) caused by a language gap. But if you can say "a righteous predator falsely accused and attacked me," the experience makes sense. You're less likely to attack yourself over someone else's distortion.
+
+Having the word changes what you can see, what you can say, and what you can survive.
+
 They're not heroes. They're righteous predators — people who cause significant harm to others who don't deserve it, powered by moral certainty instead of selfishness. And most predators are righteous predators, not selfish ones.
 
 A righteous predator has everything that makes harmful beliefs dangerous, plus:
