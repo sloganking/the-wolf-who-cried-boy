@@ -33,8 +33,21 @@ Public processing is high-risk, high-reward. It can give the entire room clarity
 - One or both parties are too activated for a productive conversation
 - The facilitator doesn't feel equipped to guide the process (honest self-assessment beats ego)
 - Public processing would re-traumatize someone who's already fragile
+- You know — honestly — that you're going to fawn. If you're afraid of the angry person and that fear will stop you from doing what's right — guiding the fawning person into their truth, setting context, narrating honestly — don't go public. You'll end up managing the angry person's feelings instead of leading the room. That's not facilitation, it's appeasement with an audience. Stay private, or hand it to your co-facilitator.
 
-The default should be private. Public is the exception — used when the room's narrative is already out of control and needs to be corrected with real information.
+The default should be private — for most facilitators. Public is the exception, used when the room's narrative is already out of control and needs to be corrected with real information.
+
+### The Skill Ceiling
+
+There's a version of public processing that isn't a fallback. It's the most powerful thing that happens at the event.
+
+Tony Robbins brings couples on stage in front of thousands of people and walks them through the dynamics that are killing their relationship — live, in real time. He sees the fawning. He sees the stories. He guides both people into their truth. And the entire audience transforms watching it, because they see their own patterns in the couple on stage.
+
+That's not "going public because private wasn't available." That's a world-class facilitator using public processing as a tool for mass transformation. The room doesn't just witness the repair — they receive it.
+
+The "default to private" recommendation is for facilitators who aren't operating at that level yet. If you can see fawning in real time, guide someone past their defenses into honesty, hold the activated person's pain without endorsing their behavior, and narrate all of it so the room learns — public processing isn't just acceptable. It's the highest-leverage thing you can do. The entire room gets the lesson, not just the two people involved.
+
+Most facilitators aren't there. Know which one you are.
 
 ### The Best Case: Private Repair
 
