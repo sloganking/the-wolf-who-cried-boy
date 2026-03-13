@@ -71,7 +71,7 @@ Same applies here. If you skip verification and launch a high-severity response,
 | **Public Shaming**           | Using community power to punish        |
 | **Weaponized Vulnerability** | Using victim status offensively        |
 | **Silence/Avoidance**        | Never addressing it, letting it fester |
-| **Triangulation**            | Recruiting others to take sides        |
+| **Rallying others against them** | Recruiting people to take sides    |
 | **Eye for an Eye**           | Trying to hurt them back equally       |
 | **Mob Judgment**             | Group condemns without verification    |
 
