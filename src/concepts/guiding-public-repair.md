@@ -101,6 +101,10 @@ The worst version of public processing is two people taking turns talking while 
 
 Here's what happens: the activated person screams. The other person [fawns](./fawning.md). The room watches someone get berated into ritualistic submission. The fawning person apologizes enough, the activated person feels heard enough, and everyone acts like repair happened. It didn't. One person dominated and the other survived.
 
+People watching this will often think something good happened. They saw conflict, they saw apology, they saw the angry person calm down, they saw a hug. It looks like resolution. It's not. The fawning person never said what was true. They never said what was fair. They never contested the angry person's narrative — not because they agreed with it, but because they were afraid that saying the truth would make it worse. And they're probably right: telling the truth to someone in [Narrative Lock](./invisible-patterns.md#narrative-lock) usually *does* make it worse, because everything you say becomes more evidence for their story. But fawning doesn't solve that problem. It just hides it behind a performance of submission.
+
+Here's what fawning costs: the angry person never gets the mirror they need. No one pushes back. No one says "that's not what happened." No one holds up a reflection that might — if not in the moment, then later, when the activation fades — actually make them see what they did. The fawning person sacrifices truth for safety, and the angry person walks away with their story confirmed. Both lose.
+
 The facilitator's job is not to set a timer and let people take turns. The facilitator's job is to actively guide the conversation so that what comes out is true — not just loud.
 
 ### Guiding Honesty
@@ -174,6 +178,16 @@ If you're a participant watching this happen — or worse, if you're the person 
 **If you're the one being confronted and you feel the room doesn't have the full picture:**
 
 > "I want to make sure everyone here knows what actually happened, because I think there's information missing. [Person whose boundary was crossed] and I already talked about this and did repair. Can we share that before we go further?"
+
+**If you're being yelled at and the other person is in Narrative Lock:**
+
+You don't have to sit there and take it. If the person across from you has already decided the verdict — nothing you say changes their mind, every response you give becomes more ammunition — continuing to engage is not brave. It's futile.
+
+The [Puja Principle](./when-things-go-wrong.md#the-puja-principle) applies here. You deserve to be treated with dignity and respect. If that's not happening, you can disengage:
+
+> "I'm not available for being spoken to this way. You can handle your own emotions. I'm willing to talk when we can do it with mutual respect, but I'm not going to stand here and absorb this."
+
+That's not running away. That's self-respect. And it's more useful than fawning — because fawning confirms the angry person's story, while disengaging at least doesn't feed it.
 
 **If you're watching someone fawn and it doesn't feel right:**
 
