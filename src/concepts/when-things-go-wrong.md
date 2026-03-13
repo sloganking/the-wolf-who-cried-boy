@@ -166,9 +166,9 @@ Lead facilitators face a unique challenge.
 
 You're responsible for the container. You're supposed to hold space for everyone. You're supposed to stay calm. There's an expectation that you'll be the adult in the room.
 
-But that doesn't mean you accept abuse.
+But that doesn't mean you accept abuse. Everything in [When Someone Attacks You](#when-someone-attacks-you) applies to you — the Puja Principle, the boundary setting, the refusal to be treated without dignity. Being the lead doesn't exempt you from standing up for yourself. It makes it more important, because every participant is watching how you handle it.
 
-_[Section in development: How lead facilitators should respond when being attacked. The principle is clear—you don't take it—but the specific approach needs refinement.]_
+The difference is structural: you can't just leave the room. You're responsible for the container. This is why [the promise](./before-you-facilitate.md#the-promise) needs to be made by the entire facilitation team. If you're the one being attacked, your co-facilitator steps in and enforces the agreements. The promise decides — not the popularity of the accusation, not the volume of the attacker, not your fear of what they'll write about you afterward. Your co-facilitator doesn't have to be brave or make judgment calls under pressure. They just follow the promise you both committed to at the beginning. (See: [When the Facilitator Is the Target](./before-you-facilitate.md#when-the-facilitator-is-the-target))
 
 ---
 
@@ -361,14 +361,9 @@ This is the [Coach](./drama-triangle.md) dynamic, not the Rescuer dynamic. You'r
 
 ## What to Do When Someone Reports
 
-_[Section in development: Protocol for when a participant reports an incident]_
+When a participant comes to you and says something happened, this is [Before You Judge](./before-you-judge.md) and [Appropriate Response](./appropriate-response.md) in action. Listen. Get the other side. Talk to witnesses. Then assess [severity](./severity.md) and [type](./types-of-mistakes.md) based on what actually happened — not based on the reporter's emotional intensity, not based on the labels they've already assigned, and not based on your Rescuer instinct to rush in and fix it.
 
-1. Listen first, without judgment
-2. Gather primary source information from all parties
-3. Assess severity based on what actually happened
-4. Respond proportionally
-5. Don't let the reporter's emotional intensity determine your response
-6. Remember: the reporter may be over-responding, fawning, or creating a story
+The reporter's pain is real. Their account is data. It's not the full picture. Acting on one side's story without hearing the other side is how [witch hunts](./before-you-judge.md#witch-hunts-never-ended) start.
 
 ---
 
