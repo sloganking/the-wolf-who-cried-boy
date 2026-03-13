@@ -79,6 +79,16 @@ A selfish predator is one person doing harm. A righteous predator can mobilize a
 >
 > — _Robert A. Heinlein, Stranger in a Strange Land_
 
+### The Selfish Predator's Best Tool
+
+Here's what makes this even worse: a competent selfish predator doesn't use overt force. Overt force gets seen, gets stopped, gets a defensive response. Instead, they see your blind spots — and use them.
+
+If someone has a [filter](./trauma-and-filters.md) that makes them prone to seeing predators everywhere, a selfish predator doesn't have to attack their target directly. They just say the right things to the right person, push the right buttons, and let the righteous predator do the rest. The righteous predator attacks with full moral certainty, the mob joins in, and the selfish predator gets what they want without ever being seen. And if anyone accuses them of orchestrating it, they just say they were caught up in the same story as everyone else.
+
+Every righteous predator in that mob thinks they're saving someone. None of them realize they're a weapon being aimed by the person who can see what they can't.
+
+This is why seeing through your blind spots isn't just self-improvement — it's self-defense. If you can't see your own [filters](./trauma-and-filters.md), you can be aimed. Any person or group that is blind to their own patterns is a tool waiting to be used. The best protection against selfish predators isn't scanning for them harder — it's becoming impossible to manipulate by doing the work this book describes.
+
 ### "Think of the Children"
 
 Four words that have justified more harm than any predator ever caused.
