@@ -241,7 +241,9 @@ That's it. The room heard the facts. The room heard that repair was already done
 
 Compare that to fawning: crying, apologizing, submitting until the angry person calms down. Which version makes the room trust you? Which version makes you trust yourself?
 
-There's also a cost to your body. If you fawn instead of setting a boundary, you might stand there getting screamed at for forty minutes. Every minute, your nervous system is recording. Threat after threat after threat, imprinting into your body. That fear doesn't leave when the screaming stops. It stays. It ripples through you for weeks. Months. Sometimes years. Every minute you stood there was another minute your body recorded: "this is what happens when I make a mistake."
+There's also a cost to your body. If you fawn instead of setting a boundary, you might stand there getting screamed at for forty minutes. Every minute, your nervous system is recording. Threat after threat after threat, imprinting into your body. That fear doesn't leave when the screaming stops. It stays. It ripples through you for weeks. Months. Sometimes years.
+
+Most people who've been through that would call it traumatic. They'd say they were verbally abused. They'd carry the imprint of that rage in their body — and their body would learn a meaning from it: "this is what happens when I make a mistake." From that point on, they'd be terrified of making mistakes. Not just cautious — terrified. Their body would avoid mistakes at any cost, because the last time it made one, it spent forty minutes absorbing someone's death threats. That level of fear doesn't respond to logic. It's baked in. It runs on autopilot.
 
 The whole approach above — the three sentences — takes thirty seconds. Maybe a minute. You could have done that. You could have said "I'm not available for this" after the first time they screamed at you, and walked out. The door was right there. Nobody was holding you in that room.
 
@@ -253,7 +255,11 @@ The angry person wasn't holding you there. You were holding yourself there.
 
 Your nervous system was doing what it knows how to do under threat — freeze, appease, survive. That's not a moral failure. But look at what happened: you had an exit the entire time. You had the power to stop it after thirty seconds. And you didn't take it — not because you couldn't, but because you didn't know you could.
 
-That's [responsibility](./responsibility.md). Not blame — power. The power you didn't see in the moment but can see now. And because you can see it now, next time you can take the exit. Thirty seconds. Three sentences. Then you're out — and your body doesn't carry the imprint of forty minutes of someone else's rage.
+That's [responsibility](./responsibility.md). Not blame — power. The power you didn't see in the moment but can see now.
+
+And here's what changes when you take the exit next time: your body doesn't just avoid carrying forty minutes of someone else's rage. It learns something new. When you say "I'm not available for this" and walk out — calmly, with your three sentences, with your dignity — your body learns that when someone yells at you, you're actually safe. Not because the situation isn't intense, but because you handled it. You showed your body that even in the worst case — someone screaming, making threats, accusing you of terrible things — you kept yourself safe. You set the boundary. You left.
+
+Your body trusts what you show it, not what you tell it. If you stay and take it, you show your body: "when this happens, I'm powerless." If you leave, you show your body: "when this happens, I handle it." And a body that trusts you to handle it doesn't need to be terrified of making mistakes in the future. The fear was never about the angry person. It was about whether you could protect yourself. Once your body knows you can, the fear loses its grip.
 
 ### When the Harassment Doesn't Stop
 
