@@ -94,7 +94,7 @@ For 28 years, my body was running this:
 
 > *"I am not safe. I can never stop fighting. I don't belong here. I am unwelcome. People reject me. There is no home."*
 
-I didn't consciously think those words. But they were underneath everything I did. Why I spent 30 minutes crafting every text message. Why I performed value compulsively so people would let me stay in the room. Why I flinched when my phone buzzed. Why I tested people by being off-putting, hoping they'd stay anyway — and then interpreting it as confirmation when they didn't. Why I isolated myself for years, solving loneliness by being alone. Every one of those actions made perfect sense if you knew the sentence running underneath. And I couldn't see it, because it didn't feel like a story. It felt like reality. It felt like how the world actually is.
+I didn't consciously think those words. But they were underneath everything I did — and it started with my father, the same wound I described at the beginning of this book. Why I spent 30 minutes crafting every text message. Why I performed value compulsively so people would let me stay in the room. Why I flinched when my phone buzzed. Why I'd show all of myself to people — fully vulnerable, nothing hidden — and then interpret it as confirmation of the story when they couldn't hold that much. Why I isolated myself for years, solving loneliness by being alone. Every one of those actions made perfect sense if you knew the sentence running underneath. And I couldn't see it, because it didn't feel like a story. It felt like reality. It felt like how the world actually is.
 
 **Step 2: Write the opposite.**
 
