@@ -4,13 +4,11 @@
 
 ## Why This Exists
 
-The most dangerous person in the room is usually the one trying to help.
+People are messy. We make mistakes. We hurt each other — usually not on purpose. And when something goes wrong, most of us don't have a framework for what to do next. We just react from fear, instinct, and whatever stories we're carrying.
 
-That sounds wrong. This book shows you why it's true — and what to do about it.
+**This book is that framework.** How to see what's actually happening — not what your fear tells you is happening. How to respond to mistakes without creating more harm. How to take responsibility without shame. How to repair things when they break.
 
-Most harm between people doesn't come from malice. It comes from blindness: people who can't see the stories running their perception, can't see the patterns driving their reactions, and cause damage while genuinely believing they're doing good. The protector who destroys someone's reputation over a misunderstanding. The friend who starts a witch hunt based on vibes instead of facts. The facilitator who sacrifices an innocent person because they're afraid of the angry one. None of them think they're the problem. All of them are.
-
-**This book is about those patterns — how to see them, how to navigate them, and how to stop being run by them.**
+It's not about being perfect. It's about knowing what to do when things aren't.
 
 ### Why Play Spaces?
 
