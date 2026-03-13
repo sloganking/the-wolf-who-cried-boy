@@ -293,6 +293,7 @@ This is a genuinely painful situation. Even handled perfectly, it's disruptive. 
 
 ## Related
 
+- [Guiding Public Repair](./guiding-public-repair.md) — The step before this: when someone is angry but hasn't crossed into threats yet
 - [When Things Go Wrong](./when-things-go-wrong.md) — Emergency exception, threats of violence, de-escalation
 - [Before You Facilitate](./before-you-facilitate.md) — The promise, the first officer, pre-framing
 - [Fawning](./fawning.md) — What you're doing when you appease instead of act

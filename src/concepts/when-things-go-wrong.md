@@ -444,6 +444,8 @@ After the situation is resolved and things have calmed down, acknowledge it. Som
 
 ## Related
 
+- [Guiding Public Repair](./guiding-public-repair.md) — When conflict needs to be resolved in front of the group
+- [Handling Threats of Violence](./handling-threats-of-violence.md) — When it escalates past repair
 - [Fawning](./fawning.md) — What you're doing when you appease
 - [Power Dynamics](./power-dynamics.md) — Participants have power over you
 - [Appropriate Response](./appropriate-response.md) — Don't let anger determine severity

@@ -1,0 +1,172 @@
+# Guiding Public Repair
+
+←← [Back to Introduction](../introduction.md)
+
+---
+
+Sometimes two people in your container are in conflict, and the whole room already knows about it.
+
+Maybe someone made a mistake the night before, and by morning everyone has a version of the story. Maybe someone is visibly furious and the tension is filling the room. Maybe someone did something dramatic — wrote someone's name on the floor where everyone can see it, made a loud public accusation, or rallied others before anything was addressed.
+
+At this point, private resolution might not be enough. The room already has stories. If you handle it behind closed doors and then act like everything's fine, fifty people are left with whatever narrative they constructed overnight — and that narrative is probably wrong, because it wasn't built on primary sources. It was built on emotion, secondhand accounts, and whoever was louder.
+
+This is when a facilitator might choose to guide public repair: a structured conversation between the parties, in front of the group, with the facilitator actively leading.
+
+This page is about how to do that without it becoming a shitshow.
+
+---
+
+## When to Go Public
+
+Public processing is high-risk, high-reward. It can give the entire room clarity, model repair, and dissolve stories that would otherwise fester for months. It can also blow up spectacularly if the facilitator isn't leading.
+
+**Go public when:**
+
+- The room already knows something happened and is filling in stories
+- The conflict involves dynamics the whole group would benefit from seeing resolved (boundary crossings, miscommunications, over-responses)
+- Both parties are present and at least one is willing to engage
+- You, as facilitator, are prepared to actively guide — not just set a timer
+
+**Stay private when:**
+
+- The conflict can be contained between the parties without the room spinning stories
+- One or both parties are too activated for a productive conversation
+- The facilitator doesn't feel equipped to guide the process (honest self-assessment beats ego)
+- Public processing would re-traumatize someone who's already fragile
+
+The default should be private. Public is the exception — used when the room's narrative is already out of control and needs to be corrected with real information.
+
+---
+
+## The Context Rule
+
+This is the single most important thing in this entire page.
+
+**Before anyone talks it out, the room must hear what actually happened — from the people it happened to.**
+
+Not from the angry partner. Not from the friend who heard about it. Not from whoever is loudest. From the primary sources: the person whose boundary was crossed, and the person who crossed it.
+
+Here's why: without context, the audience fills the vacuum. They see someone furious and assume the worst. They see someone apologizing and assume guilt. They see dramatic gestures — names written on floors, public accusations, tears — and they think they know what happened. They don't. They're watching a movie with no dialogue and making up the plot.
+
+### What This Looks Like
+
+Before any back-and-forth, the facilitator says something like:
+
+> "Before we go any further, I want to make sure everyone in this room has the actual information about what happened. Not assumptions, not secondhand stories — what the people involved experienced. [Person whose boundary was crossed], can you share what happened from your perspective? And then [person who crossed it], I'd like to hear yours."
+
+Then the facilitator guides both primary sources through their account. Not a debate. Not a cross-examination. Just: what happened, from the people who were there.
+
+### Why This Changes Everything
+
+If the person whose boundary was crossed already did repair with the person who crossed it — if they already talked, processed, and feel complete — then the room hearing that changes the entire energy. The angry partner who's been screaming suddenly isn't speaking for the person they're "protecting." The audience realizes the situation was already handled. The narrative that someone needs saving dissolves.
+
+If the person whose boundary was crossed is still hurt, the room hearing their actual experience — not someone else's interpretation of it — gives the group accurate information to work with instead of projections.
+
+Either way, the room is now qualified to witness what comes next. Without this step, they're not qualified. They're an audience watching a conflict through their own [filters](./trauma-and-filters.md), and the loudest story wins.
+
+### When Someone Acts Before Context Is Set
+
+Sometimes a person does something dramatic before any processing has happened. They write someone's name in a visible public space to mark them as dangerous. They make a loud announcement. They rally others.
+
+This is an attempt to set the room's narrative before facts are established. Whether intentional or not, it pre-frames every person in the room to expect a certain story before they've heard a single word from the people actually involved.
+
+Recognize it for what it is: skipping straight to a verdict without a hearing. The facilitator's job is to reset: facts first, then feelings.
+
+---
+
+## The Facilitator's Role: Narrator, Not Timekeeper
+
+The worst version of public processing is two people taking turns talking while the facilitator watches.
+
+Here's what happens: the activated person screams. The other person [fawns](./fawning.md). The room watches someone get berated into ritualistic submission. The fawning person apologizes enough, the activated person feels heard enough, and everyone acts like repair happened. It didn't. One person dominated and the other survived.
+
+The facilitator's job is not to set a timer and let people take turns. The facilitator's job is to actively guide the conversation so that what comes out is true — not just loud.
+
+### Guiding Honesty
+
+When someone makes a mistake, they often don't fully understand why they did it. If they're put on the spot to explain, they'll list contributing factors — they were tired, they were on medication, it was dark, they misread the signal, they zoned out. Each one is true but none of them is the answer. And to the activated person, and to the room, it sounds like a list of excuses.
+
+A facilitator who sees this can guide them to the truest answer:
+
+> "Those all sound like real contributing factors. And it also sounds like, underneath all of them, the honest answer might be that you don't fully know why it happened. Is that true?"
+
+If they say yes — and they usually will, because it is true — the room hears something different than excuses. They hear honesty. "I don't know why I did that" is more credible and more human than a polished list of reasons. And the facilitator can narrate for the room:
+
+> "That's actually common. Sometimes people genuinely don't know why they did what they did. When someone gives you a clean explanation for a mistake, they might be rationalizing after the fact. When someone says 'I don't know,' that's often the most honest thing they can say."
+
+### Narrating Dynamics
+
+The audience is watching two people in conflict through their own filters. Some will be sure the angry person is righteous. Some will think the apologizing person is guilty. Some will have no idea what's happening and are anxious.
+
+The facilitator narrates what's happening so the room doesn't have to guess:
+
+- "What you're seeing right now is one person who is very activated and one person who is trying to de-escalate. Neither of them is lying. They're experiencing the same event through very different filters."
+- "I notice [person] is apologizing a lot. I want to check — are you apologizing because you genuinely feel you did something wrong, or because this situation feels threatening and apologizing feels like the safest move right now?"
+- "This is the part where it can look like one person is the villain and the other is the victim. The reality is almost always more complicated than that."
+
+This isn't moralizing. It's giving the audience a framework so they're processing information instead of confirming their existing stories.
+
+### Spotting Fawning in Real Time
+
+If the person being confronted is fawning — apologizing reflexively, agreeing with things they don't actually agree with, shrinking to make the angry person feel powerful enough to stop — the facilitator needs to interrupt it.
+
+Not to fight their battle. To help them fight it themselves.
+
+> "Hey. I notice you're agreeing with a lot right now. I want to make sure that's because you actually agree — not because this feels scary and agreeing feels like the safest way through. What do you actually think happened?"
+
+This is covered in detail in [When You See Someone Fawning](./when-things-go-wrong.md#when-you-see-someone-fawning). In public processing, it's even more critical — because fawning in front of the whole room means the whole room watches someone submit. And they learn: that's how conflicts end here. The louder person wins. That lesson poisons every future interaction in the container.
+
+### What a World-Class Facilitator Does
+
+A truly skilled facilitator would see the fawning, gently stop the process, and walk the fawning person into their actual truth. Not by telling them what to say — by asking the right questions until the real answer surfaces.
+
+They'd also see the activated person's pain underneath their rage, name it without endorsing their behavior, and help the room hold both things at once: this person is hurting AND the way they're expressing it is not okay.
+
+That's the difference between a facilitator who runs a timer and a facilitator who leads. The timer version produces ritualistic submission. The leading version might produce actual repair.
+
+---
+
+## When It Doesn't Work
+
+Sometimes public repair fails. The activated person escalates. They make threats. They refuse to engage with anything that doesn't confirm their story. They've entered [Narrative Lock](./invisible-patterns.md#narrative-lock) and nothing you say will change their position.
+
+If someone crosses into threats of violence during public processing, you're now in [Handling Threats of Violence](./handling-threats-of-violence.md) territory. The promise kicks in. Stop the public process, separate the parties, and follow the order of operations.
+
+If someone isn't making threats but has clearly locked into a story and won't engage with new information — every response you offer becomes more evidence for their narrative — the public process isn't going to produce repair. Name it honestly:
+
+> "I can see we've reached a point where this conversation isn't moving forward. I don't think continuing right now will help either of you. Let's pause, give everyone time to process, and I'll follow up with both of you individually."
+
+That's not failure. That's recognizing when the tool isn't working and switching to a different approach before it causes more damage.
+
+---
+
+## Participant Self-Advocacy
+
+Everything above assumes the facilitator is doing their job. But sometimes they're not. Sometimes the facilitator is fawning. Sometimes they're in over their head. Sometimes they just didn't think to set context before letting two people go at each other in front of the room.
+
+If you're a participant watching this happen — or worse, if you're the person being yelled at — you can advocate for yourself and for the process.
+
+**If the facilitator isn't setting context:**
+
+> "Before we continue, can we hear what actually happened from the people who were directly involved? I think it would help everyone here understand the situation before we watch two people try to work through it."
+
+**If you're the one being confronted and you feel the room doesn't have the full picture:**
+
+> "I want to make sure everyone here knows what actually happened, because I think there's information missing. [Person whose boundary was crossed] and I already talked about this and did repair. Can we share that before we go further?"
+
+**If you're watching someone fawn and it doesn't feel right:**
+
+> "Hey, I notice [person] seems to be agreeing with everything but I'm not sure they're actually being given space to share their side. Can we slow down and make sure both people get to speak freely?"
+
+This isn't overstepping. This is what a healthy container looks like — participants who care enough about the process to help hold it, especially when the facilitator is struggling. The [promise](./before-you-facilitate.md#the-promise) is held by everyone, not just the person at the front of the room.
+
+---
+
+## Related
+
+- [When Things Go Wrong](./when-things-go-wrong.md) — Dignity, fawning intervention, de-escalation
+- [Handling Threats of Violence](./handling-threats-of-violence.md) — When public repair escalates past the point of no return
+- [Before You Facilitate](./before-you-facilitate.md) — The promise that governs these decisions
+- [Invisible Patterns](./invisible-patterns.md) — Narrative Lock: when someone stops processing new information
+- [Before You Judge](./before-you-judge.md) — Why the room isn't qualified to judge without primary sources
+- [Fawning](./fawning.md) — What it looks like when someone submits instead of repairs
