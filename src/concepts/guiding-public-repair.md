@@ -24,7 +24,7 @@ Public processing is high-risk, high-reward. It can give the entire room clarity
 
 - The room already knows something happened and is filling in stories
 - The conflict involves dynamics the whole group would benefit from seeing resolved (boundary crossings, miscommunications, over-responses)
-- Both parties are present and at least one is willing to engage — and critically, neither party has already decided there's no path to repair. If someone is saying "fuck you, there's nothing to discuss, I want you gone" — they're not interested in repair. Public processing with someone who's already decided the verdict is just giving them a stage to attack from. That's not repair. That's a public execution.
+- Both parties are present and at least one is willing to engage — and critically, neither party has already decided there's no path to repair. If someone is saying "fuck you, there's nothing to discuss, I want you gone" — they're not interested in repair. Public processing with someone already in [Narrative Lock](./invisible-patterns.md#narrative-lock) is giving them a stage to spread their locked story to the entire room. That's not repair. That's amplification. Sometimes people can come out of it — anger can soften, certainty can crack — but you're gambling. And if the only way they soften is because the other person fawns hard enough to satisfy them, that's not repair either. That's ritualized submission with an audience.
 - You, as facilitator, are prepared to actively guide — not just set a timer
 
 **Stay private when:**
