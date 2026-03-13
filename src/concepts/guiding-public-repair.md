@@ -219,6 +219,46 @@ That's not running away. That's self-respect. And it's more useful than fawning 
 
 > "Hey, I notice [person] seems to be agreeing with everything but I'm not sure they're actually being given space to share their side. Can we slow down and make sure both people get to speak freely?"
 
+### Speaking Truth Instead of Fawning
+
+This might be one of the most important things in this book.
+
+If someone is yelling at you — publicly, in front of everyone — here's what happens when you fawn: you cry, you apologize, you shrink, you say whatever makes them stop. And the room watches you do it. They see someone who looks guilty. They see someone who can't hold their ground. They assume you must have done something terrible, because you're acting like you did. Your fawning communicates guilt to everyone watching, even if you're not guilty of what they think.
+
+Here's what it looks like when you speak truth instead:
+
+**Three sentences. Then you leave.**
+
+1. **State the facts.** "I crossed a boundary for one second. [Person whose boundary was crossed] and I already talked about it and did repair. They feel complete about it."
+
+2. **Name the disproportionality.** "This response isn't proportional to what happened. Is this coming from somewhere else?" — Not psychoanalyzing them, not calling out their specific past trauma in front of everyone. Just naming what's true: this reaction doesn't match the event. Let them respond if they want to.
+
+3. **Set the boundary and leave.** "I'm available to talk about this when we can do it with mutual respect. I'm not available for being yelled at. You're going to have to handle your emotions on your own."
+
+Then walk out.
+
+That's it. The room heard the facts. The room heard that repair was already done. The room heard you name the disproportionality. And the room watched you set a boundary and leave with dignity instead of collapsing. Your animal body communicated to everyone: this situation is not the emergency he thinks it is. Some people will still side with the angry person — they were already in [Narrative Lock](./invisible-patterns.md#narrative-lock) before you opened your mouth. But many will feel your calm, and it will make them question whether the angry person's story is the whole truth.
+
+Compare that to fawning: crying, apologizing, submitting until the angry person calms down. Which version makes the room trust you? Which version makes you trust yourself?
+
+### When the Harassment Doesn't Stop
+
+Sometimes setting a boundary and leaving doesn't end it. The angry person follows you. They confront you at meals. They make scenes whenever you're in the room. They spread stories about you to other participants. They refuse to let it go.
+
+If the facilitators are holding the container, this is their problem to solve. The promise should cover it — ongoing harassment and attempts to destroy someone's reputation are grounds for removal.
+
+But if the facilitators are fawning — if they're afraid of the angry person and not enforcing boundaries — you have to protect yourself.
+
+**Set your own boundary with the angry person:**
+
+> "You cannot speak to me, about me to others, or approach me at this retreat. If that continues, I'm leaving — and I'll be honest about why."
+
+**Name what you see with the facilitator:**
+
+> "I notice you're not enforcing the agreements we were promised at the beginning of this container. I understand this is hard. And if [person] continues to harass me and you don't act, I can't stay here. I don't want to leave, and I don't want to have to tell people why I left — but I will if I have to."
+
+You're not threatening. You're stating reality. The facilitator is afraid of the angry person writing a bad review or slandering their organization online. Fair enough — that's a real concern. But you can write a review too. And a review about a facilitator who let someone get harassed because they were too scared to act is just as damaging as whatever the angry person might write. Sometimes the facilitator needs to hear that the cost of fawning isn't zero.
+
 This isn't overstepping. This is what a healthy container looks like — participants who care enough about the process to help hold it, especially when the facilitator is struggling. The [promise](./before-you-facilitate.md#the-promise) is held by everyone, not just the person at the front of the room.
 
 ---
