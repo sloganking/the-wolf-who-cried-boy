@@ -4,9 +4,11 @@
 
 ## Why This Exists
 
-Someone makes a mistake. Someone else decides it was malice. A third person rushes in to protect the "victim" — and causes more harm than the original mistake ever did. Meanwhile, the person who actually made the mistake is too scared to speak up, so they just apologize until the angry person stops. Everyone watches. Nobody says anything. Everyone walks away with a different story about what happened, and none of them are accurate.
+The most dangerous person in the room is usually the one trying to help.
 
-This happens everywhere. Families. Workplaces. Politics. Online communities. Anywhere humans interact, the same patterns run: blind protectors causing harm in the name of safety, people fawning instead of setting boundaries, witch hunts based on vibes instead of facts, and the loudest story winning by default.
+That sounds wrong. This book shows you why it's true — and what to do about it.
+
+Most harm between people doesn't come from malice. It comes from blindness: people who can't see the stories running their perception, can't see the patterns driving their reactions, and cause damage while genuinely believing they're doing good. The protector who destroys someone's reputation over a misunderstanding. The friend who starts a witch hunt based on vibes instead of facts. The facilitator who sacrifices an innocent person because they're afraid of the angry one. None of them think they're the problem. All of them are.
 
 **This book is about those patterns — how to see them, how to navigate them, and how to stop being run by them.**
 
