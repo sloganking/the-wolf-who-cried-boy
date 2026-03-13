@@ -308,7 +308,7 @@ Here's a starter set of rules you might adapt for your container:
 2. **Intentional malice** — Deliberately trying to harm someone. If you're intentionally malicious, you're out. Not because of judgment, but because we can't risk escalation.
 3. **Repeated boundary violations after being told** — One mistake is human. Continued violation after clear communication is a pattern.
 4. **Using victim status as an excuse to attack** — Whether it's your own victimhood or someone else's you're "protecting," victim status is not a license to attack. Defense is acceptable; aggression disguised as defense is not. (See: [Power Dynamics](./power-dynamics.md))
-5. **Character assassination and triangulation** — Overt attempts to destroy someone's reputation or mobilize others against them. If you're trying to get people to gang up on someone rather than resolving the issue directly, you've crossed from defense into aggression.
+5. **Destroying someone's reputation** — Overt attempts to damage someone's character or rally others against them. If you're trying to get people to turn on someone rather than resolving the issue directly, you've crossed from defense into aggression.
 
 ### Defense vs. Aggression
 
@@ -400,7 +400,7 @@ Here's language you might use at the opening of your container:
 > 2. Intentional malice—deliberately trying to harm someone
 > 3. Repeated boundary violations after being told to stop
 > 4. Using victim status as an excuse to attack—yours or someone else's. Victim status is not a license to attack.
-> 5. Character assassination or triangulation—trying to destroy someone's reputation or get others to gang up on them
+> 5. Destroying someone's reputation—trying to damage someone's character or rally others against them
 >
 > If you cross these lines, I cannot guarantee your place here.
 >
@@ -424,7 +424,7 @@ If a [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-
 
 Without a pre-established promise, the facilitator has no ground to stand on. Every decision they make looks self-serving. "Of course they're not removing themselves — they're the predator." The righteous predator's story becomes the only story, because the facilitator's authority — the only thing that could counter it — has been undermined.
 
-With a promise, the co-facilitators can step in and honor the agreements made at the beginning of the container. They don't have to make judgment calls under pressure. They don't have to take sides. They just follow the promise: threats of violence result in removal. Character assassination results in removal. The person making accusations is either within the agreements or they're not. The promise decides — not the popularity of the accusation.
+With a promise, the co-facilitators can step in and honor the agreements made at the beginning of the container. They don't have to make judgment calls under pressure. They don't have to take sides. They just follow the promise: threats of violence result in removal. Destroying someone's reputation results in removal. The person making accusations is either within the agreements or they're not. The promise decides — not the popularity of the accusation.
 
 The promise also protects facilitators from their own [fawning](./fawning.md). Without pre-committed agreements, a facilitator facing an angry person has to make a judgment call in real time — and fear can drive them to appease the loudest voice instead of doing the right thing. They might tolerate threats to avoid hate mail. They might sacrifice the person who made a mistake to keep the angry person calm. That's not a facilitation decision. That's a [trauma response](./fawning.md#what-fawning-looks-like). The promise removes that trap — the decision was already made before the fear showed up. The facilitator doesn't have to be brave in the moment. They just have to honor their word.
 
