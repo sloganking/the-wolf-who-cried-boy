@@ -241,7 +241,11 @@ That's it. The room heard the facts. The room heard that repair was already done
 
 Compare that to fawning: crying, apologizing, submitting until the angry person calms down. Which version makes the room trust you? Which version makes you trust yourself?
 
-There's also a cost to your body. This whole approach takes thirty seconds, maybe a minute. If you fawn instead, you might stand there getting screamed at for forty minutes — absorbing threat after threat, letting someone else's rage imprint into your nervous system. That fear stays. It ripples through your body for weeks, months, sometimes years. Every minute you stand there taking it is another minute your body records "this is what happens when I make a mistake." You can set the boundary and leave after the first thirty seconds — or you can let someone use your fawning to abuse you for as long as they want. One of these options leaves a mark. The other doesn't.
+There's also a cost to your body. This whole approach takes thirty seconds, maybe a minute. If you fawn instead, you might stand there getting screamed at for forty minutes — absorbing threat after threat, letting someone else's rage imprint into your nervous system. That fear stays. It ripples through your body for weeks, months, sometimes years. Every minute you stand there taking it is another minute your body records "this is what happens when I make a mistake."
+
+Here's the hard part: you could have stopped it at any time. You could have said "I'm not available for this" after thirty seconds and walked out. You had that power the entire time. But you didn't see it — because your fawning response told you the safest move was to stay and appease. So you used them to abuse yourself for as long as they wanted to keep going.
+
+That's not blame. Your nervous system was doing what it knows how to do under threat — freeze, appease, survive. But it's [responsibility](./responsibility.md): looking back and seeing that you had an exit you didn't take. And that means next time, you can take it. You're not powerless in that situation. You never were. You just didn't know you could leave. Now you know.
 
 ### When the Harassment Doesn't Stop
 
