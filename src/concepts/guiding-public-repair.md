@@ -36,6 +36,14 @@ Public processing is high-risk, high-reward. It can give the entire room clarity
 
 The default should be private. Public is the exception — used when the room's narrative is already out of control and needs to be corrected with real information.
 
+### The Best Case: Private Repair
+
+The ideal scenario is that the two people involved resolve it themselves — or with the facilitators' help, privately. They talk, they process, they do repair, and they come back to the group complete.
+
+They don't have to announce it. But one of them might bring it up naturally in a sharing circle: "Something happened last night between me and [person]. We talked about it and did repair, and I feel good and complete." That's it. The room gets the information it needs — this was handled, both people are okay — without anyone having to relive the conflict in front of fifty people.
+
+This is what you're aiming for. Public repair exists for when this path isn't available — because the room already has stories, because one party is too activated to do it privately, or because the conflict spilled into public view before anyone could contain it.
+
 ---
 
 ## The Context Rule
