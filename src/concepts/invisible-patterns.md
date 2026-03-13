@@ -108,7 +108,11 @@ Each line is the direct opposite of one part of the old sentence. Safety against
 
 **Step 3: Install it through the body, not the mind.**
 
-Say it out loud while physically moving — running, walking, anything that has your body engaged. Not thinking it quietly. Saying it, with your lungs and your voice, while your body is open and activated. Your body updates through experience and repetition, not through understanding. This is why insight alone doesn't work: the body doesn't read books. It learns from what it *does* and what it *feels* while doing it.
+This step comes from Tony Robbins' practice of *incantations* — not affirmations you think quietly, but statements you say out loud, with your whole body, while in a peak emotional state. The distinction matters. Your body doesn't remember things you said while bored. It remembers things you said while your heart was pounding and your voice was shaking.
+
+Get yourself into state first. Move — run, walk fast, jump, whatever gets your physiology up. Put on music that pumps you up. Then say the words out loud. Not once. Over and over. Shout them if you can. You're not reciting. You're commanding your body to believe something new.
+
+Here's what I noticed: if the replacement sentence is precise enough — if it's truly the inverse of the wound — it will elicit emotion on its own. The first time I tried to say mine, it was hard to get out of my mouth. Because I was saying the opposite of the reality I'd perceived for 28 years. And I was saying the thing I wanted most, acting like it was already true, when my body had never believed it was. That resistance — the difficulty saying it, the emotion that comes up — is the signal that you've found the right words. If it rolls off your tongue easily, it's probably not deep enough.
 
 The first time I ran while saying my inverse out loud, I came home and — for the first time — seriously considered walking outside to talk to my neighbors. That's how subtle the shift is. Not fireworks. Just a quiet willingness to approach people without performing first. My body briefly believed it was safe. That was new.
 
