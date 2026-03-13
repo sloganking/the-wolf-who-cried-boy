@@ -87,7 +87,9 @@ If someone has a [filter](./trauma-and-filters.md) that makes them prone to seei
 
 Every righteous predator in that mob thinks they're saving someone. None of them realize they're a weapon being aimed by the person who can see what they can't.
 
-This is why seeing through your blind spots isn't just self-improvement — it's self-defense. If you can't see your own [filters](./trauma-and-filters.md), you can be aimed. Any person or group that is blind to their own patterns is a tool waiting to be used. The best protection against selfish predators isn't scanning for them harder — it's becoming impossible to manipulate by doing the work this book describes.
+This is why seeing through your blind spots isn't just self-improvement — it's self-defense. If you can't see your own [filters](./trauma-and-filters.md), you can be aimed. Any person or group that is blind to their own patterns is a tool waiting to be used. The best protection against selfish predators isn't scanning for them harder — it's seeing through your own beliefs clearly enough that you can't be turned into a righteous predator. If you and the people around you have done that work — if the blind spots are gone and there are no righteous predators left to aim — then selfish predators have no tools left to use.
+
+**Your blind spots are where the selfish predators hide.**
 
 ### "Think of the Children"
 
