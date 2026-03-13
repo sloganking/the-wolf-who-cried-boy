@@ -233,13 +233,15 @@ Here's what it looks like when you speak truth instead:
 
 2. **Name the disproportionality.** "This response isn't proportional to what happened. Is this coming from somewhere else?" — Not psychoanalyzing them, not calling out their specific past trauma in front of everyone. Just naming what's true: this reaction doesn't match the event. Let them respond if they want to.
 
-3. **Set the boundary and leave.** "I'm available to talk about this when we can do it with mutual respect. I'm not available for being yelled at. You're going to have to handle your emotions on your own."
+3. **Set the boundary and leave.** "I want to make this right — and I will, once we can talk with mutual respect. I'm not available for being yelled at. You're going to have to handle your emotions on your own."
 
-Then walk out.
+Then walk out. The room just heard that you *want* to repair — that you're willing to do more than what's being asked. And they heard that the angry person's behavior is what's blocking it. That reframes everything: you're not the one refusing to engage. They are — by making it unsafe to do so.
 
 That's it. The room heard the facts. The room heard that repair was already done. The room heard you name the disproportionality. And the room watched you set a boundary and leave with dignity instead of collapsing. Your animal body communicated to everyone: this situation is not the emergency he thinks it is. Some people will still side with the angry person — they were already in [Narrative Lock](./invisible-patterns.md#narrative-lock) before you opened your mouth. But many will feel your calm, and it will make them question whether the angry person's story is the whole truth.
 
 Compare that to fawning: crying, apologizing, submitting until the angry person calms down. Which version makes the room trust you? Which version makes you trust yourself?
+
+There's also a cost to your body. This whole approach takes thirty seconds, maybe a minute. If you fawn instead, you might stand there getting screamed at for forty minutes — absorbing threat after threat, letting someone else's rage imprint into your nervous system. That fear stays. It ripples through your body for weeks, months, sometimes years. Every minute you stand there taking it is another minute your body records "this is what happens when I make a mistake." You can set the boundary and leave after the first thirty seconds — or you can let someone use your fawning to abuse you for as long as they want. One of these options leaves a mark. The other doesn't.
 
 ### When the Harassment Doesn't Stop
 
