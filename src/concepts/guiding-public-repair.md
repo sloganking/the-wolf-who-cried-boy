@@ -99,7 +99,7 @@ Recognize it for what it is: skipping straight to a verdict without a hearing. T
 
 The worst version of public processing is two people taking turns talking while the facilitator watches.
 
-Here's what happens: the activated person screams. The other person [fawns](./fawning.md). The room watches someone get berated into ritualistic submission. The fawning person apologizes enough, the activated person feels heard enough, and everyone acts like repair happened. It didn't. One person dominated and the other survived.
+Here's what happens: the activated person screams. The other person [fawns](./fawning.md). The room watches someone get berated into fake resolution. The fawning person apologizes enough, the activated person feels heard enough, and everyone acts like repair happened. It didn't. One person dominated and the other survived.
 
 People watching this will often think something good happened. They saw conflict, they saw apology, they saw the angry person calm down, they saw a hug. It looks like resolution. It's not. The fawning person never said what was true. They never said what was fair. They never contested the angry person's narrative — not because they agreed with it, but because they were afraid that saying the truth would make it worse. And they're probably right: telling the truth to someone in [Narrative Lock](./invisible-patterns.md#narrative-lock) usually *does* make it worse, because everything you say becomes more evidence for their story. But fawning doesn't solve that problem. It just hides it behind a performance of submission.
 
@@ -147,7 +147,29 @@ A truly skilled facilitator would see the fawning, gently stop the process, and 
 
 They'd also see the activated person's pain underneath their rage, name it without endorsing their behavior, and help the room hold both things at once: this person is hurting AND the way they're expressing it is not okay.
 
-That's the difference between a facilitator who runs a timer and a facilitator who leads. The timer version produces ritualistic submission. The leading version might produce actual repair.
+That's the difference between a facilitator who runs a timer and a facilitator who leads. The timer version produces fake resolution. The leading version might produce real repair.
+
+---
+
+## Real Repair vs. Fake Resolution
+
+Whether public or private, repair is either real or it isn't. Knowing the difference matters — because fake resolution looks convincing. People watch it and think something good happened.
+
+### What Real Repair Looks Like
+
+- **Both people acknowledge their part.** Not perfectly symmetrically — sometimes one person clearly made the bigger mistake — but both are asking "what was my part?" The angry person owns that their response may have been disproportionate. The person who made the mistake owns what they did. Neither is doing all the owning while the other does all the blaming.
+- **Both people feel good after.** Not "I survived that" — genuinely good. The relationship feels closer, or at least clear. If one person walks away feeling resentful, relieved it's over, or like they just performed well enough to escape — that's not repair. That's endurance.
+- **Both people feel safe enough to say what's true.** This is the prerequisite everything else rests on. If someone doesn't feel safe enough to say what they actually think, what they actually need, or what they actually want in order to feel repaired — then repair can't happen. They'll ask for less than they need, agree with things they don't believe, and perform resolution while the wound stays open. (See: [Ask for What You Actually Want](./making-it-right.md#ask-for-what-you-actually-want))
+
+### What Fake Resolution Looks Like
+
+- **One person fawned.** They apologized not because they agreed, but because they were scared. They said what the angry person needed to hear, not what was true. The angry person calmed down and everyone relaxed. It looked like repair. It wasn't — because the fawning person never said what was real, and the angry person never had to face it.
+- **One person took zero responsibility.** They stayed in full victim mode: this is all your fault, you have to make me happy, I have nothing to own. They extracted an apology, maybe a hug, maybe a ritualistic act of forgiveness — and contributed nothing. They "won." But winning isn't repair.
+- **The angry person never left Narrative Lock.** They came in certain, and they left certain. Nothing the other person said made them question their story. The fawning person's submission just confirmed what they already believed. The angry person walks away with their narrative intact, maybe even strengthened. That's not repair — that's someone who bullied another person into agreement and called it resolution.
+
+The facilitator's job during public processing is to know the difference and to not let the room mistake one for the other.
+
+For the full repair framework — how to make it right, how to ask for what you need, how to avoid fawning during repair — see [Making It Right](./making-it-right.md).
 
 ---
 
