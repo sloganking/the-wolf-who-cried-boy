@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Language Checker for Responsible Play
+Language Checker for Night Vision
 
 Scans src/ and drafts/ for moralizing terms and reports unapproved instances.
 Output is file:line format (Ctrl+clickable in most editors).

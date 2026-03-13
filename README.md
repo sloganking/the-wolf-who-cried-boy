@@ -1,6 +1,6 @@
-# Responsible Play
+# Night Vision
 
-**Explode Your Pleasure, Not Your Life.**
+**Why the Most Dangerous Person in the Room Is the One Trying to Help.**
 
 A framework for navigating mistakes, power, and repair in intimate spaces.
 
