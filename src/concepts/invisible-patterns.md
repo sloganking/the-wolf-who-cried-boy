@@ -114,7 +114,13 @@ Think about how the old sentence got installed in the first place. You didn't si
 
 The same mechanic works in reverse. When you get yourself into a peak *positive* emotional state — happiness, excitement, heart pumping, dancing, music that makes you feel alive — your body also remembers the meanings you make in that state. So getting yourself into a peak positive state and then using that window to implant new meaning is why this works. You're using the same installation mechanism that trauma used, but pointing it somewhere good.
 
-Move — run, walk fast, jump, whatever gets your physiology up. Put on music that pumps you up. Then say the words out loud. Not once. Over and over. Shout them if you can. You're not reciting. You're commanding your body to believe something new.
+And there's another reason this has to be spoken out loud, not just thought.
+
+When you look at a scene and your body decides it's scary, that conclusion is an *output* — your mind generated a prediction about what's here, and then your RAS went looking for evidence to match. "This is scary" is a suggestion your body made to itself, and then it became what you perceived. Every story your body tells you is an output that shapes what you see next.
+
+Speaking the new sentence out loud is retraining that output system. You're not just hearing words — you're *generating* them. Your body is producing the prediction "I am safe, I belong here" the same way it used to produce "I am not safe, people will attack me." You're training your mind to give you a different suggestion about how to look at things. Over time, the new suggestion starts to feel as automatic as the old one — and then your RAS starts looking for safety, belonging, and welcome instead of danger, rejection, and attack. You start noticing evidence that was always there but your old filter couldn't see.
+
+Move — run, walk fast, jump, whatever gets your physiology up. Put on music that pumps you up. Then say the words out loud. Not once. Over and over. Shout them if you can. You're not reciting. You're retraining what your body suggests to you about the world.
 
 Here's what I noticed: if the replacement sentence is precise enough — if it's truly the inverse of the wound — it will elicit emotion on its own. The first time I tried to say mine, it was hard to get out of my mouth. Because I was saying the opposite of the reality I'd perceived for 28 years. And I was saying the thing I wanted most, acting like it was already true, when my body had never believed it was. That resistance — the difficulty saying it, the emotion that comes up — is the signal that you've found the right words. If it rolls off your tongue easily, it's probably not deep enough.
 
