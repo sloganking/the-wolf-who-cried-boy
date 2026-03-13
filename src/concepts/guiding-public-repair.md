@@ -241,11 +241,19 @@ That's it. The room heard the facts. The room heard that repair was already done
 
 Compare that to fawning: crying, apologizing, submitting until the angry person calms down. Which version makes the room trust you? Which version makes you trust yourself?
 
-There's also a cost to your body. This whole approach takes thirty seconds, maybe a minute. If you fawn instead, you might stand there getting screamed at for forty minutes — absorbing threat after threat, letting someone else's rage imprint into your nervous system. That fear stays. It ripples through your body for weeks, months, sometimes years. Every minute you stand there taking it is another minute your body records "this is what happens when I make a mistake."
+There's also a cost to your body. If you fawn instead of setting a boundary, you might stand there getting screamed at for forty minutes. Every minute, your nervous system is recording. Threat after threat after threat, imprinting into your body. That fear doesn't leave when the screaming stops. It stays. It ripples through you for weeks. Months. Sometimes years. Every minute you stood there was another minute your body recorded: "this is what happens when I make a mistake."
 
-Here's the hard part: you could have stopped it at any time. You could have said "I'm not available for this" after thirty seconds and walked out. You had that power the entire time. But you didn't see it — because your fawning response told you the safest move was to stay and appease. So you used them to abuse yourself for as long as they wanted to keep going.
+The whole approach above — the three sentences — takes thirty seconds. Maybe a minute. You could have done that. You could have said "I'm not available for this" after the first time they screamed at you, and walked out. The door was right there. Nobody was holding you in that room.
 
-That's not blame. Your nervous system was doing what it knows how to do under threat — freeze, appease, survive. But it's [responsibility](./responsibility.md): looking back and seeing that you had an exit you didn't take. And that means next time, you can take it. You're not powerless in that situation. You never were. You just didn't know you could leave. Now you know.
+But you didn't leave. Your fawning response told you staying was safer — that if you just apologized enough, they'd stop. So you stayed. And they kept going. And you kept absorbing it. And every minute you stayed was another minute of damage that you have to unravel from your nervous system later.
+
+The angry person wasn't holding you there. You were holding yourself there.
+
+> **You used them to abuse yourself.**
+
+Your nervous system was doing what it knows how to do under threat — freeze, appease, survive. That's not a moral failure. But look at what happened: you had an exit the entire time. You had the power to stop it after thirty seconds. And you didn't take it — not because you couldn't, but because you didn't know you could.
+
+That's [responsibility](./responsibility.md). Not blame — power. The power you didn't see in the moment but can see now. And because you can see it now, next time you can take the exit. Thirty seconds. Three sentences. Then you're out — and your body doesn't carry the imprint of forty minutes of someone else's rage.
 
 ### When the Harassment Doesn't Stop
 
