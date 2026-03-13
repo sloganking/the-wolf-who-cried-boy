@@ -4,21 +4,17 @@
 
 ## Why This Exists
 
-You're about to enter—or you're already in—spaces where people explore intimacy, touch, sexuality, and somatic practices.
+Someone makes a mistake. Someone else decides it was malice. A third person rushes in to protect the "victim" — and causes more harm than the original mistake ever did. Meanwhile, the person who actually made the mistake is too scared to speak up, so they just apologize until the angry person stops. Everyone watches. Nobody says anything. Everyone walks away with a different story about what happened, and none of them are accurate.
 
-These spaces are beautiful. They can also be messy.
+This happens everywhere. Families. Workplaces. Politics. Online communities. Anywhere humans interact, the same patterns run: blind protectors causing harm in the name of safety, people fawning instead of setting boundaries, witch hunts based on vibes instead of facts, and the loudest story winning by default.
 
-People make mistakes. Boundaries get crossed. Feelings get hurt. And because our culture carries so much trauma around sexuality, these mistakes often get handled badly—with shame, witch hunts, or silence.
-
-**This guide exists to help you navigate that mess with more clarity and less harm.**
-
-It's not about being perfect. It's about knowing what to do when things aren't.
+**This book is about those patterns — how to see them, how to navigate them, and how to stop being run by them.**
 
 ### Why Play Spaces?
 
-The patterns in this book are everywhere — in families, workplaces, politics, online communities. But sex is where our culture sees least clearly. It's where the most fear lives, where "predator" gets thrown around fastest, and where the gap between intention and impact is widest.
+This book uses sex-positive spaces — play parties, tantra workshops, intimacy retreats — as the lens. Not because these patterns are unique to those spaces, but because that's where I've lived, where I've seen these dynamics up close, and where I've been on both sides of every mistake this book describes.
 
-Play spaces were chosen as the lens because they make these dynamics undeniable. When someone is naked and vulnerable and a mistake happens, there's nowhere to hide — not for the person who made the mistake, and not for the person whose reaction reveals more about their stories than about what actually occurred.
+Sex is also where our culture sees least clearly. It's where the most fear lives, where "predator" gets thrown around fastest, and where the gap between intention and impact is widest. When someone is naked and vulnerable and a mistake happens, there's nowhere to hide — not for the person who made the mistake, and not for the person whose reaction reveals more about their stories than about what actually occurred.
 
 If a framework can handle a false accusation at a play party, it can handle a conflict anywhere. This book uses the hardest domain on purpose.
 
