@@ -144,7 +144,7 @@ This won't fix everything in a day. But it's the difference between seeing the p
 
 ## Narrative Lock
 
-But sometimes people don't relax. Sometimes the story hardens — and any attempt to help them see it only strengthens it.
+Even with all of the above, some people never see their filter. Sometimes the story hardens — and any attempt to help them see it only strengthens it.
 
 You try to explain what happened. They hear you making excuses. You apologize. They hear you admitting guilt. You go quiet. They say you're avoiding accountability. You keep engaging. They say you're pressuring them.
 
