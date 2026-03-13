@@ -93,6 +93,24 @@ The principles scale down cleanly. You're not learning niche skills for a niche 
 
 ---
 
+## The Gap
+
+This book describes how things should work. Most events don't operate this way yet.
+
+As of writing, no play party, retreat, or workshop I've attended makes an explicit promise to participants — the kind described in [Before You Facilitate](./concepts/before-you-facilitate.md#the-promise). Most don't have protocols for handling threats of violence. Most don't have a framework for proportional response, or a clear distinction between defense and aggression, or a plan for what happens when a facilitator is the one being attacked.
+
+What's typical: a container held at a medium level of safety. The facilitators care. They do valuable work. They guide exercises, hold sharing circles, create beautiful experiences. But when something goes wrong — a boundary crossing, an over-response, someone crying victim, someone making threats — most don't have a framework for what to do next. They react from instinct, which often means fawning to the loudest person or hoping it resolves itself.
+
+The result: incidents keep happening, people have rough experiences, and the organizations get a rough reputation — sometimes deserved, sometimes not. Participants who had a bad experience get stuck in their own stories and attack the organization. Organizations that get attacked sometimes respond defensively ("you said yes, so it's not our problem") — not because they don't care, but because they don't see what they could do differently. People don't take responsibility when they don't see their power. That goes for organizations too.
+
+Most people who critique these spaces don't have advice about what should be done instead. They just know something felt wrong. This book is the advice.
+
+**If you're new to these spaces:** don't assume that the protocols in this book are standard practice. They're not. When you attend an event, ask the facilitators what happens if something goes wrong. Ask if there's a promise. Ask what the removal policy is. If they don't have clear answers, that doesn't mean the event is bad — it means the container is held at the level most containers are held at. You can still attend and have a great experience. Just know that if something goes wrong, you may need to advocate for yourself more than this book suggests you should have to. (See: [Participant Self-Advocacy](./concepts/guiding-public-repair.md#participant-self-advocacy))
+
+**If you're a facilitator:** this is the gap you're filling. The bar is low — not because people don't care, but because nobody has laid out what "high" looks like in enough detail to actually implement. That's what this book is for.
+
+---
+
 ## What You'll Learn
 
 This framework gives you tools to:
