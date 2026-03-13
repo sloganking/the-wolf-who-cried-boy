@@ -112,7 +112,7 @@ I didn't consciously think those words. But they were underneath everything I di
 
 - Why I spent 30 minutes crafting every text message — checking every angle for something someone could attack me for, because any imperfection felt like an opening for punishment.
 - Why I performed value compulsively so people would let me stay in the room.
-- Why I flinched when my phone buzzed.
+- Why I flinched when my phone buzzed — my body would predict hostility before I'd even read the message. Half the time it was someone sending love.
 - Why I'd share at a level of vulnerability and detail that no one else in the room was sharing — not because the room couldn't hold me, but because I was testing whether it could. And when no one met me there, I'd interpret it as proof: "It's not okay to be me. No room can hold all of me."
 - Why, after each rejection, I'd withdraw into solo self-improvement — trying to become worthy of love and belonging by working on myself alone. Solving loneliness by being alone.
 
