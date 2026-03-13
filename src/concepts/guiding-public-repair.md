@@ -24,7 +24,7 @@ Public processing is high-risk, high-reward. It can give the entire room clarity
 
 - The room already knows something happened and is filling in stories
 - The conflict involves dynamics the whole group would benefit from seeing resolved (boundary crossings, miscommunications, over-responses)
-- Both parties are present and at least one is willing to engage
+- Both parties are present and at least one is willing to engage — and critically, neither party has already decided there's no path to repair. If someone is saying "fuck you, there's nothing to discuss, I want you gone" — they're not interested in repair. Public processing with someone who's already decided the verdict is just giving them a stage to attack from. That's not repair. That's a public execution.
 - You, as facilitator, are prepared to actively guide — not just set a timer
 
 **Stay private when:**
