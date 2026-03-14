@@ -6,7 +6,7 @@ A framework for navigating mistakes, power, and repair in intimate spaces.
 
 ## 📖 Read Online
 
-**[View the book →](https://sloganking.github.io/responsible-play/)**
+**[View the book →](https://sloganking.github.io/the-wolf-who-cried-boy/)**
 
 ## What This Is
 
