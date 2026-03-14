@@ -65,17 +65,17 @@ Those last three sound like feelings, but they're interpretations. "Ignored" mea
 
 ## Why This Works
 
-### It Separates Feelings from Stories
+### It Disentangles Feelings from Stories
 
-When someone says "I feel like you don't care about me," they've fused feeling and interpretation.
+When someone says "I feel like you don't care about me," the feeling and the story are **entangled** — fused into a single statement that can't be addressed without breaking something.
 
-If the other person says "But I do care about you," it sounds like they're invalidating the feeling. Now there's a fight about whether the feeling is valid.
+If the other person says "But I do care about you," it sounds like they're invalidating the feeling. Now there's a fight about whether the feeling is valid. The entanglement makes it impossible to address one without damaging the other.
 
-But if you say:
+**Disentangling** means separating the feeling from the story so each one can be addressed on its own terms:
 
 > "I feel sad and disconnected. My story is that you don't care about me."
 
-The other person can:
+Now the other person can:
 
 1. **Validate your feeling**: "I'm sorry you felt sad and disconnected."
 2. **Correct the story**: "I do care about you—I just had to leave quickly for a call."
@@ -235,6 +235,27 @@ This lets you check in with someone without telling them what they feel. It keep
 If you get in the habit of catching yourself when you state a story as fact — "they're an asshole" — and backtracking to "they occur to me as an asshole" — something shifts. Your [reticular activating system](../concepts/trauma-and-filters.md) starts flagging the difference between observation and interpretation in real time. You start sorting reality from fiction as a reflex, not an exercise.
 
 You don't have to stop having stories. You just have to stop treating them as truth before you've checked.
+
+## Disentangling Other People's Language
+
+Everything above teaches you how to speak in NFS yourself. But the most powerful application is when the *other* person doesn't know the framework — and you disentangle their language for them.
+
+Someone says: **"I feel like you don't care about me."**
+
+That's a trap. The natural response — "I do care!" — contests their story and invalidates their feeling in the same breath. You can't win because the feeling and story are entangled into one statement.
+
+Instead, disentangle it:
+
+> "It sounds like you're feeling sad and disconnected, and your story is that I don't care about you."
+
+They'll likely say "yeah" — because you just said what they said, just separated. Now you can address each part:
+
+1. "I hear that you're feeling sad and disconnected. That makes sense given what happened."
+2. "And I want you to know — I do care. Here's what was actually going on..."
+
+The feeling gets validated. The story gets checked. No fight. And the other person didn't need to know NFS at all — you did the disentangling for them.
+
+This works because most people don't know their feelings and stories are entangled. They're not being difficult — they just don't have the distinction. When you separate it for them, you're not correcting them. You're translating what they said into something that can actually be worked with.
 
 ---
 
