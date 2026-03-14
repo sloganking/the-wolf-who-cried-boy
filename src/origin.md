@@ -22,7 +22,7 @@ So he tried to toughen me up. Prepare me. Make me strong enough to survive what 
 
 His intentions were love. His methods were violence. And the outcome was the opposite of what he wanted.
 
-He probably made it _harder_ for me to perform under pressure—not easier. The beatings didn't teach me resilience. The story I carried away was that trying my best wasn't safe. That I couldn't trust my own experience. That asking for help from the people who were supposed to make me feel safe usually created the opposite. That the people who loved me could hurt me while believing they were helping.
+In the end his beatings made it _harder_ for me to perform under pressure—not easier. The beatings didn't teach me resilience. The story I carried away was that trying my best wasn't safe. That I couldn't trust my own experience. That asking for help from the people who were supposed to make me feel safe usually created the opposite. That the people who loved me could hurt me while believing they were helping.
 
 ---
 
