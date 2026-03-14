@@ -83,6 +83,8 @@ A selfish predator is one person doing harm. A righteous predator can mobilize a
 >
 > — _Robert A. Heinlein, Stranger in a Strange Land_
 
+And here's the part nobody tells you about the boy who cried wolf: in the real version, when someone cries wolf, the village doesn't check and find nothing. They find a wolf — every time. Whether it exists or not. They find someone to label, someone to blame, someone to destroy. And when it's done, they look at the person who raised the alarm and think: *damn, they're good at seeing wolves. We should listen to them more.* The alarm-raiser gains authority. The next false alarm gets taken even more seriously. The people who can see clearly — who say "wait, that wasn't actually a wolf" — get drowned out or driven away. And every time one of them leaves, the average drops. Eventually it's nothing but people who see wolves everywhere, led by the person who's best at pointing them out. The blind leading the blind — with anyone who grows a clue drifting away to somewhere saner.
+
 ### The Selfish Predator's Best Tool
 
 Here's what makes this even worse: a competent selfish predator doesn't use overt force. Overt force gets seen, gets stopped, gets a defensive response. Instead, they see your blind spots — and use them.
