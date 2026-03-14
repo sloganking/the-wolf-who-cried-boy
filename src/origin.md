@@ -2,7 +2,7 @@
 
 ---
 
-When I was a kid, my dad spanked me. A lot.
+When I was a kid, my dad spanked me regularly.
 
 My interpretation at the time: I was doing my homework too slow. He thought I was trying to get out of it, or being oppositionally defiant, or throwing a fit. Whatever he saw, it wasn't what I was experiencing.
 
