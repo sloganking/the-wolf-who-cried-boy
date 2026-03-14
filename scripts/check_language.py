@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Language Checker for Night Vision
+Language Checker for The Wolf Who Cried Boy
 
 Scans src/ and drafts/ for moralizing terms and reports unapproved instances.
 Output is file:line format (Ctrl+clickable in most editors).
