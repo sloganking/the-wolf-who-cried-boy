@@ -276,7 +276,7 @@ It's not that they're being irrational. Within their reference frame—where "ev
 
 The harm they're creating feels like self-defense. They think they're responding to high-severity aggression against them—but it's not true at all.
 
-This is why stories are so dangerous. The person acting from them isn't crazy. They're just operating from false premises they don't know are false.
+This is why stories are so dangerous. The person acting from them isn't crazy. They're just operating from false premises they don't know are false. "Crazy" is what you call it when you can't see the beliefs driving someone's behavior. When you *can* see the beliefs, the behavior makes perfect sense — it's just built on something that isn't true.
 
 **The tool:** When someone's behavior looks "purely selfish" or "purely evil," there's almost always a belief underneath that makes it make sense to them. Ask: **What would this person have to believe about the world for this to be a rational response?** That question reveals the hidden premise—the filter running their perception.
 
