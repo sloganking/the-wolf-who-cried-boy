@@ -22,7 +22,7 @@ So he tried to toughen me up. Prepare me. Make me strong enough to survive what 
 
 His intentions were love. His methods were violence. And the outcome was the opposite of what he wanted.
 
-I didn't learn resilience like my father intended the beatings to teach. The story I carried away was that no amount of effort could make me safe — I could pull the lever as hard as I could and still get beaten. That I couldn't trust my own experience. That fighting back and setting boundaries never worked. That those in authority could do whatever they wanted to me without consequence, and nothing would be done about it. That asking for help from the people who were supposed to create a sense of safety usually created the opposite. That the people who loved me could hurt me while believing they were helping.
+I didn't learn resilience like my father intended the beatings to teach. The story I carried away was that no amount of effort could make me safe — I could pull the lever as hard as I could and still get beaten. That I couldn't trust my own experience. That my emotional needs didn't matter and would only be met if I earned them through performance — and I never could perform well enough. That showing what I actually wanted was dangerous. That fighting back and setting boundaries never worked. That those in authority could do whatever they wanted to me, and nothing would be done about it. That asking for help from the people who were supposed to create a sense of safety usually created the opposite. That the people who loved me could hurt me while believing they were helping.
 
 ---
 
