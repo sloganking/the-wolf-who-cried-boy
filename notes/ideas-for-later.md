@@ -37,3 +37,17 @@ Most people list contributing factors and think they're determining ones. "They 
 **Where to use:** Blog post, coaching content, or general self-help writing. Extends the responsibility framework but is broader than the play space context.
 
 ---
+
+## CPR: Content, Pattern, Relationship (from Crucial Conversations)
+
+Problems exist at three levels, and you need to address the problem at the level where it actually lives:
+
+- **Content** — a specific issue with what was produced or what happened. "This report has errors."
+- **Pattern** — the same content problem keeps recurring. "This is the third time this week the report had errors."
+- **Relationship** — the pattern has persisted or escalated enough that the real problem is now between the two people. "I'm starting to wonder if I can trust you with this."
+
+Most conflict resolution failures happen because people are talking about the wrong level. Someone walks in upset about a *relationship* problem, and the other person responds to the *content*: "Yeah, I'll fix the report, don't worry." The report isn't the problem anymore. The trust is.
+
+**Where to use:** Coaching programs, facilitator training, management workshops. Useful diagnostic for "am I addressing this at the right level?" The book's existing frameworks (severity, repair, Narrative Lock) already handle this implicitly but CPR makes it an explicit, teachable step.
+
+---
