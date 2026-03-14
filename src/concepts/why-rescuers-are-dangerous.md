@@ -69,9 +69,7 @@ This even affects how you process it internally. If the only words you have to d
 
 Having the word changes what you can see, what you can say, and what you can survive.
 
-They're not heroes. They're righteous predators — people who cause significant harm to others who don't deserve it, powered by moral certainty instead of selfishness. And most predators are righteous predators, not selfish ones.
-
-A righteous predator has everything that makes harmful beliefs dangerous, plus:
+A righteous predator — someone who causes significant harm powered by moral certainty instead of selfishness — has everything that makes harmful beliefs dangerous, plus:
 
 - **Urgency** — "Something terrible will happen if I don't act NOW"
 - **Moral certainty** — "I'm saving people, so extreme measures are justified"
