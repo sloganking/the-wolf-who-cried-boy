@@ -204,6 +204,38 @@ You have observations. You have feelings. And you have stories.
 
 **Check the stories before you act on them.**
 
+## Conversational Shortcuts
+
+The full Notice-Feel-Story framework is powerful — but in a heated moment, you're not going to say "what I noticed was X, what I felt was Y, and the story I'm making is Z." It's too formal for conversation speed.
+
+Two shortcuts that let you speak in NFS without doing the full framework:
+
+### "Occurs to me as..."
+
+Instead of stating a story as fact, frame it as how someone *occurs* to you.
+
+- Instead of: "They're dangerous." → "They occur to me as dangerous."
+- Instead of: "He's being manipulative." → "He occurs to me as manipulative."
+- Instead of: "She's going to explode." → "She occurs to me as likely to explode."
+
+It's a concise way of saying "my story about them is..." without the full framework. You're still communicating the idea — you're just labeling it as your perception instead of declaring it as truth. This is especially useful when staff are trying to assess a situation together under pressure. "They occur to me as dangerous" invites dialogue. "They're dangerous" invites action on an unverified story.
+
+### "I imagine..."
+
+Instead of claiming to know what someone else is experiencing, frame it as your imagination.
+
+- Instead of: "You're upset." → "I imagine you're upset."
+- Instead of: "You're feeling attacked." → "I imagine you're feeling attacked right now."
+- Instead of: "You want to leave." → "I imagine you might want to leave."
+
+This lets you check in with someone without telling them what they feel. It keeps the door open for them to correct you — "actually, I'm not upset, I'm confused" — instead of having to defend against your projection.
+
+### The Habit That Changes Everything
+
+If you get in the habit of catching yourself when you state a story as fact — "they're an asshole" — and backtracking to "they occur to me as an asshole" — something shifts. Your [reticular activating system](../concepts/trauma-and-filters.md) starts flagging the difference between observation and interpretation in real time. You start sorting reality from fiction as a reflex, not an exercise.
+
+You don't have to stop having stories. You just have to stop treating them as truth before you've checked.
+
 ---
 
 ## Related
