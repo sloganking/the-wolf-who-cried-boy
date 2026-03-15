@@ -201,7 +201,7 @@ She said yes. She also said: "I'm going to bed in about fifteen minutes. No sex.
 
 Clear. Direct. Unambiguous.
 
-I heard something else entirely. Somewhere in my mind, her words became a tease — the opening move of a negotiation she didn't intend. A previous partner had trained me for this — someone who enjoyed making me unable to tell what was real. She'd tell me no and mean yes. She'd say she was leaving and want me to chase her. She'd lead me on, pull away, and watch me scramble. Her words never meant what they meant. My nervous system had learned a template — *when she says no, she means maybe* — and it was running that template now, on a completely different woman who meant exactly what she said.
+I heard something else entirely. Somewhere in my mind, her words became a tease — the opening move of a negotiation she didn't intend. A previous partner had trained me for this. She'd tell me no — and when I respected it, she'd tell me afterward that she was just teasing, that I should have pushed past it, that the moment was gone now. The only path to intimacy she ever offered was through boundaries she'd later reveal were fake. She was training me to distrust a woman's no by punishing me every time I honored one. My nervous system had learned a template — *when she says no, she means maybe* — and it was running that template now, on a completely different woman who meant exactly what she said.
 
 So we played. She was receptive. I was intense — primal, starving, taking every drop of nourishment I could get from fifteen minutes of human contact. And the whole time, some part of me believed she'd stay. That the connection would override her stated plan. That her body language was the truth and her words were the performance.
 
