@@ -84,7 +84,7 @@ And there's a way to do it that feels like being hit with a hammer. Where you're
 
 Both approaches deliver the same truth. Only one of them creates something good.
 
-The Inquisitor delivered truth too — "repent and save your soul." He was sincere. He cared. And his delivery method was torture. He believed the truth was important enough to justify any amount of pain in the delivery.
+The Inquisitor delivered what he saw as truth too — "repent and save your soul." He was sincere. He cared. And his delivery method was torture. He believed his truth was important enough to justify any amount of pain in the delivery.
 
 That's what happens when you care more about the truth being received than about the person receiving it.
 
@@ -95,6 +95,8 @@ That's what happens when you care more about the truth being received than about
 If someone wants help seeing clearly — if they're asking for it, leaning into it, ready to look at uncomfortable things — that's coaching. Challenge them. Push them. Show them what they're not seeing. That's a gift they asked for.
 
 If someone didn't ask, and you force truth on them anyway — because you can see their blindness and it bothers you, because you feel an urgency to fix them, because you know what's best — that's [rescue](./why-rescuers-are-dangerous.md). And rescue powered by clear sight is still rescue.
+
+And if the reason you're doing it is because *their* blindness makes *you* uncomfortable — then you're not telling them the truth for their sake. You're telling it for yours. That's not a selfless act of service. It's a selfish act dressed up as one.
 
 The difference between a coach and an Inquisitor isn't what they see. It's consent.
 
