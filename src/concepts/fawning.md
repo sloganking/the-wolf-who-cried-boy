@@ -372,6 +372,16 @@ This isn't pretty. It's not a three-step framework. It's just... how bodies lear
 
 Fawning lives in your body, not your intellect. You can understand perfectly well that you should say no—and watch yourself say yes anyway.
 
+### Why It's Harder Than It Looks
+
+Here's what most people don't realize: overcoming fawning isn't like learning a new skill. It's like learning to ride a [bicycle that steers in reverse](https://youtu.be/MFzDaBzBlL0) — where turning the handlebars left makes you go right, and turning right makes you go left.
+
+If you'd never ridden a bike before, learning the reverse version would just be learning to ride a bike. Hard, but straightforward. But you *have* ridden a bike. Your body has decades of practice doing it the normal way. Every nerve ending fires toward the old pattern. When pressure hits and you need to turn left, your entire nervous system screams *turn right* — because that's what's always worked.
+
+That's fawning. You're not starting from zero. You're starting from a lifetime of training in the opposite direction. Saying no when every neuron is firing toward yes isn't a failure of willpower. It's the difficulty of overriding a pattern that's been reinforced thousands of times.
+
+This is why it feels so impossible even when you understand it perfectly. And it's why you shouldn't shame yourself for failing at it. You're not weak. You're trying to ride the bike backwards. It *is* that hard. And with enough practice, you can retrain the pattern — but it takes longer and costs more than anyone who hasn't tried it would guess.
+
 What changes the pattern isn't insight. It's **experience**.
 
 ### Exposure Therapy for Fawning
