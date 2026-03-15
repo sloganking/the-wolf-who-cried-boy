@@ -66,6 +66,8 @@ If you've ever watched someone say something true and get rejected for it — no
 
 The biggest factor in whether someone accepts what you're offering isn't the offer. It's who's making it. This applies to truth as much as anything else. The same insight, delivered by someone they trust, would change their life. Delivered by someone who ignored their customs and dismissed what they care about, it gets rejected on sight.
 
+And here's the flip the truth-teller doesn't see: they think they're giving — offering something precious, sharing insight that could change lives. But when you disregard someone's customs while delivering your truth, what you're *showing* them is that your presence takes more than it gives. You're not demonstrating the value of what you have to say. You're demonstrating that interacting with you is a cost.
+
 [Goodness without wisdom always accomplishes evil.](./why-rescuers-are-dangerous.md) Truth without trust accomplishes nothing.
 
 ---
