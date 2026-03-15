@@ -4,7 +4,7 @@
 
 ---
 
-> **"You are right. Mike must learn human customs. He must take off his shoes in a mosque, wear his hat in a synagogue, and cover his nakedness where taboo requires. Or our shamans will burn him for deviationism. But child, by the myriad aspects of Ariman, don't brainwash him. Make sure he is cynical about it."**  
+> **"You are right. Mike must learn human customs. He must take off his shoes in a mosque, wear his hat in a synagogue, and cover his nakedness where taboo requires. Or our shamans will burn him for deviationism. But child, by the myriad aspects of Ahriman, don't brainwash him. Make sure he is cynical about it."**  
 > — _Stranger in a Strange Land_, Robert A. Heinlein
 
 ---
