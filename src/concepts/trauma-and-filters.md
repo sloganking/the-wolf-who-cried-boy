@@ -191,6 +191,42 @@ Here's the uncomfortable part: if you're watching Kent and thinking "I would nev
 
 Everyone has foundational beliefs. Including you. Including me. The question isn't whether you have them. The question is whether you've found them—and whether you've ever watched them override evidence standing right in front of you.
 
+### She Told Me Everything
+
+I have.
+
+I was at a BDSM retreat. Temple Night — people could play with each other sexually. I'd been wandering the space all night looking for connection and finding none. Every woman I was drawn to was busy. By the time I found someone willing to play with me, I was already on fire — not with desire, but with the survival-level terror that comes from carrying a story that says *I'm unlovable and no one will ever want me*. Every rejection that night had confirmed it. I wasn't looking for sex. I was looking for evidence that I deserved to exist.
+
+She said yes. She also said: "I'm going to bed in about fifteen minutes. No sex. But you can play with me until then."
+
+Clear. Direct. Unambiguous.
+
+I heard something else entirely. Somewhere in my mind, her words became a tease — the opening move of a negotiation she didn't intend. A previous partner had done exactly that: told me she wouldn't escalate, then escalated. My nervous system had learned a template — *when she says no, she means maybe* — and it was running that template now, on a completely different woman who meant exactly what she said.
+
+So we played. She was receptive. I was intense — primal, starving, taking every drop of nourishment I could get from fifteen minutes of human contact. And the whole time, some part of me believed she'd stay. That the connection would override her stated plan. That her body language was the truth and her words were the performance.
+
+Fifteen minutes later, she said: "Okay, I'm done. Going to sleep now." And she left.
+
+I sat there blank. Dissociated. My body knew I wasn't okay before my mind did — there were signals, a tightening I'd later learn to recognize as the warning before a panic attack. I didn't know how to read them yet. I didn't say what I needed, which was: *I'm not okay. Can you stay with me for a minute so I can come down?* I didn't have the insight or the language. She left, and within minutes I was in the bathroom, screaming at the top of my lungs, having the most violent panic attack of my life. Forty-five minutes. If you were in that hotel and didn't hear me, it's because you physically could not hear a human screaming from where I was.
+
+Here's what my filter did in that gap: it told me she had tricked me. That she'd offered connection she never intended to give. That she went out of her way to cause me pain. I felt betrayed. My inner child — the part of me that needed love the most and had received it for fifteen minutes before it was ripped away — made the meaning: *I'm not safe with her. I'm not safe with anyone. Nobody stays.*
+
+None of that was true. She did exactly what she said she would do.
+
+The next morning, I found her at breakfast and told her I'd gone red — that I'd had a terrible night after she left. She was surprised. "I told you I was going to bed," she said. Not defensive. Just genuinely confused. She had been clear.
+
+And something clicked. She *had* told me. She'd told me plainly, directly, with no ambiguity. I just hadn't believed her. My filter had rewritten her words into what my wound needed to hear.
+
+Months later, a different woman asked me directly what I wanted to do with her. I said almost nothing — because my filter told me that saying *I want you* would get me rejected. The same pattern. Women were literally telling me what they wanted, and I wasn't listening — not because I couldn't hear them, but because I was afraid their words meant something else.
+
+> ***"These women are literally telling me what they want and I'm just not listening. Out of fear their words mean something else."***
+>
+> — My journal, months after
+
+That's what a filter does. Someone can tell you the truth to your face — clearly, directly, with no ambiguity — and the story running underneath can rewrite every word before it reaches you. You don't experience yourself as filtering. You experience yourself as *seeing clearly.* You're certain she's teasing. You're certain she'll stay. You're certain her words don't mean what they mean.
+
+And you are wrong. And you don't know it. And you suffer for it.
+
 ### Before You Enter a Space
 
 Ask yourself honestly:
