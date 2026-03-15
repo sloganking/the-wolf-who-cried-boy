@@ -15,6 +15,18 @@ It's one of the four trauma responses:
 - **Freeze** — going still, shutting down
 - **Fawn** — people-pleasing, agreeing to avoid conflict
 
+### How Deep It Goes
+
+People hear "fawning" and think of politeness. Saying yes to avoid awkwardness. Going along with something you'd rather not.
+
+It goes deeper than that.
+
+In *Unbound*, Kasia Urbaniak describes a woman who didn't cry out while being raped — because she didn't want to embarrass the man. Her fawning response overrode her survival instinct. The part of her that was trained to manage other people's comfort was louder than the part screaming for help.
+
+That's fawning. Not politeness. A trauma response so deep it can override your body's most basic drive to protect itself.
+
+Everything in this chapter exists on a spectrum from "said yes when I meant no at a party" to that. Most fawning you'll encounter is on the milder end. But understanding the extreme is what makes you take the pattern seriously — in yourself and in others.
+
 ## The Two Victims Problem
 
 **When fawning happens, it creates TWO victims.**
