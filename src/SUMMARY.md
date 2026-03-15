@@ -80,11 +80,12 @@
 
 ---
 
-# Reference
+# Conclusion
 
-- [Example Scenarios](./examples.md)
-- [Quick Reference](./quick-reference.md)
+- [Conclusion](./conclusion.md)
 
 ---
 
-[Conclusion](./conclusion.md)
+# Reference
+
+- [Quick Reference](./quick-reference.md)
