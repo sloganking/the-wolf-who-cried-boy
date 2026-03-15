@@ -74,6 +74,12 @@
 
 ---
 
+# The Point of Sight
+
+- [What Clear Eyes Are For](./concepts/what-clear-eyes-are-for.md)
+
+---
+
 # Reference
 
 - [Example Scenarios](./examples.md)
