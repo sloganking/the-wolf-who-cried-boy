@@ -201,19 +201,19 @@ She said yes. She also said: "I'm going to bed in about fifteen minutes. No sex.
 
 Clear. Direct. Unambiguous.
 
-I heard something else entirely. Somewhere in my mind, her words became a tease — the opening move of a negotiation she didn't intend. A previous partner had done exactly that: told me she wouldn't escalate, then escalated. My nervous system had learned a template — *when she says no, she means maybe* — and it was running that template now, on a completely different woman who meant exactly what she said.
+I heard something else entirely. Somewhere in my mind, her words became a tease — the opening move of a negotiation she didn't intend. A previous partner had trained me for this — someone who enjoyed making me unable to tell what was real. She'd say she was going to bed, then reward me for pushing past it. She'd lead me on, pull away, and watch me scramble. Her words never meant what they meant. My nervous system had learned a template — *when she says no, she means maybe* — and it was running that template now, on a completely different woman who meant exactly what she said.
 
 So we played. She was receptive. I was intense — primal, starving, taking every drop of nourishment I could get from fifteen minutes of human contact. And the whole time, some part of me believed she'd stay. That the connection would override her stated plan. That her body language was the truth and her words were the performance.
 
 Fifteen minutes later, she said: "Okay, I'm done. Going to sleep now." And she left.
 
-I sat there blank. Dissociated. My body knew I wasn't okay before my mind did — there were signals, a tightening I'd later learn to recognize as the warning before a panic attack. I didn't know how to read them yet. I didn't say what I needed, which was: *I'm not okay. Can you stay with me for a minute so I can come down?* I didn't have the insight or the language. She left, and within minutes I was in the bathroom, screaming at the top of my lungs, having the most violent panic attack of my life. Forty-five minutes. If you were in that hotel and didn't hear me, it's because you physically could not hear a human screaming from where I was.
+I sat there blank. Dissociated. My body knew I wasn't okay before my mind did — there were signals, a tightening I'd later learn to recognize as the warning before a panic attack. I didn't know how to read them yet. I didn't say what I needed, which was: *I'm not okay. Can you stay with me for a minute so I can come down?* I didn't have the insight or the language. She left, and within minutes I was in the bathroom, screaming at the top of my lungs, having the most violent panic attack of my life. Forty-five minutes.
 
 Here's what my filter did in that gap: it told me she had tricked me. That she'd offered connection she never intended to give. That she went out of her way to cause me pain. I felt betrayed.
 
-My nervous system had been in survival mode all night. When she let me touch her — when her body received me — something in me finally relaxed. For fifteen minutes, my inner child felt safe. *Someone wants me. Someone stays.* My body started to let its guard down for the first time that night.
+My nervous system had been in survival mode all night. When she let me touch her — when her body received me — something in me finally relaxed. For fifteen minutes, I felt safe. *Someone wants me. Someone stays.* My body started to let its guard down for the first time that night.
 
-And then she left. And the terror didn't just return — it came back amplified. Because my nervous system had briefly believed it was safe, and then the safety was ripped away. The panic wasn't proportional to her leaving. It was proportional to the distance between *finally safe* and *not safe again.* My inner child made the meaning: *I'm not safe with her. I'm not safe with anyone. Nobody stays.*
+And then she left. And the terror didn't just return — it came back amplified. Because my nervous system had briefly believed it was safe, and then the safety was ripped away. The panic wasn't proportional to her leaving. It was proportional to the distance between *finally safe* and *not safe again.* The meaning I made: *I'm not safe with her. I'm not safe with anyone. Nobody stays.*
 
 None of that was true. She did exactly what she said she would do.
 
@@ -221,7 +221,7 @@ The next morning, I found her at breakfast and told her I'd had a panic attack a
 
 And something clicked. She *had* told me. She'd told me plainly, directly, with no ambiguity. I just hadn't believed her. My filter had rewritten her words into what my wound needed to hear.
 
-Months later, a different woman asked me directly what I wanted to do with her. I said almost nothing — because my filter told me that saying *I want you* would get me rejected. The same pattern. Women were literally telling me what they wanted, and I wasn't listening — not because I couldn't hear them, but because I was afraid their words meant something else.
+Months later, I saw the same filter running in the other direction. A different woman asked me directly what I wanted to do with her. I said almost nothing — because my filter told me that saying *I want you* would get me rejected. She was telling me to speak. I couldn't hear that either. Same filter, opposite situation: with one woman, *no* became *maybe*. With another, *tell me what you want* became *don't you dare.*
 
 > ***"These women are literally telling me what they want and I'm just not listening. Out of fear their words mean something else."***
 >
