@@ -382,9 +382,9 @@ That's fawning. You're not starting from zero. You're starting from a lifetime o
 
 This is why it feels so impossible even when you understand it perfectly. You're not weak. You're trying to ride the bike backwards. It *is* that hard.
 
-But here's what's also true: if someone handed you a backwards bicycle, you'd believe you could eventually learn to ride it. It would take longer than learning a normal bike. You'd fall a lot. But you'd know — in your bones — that it's possible. Because it's still a bike. The mechanics haven't changed. Just the direction.
+But it's still a bike. The mechanics haven't changed. Just the direction. The guy in the video falls for eight months straight — and then one day, his brain clicks over, and he rides it like he's always known how. The old pattern doesn't disappear. The new one just gets strong enough to override it.
 
-Fawning is the same. The pattern can be retrained. It takes longer and costs more than anyone who hasn't tried it would guess. But you can learn to say no the same way you'd learn to steer in reverse — through practice, through failure, through your body slowly catching up to what your mind already knows.
+Fawning is the same. It takes longer and costs more than anyone who hasn't tried it would guess. But the pattern can be retrained — through practice, through failure, through your body slowly catching up to what your mind already knows.
 
 What changes the pattern isn't insight. It's **experience**.
 
