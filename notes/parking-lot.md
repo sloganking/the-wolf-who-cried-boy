@@ -42,6 +42,18 @@ When you make a mistake—even a good-faith one, even if you're not malicious—
 
 **Why deferred:** The current framework covers repair and making it right, but doesn't explicitly address trust as its own dynamic. Worth developing when the core pages are solid.
 
+### "They Sounded Just Like My Side"
+
+A woman in Veritasium's video attended Zoom meetings of the opposing political party and discovered they sounded just like her own side. Same patterns, same certainty, same fear, same righteousness — just pointed at different targets.
+
+> **"I attended Zoom meetings in the opposite party, and it was kind of scary because they sounded just like my side."**
+
+Source: [Veritasium](https://youtu.be/zB_OApdxcno?si=aJf15w2ahGgGT-pz&t=612) (already referenced in body-stories.md under sexist politics)
+
+**Why deferred:** The conclusion already states the principle ("Political division is good people in different reference frames"). This quote illustrates it viscerally but by that point in the book the reader likely already gets it. Could be 10x in a future Book 2 that goes after live-wire political beliefs directly.
+
+---
+
 (Add ideas here as they come up)
 
 ---
