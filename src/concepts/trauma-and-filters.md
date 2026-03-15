@@ -217,7 +217,7 @@ And then she left. And the terror didn't just return — it came back amplified.
 
 None of that was true. She did exactly what she said she would do.
 
-The next morning, I found her at breakfast and told her I'd gone red — that I'd had a terrible night after she left. She was surprised. "I told you I was going to bed," she said. Not defensive. Just genuinely confused. She had been clear.
+The next morning, I found her at breakfast and told her I'd had a panic attack after she left. She was surprised. "I told you I was going to bed," she said. Not defensive. Just genuinely confused. She had been clear.
 
 And something clicked. She *had* told me. She'd told me plainly, directly, with no ambiguity. I just hadn't believed her. My filter had rewritten her words into what my wound needed to hear.
 
