@@ -64,6 +64,8 @@ Even if what you're saying would change their lives.
 
 If you've ever watched someone say something true and get rejected for it — not because the content was wrong, but because they hadn't earned the right to say it yet — you've seen this pattern. The truth didn't fail. The delivery did. And the delivery failed because trust wasn't there.
 
+The biggest factor in whether someone accepts what you're offering isn't the offer. It's who's making it. This applies to truth as much as anything else. The same insight, delivered by someone they trust, would change their life. Delivered by someone who ignored their customs and dismissed what they care about, it gets rejected on sight.
+
 [Goodness without wisdom accomplishes evil.](./why-rescuers-are-dangerous.md) Truth without trust accomplishes nothing.
 
 ---
