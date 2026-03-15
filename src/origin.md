@@ -26,7 +26,7 @@ I didn't learn resilience like my father intended the beatings to teach. The sto
 
 ---
 
-## What It Did to Me
+## The Dream I Lived In
 
 I felt small. Helpless. Terrified of a world that seemed designed to crush me.
 
