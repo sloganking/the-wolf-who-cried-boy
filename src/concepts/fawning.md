@@ -398,23 +398,21 @@ The same principle that works for phobias works for fawning:
 
 You don't think your way out of trauma responses. You **live** your way out—by having the experience enough times that your nervous system learns a new pattern.
 
-### A Workshop Idea
+### Why Practice in a Container, Not in the Wild
 
-Imagine a controlled environment where fawners can practice:
+When you practice overriding fawning in real life, the stakes are real. If you don't speak up, nobody checks in. You might sit through an hour of something you didn't want, and your body walks away with *more* fear in those situations, not less. The experience reinforces the old pattern instead of breaking it. You needed to say no and you didn't, and now your nervous system has one more data point that says *I can't protect myself.*
+
+A structured workshop changes the math:
 
 1. Someone does something slightly uncomfortable (pre-negotiated, consensual)
 2. The fawner notices their automatic "yes" impulse
-3. They let the discomfort build—_waiting_ for anger to arise
+3. They let the discomfort build — _waiting_ for anger to arise
 4. When they feel genuinely pissed off, they practice saying **"No. Stop."**
 5. The exercise ends with boundary-setting, not fawning
 
-Safety considerations:
+The people around you know you have a tendency to fawn. Everyone is there to support you. If you haven't said no within about a minute, someone checks in — the worst case is you don't break the pattern this time, and you get care and support instead of consequences. After that, you can go back in and try again, or you can say "I'm done for today" — which is itself a completion of the pattern. Saying *I'm not feeling it* instead of going along with the workshop is a no. It counts.
 
-- Set a time limit (60 seconds or so)
-- If they haven't said no by then, check in—they're fawning and need support
-- The goal isn't to traumatize; it's to practice the _completion_ of the pattern
-
-The difference from real life: in the workshop, you're _guaranteed_ to reach the boundary-setting moment. In real life, fawners often leave before they get angry enough—and the pattern never completes.
+The difference from real life: in a container, you're guaranteed to reach the boundary-setting moment one way or another — either inside the exercise or by choosing to stop. In real life, fawners often endure the full experience, never reach the boundary, and leave more afraid than they arrived.
 
 ### The Counterintuitive Advice
 
