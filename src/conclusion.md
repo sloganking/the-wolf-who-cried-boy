@@ -134,7 +134,7 @@ That's why this work is hard to do alone.
 
 If you read this book and thought *"I want someone to find my strings"*—if you want help seeing the specific patterns that are shaping your relationships, your reactions, and your life in ways you can't see yourself—I do this work personally.
 
-If you run an organization — a retreat center, a play space, a facilitation team — and you want my eyes on your containers, I do that too. Whether that's building safety protocols, analyzing a crisis in progress, or having someone on call who sees clearly when things get complicated.
+If you run an organization — a retreat center, a play space, a facilitation team, a company, any team where humans interact under pressure — and you want my eyes on your dynamics, I do that too. These patterns don't stay in the temple. They show up in every room where people have power, make decisions, and cause harm without seeing it. Whether that's building safety protocols, navigating a crisis in progress, or having someone on call who sees clearly when things get complicated.
 
 Reach out: [sloganking.github.io/coaching](https://sloganking.github.io/coaching/)
 
