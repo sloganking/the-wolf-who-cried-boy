@@ -6,6 +6,14 @@ You read "The Wolf Who Cried Boy" and your brain goes: *what the fuck does that 
 
 That confusion is the point. Subconsciously, you're already thinking: *I might have to read the book to find out.* And that impulse — the need to check before you decide — is the entire thesis of the book. The title teaches the lesson before page one.
 
+## The Title Is a Reverse Bicycle
+
+You've said "The Boy Who Cried Wolf" your whole life. It's automatic. So when you say the title of this book — "The Wolf Who Cried Boy" — you keep slipping. You start to say "The Boy Who—" and have to correct yourself. *Wait. The Wolf. Who Cried. Boy.*
+
+The title literally makes you do the thing the book teaches. You have to override a pattern you've run thousands of times. You have to massage something you've done so commonly into something else. That's the backwards bicycle: every nerve ending fires toward the familiar phrase, and you have to steer in reverse.
+
+The title isn't just a clever flip. It's practice. Every time you say it right, you're retraining the pattern. The book's central metaphor — that changing automatic responses is harder than learning something new, because you're fighting an existing program — is embedded in the act of saying its own name.
+
 ## Multiple Valid Interpretations
 
 The title works like a Rorschach test. There are at least three valid interpretations, all of which support the book's thesis:
