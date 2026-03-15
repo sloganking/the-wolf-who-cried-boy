@@ -209,7 +209,11 @@ Fifteen minutes later, she said: "Okay, I'm done. Going to sleep now." And she l
 
 I sat there blank. Dissociated. My body knew I wasn't okay before my mind did — there were signals, a tightening I'd later learn to recognize as the warning before a panic attack. I didn't know how to read them yet. I didn't say what I needed, which was: *I'm not okay. Can you stay with me for a minute so I can come down?* I didn't have the insight or the language. She left, and within minutes I was in the bathroom, screaming at the top of my lungs, having the most violent panic attack of my life. Forty-five minutes. If you were in that hotel and didn't hear me, it's because you physically could not hear a human screaming from where I was.
 
-Here's what my filter did in that gap: it told me she had tricked me. That she'd offered connection she never intended to give. That she went out of her way to cause me pain. I felt betrayed. My inner child — the part of me that needed love the most and had received it for fifteen minutes before it was ripped away — made the meaning: *I'm not safe with her. I'm not safe with anyone. Nobody stays.*
+Here's what my filter did in that gap: it told me she had tricked me. That she'd offered connection she never intended to give. That she went out of her way to cause me pain. I felt betrayed.
+
+My nervous system had been in survival mode all night. When she let me touch her — when her body received me — something in me finally relaxed. For fifteen minutes, my inner child felt safe. *Someone wants me. Someone stays.* My body started to let its guard down for the first time that night.
+
+And then she left. And the terror didn't just return — it came back amplified. Because my nervous system had briefly believed it was safe, and then the safety was ripped away. The panic wasn't proportional to her leaving. It was proportional to the distance between *finally safe* and *not safe again.* My inner child made the meaning: *I'm not safe with her. I'm not safe with anyone. Nobody stays.*
 
 None of that was true. She did exactly what she said she would do.
 
