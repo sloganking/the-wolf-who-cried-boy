@@ -54,6 +54,22 @@ Source: [Veritasium](https://youtu.be/zB_OApdxcno?si=aJf15w2ahGgGT-pz&t=612) (al
 
 ---
 
+### "Where Am I?" — Intentionally Inducing Uncertainty
+
+A personal tool for resetting your RAS by questioning the fundamental assumptions of your current situation. Asking "where am I?" shakes up your filters and lets you see possibilities that were always there but hidden by habitual perception.
+
+**How it works:** Like shaking a jar of marbles — same elements, new configuration. You look at everything around you with fresh eyes and suddenly see things you were blind to.
+
+**Examples:**
+- At a Tony Robbins Platinum retreat, not realizing a hypnotist who could change his life was sitting next to him, or that a rock band member who'd become a close friend was right there
+- Asking "where is my future wife?" and realizing the answer might be "50 feet away" — breaking the assumption that connection is years away
+
+**Potential book application:** In a mob/anger moment — "I'm at a play party with people I love. I'm about to destroy someone's reputation. Where am I actually?" Could help someone step back and reassess their entire frame, not just their interpretation of one event.
+
+**Why deferred:** The book already has multiple pause-and-check tools (Notice Feel Story, Don't Act From Fear, the Brown/Red exercise). Adding another risks dilution. Better suited for the coaching page as a signature tool, or a future book.
+
+---
+
 (Add ideas here as they come up)
 
 ---
