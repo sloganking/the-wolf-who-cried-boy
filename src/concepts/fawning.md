@@ -380,7 +380,11 @@ If you'd never ridden a bike before, learning the reverse version would just be 
 
 That's fawning. You're not starting from zero. You're starting from a lifetime of training in the opposite direction. Saying no when every neuron is firing toward yes isn't a failure of willpower. It's the difficulty of overriding a pattern that's been reinforced thousands of times.
 
-This is why it feels so impossible even when you understand it perfectly. And it's why you shouldn't shame yourself for failing at it. You're not weak. You're trying to ride the bike backwards. It *is* that hard. And with enough practice, you can retrain the pattern — but it takes longer and costs more than anyone who hasn't tried it would guess.
+This is why it feels so impossible even when you understand it perfectly. You're not weak. You're trying to ride the bike backwards. It *is* that hard.
+
+But here's what's also true: if someone handed you a backwards bicycle, you'd believe you could eventually learn to ride it. It would take longer than learning a normal bike. You'd fall a lot. But you'd know — in your bones — that it's possible. Because it's still a bike. The mechanics haven't changed. Just the direction.
+
+Fawning is the same. The pattern can be retrained. It takes longer and costs more than anyone who hasn't tried it would guess. But you can learn to say no the same way you'd learn to steer in reverse — through practice, through failure, through your body slowly catching up to what your mind already knows.
 
 What changes the pattern isn't insight. It's **experience**.
 
