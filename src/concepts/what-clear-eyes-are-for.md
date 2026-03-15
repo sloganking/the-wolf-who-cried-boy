@@ -53,9 +53,6 @@ The person who walks into a community and dismisses their norms — even norms b
 
 ## Nobody Wants Truth from Someone Who Ignores Their Customs
 
-> **"If Mike had given them something big — like stereo or bingo. But he gave them the truth, or a piece of the truth. And who is interested in truth?"**  
-> — _Stranger in a Strange Land_, Robert A. Heinlein
-
 When you walk into a room with truth and no trust, nobody listens.
 
 It doesn't matter how right you are. If you haven't established rapport — if you haven't shown them that you respect what they care about, that you're on their side, that you understand their world — your truth is just noise. You're the outsider who showed up, ignored their customs, and started telling them what they should believe.
