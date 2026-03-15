@@ -118,7 +118,7 @@ Follow the customs. Build trust. Enjoy the people around you — even the ones r
 
 Not everyone wants to wake up. Not everyone needs to. And the people who are happy inside a story that isn't hurting anyone? Their happiness isn't less real because you can see the mechanism underneath it.
 
-You might take a sadistic pleasure in being right about what you see. But it comes with pain — the pain of isolation, of being the person nobody wants around, of having truth and no one to share it with. That's not wisdom. That's loneliness with a vocabulary.
+You might take a pleasure in seeing through everyone's stories — in being the one who's right while everyone else is blind. But if that sight comes at the cost of dismissing their customs, correcting their beliefs, and refusing to meet them where they are, it comes with pain — the pain of isolation, of being the person nobody wants around, of having truth and no one to share it with. That's not wisdom. That's loneliness with a vocabulary.
 
 Wisdom isn't seeing through everything. Wisdom is knowing when seeing through it matters — and when it doesn't.
 
