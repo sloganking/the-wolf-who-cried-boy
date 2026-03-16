@@ -124,13 +124,17 @@ That's how you make it right when you can't make it right directly. The debt doe
 
 ## Allowing Repair
 
-If you're the one who was harmed:
+**Repair is a privilege you grant, not an obligation you owe.** If someone harmed you and you can't think of any way they could add value to your life — if every path to repair would just take more from you — you're not obligated to offer one. Your power here is the power to choose. If there's nothing they could do that would feel good to you, don't manufacture a way for their sake. That's fawning. If they genuinely want to make things right and you've closed the door, the path that remains for them is to [pay it forward](#if-you-cant-pay-it-back-pay-it-forward) — to take what they learned and make the world better with it instead of you.
 
-- Can you allow the person to make it right?
-- Or are you more invested in punishment?
-- What would actually help you heal?
+But if there *is* something — something real, something that would actually put a smile on your face — then offering it is one of the most powerful things you can do. You're showing your body that you have control over the outcome. You're turning something that was done *to* you into something you're creating *from* it.
 
-Sometimes people want revenge more than repair. That's a choice—but it's not resolution.
+If you're the one who was harmed, ask yourself:
+
+- Is there something they could do that would genuinely feel good?
+- Or am I more invested in punishment?
+- What would actually help me heal?
+
+Sometimes people want revenge more than repair. That's a choice — but it's not resolution.
 
 ### Ask for What You Actually Want
 
