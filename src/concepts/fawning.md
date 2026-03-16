@@ -460,17 +460,19 @@ The fawner who can't say no and the reverse fawner who can't say yes are riding 
 
 ### You Need Rooms Where the Clothes Come Off
 
-[Dressing for the room](./what-clear-eyes-are-for.md#trust-doesnt-care-whos-correct) is wisdom. But if you never find a room where the clothes come off — where you can express your full self, your desires, your nakedness without performing or hiding — the dressing becomes its own cage.
+The reverse fawner's problem isn't just that they can't say yes in a single moment. It's what that costs over a lifetime. Every desire you can't express, every need you can't voice, every part of yourself you've learned to hide — think of those as your nakedness. And think of the performance you put on to conceal them as your clothes.
 
-Some people have been dressing so long they've forgotten they have skin underneath. They've spent years in conservative religion, or a family where desire was shameful, or a culture that punished sexuality — and the dressing became permanent. The opportunity to be free comes around and they can't take it. Decades of "this part of me is wrong" trained their body to say no when it means yes.
+Some people have been dressed so long they've forgotten they have skin underneath. Years in conservative religion, or a family where desire was shameful, or a culture that punished sexuality — and the clothes became permanent. Not a costume. An identity. The opportunity to be free comes around and they can't take it. Decades of "this part of me is wrong" trained their body to say no when it means yes.
 
-That's reverse fawning calcified into identity.
+That's reverse fawning calcified into identity. And the cost is starvation — years of unmet needs, untouched skin, desires that never got voiced, love that was available but couldn't be received.
 
-And when someone who's been dressed their whole life discovers they can take the clothes off, the pendulum often swings hard. They try to be naked everywhere — slowly stripping in every room, because they just figured out it's *possible* and they desperately want to be seen and accepted for who they actually are. They've been hiding so long that freedom feels urgent. Every room looks like an opportunity. So the clothes start coming off — in rooms that aren't built for it. Rooms with dress codes. And they get attacked. Not because their nakedness is wrong, but because they put it somewhere it wasn't welcome.
+When someone who's been dressed their whole life discovers they can take the clothes off, the pendulum often swings hard. They try to be naked everywhere — slowly stripping in every room, because they just figured out it's *possible* and they desperately want to be seen and accepted for who they actually are. They've been hiding so long that freedom feels urgent. Every room looks like an opportunity. So the clothes start coming off — in rooms that aren't built for it. Rooms with dress codes. And they get attacked. Not because their nakedness is wrong, but because they put it somewhere it wasn't welcome.
 
 Now they're panicking. *They're going to find out who I am and reject me.* But that panic isn't coming from the rooms — it's coming from the strategy. If you're smuggling your nakedness into every space, the attacks aren't random. They're predictable.
 
-You need rooms where you can be naked. Regularly. Not every room — that's the person who walks into the mosque with their shoes on and calls it authenticity. But enough rooms that the clothes stay a choice, not a prison. Enough rooms that your yes still works when someone invites you to use it.
+The answer isn't to put the clothes back on permanently. And it isn't to keep stripping in every room and hoping for a different result. It's to [dress for the room you're in](./what-clear-eyes-are-for.md#trust-doesnt-care-whos-correct) — and make sure some of your rooms have no dress code.
+
+You need rooms where you can be naked. Regularly. Not every room. But enough rooms that the clothes stay a choice, not a prison. Enough rooms that your yes still works when someone invites you to use it.
 
 The person who dresses for the room *and* has rooms with no dress code doesn't panic. They can handle any environment because they trust themselves to dress appropriately — and they know the clothes come off later, somewhere safe. The dressing stops being a threat to their identity. It becomes a choice they make from freedom, not from fear.
 
