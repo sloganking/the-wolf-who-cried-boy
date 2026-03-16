@@ -51,11 +51,11 @@ Fawning under threat is not a real apology. And everything you say while fawning
 
 You can acknowledge your actual mistake without accepting their distorted story about who you are.
 
-> "I understand that what happened affected you, and I take responsibility for my part. But I'm not available for being called a predator. That's not what happened, and I won't agree to it."
+> "I understand that what happened affected you, and I take responsibility for my part. But I'm not available for being called names or having my character attacked. That's not what happened, and I won't agree to it."
 
 ### Set Boundaries About How You're Spoken To
 
-You don't have to stand there and absorb abuse.
+You don't have to stand there and absorb someone's rage.
 
 > "I'm open to having a conversation about what happened when you're ready to speak to me with respect. Until then, I'm not available for this."
 
