@@ -17,9 +17,9 @@ It's one of the four trauma responses:
 - **Freeze** — going still, shutting down
 - **Fawn** — people-pleasing, agreeing to avoid conflict
 
-In play spaces, the classic version is someone who goes along with touch they don't want. The reverse is just as common: someone is asked directly *what do you want?* and they freeze. They can't say it. She's standing in front of him, open, inviting, asking plainly — and every nerve in his body is screaming that expressing desire will get him labeled a predator, a creep, something dangerous. So he says nothing. Or he says "I don't know." Or he deflects. Not because he doesn't want her. Because wanting her feels like the most dangerous thing he could admit.
+In play spaces, the classic version is someone who goes along with touch they don't want. The **reverse fawning** is just as common: someone is asked directly *what do you want?* and they can't say it. She's standing in front of him, open, inviting, asking plainly — and he says "no" or "I'm fine" or "I don't need anything." Not because he doesn't want her. He wants her desperately. But his body does the opposite of what he wants — because every nerve is screaming that expressing desire will get him labeled a predator, a creep, something dangerous. It looks like a choice. It's not. It's the same automatic override that makes a fawner say yes when they mean no — except here, he says no when he means yes.
 
-The culture trained him for this. Years of signals — don't express sexuality, don't show desire, don't be too forward, don't be a creep — until the pattern is so deep that even when a woman is explicitly inviting him to speak, he can't. The invitation doesn't override the training. Every nerve steers him into silence.
+The culture trained him for this. Years of signals — don't express sexuality, don't show desire, don't be too forward, don't be a creep — until the pattern is so deep that even when a woman is explicitly inviting him to speak, he can't. The invitation doesn't override the training. Every nerve steers him into the opposite of what he wants.
 
 ### How Deep It Goes
 
