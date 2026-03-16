@@ -28,7 +28,7 @@ The people most dedicated to "love and transformation" are often the most stuck 
 
 If they dropped the frame — if they stopped seeing enemies and started seeing confused humans who want to do good while operating on harmful beliefs — they could enroll the very people they currently oppose. Not by punishing them into compliance, but by understanding what they believe and why, and showing them a way to get what they actually want that works for everyone. That's infinitely more powerful than moralizing. But it would require seeing through the story their entire identity is built on. And that's the hardest thing there is.
 
-> **"No one was ever made good by being told he or she is bad."**
+> **"No one was ever made good by being informed he or she was bad."**
 >
 > — _Nathaniel Branden, The Six Pillars of Self-Esteem_
 
