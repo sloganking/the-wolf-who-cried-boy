@@ -19,7 +19,7 @@ It's one of the four trauma responses:
 
 In play spaces, the classic version is someone who goes along with touch they don't want. The reverse is just as common: someone is asked directly *what do you want?* and they freeze. They can't say it. She's standing in front of him, open, inviting, asking plainly — and every nerve in his body is screaming that expressing desire will get him labeled a predator, a creep, something dangerous. So he says nothing. Or he says "I don't know." Or he deflects. Not because he doesn't want her. Because wanting her feels like the most dangerous thing he could admit.
 
-The culture trained him for this. Years of signals — don't express sexuality, don't show desire, don't be too forward, don't be a creep — until the pattern is so deep that even when a woman is explicitly inviting him to speak, he can't. The invitation doesn't override the training. The backwards bike steers him into silence every time.
+The culture trained him for this. Years of signals — don't express sexuality, don't show desire, don't be too forward, don't be a creep — until the pattern is so deep that even when a woman is explicitly inviting him to speak, he can't. The invitation doesn't override the training. Every nerve steers him into silence.
 
 ### How Deep It Goes
 
