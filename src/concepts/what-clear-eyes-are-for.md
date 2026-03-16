@@ -47,6 +47,8 @@ And you still need to take off your shoes.
 
 Following a custom you see through isn't submission. It isn't brainwashing. It's the recognition that trust is built in the space between "I see what this is" and "I respect it anyway."
 
+This can hurt. If you've just seen through a belief that kept you small — body shame, sexual shame, the story that your desires are wrong — putting your shoes back on can feel like betrayal. Like you just discovered you're allowed to be free, and now you're being asked to hide again. That feeling is real. But it's meaning-making, not reality. Nobody is rejecting you. You're being asked to dress for the room you're in — not to forget what you saw when you were free.
+
 The person who walks into a community and dismisses their norms — even norms built on imperfect beliefs — isn't demonstrating superior sight. They're demonstrating that they don't understand what sight is *for*.
 
 ---
@@ -140,6 +142,8 @@ For navigating the world with enough clarity to build trust with people who see 
 For taking off your shoes in the mosque — not because you believe the floor is sacred, but because you understand that the people who do believe it are your people, and honoring what they care about is how you earn the right to be heard if you ever have something worth saying.
 
 Be cynical about it. But take off your shoes.
+
+And never stop checking for your own walls. You have filters you haven't found yet — ones that don't feel like filters, that just feel like the way things are. You will always have them. The goal was never to escape every box. It's to keep looking for the edges of the one you're in. The moment you stop looking is the moment the box shrinks back around you and you don't even notice.
 
 ---
 
