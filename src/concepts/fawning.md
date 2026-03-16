@@ -8,8 +8,6 @@
 
 Fawning is a trauma response where someone says "yes" when they mean "no."
 
-But it also runs in reverse: staying silent when you mean *yes.* Not being able to express desire, claim what you want, or say "I want this" — because your nervous system treats honesty as a threat. The fawner who can't say no and the person who can't say yes are running the same pattern. Both are overriding their own truth to manage someone else's anticipated reaction.
-
 It's one of the four trauma responses:
 
 - **Fight** — aggression, pushing back
@@ -17,15 +15,11 @@ It's one of the four trauma responses:
 - **Freeze** — going still, shutting down
 - **Fawn** — people-pleasing, agreeing to avoid conflict
 
-In play spaces, the classic version is someone who goes along with touch they don't want. The **reverse fawning** is just as common: someone is asked directly *what do you want?* and they can't say it. She's standing in front of him, open, inviting, asking plainly — and he says "no" or "I'm fine" or "I don't need anything." Not because he doesn't want her. He wants her desperately. But his body does the opposite of what he wants — because every nerve is screaming that expressing desire will get him labeled a predator, a creep, something dangerous. It looks like a choice. It's not. It's the same automatic override that makes a fawner say yes when they mean no — except here, he says no when he means yes.
-
-The culture trained him for this. Years of signals — don't express sexuality, don't show desire, don't be too forward, don't be a creep — until the pattern is so deep that even when a woman is explicitly inviting him to speak, he can't. The invitation doesn't override the training. Every nerve steers him into the opposite of what he wants.
-
 ### How Deep It Goes
 
 People hear "fawning" and think of politeness. Saying yes to avoid awkwardness. Going along with something you'd rather not.
 
-It goes deeper than that — in both directions.
+It goes deeper than that.
 
 In *Unbound: A Woman's Guide to Power*, Kasia Urbaniak describes a woman who didn't cry out while being raped — because she didn't want to embarrass the man. Her fawning response overrode her survival instinct. The part of her that was trained to manage other people's comfort was louder than the part screaming for help.
 
@@ -449,6 +443,18 @@ You'll feel the familiar icky sensation of someone pushing past your boundaries,
 And saying no will feel easier than fawning.
 
 That's the graduation. And you can only get there by going through.
+
+### Fawning Can Happen in Reverse
+
+Everything above describes the classic pattern: saying yes when you mean no. But the same mechanism runs in the opposite direction — and in play spaces, it's just as common.
+
+**Reverse fawning** is saying no when you mean yes. Not being able to express desire, claim what you want, or say *I want this* — because your nervous system treats honesty as a threat.
+
+In play spaces, it looks like this: she's standing in front of him, open, inviting, asking plainly — *what do you want?* — and he says "no" or "I'm fine" or "I don't need anything." Not because he doesn't want her. He wants her desperately. But his body does the opposite of what he wants — because every nerve is screaming that expressing desire will get him labeled a predator, a creep, something dangerous. It looks like a choice. It's not. It's the same automatic override that makes a fawner say yes when they mean no — except here, he says no when he means yes.
+
+The culture trained him for this. Years of signals — don't express sexuality, don't show desire, don't be too forward, don't be a creep — until the pattern is so deep that even when a woman is explicitly inviting him to speak, he can't. The invitation doesn't override the training. Every nerve steers him into the opposite of what he wants.
+
+The fawner who can't say no and the reverse fawner who can't say yes are riding the same backwards bike. Both are overriding their own truth to manage someone else's anticipated reaction. Both suffer for it. And both need the same thing to change: not insight, but experience — saying what they actually mean, in a space safe enough to survive it, enough times that the new pattern overrides the old one.
 
 ## The Gift of No
 
