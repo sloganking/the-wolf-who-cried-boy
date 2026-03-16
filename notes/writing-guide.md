@@ -139,6 +139,16 @@ Be the wizard. Show them the crystal. Let the magic speak for itself.
 
 ---
 
+## Anti-Patterns
+
+### Don't Recommend Therapists as a Default
+
+Telling readers to "find a therapist" is a cop-out. It decreases the book's authority and continues the standard narrative that therapy is the answer to emotional pain — when two-thirds of depression patients show zero improvement from therapy. The book has built a complete framework. Don't defer to someone else's authority when you've already done the work.
+
+Therapists can be mentioned as a tool — a small tool for specific, narrow problems. But the book's frameworks (responsibility, filters, repair, The Way Out) are the primary answer. Never end a section with "go see a therapist" as if that's the solution the book couldn't provide.
+
+---
+
 ## Checklist Before Finalizing Content
 
 - [ ] No moralizing language or character labels
