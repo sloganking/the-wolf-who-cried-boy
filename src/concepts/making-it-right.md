@@ -130,7 +130,7 @@ But before you decide there's nothing they could do — slow down.
 
 Most people's first reaction is *fuck them.* They're angry. They don't want to offer anything. And when they try to think of what the other person could do to make it right, their mind comes up blank. "There's nothing they could do."
 
-That's not actually true. What's happening is faster than you realize: an idea enters your mind — something they could do that would genuinely make you feel good — and before it even reaches your conscious awareness, some part of you shoots it down. *That's too big. I can't ask for that. They'd never do it. I shouldn't want that.* The idea never fully forms. It gets killed in the gap between your subconscious and your conscious mind. And you're left staring at an empty list, convinced nothing exists.
+That's not actually true. What's happening is faster than you realize: an idea enters your mind — something they could do that would genuinely make you feel good — and before it even reaches your conscious awareness, some part of you shoots it down. *That's too big. I can't ask for that. That would be unreasonable. They'd never do it. I shouldn't want that.* The idea never fully forms. It gets killed in the gap between your subconscious and your conscious mind. And you're left staring at an empty list, convinced nothing exists.
 
 Things exist. You're just dismissing them before you see them.
 
@@ -146,7 +146,7 @@ If you're the one who was harmed, ask yourself:
 - Or am I more invested in punishment?
 - What would actually help me heal?
 
-Sometimes people want revenge more than repair. That's a choice — but it's not resolution. And it leaves you with nothing except the satisfaction of watching them suffer, which fades faster than you'd think.
+Sometimes people want revenge more than repair. That's a choice — but it's not resolution. Revenge might feel good for a moment, but it doesn't make you whole. You're still in the negative. You were wronged, you're not any better off, and the brief satisfaction of watching them suffer doesn't fill the gap. You could have turned this into a net positive — something where you ended up with more than you started with. Instead, you're exactly where you were, minus the energy you spent on punishment.
 
 ### Ask for What You Actually Want
 
