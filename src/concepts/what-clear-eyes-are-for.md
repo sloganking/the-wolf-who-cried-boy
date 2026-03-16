@@ -143,6 +143,8 @@ For taking off your shoes in the mosque — not because you believe the floor is
 
 See through it. And take off your shoes anyway.
 
+*Did you remember to dress?*
+
 ---
 
 **Next:** [Conclusion](../conclusion.md)
