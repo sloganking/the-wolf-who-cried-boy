@@ -14,7 +14,7 @@ Being wronged in these spaces takes different forms, and they all deserve to be 
 
 - **Someone made an unconscious mistake against you.** They crossed a boundary accidentally, moved too fast, didn't check in when they should have. It wasn't malicious — but it still hurt. This is what [repair](./making-it-right.md) is for. This is where [asking for what you actually want](./making-it-right.md#ask-for-what-you-actually-want) matters most.
 
-- **Someone deliberately harmed you.** Manipulation, exploitation, conscious deception — a [selfish predator](./why-rescuers-are-dangerous.md) who knowingly used you. This is the rarest form of harm in these spaces, but it's real. If this happened to you, everything in this book still applies — responsibility, filters, repair — and [The Way Out](#the-way-out) will be especially important for you. The harm was bigger. The responsibility practice is the same. And it still leads to power.
+- **Someone deliberately harmed you.** Manipulation, exploitation, conscious deception — a [selfish predator](./why-rescuers-are-dangerous.md) who knowingly used you. This is the rarest form of harm in these spaces, but it's real. If this happened to you, everything in this book still applies — responsibility, filters, repair — and [The Way Out](#the-way-out) will be especially important for you. The harm was bigger. The responsibility practice is the same. And it still leads to power. If the person who harmed you wants to make it right, you have the power to [give them a way to win](./making-it-right.md#give-them-a-way-to-win) — or not. That's your call, not theirs.
 
 All of these are real. All of them hurt. And most of the guidance that exists focuses on preventing harm — not on what to do when you're the one living through it.
 
