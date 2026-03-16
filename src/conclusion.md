@@ -106,7 +106,7 @@ I wrote this book because I've been on all sides.
 
 I've been [harmed by a Rescuer who loved me](./origin.md). I've lived in the victim dream for decades. I've felt the pull toward becoming the harm myself. And I've [crawled out](./origin.md#waking-up).
 
-I'm not asking you to be perfect. I'm not asking you to never make mistakes. Mistakes are how we learn—that's the whole point of [responsible play](./concepts/i-made-a-mistake.md).
+I'm not asking you to be perfect. I'm not asking you to never make mistakes. Mistakes are how we learn — that's the whole point.
 
 I'm asking you to commit to seeing clearly. To questioning your stories before you act on them. To treating people as human—even when they've harmed you, even when your fear says they're monsters.
 
