@@ -70,4 +70,22 @@ The book captures this pattern as "slowly stripping in every room" without needi
 
 **Where to use:** Personal shorthand, coaching conversations. Too charged for the book — the words "whore" and "slutty" would distract from the pattern. The book handles it through the clothing metaphor instead.
 
+### Training Reverse Fawners: When to Say No
+
+When helping a reverse fawner rebuild their ask-muscle, the instinct is to always say yes — reward them for asking. And early on, that's right. They need experiences where they ask for what they want and *get it*, rebuilding the association between asking and pleasure instead of asking and pain.
+
+But if you always say yes, you create a fragile asker. They learn to ask in environments where the answer is guaranteed — but they haven't built resilience to no. The first real no in the wild collapses them. Their meaning-making fires: "See? It's not actually safe. This means something about me."
+
+So at some point, you need to give them nos. Not to punish them, but to show them that a no doesn't mean what their nervous system thinks it means. They need to practice hearing no from someone safe — and discovering they survive it. That a no is information, not rejection. That their ask was still good even when the answer wasn't yes.
+
+This is different from normal fawning. Saying no to a fawner's boundary would be pushing past it. But saying no to a reverse fawner's request is training — it's giving them the evidence they need that asking is safe even when the answer isn't always what they want.
+
+**Where to use:** Workshop design, coaching methodology. The book handles this implicitly through "The Gift of No" and the confidence section ("you accumulate evidence"). The workshop is where you design the actual experience sequence.
+
+### Personal: Reverse Fawning Origin
+
+I became a reverse fawner because expressing needs as a kid was dangerous. Sitting at the table doing homework — if I said "I don't want to do this, I'm tired, I want a break," it might anger my dad more and he might beat me. So I learned to not ask. Not express. Not want things out loud.
+
+**Where to use:** Coaching context, personal story in workshops. The book captures the origin pattern in general terms ("a family where desire was shamful") — the specific childhood experience is more personal than universal.
+
 ---
