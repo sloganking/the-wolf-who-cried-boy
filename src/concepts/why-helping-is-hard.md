@@ -186,6 +186,8 @@ If you can't tell the difference between someone genuinely trying to help you se
 
 The person who cries "manipulator!" at everyone isn't protected. They're exposed. Their filter doesn't keep them safe—it keeps them blind. It keeps them suffering, keeps bad things happening that they don't understand, and they'll call it fate or bad luck or a curse. But it's the filter.
 
+**The people most afraid of being manipulated are the people who are most manipulatable.** Their fear doesn't protect them. It blinds them.
+
 ---
 
 ## Related
