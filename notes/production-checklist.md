@@ -17,6 +17,7 @@ These are places where the book describes people instead of behaviors — exactl
 - [ ] `power-dynamics.md` — "Participants Can Be Abusers" section title (labels people; could describe behavior)
 - [ ] `power-dynamics.md` — Full page pass needed. Heavy use of "abuse" / "abuser" throughout. Reframe to describe behaviors and dynamics instead of labeling people. High priority — contradicts the book's core principle
 - [ ] `all-power-is-mutual.md` — Full page pass needed. Same issue — "abuser," "abusing power as a victim," etc. Flagged at top of page. High priority
+- [ ] "Character assassination" — appears in `when-youve-been-wronged.md` (line 435), `before-you-judge.md`, `when-things-go-wrong.md`, `before-play.md`. Narrative/dramatic language; replace with descriptions of the behavior (e.g., "public attacks on your reputation")
 
 ## Repetition
 
