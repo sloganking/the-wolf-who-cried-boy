@@ -8,6 +8,8 @@
 
 Fawning is a trauma response where someone says "yes" when they mean "no."
 
+But it also runs in reverse: staying silent when you mean *yes.* Not being able to express desire, claim what you want, or say "I want this" — because your nervous system treats honesty as a threat. The fawner who can't say no and the person who can't say yes are running the same pattern. Both are overriding their own truth to manage someone else's anticipated reaction.
+
 It's one of the four trauma responses:
 
 - **Fight** — aggression, pushing back
@@ -15,11 +17,15 @@ It's one of the four trauma responses:
 - **Freeze** — going still, shutting down
 - **Fawn** — people-pleasing, agreeing to avoid conflict
 
+In play spaces, the classic version is someone who goes along with touch they don't want. The reverse is just as common: someone is asked directly *what do you want?* and they freeze. They can't say it. She's standing in front of him, open, inviting, asking plainly — and every nerve in his body is screaming that expressing desire will get him labeled a predator, a creep, something dangerous. So he says nothing. Or he says "I don't know." Or he deflects. Not because he doesn't want her. Because wanting her feels like the most dangerous thing he could admit.
+
+The culture trained him for this. Years of signals — don't express sexuality, don't show desire, don't be too forward, don't be a creep — until the pattern is so deep that even when a woman is explicitly inviting him to speak, he can't. The invitation doesn't override the training. The backwards bike steers him into silence every time.
+
 ### How Deep It Goes
 
 People hear "fawning" and think of politeness. Saying yes to avoid awkwardness. Going along with something you'd rather not.
 
-It goes deeper than that.
+It goes deeper than that — in both directions.
 
 In *Unbound: A Woman's Guide to Power*, Kasia Urbaniak describes a woman who didn't cry out while being raped — because she didn't want to embarrass the man. Her fawning response overrode her survival instinct. The part of her that was trained to manage other people's comfort was louder than the part screaming for help.
 
