@@ -205,7 +205,7 @@ If you're a participant watching this happen — or worse, if you're the person 
 
 > "I want to make sure everyone here knows what actually happened, because I think there's information missing. [Person whose boundary was crossed] and I already talked about this and did repair. Can we share that before we go further?"
 
-**If you're being yelled at and the other person is in Narrative Lock:**
+### If You're Being Yelled At
 
 You don't have to sit there and take it. If the person across from you has already decided the verdict — nothing you say changes their mind, every response you give becomes more ammunition — continuing to engage is not brave. It's futile.
 
