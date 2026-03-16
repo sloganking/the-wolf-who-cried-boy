@@ -221,7 +221,7 @@ The next morning, I found her at breakfast and told her I'd had a panic attack a
 
 And something clicked. She *had* told me. She'd told me plainly, directly, with no ambiguity. I just hadn't believed her. My filter had rewritten her words into what my wound needed to hear.
 
-Months later, I saw the same filter running in the other direction. A different woman asked me directly what I wanted to do with her. I said almost nothing — because my filter told me that saying *I want you* would get me rejected. She was telling me to speak. I couldn't hear that either. Same filter, opposite situation: with one woman, *no* became *maybe*. With another, *tell me what you want* became *don't you dare.*
+Months later, I saw the same filter running in the other direction. A different woman asked me directly what I wanted to do with her. I said almost nothing — because my filter told me that saying *I want you* would get me rejected. She was telling me to speak. I couldn't hear that either. Same filter, opposite situation: with one woman, *no* became *maybe*. With another, *tell me what you want* became *don't you dare.* That's [fawning in reverse](./fawning.md) — not saying yes when you mean no, but staying silent when you mean yes, because expressing desire feels as dangerous as refusing someone.
 
 > ***"These women are literally telling me what they want and I'm just not listening. Out of fear their words mean something else."***
 >
