@@ -143,8 +143,6 @@ For taking off your shoes in the mosque — not because you believe the floor is
 
 Be cynical about it. But take off your shoes.
 
-And never stop checking for your own walls. You have filters you haven't found yet — ones that don't feel like filters, that just feel like the way things are. You will always have them. The goal was never to escape every box. It's to keep looking for the edges of the one you're in. The moment you stop looking is the moment the box shrinks back around you and you don't even notice.
-
 ---
 
 **Next:** [Conclusion](../conclusion.md)

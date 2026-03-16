@@ -414,6 +414,8 @@ The goal of this book isn't to make you stop believing. It's to help you see whi
 
 You either master your beliefs or they master you. **Beliefs are the engine of everything good humans accomplish. The dangerous ones aren't the beliefs you hold — they're the ones that hold you. The ones so deep they don't feel like beliefs at all. They just feel like the way things are.**
 
+And you will always have some. The goal was never to escape every filter. It's to keep looking for the edges of the ones you're in. The moment you stop looking is the moment they shrink back around you and you don't even notice.
+
 ---
 
 **Next:** [Body Stories](./body-stories.md) — What trauma actually is, how it lives in the body, and the specific story patterns that cause harm in play spaces.
