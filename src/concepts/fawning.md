@@ -438,7 +438,9 @@ This isn't permission to stay in abusive situations. It's recognition that:
 
 Eventually, you won't need to suffer for six weeks before saying no.
 
-You'll feel the familiar icky sensation of someone pushing past your boundaries, and your body will remember: _Last time I tolerated this, it hurt. I'm not doing that again._
+You'll feel the familiar icky sensation of someone pushing past your boundaries — and this time, your body won't just think about it. You'll *feel* it. The disgust, the violation, the remembered cost of every time you stayed silent — it will hit you viscerally, in your gut, before your mind even engages. Not a thought. A feeling. And it will be stronger than the fear.
+
+That's how wisdom works in the body. It's not knowing better. It's feeling the consequence so strongly that it overrides the fear that used to keep you silent.
 
 And saying no will feel easier than fawning.
 
