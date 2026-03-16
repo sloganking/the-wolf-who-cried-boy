@@ -63,7 +63,7 @@ You don't have to stand there and absorb someone's rage.
 
 Then disengage. You don't owe them your presence while they attack you.
 
-**Your body trusts what you show it, not what you tell it.** If you stay and absorb it, you show your body: *when this happens, I'm powerless.* If you set the boundary and leave, you show your body: *when this happens, I handle it.* A body that trusts you to protect it doesn't need to be terrified of making mistakes in the future. The fear was never about the angry person — it was about whether you could keep yourself safe. (For the full picture of why this matters, see [what happens when you stay vs. when you leave](./guiding-public-repair.md#if-youre-the-one-being-yelled-at).)
+**Your body trusts what you show it, not what you tell it.** If you stay and absorb it, you show your body: *when this happens, I'm powerless.* If you set the boundary and leave, you show your body: *when this happens, I handle it.* A body that trusts you to protect it doesn't need to be terrified of making mistakes in the future. The fear was never about the angry person — it was about whether you could keep yourself safe. (For the full picture of why this matters, see [what happens when you stay vs. when you leave](./guiding-public-repair.md#if-youre-being-yelled-at).)
 
 ### Remember: Their Response Is Data About Them
 
