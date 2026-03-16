@@ -62,4 +62,12 @@ The clothes stay a choice because I have rooms where there's no dress code. And 
 
 **Where to use:** Coaching, personal development content. This is the experiential understanding of "dress for the room" — not just as a social strategy but as a nervous system reset. The distinction ends the cycle of "be authentic → get attacked → feel unsafe → try again → get attacked."
 
+### "Psychologically Slutty"
+
+The distinction between physical nakedness and psychological nakedness. I've been showing my *mind's* nakedness — my desires, my inner world, my vulnerabilities — indiscriminately in every room. Not my body. My psychology. "Psychologically slutty" = revealing the deepest parts of my inner world to people and spaces that aren't built for it.
+
+The book captures this pattern as "slowly stripping in every room" without needing the label. But as a personal shorthand, it's useful — it names the specific overcorrection from reverse fawning: going from hiding everything to showing everything, psychologically, in spaces that have dress codes.
+
+**Where to use:** Personal shorthand, coaching conversations. Too charged for the book — the words "whore" and "slutty" would distract from the pattern. The book handles it through the clothing metaphor instead.
+
 ---
