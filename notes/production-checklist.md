@@ -15,6 +15,7 @@ These are places where the book describes people instead of behaviors — exactl
 - [ ] `drama-triangle.md` — "Abusing their power as a victim" (same pattern)
 - [ ] `types-of-mistakes.md` — "The person who responded became one" (identity language for predator; describe the behavior)
 - [ ] `power-dynamics.md` — "Participants Can Be Abusers" section title (labels people; could describe behavior)
+- [ ] `power-dynamics.md` — Full page pass needed. Heavy use of "abuse" / "abuser" throughout. Reframe to describe behaviors and dynamics instead of labeling people. High priority — contradicts the book's core principle
 
 ## Repetition
 
