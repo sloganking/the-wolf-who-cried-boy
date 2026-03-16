@@ -51,6 +51,10 @@ This can hurt. If you've just seen through a belief that kept you small — body
 
 The person who walks into a community and dismisses their norms — even norms built on imperfect beliefs — isn't demonstrating superior sight. They're demonstrating that they don't understand what sight is *for*.
 
+But this cuts both ways. If you never find a room where the clothes come off — where you can express your full self, your desires, your nakedness without performing or hiding — the dressing becomes its own cage. Some people have been dressing so long they've forgotten they have skin underneath. They [reverse fawn](./fawning.md#fawning-can-happen-in-reverse) — the opportunity to be free comes around and they can't take it, because decades of "this part of me is wrong" trained their body to say no when it means yes. They need rooms where they can be naked. Regularly. Not every room. But enough that the clothes stay a choice, not a prison.
+
+Dress for the room you're in. And make sure some of your rooms have no dress code.
+
 ---
 
 ## Nobody Wants Truth from Someone Who Ignores Their Customs
