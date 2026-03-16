@@ -233,6 +233,8 @@ If you don't set a boundary after an incident, the behavior doesn't stop. It gro
 
 Every failure on this list is a version of the same pattern: avoiding the hard conversation because you're afraid of the reaction. That's [fawning as a facilitator](./fawning.md). And what you fawn to, you feed.
 
+Here's how it happens in practice:
+
 **Do not:**
 
 - **Set no boundaries at all.** Act like it happened and move on. Never tell them what they did was unacceptable. Never communicate consequences. This teaches them that death threats have no cost—and teaches your community the same.
