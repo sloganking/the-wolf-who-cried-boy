@@ -141,7 +141,7 @@ For navigating the world with enough clarity to build trust with people who see 
 
 For taking off your shoes in the mosque — not because you believe the floor is sacred, but because you understand that the people who do believe it are your people, and honoring what they care about is how you earn the right to be heard if you ever have something worth saying.
 
-Be cynical about it. But take off your shoes.
+See through it. And take off your shoes anyway.
 
 ---
 
