@@ -51,3 +51,15 @@ Most conflict resolution failures happen because people are talking about the wr
 **Where to use:** Coaching programs, facilitator training, management workshops. Useful diagnostic for "am I addressing this at the right level?" The book's existing frameworks (severity, repair, Narrative Lock) already handle this implicitly but CPR makes it an explicit, teachable step.
 
 ---
+
+## Personal: "Dress for the Room" as Safety
+
+The reason I used to feel panicked — *oh my god, they're gonna find out who I am and attack me* — is that I was trying to slowly take off my clothes in every room. Smuggling my nakedness into spaces that weren't built for it. And eventually I'd get attacked. Every time.
+
+The "dress for the room" distinction resolves it. I can handle whatever room comes my way because I trust myself to dress for it properly — AND I know I can take off my clothes later, in the right rooms. The dressing isn't a threat to my identity anymore. It's a strategic choice. The panic goes away because I'm not trying to be naked where it's dangerous. I *choose* when and where.
+
+The clothes stay a choice because I have rooms where there's no dress code. And the rooms with dress codes stop feeling like cages because I'm not trapped in them.
+
+**Where to use:** Coaching, personal development content. This is the experiential understanding of "dress for the room" — not just as a social strategy but as a nervous system reset. The distinction ends the cycle of "be authentic → get attacked → feel unsafe → try again → get attacked."
+
+---
