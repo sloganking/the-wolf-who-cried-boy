@@ -34,10 +34,10 @@ The Inquisitors weren't cartoon villains. They believed they were saving souls f
 They had supreme goodness. They were acting from love—love of God, love of family, love of the very people they were destroying. What they lacked was wisdom. They couldn't see that their beliefs were distorting reality. They couldn't see that they were the monsters in the story.
 
 > "All people's actions are sane and reasonable, given their beliefs about the world they are operating within."  
-> — _Logan King👑_
+> — _Logan King_
 
 > **"Never assume malice, where belief will do."**  
-> — _Logan King👑_
+> — _Logan King_
 
 This is the [Rescuer](./drama-triangle.md) in its most dangerous form. The Inquisitor saw himself as saving souls — and the urgency of _something terrible will happen if I don't act now_ is exactly what drove him to cause harm. When you're caught in the Rescuer role, becoming the Perpetrator is always a danger.
 

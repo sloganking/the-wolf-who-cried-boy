@@ -447,7 +447,7 @@ But don't let someone else's story become your identity. Listen, learn what's us
 ### The Response to Misunderstanding
 
 > **"If people misunderstand you, just keep showing yourself."**  
-> — _Logan King👑_
+> — _Logan King_
 
 You can't argue someone out of a story they've decided is true. The more you defend, the more defensive you look. The more you explain, the more it sounds like excuses.
 
