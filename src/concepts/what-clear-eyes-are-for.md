@@ -67,6 +67,8 @@ And here's the flip the truth-teller doesn't see: they think they're giving — 
 
 [Goodness without wisdom always accomplishes evil.](./why-rescuers-are-dangerous.md) Truth without trust accomplishes nothing.
 
+**Authority doesn't come from truth. It comes from trust.** And trust is earned by being a respectful, value-adding member of a community — someone who follows their customs even after seeing through them. That's real authority: the kind people *give* you because they've experienced you as someone who cares about what they care about.
+
 ---
 
 ## Make It Good — During AND After
