@@ -365,7 +365,7 @@ And that means you can shape it differently next time.
 ### The Dice Principle
 
 > **"Luck happens in moments. Not in days, years, or lifetimes."**  
-> — _Logan King👑_
+> — _Logan King_
 
 Think of it like dice.
 
