@@ -53,7 +53,7 @@ You can acknowledge your actual mistake without accepting their distorted story 
 
 > "I understand that what happened affected you, and I take responsibility for my part. But I'm not available for being called names or having my character attacked. That's not what happened, and I won't agree to it."
 
-Notice the language: "called names," not "called a predator." When you say "I'm not available for being called names," everyone in the room thinks *that makes sense.* When you say "I'm not available for being called a predator," everyone questions *should he be called a predator?* Reject the behavior without echoing the label. Let them be the only one who said it.
+Notice the language: "called names," not "called a predator." When you say "I'm not available for being called names," everyone in the room thinks *that makes sense.* When you say "I'm not available for being called a predator," everyone questions *should he be called a predator?* **Reject the behavior without echoing the label.** Let them be the only one who said it.
 
 ### Set Boundaries About How You're Spoken To
 
