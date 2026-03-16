@@ -372,7 +372,7 @@ This isn't pretty. It's not a three-step framework. It's just... how bodies lear
 
 Fawning lives in your body, not your intellect. You can understand perfectly well that you should say no—and watch yourself say yes anyway.
 
-### Why It's Harder Than It Looks
+### The Reverse Bike
 
 Here's what most people don't realize: overcoming fawning isn't like learning a new skill. It's like learning to ride a [bicycle that steers in reverse](https://youtu.be/MFzDaBzBlL0) — where turning the handlebars left makes you go right, and turning right makes you go left.
 
