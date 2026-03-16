@@ -1,5 +1,7 @@
 # All Power Is Mutual
 
+> **⚠️ AUTHOR NOTE: This page uses outdated language — "abuser," "abusing power," etc. — that labels people instead of describing behaviors. Needs a full language pass before production. See `notes/production-checklist.md`.**
+
 Here's the blind spot almost everyone has:
 
 **They think power flows one direction.**
