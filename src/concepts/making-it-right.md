@@ -122,11 +122,23 @@ That's how you make it right when you can't make it right directly. The debt doe
 
 # If You Were Harmed
 
-## Allowing Repair
+## Repair Is a Privilege
 
-**Repair is a privilege you grant, not an obligation you owe.** If someone harmed you and you can't think of any way they could add value to your life — if every path to repair would just take more from you — you're not obligated to offer one. Your power here is the power to choose. If there's nothing they could do that would feel good to you, don't manufacture a way for their sake. That's fawning. If they genuinely want to make things right and you've closed the door, the path that remains for them is to [pay it forward](#if-you-cant-pay-it-back-pay-it-forward) — to take what they learned and make the world better with it instead of you.
+You don't owe anyone the chance to make it right. If someone harmed you and you can't think of any way they could add value to your life — if every path to repair would just take more from you — don't manufacture one for their sake. That's [fawning](./fawning.md). If they genuinely want to make things right and you've closed the door, the path that remains for them is to [pay it forward](#if-you-cant-pay-it-back-pay-it-forward) — to take what they learned and make the world better with it instead of you.
 
-But if there *is* something — something real, something that would actually put a smile on your face — then offering it is one of the most powerful things you can do. You're showing your body that you have control over the outcome. You're turning something that was done *to* you into something you're creating *from* it.
+But before you decide there's nothing they could do — slow down.
+
+Most people's first reaction is *fuck them.* They're angry. They don't want to offer anything. And when they try to think of what the other person could do to make it right, their mind comes up blank. "There's nothing they could do."
+
+That's not actually true. What's happening is faster than you realize: an idea enters your mind — something they could do that would genuinely make you feel good — and before it even reaches your conscious awareness, some part of you shoots it down. *That's too big. I can't ask for that. They'd never do it. I shouldn't want that.* The idea never fully forms. It gets killed in the gap between your subconscious and your conscious mind. And you're left staring at an empty list, convinced nothing exists.
+
+Things exist. You're just dismissing them before you see them.
+
+Slow down. Catch the ideas before you judge them. What would actually put a smile on your face? Not what's "reasonable" or "appropriate" — what would make you feel like this whole mess turned into something better than what you had before? Maybe it's something material. Maybe it's an experience. Maybe it's them showing up in a way that would make you genuinely enjoy knowing them. At best, you turn from enemies into allies with a relationship deeper than what existed before the incident. At the very least, you walk away with more value than the harm took from you.
+
+When you name that thing — when you actually make the ask — you're showing your body that you have power over the outcome. You're not stuck in what happened. You're creating something from it. That's not forgiveness as a moral duty. That's agency.
+
+The person who fucked up usually *wants* to make it right. They want to be a value in your story, not a villain. When you [give them a way to win](#give-them-a-way-to-win), you're not doing them a favor — you're doing yourself one. You're taking something that was done *to* you and turning it into something you're doing *with* it. The hardest part isn't finding the ask. It's letting yourself receive it.
 
 If you're the one who was harmed, ask yourself:
 
@@ -134,7 +146,7 @@ If you're the one who was harmed, ask yourself:
 - Or am I more invested in punishment?
 - What would actually help me heal?
 
-Sometimes people want revenge more than repair. That's a choice — but it's not resolution.
+Sometimes people want revenge more than repair. That's a choice — but it's not resolution. And it leaves you with nothing except the satisfaction of watching them suffer, which fades faster than you'd think.
 
 ### Ask for What You Actually Want
 
