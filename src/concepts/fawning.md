@@ -458,6 +458,16 @@ The culture trained him for this. Years of signals — don't express sexuality, 
 
 The fawner who can't say no and the reverse fawner who can't say yes are riding the same backwards bike. Both are overriding their own truth to manage someone else's anticipated reaction. Both suffer for it. And both need the same thing to change: not insight, but experience — saying what they actually mean, in a space safe enough to survive it, enough times that the new pattern overrides the old one.
 
+### You Need Rooms Where the Clothes Come Off
+
+[Dressing for the room](./what-clear-eyes-are-for.md#trust-doesnt-care-whos-correct) is wisdom. But if you never find a room where the clothes come off — where you can express your full self, your desires, your nakedness without performing or hiding — the dressing becomes its own cage.
+
+Some people have been dressing so long they've forgotten they have skin underneath. They've spent years in conservative religion, or a family where desire was shameful, or a culture that punished sexuality — and the dressing became permanent. The opportunity to be free comes around and they can't take it. Decades of "this part of me is wrong" trained their body to say no when it means yes.
+
+That's reverse fawning calcified into identity.
+
+You need rooms where you can be naked. Regularly. Not every room — that's the person who walks into the mosque with their shoes on and calls it authenticity. But enough rooms that the clothes stay a choice, not a prison. Enough rooms that your yes still works when someone invites you to use it.
+
 ## The Gift of No
 
 Here's a perspective that might surprise you:
