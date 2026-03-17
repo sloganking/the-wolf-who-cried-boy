@@ -194,7 +194,7 @@ This is extremely important:
 
 Even if things are getting hot and heavy. Even if they say "okay, you can do it." Even if they beg you to do it.
 
-There was a reason they told you beforehand that they weren't okay with that thing. In the heat of the moment, arousal and pressure can override their actual limits. If you cross that line because they "gave permission" mid-scene, they may feel violated afterward, get hurt, or even play victim.
+There was a reason they told you beforehand that they weren't okay with that thing. In the heat of the moment, arousal and pressure can override their actual limits. If you cross that line because they "gave permission" mid-scene, they may feel violated afterward, get hurt, or even cry victim.
 
 **Your responsibility:** If they stated a hard boundary before play, respect it until the scene is over and you're both thinking clearly. Then—and only then—you can have a conversation about whether they actually want to change that boundary for next time.
 
