@@ -8,7 +8,7 @@ My interpretation at the time: I was doing my homework too slow. He thought I wa
 
 What I was experiencing: trying my best. And it not being enough. And being beaten anyway.
 
-I tried to communicate. I tried to say I was doing my best. He didn't hear it. He was certain he knew what was happening—and he was wrong.
+I tried to communicate. I tried to say I was doing my best. He didn't hear it. He was certain he knew what was happening and what I really needed—and he was wrong.
 
 ---
 
