@@ -104,21 +104,17 @@ The moment you see your power, everything changes. Not because the world gets ea
 
 ## Why I Wrote This
 
-I'm here because I've been on all sides.
+I was angry. Someone looked at me and saw a monster instead of a person, and it nearly destroyed me. I used that anger to start writing.
 
-I've been harmed by a Rescuer who loved me. I've lived in the victim dream. And I've come close to becoming the harm myself.
+But anger isn't why I kept writing.
 
-In my years of resentment and victimhood, I felt the pull toward perpetrator. My relationships were dysfunctional. I carried bitterness toward my father and others who didn't deserve it—or at least didn't deserve the intensity of what I felt. I caused people stress. I was a drain when I could have been a gift.
+I kept writing because people are causing each other pain that doesn't need to exist — and they can't see it. A father hits his son because he can't see a child trying his best. A community exiles one of their own because they can't see a person who made a mistake. Good people, everywhere, hurting each other over stories that aren't real. And none of it needs to happen.
 
-I know what it's like to be so trapped in your own pain that you start hurting the people around you without even seeing it. I've felt the gravity that pulls Victim toward Persecutor.
+I care about this so much it's hard to put into words. I believe every person is a human being — not a monster, not a predator, not a label. And when people can see that — in themselves and in each other — they're free. Free from the stories. Free from the unnecessary suffering. Free to create something good.
 
-I'm not lecturing from above. I'm not claiming to have it all figured out. I'm someone who suffered for a long time, caused suffering to others, found a way out, and wants to help others find it too.
-
-That's why I care about belief. About responsibility. About helping people see their power instead of reinforcing their helplessness.
+**I wake people up to what they can't see — so they're free.**
 
 That's why I wrote this book.
-
-**Waking people up from the dream that they're small, and helping them see clearly so they can create good in the world. That's what I'm here for.**
 
 ---
 
