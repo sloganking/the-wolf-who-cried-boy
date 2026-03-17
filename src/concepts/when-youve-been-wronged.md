@@ -28,7 +28,7 @@ Here's what I've learned.
 
 You're not crazy. What happened to you is wrong.
 
-When someone responds to a MEDIUM mistake with HIGH-severity punishment, **that's an over-response — and the [Victim position](./drama-triangle.md#victim) is what gives them the power to do it.** The victim role isn't powerless. It has enormous power — the power to mobilize the room, control the narrative, and inflict consequences that don't match what happened.
+When someone responds to a MEDIUM mistake with HIGH-severity punishment, **that's an over-response — and [the Victim position is what gives them the power to do it](./all-power-is-mutual.md#the-victim-position-is-powerful).** The victim role isn't powerless. It has enormous power — the power to mobilize the room, control the narrative, and inflict consequences that don't match what happened.
 
 Their over-response doesn't mean you're a predator. It means they over-responded.
 
