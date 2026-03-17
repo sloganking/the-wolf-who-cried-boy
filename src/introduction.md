@@ -33,7 +33,7 @@ If a framework can handle a false accusation at a play party, it can handle a co
 
 If you hold space for others, this content is especially relevant to you.
 
-You'll encounter all of this: fawning, over-responses, trauma reactions, people playing victim, honest mistakes treated like malice. When it happens, you'll be the one asked to handle it—often in real-time, with incomplete information, while everyone watches.
+You'll encounter all of this: fawning, over-responses, trauma reactions, people crying victim, honest mistakes treated like malice. When it happens, you'll be the one asked to handle it—often in real-time, with incomplete information, while everyone watches.
 
 Most facilitator trainings don't cover this. They teach you how to hold space, guide exercises, support people in process. They don't teach you what to do when a participant starts a witch hunt, or when someone's trauma makes them see predators everywhere, or when you need to protect someone being unfairly attacked while still honoring the accuser's pain.
 
@@ -59,7 +59,7 @@ Every concept here applies to your entire life:
 | You fawn when someone pressures you for touch              | You fawn when your boss asks you to work overtime                  |
 | You have a subconscious story that you're being excluded   | That same story makes you miserable at work dinners and weddings   |
 | You over-respond to a low-severity boundary cross          | You over-respond when your partner forgets an anniversary          |
-| You play victim to avoid taking responsibility             | You blame your ex, your parents, your circumstances for everything |
+| You cry victim to avoid taking responsibility             | You blame your ex, your parents, your circumstances for everything |
 | You start a witch hunt based on vibes instead of facts     | You gossip and destroy reputations based on hearsay                |
 | You feel powerless as a participant facing an angry person | You feel powerless facing bureaucracy, authority, conflict         |
 

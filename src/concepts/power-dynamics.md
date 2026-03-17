@@ -196,7 +196,7 @@ But when the marriage ends, the spouse can:
 
 - Sue for amounts that exceed what the public figure owns
 - Make public accusations (true or false)
-- Play victim to the media
+- Cry victim to the media
 - Mobilize public opinion
 - Destroy reputation with claims that are difficult to disprove
 

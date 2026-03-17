@@ -107,7 +107,7 @@ That's the lesson your participants actually need. Not the comfortable puja in a
 
 Here's where it gets hard.
 
-Someone is angry. They're doing character assassination. They're calling you names—predator, abuser, whatever. They're playing victim loudly. They might be threatening your reputation.
+Someone is angry. They're doing character assassination. They're calling you names—predator, abuser, whatever. They're crying victim loudly. They might be threatening your reputation.
 
 Make no mistake: **they are abusing their power as a victim.**
 
