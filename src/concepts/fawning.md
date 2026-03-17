@@ -521,6 +521,12 @@ This isn't bitterness—it's [taking responsibility](./responsibility.md) for my
 
 So when I find someone who clearly owns their no? Who says what they mean? That's gold. That's safety. That's someone I can trust.
 
+### Especially for Fawners
+
+If you fawn, you already know firsthand how easily a subconscious process can override your will. Your body says yes before your mind catches up. You don't choose it. It just happens.
+
+The same thing can happen to the person giving you touch. A hand moves wrong for one second before they correct it. Their autopilot fired before their brain did — just like yours does when you say yes and mean no. See how easy it is to violate yourself through fawning? That's how easy it is for someone else to make a momentary mistake. That's not predation. That's the same kind of involuntary override you're already intimate with.
+
 ### If You're New to These Spaces
 
 In the beginning, when you're insecure and hoping to connect, receiving a no might feel like rejection. Like proof you're unlovable.
