@@ -70,7 +70,7 @@ Now imagine the man makes a mistake. His hand slips. He misreads a signal. Somet
 
 Watch what happens next:
 
-The room sees a bound woman and a man who just crossed a line. Every filter in every person activates at once. The story writes itself before anyone asks a single question. He's the predator. She's the victim. The [righteous predators](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) mobilize. His name gets spoken in whispers. His reputation — built over years — disintegrates in minutes. He may be banned from every space he's ever attended. He may lose friendships, community, his entire social world. If she takes it further, he could face legal consequences.
+The room sees a bound woman and a man who just crossed a line. Every filter in every person activates at once. The story writes itself before anyone asks a single question. He's the predator. She's the victim. The [righteous predators](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) mobilize. His name gets spoken in whispers. His reputation could be damaged. He could be removed from spaces he's attended for years. Friendships could shift. If she takes it further, he could face legal consequences. How far it goes depends on the community, the people involved, and whether anyone stops to verify before reacting — but the *possibility* is always there, and his body knows it.
 
 And her? She has the sympathy of everyone in the room. She has moral authority. She has the cultural narrative on her side. She will be believed, supported, protected.
 
