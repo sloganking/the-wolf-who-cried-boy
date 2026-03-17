@@ -1,5 +1,11 @@
 # Introduction
 
+Anyone can see a mistake, assume malice, and punish. That takes nothing — just righteous certainty and anger.
+
+Seeing a mistake and understanding why it happened, what beliefs drove it, what patterns made it inevitable — and then seeing the person who made it as a human being and showing them something better than whatever drove them there — that takes everything.
+
+The first one feels like justice. The second one *is* justice.
+
 ---
 
 ## Why This Exists
