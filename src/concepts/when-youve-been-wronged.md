@@ -67,11 +67,13 @@ There are three steps, in this order:
 
 **2. State a principle no one can argue with.** Say what you believe — out loud, to the room. "I believe all people should be treated as human beings, not monsters." That's it. Don't elaborate. Don't defend. Just say it. The moment that sentence lands, everyone in the room has to evaluate who in this interaction is treating someone as a human being and who isn't. You didn't point at anyone. You didn't accuse. You just stated a principle — and the room will do the math on its own.
 
+This step is critical. If you skip it — if you just set the boundary and leave without stating what you believe — the room has no frame for your behavior. They'll fill in the default: *he's being defensive, he's trying to avoid consequences, he's not taking responsibility.* The principle gives the room a different lens. Now your boundary isn't evasion — it's someone acting on a belief they just stated out loud. And anyone who wants to call that manipulation has to argue that treating people as human beings is a manipulation tactic. That's a position no one reasonable wants to defend.
+
 **3. Set the boundary and leave.** "I'm not being spoken to this way. If you want to have a conversation with dignity and respect, I'm open. Until then, you'll have to handle your emotions on your own." Then walk away.
 
-Notice what you never said: "I'm not a monster." "I'm not what they're calling me." "I didn't do anything wrong." You didn't *tell* the room you're a human being. You *showed* them — by standing on principle, providing facts, and leaving with dignity. Anyone watching just saw a person acting with more humanity than the person attacking them. That's not something you can fake, and the room knows it.
+Notice what you never said: "I'm not a monster." "I'm not what they're calling me." "I didn't do anything wrong." You didn't *tell* the room you're a human being. You *showed* them — by standing on principle, providing facts, and leaving with dignity. You showed them that you value yourself enough to treat yourself as a human being — and that's the proof that can't be faked. Anyone watching just saw a person acting with more humanity than the person attacking them.
 
-The people who still call this manipulation after watching you state a belief in human dignity, provide evidence of repair, and calmly set a boundary — those people were never reachable. Let them go. Everyone else just saw something they won't forget.
+The people who still call this manipulation after watching you state a belief in human dignity, provide evidence of repair, and calmly set a boundary — they'll be contested by the people in the room who aren't [belief-blind](./trauma-and-filters.md). The burden of proof just shifted. It's no longer on you to prove you're not a monster. It's on them to explain how standing on a principle of human dignity is manipulation. Let them try.
 
 ### Set Boundaries About How You're Spoken To
 
