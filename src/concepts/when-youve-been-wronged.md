@@ -28,7 +28,7 @@ Here's what I've learned.
 
 You're not crazy. What happened to you is wrong.
 
-When someone responds to a MEDIUM mistake with HIGH-severity punishment, **they are [abusing their power as a victim](./drama-triangle.md#victim)**.
+When someone responds to a MEDIUM mistake with HIGH-severity punishment, **that's an over-response — and the [Victim position](./drama-triangle.md#victim) is what gives them the power to do it.** The victim role isn't powerless. It has enormous power — the power to mobilize the room, control the narrative, and inflict consequences that don't match what happened.
 
 Their over-response doesn't mean you're a predator. It means they over-responded.
 
@@ -133,7 +133,7 @@ Neither serves you. Find the middle: "I made a MEDIUM mistake. I wish I hadn't. 
 
 **Use the reframes from this book.**
 
-- Their over-response is them [abusing their power as a victim](./drama-triangle.md#victim)
+- Their over-response is them [using the power that comes with being wronged](./drama-triangle.md#victim) to inflict consequences that don't match what happened
 - You can [rescind the privilege of your touch](./fawning.md#your-touch-is-a-privilege) from people who don't respect it
 - Being attacked doesn't make you a predator any more than their accusations make them right
 - You are still a [Creator](./drama-triangle.md#creator), not a Victim—you can choose how to respond
