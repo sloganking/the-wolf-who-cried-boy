@@ -76,7 +76,7 @@ And her? She has the sympathy of everyone in the room. She has moral authority. 
 
 **The person who was physically helpless holds almost all the power in the aftermath. The person who had physical freedom faces the most catastrophic consequences.**
 
-This isn't about who *should* be protected — both should. It's about seeing what's actually there. The man in that scene isn't just touching her body. He's trusting her with his reputation, his community, his future. [Your touch is a privilege](./fawning.md#your-touch-is-a-privilege) — and so is your vulnerability. When you make yourself physically vulnerable with someone, you're giving them enormous power over your perception of what happened, and through that, power over their entire life.
+This isn't about who *should* be protected — both should. It's about seeing what's actually there. The man in that scene isn't just touching her body. He's trusting her with his reputation, his community, his future. [Your touch is a privilege](./fawning.md#your-touch-is-a-privilege) — and so is your vulnerability. When you make yourself physically vulnerable with someone, you're giving them enormous power over the narrative of what happened — and through that, power over your entire life.
 
 The person everyone calls powerful is often the most exposed. The person everyone calls vulnerable often holds the weapons that can destroy.
 
