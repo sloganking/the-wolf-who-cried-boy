@@ -52,6 +52,10 @@ Planetary transformation is nothing more than the commitment to seeing clearly. 
 
 That's it. That's the whole thing.
 
+---
+
+## How to Carry What You See
+
 When you see all of it — really see it — you might feel the weight. The rescuers destroying what they love. The fawners setting up the people they're afraid of. The filters creating the predators they're scanning for. Good people, everywhere, hurting each other in ways they can't see. It's tragic.
 
 > **"I was not laughing at the little monkey. I was laughing at *us.* People. And suddenly I knew I was people and could not stop laughing."**
