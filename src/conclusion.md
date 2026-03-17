@@ -78,11 +78,7 @@ And here's how the rescue cycle perpetuates itself: the pained rescuer wakes som
 
 If you're going to wake people up, wake them up into happiness. Into contentment. Into joy. Not into urgent rescuer necessity — because that urgency will inevitably create the same harm this book describes. The only way out of the rescue cycle is to break the chain: see clearly, laugh, help where you can, and refuse to pass the suffering forward.
 
-The real move is learning to love humanity — yourself included — with all its flaws, mistakes, and invisible delusions. To cherish the mess. To laugh at it. To not take any of it too seriously, even as you work to wake people up. Which, honestly, might be one of the craziest beliefs of all — that you can wake people up from stories they don't know they're in. But someone has to be crazy enough to try.
-
-And if you're going to try — do it as a coach, not a rescuer. A rescuer sees themselves as urgently needing to save people — including people who don't want to be saved. They're neurotic about it. They feel pain because not everyone is rescued yet. They sacrifice themselves in the process, giving and giving until they have nothing left, and then they can't help anyone — including themselves.
-
-A coach helps people who want help — and takes care of themselves in the process. A depleted person can't serve anyone well. If you don't give your equipment regular maintenance, it will schedule the maintenance for you.
+The real move is learning to love humanity — yourself included — with all its flaws, mistakes, and invisible delusions. To cherish the mess. To laugh at it. To not take any of it too seriously, even as you work to wake people up.
 
 ---
 
