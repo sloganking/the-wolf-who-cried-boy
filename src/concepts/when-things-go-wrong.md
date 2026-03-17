@@ -109,7 +109,7 @@ Here's where it gets hard.
 
 Someone is angry. They're doing character assassination. They're calling you names—predator, abuser, whatever. They're crying victim loudly. They might be threatening your reputation.
 
-Make no mistake: **they are abusing their power as a victim.**
+Make no mistake: **they are [using the power that comes with being wronged](./all-power-is-mutual.md#the-victim-position-is-powerful) to inflict consequences that don't match what happened.**
 
 The temptation—especially for facilitators and staff—is to fawn. To appease. To let them treat you badly because:
 

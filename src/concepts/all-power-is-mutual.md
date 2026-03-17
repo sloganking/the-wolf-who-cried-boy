@@ -52,7 +52,7 @@ When you claim victimhood:
 - Cultural narratives side with you by default
 - Others feel guilty challenging your story
 
-This is why someone can [abuse their power as a victim](./drama-triangle.md#victim). The Victim position isn't powerless. It's _enormously_ powerful—and that power can be weaponized.
+This is why the [Victim position](./drama-triangle.md#victim) isn't powerless. It's _enormously_ powerful—and that power can be used to inflict consequences that far exceed the original harm.
 
 ## Vulnerability Creates Vulnerability
 

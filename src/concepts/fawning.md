@@ -645,7 +645,7 @@ You have [power over the people you interact with](./power-dynamics.md). Real po
 
 **Telling someone yes when you're actually a no is an abuse of your power.** You're using it to deceive them, to create a situation that harms them, to set them up for consequences they didn't consent to.
 
-And if you then cry victim afterward—attacking them for believing your lie—you are **abusing your power as a victim.** It should be recognized as such.
+And if you then cry victim afterward—attacking them for believing your lie—you are **using the power that comes with being wronged to punish someone for trusting you.** That should be recognized for what it is.
 
 Your no isn't selfish. Your no is love. And your yes, when it's real, is a gift they can trust.
 
