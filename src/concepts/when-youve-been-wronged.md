@@ -51,6 +51,8 @@ Fawning under threat is not a real apology. And everything you say while fawning
 
 You can acknowledge your actual mistake without accepting their distorted story about who you are.
 
+Watch especially for gratitude-based fawning — finding something to praise about the person who's mistreating you. "Thank you for looking out for everyone's safety" while they're harassing you. The appreciation might be genuine — you might truly value their concern for others — but expressing it while absorbing their harm validates the behavior and prevents you from setting the boundary that would stop it. You can appreciate someone's values and reject their actions. Those aren't mutually exclusive.
+
 > "I understand that what happened affected you, and I take responsibility for my part. But I'm not available for being called names or having my character attacked. That's not what happened, and I won't agree to it."
 
 Notice the language: "called names," not "called a predator." When you say "I'm not available for being called names," everyone in the room thinks *that makes sense.* When you say "I'm not available for being called a predator," everyone questions *should he be called a predator?* **Reject the behavior without echoing the label.** Let them be the only one who said it.
