@@ -1,16 +1,8 @@
 # Power Dynamics
 
-← [Back to Introduction](../introduction.md)
+[Power always flows both ways](./all-power-is-mutual.md). This page is about what that looks like in practice — specifically between participants and facilitators — and how to tell the difference between accountability and harm.
 
 ---
-
-## The Myth
-
-> "The person in a position of power has power over me."
-
-This is often not true.
-
-In fact, it's frequently the opposite. The person who _appears_ to have less power often has more—they just don't recognize it.
 
 ## Everyone Creates the Container
 
@@ -30,11 +22,7 @@ If you think a facilitator has more power to determine what happens than you do,
 
 Facilitators aren't all-powerful gods running the event. They're humans with patterns, limitations, and vulnerabilities—just like everyone else.
 
-## The Counterintuitive Reality
-
-Sometimes participants have **more power** over facilitators than facilitators have over them.
-
-Here's how:
+Sometimes participants have **more power** over facilitators than facilitators have over them:
 
 | Power Participants Have                            | Power Facilitators Often Don't Have   |
 | -------------------------------------------------- | ------------------------------------- |
@@ -83,7 +71,7 @@ If you are a participant, you have power. Significant power. The question is how
 - Asking for accountability proportional to what occurred
 - Offering your perspective and wisdom to facilitators when you see something they might be missing
 
-On that last point: if you've been through significant experiences and gained insight, you may have perspective that even experienced facilitators lack. Don't assume they've seen everything—they haven't. Your wisdom is a resource. Offer it respectfully. (See: [Your First Officer](./facilitator-protocols.md#your-first-officer))
+On that last point: if you've been through significant experiences and gained insight, you may have perspective that even experienced facilitators lack. Don't assume they've seen everything—they haven't. Your wisdom is a resource. Offer it respectfully.
 
 **This IS causing harm:**
 
@@ -127,13 +115,11 @@ Those are the first steps toward the kind of harm this section describes.
 
 The same standards that apply to facilitators apply to you. If it would be harmful for a facilitator to do it to a participant, it's harmful for a participant to do it to a facilitator.
 
-## Example: The Intimidating Participant
+## Example: The Over-Responding Participant
 
-Imagine this scenario:
+Something happens at a retreat. A participant has an [over-response](./appropriate-response.md). Their reaction is HIGH severity to what was actually a LOW or MEDIUM issue.
 
-Something happens at a retreat. A participant—let's call them **Jordan**—has an [over-response](./appropriate-response.md). Their reaction is HIGH severity to what was actually a LOW or MEDIUM issue.
-
-Jordan is furious. They're yelling, making threats, physically intimidating others.
+They're furious. They're yelling, making threats, physically intimidating others. This is a [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) in action — someone causing significant harm from a place of moral certainty.
 
 What _should_ happen: The facilitator sets a boundary. "You can't threaten people here. If you continue, you'll need to leave."
 
@@ -143,37 +129,37 @@ What _often_ happens:
 
 They're scared. They're thinking:
 
-- "What if Jordan goes home and writes hate mail?"
-- "What if Jordan starts a witch hunt online?"
-- "What if Jordan gets violent?"
-- "What if other participants side with Jordan?"
+- "What if they go home and write hate mail?"
+- "What if they start a witch hunt online?"
+- "What if they get violent?"
+- "What if other participants side with them?"
 
-So instead of enforcing boundaries, the facilitator appeases. They let Jordan's behavior slide. They prioritize de-escalation over integrity.
+So instead of enforcing boundaries, the facilitator appeases. They let the behavior slide. They prioritize de-escalation over integrity.
 
-**Jordan now has power over the facilitator.**
+**The participant now has power over the facilitator.**
 
-Not because Jordan has legitimate authority—but because Jordan is willing to use aggression, and the facilitator is afraid of the consequences.
+Not because they have legitimate authority—but because they're willing to use aggression, and the facilitator is afraid of the consequences. The participant's [filters](./trauma-and-filters.md) and the facilitator's [fawning](./fawning.md) are [complementary patterns](./invisible-patterns.md#complementary-filters) — each one reinforcing the other.
 
 ### Even When the Facilitator Does Everything Right
 
 Let's say the facilitator _doesn't_ fawn. They set clear boundaries:
 
-> "Jordan, I understand you're upset. But you cannot threaten people in this space. If you continue, I'll ask you to leave and not return."
+> "I understand you're upset. But you cannot threaten people in this space. If you continue, I'll ask you to leave and not return."
 
-Even now, Jordan still has power:
+Even now, the participant still has power:
 
-- Jordan can go home and write hate mail
-- Jordan can start a witch hunt on social media
-- Jordan can rally other participants against the facilitator _during_ the event
-- Others might side with Jordan out of [mob judgment](./before-you-judge.md)—because they saw Jordan upset and the facilitator "kicking them out"
+- They can go home and write hate mail
+- They can start a witch hunt on social media
+- They can rally other participants against the facilitator _during_ the event
+- Others might side with them out of [mob judgment](./before-you-judge.md)—because they saw someone upset and the facilitator "kicking them out"
 
-The facilitator did everything right. And they're still vulnerable to someone who is willing to use the power of being wronged to cause disproportionate damage.
+The facilitator did everything right. And they're still vulnerable to someone willing to use the power of being wronged to cause disproportionate damage.
 
 ## Example: High-Profile Relationships
 
 This dynamic isn't limited to workshops. It happens everywhere.
 
-Consider a famous, wealthy, influential person—let's call them a public figure. At first glance, they appear to have immense power in their marriage:
+Consider a famous, wealthy, influential person — a public figure. At first glance, they appear to have immense power in their marriage:
 
 - They have money
 - They have status
@@ -196,73 +182,17 @@ Suddenly, the "powerless" spouse has more power than the "powerful" public figur
 
 This isn't about who's right or wrong. It's about recognizing that **power dynamics are never one-way**—and the person who appears powerless often has weapons the "powerful" person doesn't.
 
-## Why People Don't See Their Power
-
-Most participants in workshops genuinely believe they're powerless relative to facilitators.
-
-They think:
-
-- "The facilitators control the event"
-- "I'm just here as a guest"
-- "They have authority over me"
-- "If something goes wrong, it's their fault"
-
-This is [Victim](./drama-triangle.md) thinking. It denies responsibility by denying power.
-
-But denying your power doesn't make it go away. It just means you wield it unconsciously—and often destructively.
-
-## The Responsibility That Comes With Power
-
-If you have power, you have [responsibility](./responsibility.md).
-
-Participants are responsible for:
-
-- How they show up in the container
-- How they respond when things go wrong
-- Whether they verify before judging ([Before You Judge](./before-you-judge.md))
-- Whether their response matches the severity ([Appropriate Response](./appropriate-response.md))
-- The impact of their words and actions on facilitators and other participants
-
-You are not a passive consumer of the event. You are a co-creator of what happens.
-
-## The Belief to Refine
-
-> The idea that power dynamics are one-way is always a myth.
-
-This myth is created by people not recognizing their own power.
-
-When you don't recognize your power:
-
-- You don't take [responsibility](./responsibility.md) for it
-- You may wield it unconsciously
-- You may wield it destructively while believing yourself powerless
-- You may harm people while feeling like the victim
-
-## Power Goes Both Ways
-
-| Traditional View                       | Reality                                       |
-| -------------------------------------- | --------------------------------------------- |
-| Facilitator has power over participant | Participant can also harm facilitator         |
-| Authority figure is always "up"        | Authority figures can be vulnerable           |
-| Victim has no power                    | The wronged party can cause enormous harm     |
-| Famous person controls the dynamic     | Less-famous person can destroy them publicly  |
-| The "powerful" person is the threat    | The "powerless" person may cause more damage  |
-
-This doesn't mean victims aren't real or that power imbalances don't exist.
-
-It means: **Everyone has more power than they think.**
-
-And with power comes responsibility.
-
-See: [100% Control](../tools/100-percent-control.md)
+Denying your power doesn't make it go away. It just means you wield it unconsciously—and often destructively. If you have power, you have [responsibility](./responsibility.md).
 
 ---
 
 ## Related
 
+- [All Power Is Mutual](./all-power-is-mutual.md) — The deeper theory behind everything on this page
 - [Responsibility](./responsibility.md) — Unrecognized power = unowned responsibility
-- [Appropriate Response](./appropriate-response.md) — Power in response
+- [Appropriate Response](./appropriate-response.md) — Over-response and proportionality
 - [100% Control](../tools/100-percent-control.md) — Recognizing your own power
 - [Before You Judge](./before-you-judge.md) — Mobs have power too
-- [Drama Triangle](./drama-triangle.md) — Victim role denies power
+- [Drama Triangle](./drama-triangle.md) — The Victim role's hidden power
 - [Fawning](./fawning.md) — When facilitators fawn to participants
+- [Why Rescuers Are Dangerous](./why-rescuers-are-dangerous.md) — The righteous predator pattern
