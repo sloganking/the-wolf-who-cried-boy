@@ -476,6 +476,42 @@ You need rooms where you can be naked. Regularly. Not every room. But enough roo
 
 The person who dresses for the room *and* has rooms with no dress code doesn't panic. They can handle any environment because they trust themselves to dress appropriately — and they know the clothes come off later, somewhere safe. The dressing stops being a threat to their identity. It becomes a choice they make from freedom, not from fear.
 
+### Fawning to Yourself
+
+Everything so far has been about fawning to another person — saying yes when you mean no, or saying no when you mean yes, because someone else's anticipated reaction overrides your truth.
+
+But there's a version no one talks about: **fawning to a voice that isn't in the room.**
+
+Here's what it looks like. You're about to make a decision — ask for what you want, set a boundary, pursue something important to you. And a voice inside says: *You're just being selfish. You're trying to get out of the hard thing. You don't deserve that. People will see through you.*
+
+That voice sounds like your own judgment. It feels like thinking. But it's not. It's an internalized version of someone who once had power over you — a parent, a critic, an authority figure — and you're fawning to it. You argue with it. You try to prove you're not selfish. You waffle back and forth on the decision, trying to satisfy a critic who will never be satisfied, because the critic isn't real. They're a recording.
+
+I spent years cycling on decisions without acting. Should I pursue what I want or is that selfish? Should I receive help or does that make me weak? Should I charge what I'm worth or is that arrogant? I thought I was *thinking* about these questions. I wasn't. I was performing for a ghost — trying to prove to an imaginary jury that I wasn't the thing they were accusing me of.
+
+The moment I saw it as fawning, the decisions became obvious. I already knew the answers. The fawning was obscuring them.
+
+**How to recognize it:**
+
+- You're arguing with yourself about whether you deserve something
+- You're trying to justify a decision to... no one
+- You feel guilt about choosing the less painful path, as if ease itself is evidence of wrongdoing
+- You cycle between two options without acting — the cycling IS the fawning
+- A voice says "you're just being selfish / lazy / manipulative" and instead of setting a boundary, you try to prove it wrong
+
+**What it costs:**
+
+External fawning costs you a boundary — you say yes when you mean no, and someone crosses a line. Internal fawning costs you your life direction. You don't pursue what you want. You don't ask for what you need. You waffle on every major decision until the opportunity passes. And every time you submit to the internal voice, you train your body that the voice is right — that your desires really are selfish, that you really don't deserve it, that suffering is a prerequisite for receiving.
+
+**What to do about it:**
+
+The same thing you'd do if the voice was standing in front of you.
+
+1. **See it.** "Oh — I'm fawning. This isn't my own judgment. This is the fawn reflex emulating a critic."
+2. **Set the boundary.** "I'm not available for this. I don't have to defend my desires to a ghost."
+3. **Act on what you already know is true.** The truth was always clear. The fawning was the fog.
+
+You already know how to handle someone in the room who tells you your needs are wrong. You set a boundary, you walk away, you protect yourself. Internal fawning is the same dynamic with a worse disguise — because the attacker sounds like you.
+
 ## The Gift of No
 
 Here's a perspective that might surprise you:
