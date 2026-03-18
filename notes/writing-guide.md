@@ -65,6 +65,14 @@ Don't just execute—think. Ask:
 
 Take risks if they're significantly value-adding, even if it's not the "normal" way to do things.
 
+### 6. The Medium Is the Message
+
+This book teaches seeing through stories into what's actually happening. The language of the book must do the same thing. Every sentence should be free of narrative, free of moral judgment, free of story — just accurate descriptions of behavior and patterns that are inarguable.
+
+The reader should *experience* clear sight by reading this book, not just learn about it. You can dismiss opinions. You can't dismiss accurate descriptions of things you've done. If any sentence contains a story, a judgment, or a narrative frame that someone could contest, the language isn't clear enough yet.
+
+This is the unifying principle behind no moralizing, inarguable writing, and show don't tell. The book walks its own talk by how it communicates everything.
+
 ---
 
 ## Style Guide
@@ -157,5 +165,6 @@ Therapists can be mentioned as a tool — a small tool for specific, narrow prob
 - [ ] Adds 10x value (not just filler)
 - [ ] Anyone on any side of an incident could read without feeling attacked
 - [ ] Quotes formatted correctly
+- [ ] Language walks its own talk — no stories, no narrative frames, just inarguable descriptions of what happens
 
 ---
