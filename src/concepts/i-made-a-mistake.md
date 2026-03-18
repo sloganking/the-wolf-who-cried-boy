@@ -469,11 +469,15 @@ This is survivable. Many people on the other side of this become the most compas
 
 But the transformation requires letting go of the identity that justified the harm. You can't keep being "the protector" while admitting you were the one people needed protection from. Something has to die for something better to be born.
 
+**The Reformed Righteous Predator**
+
 > I wasn't always a paladin of Toran. Most of these scars are from fights I started. I very nearly killed innocents before I decided to change, before I took my oath. But that person who did those things, that's still me. Now, that's who I fight every hour of every day. I don't always win.
 >
 > — *Secret Level, Season 1, Episode 1.*
 
-That's who's on the other side of this. Not someone who pretends the past didn't happen. Someone who owns it — all of it — and fights to be different anyway. The person who nearly killed innocents became the person who takes a knife in the gut and still protects the one who stabbed her, because she knows he's not evil — he's afflicted. That's what a reformed righteous predator looks like. And a righteous predator who wakes up has an advantage most people don't: you've seen the pattern from the inside. You know exactly how moral certainty turns into harm. That makes you better equipped to stop it than anyone who's never been through it.
+The character saying this used to start fights and nearly killed innocents. She changed. And in the scene this quote comes from, someone she's protecting has just stabbed her — and she still shields him from her allies who want to kill him, because she knows he's not in control of what he's doing. That's who's on the other side of the identity crack. Not someone who pretends the past didn't happen. Someone who owns every scar they caused — and fights to be different anyway.
+
+That's what a reformed righteous predator looks like. And you have an advantage most people don't: you've seen the pattern from the inside. You know exactly how moral certainty turns into harm. That makes you better equipped to stop it than anyone who's never been through it.
 
 **Find your compass.**
 
