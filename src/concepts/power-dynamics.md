@@ -37,17 +37,11 @@ Sometimes participants have **more power** over facilitators than facilitators h
 
 ## When Participants Use Their Power to Cause Harm
 
-Here's what we rarely say out loud:
+Most people don't think about this:
 
-**Participants can use their power to harm facilitators and staff.**
+**Participants can use their power to harm facilitators and staff.** Not in theory. In practice. Regularly.
 
-Not "might theoretically be able to." Not "in rare edge cases." **Can. Do. Regularly.**
-
-And here's what's even more uncomfortable:
-
-**It's much, much easier for participants to harm facilitators than the reverse.**
-
-Why? Because:
+It's also easier for participants to harm facilitators than the reverse — because the asymmetry works in the participant's favor:
 
 - Facilitators are held to professional standards. Participants often aren't.
 - Facilitators can't push back without looking like the aggressor.
@@ -57,7 +51,7 @@ Why? Because:
 
 A facilitator who uses their power to cause harm gets called out, cancelled, and removed. A participant who does the same often gets sympathy, support, and followers.
 
-This asymmetry makes it easier for participants to cause harm — and harder for anyone to address it when they do.
+This asymmetry is real — but it's not destiny. A facilitator who understands these dynamics, who can [show their humanity](./when-youve-been-wronged.md#show-your-humanity) under pressure instead of fawning or retaliating, changes the equation entirely. The asymmetry is most dangerous when it's invisible. Once you see it, you can navigate it.
 
 ### When Does Power Become Harmful?
 
