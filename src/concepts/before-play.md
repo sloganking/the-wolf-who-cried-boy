@@ -383,7 +383,9 @@ Two people can align perfectly on relationships, boundaries, desires, health, me
 
 You have a great RBDSMT conversation. Everything aligns. You're both poly. They say "this is casual for me." They mean it when they say it. You play together. It's wonderful.
 
-The next day, you flirt with someone else. They see it. Jealousy hits — and suddenly "this is casual" isn't running the show anymore. Instead of saying "hey, I'm feeling something, can we talk?", they go silent. They build a story: *he used me. I was just a conquest.* By the time you notice something's off, they've told three friends you're "that kind of guy."
+The next day, you flirt with someone else. They see it. Jealousy hits — and suddenly "this is casual" isn't running the show anymore. They didn't know they would feel jealous. When they told you they were poly, they meant it. But the emotional reality of watching you with someone else — after the intimacy you shared — activated something they didn't predict. Instead of saying "hey, I'm feeling jealous and I didn't expect that, can we talk?", the jealousy turns into accusations. Suddenly you should have known not to see other women after what you shared. You're selfish. You're just a pleasure-seeking asshole. The story rewrites the agreement you both made — and now you're defending yourself against charges that didn't exist 24 hours ago, for doing exactly what you both agreed was fine.
+
+Later — sometimes much later — they might admit what actually happened: they got jealous, and the jealousy needed somewhere to go, so it became a story about your character. But by then, three friends already heard you're "that kind of guy."
 
 RBDSMT asked the right questions. They gave honest answers. But self-description breaks down under emotional activation. Their story style only appeared when reality stopped matching their expectations — and no checklist question would have predicted it.
 
