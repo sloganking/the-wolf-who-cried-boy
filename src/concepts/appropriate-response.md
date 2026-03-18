@@ -59,9 +59,9 @@ The person you're responding to might deserve a high-severity response. Or they 
 
 Here's the principle: **You can't determine whether something was a good decision based on how it turned out.**
 
-Don't judge a decision by what happened once. Judge it by what would happen if you made that decision a hundred times. If you play Russian Roulette and survive, was it a good decision? No—because if you played it a hundred times, you'd be dead. The single survival doesn't change the math.
+Don't judge a decision by what happened once. Judge it by the odds you were facing when you made it. Russian Roulette has a one-in-six chance of killing you. If you pull the trigger and survive — even if you win a million dollars for surviving — was it a good decision? No. The odds were against you before you pulled the trigger. The outcome doesn't change the math. That's the [Dice Principle](./responsibility.md#the-dice-principle) — what matters is the size of the die before you roll, not what number came up.
 
-Same applies here. If you skip verification and launch a high-severity response, and this time the person happens to deserve it—run that decision a hundred times. How many innocent people do you destroy? That's the measure of the decision, not the single case where you got lucky.
+Same applies here. If you skip verification and launch a high-severity response, and this time the person happens to deserve it — run that decision a hundred times. How many innocent people do you destroy? That's the measure of the decision, not the single case where you got lucky.
 
 ## Common Inappropriate Responses
 
