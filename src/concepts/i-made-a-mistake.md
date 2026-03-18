@@ -419,6 +419,52 @@ The person you harmed may not forgive you. That's their right. Your job is to do
 
 ---
 
+### When You Were the Righteous Predator
+
+If your over-response came from moral certainty — if you genuinely believed you were protecting people from a predator, and now you're seeing that you caused more harm than the person you were "protecting" everyone from — everything above applies, plus these:
+
+**Their anger at you is proportional.**
+
+Your instinct will be to read their anger as another over-response. It's not. You publicly attacked someone who made a mistake. You may have threatened them, mobilized others against them, damaged their reputation, gotten them removed from communities. Their anger is a proportional response to what you actually did. Don't dismiss it as them being dramatic or manipulative. They were genuinely wronged — by you.
+
+**If the harm was public, the repair needs to be public.**
+
+If you attacked someone's reputation in front of a community — in group chats, on social media, in the room at an event — a private apology doesn't undo the damage. The community still carries the story you put there. Public repair means going to the same spaces where you caused the harm and saying: I was wrong. What I did was disproportionate. This person didn't deserve what I did to them.
+
+This is one of the hardest things a person can do. It requires admitting, to the same people who rallied behind you, that you were the one causing harm — not the person you were pointing at.
+
+**You recruited allies — and they may still be causing harm.**
+
+When you mobilized others against the person you attacked, you didn't just cause harm yourself. You enrolled others in causing harm too. Some of them are still doing it — still carrying the story, still treating the person you attacked as dangerous, still operating on the narrative you created.
+
+You're partly responsible for that. Not fully — they made their own choices. But you gave them the story that drove those choices.
+
+You may need to go to those people and say: the story I told you wasn't the full picture. What I did was an over-response. You may need to correct the record with each person individually.
+
+Some of them won't hear you. They're in [narrative lock](./invisible-patterns.md#narrative-lock) — the story is already part of their identity. They might even turn on you: *"You're being manipulated by the predator!"* That's their pattern, not yours to fix. But the ones who can hear you deserve the truth.
+
+**Repair is a privilege they may not grant.**
+
+The person you attacked may not want anything to do with you. That's their right. You may need to accept that your repair is one-sided — you do what you can (public correction, reaching out, acknowledging the harm) and they decide whether to engage.
+
+Don't push. Don't demand forgiveness. Don't show up expecting a hug. If they're willing to talk, show up with humility. If they're not, respect that boundary. You're not owed closure just because you're ready to give it.
+
+And if they are willing — know that an apology alone might not be enough. This isn't a transaction where you say sorry and they forgive. They may need genuine human connection, not just words. They may need to see, over time, that you've actually changed — not just that you feel bad. Real repair after this kind of harm is a process, not an event.
+
+**Your identity may crack.**
+
+If you've built your identity around protecting people, fighting predators, being one of the good ones — seeing yourself as the [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) can feel like the ground opening. Everything you believed about yourself is in question. Your friendships, your community, your sense of purpose — they may all be built on the same story you're now seeing through.
+
+This is the deepest form of [sinsickness](#sinsickness). You're not just sick about a mistake — you're sick about who you've *been*. The beliefs that drove your behavior were woven into your identity. Pulling them out feels like pulling out your spine.
+
+And it gets harder: you may look around and realize that many of your friends are still in the same pattern. Still righteous. Still certain. Still causing the same harm you just woke up to. You may have to decide whether to try to wake them up — knowing many of them are in [narrative lock](./invisible-patterns.md#narrative-lock) and won't hear you — or whether to walk away from a community that's built on the very pattern you've just escaped.
+
+This is survivable. Many people on the other side of this become the most compassionate, clear-sighted people in their communities — because they've seen the pattern from the inside. They know exactly how it works, how it feels, and how to stop it. The identity that cracks open makes room for something stronger.
+
+But the transformation requires letting go of the identity that justified the harm. You can't keep being "the protector" while admitting you were the one people needed protection from. Something has to die for something better to be born.
+
+---
+
 ## The Stories Others Tell
 
 After a mistake—especially a public one—people will have opinions. Some will be understanding. Some will be harsh. Some will be completely inaccurate.
