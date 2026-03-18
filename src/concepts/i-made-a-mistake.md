@@ -447,9 +447,7 @@ You're the primary reason they have that story. Yes, they made their own choices
 
 You may need to go to those people and say: the story I told you wasn't the full picture. My response was an over-response. You may need to correct the record with each person individually.
 
-Some of them won't hear you. They're in [narrative lock](./invisible-patterns.md#narrative-lock) — the story is already part of their identity. They might turn on you: *"You're being manipulated by the predator!"* And here's the thing — you can't tell them they're wrong any more effectively than the person you attacked could tell *you*. They're going to need to see it, not hear it. If you want to wake them up, you have to show them — through your actions, through the change in you, through the repair you're doing — not lecture them into clarity. They won't believe you telling them "we were the bad guys" any more than you believed it when you were in their position.
-
-The ones who can see clearly deserve the truth. The ones who can't — that's their journey, not yours to force.
+Some of them won't hear you — for the same reasons covered above. But you can't lecture someone out of [narrative lock](./invisible-patterns.md#narrative-lock). If you want to change what they see, you have to show them through your actions, not your words.
 
 **Repair is a privilege they may not grant.**
 
