@@ -69,6 +69,10 @@ These pages are strong but long enough that reader fatigue is a risk. A tighteni
 - [ ] `responsibility.md` (contributing vs. determining factors section is dense)
 - [ ] `fawning.md` ("The Gift of No" and "Especially for Men" sections)
 
+## New Content Needed
+
+- [ ] **Righteous predator repair** — What do you do when you realize YOU were the righteous predator? Different from normal repair: sinsickness is worse, their anger is proportional, harm was public/community-wide, you recruited allies who also caused harm, repair is a privilege they may not grant. Candidate locations: subsection in `i-made-a-mistake.md` (the realization) and/or `making-it-right.md` (the repair process). Needs author voice — not a word-swap task.
+
 ## Tone
 
 - [ ] `responsibility.md` — "There are no victims, only volunteers" (Tony Robbins quote) may land harshly for trauma survivors; consider framing or context
