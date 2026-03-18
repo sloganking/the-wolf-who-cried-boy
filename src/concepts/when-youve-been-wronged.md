@@ -69,6 +69,8 @@ If you skip this, the room assumes the worst — that you harmed someone, didn't
 
 **2. State a principle no one can argue with.** Say what you believe — out loud, to the room. "I believe all people should be treated as human beings, not monsters." That's it. Don't elaborate. Don't defend. Just say it. The moment that sentence lands, everyone in the room has to evaluate who in this interaction is treating someone as a human being and who isn't. You didn't point at anyone. You didn't accuse. You just stated a principle — and the room will do the math on its own.
 
+Notice the difference: "You're not treating me like a person" is an accusation — arguable and contestable. "I believe all people should be treated as human beings" is a principle — inarguable — and it lets the room draw their own conclusions about who's living up to it.
+
 This step is critical. If you skip it — if you just set the boundary and leave without stating what you believe — the room has no frame for your behavior. They'll fill in the default: *he's being defensive, he's trying to avoid consequences, he's not taking responsibility.* The principle gives the room a different lens. Now your boundary isn't evasion — it's someone acting on a belief they just stated out loud. And anyone who wants to call that manipulation has to argue that treating people as human beings is a manipulation tactic. That's a position no one reasonable wants to defend.
 
 **3. Set the boundary and leave.** "I'm not being spoken to this way. If you want to have a conversation with dignity and respect, I'm open. Until then, you'll have to handle your emotions on your own." Then walk away.
