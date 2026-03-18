@@ -49,7 +49,7 @@ You're indulging in your own suffering.
 
 That's not noble. That's not penance. That's self-indulgence dressed up as remorse.
 
-There's a difference between guilt that moves you and guilt that buries you. Feeling "I did something harmful and I need to make it right" — that's useful. That has a direction. Follow it. But feeling "I'm a terrible person and I should disappear" — that's [sinsickness](#sinsickness), and it doesn't help you or the person you harmed. (More on this distinction [below](#sinsickness).)
+There's a difference between guilt that moves you and guilt that buries you. Feeling "I did something harmful and I need to make it right" — that's useful. That has a direction. Follow it. But feeling "I'm a terrible person and I should disappear" — that's [sinsickness](#sinsickness), and it doesn't help you or the person you harmed.
 
 **The proper response to a mistake isn't collapse—it's action.**
 
