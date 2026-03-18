@@ -82,7 +82,7 @@ When someone is already over-responding, they sometimes frame their over-respons
 
 This reframes an over-response as an under-response — and [belief-blind](./trauma-and-filters.md) observers buy it. They hear "I'm holding back" and think: *this person is being reasonable. They could be doing more. How restrained of them.*
 
-But look at what's actually happening: someone is already causing disproportionate harm, and they're using the *possibility* of even greater harm to make their current harm look justified. The fact that they *could* do worse doesn't make what they're *doing* proportional. A person screaming death threats at someone who crossed a boundary for one second is not showing mercy by not following through. They're over-responding — and framing the over-response as a gift.
+But look at what's actually happening: someone is already causing disproportionate harm, and they're using the *possibility* of even greater harm to make their current harm look justified. Breaking someone's nose isn't justified because you could have broken their arm too and didn't. The fact that you *could* do worse doesn't make what you're *doing* proportional. A person screaming death threats at someone who crossed a boundary for one second is not showing mercy by not following through. They're over-responding — and framing the over-response as a gift.
 
 ## The Math of Proportionality
 
