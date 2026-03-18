@@ -447,7 +447,7 @@ You're the primary reason they have that story. Yes, they made their own choices
 
 You may need to go to those people and say: the story I told you wasn't the full picture. My response was an over-response. You may need to correct the record with each person individually.
 
-Some of them won't hear you — for the same reasons covered above. But you can't lecture someone out of [narrative lock](./invisible-patterns.md#narrative-lock). If you want to change what they see, you have to show them through your actions, not your words.
+Some of them won't hear you — for the same reasons covered above. You can't lecture someone out of [narrative lock](./invisible-patterns.md#narrative-lock). But the repair you're already doing *is* the showing. When you publicly correct the record, when you treat the person you harmed with dignity, when the next accusation flies and you're the one saying "wait — have we actually verified this?" — the people around you see that. You don't need a separate strategy for waking them up. Live differently. The ones who can see it will see it.
 
 **Repair is a privilege they may not grant.**
 
