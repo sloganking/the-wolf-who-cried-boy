@@ -89,3 +89,11 @@ I became a reverse fawner because expressing needs as a kid was dangerous. Sitti
 **Where to use:** Coaching context, personal story in workshops. The book captures the origin pattern in general terms ("a family where desire was shamful") — the specific childhood experience is more personal than universal.
 
 ---
+
+### Retroactive Repair: When You Were the Righteous Predator
+
+If you punished someone and they thanked you for it (gratitude-based fawning), and you later realize your response was out of line — go back and tell them. Not just to repair, but to help them see that thanking you for mistreating them was a sign of their own fawning. They were thinking about themselves in a harmful way if they accepted your punishment as deserved. You might be able to help them undo some of that sinsickness.
+
+**Where to use:** Coaching, facilitation training. The book covers repair and fawning separately — this specific intersection (helping someone undo their gratitude-fawn after you realize you wronged them) is more of a coaching tool than a book concept.
+
+---
