@@ -8,23 +8,46 @@ Tracked issues to resolve before the book is ready for release.
 
 These are places where the book describes people instead of behaviors — exactly what it tells readers not to do. Each should be reframed to describe the behavior, not label the person.
 
-- [ ] `severity.md` — "If you cry victim loud enough, you become the perpetrator" (identity label; could describe the behavior/dynamic instead)
-- [ ] `appropriate-response.md` — Repeats "If you cry victim hard enough, you become the perpetrator" — same issue
-- [ ] `fawning.md` line 581 — "you are **abusing your power as a victim**" (labeling; could describe what's happening without the identity frame)
-- [ ] `before-you-judge.md` — Review for any "you're not immune" language that edges into lecturing
-- [ ] `drama-triangle.md` — "Abusing their power as a victim" (same pattern)
-- [ ] `types-of-mistakes.md` — "The person who responded became one" (identity language for predator; describe the behavior)
-- [ ] `power-dynamics.md` — "Participants Can Be Abusers" section title (labels people; could describe behavior)
-- [ ] `power-dynamics.md` — Full page pass needed. Heavy use of "abuse" / "abuser" throughout. Reframe to describe behaviors and dynamics instead of labeling people. High priority — contradicts the book's core principle
-- [ ] `all-power-is-mutual.md` — Full page pass needed. Same issue — "abuser," "abusing power as a victim," etc. Flagged at top of page. High priority
-- [ ] "Character assassination" — appears in `when-youve-been-wronged.md` (line 435), `before-you-judge.md`, `when-things-go-wrong.md`, `before-play.md`. Narrative/dramatic language; replace with descriptions of the behavior (e.g., "public attacks on your reputation")
+### Fixed ✅
+
+- [x] `drama-triangle.md` — "Abusing their power as a victim" → replaced with behavioral description
+- [x] `fawning.md` — "abusing your power as a victim" → replaced with behavioral description
+- [x] `all-power-is-mutual.md` — "abusing power as a victim" → replaced; Vulnerability Flip toned down
+- [x] `when-things-go-wrong.md` — "abusing their power as a victim" → replaced
+- [x] `when-youve-been-wronged.md` — "abusing their power as a victim" → replaced (two instances)
+- [x] All "playing victim" → swept to "crying victim" across book
+- [x] `making-it-right.md` — "play victim" → "cry victim"
+- [x] `before-play.md` — "play victim" → "cry victim"
+- [x] `introduction.md` — "playing victim" → "crying victim"
+
+### Still Outstanding
+
+- [ ] **`power-dynamics.md`** — HIGHEST PRIORITY. Full page pass needed. "Participants Can Be Abusers" section title, "you become the abuser," heavy abuse/abuser identity language throughout. Contradicts the book's core principle. Needs rewrite, not just word-swapping.
+- [ ] **"If you cry victim loud/hard enough, you become the perpetrator"** — identity label ("you become the perpetrator"). Appears in 4 places: `severity.md`, `appropriate-response.md`, `power-dynamics.md`, `examples.md`. Reframe to describe the behavior/dynamic instead.
+- [ ] `types-of-mistakes.md` — "The person who responded became one" (identity label for predator)
+- [ ] `before-you-judge.md` — Review for lecturing tone
+
+## Drama Triangle Page Review
+
+- [ ] **`drama-triangle.md`** — AI-generated, never reviewed by author. Needs full review for voice, accuracy, and alignment with the book's current standard. Zero author wording. May duplicate concepts taught elsewhere.
+
+## Wound Language Check
+
+- [ ] `when-youve-been-wronged.md` — line 457 area uses "character assassination," "witch hunt," "banished" — verify these are describing what others say (OK) vs. the author using wound language then backtracking (not OK)
+
+## "Character Assassination" Language
+
+- [ ] `when-things-go-wrong.md` (line 110) — "doing character assassination"
+- [ ] `before-play.md` (line 299) — "Character assassination"
+- [ ] `before-you-judge.md` (line 331) — "character assassinations"
+- [ ] `when-youve-been-wronged.md` (line 457) — may be OK (deconstructing the phrase as wound-language)
 
 ## Repetition
 
 Ideas that appear across multiple chapters and could be consolidated or cross-referenced instead of restated.
 
 - [ ] The Inquisitor example — appears in multiple chapters; consider making one the canonical version and referencing it elsewhere
-- [ ] "If you cry victim hard enough" — appears in severity, appropriate-response, and possibly others
+- [ ] "If you cry victim hard enough" — appears in severity, appropriate-response, power-dynamics, examples
 - [ ] Popcorn metaphor — introduced in types-of-mistakes, referenced elsewhere; check if re-explanations are needed or redundant
 - [ ] "Your touch is a privilege" — appears in fawning and possibly others
 
