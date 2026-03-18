@@ -42,40 +42,40 @@ Here's how:
 | Can start witch hunts in the community             | Would be condemned for doing the same |
 | Can make accusations (true or false)               | Must defend themselves carefully      |
 | Can threaten, intimidate, escalate                 | Must de-escalate and hold boundaries  |
-| Can mobilize others against staff                  | Would look abusive doing the same     |
+| Can mobilize others against staff                  | Would look like the aggressor         |
 | Can leave and bad-mouth the event                  | Depend on reputation for livelihood   |
 
 **Participants have offensive options that facilitators don't.** Facilitators are expected to act responsibly. Participants often aren't held to the same standard—and even when they behave inappropriately, mobs may still take their side.
 
-## Let's Be Explicit: Participants Can Be Abusers
+## When Participants Use Their Power to Cause Harm
 
 Here's what we rarely say out loud:
 
-**Participants can abuse their power over facilitators and staff.**
+**Participants can use their power to harm facilitators and staff.**
 
 Not "might theoretically be able to." Not "in rare edge cases." **Can. Do. Regularly.**
 
 And here's what's even more uncomfortable:
 
-**It's much, much easier for participants to abuse their power over facilitators than the reverse.**
+**It's much, much easier for participants to harm facilitators than the reverse.**
 
 Why? Because:
 
 - Facilitators are held to professional standards. Participants often aren't.
-- Facilitators can't fight back without looking like abusers themselves.
+- Facilitators can't push back without looking like the aggressor.
 - Facilitators depend on reputation for their livelihood. Participants can attack anonymously.
 - Society expects facilitators to be accountable. It often gives participants a pass.
 - Mobs side with the person crying, not the person holding boundaries.
 
-A facilitator who abuses power gets called out, cancelled, and removed. A participant who abuses power often gets sympathy, support, and followers.
+A facilitator who uses their power to cause harm gets called out, cancelled, and removed. A participant who does the same often gets sympathy, support, and followers.
 
-This asymmetry makes participant abuse of power easier to commit and harder to address.
+This asymmetry makes it easier for participants to cause harm — and harder for anyone to address it when they do.
 
-### When Does Power Become Abuse?
+### When Does Power Become Harmful?
 
 If you are a participant, you have power. Significant power. The question is how you use it.
 
-**This is NOT abuse:**
+**This is NOT causing harm:**
 
 - Sharing your genuine experience to protect others
 - Calling out harmful behavior you verified actually happened
@@ -85,19 +85,19 @@ If you are a participant, you have power. Significant power. The question is how
 
 On that last point: if you've been through significant experiences and gained insight, you may have perspective that even experienced facilitators lack. Don't assume they've seen everything—they haven't. Your wisdom is a resource. Offer it respectfully. (See: [Your First Officer](./facilitator-protocols.md#your-first-officer))
 
-**This IS abuse:**
+**This IS causing harm:**
 
 - Using reputation damage as a threat to get compliance ("Do what I want or I'll destroy you")
 - Mobilizing a group against someone without verifying what actually happened
-- Weaponizing accusations to punish someone—not to protect others, but because you're angry
+- Using accusations to punish someone — not to protect others, but because you're angry
 - Exaggerating or fabricating claims to maximize damage
 - Starting a witch hunt based on feelings, vibes, or gossip rather than verified facts
 - Intimidating staff into letting you violate boundaries
 - Inflicting HIGH severity consequences for LOW severity mistakes
 
-The difference between accountability and abuse is:
+The difference between accountability and causing harm:
 
-| Accountability                        | Abuse                                     |
+| Accountability                        | Causing Harm                              |
 | ------------------------------------- | ----------------------------------------- |
 | Based on verified facts               | Based on feelings, assumptions, or gossip |
 | Proportional to what happened         | Maximized for punishment                  |
@@ -105,37 +105,27 @@ The difference between accountability and abuse is:
 | Open to being wrong                   | Certain of rightness without verification |
 | Takes responsibility for own response | Blames entirely, takes no responsibility  |
 
-If your actions look like the right column, you're not holding someone accountable. You're abusing your power.
+If your actions look like the right column, you're not holding someone accountable. You're using your power to cause harm.
 
-### The Language We Need to Use
+### The Double Standard
 
-When a facilitator uses their position to coerce sexual favors, we call it **abuse of power.**
+When a facilitator uses their position to coerce someone, everyone sees it immediately — a person in power, using that power to get what they want at someone else's expense.
 
-When a boss threatens an employee's livelihood to get compliance, we call it **abuse of power.**
+When a participant threatens a facilitator's reputation, livelihood, and safety to get what they want — that's the same dynamic, reversed. When participants mobilize against facilitators based on unverified accusations and emotional contagion — same dynamic. When someone uses the power that comes with being wronged to destroy someone who made a mistake — same dynamic.
 
-When a participant threatens a facilitator's reputation, livelihood, and safety to get what they want, we need to call it what it is:
-
-**Abuse of power.**
-
-When participants start witch hunts against facilitators based on unverified accusations, mob judgment, and emotional contagion, we need to call it what it is:
-
-**Abuse of power.**
-
-When someone weaponizes victim status to destroy someone who made an innocent mistake, we need to call it what it is:
-
-**Abuse of power.**
+We recognize it instantly in one direction. We're often blind to it in the other.
 
 ### You Are Not Exempt
 
 If you're reading this and thinking "but I would never do that"—good.
 
-But also: have you ever repeated an accusation you didn't verify? Joined a pile-on because others were upset? Made a judgment based on vibes instead of facts?
+But: have you ever repeated an accusation you didn't verify? Joined a pile-on because others were upset? Made a judgment based on vibes instead of facts?
 
-Those are the first steps toward abuse.
+Those are the first steps toward the kind of harm this section describes.
 
-**You have more power than you think. Act like it. Wield it responsibly. Or you become the abuser.**
+**You have more power than you think. And unrecognized power is the most destructive kind.**
 
-The same standards we apply to facilitators apply to you. If it would be abuse for them to do it, it's abuse for you to do it. Full stop.
+The same standards that apply to facilitators apply to you. If it would be harmful for a facilitator to do it to a participant, it's harmful for a participant to do it to a facilitator.
 
 ## Example: The Intimidating Participant
 
@@ -177,7 +167,7 @@ Even now, Jordan still has power:
 - Jordan can rally other participants against the facilitator _during_ the event
 - Others might side with Jordan out of [mob judgment](./before-you-judge.md)—because they saw Jordan upset and the facilitator "kicking them out"
 
-The facilitator did everything right. And they're still vulnerable to someone who is willing to wield victim status as a weapon.
+The facilitator did everything right. And they're still vulnerable to someone who is willing to use the power of being wronged to cause disproportionate damage.
 
 ## Example: High-Profile Relationships
 
@@ -254,9 +244,9 @@ When you don't recognize your power:
 | -------------------------------------- | --------------------------------------------- |
 | Facilitator has power over participant | Participant can also harm facilitator         |
 | Authority figure is always "up"        | Authority figures can be vulnerable           |
-| Victim has no power                    | Victim status can be weaponized               |
+| Victim has no power                    | The wronged party can cause enormous harm     |
 | Famous person controls the dynamic     | Less-famous person can destroy them publicly  |
-| The "powerful" person is the threat    | The "powerless" person may be the real threat |
+| The "powerful" person is the threat    | The "powerless" person may cause more damage  |
 
 This doesn't mean victims aren't real or that power imbalances don't exist.
 
