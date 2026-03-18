@@ -469,7 +469,11 @@ This is survivable. Many people on the other side of this become the most compas
 
 But the transformation requires letting go of the identity that justified the harm. You can't keep being "the protector" while admitting you were the one people needed protection from. Something has to die for something better to be born.
 
-**The Reformed Righteous Predator**
+**What Gets Born**
+
+Here's what you need to know: the part of you that wanted to protect people was real. The fire was real. The desire to fight for something good — that was never the problem. The problem was that the fire didn't have sight. You had a warrior's intensity with no clarity behind it, and an unwise warrior doesn't protect anyone — they just cause suffering while believing they're helping.
+
+When you wake up, you don't lose the fire. You give it eyes. You become the person who has the same intensity, the same willingness to act — but now with the clarity to know *when* to act, *how much* force is appropriate, and *whether the target actually deserves it*. You don't become less. You become more.
 
 > I wasn't always a paladin of Toran. Most of these scars are from fights I started. I very nearly killed innocents before I decided to change, before I took my oath. But that person who did those things, that's still me. Now, that's who I fight every hour of every day. I don't always win.
 >
