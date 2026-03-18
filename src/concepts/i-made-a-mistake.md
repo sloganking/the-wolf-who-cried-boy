@@ -8,7 +8,7 @@ Mistakes in these spaces come in different forms:
 
 - **You made an unconscious mistake.** An accidental boundary crossing, a miscommunication, moving too fast, not checking in. You didn't intend harm — you just weren't aware enough in the moment. This is the most common kind of mistake, and [types of mistakes](./types-of-mistakes.md) covers the mechanics. Most of this page was written for you.
 
-- **You were a [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator).** You attacked someone — maybe publicly, maybe viciously — because you genuinely believed they were dangerous and you were protecting others. Now you're realizing the harm you caused was disproportionate, or that the person you attacked didn't deserve it. You thought you were the hero. You're now seeing you might have been the villain in someone else's story. That's a specific kind of crisis, and this page is for you too.
+- **You were a [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator).** You attacked someone — maybe publicly, maybe viciously — because you genuinely believed they were dangerous and you were protecting others. Now you're realizing you over-responded — maybe severely — or that the person you attacked didn't deserve it. You thought you were the hero. You're now seeing you might have been the villain in someone else's story. That's a specific kind of crisis, and this page is for you too.
 
 - **You were a selfish predator.** You knowingly did something harmful — manipulated someone, exploited a power dynamic, crossed boundaries you knew were there. Maybe a harmful belief justified it at the time. Maybe you told yourself they wanted it, or that the world owed you, or that everyone does it. Now you see through that story and you want to do better. This page is for you too — *especially* the sections on [sinsickness](#sinsickness) and [shame vs. guilt](#sinsickness). The repair is bigger. The accountability is bigger. But the path forward is the same.
 
@@ -81,7 +81,7 @@ Surround yourself with people who want you to grow, to contribute, to be loved. 
 
 The severity framework applies to yourself too.
 
-If someone else made a LOW severity mistake and the community responded with year-long exile and identity destruction, you'd recognize that as disproportionate. HIGH severity response to LOW severity harm. Unfair.
+If someone else made a LOW severity mistake and the community responded with year-long exile and identity destruction, you'd recognize that as an over-response. HIGH severity response to LOW severity harm. Unfair.
 
 So why hold yourself to a harsher standard?
 
@@ -155,7 +155,7 @@ This is one of the most disorienting realizations a person can have. You didn't 
 
 The sinsickness that comes from this is unique: you can't fall back on "I didn't mean to." You meant every word. You just meant it toward the wrong target, at the wrong intensity, based on a story that felt like truth. Now you have to live with having been the thing this book warns about — while also recognizing that you were operating on the same invisible beliefs that drive everyone in this book. You're not uniquely evil. You're typically human.
 
-Everything on this page applies to you. The guilt — "I caused disproportionate harm and I need to make it right" — has a direction. Follow it. The shame — "I'm a terrible person for doing that" — is sinsickness, and it won't help you or the person you harmed. [Make it right](./making-it-right.md). And become the person who sees clearly next time the room is about to turn on someone who doesn't deserve it.
+Everything on this page applies to you. The guilt — "I over-responded and caused real harm, and I need to make it right" — has a direction. Follow it. The shame — "I'm a terrible person for doing that" — is sinsickness, and it won't help you or the person you harmed. [Make it right](./making-it-right.md). And become the person who sees clearly next time the room is about to turn on someone who doesn't deserve it.
 
 ### Return to Community
 
@@ -405,7 +405,7 @@ This is hard to hold. Your brain wants to justify the response because you were 
 | Mistake they'd have apologized for? | Something that can't be undone? |
 | Private incident?                   | Public destruction?             |
 
-If your response was disproportionate, you became the primary source of harm in this situation—even though you were harmed first.
+If your response was an over-response, you became the primary source of harm in this situation — even if you were harmed first.
 
 **What to do:**
 
@@ -423,39 +423,47 @@ The person you harmed may not forgive you. That's their right. Your job is to do
 
 If your over-response came from moral certainty — if you genuinely believed you were protecting people from a predator, and now you're seeing that you caused more harm than the person you were "protecting" everyone from — everything above applies, plus these:
 
-**Their anger at you is proportional.**
+**Their anger at you is probably proportional.**
 
-Your instinct will be to read their anger as another over-response. It's not. You publicly attacked someone who made a mistake. You may have threatened them, mobilized others against them, damaged their reputation, gotten them removed from communities. Their anger is a proportional response to what you actually did. Don't dismiss it as them being dramatic or manipulative. They were genuinely wronged — by you.
+Your instinct will be to read their anger as another over-response. It almost certainly isn't. You publicly attacked someone — maybe someone who made a small mistake, maybe someone who did nothing wrong at all — and caused them serious harm. You may have threatened them, mobilized others against them, damaged their reputation, gotten them removed from communities. Their anger is a response to what you actually did to them, not to the original incident. Don't dismiss it as them being dramatic or manipulative. They were genuinely wronged — by you.
 
 **If the harm was public, the repair needs to be public.**
 
-If you attacked someone's reputation in front of a community — in group chats, on social media, in the room at an event — a private apology doesn't undo the damage. The community still carries the story you put there. Public repair means going to the same spaces where you caused the harm and saying: I was wrong. What I did was disproportionate. This person didn't deserve what I did to them.
+If you attacked someone's reputation in front of a community — in group chats, on social media, in the room at an event — a private apology doesn't undo the damage. The community still carries the story you put there. Public repair means going to the same spaces where you caused the harm and saying: I was wrong. My response was an over-response. This person didn't deserve what I did to them.
 
 This is one of the hardest things a person can do. It requires admitting, to the same people who rallied behind you, that you were the one causing harm — not the person you were pointing at.
+
+And here's what makes it harder: the people who rallied behind you may try to pull you back. They're still in [narrative lock](./invisible-patterns.md#narrative-lock). They still believe the story. When you say "I was wrong," they may say: *"No you weren't — they really are dangerous. You're being manipulated."* They may try to keep you in the [drama triangle](./drama-triangle.md) — casting you as the hero and the person you harmed as the villain — because your reversal threatens their own identity, their own certainty, their own actions.
+
+It will be tempting to believe them. The old narrative is easier. Admitting fault is terrifying, especially when the mob is offering you a way not to. But you've already seen through the story. Going back into it would be choosing comfortable blindness over what you know to be true.
+
+The good news: you have an advantage no one else has. You're not the person they attacked — the one they've already decided is dangerous. You're the one they trusted. The one they followed. When the accused says "I was wronged," the mob dismisses it. When the accuser says "I was wrong," the mob has to listen. That's real power. You have more leverage to change this narrative than anyone else involved. And if you care about justice — actual justice — that leverage is an opportunity you don't want to waste.
 
 **You recruited allies — and they may still be causing harm.**
 
 When you mobilized others against the person you attacked, you didn't just cause harm yourself. You enrolled others in causing harm too. Some of them are still doing it — still carrying the story, still treating the person you attacked as dangerous, still operating on the narrative you created.
 
-You're partly responsible for that. Not fully — they made their own choices. But you gave them the story that drove those choices.
+You're the primary reason they have that story. Yes, they made their own choices — they didn't verify, they didn't question, they over-responded too. But you're the one who started it. Without you, there's no story, no mob, no harm. Own that.
 
-You may need to go to those people and say: the story I told you wasn't the full picture. What I did was an over-response. You may need to correct the record with each person individually.
+You may need to go to those people and say: the story I told you wasn't the full picture. My response was an over-response. You may need to correct the record with each person individually.
 
-Some of them won't hear you. They're in [narrative lock](./invisible-patterns.md#narrative-lock) — the story is already part of their identity. They might even turn on you: *"You're being manipulated by the predator!"* That's their pattern, not yours to fix. But the ones who can hear you deserve the truth.
+Some of them won't hear you. They're in [narrative lock](./invisible-patterns.md#narrative-lock) — the story is already part of their identity. They might turn on you: *"You're being manipulated by the predator!"* And here's the thing — you can't tell them they're wrong any more effectively than the person you attacked could tell *you*. They're going to need to see it, not hear it. If you want to wake them up, you have to show them — through your actions, through the change in you, through the repair you're doing — not lecture them into clarity. They won't believe you telling them "we were the bad guys" any more than you believed it when you were in their position.
+
+The ones who can see clearly deserve the truth. The ones who can't — that's their journey, not yours to force.
 
 **Repair is a privilege they may not grant.**
 
-The person you attacked may not want anything to do with you. That's their right. You may need to accept that your repair is one-sided — you do what you can (public correction, reaching out, acknowledging the harm) and they decide whether to engage.
+The person you attacked may not want anything to do with you. That's their right. You can only make an invitation — an offer to add goodness back into their life. They don't have to accept. And they get to decide what goodness looks like to them, not you.
 
 Don't push. Don't demand forgiveness. Don't show up expecting a hug. If they're willing to talk, show up with humility. If they're not, respect that boundary. You're not owed closure just because you're ready to give it.
 
-And if they are willing — know that an apology alone might not be enough. This isn't a transaction where you say sorry and they forgive. They may need genuine human connection, not just words. They may need to see, over time, that you've actually changed — not just that you feel bad. Real repair after this kind of harm is a process, not an event.
+And if they are willing — know that an apology alone probably won't be enough. Words don't undo what happened. The goal of repair is to create at least as much value in their life as you took — ideally more — so that the net result of knowing you is positive, not negative. That might mean genuine human connection over time. It might mean something you haven't thought of yet. They may need to see, over time, that you've actually changed — not just that you feel bad. Real repair after this kind of harm is a process, not an event.
 
 **Your identity may crack.**
 
 If you've built your identity around protecting people, fighting predators, being one of the good ones — seeing yourself as the [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) can feel like the ground opening. Everything you believed about yourself is in question. Your friendships, your community, your sense of purpose — they may all be built on the same story you're now seeing through.
 
-This is the deepest form of [sinsickness](#sinsickness). You're not just sick about a mistake — you're sick about who you've *been*. The beliefs that drove your behavior were woven into your identity. Pulling them out feels like pulling out your spine.
+This is the deepest form of [sinsickness](#sinsickness). You're not just sick about a mistake — you're sick about who you've *been*. Maybe it was one incident. Maybe it was a decade of incidents — a career, a mission, a life built on a pattern you're only now seeing. The beliefs that drove your behavior were woven into your identity. Pulling them out feels like pulling out your spine.
 
 And it gets harder: you may look around and realize that many of your friends are still in the same pattern. Still righteous. Still certain. Still causing the same harm you just woke up to. You may have to decide whether to try to wake them up — knowing many of them are in [narrative lock](./invisible-patterns.md#narrative-lock) and won't hear you — or whether to walk away from a community that's built on the very pattern you've just escaped.
 
