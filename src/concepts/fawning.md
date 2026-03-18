@@ -484,7 +484,7 @@ But there's a version no one talks about: **fawning to a voice that isn't in the
 
 Here's what it looks like. You're about to make a decision — ask for what you want, set a boundary, pursue something important to you. And a voice inside says: *You're just being selfish. You're trying to get out of the hard thing. You don't deserve that. People will see through you.*
 
-That voice sounds like your own judgment. It feels like thinking. But it's not. It's an internalized version of someone who once had power over you — a parent, a critic, an authority figure — and you're fawning to it. You argue with it. You try to prove you're not selfish. You waffle back and forth on the decision, trying to satisfy a critic who will never be satisfied, because the critic isn't real. They're a recording.
+That voice sounds like your own judgment. It feels like thinking. But it's not. It's an internalized version of someone who once had power over you — a parent, a critic, an authority figure — and you're fawning to it. You argue with it. You try to prove you're not selfish. You go back and forth on the decision, trying to satisfy a critic who will never be satisfied, because the critic isn't real. They're a recording.
 
 I spent years cycling on decisions without acting. Should I pursue what I want or is that selfish? Should I receive help or does that make me weak? Should I charge what I'm worth or is that arrogant? I thought I was *thinking* about these questions. I wasn't. I was performing for a ghost — trying to prove to an imaginary jury that I wasn't the thing they were accusing me of.
 
@@ -500,17 +500,31 @@ The moment I saw it as fawning, the decisions became obvious. I already knew the
 
 **What it costs:**
 
-External fawning costs you a boundary — you say yes when you mean no, and someone crosses a line. Internal fawning costs you your life direction. You don't pursue what you want. You don't ask for what you need. You waffle on every major decision until the opportunity passes. And every time you submit to the internal voice, you train your body that the voice is right — that your desires really are selfish, that you really don't deserve it, that suffering is a prerequisite for receiving.
+External fawning costs you a boundary — you say yes when you mean no, and someone crosses a line. Internal fawning costs you your life direction. You don't pursue what you want. You don't ask for what you need. You go back and forth on every major decision until the opportunity passes. And every time you submit to the internal voice, you train your body that the voice is right — that your desires really are selfish, that you really don't deserve it, that suffering is a prerequisite for receiving.
+
+**Why you stop speaking truth — to others and to yourself:**
+
+When someone [accuses you publicly](./when-youve-been-wronged.md), there are often real contributing factors that would help the room understand what happened. Maybe you were on sleeping medication. Maybe you zoned out for one second. Maybe the boundary was already repaired. But you don't say those things — because the voice (theirs or yours) is already whispering: *If you explain yourself, they'll say you're just being manipulative. You're making excuses. You're trying to get out of the punishment you deserve.*
+
+So you withhold the truth. You don't explain the contributing factors. You don't say what you actually believe. You shrink, you go back and forth, or you over-apologize — and the room fills the gap with their worst assumptions. That's external fawning stopping you from speaking truth to others.
+
+Internal fawning is the same thing, aimed at yourself. You know what you believe. You know what decision makes sense. You know the real reasoning. But the voice says *you're just being selfish* — and instead of standing behind what you know is true, you stop. You argue. You try to prove you're not selfish. You never land on a decision, because landing on the decision that happens to be less painful feels like evidence that the voice is right.
+
+Here's the thing: **choosing the less painful path is not evidence of selfishness.** The fact that the better decision also happens to hurt less is a bonus you're allowed to enjoy — not a crime you have to defend. But the fawning voice treats any relief as proof of manipulation, so you never let yourself receive it. You withhold truth from yourself the same way you'd withhold it from a hostile room.
 
 **What to do about it:**
 
-The same thing you'd do if the voice was standing in front of you.
+The same [three-sentence tool](./when-youve-been-wronged.md#what-it-looks-like-when-you-speak-truth) that works when someone's yelling at you in front of a crowd works when the voice is inside your head.
 
-1. **See it.** "Oh — I'm fawning. This isn't my own judgment. This is the fawn reflex emulating a critic."
-2. **Set the boundary.** "I'm not available for this. I don't have to defend my desires to a ghost."
-3. **Act on what you already know is true.** The truth was always clear. The fawning was the fog.
+1. **State what you believe is true.** Not arguing against the accusation — stating your principle. "I believe this is genuinely the decision that gets me where I need to go. The reasoning is clear. The fact that it also involves less suffering doesn't make it wrong." When you explain the real contributing factors to the room, you're not making excuses. You're giving everyone — including yourself — the information they need to see clearly. Withholding it to avoid being called manipulative is the fawning.
 
-You already know how to handle someone in the room who tells you your needs are wrong. You set a boundary, you walk away, you protect yourself. Internal fawning is the same dynamic with a worse disguise — because the attacker sounds like you.
+2. **Name what's happening.** "This voice accusing me of selfishness isn't my own judgment. It's the fawn reflex emulating a critic. I'm performing for a ghost." This is the internal version of naming the disproportionality — *this accusation doesn't match what's actually happening.*
+
+3. **Set the boundary and act.** "I'm not arguing with this. I already know what I believe. I'm doing it." Then do it. The voice doesn't get a vote. You don't owe it a defense. You don't have to prove you're not selfish before you're allowed to act.
+
+Every time you hold this line, your body learns something: *I spoke truth. I set a boundary with the voice. I acted on what I believed. And nothing bad happened.* That's the [reverse bike](./fawning.md#the-reverse-bike) going forward. Every time you fawn to the voice — argue with it, go back and forth, withhold your truth — your body learns: *the voice is right. I can't be trusted. My desires really are selfish.* And the next decision gets harder.
+
+The voice will never be satisfied. It's not trying to protect you. It's a recording of someone who once had power over you, playing on a loop. You don't owe it an explanation. You owe yourself the truth.
 
 ## The Gift of No
 
