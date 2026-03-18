@@ -516,7 +516,7 @@ Learn from my mistakes. Have the conversation.
 
 ## It Doesn't Have to Be Awkward
 
-Some people resist these conversations because they feel clinical or mood-killing.
+Some people resist these conversations because they seem mood-killing or like they delay pleasure.
 
 But:
 
