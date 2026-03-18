@@ -78,7 +78,7 @@ Same applies here. If you skip verification and launch a high-severity response,
 
 ### The Mercy Defense
 
-When someone is already over-responding, they sometimes frame their over-response as restraint: *"I could have done worse." "I'm being kind by only doing this." "You're lucky I'm holding back."*
+When someone is over-responding, they sometimes frame their over-response as restraint: *"I could have done worse." "I'm being kind by only doing this." "You're lucky I'm holding back."*
 
 This reframes an over-response as an under-response — and [belief-blind](./trauma-and-filters.md) observers buy it. They hear "I'm holding back" and think: *this person is being reasonable. They could be doing more. How restrained of them.*
 
