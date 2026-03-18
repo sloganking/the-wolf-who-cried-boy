@@ -67,9 +67,7 @@ That's not repair. That's not justice. That's just more harm in the world.
 
 The shame-filled eye-for-an-eye logic says: "I caused suffering, so I should suffer too." But suffering doesn't create goodness. Your pain doesn't heal theirs. Adding a second victim doesn't balance the scales—it doubles the damage.
 
-It's also the coward's way out.
-
-Hurting yourself is easy. Building yourself up to create value and repair in the world? That's hard. Self-punishment feels like you're doing something, but it's actually avoidance—fear dressed up as penance.
+Hurting yourself is easy. Building yourself up to create value and repair in the world? That's hard. Self-punishment feels like you're doing something, but it's actually avoidance — fear dressed up as penance.
 
 **And if someone wants you to suffer?**
 
