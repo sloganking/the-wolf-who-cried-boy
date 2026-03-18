@@ -9,6 +9,7 @@ Terms, concepts, and distinctions created or specifically defined in this book. 
 | Term | Defined In | Description |
 |------|-----------|-------------|
 | **Righteous Predator** | `why-rescuers-are-dangerous.md` | Someone who causes significant harm from moral certainty, not selfishness; believes they're helping |
+| **Reformed Righteous Predator** | `i-made-a-mistake.md` | A righteous predator who woke up, owns the harm they caused, and fights to be different; has unique insight into the pattern from the inside |
 | **Selfish Predator** | `why-rescuers-are-dangerous.md` | Someone who knowingly causes harm for their own benefit; far rarer than righteous predators |
 | **Narrative Lock** | `invisible-patterns.md` | When someone stops processing new information and filters everything to confirm their existing story |
 | **Sinsickness** | `i-made-a-mistake.md` | Moral immune system attacking you; shame that attacks identity rather than behavior |
@@ -93,6 +94,7 @@ Terms, concepts, and distinctions created or specifically defined in this book. 
 | **Notice, Feel, Story** | `notice-feel-story.md` | Three-step framework separating observation, emotion, and interpretation |
 | **Pseudo-feelings** | `notice-feel-story.md` | Statements that sound like feelings but are claims about others |
 | **Gun Test** | `gun-test.md` | Would you trust yourself with a gun right now? If not, should you be playing? |
+| **Compass Stories** | `i-made-a-mistake.md` | Collecting stories, clips, and quotes that touch your heart as compass points toward who you actually want to be |
 
 ## Facilitation
 
