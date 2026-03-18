@@ -1,8 +1,8 @@
 # Introduction
 
-Anyone can see wrongdoing, assume malice, and punish. That takes nothing — just righteous certainty and anger.
+Anyone can see wrongdoing, assume malice, and punish. That takes nothing — just righteous certainty and anger. That's not a commitment to justice — it's a commitment to fear.
 
-Seeing wrongdoing and understanding why it happened, what beliefs drove it, what patterns made it inevitable — and then seeing the person who did it as a human being and showing them something better than whatever drove them there — that takes everything.
+Seeing wrongdoing and understanding why it happened, what beliefs drove it, what patterns made it inevitable — and then seeing the person who did it as a human being and helping them find a way to get what they actually need that works better than whatever drove them there — that takes empathy, courage, and everything you have.
 
 The first one feels like justice. The second one *is* justice.
 
