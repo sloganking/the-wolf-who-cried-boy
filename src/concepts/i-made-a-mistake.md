@@ -49,7 +49,9 @@ You're indulging in your own suffering.
 
 That's not noble. That's not penance. That's self-indulgence dressed up as remorse.
 
-**The proper response to a mistake isn't guilt—it's action.**
+There's a difference between guilt that moves you and guilt that buries you. Feeling "I did something harmful and I need to make it right" — that's useful. That has a direction. Follow it. But feeling "I'm a terrible person and I should disappear" — that's [sinsickness](#sinsickness), and it doesn't help you or the person you harmed. (More on this distinction [below](#sinsickness).)
+
+**The proper response to a mistake isn't collapse—it's action.**
 
 Make right with your actions. Show up. Repair what you can. Create good in the world that outweighs the harm. That's responsibility. Sitting in a dark room feeling like a terrible person while the world waits for you to contribute? That's you making it about yourself.
 
