@@ -469,6 +469,22 @@ This is survivable. Many people on the other side of this become the most compas
 
 But the transformation requires letting go of the identity that justified the harm. You can't keep being "the protector" while admitting you were the one people needed protection from. Something has to die for something better to be born.
 
+> I wasn't always a paladin of Toran. Most of these scars are from fights I started. I very nearly killed innocents before I decided to change, before I took my oath. But that person who did those things, that's still me. Now, that's who I fight every hour of every day. I don't always win.
+>
+> — *Secret Level, Season 1, Episode 1.*
+
+That's who's on the other side of this. Not someone who pretends the past didn't happen. Someone who owns it — all of it — and fights to be different anyway. The person who nearly killed innocents became the person who takes a knife in the gut and still protects the one who stabbed her, because she knows he's not evil — he's afflicted. That's what a reformed righteous predator looks like. And a righteous predator who wakes up has an advantage most people don't: you've seen the pattern from the inside. You know exactly how moral certainty turns into harm. That makes you better equipped to stop it than anyone who's never been through it.
+
+**Find your compass.**
+
+Trying to stop being something harmful doesn't give you a direction. You need to know who you *want* to be — and you need to feel it, not just think it.
+
+Stories are powerful for this. Movies, shows, books, real moments — when something touches your heart, pay attention. That feeling is your actual values showing up beneath the anger, the fear, the patterns. Most people watch something that moves them, think "that was a good movie," and forget it. Don't forget it. Save the quote. Bookmark the clip. Write down what it made you feel.
+
+Collect those moments. Build a library of them. When the old patterns pull you back — when the anger rises, when the righteous certainty tries to return, when the mob is offering you the easy narrative — go back to those stories. They'll remind you who you actually are. Not who your patterns made you. Not who your worst moments suggest. Who you are when something true cuts through everything else and makes your heart say *that — that's what I care about*.
+
+You can't think your way into a new identity. But you can feel your way there. And every story you collect that touches something real in you is a compass point.
+
 ---
 
 ## The Stories Others Tell
