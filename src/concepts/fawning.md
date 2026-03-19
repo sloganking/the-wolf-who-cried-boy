@@ -504,7 +504,7 @@ External fawning costs you a boundary — you say yes when you mean no, and some
 
 **Why you stop speaking truth — to others and to yourself:**
 
-When someone [accuses you publicly](./when-youve-been-wronged.md), there are often real contributing factors that would help the room understand what happened. Maybe you were on sleeping medication. Maybe you zoned out for one second. Maybe the boundary was already repaired. But you don't say those things — because the voice (theirs or yours) is already whispering: *If you explain yourself, they'll say you're just being manipulative. You're making excuses. You're trying to get out of the punishment you deserve.*
+When someone [accuses you publicly](./when-youve-been-wronged.md), there are often real contributing factors that would help the room understand what happened. Maybe you were intoxicated. Maybe you zoned out for one second. Maybe the boundary was already repaired. But you don't say those things — because the voice (theirs or yours) is already whispering: *If you explain yourself, they'll say you're just being manipulative. You're making excuses. You're trying to get out of the punishment you deserve.*
 
 So you withhold the truth. You don't explain the contributing factors. You don't say what you actually believe. You shrink, you go back and forth, or you over-apologize — and the room fills the gap with their worst assumptions. That's external fawning stopping you from speaking truth to others.
 
