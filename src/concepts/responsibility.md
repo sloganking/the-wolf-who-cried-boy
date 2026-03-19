@@ -422,7 +422,7 @@ Next time someone — including you — explains an outcome by pointing at exter
 
 ### How to State Contributing Factors Without It Becoming Blame
 
-If you've made a mistake and there are real contributing factors — medication, exhaustion, a miscommunication, a split-second lapse — you might suppress them entirely. You've seen what happens when people list reasons: the room hears excuses. Someone says *"you're just trying to get out of it."* So you say nothing, take the hit, and let the room fill the gap with their worst assumptions about why you did it. That's [fawning](./fawning.md) — and it makes things worse, not better.
+If you've made a mistake and there are real contributing factors — intoxication, exhaustion, a miscommunication, a split-second lapse — you might suppress them entirely. You've seen what happens when people list reasons: the room hears excuses. Someone says *"you're just trying to get out of it."* So you say nothing, take the hit, and let the room fill the gap with their worst assumptions about why you did it. That's [fawning](./fawning.md) — and it makes things worse, not better.
 
 The problem isn't stating contributing factors. The problem is stating them in a way that sounds like you're calling them determining ones. The sequence matters:
 
@@ -430,7 +430,7 @@ The problem isn't stating contributing factors. The problem is stating them in a
 "I crossed a boundary. That's on me. I chose to be in that situation while impaired, and I should have been more careful."
 
 **2. Offer the contributing context — explicitly labeled.**
-"If it helps to understand how it happened: I was on sleeping medication and I zoned out for one second. Those aren't excuses — they're contributing factors. They don't change that it happened or that it's my responsibility."
+"If it helps to understand how it happened: I was intoxicated and I zoned out for one second. Those aren't excuses — they're contributing factors. They don't change that it happened or that it's my responsibility."
 
 **3. Let them decide what to do with it.**
 You've owned the determining factor. You've provided context. You've explicitly named the distinction. What they do with that information is up to them.
@@ -439,7 +439,7 @@ This works because leading with ownership takes "you're making excuses" off the 
 
 If someone hears all of that and still says you're manipulating — they don't have the distinction yet. You communicated clearly. You owned the determining factor. You labeled the contributing ones accurately. At that point, their reaction is about their [filters](./trauma-and-filters.md), not your words.
 
-And if you suppress the contributing factors entirely — if you just say "I crossed a boundary, I'm sorry" and nothing else — you leave a gap. People fill gaps with stories. Without context, a one-second lapse while medicated becomes "he's a predator who planned this." Contributing factors aren't excuses. They're the difference between a room that understands what happened and a room that invents a villain.
+And if you suppress the contributing factors entirely — if you just say "I crossed a boundary, I'm sorry" and nothing else — you leave a gap. People fill gaps with stories. Without context, a one-second lapse while intoxicated becomes "he's a predator who planned this." Contributing factors aren't excuses. They're the difference between a room that understands what happened and a room that invents a villain.
 
 See: [100% Control](../tools/100-percent-control.md)
 
