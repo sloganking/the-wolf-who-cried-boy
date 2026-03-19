@@ -230,7 +230,7 @@ Ask yourself:
 - Is this person evil, or confused?
 - What do they believe that's making their actions seem necessary?
 - What would they need to _see_ (not hear) to put down their weapons?
-- Is there a world where we both win?
+- Is there a world where we both win? (If your answer is no — check whether that's reality or [belief blindness](./trauma-and-filters.md#when-the-feeling-comes-first). There is almost always a world where you both win. The inability to see it is usually the belief, not the situation.)
 
 If the answers suggest a path forward, take it. Not because fighting is wrong—sometimes it's right. But because converting an enemy into an ally is almost always better than defeating them.
 
