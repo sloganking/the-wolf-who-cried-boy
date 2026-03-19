@@ -524,9 +524,17 @@ The same [three-sentence tool](./guiding-public-repair.md#speaking-truth-instead
 
 4. **Cement.** One small action that locks the decision in place. Send one text. Say one yes. Make one move so you can't drift back into the fog. The decision becomes real when your body does something about it — not when your mind finishes deliberating. You don't owe the voice a rebuttal. You don't close the debate — you were never in one. You just walk forward.
 
-Every time you hold this line, your body learns something: *I spoke truth. I set a boundary with the voice. I acted on what I believed. And nothing bad happened.* That's the [reverse bike](./fawning.md#the-reverse-bike) going forward. Every time you fawn to the voice — argue with it, go back and forth, withhold your truth — your body learns: *the voice is right. I can't be trusted. My desires really are selfish.* And the next decision gets harder.
+Every time you hold this line, your body learns something. Maybe something good happens — you told the truth and the other person respected you more for it. Now you have pleasure associated with speaking truth, which is what you want. Maybe it wasn't as bad as you feared — the punishment your body predicted never arrived. Or maybe something hard DID happen — and you handled it. You survived. You asked the [responsibility](./responsibility.md) questions, learned from it, and discovered that the story of "if this goes wrong, it's the end of my life and I can never recover" was false. Next time, you feel more confident — not because nothing went wrong, but because you showed yourself you're bigger than the fear. That's the [reverse bike](./fawning.md#the-reverse-bike) going forward.
+
+Every time you fawn to the voice instead — argue with it, go back and forth, withhold your truth — your body learns: *the voice is right. I can't be trusted. My desires really are selfish.* And the next decision gets harder. You never show yourself that anything else is possible.
 
 The voice will never be satisfied. It's not trying to protect you. It's a recording of someone who once had power over you, playing on a loop. You don't owe it an explanation. You owe yourself the truth.
+
+**The shortcut:** If you're in the moment and can't run through all four steps — you're about to respond to someone, you feel the fawning pull, and you need to decide NOW — ask one question: **what action creates the most trust right now?**
+
+Not what avoids conflict. Not what makes them happy. Not what prevents disappointment. What creates the most trust.
+
+The answer is almost always: tell the truth. "I haven't done it. I've been overwhelmed. Here's where I'm at." That's disappointing — and it's also a gift, because now you're both operating in reality instead of a performance. Posturing ("I'll definitely have it tomorrow") might avoid a moment of discomfort, but it erodes trust every time the performance doesn't match reality. Admitting where you actually are — even when it's not where you wanted to be — is what makes a reasonable person think *I can rely on this person to tell me the truth, even when it's hard.* And if they're not reasonable — if they attack you for honesty — that's information too. You just learned they don't handle truth well, and you can [filter](./body-stories.md#stories-and-the-problems-they-create) accordingly.
 
 ## The Gift of No
 
