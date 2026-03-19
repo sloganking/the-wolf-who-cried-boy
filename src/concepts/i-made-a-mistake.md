@@ -103,6 +103,8 @@ And here's where the [judgment double-edge](./invisible-patterns.md#theyre-not-t
 
 The person who thought ["I would never do that"](./body-stories.md#i-would-never-do-that) and judged everyone who did is the person most likely to be destroyed by sinsickness when they inevitably do. They didn't just build the cage — they sharpened the bars.
 
+And sinsickness spreads. When you believe certain actions deserve shame, you shame others who take those actions — and the shame installs in them as a voice. Now they carry it. They [fawn](./fawning.md#fawning-to-yourself) to it. They may never do the thing you shamed them for, but every time they're about to do something reasonable, the voice fires — because their nervous system learned that someone in their tribe would punish them for it. One sinsick person in a community can create a culture of shame that outlasts them.
+
 The distinction that tells you whether you're processing or sinsick:
 
 > **Guilt says "I did bad." Shame says "I am bad."**
