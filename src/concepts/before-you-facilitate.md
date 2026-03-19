@@ -48,11 +48,11 @@ If you're facilitating in intimate spaces without this foundation, you're playin
 
 If you're reading the section above and thinking *"the stakes are too high — I can't afford to make a mistake"* — notice that belief, because it cuts both ways.
 
-As a participant, "facilitators shouldn't make mistakes" turns you into someone who attacks facilitators the moment they're imperfect. You hold them to a standard no human can meet, and when they inevitably fall short, you treat it as evidence that they're dangerous instead of evidence that they're human. You become part of the problem this book describes — a person who [over-responds](./appropriate-response.md) to a mistake because your story says mistakes are unacceptable.
+As a participant, ["facilitators are perfect"](./body-stories.md#i-would-never-do-that) turns you into someone who attacks facilitators the moment they're imperfect. You hold them to a standard no human can meet, and when they inevitably fall short, you treat it as evidence that they're dangerous instead of evidence that they're human. Your story says mistakes are unacceptable, so you treat every mistake as proof the facilitator shouldn't be facilitating.
 
 As a would-be facilitator, the same belief paralyzes you. You look at the role and think: *I know how to do this, but I can't guarantee zero mistakes. And if I make one, the mob will destroy me.* So you never step up. The spaces that need clear-sighted facilitators the most never get one — because the people who could do it are too afraid of the standard they'll be held to.
 
-Being a great facilitator isn't about never making mistakes. It's about taking real measures to reduce them — and then knowing how to handle them gracefully when they happen anyway. Because they will happen. You're a human working with humans in the highest-stakes context there is. The question isn't whether you'll face a situation you've never been in before. It's whether you'll navigate it with integrity when you do.
+Being a great facilitator isn't about never making mistakes. It's about taking real measures to reduce them — and then knowing how to handle them well when they happen anyway. Because they will happen. The question isn't whether you'll face a situation you've never been in before. It's whether you'll [walk your talk](./walking-your-talk.md) when you do.
 
 ---
 
