@@ -441,6 +441,8 @@ If someone hears all of that and still says you're manipulating — they don't h
 
 And if you suppress the contributing factors entirely — if you just say "I crossed a boundary, I'm sorry" and nothing else — you leave a gap. People fill gaps with stories. Without context, a one-second lapse while intoxicated becomes "he's a predator who planned this." Contributing factors aren't excuses. They're the difference between a room that understands what happened and a room that invents a villain.
 
+And it's not just for you. When you say "I was intoxicated and I zoned out," everyone in that room who was also intoxicated last night and DIDN'T make a mistake just learned they were at risk too. Without your vulnerability, they never see it. Your contributing factors become their prevention. A facilitator hears it and updates their policy. A participant hears it and makes a different choice next time. If the room is too busy calling you selfish to hear what actually happened, nobody learns anything — and the same contributing factors create the same outcome with someone else next time.
+
 See: [100% Control](../tools/100-percent-control.md)
 
 ## The Responsibility Mirror
