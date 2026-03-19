@@ -422,7 +422,7 @@ Next time someone — including you — explains an outcome by pointing at exter
 
 ### How to State Contributing Factors Without It Becoming Blame
 
-If you've made a mistake and there are real contributing factors — intoxication, exhaustion, a miscommunication, a split-second lapse — you might suppress them entirely. You've seen what happens when people list reasons: the room hears excuses. Someone says *"you're just trying to get out of it."* So you say nothing, take the hit, and let the room fill the gap with their worst assumptions about why you did it. That's [fawning](./fawning.md) — and it makes things worse, not better.
+If you've made a mistake and there are real contributing factors — intoxication, exhaustion, a miscommunication, a split-second lapse — you might suppress them entirely. You've seen what happens when people list reasons: the room hears excuses. Someone says *"you're just trying to get out of it."* So you say nothing, take the hit, and let the room fill the gap with their worst assumptions about why you did it. You didn't speak what was true because you were afraid of people's reactions. That's [fawning](./fawning.md) — and it makes things worse, not better.
 
 The problem isn't stating contributing factors. The problem is stating them in a way that sounds like you're calling them determining ones. The sequence matters:
 
