@@ -1,7 +1,5 @@
 # Notice, Feel, Story
 
-← [Back to Introduction](../introduction.md)
-
 ---
 
 ## The Problem

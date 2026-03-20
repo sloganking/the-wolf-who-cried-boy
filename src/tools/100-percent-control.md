@@ -1,7 +1,5 @@
 # 100% Control
 
-← [Back to Introduction](../introduction.md)
-
 ---
 
 ## The Concept

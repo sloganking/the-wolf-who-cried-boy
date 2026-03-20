@@ -642,7 +642,3 @@ That's available to you.
 - [Appropriate Response](./appropriate-response.md) — matching response to offense
 - [Responsibility](./responsibility.md) — the creator frame
 - [Drama Triangle](./drama-triangle.md) — don't become the Persecutor or Victim
-
----
-
-[← Back to Introduction](../introduction.md)

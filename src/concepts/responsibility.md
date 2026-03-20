@@ -1,7 +1,5 @@
 # Responsibility
 
-← [Back to Introduction](../introduction.md)
-
 ---
 
 ## Most People Don't Understand Responsibility

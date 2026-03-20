@@ -1,7 +1,5 @@
 # The Gun Test
 
-← [Back to Introduction](../introduction.md)
-
 > **If you wouldn't wield a weapon, should you be wielding a person?**
 
 ---

@@ -1,7 +1,5 @@
 # Before You Facilitate
 
-←← [Back to Introduction](../introduction.md)
-
 ---
 
 

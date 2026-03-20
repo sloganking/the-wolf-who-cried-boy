@@ -1,7 +1,5 @@
 # Fawning
 
-← [Back to Introduction](../introduction.md)
-
 ---
 
 ## What Is Fawning?

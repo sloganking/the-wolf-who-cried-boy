@@ -1,7 +1,5 @@
 # Guiding Public Repair
 
-←← [Back to Introduction](../introduction.md)
-
 ---
 
 Sometimes two people in your container are in conflict, and the whole room already knows about it.

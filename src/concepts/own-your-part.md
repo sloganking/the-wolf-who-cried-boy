@@ -1,7 +1,5 @@
 # Own Your Part — Not Theirs
 
-← [Back to Responsibility](./responsibility.md)
-
 ---
 
 If you're [responsible for everything](./responsibility.md), how can someone push responsibility onto you that isn't yours?

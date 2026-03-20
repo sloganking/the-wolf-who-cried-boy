@@ -1,7 +1,5 @@
 # Severity
 
-← [Back to Introduction](../introduction.md)
-
 ---
 
 Most conflicts in these spaces aren't about what happened. They're about disagreements over how serious it was.
