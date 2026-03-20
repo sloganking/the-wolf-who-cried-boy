@@ -34,7 +34,7 @@ And then the response: "Predator." "You need to leave and never come back." Publ
 
 A LOW or MEDIUM severity accident. Met with a HIGH severity response designed for malice.
 
-**The person who made the mistake wasn't the predator. The person who responded became one.**
+**The person who made the mistake didn't cause the most harm. The person who responded to it did.**
 
 ### A Note on the Word "Predator"
 
