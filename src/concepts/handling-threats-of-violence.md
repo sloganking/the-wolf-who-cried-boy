@@ -1,7 +1,5 @@
 # Handling Threats of Violence: A Complete Walkthrough
 
-←← [Back to Introduction](../introduction.md)
-
 ---
 
 Sometimes, despite everything you've done right as a facilitator—the pre-framing, the promise, the clear agreements—someone makes a good-faith mistake, and someone else responds with death threats.

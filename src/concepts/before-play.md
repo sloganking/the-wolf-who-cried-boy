@@ -1,7 +1,5 @@
 # Before Play
 
-← [Back to Introduction](../introduction.md)
-
 ---
 
 ## Prevention Is the Happy Path

@@ -1,7 +1,5 @@
 # When Things Go Wrong
 
-←← [Back to Introduction](../introduction.md)
-
 ---
 
 ## Everyone Deserves Dignity and Respect

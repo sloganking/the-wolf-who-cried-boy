@@ -1,7 +1,5 @@
 # Types of Mistakes
 
-← [Back to Introduction](../introduction.md)
-
 ---
 
 ## The Popcorn Metaphor

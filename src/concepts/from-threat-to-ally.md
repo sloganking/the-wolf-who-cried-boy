@@ -1,7 +1,5 @@
 # From Threat to Ally
 
-← [Back to Introduction](../introduction.md)
-
 ---
 
 ## The Default Response

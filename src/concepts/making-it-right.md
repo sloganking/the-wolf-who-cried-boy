@@ -1,7 +1,5 @@
 # Making It Right
 
-← [Back to Introduction](../introduction.md)
-
 ---
 
 ## The Goal

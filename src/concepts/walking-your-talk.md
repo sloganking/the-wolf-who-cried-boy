@@ -1,7 +1,5 @@
 # Walking Your Talk
 
-←← [Back to Introduction](../introduction.md)
-
 ---
 
 ## The Core Principle: Show, Don't Tell

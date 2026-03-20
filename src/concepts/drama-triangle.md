@@ -1,7 +1,5 @@
 # The Drama Triangle
 
-← [Back to Introduction](../introduction.md)
-
 ---
 
 ## What Is It?

@@ -1,7 +1,5 @@
 # When You've Been Wronged
 
-← [Back to Introduction](../introduction.md)
-
 ---
 
 This section is for when **you** have been wronged.

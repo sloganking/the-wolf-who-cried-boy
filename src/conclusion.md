@@ -133,7 +133,3 @@ If you read this book and thought *"I want someone to find my strings"*—if you
 If you run an organization — a retreat center, a play space, a facilitation team, a company, any team where humans interact under pressure — and you want my eyes on your dynamics, I do that too. These patterns don't stay in the temple. They show up in every room where people have power, make decisions, and cause harm without seeing it. Whether that's building safety protocols, navigating a crisis in progress, or having someone on call who sees clearly when things get complicated.
 
 Reach out: [sloganking.github.io/coaching](https://sloganking.github.io/coaching/)
-
----
-
-[← Back to Introduction](./introduction.md)

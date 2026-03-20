@@ -1,7 +1,5 @@
 # Example Scenarios
 
-← [Back to Introduction](./introduction.md)
-
 ---
 
 These scenarios show the framework in action. Names are fictional. Situations are composites based on real dynamics.

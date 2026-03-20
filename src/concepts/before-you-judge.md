@@ -1,7 +1,5 @@
 # Before You Judge
 
-← [Back to Introduction](../introduction.md)
-
 ---
 
 ## The Problem

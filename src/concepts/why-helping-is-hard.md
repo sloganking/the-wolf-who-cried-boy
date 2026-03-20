@@ -1,7 +1,5 @@
 # Why Helping Is Hard
 
-← [Back to Introduction](../introduction.md)
-
 ---
 
 You understand [responsibility](./responsibility.md). You see how it gives people power. You watch someone suffer in a loop they can't escape—same conflict, same pattern, same pain—and you want to help them see what you see.

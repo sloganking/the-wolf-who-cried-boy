@@ -1,7 +1,5 @@
 # Appropriate Response
 
-← [Back to Introduction](../introduction.md)
-
 ---
 
 ## The Principle
