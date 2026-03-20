@@ -90,6 +90,20 @@ I became a reverse fawner because expressing needs as a kid was dangerous. Sitti
 
 ---
 
+## Fawning and Anger: The Empathy Interception Pattern
+
+Fawners may be unable to heal because they intercept their own anger with empathy before it completes. The sequence: someone wrongs them → anger starts → their empathy/sight kicks in ("but they were scared," "but it's partly my fault," "but I can see their inner child") → the anger dies → the energy converts to depression → the wound stays open.
+
+This creates a person who is always "the better person," always reasonable, always extending love — and permanently wounded underneath, because the anger never moved through them. They become chronically depressed, not because they're broken, but because every angry impulse gets rerouted to submission before it can fire.
+
+**The key distinction:** feeling anger is not the same as being a predator. The fawner conflates the two because their model of anger is the person who hurt them — a parent, an attacker, a righteous predator. They think: "if I feel anger like THAT, I'll cause harm like THAT." So they never let themselves feel any anger at all.
+
+**What they need to hear:** feel it first, understand it later. They've been understanding first and feeling never. The empathy can come back online after the anger completes — not before.
+
+**Possible location in book:** fawning.md (new section on anger suppression as a fawning mechanism), or i-made-a-mistake.md (for people wronged by righteous predators who can't get angry about it). Consider whether this is universal enough for the book or better suited for coaching/workshop content.
+
+---
+
 ### Retroactive Repair: When You Were the Righteous Predator
 
 If you punished someone and they thanked you for it (gratitude-based fawning), and you later realize your response was out of line — go back and tell them. Not just to repair, but to help them see that thanking you for mistreating them was a sign of their own fawning. They were thinking about themselves in a harmful way if they accepted your punishment as deserved. You might be able to help them undo some of that sinsickness.
