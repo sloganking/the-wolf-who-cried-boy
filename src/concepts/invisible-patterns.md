@@ -63,9 +63,11 @@ These patterns are everywhere — in play spaces, in relationships, in professio
 >
 > **Person C — The Cage:** The people most afraid of their desire hurting others create the conditions for it to come out in the most overwhelming form.
 >
-> **Person D — The [Fawner](./fawning.md):** The people most afraid of their boundaries being violated are the least likely to say no — and get the most people touching them in ways they don't want. *(See also: [Reverse Fawning](./fawning.md#fawning-can-happen-in-reverse) — the people most afraid of expressing desire say no when they mean yes, and starve in front of a feast.)*
+> **Person D — The [Fawner](./fawning.md):** The people most afraid of their boundaries being violated are the least likely to say no — and get the most people touching them in ways they don't want.
+>
+> **Person E — The [Reverse Fawner](./fawning.md#fawning-can-happen-in-reverse):** The people most afraid of expressing desire say no when they mean yes — and starve in front of a feast. They want desperately, but their body treats honesty as a threat, so they suppress, decline, and perform indifference while the thing they need most stands right in front of them.
 
-All four are the same mechanism: **fear creates a behavior that produces the outcome the fear predicted.** The fear feels like intelligence — *I'm being careful, I'm being responsible, I'm protecting myself/others.* But the "careful" behavior IS the thing creating the problem. The scanner's vigilance creates false accusations. The target's apologizing creates suspicion. The cage's suppression creates overwhelming intensity. The fawner's compliance creates boundary violations.
+All five are the same mechanism: **fear creates a behavior that produces the outcome the fear predicted.** The fear feels like intelligence — *I'm being careful, I'm being responsible, I'm protecting myself/others.* But the "careful" behavior IS the thing creating the problem. The scanner's vigilance creates false accusations. The target's apologizing creates suspicion. The cage's suppression creates overwhelming intensity. The fawner's compliance creates boundary violations.
 
 None of them can see it from the inside. That's what makes the patterns invisible.
 
@@ -122,7 +124,9 @@ If Person B relaxed and stopped looking for signs they're about to be attacked�
 
 If Person C let their desire flow in small, honest amounts instead of caging it—it would never build to the pressure that makes it look dangerous.
 
-If Person D practiced saying no when they mean no and yes when they mean yes—the boundaries would be clear and the violations would stop.
+If Person D practiced saying no when they mean no—the boundaries would be clear and the violations would stop.
+
+If Person E practiced saying yes when they mean yes—the starvation would end and the desperation would quiet.
 
 If their reticular activating systems focused on literally anything else, they'd be less likely to find what they're expecting to find. They might even find their patterns funny. They might even be friends.
 
