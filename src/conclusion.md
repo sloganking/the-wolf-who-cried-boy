@@ -118,6 +118,10 @@ But if you choose differently—if you pause, see clearly, and respond with wisd
 
 That's the commitment. Not a promise you make once. A choice you make every time it matters.
 
+> **See people as people, not labels.**
+
+That's the whole book in six words.
+
 ---
 
 ## Going Deeper
