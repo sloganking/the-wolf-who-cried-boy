@@ -119,6 +119,8 @@ The question this book keeps asking: **are the people causing harm in these spac
 
 Most harm doesn't come from malice. It comes from people who can't see what they're doing — to themselves or to others. **Most perpetrators are blind. Most victims have more power than they think. And the people trying to help are often the most dangerous ones in the room.**
 
+There's a pattern underneath all of it: **the thing you're most afraid of is the thing your fear creates.** The person scanning for predators [creates false accusations](./concepts/invisible-patterns.md). The person hiding their desire [creates the overwhelming intensity](./concepts/invisible-patterns.md#the-caged-desire-loop) they were afraid of. The person who can't say no [gets the boundary violations](./concepts/fawning.md) they dreaded. Everyone is building the thing they fear — and none of them can see it, because from the inside, the fear feels like intelligence.
+
 That changes everything about how you respond.
 
 > **You don't fix blindness with punishment. You fix it with sight.**

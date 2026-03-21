@@ -67,7 +67,9 @@ These patterns are everywhere — in play spaces, in relationships, in professio
 >
 > **Person E — The [Reverse Fawner](./fawning.md#fawning-can-happen-in-reverse):** The people most afraid of expressing desire say no when they mean yes — and starve in front of a feast. They want desperately, but their body treats honesty as a threat, so they suppress, decline, and perform indifference while the thing they need most stands right in front of them.
 
-All five are the same mechanism: **fear creates a behavior that produces the outcome the fear predicted.** The fear feels like intelligence — *I'm being careful, I'm being responsible, I'm protecting myself/others.* But the "careful" behavior IS the thing creating the problem. The scanner's vigilance creates false accusations. The target's apologizing creates suspicion. The cage's suppression creates overwhelming intensity. The fawner's compliance creates boundary violations.
+All five are the same mechanism: **fear creates a behavior that produces the outcome the fear predicted.**
+
+These aren't the only five. The mechanism is everywhere — in relationships, at work, in families, in every room where humans bring their fears. If you see yourself in one, ask: *what am I most afraid of?* Then look at what your fear is making you do. The answer is usually the thing creating the problem you think you're solving. The fear feels like intelligence — *I'm being careful, I'm being responsible, I'm protecting myself/others.* But the "careful" behavior IS the thing creating the problem. The scanner's vigilance creates false accusations. The target's apologizing creates suspicion. The cage's suppression creates overwhelming intensity. The fawner's compliance creates boundary violations.
 
 None of them can see it from the inside. That's what makes the patterns invisible.
 
