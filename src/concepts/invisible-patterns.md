@@ -53,15 +53,23 @@ Person A started the fight. Person A attacked an innocent person based on a stor
 
 Whether Person B fawns or fights, the trap is total. Fawning looks like a confession. Fighting looks like aggression. Both confirm the story. Calm, clear boundary-setting has the best chance of breaking through — but even that can get filtered as "the predator is using boundaries to manipulate." When someone's story is locked, there may be no response that doesn't confirm it. That's what makes it a trap.
 
-**The painful irony:**
+### The Thing You're Most Afraid of Is the Thing Your Fear Creates
 
-> The people most afraid of predators are most likely to cause harm—by seeing and attacking people who aren't.
->
-> The people most afraid of being misunderstood and attacked are most likely to wind up being attacked.
->
-> The people most afraid of their desire hurting others create the conditions for it to come out in the most overwhelming form.
+These patterns are everywhere — in play spaces, in relationships, in professional life. Here are four of the most common:
 
-That third one deserves its own section.
+> **Person A — The Scanner:** The people most afraid of predators are most likely to cause harm — by seeing and attacking people who aren't.
+>
+> **Person B — The Target:** The people most afraid of being misunderstood and attacked are most likely to wind up being attacked.
+>
+> **Person C — The Cage:** The people most afraid of their desire hurting others create the conditions for it to come out in the most overwhelming form.
+>
+> **Person D — The [Fawner](./fawning.md):** The people most afraid of their boundaries being violated are the least likely to say no — and get the most people touching them in ways they don't want. *(See also: [Reverse Fawning](./fawning.md#fawning-can-happen-in-reverse) — the people most afraid of expressing desire say no when they mean yes, and starve in front of a feast.)*
+
+All four are the same mechanism: **fear creates a behavior that produces the outcome the fear predicted.** The fear feels like intelligence — *I'm being careful, I'm being responsible, I'm protecting myself/others.* But the "careful" behavior IS the thing creating the problem. The scanner's vigilance creates false accusations. The target's apologizing creates suspicion. The cage's suppression creates overwhelming intensity. The fawner's compliance creates boundary violations.
+
+None of them can see it from the inside. That's what makes the patterns invisible.
+
+Person C deserves a closer look.
 
 ### The Caged Desire Loop
 
@@ -99,7 +107,7 @@ And the replacement might be:
 
 Both feel like victims. All three think the other person — or their own nature — proved their story right. None of them realize they co-created the outcome from a fear that was never as accurate as it felt.
 
-[Taking responsibility](./responsibility.md) here is tricky — because both people's patterns are invisible to them. The person afraid of predators doesn't see how their hypervigilance creates false accusations. The person afraid of being attacked doesn't see how their over-apologizing paints a target on themselves. They'll cycle through this dynamic over and over — feeling victimized, feeling afraid, never resting — genuinely believing it's happening *to* them. Breaking the cycle requires something most people never consider: waking up to the unconscious pattern itself. You can't take responsibility for power you don't know you have.
+[Taking responsibility](./responsibility.md) here is tricky — because every person's pattern is invisible to them. The scanner doesn't see how their hypervigilance creates false accusations. The target doesn't see how their over-apologizing paints a target on themselves. The cage doesn't see how their suppression builds the bomb. The fawner doesn't see how their compliance invites the violations they fear. They'll cycle through these dynamics over and over — feeling victimized, feeling afraid, never resting — genuinely believing it's happening *to* them. Breaking the cycle requires something most people never consider: waking up to the unconscious pattern itself. You can't take responsibility for power you don't know you have.
 
 > **"Until you make the unconscious conscious, it will direct your life and you will call it fate."**  
 > — _Paraphrase of Carl Jung_
@@ -112,7 +120,11 @@ If Person A relaxed and said, "I'm in a safe place. I don't need to scan for pre
 
 If Person B relaxed and stopped looking for signs they're about to be attacked—they'd stop taking the defensive actions that look suspicious.
 
-If their reticular activating systems focused on literally anything else, both would be less likely to find what they're expecting to find. They might even find their patterns funny. They might even be friends.
+If Person C let their desire flow in small, honest amounts instead of caging it—it would never build to the pressure that makes it look dangerous.
+
+If Person D practiced saying no when they mean no and yes when they mean yes—the boundaries would be clear and the violations would stop.
+
+If their reticular activating systems focused on literally anything else, they'd be less likely to find what they're expecting to find. They might even find their patterns funny. They might even be friends.
 
 But here's the problem: **"just relax" is useless advice.**
 
