@@ -58,8 +58,46 @@ Whether Person B fawns or fights, the trap is total. Fawning looks like a confes
 > The people most afraid of predators are most likely to cause harm—by seeing and attacking people who aren't.
 >
 > The people most afraid of being misunderstood and attacked are most likely to wind up being attacked.
+>
+> The people most afraid of their desire hurting others create the conditions for it to come out in the most overwhelming form.
 
-Both feel like victims. Both think the other person proved their story right. Neither realizes they co-created the dynamic from complementary fears.
+That third one deserves its own section.
+
+### The Caged Desire Loop
+
+Person A scans for predators outside. Person B braces for attack from outside. But there's a third pattern — **Person C** — and it doesn't come from scanning for threats in other people. It comes from scanning for the threat **inside yourself.**
+
+Person C believes their desire is dangerous. Not a specific desire — **desire itself.** Wanting things. Wanting people. Wanting intensely. Their body carries a story: *if I let this out, I'll hurt someone. If they see how much I want, they'll be overwhelmed, disgusted, afraid. My wanting is too much. I am too much.*
+
+So they do the responsible thing. They suppress. They filter. They perform a version of themselves with less hunger, less intensity, less need. They calibrate every interaction to show 30% of what they actually feel, because 100% would be — in their story — monstrous.
+
+**And the suppression works. For a while.**
+
+But desire doesn't disappear when you hide it. It compresses. A day's worth of unexpressed wanting becomes a week's worth. A month's. A year's. The container gets smaller and the pressure gets higher. They're carrying the same desire they always had — but now it's been stored instead of expressed, and it has the force of everything they didn't say, didn't ask for, didn't let themselves have.
+
+Then it comes out. Maybe in a relationship, when they finally feel safe enough to stop performing. Maybe in a moment of vulnerability, when the filter slips. Maybe in bed, where the mask comes off.
+
+And it IS too much. Not because the desire was ever monstrous — but because they're not expressing a day's worth of wanting. They're expressing a year's worth. The other person doesn't experience their desire. They experience their **backlog.**
+
+The other person pulls away — overwhelmed by the intensity. And Person C's body records exactly what it expected: *See? My desire really is too much. I knew I had to hide it. I should have hidden it better.*
+
+So they hide harder. The pressure builds higher. The next time it comes out, it's even more compressed, even more overwhelming. The cycle tightens.
+
+**The person most afraid of their desire hurting others is building the bomb that proves them right.**
+
+Not because they're dangerous. Because suppression doesn't reduce desire — it **concentrates** it. The fix isn't a stronger cage. It's **smaller, more frequent expression** — letting the wanting move through in real time, in calibrated amounts, so it never reaches the pressure that makes it look like the monster they're afraid of being.
+
+This is the same mechanism as Person A and Person B, just pointed inward. Person A's hypervigilance creates the predators they're scanning for. Person B's over-apologizing creates the target they're trying to avoid. Person C's suppression creates the overwhelming intensity they're trying to prevent. All three are building the thing they fear — and none of them can see it, because from the inside, the fear feels like intelligence.
+
+The way out is the same for all three. Not "just relax." Not "stop being afraid." But: find the sentence your body is running, write its opposite, and give your nervous system enough reps of the new one that the old one starts to loosen. For Person C, the sentence might sound like:
+
+> *"My desire is dangerous. If I show it, I'll hurt someone. If they see how much I want, they'll leave."*
+
+And the replacement might be:
+
+> *"My desire is welcome. Expressing it in real time keeps it human-sized. The people who matter will stay."*
+
+Both feel like victims. All three think the other person — or their own nature — proved their story right. None of them realize they co-created the outcome from a fear that was never as accurate as it felt.
 
 [Taking responsibility](./responsibility.md) here is tricky — because both people's patterns are invisible to them. The person afraid of predators doesn't see how their hypervigilance creates false accusations. The person afraid of being attacked doesn't see how their over-apologizing paints a target on themselves. They'll cycle through this dynamic over and over — feeling victimized, feeling afraid, never resting — genuinely believing it's happening *to* them. Breaking the cycle requires something most people never consider: waking up to the unconscious pattern itself. You can't take responsibility for power you don't know you have.
 
