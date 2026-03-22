@@ -36,6 +36,8 @@ A LOW or MEDIUM severity accident. Met with a HIGH severity response designed fo
 
 **The person who made the mistake didn't cause the most harm. The person who responded to it did.**
 
+And here's what nobody in the room is thinking about: this probably wasn't the only boundary crossing at this event. Others happened too — they were repaired quietly, between the people involved, and nobody else heard about them. The one that went public isn't the worst one. It's the most visible one. And visibility isn't severity.
+
 ### A Note on the Word "Predator"
 
 When someone says "predator," the listener assumes intentional malice. Someone evil. Someone selfish. Someone who *chose* to cause harm for their own gratification.
