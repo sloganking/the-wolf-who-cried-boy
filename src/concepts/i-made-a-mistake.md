@@ -200,7 +200,7 @@ Here's the thing: **The only way you become the person everyone receives value f
 - The only way to get lived experience is by being in community
 - The only way to prove you've learned is by showing up differently
 
-Taking a year off does nothing that a month of actual engagement wouldn't do better. You might intellectually understand what should have been done. But if you're not at parties, interacting with people live, you're not gaining wisdom. You're not embodying the lesson.
+However long you think you need to stay away — ask yourself what that absence actually produces. If you're not at parties, interacting with people live, you're not gaining wisdom. You're not embodying the lesson. Time away doesn't rebuild trust. Showing up differently does.
 
 And here's what happens if you don't return: **the intellectual understanding fades.** Without practice, without real situations to apply your learning, the lesson never solidifies. You end up learning it worse than if you'd stayed in community.
 
@@ -220,7 +220,7 @@ Your mistake didn't just teach you what not to do. It taught you what it's like 
 
 Maybe someone called you a predator. Maybe they got others to believe their story, rallied people against you, tried to destroy your reputation. You can see that as the end of your world. Or you can see that you just got an education in conflict dynamics, [righteous predation](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator), and human psychology that most people will never have. You now understand how these situations work from the inside. You can see through the patterns.
 
-You can stand up when it happens to someone else and say what's true, because you've lived it. You can become the voice of clarity in situations where everyone else is reacting from fear. You can see how containers are being run — how facilitators are handling conflict, how safety protocols fail, how the dynamics this book describes play out in real time — and you can be the person who creates something better. Not just for yourself, but for everyone. You can build safer, happier containers than anyone else is building, because you understand what goes wrong and why. You can be the reason other facilitators start running things differently — because you came up with solutions and showed them how to keep things good. You can serve others more powerfully than you ever could have before this experience.
+You can stand up when it happens to someone else and say what's true, because you've lived it. You can become the voice of clarity in situations where everyone else is reacting from fear. You can see how containers are being run — how facilitators are handling conflict, how safety protocols fail, how the dynamics this book describes play out in real time — and you can be the person who creates something better. Not just for yourself, but for everyone. You can build safer, happier containers — because you understand what goes wrong and why. You can propose solutions to facilitators that they wouldn't have seen without your experience. You can serve others more powerfully than you could have before this experience — because you're not teaching from theory. You're teaching from the scar.
 
 > **"There's actually an advantage to every position."**
 >
@@ -232,7 +232,7 @@ The person who takes the worst experience and turns it into their greatest contr
 
 There's another reason to return quickly:
 
-**After making a mistake and learning from it, you become the most qualified person to help others avoid the same mistake.**
+**After making a mistake and learning from it, you become uniquely qualified to help others avoid the same mistake.**
 
 You've been there. You know the warning signs. You recognize the thinking patterns that lead to harm. You can catch someone heading toward the same cliff and say: "Hey, I've made this mistake. Here's what I learned. Here's what you can do differently."
 
