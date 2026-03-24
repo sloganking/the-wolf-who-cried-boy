@@ -99,6 +99,8 @@ This is why seeing through your blind spots isn't just self-improvement — it's
 
 **Your blind spots are where the selfish predators hide.**
 
+For a practical tool to detect influence in real-time — whether from a selfish predator, a righteous one, or just someone whose fear is contagious — see [The Influence Firewall](../tools/influence-firewall.md).
+
 ### "Think of the Children"
 
 Four words that have justified more harm than any predator ever caused.

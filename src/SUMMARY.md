@@ -25,6 +25,7 @@
 - [Severity](./concepts/severity.md)
 - [Types of Mistakes](./concepts/types-of-mistakes.md)
 - [Notice, Feel, Story](./tools/notice-feel-story.md)
+- [The Influence Firewall](./tools/influence-firewall.md)
 
 ---
 
