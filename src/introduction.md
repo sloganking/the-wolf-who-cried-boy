@@ -12,7 +12,9 @@ The first one feels like justice. The second one *is* justice.
 
 People are messy. We make mistakes. We hurt each other — usually not on purpose. And when something goes wrong, most of us don't have a framework for what to do next. We just react from fear, instinct, and whatever stories we're carrying.
 
-But it goes deeper than that. Most of the harm in these spaces — and in life — isn't caused by bad people. It's caused by invisible patterns: beliefs so deeply embedded they don't feel like beliefs. They feel like reality. A trauma that makes you see predators where there are none. A fawning pattern that makes you say yes when your whole body means no. A story about your own worthlessness that makes you tolerate things no one should tolerate — or lash out at people who never meant harm. These patterns run your perceptions, your reactions, your relationships, and your outcomes — all without you knowing they're there. And because you can't see them, you can't stop them. You just keep creating the same suffering and calling it fate, or bad luck, or other people's fault.
+But it goes deeper than that. Most of the harm in these spaces — and in life — isn't caused by bad people. It's caused by invisible patterns: beliefs so deeply embedded they don't feel like beliefs. They feel like reality. A trauma that makes you see predators where there are none. A fawning pattern that makes you say yes when your whole body means no. A story about your own worthlessness that makes you tolerate things no one should tolerate — or lash out at people who never meant harm.
+
+These patterns don't just hurt others. They run *your* life. Your perceptions, your reactions, your relationships, your outcomes — all shaped by beliefs you've never examined because they feel like the truth. And because you can't see them, you can't stop them. You just keep creating the same suffering — in your relationships, your career, your confidence, your body — and calling it fate, or bad luck, or other people's fault.
 
 **This book is that framework.** A guide to seeing the invisible patterns — in yourself and others — so you can stop being run by them. How to respond to mistakes without creating more harm. How to take responsibility without shame. How to repair things when they break.
 
@@ -32,10 +34,10 @@ If a framework can handle a false accusation at a play party, it can handle a co
 
 ## Who This Is For
 
+- **Anyone** who suspects their perception might not be as clear as it feels
+- **Anyone** who wants to think more clearly about mistakes, responsibility, and repair
 - **Participants** in play parties, cuddle events, tantra workshops, sacred sexuality temples, somatic experiencing groups, or any space where bodies and boundaries intersect
 - **Facilitators** who hold these spaces and need to respond when things go wrong
-- **Anyone** who wants to think more clearly about mistakes, responsibility, and repair
-- **Anyone** who suspects their perception might not be as clear as it feels
 
 ### A Note for Facilitators
 
