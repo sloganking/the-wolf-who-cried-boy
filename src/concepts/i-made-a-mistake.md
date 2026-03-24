@@ -273,7 +273,7 @@ Wisdom comes from embodied, lived experience—not from titles or roles. If you'
 
 Facilitators have breadth of experience. You may have depth in this specific situation. Both matter—and offering yours respectfully can change the outcome for everyone. The best leaders aren't the ones who need to be the smartest person in the room. They're the ones who bring together people with different strengths and draw on all of them. A great facilitator welcomes the perspective of a participant who's lived through something they haven't—because that makes the container stronger for everyone.
 
-You're not just a participant—you're a resource. And you can only offer that if you stay in community.
+If you're sitting at home in guilt while a facilitator faces the exact situation you lived through — and makes the wrong call because no one in the room had your perspective — that's a loss for everyone. The person who needed your voice didn't get it. You can only offer what you've learned if you're in the room when it matters.
 
 ### You Are What You Want
 
