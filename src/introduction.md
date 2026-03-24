@@ -12,7 +12,7 @@ The first one feels like justice. The second one *is* justice.
 
 People are messy. We make mistakes. We hurt each other — usually not on purpose. And when something goes wrong, most of us don't have a framework for what to do next. We just react from fear, instinct, and whatever stories we're carrying.
 
-**This book is that framework.** How to see what's actually happening — not what your fear tells you is happening. How to respond to mistakes without creating more harm. How to take responsibility without shame. How to repair things when they break.
+**This book is that framework.** A guide to seeing clearly when everyone around you is reacting from fear. How to respond to mistakes without creating more harm. How to take responsibility without shame. How to repair things when they break.
 
 It's not about being perfect. It's about knowing what to do when things aren't.
 
