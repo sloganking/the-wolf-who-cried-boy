@@ -83,14 +83,6 @@ A selfish predator is one person doing harm. A righteous predator can mobilize a
 
 And here's the part nobody tells you about the boy who cried wolf: in the real world, when someone cries wolf, the village doesn't check and find nothing. They find a wolf — every time. Whether it exists or not. They find someone to label, someone to blame, someone to destroy. And when it's done, they look at the person who raised the alarm and think: *damn, that guy's good at seeing wolves. We should put him in charge.* And they do. The next false alarm gets taken even more seriously. The people who can see clearly — who say "wait, that wasn't actually a wolf" — get labeled wolf sympathizers and driven away, because contesting the narrative means risking becoming the next wolf. And every time one of them leaves, the average drops. Eventually it's nothing but people who see wolves everywhere, led by the person who sees the most wolves that aren't there.
 
-This is the tribal mentality at work:
-
-> **"A culture that prizes self-responsibility fosters self-esteem. A culture in which people are encouraged to see themselves as victims fosters dependency, passivity, and the mentality of entitlement."**
->
-> — _Nathaniel Branden, The Six Pillars of Self-Esteem_
-
-The village that exiles its clear-seeing members and rewards its wolf-criers isn't just making a mistake. It's building a culture of victimhood — where the loudest accuser has the most power, where questioning the narrative is punished, and where individual sight is sacrificed for tribal certainty.
-
 ### The Selfish Predator's Best Tool
 
 Here's what makes this even worse: a competent selfish predator doesn't use overt force. Overt force gets seen, gets stopped, gets a defensive response. Instead, they see your blind spots — and use them.
