@@ -259,9 +259,9 @@ When a similar situation happens to someone else, you're the one who can see cle
 - Who needs to be protected?
 - What actually needs to happen here?
 
-Everyone else is probably new to this. They haven't thought about it. They don't have the first-person experience that creates deep understanding. They're reacting from fear, from their own unexamined stories, from mob instinct.
+Most people in the room won't have this specific experience. They may be reacting from fear, from unexamined stories, from mob instinct — not because they're bad people, but because they haven't been through it.
 
-You're the one who can cut through the noise and say: "I've been here. Here's what's actually going on. Here's what needs to happen."
+You have. And that means you can cut through the noise and say: "I've been here. Here's what's actually going on. Here's what needs to happen."
 
 ### You May See What They Can't
 
