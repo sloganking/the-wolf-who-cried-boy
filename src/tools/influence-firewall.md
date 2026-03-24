@@ -1,5 +1,7 @@
 # The Influence Firewall
 
+**⚠️ DRAFT — This page needs to be rewritten in Logan's voice with better examples and labels. The structure and concept are solid; the execution needs fire.**
+
 ---
 
 ## Read This First
