@@ -34,10 +34,10 @@ If a framework can handle a false accusation at a play party, it can handle a co
 
 ## Who This Is For
 
-- **Anyone** who suspects their perception might not be as clear as it feels
-- **Anyone** who wants to think more clearly about mistakes, responsibility, and repair
 - **Participants** in play parties, cuddle events, tantra workshops, sacred sexuality temples, somatic experiencing groups, or any space where bodies and boundaries intersect
 - **Facilitators** who hold these spaces and need to respond when things go wrong
+- **Anyone** who wants to think more clearly about mistakes, responsibility, and repair
+- **Anyone** who suspects their perception might not be as clear as it feels
 
 ### A Note for Facilitators
 
