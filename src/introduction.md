@@ -12,9 +12,11 @@ The first one feels like justice. The second one *is* justice.
 
 People are messy. We make mistakes. We hurt each other — usually not on purpose. And when something goes wrong, most of us don't have a framework for what to do next. We just react from fear, instinct, and whatever stories we're carrying.
 
-**This book is that framework.** A guide to seeing clearly when everyone around you is reacting from fear. How to respond to mistakes without creating more harm. How to take responsibility without shame. How to repair things when they break.
+But it goes deeper than that. Most of the harm in these spaces — and in life — isn't caused by bad people. It's caused by invisible patterns: beliefs so deeply embedded they don't feel like beliefs. They feel like reality. A trauma that makes you see predators where there are none. A fawning pattern that makes you say yes when your whole body means no. A story about your own worthlessness that makes you tolerate things no one should tolerate — or lash out at people who never meant harm. These patterns run your perceptions, your reactions, your relationships, and your outcomes — all without you knowing they're there. And because you can't see them, you can't stop them. You just keep creating the same suffering and calling it fate, or bad luck, or other people's fault.
 
-It's not about being perfect. It's about knowing what to do when things aren't.
+**This book is that framework.** A guide to seeing the invisible patterns — in yourself and others — so you can stop being run by them. How to respond to mistakes without creating more harm. How to take responsibility without shame. How to repair things when they break.
+
+It's not about being perfect. It's about seeing what's actually happening — instead of what your fear tells you is happening.
 
 ### Why Play Spaces?
 
