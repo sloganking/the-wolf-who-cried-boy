@@ -211,14 +211,21 @@ You can enter these spaces with a pure heart and the best intentions—and still
 
 That's not a character flaw. It's what happens when wisdom hasn't caught up to goodness yet. And wisdom only comes from lived experience.
 
-This book gives you the map. But reading the map is not the same as walking the territory. You will make mistakes. Some of them will hurt—you, others, or both. That's not failure. That's the curriculum.
+This book gives you the map. But reading the map is not the same as walking the territory.
 
-The goal isn't to avoid all mistakes. It's to:
+**Your first job is to make serious mistakes vanishingly rare.** Not through perfection—through preparation, awareness, and training. This book gives you the tools: the [Gun Test](./tools/gun-test.md) to check your readiness before you play. [Autopilot training](./concepts/types-of-mistakes.md#how-to-actually-prevent-autopilot-mistakes) to make your unconscious safer. [Feeding yourself first](./concepts/types-of-mistakes.md#hunger) so unmet needs don't drive your body where your mind wouldn't go. Prevention is the creator's first commitment—and it's most of the work.
 
-1. Make them less severe
-2. Recognize them faster
-3. Repair them better
-4. Actually learn from them
+And you will still make mistakes. Not because you're careless—because you're human, operating in high-stakes environments where a one-second lapse can happen to anyone. Some of them will hurt—you, others, or both. That's not failure. That's the curriculum.
+
+The goal is to:
+
+1. Make serious mistakes vanishingly rare through preparation
+2. Recognize them fast when they happen
+3. Take complete ownership without collapse
+4. Repair with action, not just words
+5. Learn so deeply your body remembers
+
+You're not asking anyone to tolerate carelessness. You're building the kind of record where a mistake is genuinely exceptional—and when it happens, your track record speaks for itself.
 
 When you do make a mistake, see: [I Made a Mistake—What Now?](./concepts/i-made-a-mistake.md)
 
