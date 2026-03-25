@@ -37,9 +37,27 @@ These can both be true:
 
 You don't have to choose. You can hold both.
 
-Watch for a specific trap: using your imperfection to cancel out your legitimate anger. "Well, I also could have done better, so I can't really be angry at them." That's not holding both — that's using one to erase the other. It *looks* like responsibility. It's actually [fawning](./fawning.md) — using self-blame to avoid the confrontation of demanding they own their part.
+### Don't Use Your Part to Erase Theirs
 
-Address them individually. Yes, you could have done better — address that on its own. And they failed you — address *that* on its own, until it's handled. Don't let your imperfection become a reason to let them off the hook.
+There's a version of "holding both" that isn't holding both at all. It sounds like this:
+
+*"Well, I also could have handled it better. I wasn't perfect either. So I can't really be angry at them."*
+
+That feels mature. It feels like growth. It feels like taking responsibility.
+
+It's [fawning](./fawning.md).
+
+**Your responsibility becomes a weapon you use against yourself to avoid confrontation.** You use your own imperfection to cancel out your legitimate anger at someone who failed you — and the result is that they never have to own their part, because you already forgave them on behalf of your guilt.
+
+Here's how it works: someone wrongs you. You also weren't perfect. Instead of addressing both — *their failure AND your failure* — you collapse them into one. "We both messed up." And then neither gets addressed. Yours doesn't get addressed because you've already "taken responsibility" by acknowledging it. Theirs doesn't get addressed because your acknowledgment made confrontation feel unnecessary or hypocritical. Both grievances die in the same sentence.
+
+The fix is simple but uncomfortable: **address them individually.**
+
+Your part is real. Own it — on its own. Think about what you'd do differently. Learn from it. That process has nothing to do with what they owe you.
+
+Their failure is also real. Name it — on its own. Tell them what they did, what it cost you, and what you need from them. That process has nothing to do with your imperfection.
+
+If you find yourself thinking "but I wasn't perfect, so who am I to demand anything" — that's the trap. That's using [responsibility](./responsibility.md) as a reason to never advocate for yourself. Nobody involved in any conflict was perfect. If imperfection disqualified you from demanding accountability, no one would ever be held accountable for anything.
 
 ## In the Moment
 
