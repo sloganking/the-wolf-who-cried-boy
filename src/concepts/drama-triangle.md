@@ -8,7 +8,7 @@ The entire book is built on these shifts. This page names the engine underneath.
 
 ## The Three Roles
 
-Here's how fast people switch between them. Three sentences from the same person, in the same breath:
+Three sentences from the same person, in the same breath:
 
 > "I couldn't have done anything about it." ← **Victim**
 >
@@ -16,9 +16,15 @@ Here's how fast people switch between them. Three sentences from the same person
 >
 > "Someone needs to stop him before he hurts anyone else." ← **Rescuer**
 
-That's not three different people. That's one person, rotating through all three roles in ten seconds. And they don't know they're doing it.
+One person. All three roles. Ten seconds. They don't know they're doing it.
 
-Here's what it looks like in a real message.
+**Victim** — *"I couldn't have done anything about it."* The Victim doesn't take [responsibility](./responsibility.md). They wait to be saved or to be wronged again. The trap: the Victim position isn't actually powerless. It has [enormous power](./all-power-is-mutual.md#the-victim-position-is-powerful) — the power to mobilize Rescuers, to justify Persecution, to control the narrative. The word "Victim" as it's used in the Drama Triangle doesn't mean someone who was actually harmed — it means someone *acting from* helplessness, whether the harm was real or not.
+
+**Persecutor** — *"He's an evil, selfish asshole who needs to be punished."* The Persecutor blames, attacks, punishes. They're often a former Victim who got tired of feeling helpless and flipped to anger. In play spaces, this is the person who saw a boundary crossing and decided to [destroy someone's life over it](./appropriate-response.md) — not to protect anyone, but because their anger feels righteous.
+
+**Rescuer** — *"Someone needs to stop him before he hurts anyone else."* The Rescuer swoops in to fix, help, protect — but keeps the Victim helpless in the process. They need to be needed. In this book, the Rescuer is the most dangerous role: [Rescuers cause more harm than predators](./why-rescuers-are-dangerous.md) because they act from moral certainty and never question whether their "help" is actually helping.
+
+Here's what all three look like in one real message.
 
 I met someone at a festival. She texted afterward: "I'm needing a few days to disconnect from my phone. I'll get back to you when I have more capacity." I replied: "Thank you for asking for what you need. Take your time. I wish you well."
 
@@ -35,12 +41,6 @@ Three messages across four months. Months of silence. Then she responded:
 She told me: "A check-in rooted in care or curiosity about how I was doing would have felt very different." My second message — the one she never answered — was: "Hey checking in. Still wanting more time?" She could have said yes. She could have told me her first message was a hard boundary. She said nothing — and months later, told me I hadn't checked in with care.
 
 She never asked what I meant. She already knew, because the story she'd built told her.
-
-**Victim** — "This is happening *to* me. I'm powerless." The Victim doesn't take [responsibility](./responsibility.md). They wait to be saved or to be wronged again. The trap: the Victim position isn't actually powerless. It has [enormous power](./all-power-is-mutual.md#the-victim-position-is-powerful) — the power to mobilize Rescuers, to justify Persecution, to control the narrative. The word "Victim" as it's used in the Drama Triangle doesn't mean someone who was actually harmed — it means someone *acting from* helplessness, whether the harm was real or not.
-
-**Persecutor** — "It's YOUR fault. You're bad and you deserve what's coming." The Persecutor blames, attacks, punishes. They're often a former Victim who got tired of feeling helpless and flipped to anger. In play spaces, this is the person who saw a boundary crossing and decided to [destroy someone's life over it](./appropriate-response.md) — not to protect anyone, but because their anger feels righteous.
-
-**Rescuer** — "Let me save you. You need me." The Rescuer swoops in to fix, help, protect — but keeps the Victim helpless in the process. They need to be needed. In this book, the Rescuer is the most dangerous role: [Rescuers cause more harm than predators](./why-rescuers-are-dangerous.md) because they act from moral certainty and never question whether their "help" is actually helping.
 
 The roles aren't stable. People rotate through them constantly — and the rotation is what keeps the drama alive:
 
