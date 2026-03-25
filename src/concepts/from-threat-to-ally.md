@@ -137,7 +137,7 @@ This doesn't work. If you tell them it's better to cooperate, but you don't _sho
 
 You've seen this in every movie: someone is about to be attacked or thrown out, and they shout "Wait! I have something important to tell you!" The other person doesn't believe them and keeps attacking. So they keep trying to convince them to listen — negotiating for attention, begging for an audience, telling importance without showing importance — instead of just *saying the important thing*. If what you have to say is genuinely important to them, say it. They'll recognize it immediately. You don't need their permission to be relevant.
 
-"Wait, listen to me!" is telling. It requires them to trust you before they've heard the content — but you don't have their trust. That's the whole problem. Just saying the thing is showing. It lets the content earn its own attention.
+"Wait, listen to me!" is telling. It requires them to trust you before they've heard the content — but you don't have their trust. That's the whole problem. It's also [talking *about* the problem instead of talking *for* a solution](./why-helping-is-hard.md#talk-for-not-about) — every sentence spent negotiating for attention is a sentence not spent solving anything. Just saying the thing is showing. It lets the content earn its own attention.
 
 **Don't tell people something is important. Say it and let them decide what it means.**
 
