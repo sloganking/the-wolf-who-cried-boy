@@ -567,7 +567,9 @@ When you say no clearly, you create trust. The other person knows:
 - You won't blame them for believing you later
 - They're safe to engage with you
 
-**Hearing no creates more safety than hearing yes.**
+**Hearing no creates more safety than hearing yes.** Anyone who's been in these spaces long enough knows this. A clear no is one of the most attractive things a person can do.
+
+If you've ever been told yes by someone who meant no — and then been attacked for believing them — you know what this feels like in your body. The next time someone gives you a clear, clean no, your whole nervous system exhales. *I can trust this person. If they're telling me no now, I can probably trust their yes too.* That relief is visceral, not intellectual.
 
 ### Especially for Men
 
