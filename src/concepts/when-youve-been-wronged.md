@@ -210,7 +210,7 @@ That's not bitterness. That's [taking responsibility](./responsibility.md) for y
 
 Before you decide there's nothing you can do — check:
 
-- Have you told the facilitator what you *want*, not just what happened?
+- Have you *asked* the facilitator for what you want, not just told them what happened?
 - Have you followed up when nothing was done?
 - Have you expressed your anger — not just given information?
 - Have you asked for the specific repair you need?
@@ -225,7 +225,7 @@ Here's the reality:
 
 **Sometimes you advocate clearly, ask for what you need, do everything right — and you still don't get what you want.**
 
-Sometimes the facilitator doesn't act. Sometimes the person who wronged you never takes [responsibility](./responsibility.md). Sometimes your reputation takes a hit, or your body bears scars, or your sense of safety doesn't come back on schedule. Sometimes there's no justice, no vindication, no moment where everyone realizes you were treated unfairly.
+Sometimes the facilitator doesn't act. Sometimes the person who wronged you never takes accountability or does [repair](./making-it-right.md). Sometimes your reputation takes a hit, or your body bears scars, or your sense of safety doesn't come back on schedule. Sometimes there's no justice, no vindication, no moment where everyone realizes you were treated unfairly.
 
 This is real. It hurts.
 
