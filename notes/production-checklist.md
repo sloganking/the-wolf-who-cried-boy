@@ -71,6 +71,8 @@ These pages are strong but long enough that reader fatigue is a risk. A tighteni
 
 ## New Content Needed
 
+- [ ] **The Advocacy Gap** — Structural blind spot from the author's fawning pattern. The book teaches informing but not demanding, acceptance before advocacy, and gives no participant recourse for facilitator failure. 13 specific gaps across multiple pages. Full breakdown: [notes/advocacy-gap.md](./advocacy-gap.md)
+
 - [ ] **Righteous predator repair** — What do you do when you realize YOU were the righteous predator? Different from normal repair: sinsickness is worse, their anger is proportional, harm was public/community-wide, you recruited allies who also caused harm, repair is a privilege they may not grant. Candidate locations: subsection in `i-made-a-mistake.md` (the realization) and/or `making-it-right.md` (the repair process). Needs author voice — not a word-swap task.
 
 - [ ] **Forgiveness as organic, not chosen** — Consider adding a brief note (2-3 sentences) to `when-youve-been-wronged.md` near "You don't have to forgive them." Frame as observation, not definition: "if you're trying to forgive and it's not landing, that's not a failure." Must be inarguable — avoid defining forgiveness, describe experience instead.
