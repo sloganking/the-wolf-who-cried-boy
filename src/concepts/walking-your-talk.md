@@ -374,7 +374,7 @@ Now you can see it. The question is what you do next.
 
 When someone in your container is being attacked — even if the room thinks the attack is righteous, even if the attacker is crying, even if it *looks* like accountability — your job is to protect the person being harmed. That's true regardless of which direction the harm is flowing. A facilitator who only protects bottom vulnerability and ignores top vulnerability is protecting the vulnerability they can see and abandoning the vulnerability they can't.
 
-**Protect both. That's what walking your talk means.**
+**Protect both.**
 
 ---
 
