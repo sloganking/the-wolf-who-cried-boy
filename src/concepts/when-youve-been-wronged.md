@@ -37,6 +37,10 @@ These can both be true:
 
 You don't have to choose. You can hold both.
 
+Watch for a specific trap: using your imperfection to cancel out your legitimate anger. "Well, I also could have done better, so I can't really be angry at them." That's not holding both — that's using one to erase the other. It *looks* like responsibility. It's actually [fawning](./fawning.md) — using self-blame to avoid the confrontation of demanding they own their part.
+
+Address them individually. Yes, you could have done better — address that on its own. And they failed you — address *that* on its own, until it's handled. Don't let your imperfection become a reason to let them off the hook.
+
 ## In the Moment
 
 ### Don't Fawn
