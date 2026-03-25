@@ -135,6 +135,12 @@ This doesn't work. If you tell them it's better to cooperate, but you don't _sho
 
 **Real communication means demonstrating—not declaring.**
 
+You've seen this in every movie: someone is about to be attacked or thrown out, and they shout "Wait! I have something important to tell you!" The other person doesn't believe them and keeps attacking. So they keep trying to convince them to listen — negotiating for attention, begging for an audience, telling importance without showing importance — instead of just *saying the important thing*. If what you have to say is genuinely important to them, say it. They'll recognize it immediately. You don't need their permission to be relevant.
+
+"Wait, listen to me!" is telling. It requires them to trust you before they've heard the content — but you don't have their trust. That's the whole problem. Just saying the thing is showing. It lets the content earn its own attention.
+
+**Don't tell people something is important. Say it and let them decide what it means.**
+
 You have to show them that working together in a way that's prosperous for you both is better and more desired _by them_ than fighting is.
 
 How do you do that? By understanding what they actually want. By finding the outcome where both of you win. By making it viscerally clear that you're not their enemy—that fighting you costs them something they care about, and cooperating with you gets them something they want.
