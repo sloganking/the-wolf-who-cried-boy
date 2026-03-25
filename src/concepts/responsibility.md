@@ -463,9 +463,6 @@ This isn't about excusing what they did. It's about reclaiming your power. As lo
 
 The lightning struck you. But you chose to be in the field.
 
-> **"There are no victims, only volunteers."**  
-> — _Tony Robbins_
-
 ### The Questions You Ask
 
 Here's another way to catch yourself in that moment: **notice what question you're asking.**
