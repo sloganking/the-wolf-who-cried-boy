@@ -67,11 +67,35 @@ Their failure is also real. Name it — on its own. Let yourself feel the anger.
 
 If you find yourself thinking "but I wasn't perfect, so who am I to demand anything" — that's the trap. That's using [responsibility](./responsibility.md) as a reason to never advocate for yourself. Nobody involved in any conflict was perfect. If imperfection disqualified you from demanding accountability, no one would ever be held accountable for anything.
 
-This also means repair might need to flow both ways. You crossed my boundary — you owe me repair for that. My response was disproportionate — I owe you repair for *that*. Two separate repairs, two separate conversations. Not "we both messed up, let's call it even." Not one person doing all the owning while the other does all the forgiving. Each wound gets addressed on its own terms until both people feel complete. That's what real resolution looks like — and it's the only version where both people walk away actually done instead of performing done.
+### Repair Goes Both Ways
 
-Here's where it gets uncomfortable: this applies to [fawning](./fawning.md) too. If someone fawned — said yes when they meant no — and then later attacked you for believing them, there are two separate wounds. You didn't catch the fawning. That's real — you could have been more attuned, and you owe them acknowledgment for that. And they attacked your character based on a "yes" they gave you. That's also real — and they owe *you* repair for that.
+Most people think of repair as one-directional: someone caused harm, they make it right. But when both people contributed to a dynamic — even in completely different ways — repair needs to flow in both directions. Two separate wounds. Two separate repairs. Two separate conversations.
 
-The tendency is for only one direction to happen. The person who didn't catch the fawning does all the owning. The fawner's attack goes unaddressed — because they're seen as the victim, and victims don't owe repair. But they do. Not for fawning — that's their pattern to work on. For what they did *after*: the accusation, the character attack, the [narrative lock](./trauma-and-filters.md) that turned a miscommunication into a story about who you are. That wound is yours, and it deserves to be addressed just as much as theirs.
+You crossed my boundary. That's a wound — and you owe me repair for it. My response was disproportionate and caused its own harm. That's a separate wound — and I owe you repair for *that*. These aren't the same conversation. They can't be collapsed into "we both messed up, let's move on." They can't be handled by one person doing all the owning while the other does all the forgiving. Each wound gets addressed on its own terms, independently, until both people feel complete.
+
+"We both messed up" sounds mature. It's actually avoidance. It skips both repairs by performing acceptance. Neither person names what they actually need. Neither person hears what they actually did. Both walk away "resolved" — meaning both walk away still carrying something unaddressed. That's not resolution. That's two people agreeing to stop talking about it.
+
+Real resolution means both people feel done — not because they decided to be done, but because there's nothing left to carry. That only happens when each wound has been heard, acknowledged, and repaired on its own terms.
+
+#### The Harder Case: Fawning
+
+This is where it gets uncomfortable — and where the one-directional assumption does the most damage.
+
+Someone [fawns](./fawning.md). They say yes when they mean no. Later, they realize what happened and they're in pain. And then they attack you — they call you names, question your character, tell others you violated them based on a "yes" they gave you.
+
+There are two completely separate wounds here:
+
+**Wound 1: You didn't catch the fawning.** The signs were there — maybe subtle, maybe not — and you missed them. You could have been more attuned. You could have paused and checked in. You didn't, and they had an experience they didn't want. That's real. You owe them acknowledgment and repair for your part in that.
+
+**Wound 2: They attacked your character.** They took a miscommunication — one they contributed to by saying "yes" when they meant "no" — and turned it into a story about who you are. They called you names. They told others. They went into [narrative lock](./trauma-and-filters.md) and decided you were a threat rather than a person who believed what they were told. That's also real. And they owe *you* repair for that.
+
+The tendency — the overwhelming cultural tendency — is for only one of these to be addressed. The person who didn't catch the fawning does all the owning, all the apologizing, all the repair. The fawner's attack goes completely unaddressed, because they're seen as the victim, and victims don't owe repair.
+
+But they do.
+
+Not for fawning — that's their pattern to work on, and the book covers that in [its own section](./fawning.md#what-taking-responsibility-looks-like). The repair they owe isn't for saying yes when they meant no. It's for what they did *after*: the accusation, the character attack, the narrative lock that turned a person who believed them into a monster in their story. That's a separate action that caused separate harm. And it deserves its own repair — just as much as yours does.
+
+If only one direction of repair happens, both people walk away incomplete. The fawner never has to confront what their attack cost you — which means they never learn, and they'll do it again. And you walk away carrying a wound that was never acknowledged — the anger, the injustice, the experience of being attacked for believing someone who told you yes. That anger sits in your body. It doesn't go away because you "understood" their fawning. Understanding their pattern and demanding repair for their attack are two completely different things. You can do both.
 
 ## In the Moment
 
