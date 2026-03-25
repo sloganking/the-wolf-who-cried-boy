@@ -206,18 +206,32 @@ You don't have to forgive them. You don't have to reconcile. You can simply deci
 
 That's not bitterness. That's [taking responsibility](./responsibility.md) for your own safety.
 
+## Before You Accept
+
+Before you decide there's nothing you can do — check:
+
+- Have you told the facilitator what you *want*, not just what happened?
+- Have you followed up when nothing was done?
+- Have you expressed your anger — not just given information?
+- Have you asked for the specific repair you need?
+
+If you haven't done these things, you haven't reached "there's nothing I can do." You've reached "I haven't asked yet." Those are very different places.
+
+Acceptance is the right move after you've advocated and been refused. It's premature if you've only informed and hoped.
+
 ## The Hardest Part
 
-Here's what no one wants to say:
+Here's the reality:
 
-**Sometimes there's nothing you can do.**
+**Sometimes you advocate clearly, ask for what you need, do everything right — and you still don't get what you want.**
 
-Sometimes the damage happens anyway. Sometimes your reputation takes a hit, or your body bears scars, or your sense of safety doesn't come back on schedule. Sometimes there's no justice, no vindication, no moment where everyone realizes you were treated unfairly.
+Sometimes the facilitator doesn't act. Sometimes the person who wronged you never takes [responsibility](./responsibility.md). Sometimes your reputation takes a hit, or your body bears scars, or your sense of safety doesn't come back on schedule. Sometimes there's no justice, no vindication, no moment where everyone realizes you were treated unfairly.
 
-This is reality. It sucks.
+This is real. It hurts.
 
 What you can control:
 
+- Whether you advocate for what you need
 - How you respond
 - Who you allow in your life going forward
 - How you process and heal
@@ -225,11 +239,12 @@ What you can control:
 
 What you can't control:
 
-- What they think
-- What others believe
-- Whether you get an apology
+- Whether they listen
+- Whether others see the truth
+- Whether the facilitator does their job
+- The outcome — only your actions
 
-Focus on what you can control. Let go of what you can't. Not because it's fair—it isn't—but because holding onto it only extends your suffering.
+Your power lives in your actions, not in their response. Focus on what you can control — not because it's fair, but because that's where your power is.
 
 ## The Long View
 
