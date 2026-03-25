@@ -213,7 +213,7 @@ Unmet needs—sexual, emotional, connection—can drive the subconscious to reac
 
 Think about consciously deciding not to eat candy, but there's candy on your desk. You zone out while working. Your hand reaches for the candy before you realize what you're doing. The want existed; your conscious mind overruled it; when you zoned out, the want drove the action.
 
-This is why [feeding yourself first](./facilitator-protocols.md#staff-readiness-feed-yourself-first) matters—especially for facilitators and staff. A well-fed animal body is safer on autopilot.
+This is why [feeding yourself first](./before-you-facilitate.md#staff-readiness-feed-yourself-first) matters—especially for facilitators and staff. A well-fed animal body is safer on autopilot.
 
 ### Impairment
 

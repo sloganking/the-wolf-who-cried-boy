@@ -189,4 +189,4 @@ And here's the deeper irony: if everything looks like manipulation through your 
 - [Responsibility](./responsibility.md) — The core concept
 - [Drama Triangle](./drama-triangle.md) — Don't be a Rescuer
 - [Before You Judge](./before-you-judge.md) — Being selfish is hard
-- [Facilitator Protocols](./facilitator-protocols.md) — Honoring the self is the ultimate act of courage
+- [When Things Go Wrong](./when-things-go-wrong.md#this-is-the-hardest-lesson) — Honoring the self is the ultimate act of courage

@@ -161,7 +161,7 @@ Most people assume being selfish is easy and being selfless takes strength. It's
 
 It's easier to give than to receive. It's easier to fold under pressure and say "okay, okay" than to stand up for yourself against wrongful accusations.
 
-Standing up for yourself when you're being attacked—especially when you made an honest mistake—is genuinely hard. Not because you're weak, but because [honoring the self is the ultimate act of courage](./facilitator-protocols.md#this-is-the-hardest-lesson).
+Standing up for yourself when you're being attacked—especially when you made an honest mistake—is genuinely hard. Not because you're weak, but because [honoring the self is the ultimate act of courage](./when-things-go-wrong.md#this-is-the-hardest-lesson).
 
 At some workshops and retreats, there's an exercise based on Betty Martin's Wheel of Consent. Facilitators ask: "Which quadrant do you feel most comfortable in—serving, taking, allowing, or receiving?"
 

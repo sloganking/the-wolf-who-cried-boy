@@ -490,7 +490,7 @@ You're not waiting for something to go wrong and then trying to repair it. You'r
 
 **For facilitators:** Teaching participants to have this conversation before play is part of preparing them for temple nights and open play. If you skip this education, you're setting people up for the mistakes this book is about.
 
-See: [Facilitator Protocols](./facilitator-protocols.md) — the responsible vs. irresponsible approach.
+See: [Before You Facilitate](./before-you-facilitate.md) — the responsible vs. irresponsible approach.
 
 ---
 
@@ -549,5 +549,5 @@ T — Trauma             Triggers? Warning signs? What to do?
 - [Responsibility](./responsibility.md) — Prevention is proactive responsibility
 - [Types of Mistakes](./types-of-mistakes.md) — Know the difference between accident and malice
 - [Before You Judge](./before-you-judge.md) — What happens when mistakes get judged harshly
-- [Facilitator Protocols](./facilitator-protocols.md) — Teaching this before temple nights
+- [Before You Facilitate](./before-you-facilitate.md) — Teaching this before temple nights
 - [Gun Test](../tools/gun-test.md) — Another pre-play self-check
