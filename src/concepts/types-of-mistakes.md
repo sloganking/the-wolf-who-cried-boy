@@ -66,11 +66,11 @@ This isn't unique to the word "predator." "Narcissist." "Abuser." "Toxic person.
 
 **Labels like these are too simple to describe a human heart.**
 
-When you label someone, you stop seeing them. The person—with their history, their fears, their unmet needs, their capacity to grow—disappears. What replaces them is a story you built. A monster. And once the monster is in place, everything they do gets filtered through it: their explanation becomes "manipulation," their pain becomes "performance," their growth becomes "love-bombing."
+When you label someone, you stop seeing them. The person—with their history, their fears, their unmet needs, their capacity to grow—disappears. What replaces them is a story you built. A monster. And once the monster story is in place, everything they do gets filtered through it: their explanation becomes "manipulation," their pain becomes "performance," their growth becomes "love-bombing."
 
 That's not insight. That's dehumanization—not because you're cruel, but because the label has replaced the person. You're no longer responding to a human being. You're responding to a character in a story you wrote.
 
-No human being perfectly fits an archetype. People are complex, contradictory, and they change over the course of their lives. Even someone with strong tendencies toward selfish or harmful behavior can choose to grow out of it. It might be as hard as riding a bicycle in reverse—but it can be done. And they can choose to. Labels deny that possibility before it's even tested.
+No human being perfectly fits an archetype. People are complex, contradictory, and they change over the course of their lives. Even someone with strong tendencies toward selfish or harmful behavior can choose to grow out of it. It might be the hardest thing they ever do—but it can be done. Labels deny that possibility before it's even tested.
 
 ## By Intent
 
