@@ -115,7 +115,11 @@ It's also the opposite of [responsibility](./responsibility.md). When you say "t
 
 Blaming their stupidity is giving up while telling yourself you never had a chance.
 
-The real question isn't "why are they so dumb?" It's: "What would I need to show them for them to see what I see?"
+The real question isn't "why are they so dumb?" It's two questions:
+
+First: "Do they see something I don't?" Because assuming you have the complete picture and no blind spots is its own form of [belief-blindness](./trauma-and-filters.md#when-evidence-gets-through). You might be right. You might also be standing on your own box without seeing its edges.
+
+Second: "What would I need to show them for them to see what I see?" And this only matters if what you're showing them contains a way for them to get what *they* want that's better than what they're currently doing. If it doesn't, they have no reason to change — and they shouldn't.
 
 ## Show, Don't Tell
 
