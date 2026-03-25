@@ -84,6 +84,8 @@ Everyone's instinct is to protect the person who *looks* vulnerable. Which is ex
 
 **The person who looks the least vulnerable is usually the most vulnerable.** They have no safety net. No one will rally to their defense. No cultural narrative protects them. If something goes wrong, they absorb the full weight of it alone — and often can't even name what's happening to them, because the language doesn't exist. We have words for the vulnerability of the person who's tied up. We don't have words for the vulnerability of the person who's about to lose everything over a mistake.
 
+## Top and Bottom Vulnerability
+
 Now we do.
 
 **Bottom vulnerability** is the vulnerability everyone sees — the physical exposure, the boundary risk, the fear of being harmed without consent. It's real, it's serious, and it has protections built around it. If your boundary is crossed, you have a safeword. You say it and the room mobilizes. Thirty people will stop everything to protect you. The cultural narrative is on your side.
@@ -94,15 +96,15 @@ Now we do.
 
 Bottom vulnerability ends when the scene ends. Top vulnerability can follow you for the rest of your life.
 
-And the contrast in what happens when things go wrong is stark. If someone crosses a bottom's boundary, it is *unthinkable* for the room to let it continue — thirty people will physically intervene, the scene stops, the bottom is surrounded by support. The bottom is in a protected position from the moment the scene begins.
+And the contrast in what happens when things go wrong is stark. If someone crosses a bottom's boundary, the room will not let it continue — thirty people will physically intervene, the scene stops, the bottom is surrounded by support. The bottom is in a protected position from the moment the scene begins.
 
 Now mirror it. Someone accuses you. They're screaming. They're in your face. You look around the room for help and no one moves. Some are nodding. Some are joining in. You try to explain what actually happened and every word you say is heard as manipulation. You raise your hands to show you're not a threat and the gesture itself looks guilty. There is nothing you can say — no word you can call out — that will make this stop. You are in an unprotected position, and no one in the room thinks that's a problem, because no one in the room is looking at you.
 
-If you've only ever bottomed, try to sit with this: imagine your boundary is crossed, and instead of the room rushing to protect you, the room agrees you had it coming. Someone gets in your face and threatens you, and the people watching nod along. You look for the facilitator and they look away. You try to call a safeword and nothing happens — there is no safeword, and even if there were, no one would honor it. That is top vulnerability. And for most people in the protected position, the idea that this could happen to someone in the same room — while they watch — is unimaginable.
+If you've only ever bottomed, try to sit with this: imagine your boundary is crossed, and instead of the room rushing to protect you, the room agrees you had it coming. Someone gets in your face and threatens you, and the people watching nod along. You look for the facilitator and they look away. You try to call a safeword and nothing happens — there is no safeword, and even if there were, no one would honor it. That is top vulnerability. For most people in the protected position, it's unimaginable.
 
 But it happens. Regularly.
 
-Most people who've only ever bottomed have no idea this exists. Their attention is entirely on their own fear, which is real and valid, but it's not the only fear in the room. They've never been in the position where everyone assumes you're fine, where defending yourself makes you look guilty, where the room will call your destruction righteous and nothing will be done for you. Top vulnerability is invisible precisely because no one in the protected position has ever had to imagine it.
+Their attention is entirely on their own fear — which is real and valid — but it's not the only fear in the room. Top vulnerability is invisible precisely because no one in the protected position has ever had to look at it.
 
 Every top who engages with you is trusting you with their reputation, their community, and their future. That's not a small thing. [Your touch is a privilege](./fawning.md#your-touch-is-a-privilege) — and so is theirs.
 
