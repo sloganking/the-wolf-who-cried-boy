@@ -1,5 +1,7 @@
 # The Drama Triangle
 
+> **⚠️ Draft — this page is being rewritten in the author's voice.** Current content is clinical placeholder. Structure and concepts are accurate; tone and examples don't match the rest of the book.
+
 ---
 
 ## What Is It?
