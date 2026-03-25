@@ -4,7 +4,7 @@
 
 ---
 
-The **Drama Triangle** is a model of dysfunctional conflict roles, created by psychiatrist Stephen Karpman in 1968. When something goes wrong, people unconsciously fall into one of three roles: **Victim**, **Persecutor**, and **Rescuer**. The healthy alternatives — **Creator**, **Challenger**, and **Coach** — come from David Emerald's *The Empowerment Dynamic*.
+The **Drama Triangle** (Stephen Karpman) maps three roles people fall into during conflict: **Victim**, **Persecutor**, and **Rescuer**. The healthy alternatives — **Creator**, **Challenger**, and **Coach** — come from David Emerald's *The Empowerment Dynamic*.
 
 You don't need to memorize any of this. You've already been learning it — the entire book is built on these shifts. This page just names the engine underneath.
 
@@ -22,7 +22,7 @@ Here's how fast people switch between them. Three sentences from the same person
 
 That's not three different people. That's one person, rotating through all three roles in ten seconds. And they don't know they're doing it.
 
-**Victim** — "This is happening *to* me. I'm powerless." The Victim doesn't take [responsibility](./responsibility.md). They wait to be saved or to be wronged again. The trap: the Victim position isn't actually powerless. It has [enormous power](./all-power-is-mutual.md#the-victim-position-is-powerful) — the power to mobilize Rescuers, to justify Persecution, to control the narrative. The word "Victim" here doesn't mean someone who was actually harmed — it means someone *acting from* helplessness, whether the harm was real or not.
+**Victim** — "This is happening *to* me. I'm powerless." The Victim doesn't take [responsibility](./responsibility.md). They wait to be saved or to be wronged again. The trap: the Victim position isn't actually powerless. It has [enormous power](./all-power-is-mutual.md#the-victim-position-is-powerful) — the power to mobilize Rescuers, to justify Persecution, to control the narrative. The word "Victim" as it's used in the Drama Triangle doesn't mean someone who was actually harmed — it means someone *acting from* helplessness, whether the harm was real or not.
 
 **Persecutor** — "It's YOUR fault. You're bad and you deserve what's coming." The Persecutor blames, attacks, punishes. They're often a former Victim who got tired of feeling helpless and flipped to anger. In play spaces, this is the person who saw a boundary crossing and decided to [destroy someone's life over it](./appropriate-response.md) — not to protect anyone, but because their anger feels righteous.
 
@@ -31,7 +31,7 @@ That's not three different people. That's one person, rotating through all three
 The roles aren't stable. People rotate through them constantly — and the rotation is what keeps the drama alive:
 
 - **Victim** gets tired of feeling helpless → becomes **Persecutor** ("It's YOUR fault!")
-- **Persecutor** feels guilty → becomes **Rescuer** ("Let me fix it")
+- **Persecutor** sees new harm happening → becomes **Rescuer** ("I need to stop this before someone gets hurt!")
 - **Rescuer** feels unappreciated → becomes **Victim** ("After everything I did for you!")
 
 This is why drama never resolves. The roles feed each other.
