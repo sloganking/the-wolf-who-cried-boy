@@ -414,7 +414,7 @@ This is the most important rule of the first officer relationship: if you think 
 
 What you don't do is publicly contradict the facilitator in front of the group. If every decision the facilitator makes is met with "actually, I think we should do this instead" from a co-facilitator or assistant, the participants see a team that isn't coherent. They lose confidence in the container. They don't know who's actually in charge. And that uncertainty makes everything less safe.
 
-There are rare emergencies where something needs to be said immediately — where waiting to pull someone aside would create real harm. But even then, the default should be: interrupt, request a private word, step away, come back with a unified decision. Not a public debate in front of fifty people.
+Unless someone is in immediate danger, it can wait thirty seconds — long enough to say "Can I grab you for a moment?", step aside, say what you need to say, and come back with a unified decision. Not a public debate in front of fifty people.
 
 Being told you're wrong is essential. Being told you're wrong *in front of everyone you're leading* undermines the container itself.
 
