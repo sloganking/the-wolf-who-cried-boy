@@ -42,7 +42,9 @@ She told me: "A check-in rooted in care or curiosity about how I was doing would
 
 She never asked what I meant. She already knew, because the story she'd built told her. This is [narrative lock](./invisible-patterns.md#narrative-lock) — every word I sent was filtered through a story that was already written before she read any of them.
 
-The roles aren't stable. People rotate through them constantly — and the rotation is what keeps the drama alive:
+---
+
+That was all three roles in a single message. But the triangle doesn't just show up once — it keeps spinning. The roles aren't stable. People rotate through them constantly, and the rotation is what keeps the drama alive:
 
 - **Victim** gets tired of feeling helpless → becomes **Persecutor** ("It's YOUR fault!")
 - **Persecutor** sees new harm happening → becomes **Rescuer** ("I need to stop this before someone gets hurt!")
