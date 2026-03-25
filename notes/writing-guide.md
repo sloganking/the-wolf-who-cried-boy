@@ -149,6 +149,20 @@ Be the wizard. Show them the crystal. Let the magic speak for itself.
 
 ## Anti-Patterns
 
+### Don't Repeat Fiction
+
+Never introduce a scary word, accusation, or negative frame just to refute it. If the reader isn't already thinking "are your staff predators?", don't ask the question — even to answer "no." The moment you say the word, it's in their head. The refutation doesn't erase the association; it reinforces it.
+
+This applies to:
+
+- Rhetorical questions that plant the very concern they try to dismiss ("What, are your staff predators?")
+- Repeating labels or accusations from antagonists ("someone called me a predator") — instead, describe the action without the specific label ("someone attacked my reputation," "someone called me names")
+- Metaphors that accidentally associate good people with threatening images (e.g., repeating "hungry dog" four times to describe your own staff)
+
+**The principle:** If you wouldn't want the reader to walk away with that word echoing in their head, don't put it there. Describe the mechanism, not the fear. Show the pattern, not the scary label. The same way "Don't Watch Horror Before Temple" works — what enters the mind shapes what the mind sees.
+
+---
+
 ### Don't Recommend Therapists as a Default
 
 Telling readers to "find a therapist" is a cop-out. It decreases the book's authority and continues the standard narrative that therapy is the answer to emotional pain — when two-thirds of depression patients show zero improvement from therapy. The book has built a complete framework. Don't defer to someone else's authority when you've already done the work.

@@ -60,111 +60,53 @@ Here's something most facilitators don't talk about:
 
 **If you're sexually starved, you're a liability.**
 
-Think about it like a hungry dog at a buffet. A well-fed dog can walk past food without grabbing. A starving dog cannot. Its animal body takes over. Impulse overwhelms judgment.
+Think about it like a hungry dog at a buffet. A well-fed dog can walk past food without grabbing. A starving dog cannot. Its animal body takes over. Impulse overwhelms judgment. The same applies to facilitators and staff at sex-positive events.
 
-The same applies to facilitators and staff at sex-positive events. If you haven't been sexually satisfied—if you're running on empty, touch-starved, desperate for connection—your animal body is hungry. And hungry animal bodies make mistakes.
+When you're sexually fed, your conscious mind has more control. You can be around intimacy without your body pulling you toward it. You make clearer decisions. Your presence is calmer.
 
-### The Mechanism
+When you're sexually starved, the pull is stronger. Your subconscious is scanning. You're more likely to miss cues, push boundaries without realizing it, or slip in ways you wouldn't if you were satisfied. And if you're carrying a scarcity mindset on top of that — a story that says *opportunities like this are rare, I should make the most of this* — the pull gets even stronger. That's not just hunger. That's hunger plus a [filter](./trauma-and-filters.md) that says *now or never*.
 
-When you're sexually fed:
-
-- Your conscious mind has more control
-- You can be around intimacy without your body screaming for it
-- You make clearer decisions
-- Your presence is calmer, more grounded
-
-When you're sexually starved:
-
-- Your animal body has more control
-- Your subconscious is scanning for opportunities
-- You're more likely to miss cues, push boundaries unconsciously, or make mistakes you wouldn't make if you were satisfied
-- You're a hungry dog at a buffet
-
-This isn't about willpower or character. It's about state. A starved body behaves differently than a fed one.
+This isn't about willpower or character. It's about state management — the same logic as getting enough sleep, eating before you facilitate, and managing your emotional activation. You wouldn't run a container while sleep-deprived. Sexual starvation is the same category of risk.
 
 ### The Facilitator Standard
 
-If you're facilitating sex-positive spaces, consider this a form of professional hygiene:
+If you're facilitating sex-positive spaces, consider this professional hygiene:
 
 **Take care of your sexual needs before you facilitate.**
 
 This might mean:
 
 - Having a partner who meets your needs
-- Attending parties for your own pleasure (separate from work)
-- Working with a sex worker
+- Attending events for your own pleasure (separate from work)
 - Finding regular outlets for intimacy and connection
 
-If you're leading a week-long retreat, make sure you're not arriving sexually starved. If you're running a play party, make sure your own needs have been met recently.
+If you're leading a week-long retreat, make sure you're not arriving starved. If you're running a play party, make sure your needs have been met recently.
 
 ### For Your Staff
 
 If you have staff or assistants, consider their state too.
 
-A team of sexually starved people facilitating a sex party is a team of hungry dogs managing a buffet. The risk of mistakes—unconscious boundary crossings, moments where the animal body takes over—goes up dramatically.
+**A recommendation:** Consider making this a requirement, not a suggestion. *You cannot work my events unless your needs have been met recently.*
 
-**A recommendation:** Consider making this a hard boundary for your staff.
-
-Not "encourage self-care." Not "create a culture." A requirement: *You cannot work my events unless you've been sexually satisfied recently.*
-
-Think of it like meals at a retreat. If something went wrong and meals had been delayed—if nobody had eaten in 24 hours—you wouldn't push forward with the curriculum. You'd stop. You'd make sure everyone was fed before continuing. Because hungry people can't show up fully. Their bodies are distracted by unmet needs.
-
-Sexual hunger works the same way. If your staff haven't been fed, they're not ready to serve.
+Think of it like meals at a retreat. If nobody had eaten in 24 hours, you wouldn't push forward with the curriculum. You'd stop and feed everyone first. Same logic.
 
 ### The Jumpmaster Reframe
 
-There's a video of military paratroopers jumping from a plane. Before each jump, a jumpmaster does a final check—gear, straps, everything. In the video, someone is about to jump. Split second from the door. And the jumpmaster sees it: the static line is wrapped around the jumper's neck. If he jumps, he's decapitated.
+There's a video of military paratroopers jumping from a plane. Before each jump, a jumpmaster does a final check — gear, straps, everything. In the video, someone is about to jump. Split second from the door. And the jumpmaster sees it: the static line is wrapped around the jumper's neck. If he jumps, he's decapitated.
 
 The jumpmaster grabs him. Shoves him back. Saves his life.
 
 That pre-check isn't bureaucracy. It's love.
 
-**Here's the reframe:**
+When I require my staff to be sexually satisfied before working my events, I'm not just protecting participants. I'm protecting *them*. I'm the jumpmaster — catching something that could hurt them before they jump.
 
-When I require my staff to be sexually satisfied before working my events, I'm not just protecting participants. I'm not just protecting myself. I'm protecting *them*.
-
-I'm the jumpmaster. I'm catching something that could hurt them before they jump.
-
-If you're sexually starved and you make an unconscious mistake—like I did—you don't just harm the participant. You harm yourself. Your reputation. Your standing in the community. Your self-image. You have to live with what your hungry animal body did while you weren't fully in control.
-
-By saying "you can't work here until you're fed," I'm saying: *Go take care of yourself. I won't let you jump with a rope around your neck.*
-
-### What This Is Actually About
-
-Someone might read this and think: "What, are your staff predators? People who will consciously violate boundaries if they're hungry?"
-
-No. That's not the concern.
-
-This isn't about morality. It's about accounting for human nature. It's not designed to dissuade people from committing intentional harm. I expect and take steps to ensure my staff are completely consciously aligned—good people who would never choose to cross a boundary.
-
-The concern is **unconscious harm.**
-
-Like the [popcorn metaphor](../tools/popcorn-metaphor.md). Like my personal example. Mistakes that aren't choices. Moments where the conscious mind slips and the animal body does something the person would never consciously do.
-
-Even if you're completely aligned consciously, your unconscious has wants and desires. If those wants are starving, they have more pull. They're closer to the surface. And when your conscious mind dips—even for a second—the hungry unconscious is more likely to act.
-
-This rule isn't about stopping predators. It's about reducing micro-mistakes from good people whose animal bodies aren't fed. It's about making sure everyone's unconscious is as aligned and safe as possible—so that even when attention slips, the autopilot doesn't cause harm.
-
-### If They Don't Understand
-
-A newbie might hear this boundary and feel excluded. "Why can't I assist at the party? Are you stopping me from having sex? From bonding with the staff team? I feel left out."
-
-They might not understand yet.
-
-But saying no here is an act of love. It's looking out for them in two ways:
-
-1. **Stopping them from endangering themselves** — preventing the unconscious mistake that could damage their life
-2. **Requiring they take care of themselves** — the boundary isn't "you can't participate." The boundary is "go get fed first."
-
-Not all facilitators will do this. It's a high bar. But I'm considering it for my events—because if there's an obvious source of unsafety I can prevent, I want to prevent it.
+If you're sexually starved and you make an [unconscious mistake](./types-of-mistakes.md), you don't just harm the participant. You harm yourself — your reputation, your standing, your self-image. By saying "you can't work here until you're fed," I'm saying: *Go take care of yourself. I won't let you jump with a rope around your neck.*
 
 ### This Is Taking Responsibility
 
 This isn't indulgence. It's [responsibility](./responsibility.md).
 
-You're in a position where your state affects others. Taking care of yourself—including sexually—reduces the risk you pose to participants. It's the same logic as getting enough sleep, not drinking before facilitating, and managing your emotional state.
-
-Feed yourself first. Then you can hold space for others without your hunger getting in the way.
+You're in a position where your state affects others. Taking care of yourself — including sexually — reduces the risk of [unconscious mistakes](./types-of-mistakes.md). Feed yourself first. Then you can hold space for others without your hunger getting in the way.
 
 ### Don't Watch Horror Before Temple
 
