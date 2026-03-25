@@ -319,6 +319,8 @@ Compare that to the fawner who:
 
 One fawner is creating change. The other is creating drama.
 
+And if your fawning led to an attack on someone who believed your "yes" — if you accused them, spread a story about them, or turned a miscommunication into a narrative about their character — that's a separate harm that deserves its own repair. Not for the fawning itself, but for what you did after. See [Repair Goes Both Ways](./when-youve-been-wronged.md#repair-goes-both-ways).
+
 ### It Gets Easier
 
 Yes, fawning is automatic. Yes, you might fail nine times out of ten at first.
