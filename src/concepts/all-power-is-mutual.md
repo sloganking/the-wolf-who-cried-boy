@@ -92,7 +92,17 @@ Now we do.
 
 **Bottom vulnerability has a safeword. Top vulnerability doesn't.**
 
-And most people who've only ever bottomed have no idea what top vulnerability feels like — their attention is entirely on their own fear, which is real and valid, but it's not the only fear in the room. They've never been in the position where everyone assumes you're fine, where defending yourself makes you look guilty, where the room will call your destruction righteous and nothing will be done for you. Top vulnerability is invisible precisely because no one in the "protected" position has ever had to imagine it.
+Bottom vulnerability ends when the scene ends. Top vulnerability can follow you for the rest of your life.
+
+And the contrast in what happens when things go wrong is stark. If someone crosses a bottom's boundary, it is *unthinkable* for the room to let it continue — thirty people will physically intervene, the scene stops, the bottom is surrounded by support. The bottom is in a protected position from the moment the scene begins.
+
+Now mirror it. If someone crosses a *top's* boundary — screams at them, threatens them, gets in their face — the room watches. Some nod along. Some join in. The top is expected to absorb it. If they defend themselves, they look like the aggressor. If they raise their voice, they become the threat. The top is in an unprotected position, and no one in the room thinks that's a problem — because no one in the room is looking at it.
+
+That's what top vulnerability feels like: being harmed in public while the room agrees you deserve it.
+
+Most people who've only ever bottomed have no idea this exists. Their attention is entirely on their own fear, which is real and valid, but it's not the only fear in the room. They've never been in the position where everyone assumes you're fine, where defending yourself makes you look guilty, where the room will call your destruction righteous and nothing will be done for you. Top vulnerability is invisible precisely because no one in the protected position has ever had to imagine it.
+
+Every top who engages with you is trusting you with their reputation, their community, and their future. That's not a small thing. [Your touch is a privilege](./fawning.md#your-touch-is-a-privilege) — and so is theirs.
 
 **There is no such thing as one-way vulnerability.** If one person is vulnerable, both people are vulnerable — just in different directions. The bottom has 30 friends in the room who will stop everything the moment they say the word. That's not helplessness — that's an instant safety net. The top has no equivalent. There's no word they can say that makes 30 people rush to protect them. If they're accused, no amount of "stop" will make the room pause and verify before acting.
 
