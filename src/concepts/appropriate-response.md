@@ -20,6 +20,8 @@ Response:    LOW ──────── MEDIUM ──────── HIGH
 ✗ OVER-RESPONSE: Creates new harm, new victims
 ```
 
+An over-response is punishment disguised as accountability. It looks like justice — it feels righteous to the person doing it — but the consequences don't match what happened.
+
 ## Unqualified Response = Over-Response
 
 There's another way to fail this test: **responding when you don't actually know what happened.**
