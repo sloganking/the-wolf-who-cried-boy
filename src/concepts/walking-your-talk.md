@@ -358,7 +358,7 @@ Or are you going to be part of the reason they stay stuck in a false story—one
 
 Most people act from fear. Most people aren't clear-seeing enough to know what should be done. But you can be the one who shows them something they can never forget. In a way that possibly only you can.
 
-**Your job is to serve your participants, not to please them.** Pleasing is fawning. Serving is telling the truth even when it's uncomfortable.
+If you care about your participants' transformation — about creating real value, real clarity, the kind of experience that changes how they see the world — then **your job is to serve them, not to please them.** Pleasing is fawning. Serving is telling the truth even when it's uncomfortable.
 
 ### Protecting Top Vulnerability
 
