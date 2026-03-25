@@ -29,7 +29,7 @@ These are places where the book describes people instead of behaviors — exactl
 
 ## Drama Triangle Page Review
 
-- [ ] **`drama-triangle.md`** — AI-generated, never reviewed by author. Needs full review for voice, accuracy, and alignment with the book's current standard. Zero author wording. May duplicate concepts taught elsewhere.
+- [x] **`drama-triangle.md`** — Fully rewritten with author voice. Added personal example (Sutton), restructured role definitions, added Rosetta Stone table mapping book concepts to drama triangle roles, narrative lock tie-in. No longer AI-generated.
 
 ## Wound Language Check
 
