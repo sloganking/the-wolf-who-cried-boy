@@ -105,7 +105,7 @@ Calling them stupid or evil is easier than doing the hard work of understanding 
 
 That scarcity belief is a lie. But they don't know it's a lie. They're acting rationally within a false model.
 
-It's the same worldview that drives [righteous predators](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator)—the belief that the world is zero-sum and extreme action is the only option. The selfish person fights for themselves. The righteous predator fights for others. Same engine, different direction.
+It's the same worldview that drives [righteous predators](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator)—the belief that the world is zero-sum and extreme action is the only option. The selfish person fights for themselves. The righteous predator fights for their tribe. Same engine, different direction.
 
 And selfishness doesn't just come from a false belief—it's a strategy that undermines itself. Transactional behavior repels the very people who could add the most to your life. It doesn't feel good to be around someone who's always taking—so the people who could offer real connection, real trust, real support don't stick around. They gravitate toward people who treat them well.
 
