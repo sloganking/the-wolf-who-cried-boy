@@ -24,7 +24,7 @@ I met someone at a festival. She texted afterward: "I'm needing a few days to di
 
 Two weeks later: "Hey checking in. Still wanting more time?" No response. Two months later: "Thinking of you warmly and wishing you happy holidays."
 
-Three messages across four months. Then:
+Three messages across four months. Months of silence. Then she responded:
 
 > "The follow-up messages felt pushy and created a sense that I owed you my time." ← **Victim** — *this is happening to me, I'm powerless against it*
 >
@@ -32,7 +32,9 @@ Three messages across four months. Then:
 >
 > "This carries a patriarchal dynamic, where a woman's expressed need for space isn't fully respected." ← **Rescuer** — *she stopped talking about herself and started protecting women from a pattern*
 
-She told me a check-in "rooted in care or curiosity" would have felt different. My second message was: "Hey checking in. Still wanting more time?" She never asked what I meant. She already knew, because the story she'd built told her.
+She told me: "A check-in rooted in care or curiosity about how I was doing would have felt very different." My second message — the one she never answered — was: "Hey checking in. Still wanting more time?" She could have said yes. She could have told me her first message was a hard boundary. She said nothing — and months later, told me I hadn't checked in with care.
+
+She never asked what I meant. She already knew, because the story she'd built told her.
 
 **Victim** — "This is happening *to* me. I'm powerless." The Victim doesn't take [responsibility](./responsibility.md). They wait to be saved or to be wronged again. The trap: the Victim position isn't actually powerless. It has [enormous power](./all-power-is-mutual.md#the-victim-position-is-powerful) — the power to mobilize Rescuers, to justify Persecution, to control the narrative. The word "Victim" as it's used in the Drama Triangle doesn't mean someone who was actually harmed — it means someone *acting from* helplessness, whether the harm was real or not.
 
