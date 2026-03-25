@@ -69,6 +69,10 @@ If you find yourself thinking "but I wasn't perfect, so who am I to demand anyth
 
 This also means repair might need to flow both ways. You crossed my boundary — you owe me repair for that. My response was disproportionate — I owe you repair for *that*. Two separate repairs, two separate conversations. Not "we both messed up, let's call it even." Not one person doing all the owning while the other does all the forgiving. Each wound gets addressed on its own terms until both people feel complete. That's what real resolution looks like — and it's the only version where both people walk away actually done instead of performing done.
 
+Here's where it gets uncomfortable: this applies to [fawning](./fawning.md) too. If someone fawned — said yes when they meant no — and then later attacked you for believing them, there are two separate wounds. You didn't catch the fawning. That's real — you could have been more attuned, and you owe them acknowledgment for that. And they attacked your character based on a "yes" they gave you. That's also real — and they owe *you* repair for that.
+
+The tendency is for only one direction to happen. The person who didn't catch the fawning does all the owning. The fawner's attack goes unaddressed — because they're seen as the victim, and victims don't owe repair. But they do. Not for fawning — that's their pattern to work on. For what they did *after*: the accusation, the character attack, the [narrative lock](./trauma-and-filters.md) that turned a miscommunication into a story about who you are. That wound is yours, and it deserves to be addressed just as much as theirs.
+
 ## In the Moment
 
 ### Don't Fawn
