@@ -198,7 +198,7 @@ But the relationship is already damaged. The question is whether it gets repaire
 
 #### CPR: Are You Addressing the Right Level?
 
-When you do speak up, make sure you're addressing the real problem — not a safer, smaller version of it. There are three levels, and each one requires a different conversation. This distinction comes from _Crucial Conversations_.
+When you do speak up, make sure you're addressing the real problem — not a safer, smaller version of it. There are three levels, and each one requires a different conversation. This distinction comes from [_Crucial Conversations_](https://cruciallearning.com/books/crucial-conversations-book/) by Joseph Grenny et al..
 
 **Content** — a specific incident. "This specific thing happened, and here's what I need done about it." This is the easiest level to address and the one most people default to — even when the real problem is deeper.
 
