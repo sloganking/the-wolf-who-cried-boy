@@ -99,9 +99,17 @@ The person in front of you has reasons for what they're doing. Based on their be
 
 Even acts that look purely selfish often come from something deeper. Someone hoarding resources, stepping on others to get ahead, refusing to cooperate—that's often not malice. It's a belief in scarcity. A belief that there's not enough to go around. That we can't all win. That it's you or me.
 
-That belief is a lie. But they don't know it's a lie. They're acting rationally within a false model.
+Calling them stupid or evil is easier than doing the hard work of understanding their world well enough to show them a different one.
 
-Calling them stupid or evil is easier than doing the hard work of understanding their world well enough to show them a different one. It's a cop-out dressed up as insight.
+### Selfishness Comes at a Cost
+
+That scarcity belief is a lie. But they don't know it's a lie. They're acting rationally within a false model.
+
+It's the same worldview that drives [righteous predators](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator)—the belief that the world is zero-sum and extreme action is the only option. The selfish person fights for themselves. The righteous predator fights for others. Same engine, different direction.
+
+And selfishness doesn't just come from a false belief—it's a strategy that undermines itself. Transactional behavior repels the very people who could add the most to your life. It doesn't feel good to be around someone who's always taking—so the people who could offer real connection, real trust, real support don't stick around. They gravitate toward people who treat them well.
+
+Selfishness is a scaling problem. It can extract from people who have no other option. But anyone with choices will eventually choose someone else. The selfish person ends up with fewer and shallower relationships than someone who learned to give and receive in balance—[hungry and naive](./before-you-judge.md#and-the-ones-who-are-selfish), using the only strategy they know, not realizing it caps out far below what's actually possible. It's a cop-out dressed up as insight.
 
 It's also the opposite of [responsibility](./responsibility.md). When you say "they're just too stupid to get it," you're pretending you don't have the power to affect them. You're disowning your influence. But you _do_ have power here—you just haven't figured out how to use it yet.
 
