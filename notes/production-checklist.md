@@ -22,7 +22,7 @@ These are places where the book describes people instead of behaviors — exactl
 
 ### Still Outstanding
 
-- [ ] **`power-dynamics.md`** — HIGHEST PRIORITY. Full page pass needed. "Participants Can Be Abusers" section title, "you become the abuser," heavy abuse/abuser identity language throughout. Contradicts the book's core principle. Needs rewrite, not just word-swapping.
+- [x] **`power-dynamics.md`** — ~~HIGHEST PRIORITY.~~ Reviewed: page was mostly already aligned (behavioral language throughout). Fixed "you become the perpetrator" identity label → behavioral description. Warning banner removed. Original section titles ("Participants Can Be Abusers") appear to have been fixed in a prior pass.
 - [ ] **"If you cry victim loud/hard enough, you become the perpetrator"** — identity label ("you become the perpetrator"). Appears in 4 places: `severity.md`, `appropriate-response.md`, `power-dynamics.md`, `examples.md`. Reframe to describe the behavior/dynamic instead.
 - [ ] `types-of-mistakes.md` — "The person who responded became one" (identity label for predator)
 - [ ] `before-you-judge.md` — Review for lecturing tone

@@ -1,7 +1,5 @@
 # Power Dynamics
 
-> **⚠️ Draft — this page needs a rewrite.** Heavy use of identity labels ("abuser," "you become the perpetrator") throughout. Contradicts the book's core principle of describing behaviors, not character.
-
 [Power always flows both ways](./all-power-is-mutual.md). This page is about what that looks like in practice — specifically between participants and facilitators — and how to tell the difference between accountability and harm.
 
 ---
