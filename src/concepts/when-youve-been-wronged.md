@@ -531,8 +531,12 @@ Next time someone attacks you:
 - You can enforce boundaries without waiting for their permission
 - You can name what happened without needing them to agree
 - You can stop absorbing abuse that you don't have to absorb
+- You can tell the facilitator what you need — not just what happened
+- You can ask for accountability from the person who wronged you
+- You can ask for accountability from the facilitator who didn't protect you
+- You can follow up when nothing is done, and name the inaction
 
-Their anger doesn't control you. Their intentions don't determine your experience. You have power—real power—to not be a victim.
+Their anger doesn't control you. Their intentions don't determine your experience. You have power—real power—and that power isn't just the ability to walk away. It's the ability to stand there and ask for what you need.
 
 Use it.
 
