@@ -30,7 +30,7 @@ I met someone at a festival. She texted afterward: "I'm needing a few days to di
 
 Two weeks later: "Hey checking in. Still wanting more time?" No response. Two months later: "Thinking of you warmly and wishing you happy holidays."
 
-Three messages across four months. Months of silence. Then she responded:
+Three messages across four months — and then months more of silence. Then she responded:
 
 > "The follow-up messages felt pushy and created a sense that I owed you my time." ← **Victim** — *this is happening to me, I'm powerless against it*
 >
@@ -38,9 +38,9 @@ Three messages across four months. Months of silence. Then she responded:
 >
 > "This carries a patriarchal dynamic, where a woman's expressed need for space isn't fully respected." ← **Rescuer** — *she stopped talking about herself and started protecting women from a pattern*
 
-She told me: "A check-in rooted in care or curiosity about how I was doing would have felt very different." My second message — the one she never answered — was: "Hey checking in. Still wanting more time?" She could have said yes. She could have told me her first message was a hard boundary. She said nothing — and months later, told me I hadn't checked in with care.
+She told me: "A check-in rooted in care or curiosity about how I was doing would have felt very different." My second message — the one she never answered — was: "Hey checking in. Still wanting more time?" She could have said no. She could have told me her first message was a hard boundary. She said nothing — and months later, told me I hadn't checked in with care.
 
-She never asked what I meant. She already knew, because the story she'd built told her.
+She never asked what I meant. She already knew, because the story she'd built told her. This is [narrative lock](./invisible-patterns.md#narrative-lock) — every word I sent was filtered through a story that was already written before she read any of them.
 
 The roles aren't stable. People rotate through them constantly — and the rotation is what keeps the drama alive:
 
