@@ -70,7 +70,7 @@ This isn't about willpower or character. It's about state management — the sam
 
 ### The Facilitator Standard
 
-If you're facilitating sex-positive spaces, consider this professional hygiene:
+If you're facilitating or assisting at sex-positive spaces, consider this professional hygiene:
 
 **Take care of your sexual needs before you facilitate.**
 
