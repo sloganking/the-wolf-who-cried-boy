@@ -84,7 +84,17 @@ Everyone's instinct is to protect the person who *looks* vulnerable. Which is ex
 
 **The person who looks the least vulnerable is usually the most vulnerable.** They have no safety net. No one will rally to their defense. No cultural narrative protects them. If something goes wrong, they absorb the full weight of it alone — and often can't even name what's happening to them, because the language doesn't exist. We have words for the vulnerability of the person who's tied up. We don't have words for the vulnerability of the person who's about to lose everything over a mistake.
 
-**There is no such thing as one-way vulnerability.** If one person is vulnerable, both people are vulnerable — just in different directions. The person who looks physically helpless has 30 friends in the room who will stop everything the moment they say the word. That's not helplessness — that's an instant safety net. The person who *doesn't* look vulnerable has no equivalent. There's no word they can say that makes 30 people rush to protect them. If they're accused, no amount of "stop" will make the room pause and verify before acting.
+Now we do.
+
+**Bottom vulnerability** is the vulnerability everyone sees — the physical exposure, the boundary risk, the fear of being harmed without consent. It's real, it's serious, and it has protections built around it. If your boundary is crossed, you have a safeword. You say it and the room mobilizes. Thirty people will stop everything to protect you. The cultural narrative is on your side.
+
+**Top vulnerability** is the vulnerability no one sees — the reputational exposure, the narrative risk, the reality that one mistake can cost you your community, your livelihood, and your name. It has no protections built around it. If you're accused, there is no safeword you can call that makes the room pause and verify before reacting. No one mobilizes to protect you. The cultural narrative is against you. And you often can't even name what's happening, because until now, there wasn't a word for it.
+
+**Bottom vulnerability has a safeword. Top vulnerability doesn't.**
+
+And most people who've only ever bottomed have no idea what top vulnerability feels like — their attention is entirely on their own fear, which is real and valid, but it's not the only fear in the room. They've never been in the position where everyone assumes you're fine, where defending yourself makes you look guilty, where the room will call your destruction righteous and nothing will be done for you. Top vulnerability is invisible precisely because no one in the "protected" position has ever had to imagine it.
+
+**There is no such thing as one-way vulnerability.** If one person is vulnerable, both people are vulnerable — just in different directions. The bottom has 30 friends in the room who will stop everything the moment they say the word. That's not helplessness — that's an instant safety net. The top has no equivalent. There's no word they can say that makes 30 people rush to protect them. If they're accused, no amount of "stop" will make the room pause and verify before acting.
 
 In play spaces especially, the idea that only one person is at risk is a dangerous fiction. Both people are at risk. One is at risk of a boundary violation. The other is at risk of having their entire life destroyed by the response to a mistake. Seeing only one of those risks — and building all your protections around it — is how the other risk goes unmanaged and causes the most damage.
 
