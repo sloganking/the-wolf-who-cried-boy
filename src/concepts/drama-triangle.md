@@ -20,17 +20,19 @@ That's not three different people. That's one person, rotating through all three
 
 Here's what it looks like in a real message.
 
-I met someone at a festival. She texted afterward that she needed a few days away from her phone — "I'll get back to you when I have more capacity." I said take your time. Two weeks later, I checked in. Two months later, I sent a warm holiday message.
+I met someone at a festival. She texted afterward that she needed a few days to disconnect from her phone — "I'll get back to you when I have more capacity." I replied: "Thank you for asking for what you need. Take your time. I wish you well."
+
+Two weeks later, I checked in: "Still wanting more time?" No response. Two months later: "Thinking of you warmly and wishing you happy holidays."
 
 Months of silence. Then:
 
-> "The follow-up messages felt pushy and created a sense that I owed you my time." ← **Victim**
+> "The follow-up messages felt pushy and created a sense that I owed you my time." ← **Victim** — *this is happening to me, I'm powerless against it*
 >
-> "The contact felt centered on your desire for connection, not on whether I had the capacity to reconnect." ← **Persecutor**
+> "The contact felt centered on your desire for connection, not on whether I had the capacity to reconnect." ← **Persecutor** — *she's decided why I contacted her: because I was selfish*
 >
-> "This carries a patriarchal dynamic, where a woman's expressed need for space isn't fully respected." ← **Rescuer**
+> "This carries a patriarchal dynamic, where a woman's expressed need for space isn't fully respected." ← **Rescuer** — *she stopped talking about herself and started protecting women from a pattern*
 
-One message. All three roles. She told me a check-in "rooted in care or curiosity" would have felt different — but "thinking of you warmly and wishing you happy holidays" was exactly that. She never asked what I meant. She already knew, because the story she'd built told her.
+One message. All three roles. She told me a check-in "rooted in care or curiosity" would have felt different — but "thinking of you warmly and wishing you happy holidays" *was* exactly that. She never asked what I meant. She already knew, because the story she'd built told her.
 
 **Victim** — "This is happening *to* me. I'm powerless." The Victim doesn't take [responsibility](./responsibility.md). They wait to be saved or to be wronged again. The trap: the Victim position isn't actually powerless. It has [enormous power](./all-power-is-mutual.md#the-victim-position-is-powerful) — the power to mobilize Rescuers, to justify Persecution, to control the narrative. The word "Victim" as it's used in the Drama Triangle doesn't mean someone who was actually harmed — it means someone *acting from* helplessness, whether the harm was real or not.
 
