@@ -6,7 +6,7 @@
 
 The **Drama Triangle** (Stephen Karpman) maps three roles people fall into during conflict: **Victim**, **Persecutor**, and **Rescuer**. The healthy alternatives — **Creator**, **Challenger**, and **Coach** — come from David Emerald's *The Empowerment Dynamic*.
 
-You don't need to memorize any of this. You've already been learning it — the entire book is built on these shifts. This page just names the engine underneath.
+The entire book is built on these shifts. This page names the engine underneath.
 
 ---
 
@@ -16,7 +16,7 @@ Here's how fast people switch between them. Three sentences from the same person
 
 > "I couldn't have done anything about it." ← **Victim**
 >
-> "He's an evil, selfish predator." ← **Persecutor**
+> "He's an evil, selfish asshole." ← **Persecutor**
 >
 > "Someone needs to stop him before he hurts anyone else." ← **Rescuer**
 
