@@ -67,6 +67,8 @@ Their failure is also real. Name it — on its own. Let yourself feel the anger.
 
 If you find yourself thinking "but I wasn't perfect, so who am I to demand anything" — that's the trap. That's using [responsibility](./responsibility.md) as a reason to never advocate for yourself. Nobody involved in any conflict was perfect. If imperfection disqualified you from demanding accountability, no one would ever be held accountable for anything.
 
+This also means repair might need to flow both ways. You crossed my boundary — you owe me repair for that. My response was disproportionate — I owe you repair for *that*. Two separate repairs, two separate conversations. Not "we both messed up, let's call it even." Not one person doing all the owning while the other does all the forgiving. Each wound gets addressed on its own terms until both people feel complete. That's what real resolution looks like — and it's the only version where both people walk away actually done instead of performing done.
+
 ## In the Moment
 
 ### Don't Fawn
