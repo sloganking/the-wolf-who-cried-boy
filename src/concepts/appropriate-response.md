@@ -24,7 +24,7 @@ An over-response is punishment disguised as accountability. It looks like justic
 
 ## Unqualified Response = Over-Response
 
-There's another way to fail this test: **responding when you don't actually know what happened.**
+There's another way to fail this test: **responding when you haven't verified what happened.**
 
 See: [Before You Judge](./before-you-judge.md)
 

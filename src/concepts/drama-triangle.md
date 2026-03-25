@@ -16,7 +16,7 @@ Here's how fast people switch between them. Three sentences from the same person
 
 > "I couldn't have done anything about it." ← **Victim**
 >
-> "He's an evil, selfish asshole." ← **Persecutor**
+> "He's an evil, selfish asshole who needs to be punished." ← **Persecutor**
 >
 > "Someone needs to stop him before he hurts anyone else." ← **Rescuer**
 
