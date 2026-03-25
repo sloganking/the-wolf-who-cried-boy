@@ -180,7 +180,7 @@ If the facilitator only listens to the accuser, that tells you something about t
 
 **But informing isn't enough.**
 
-I wrote this section — the original version — and it stopped right there. "Let the facilitator know your side." That was the advice. I know, because that's exactly what I did in my own life. I was attacked in a container. The facilitators didn't protect me. Afterward, I informed the facilitator how things could be handled better. I gave her frameworks. I offered protocols. All giving. All information. I never once said: *"I'm angry. What happened to me wasn't okay. Here's what I want you to do about it."*
+I wrote this section — the original version — and it stopped right there. "Let the facilitator know your side." That was the advice. I know, because that's exactly what I did in my own life. I was attacked in a container. The facilitators didn't protect me. Afterward, I informed the facilitator how things could be handled better. I gave them frameworks. I offered protocols. All giving. All information. I never once said: *"I'm angry. What happened to me wasn't okay. Here's what I want you to do about it."*
 
 I spent nearly 200 hours writing a book about seeing through blind spots — and I couldn't see that my own [fawning](./fawning.md) pattern had shaped the advice on this page. The book told you to inform. It didn't tell you to advocate. Because I didn't know how to advocate. I only knew how to give.
 
