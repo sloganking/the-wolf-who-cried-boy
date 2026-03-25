@@ -22,8 +22,8 @@ These are places where the book describes people instead of behaviors — exactl
 
 ### Still Outstanding
 
-- [x] **`power-dynamics.md`** — ~~HIGHEST PRIORITY.~~ Reviewed: page was mostly already aligned (behavioral language throughout). Fixed "you become the perpetrator" identity label → behavioral description. Warning banner removed. Original section titles ("Participants Can Be Abusers") appear to have been fixed in a prior pass.
-- [ ] **"If you cry victim loud/hard enough, you become the perpetrator"** — identity label ("you become the perpetrator"). Appears in 4 places: `severity.md`, `appropriate-response.md`, `power-dynamics.md`, `examples.md`. Reframe to describe the behavior/dynamic instead.
+- [x] **`power-dynamics.md`** — Reviewed: page was already aligned (behavioral language throughout). Warning banner removed. Original section titles ("Participants Can Be Abusers") were fixed in a prior pass.
+- [x] **"If you cry victim loud enough, you become the perpetrator"** — Reviewed and intentionally kept. "Perpetrator" describes a role shift in a dynamic, not a character label. It's behavioral ("the person doing the thing"), not identity ("you are an evil person"). The line is the thesis of the page in 12 words. Do not change.
 - [ ] `types-of-mistakes.md` — "The person who responded became one" (identity label for predator)
 - [ ] `before-you-judge.md` — Review for lecturing tone
 

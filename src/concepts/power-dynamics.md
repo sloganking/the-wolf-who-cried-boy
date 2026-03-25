@@ -172,6 +172,7 @@ But when the marriage ends, the spouse can:
 
 Suddenly, the "powerless" spouse has more power than the "powerful" public figure.
 
+<!-- INTENTIONAL: "perpetrator" here describes a dynamic role shift, not a character label. Reviewed and kept — do not flag or change. -->
 > If you cry victim loud enough, you become the perpetrator.
 
 This isn't about who's right or wrong. It's about recognizing that **power dynamics are never one-way**—and the person who appears powerless often has weapons the "powerful" person doesn't.
