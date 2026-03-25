@@ -96,9 +96,11 @@ Bottom vulnerability ends when the scene ends. Top vulnerability can follow you 
 
 And the contrast in what happens when things go wrong is stark. If someone crosses a bottom's boundary, it is *unthinkable* for the room to let it continue — thirty people will physically intervene, the scene stops, the bottom is surrounded by support. The bottom is in a protected position from the moment the scene begins.
 
-Now mirror it. If someone crosses a *top's* boundary — screams at them, threatens them, gets in their face — the room watches. Some nod along. Some join in. The top is expected to absorb it. If they defend themselves, they look like the aggressor. If they raise their voice, they become the threat. The top is in an unprotected position, and no one in the room thinks that's a problem — because no one in the room is looking at it.
+Now mirror it. Someone accuses you. They're screaming. They're in your face. You look around the room for help and no one moves. Some are nodding. Some are joining in. You try to explain what actually happened and every word you say is heard as manipulation. You raise your hands to show you're not a threat and the gesture itself looks guilty. There is nothing you can say — no word you can call out — that will make this stop. You are in an unprotected position, and no one in the room thinks that's a problem, because no one in the room is looking at you.
 
-That's what top vulnerability feels like: being harmed in public while the room agrees you deserve it.
+If you've only ever bottomed, try to sit with this: imagine your boundary is crossed, and instead of the room rushing to protect you, the room agrees you had it coming. Someone gets in your face and threatens you, and the people watching nod along. You look for the facilitator and they look away. You try to call a safeword and nothing happens — there is no safeword, and even if there were, no one would honor it. That is top vulnerability. And for most people in the protected position, the idea that this could happen to someone in the same room — while they watch — is unimaginable.
+
+But it happens. Regularly.
 
 Most people who've only ever bottomed have no idea this exists. Their attention is entirely on their own fear, which is real and valid, but it's not the only fear in the room. They've never been in the position where everyone assumes you're fine, where defending yourself makes you look guilty, where the room will call your destruction righteous and nothing will be done for you. Top vulnerability is invisible precisely because no one in the protected position has ever had to imagine it.
 
