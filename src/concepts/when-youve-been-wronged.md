@@ -196,6 +196,18 @@ This might be the scariest part of being wronged — scarier than the original i
 
 But the relationship is already damaged. The question is whether it gets repaired — and repair requires you to say what you need.
 
+#### CPR: Are You Addressing the Right Level?
+
+When you do speak up, make sure you're addressing the real problem — not a safer, smaller version of it. There are three levels, and each one requires a different conversation. This distinction comes from _Crucial Conversations_.
+
+**Content** — a specific incident. "This specific thing happened, and here's what I need done about it." This is the easiest level to address and the one most people default to — even when the real problem is deeper.
+
+**Pattern** — a recurring dynamic. "This isn't about one incident. This keeps happening." If a facilitator has failed to act multiple times, or if you keep ending up in the same dynamic with the same person, the content of the latest incident isn't the real issue. The pattern is.
+
+**Relationship** — how you feel about the person. "I'm angry at you. Our relationship is damaged. I don't feel okay with you right now." This is the level most people avoid — because it's vulnerable, because it risks the relationship, because it feels like too much. But if you're giving someone protocols when the real issue is that you're furious and hurt, you're addressing content when the problem is relational. You'll never fix what's actually broken.
+
+**The check:** Before you speak, ask yourself — am I talking about the right level? If you're discussing how things could be handled better in the future (content) but what you actually feel is *I'm pissed and I don't trust you anymore* (relationship) — you're having the wrong conversation. Address what actually needs addressing.
+
 ### Decide About This Person Going Forward
 
 You get to choose who has access to you.
