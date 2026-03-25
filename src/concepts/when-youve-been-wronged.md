@@ -65,7 +65,7 @@ Your part is real. Own it — on its own. Think about what you'd do differently.
 
 Their failure is also real. Name it — on its own. Let yourself feel the anger. Tell them what they did, what it cost you, and what you need from them to feel complete. That process has nothing to do with your imperfection.
 
-If you find yourself thinking "but I wasn't perfect, so who am I to demand anything" — that's the trap. That's using [responsibility](./responsibility.md) as a reason to never advocate for yourself. Nobody involved in any conflict was perfect. If imperfection disqualified you from demanding accountability, no one would ever be held accountable for anything.
+If you find yourself thinking "but I wasn't perfect, so who am I to ask for anything" — that's the trap. That's using [responsibility](./responsibility.md) as a reason to never advocate for yourself. Nobody involved in any conflict was perfect. If imperfection disqualified you from naming what you need, no one would ever be held accountable for anything.
 
 ### Repair Goes Both Ways
 
@@ -95,7 +95,7 @@ But they do.
 
 Not for fawning — that's their pattern to work on, and the book covers that in [its own section](./fawning.md#what-taking-responsibility-looks-like). The repair they owe isn't for saying yes when they meant no. It's for what they did *after*: the accusation, the character attack, the narrative lock that turned a person who believed them into a monster in their story. That's a separate action that caused separate harm. And it deserves its own repair — just as much as yours does.
 
-If only one direction of repair happens, both people walk away incomplete. The fawner never has to confront what their attack cost you — which means they never learn, and they'll do it again. And you walk away carrying a wound that was never acknowledged — the anger, the injustice, the experience of being attacked for believing someone who told you yes. That anger sits in your body. It doesn't go away because you "understood" their fawning. Understanding their pattern and demanding repair for their attack are two completely different things. You can do both.
+If only one direction of repair happens, both people walk away incomplete. The fawner never has to confront what their attack cost you — which means they never learn, and they'll do it again. And you walk away carrying a wound that was never acknowledged — the anger, the injustice, the experience of being attacked for believing someone who told you yes. That anger sits in your body. It doesn't go away because you "understood" their fawning. Understanding their pattern and advocating for repair for their attack are two completely different things. You can do both.
 
 ## In the Moment
 
