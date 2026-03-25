@@ -360,6 +360,22 @@ Most people act from fear. Most people aren't clear-seeing enough to know what s
 
 **Your job is to serve your participants, not to please them.** Pleasing is fawning. Serving is telling the truth even when it's uncomfortable.
 
+### Protecting Top Vulnerability
+
+There's a blind spot most facilitators have never been trained to see — because until now, there wasn't a word for it.
+
+When a participant is physically vulnerable (bottoming in a scene, receiving touch, in an emotionally exposed state), every facilitator knows to watch for boundary violations. That's [bottom vulnerability](./all-power-is-mutual.md#top-and-bottom-vulnerability) — and your containers are probably built to protect it. Safewords, spotters, check-ins, consent protocols. You have tools for this.
+
+But when a participant is accused, attacked, or mobbed — when someone is screaming at them and the room is nodding along — that participant is experiencing [top vulnerability](./all-power-is-mutual.md#top-and-bottom-vulnerability). And most containers have *zero* protections for it. No protocols. No intervention training. No equivalent of a safeword. The facilitator either sees it and acts, or the participant absorbs the full weight of it alone.
+
+Most facilitators don't act. Not because they don't care — because they've never been taught to see it. The language didn't exist. "Top vulnerability" wasn't a concept anyone had named, so it wasn't something anyone trained for. You can't build protections around something you can't see.
+
+Now you can see it. The question is what you do next.
+
+When someone in your container is being attacked — even if the room thinks the attack is righteous, even if the attacker is crying, even if it *looks* like accountability — your job is to protect the person being harmed. That's true regardless of which direction the harm is flowing. A facilitator who only protects bottom vulnerability and ignores top vulnerability is protecting the vulnerability they can see and abandoning the vulnerability they can't.
+
+**Protect both. That's what walking your talk means.**
+
 ---
 
 ## This Is Your Integrity
