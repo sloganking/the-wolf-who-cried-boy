@@ -70,6 +70,45 @@ A personal tool for resetting your RAS by questioning the fundamental assumption
 
 ---
 
+### "Feed Yourself First" — Cut Explanation (from before-you-facilitate.md)
+
+The original section included a detailed explanation of *why* sexually starved facilitators are a risk — answering the hypothetical objection "What, are your staff predators?" It also included a section on handling pushback from new staff who feel excluded by the requirement.
+
+**The explanation itself was strong.** It clearly distinguished unconscious mistakes from predatory intent, connected to the popcorn metaphor, and articulated why even consciously-aligned people are affected by unmet needs at the unconscious level.
+
+**Why it was cut:** The book's principle is *don't repeat fiction*. The same way you don't say "someone called me a predator" (because the reader immediately wonders "is he a predator?"), asking "are your staff predators?" plants the association even while answering "no." The rhetorical question does the opposite of what it intends — it introduces a scary frame the reader wasn't thinking about. The "hungry dog" metaphor was also repeated four times, reinforcing the animal/predatory association.
+
+The rewrite keeps the mechanism (fed vs. starved state), uses the dog metaphor once, adds a scarcity mindset angle connecting to the book's filter framework, and frames the whole thing as professional state management alongside sleep, food, and emotional regulation — without ever raising the predator question.
+
+**Cut content preserved below:**
+
+> Someone might read this and think: "What, are your staff predators? People who will consciously violate boundaries if they're hungry?"
+>
+> No. That's not the concern.
+>
+> This isn't about morality. It's about accounting for human nature. It's not designed to dissuade people from committing intentional harm. I expect and take steps to ensure my staff are completely consciously aligned — good people who would never choose to cross a boundary.
+>
+> The concern is **unconscious harm.**
+>
+> Like the popcorn metaphor. Like my personal example. Mistakes that aren't choices. Moments where the conscious mind slips and the animal body does something the person would never consciously do.
+>
+> Even if you're completely aligned consciously, your unconscious has wants and desires. If those wants are starving, they have more pull. They're closer to the surface. And when your conscious mind dips — even for a second — the hungry unconscious is more likely to act.
+>
+> This rule isn't about stopping predators. It's about reducing micro-mistakes from good people whose animal bodies aren't fed. It's about making sure everyone's unconscious is as aligned and safe as possible — so that even when attention slips, the autopilot doesn't cause harm.
+
+And the pushback section:
+
+> A newbie might hear this boundary and feel excluded. "Why can't I assist at the party? Are you stopping me from having sex? From bonding with the staff team? I feel left out."
+>
+> They might not understand yet.
+>
+> But saying no here is an act of love. It's looking out for them in two ways:
+>
+> 1. **Stopping them from endangering themselves** — preventing the unconscious mistake that could damage their life
+> 2. **Requiring they take care of themselves** — the boundary isn't "you can't participate." The boundary is "go get fed first."
+
+---
+
 (Add ideas here as they come up)
 
 ---
