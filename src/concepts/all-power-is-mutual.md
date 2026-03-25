@@ -96,7 +96,7 @@ Now we do.
 
 Bottom vulnerability ends when the scene ends. Top vulnerability can follow you for the rest of your life.
 
-And the contrast in what happens when things go wrong is stark. If someone crosses a bottom's boundary, the room will not let it continue — thirty people will physically intervene, the scene stops, the bottom is surrounded by support. The bottom is in a protected position from the moment the scene begins.
+And the contrast in what happens when things go wrong is stark. If someone crosses a bottom's boundary, the room will not let it continue — everyone intervenes, the scene stops, the bottom is surrounded by support. The bottom is in a protected position from the moment the scene begins.
 
 Now mirror it. Someone accuses you. They're screaming. They're in your face. You look around the room for help and no one moves. Some are nodding. Some are joining in. You try to explain what actually happened and every word you say is heard as manipulation. You raise your hands to show you're not a threat and the gesture itself looks guilty. There is nothing you can say — no word you can call out — that will make this stop. You are in an unprotected position, and no one in the room thinks that's a problem, because no one in the room is looking at you.
 
@@ -108,7 +108,7 @@ Their attention is entirely on their own fear — which is real and valid — bu
 
 Every top who engages with you is trusting you with their reputation, their community, and their future. That's not a small thing. [Your touch is a privilege](./fawning.md#your-touch-is-a-privilege) — and so is theirs.
 
-**There is no such thing as one-way vulnerability.** If one person is vulnerable, both people are vulnerable — just in different directions. The bottom has 30 friends in the room who will stop everything the moment they say the word. That's not helplessness — that's an instant safety net. The top has no equivalent. There's no word they can say that makes 30 people rush to protect them. If they're accused, no amount of "stop" will make the room pause and verify before acting.
+**There is no such thing as one-way vulnerability.** If one person is vulnerable, both people are vulnerable — just in different directions. The bottom has the entire room ready to stop everything the moment they say the word. That's not helplessness — that's an instant safety net. The top has no equivalent. There's no word they can say that makes the room rush to protect them. If they're accused, no amount of "stop" will make the room pause and verify before acting.
 
 In play spaces especially, the idea that only one person is at risk is a dangerous fiction. Both people are at risk. One is at risk of a boundary violation. The other is at risk of having their entire life destroyed by the response to a mistake. Seeing only one of those risks — and building all your protections around it — is how the other risk goes unmanaged and causes the most damage.
 
