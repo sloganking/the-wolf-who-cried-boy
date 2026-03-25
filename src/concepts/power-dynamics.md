@@ -49,7 +49,7 @@ It's also easier for participants to harm facilitators than the reverse — beca
 - Society expects facilitators to be accountable. It often gives participants a pass.
 - Mobs side with the person crying, not the person holding boundaries.
 
-A facilitator who uses their power to cause harm gets called out, cancelled, and removed. A participant who does the same often gets sympathy, support, and followers.
+A facilitator who uses their power to cause harm gets called out, cancelled, and removed. A participant who does the same often gets sympathy, support, and followers. This is [top vulnerability](./all-power-is-mutual.md#top-and-bottom-vulnerability) — the facilitator is in the unprotected position.
 
 This asymmetry is real — but it's not destiny. A facilitator who understands these dynamics, who can [show their humanity](./when-youve-been-wronged.md#show-your-humanity) under pressure instead of fawning or retaliating, changes the equation entirely. The asymmetry is most dangerous when it's invisible. Once you see it, you can navigate it.
 
