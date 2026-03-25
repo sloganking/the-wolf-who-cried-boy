@@ -178,6 +178,24 @@ A good facilitator will:
 
 If the facilitator only listens to the accuser, that tells you something about the facilitator.
 
+**But informing isn't enough.**
+
+I wrote this section — the original version — and it stopped right there. "Let the facilitator know your side." That was the advice. I know, because that's exactly what I did in my own life. I was attacked in a container. The facilitators didn't protect me. Afterward, I informed the facilitator how things could be handled better. I gave her frameworks. I offered protocols. All giving. All information. I never once said: *"I'm angry. What happened to me wasn't okay. Here's what I want you to do about it."*
+
+I spent nearly 200 hours writing a book about seeing through blind spots — and I couldn't see that my own [fawning](./fawning.md) pattern had shaped the advice on this page. The book told you to inform. It didn't tell you to advocate. Because I didn't know how to advocate. I only knew how to give.
+
+Here's what was missing:
+
+**Tell the facilitator what you want.** Not just what happened — what you want done about it. "I want to know what consequences this person is facing." "I want an acknowledgment that what happened to me in your container wasn't okay." "I want to know this person won't be welcomed back without accountability." Say it clearly. This is [talking *for*](./why-helping-is-hard.md#talk-for-not-about) — for yourself, for the outcome you need.
+
+**If they don't act, say so.** "You heard what happened. Nothing has been done. I need to know why." This is the step that feels the most like the [reverse bike](./fawning.md#the-reverse-bike) — every instinct says to accept, to move on, to be grateful they listened at all. That instinct is fawning. Name it and override it.
+
+**If the facilitator is fawning — if they're avoiding confrontation with the person who wronged you because they're afraid of them — tell them directly.** "You're not enforcing the agreements of this container." A facilitator who fawns when a participant needs protection is [causing harm through inaction](./walking-your-talk.md#when-the-facilitator-fawns). You have the right to name that.
+
+This might be the scariest part of being wronged — scarier than the original incident. Standing up and advocating for what you need, from people who are supposed to protect you, when your body is screaming at you to accept whatever you're given and be quiet. That fear is real. It's the fawning pattern trying to keep you safe the way it always has — by not making demands, by not being difficult, by not risking the relationship.
+
+But the relationship is already damaged. The question is whether it gets repaired — and repair requires you to say what you need.
+
 ### Decide About This Person Going Forward
 
 You get to choose who has access to you.
