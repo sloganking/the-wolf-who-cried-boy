@@ -1,9 +1,5 @@
 # The Drama Triangle
 
-> **⚠️ Draft — this page is being rewritten in the author's voice.** Review in progress.
-
----
-
 The **Drama Triangle** (Stephen Karpman) maps three roles people fall into during conflict: **Victim**, **Persecutor**, and **Rescuer**. The healthy alternatives — **Creator**, **Challenger**, and **Coach** — come from David Emerald's *The Empowerment Dynamic*.
 
 The entire book is built on these shifts. This page names the engine underneath.
