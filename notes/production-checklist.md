@@ -2,6 +2,16 @@
 
 Tracked issues to resolve before the book is ready for release.
 
+## Before Publishing — The Three Things
+
+1. **Advocacy Gap** — The most value-adding fix. The book teaches informing but not advocating. Readers learn to communicate what happened but not to demand what they need. 13 specific gaps across multiple pages. Full breakdown: [advocacy-gap.md](./advocacy-gap.md). ~1 day of focused work.
+
+2. **Tightening Pass** — Cut 15-20% from the longest pages (`i-made-a-mistake.md`, `before-you-facilitate.md`, `walking-your-talk.md`, `responsibility.md`, `fawning.md`). Reduce repetition (Inquisitor example, "cry victim" restatements, popcorn metaphor re-explanations). Reader fatigue is the main risk.
+
+3. **Quick Fixes** — Remaining identity labels (`types-of-mistakes.md`), navigation typos (3x "←←"), tone review (`before-you-judge.md` lecturing, `when-youve-been-wronged.md` fawning-blame phrasing), and a **quotes audit** (verify all quoted sources add value, check distribution of who's being quoted, remove any that are redundant or weaker than the author's own language). Small stuff.
+
+Everything else below is the detailed tracking.
+
 ---
 
 ## Moralizing / Identity Language
