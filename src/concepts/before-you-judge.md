@@ -173,6 +173,18 @@ And here's the important distinction: for most people, the pain isn't "what if o
 
 The irony: receiving is necessary. If you can't receive income, you can't take care of yourself or anyone else. In play spaces, there's far more pleasure when you can allow moments of pure receiving—mixed with moments of pure giving later. But if someone's trying to give you pleasure and you're scrambling to serve them back simultaneously, that stops pleasure. For both of you.
 
+### And the Ones Who Are Selfish?
+
+All of the above addresses the 9 out of 10 who find selfishness painful. But what about the ones who don't?
+
+> **People aren't usually evil. They're hungry and naive hunters.**
+
+Even the less empathetically inclined—the ones who default to taking more than they give, who operate transactionally, who genuinely don't feel the pull toward generosity that most people do—are usually just meeting their needs with the only strategies they know. They have the same needs everyone has: connection, validation, safety, pleasure. Their strategies for meeting those needs just happen to be unpleasant for the people around them.
+
+**Selfishness is just unskilled need-seeking.**
+
+That doesn't excuse the harm. But it reframes what you're looking at. You're not looking at an evil person who does evil things because they're bad. You're looking at a hungry person with bad tools.
+
 ## Are You a Qualified Source?
 
 Before you judge someone, before you assess [severity](./severity.md), before you take any action—ask yourself:
