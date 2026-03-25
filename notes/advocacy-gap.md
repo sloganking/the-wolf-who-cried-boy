@@ -22,7 +22,7 @@ The fawning pattern shows up in three structural ways:
 
 ## Specific Gaps to Fix
 
-### 1. MAJOR — "The Hardest Part" counsels acceptance before advocacy
+### 1. ~~MAJOR — "The Hardest Part" counsels acceptance before advocacy~~ ✅ FIXED
 
 **File:** `when-youve-been-wronged.md`, lines 191-214
 
@@ -42,7 +42,7 @@ Under-response gets two lines out of 305. The entire page — flowcharts, exampl
 
 ---
 
-### 3. MAJOR — "Talk to Facilitators" says inform, not demand
+### 3. ~~MAJOR — "Talk to Facilitators" says inform, not advocate~~ ✅ FIXED
 
 **File:** `when-youve-been-wronged.md`, lines 169-179
 
@@ -54,7 +54,7 @@ The last line — "If the facilitator only listens to the accuser, that tells yo
 
 ---
 
-### 4. MAJOR — "The Way Out" defines power as stopping harm, not demanding repair
+### 4. ~~MAJOR — "The Way Out" defines power as stopping harm, not asking for repair~~ ✅ FIXED
 
 **File:** `when-youve-been-wronged.md`, lines 238-492
 
@@ -64,7 +64,7 @@ The section's climax lists what you can do: "say no and leave," "enforce boundar
 
 ---
 
-### 5. MAJOR — Facilitator failure has no participant recourse
+### 5. ~~MAJOR — Facilitator failure has no participant recourse~~ ✅ PARTIALLY FIXED (covered in expanded "Talk to Facilitators" section; cross-references to guiding-public-repair.md still TODO)
 
 **Files:** `when-youve-been-wronged.md`, `appropriate-response.md`, `making-it-right.md`
 
