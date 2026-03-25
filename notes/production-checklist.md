@@ -87,6 +87,10 @@ These pages are strong but long enough that reader fatigue is a risk. A tighteni
 
 - [ ] **Forgiveness as organic, not chosen** — Consider adding a brief note (2-3 sentences) to `when-youve-been-wronged.md` near "You don't have to forgive them." Frame as observation, not definition: "if you're trying to forgive and it's not landing, that's not a failure." Must be inarguable — avoid defining forgiveness, describe experience instead.
 
+## Review Before Production
+
+- [ ] `invisible-patterns.md` — Review the RAS pattern labels (scanner, target, cage, fawner, suppressor). Author isn't sure about these as labels yet. The dynamic demonstration is good; the names may need reworking. Also: the page shows the patterns and their "way out" abstractly but has no vivid in-domain scene of someone being shown their power in real-time. If the author finds a real example from a container/consent context, it could fill this gap.
+
 ## Tone
 
 - [ ] `responsibility.md` — "There are no victims, only volunteers" (Tony Robbins quote) may land harshly for trauma survivors; consider framing or context
