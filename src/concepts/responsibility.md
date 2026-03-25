@@ -66,7 +66,7 @@ When you refuse to take responsibility, you disown your power. You say: "I had n
 
 At best, they live a smaller life than they could have. Things are okay. There are pleasantries. But they never realize what was possible.
 
-At worst, they keep winding up in situations that cause them suffering. The same conflict in every relationship. The same pattern at every job. The same "bad luck" that follows them everywhere. And because they see themselves as powerless—because everything that happens is determined by forces outside them—they feel terrified. Helpless. It's a hellish, painful life. Not because the world is actually that dangerous, but because their story says it is.
+At worst, they keep winding up in situations that cause them suffering. The same conflict in every relationship. The same pattern at every job. The same "bad luck" that follows them everywhere. And because they see themselves as powerless—because they believe everything that happens is determined by forces outside them—they feel terrified. Helpless. It's a hellish, painful life. Not because the world is actually that dangerous, but because their story says it is.
 
 This is why we care about responsibility. Not because it's the "right" thing to do. Because it's the only path to actually getting what you want.
 
