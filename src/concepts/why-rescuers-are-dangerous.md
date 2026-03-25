@@ -335,6 +335,8 @@ See: [Drama Triangle](./drama-triangle.md) — The Rescuer role and its traps
 
 ## The Uncomfortable Implication
 
+> **Those who cry monster are the ones most likely to act like one.**
+
 If Rescuers cause more harm than predators, then **your desire to protect people is itself a risk factor.**
 
 The more certain you are that you're doing good, the more dangerous you become. The urgency you feel to act is the very thing that bypasses the safeguards that would prevent you from causing harm.
