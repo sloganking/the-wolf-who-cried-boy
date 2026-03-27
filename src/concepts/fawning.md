@@ -170,9 +170,7 @@ You might worry that saying "I'm not going to play with you right now" — when 
 
 ## Why This Matters
 
-The culture often only sees Person B as the victim.
-
-Your framework helps people see the full picture:
+The culture often only sees Person B as the victim. The full picture is different:
 
 - Fawning harms both parties
 - The fawner has [responsibility](./responsibility.md) too
