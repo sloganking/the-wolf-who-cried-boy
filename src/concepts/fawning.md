@@ -377,6 +377,8 @@ Here's what it looked like for me:
 
 This isn't pretty. It's not a three-step framework. It's just... how bodies learn.
 
+If you suffer long enough, the anger will come. But if you've been suppressing anger your whole life, it might take far longer than it needs to — because the channel is shut down. Your body learned decades ago that anger gets punished, so it intercepts the anger before you can feel it. You can't use fuel you can't reach. If that's you, you might need to actively practice letting your anger out — not unleashing it unprocessed at the person you're angry at, but somewhere safe where your body can feel the full force of it and remember that anger is available to it. The boundary-setting this book teaches requires fuel. If the tank has been empty your whole life, you might need to fill it before any of this works.
+
 ### Why Cognitive Therapy Often Fails
 
 > "I did five hours of therapy a week for a year. Basically five years of therapy in one year. It helped me understand some things intellectually. But it didn't help shit when it came to actually changing my automatic responses."
@@ -400,8 +402,6 @@ Fawning is the same. It takes longer and costs more than anyone who hasn't tried
 This isn't just fawning. Every automatic story in this book — every [filter](./trauma-and-filters.md), every prediction your nervous system makes about what's dangerous and what's safe — is a bike you've been riding for years. You can't just decide to see the world differently. You have to ride the reverse bike until the new pattern overrides the old one.
 
 What changes the pattern isn't insight. It's **experience**.
-
-One more thing about anger as fuel: if you've been suppressing it your whole life, you might not be able to access it when you need it. The healing pattern above assumes anger will build naturally from suffering. For some fawners, it won't — because the channel is shut down. Your body learned decades ago that anger gets punished, so it intercepts the anger before you can feel it. You can't use fuel you can't reach. If that's you, you might need to actively practice letting your anger out — not unleashing it unprocessed at the person you're angry at, but somewhere safe where your body can feel the full force of it and remember that anger is available to it. The boundary-setting this book teaches requires fuel. If the tank has been empty your whole life, you might need to fill it before any of this works.
 
 ### Exposure Therapy for Fawning
 
