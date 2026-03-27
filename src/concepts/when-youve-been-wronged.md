@@ -33,7 +33,7 @@ Their over-response doesn't mean you're a predator. It means they over-responded
 These can both be true:
 
 - You made a mistake (own it)
-- Their response caused more harm than your mistake did (that's on them)
+- Their response caused significantly more harm than your mistake did (that's on them)
 
 You don't have to choose. You can hold both.
 
