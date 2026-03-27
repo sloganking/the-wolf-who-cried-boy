@@ -339,7 +339,9 @@ Growth is slow. But it's real. And it only happens when you take responsibility 
 Fawners are often some of the angriest people in the room. They just never let it out. The resentment builds — at their boss, at their partner, at the person who crossed their boundary — but it stays trapped inside, because their body learned long ago that expressing anger gets punished. They're not peaceful. They're suppressed.
 
 > **"Of all evil I deem you capable: Therefore I want good from you. Verily, I have often laughed at the weaklings who thought themselves good because they had no claws."**  
-> — _Friedrich Nietzsche_
+> — _Friedrich Nietzsche, Thus Spoke Zarathustra_
+
+Healing isn't about becoming less angry. It's about growing claws — and then learning when to use them.
 
 Here's the uncomfortable truth that most therapeutic frameworks won't say directly:
 
