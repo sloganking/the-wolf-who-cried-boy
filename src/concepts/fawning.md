@@ -390,6 +390,8 @@ This isn't just fawning. Every automatic story in this book — every [filter](.
 
 What changes the pattern isn't insight. It's **experience**.
 
+One more thing about anger as fuel: if you've been suppressing it your whole life, you might not be able to access it when you need it. The healing pattern above assumes anger will build naturally from suffering. For some fawners, it won't — because the channel is shut down. Your body learned decades ago that anger gets punished, so it intercepts the anger before you can feel it. You can't use fuel you can't reach. If that's you, you might need to actively practice letting your anger out — not unleashing it unprocessed at the person you're angry at, but somewhere safe where your body can feel the full force of it and remember that anger is available to it. The boundary-setting this book teaches requires fuel. If the tank has been empty your whole life, you might need to fill it before any of this works.
+
 ### Exposure Therapy for Fawning
 
 The same principle that works for phobias works for fawning:
