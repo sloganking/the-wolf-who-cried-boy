@@ -270,10 +270,6 @@ And it propagates _well_—because scaring people into thinking something terrib
 
 This is why a single Rescuer with a harmful belief can cause more damage than any predator. The predator's harm ends when they stop. The Rescuer's harm keeps going—generation after generation—long after they're gone.
 
-But religion is just the visible version.
-
-**Cultural attitudes are equally powerful—and less visible.**
-
 Consider stranger abductions. The statistics:
 
 - Roughly 100-115 stranger abductions per year in the U.S., out of tens of millions of children
