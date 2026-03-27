@@ -151,7 +151,7 @@ Whenever you strip a belief away and the thing underneath looks like harm — wh
 
 Ask: is this belief actually serving me and the people around me? Or is it causing harm that I've been trained not to see?
 
-You weren't born thinking any of this was normal. You absorbed it the same way you absorb air — from your culture, your parents, your environment. The Inquisitor didn't feel weird about torture. Parents don't feel weird about hovering over their children. People in the grip of a witch hunt don't feel weird about destroying someone's reputation. It all feels *obviously correct.* That's the trap.
+You weren't born thinking any of this was normal. You absorbed it from your culture, your parents, your environment — until it became as natural and unconscious as breathing. The Inquisitor didn't feel weird about torture. Parents don't feel weird about hovering over their children. People in the grip of a witch hunt don't feel weird about destroying someone's reputation. It all feels *obviously correct.* That's the trap.
 
 Whether or not you ultimately agree that non-consensual circumcision is harmful — your reaction to this section is the lesson. This is what it looks like when you're inside a belief so normalized that you can't see it as a belief. It just looks like reality.
 
