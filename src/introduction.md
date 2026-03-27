@@ -105,11 +105,12 @@ The principles scale down cleanly. You're not learning niche skills for a niche 
 
 This framework gives you tools to:
 
-1. **Assess what happened** — Was it a mistake or malice? How serious was it?
-2. **Respond appropriately** — Not too much, not too little
-3. **Repair harm** — When possible, and how
-4. **Recognize distortions** — Trauma, bias, and mob dynamics that cloud judgment
-5. **Take responsibility** — Without shame, with power
+1. **Prevent harm before it happens** — Communication, vetting, and self-awareness that stop most problems before they start
+2. **Assess what happened** — Was it a mistake or malice? How serious was it?
+3. **Respond appropriately** — Not too much, not too little
+4. **Repair harm** — When possible, and how
+5. **Recognize distortions** — Trauma, bias, and mob dynamics that cloud judgment
+6. **Take responsibility** — Without shame, with power
 
 ---
 
