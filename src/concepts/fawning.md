@@ -157,6 +157,8 @@ This isn't about doubting them. It's about trusting yourself.
 
 **The lesson:** Even when you do everything right—check in, ask directly, get verbal confirmation—sometimes they're still fawning. Your final protection is your own felt sense. If it doesn't feel like a real yes to you, it doesn't matter what they say.
 
+This isn't theoretical. In the last year, I've used this felt-sense check to stop roughly 30 people from fawning to me — people who said yes but whose energy told me otherwise. I don't catch it every time. But I learn from each time I catch it and each time I miss it, and missing it happens less and less.
+
 | Person   | Responsibility                                                   |
 | -------- | ---------------------------------------------------------------- |
 | Person A | Check in, read cues, create safety for honesty                   |
