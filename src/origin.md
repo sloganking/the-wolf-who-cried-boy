@@ -54,7 +54,7 @@ That's when things started shifting. I did therapy—five hours a week for a yea
 
 But the biggest shift came from somewhere unexpected: play parties.
 
-I'd never been to one before. The idea of going to anything sexuality-based had always terrified me in a way I could never put into words. I had stories of helplessness, of unlovability. The thought of talking to a woman with romantic interest made me want to disappear.
+I'd never been to one before. The idea of going to anything sexuality-based terrified me. When I imagined expressing attraction to a woman, I saw her face turning to disgust, the room going silent, everyone staring — *Logan, you're a creep, get out.* I had stories of helplessness, of unlovability. The thought of talking to a woman with romantic interest made me want to disappear.
 
 As a result, I'd been in a dry spell without sex for seven years. Seven years of those stories getting stronger, more terrifying, more painful.
 
