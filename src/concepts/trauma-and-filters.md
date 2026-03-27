@@ -19,7 +19,7 @@ Your feelings are caused by the **stories you tell yourself** about what happene
 └─────────────────┘      └─────────────────┘      └─────────────────┘
 ```
 
-This concept comes from _Crucial Conversations_ and transforms how you understand emotional reactions—yours and others'.
+This transforms how you understand emotional reactions — yours and others'.
 
 ### The Same Experience, Different Feelings
 
