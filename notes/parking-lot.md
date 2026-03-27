@@ -70,6 +70,21 @@ A personal tool for resetting your RAS by questioning the fundamental assumption
 
 ---
 
+### How Fear-Based Safety Campaigns Create the Problem They're Preventing (Book 2)
+
+*Surfaced March 24, 2026.*
+
+Anti-rape flyers in university bathrooms. "Don't rape women" posted three times in front of your face while you're taking a shit. This kind of messaging does nothing to an actual predator — they don't care about flyers. But it does two things to everyone else:
+
+1. **Men** internalize "there must be a lot of male rapists out there if they're posting this" — creating shame, fear, and the same helplessness/scanning patterns the book describes
+2. **Women** get pre-framed to see predators everywhere — their RAS gets tuned to "scan for danger" before they even enter a social space
+
+The mechanism is identical to "Don't Watch Horror Before Temple" — consuming fear-based content creates the filter that produces the over-responses. But this version is culturally sanctioned. Universities, media, and safety campaigns do it systematically and call it education. The result: a generation pre-framed to see predators, producing more false accusations, more over-responses, and more destroyed reputations — while actual predators are completely unaffected by the messaging.
+
+**Why deferred:** Too politically charged for Book 1. A woman who was raped in college reads "anti-rape campaigns are harmful" and stops reading. The point is already made in Book 1 through "Don't Watch Horror Before Temple" and the RAS/filter content without touching campus politics. Book 2 — which could go directly after live-wire cultural beliefs — is the right home for this.
+
+---
+
 ### "Feed Yourself First" — Cut Explanation (from before-you-facilitate.md)
 
 The original section included a detailed explanation of *why* sexually starved facilitators are a risk — answering the hypothetical objection "What, are your staff predators?" It also included a section on handling pushback from new staff who feel excluded by the requirement.
