@@ -368,12 +368,12 @@ Here's what it looked like for me:
 ### The Pattern That Heals
 
 1. **You fawn** (because it's automatic)
-2. **You suffer the consequences** (pain, resentment, violation)
-3. **The pain builds** until you feel genuinely angry
-4. **Anger gives you motivation** to finally set a boundary
-5. **You set the boundary** (often messily, often late—but you do it)
-6. **Next time**, something similar comes up — and your body remembers. Not intellectually. Viscerally. You feel the awfulness of the last time in your gut. Your face goes *bleh*. The memory isn't a thought — it's an emotional recoil.
-7. **Saying no becomes easier** — not because you "learned a lesson," but because your body formed new associations. Saying yes is now linked to the visceral memory of every awful moment between the fawn and the boundary — and saying no is linked to the relief you felt the instant you finally set it. Both associations flipped. Think of it like drinking too much one night — you vomit, it's awful, and a week later the smell of alcohol alone makes you nauseous. You don't have to convince yourself not to drink. Your body won't let you. That's what happens with fawning after enough pain: your body recoils from yes the way it recoils from the smell of tequila after a bad night. Not an intellectual "I know I shouldn't." The offer comes up and your body says *FUCK NO* — and just like that, the question is over.
+2. **You suffer the consequences** — pain, violation, resentment. You suppress it. You empathize with the other person to make your anger go away. You tell yourself it's fine. But it's not fine, and the resentment — which is just unexpressed anger — keeps building.
+3. **It keeps happening.** You keep letting it happen. The resentment builds and builds. You're furious, but you keep it silent — because that's what you've always done.
+4. **Eventually, it gets so big you can't keep it in anymore.** The anger finally breaks through the suppression. *Fuck this. I'm not doing this anymore.* Maybe you pop. Maybe it comes out louder than you intended. You've been holding it in instead of saying what you needed for so long that when it finally comes out, it's not graceful.
+5. **You set the boundary** — often messily, often late, but you do it. And the moment you do, you feel immediate relief.
+6. **Next time**, an invitation to something similar comes up — and your body remembers. Not intellectually. Viscerally. You feel the awfulness of the last time in your gut. Your face visibly wretches. The memory isn't a thought — it's an emotional recoil.
+7. **Saying no becomes easier** — not because you "learned a lesson," but because your body formed a new emotional association. Saying yes is now linked to the visceral memory of every awful moment between the fawn and the boundary — and saying no is linked to the relief you felt the instant you finally set it. Both associations flipped. Think of it like drinking too much one night — you vomit, it's awful, and a week later the smell of alcohol alone makes you nauseous. You don't have to convince yourself not to drink. Your body won't let you. That's what happens with fawning after enough pain: your body recoils from yes the way it recoils from the smell of tequila after a bad night. Not an intellectual "I know I shouldn't." The offer comes up and your body says *FUCK NO* — and just like that, the question is over.
 
 This isn't pretty. It's not a three-step framework. It's just... how bodies learn.
 
