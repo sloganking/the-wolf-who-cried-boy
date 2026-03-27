@@ -372,8 +372,8 @@ Here's what it looked like for me:
 3. **The pain builds** until you feel genuinely angry
 4. **Anger gives you motivation** to finally set a boundary
 5. **You set the boundary** (often messily, often late—but you do it)
-6. **Next time**, you remember the awful experience
-7. **Saying no becomes easier** because you've learned what "yes" costs you
+6. **Next time**, something similar comes up — and your body remembers. Not intellectually. Viscerally. You feel the awfulness of the last time in your gut. Your face goes *bleh*. The memory isn't a thought — it's an emotional recoil.
+7. **Saying no becomes easier** — not because you "learned a lesson," but because your body formed new associations. Saying yes is now linked to the visceral memory of every awful moment between the fawn and the boundary — and saying no is linked to the relief you felt the instant you finally set it. Both associations flipped. Think of it like drinking too much one night — you vomit, it's awful, and a week later the smell of alcohol alone makes you nauseous. You don't have to convince yourself not to drink. Your body won't let you. That's what happens with fawning after enough pain: your body recoils from yes the way it recoils from the smell of tequila after a bad night. Not an intellectual "I know I shouldn't." The offer comes up and your body says *FUCK NO* — and just like that, the question is over.
 
 This isn't pretty. It's not a three-step framework. It's just... how bodies learn.
 
