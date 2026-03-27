@@ -26,7 +26,7 @@ This book uses sex-positive spaces — play parties, tantra workshops, intimacy 
 
 These spaces are also a perfect laboratory for watching human patterns at high speed. You're interacting with new people — touching, sharing intimacy, doing exercises together — with partners you don't know well, in a domain where our culture carries an enormous amount of stories, fear, and hair-trigger judgment. You might interact closely with eight different people in a single day, each carrying different traumas, different stories, different blind spots. Every interaction is a live experiment in what happens when humans get vulnerable with strangers. The patterns show up fast, and they show up undeniably.
 
-Sex is also where our culture sees least clearly. It's where the most fear lives, where "predator" gets thrown around fastest, and where the gap between intention and impact is widest. When someone is naked and vulnerable and a mistake happens, there's nowhere to hide — not for the person who made the mistake, and not for the person whose reaction reveals more about their stories than about what actually occurred.
+Sex is also one of the places where our culture sees least clearly. It's where the most fear lives, where "predator" gets thrown around fastest, and where the gap between intention and impact is widest. When someone is naked and vulnerable and a mistake happens, there's nowhere to hide — not for the person who made the mistake, and not for the person whose reaction reveals more about their stories than about what actually occurred.
 
 If a framework can handle a false accusation at a play party, it can handle a conflict anywhere. This book uses the hardest domain on purpose.
 
