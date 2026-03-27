@@ -28,12 +28,12 @@ You're not crazy. What happened to you is wrong.
 
 When someone responds to a MEDIUM mistake with HIGH-severity punishment, **that's an over-response — and [the Victim position is what gives them the power to do it](./all-power-is-mutual.md#the-victim-position-is-powerful).** The victim role isn't powerless. It has enormous power — the power to mobilize the room, control the narrative, and inflict consequences that don't match what happened.
 
-Their over-response doesn't mean you're a predator. It means they over-responded.
+Their over-response doesn't mean you're a predator. It means they over-responded. **The attacks you're receiving, the judgment, the consequences — that has nothing to do with the size of your mistake and everything to do with the size of their response.**
 
 These can both be true:
 
 - You made a mistake (own it)
-- Their response was disproportionate and harmful (that's on them)
+- Their response caused more harm than your mistake did (that's on them)
 
 You don't have to choose. You can hold both.
 
