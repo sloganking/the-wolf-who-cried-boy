@@ -227,35 +227,18 @@ This is why Rescuers are so hard to stop. Fighting back doesn't discourage them.
 
 Rescuers feel urgent. That urgency feels like evidence that the threat is real. But the feeling of urgency and the reality of danger are two different things.
 
-Here's the test:
+**Real urgency:** someone is being harmed *right now* and will continue to be harmed if no one acts.
 
-**Before this situation began, did this person have enemies?**
+**Manufactured urgency:** someone *might* cause harm, someone *could* be dangerous, someone *fits a pattern* I'm afraid of.
 
-Think about the parent who won't let their child walk to school. Before they started hovering, the child had no problems. The "dangers" only became real _after_ the parent's anxiety created a child who couldn't navigate the world independently. The parent's protection created the very vulnerability they were afraid of.
-
-**They created the problem they were trying to prevent.**
-
-The same thing happens in these spaces. Someone intervenes to "protect" a person who didn't need protecting. The intervention creates conflict. The conflict creates sides. Now there are real enemies—and the Rescuer points to them as proof the threat was real all along.
-
-This is the pattern:
-
-1. Feel urgency about a threat that doesn't exist (or is vastly exaggerated)
-2. Take extreme action to "protect" against it
-3. Create real enemies through that extreme action
-4. Point to those enemies as proof the threat was real all along
-
-If you're feeling urgent about someone who wasn't causing harm before you intervened—pause. The urgency might be manufactured by your own fear, not by reality.
-
-**Questions to ask:**
+If you're about to intervene, ask yourself:
 
 - Was this person actively harming anyone before I got involved?
-- Is the "threat" something they did, or something I'm afraid they _might_ do?
-- If there is resistance or hostility toward me, did it exist before I took action—or did my action create it?
-- Am I responding to what happened, or to a story about what it means?
+- Is the "threat" something they did, or something I'm afraid they *might* do?
+- Am I responding to what happened, or to a [story about what it means](./trauma-and-filters.md)?
+- Did I [verify](./before-you-judge.md) what actually happened, or am I acting on someone else's account?
 
-Real urgency looks like: someone is being harmed _right now_ and will continue to be harmed if no one acts.
-
-Manufactured urgency looks like: someone _might_ cause harm, someone _could_ be dangerous, someone _fits a pattern_ I'm afraid of.
+If you intervene based on manufactured urgency, you create the problem you were trying to prevent. The intervention creates conflict. The conflict creates sides. Now there are real enemies — and you point to them as proof the threat was real all along.
 
 Most people can't tell the difference when their fear is activated. That's why verification matters _more_ when you feel urgent, not less.
 
