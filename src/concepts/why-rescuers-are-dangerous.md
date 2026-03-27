@@ -270,6 +270,8 @@ And it propagates _well_—because scaring people into thinking something terrib
 
 This is why a single Rescuer with a harmful belief can cause more damage than any predator. The predator's harm ends when they stop. The Rescuer's harm keeps going—generation after generation—long after they're gone.
 
+Organized belief systems like religion spread intentionally. But some of the most powerful beliefs spread with no organization at all — just fear moving through culture by osmosis.
+
 Consider stranger abductions. The statistics:
 
 - Roughly 100-115 stranger abductions per year in the U.S., out of tens of millions of children
