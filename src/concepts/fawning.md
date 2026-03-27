@@ -355,7 +355,7 @@ You have to fawn—and suffer the consequences—until the pain generates enough
 
 ### Why This Works (When Therapy Often Doesn't)
 
-The author's personal experience:
+Here's what it looked like for me:
 
 > "I stayed in a relationship for six weeks that I knew was wrong from day one. She was manipulative, cared about her desires more than my boundaries, and I felt icky and gross the whole time. But I stayed because I felt guilty—she'd moved into my Airbnb to be with me, and I thought I couldn't just kick her out.
 >
