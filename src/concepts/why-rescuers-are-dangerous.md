@@ -326,8 +326,6 @@ The Inquisitor never questioned his certainty. That's why he could torture with 
 
 > **There is no greater danger than being certain you're right.**
 
-What makes you different?
-
 ---
 
 ## Related
