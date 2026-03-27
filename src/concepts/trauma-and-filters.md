@@ -133,7 +133,9 @@ Nothing changed about your house. It's exactly as safe as it's always been. What
 
 **This is what happens to people who enter intimate spaces primed for danger.**
 
-If you walk into a temple or play party with your RAS set to "predator detection mode"—looking for threats, expecting harm, scanning for bad actors—you will find them. Every ambiguous touch becomes suspicious. Every awkward moment becomes evidence. Every mistake becomes confirmation.
+Two people walk into the same play party on the same night. One has their RAS tuned to connection — they see friendly faces, inviting energy, people they want to meet. They have a beautiful night. The other has their RAS tuned to danger — they see red flags, suspicious glances, potential predators. They have a terrifying night. Same room. Same people. Same party. Completely different experiences — and both are absolutely certain their version is reality.
+
+If you walk into a temple or play party with your RAS set to "predator detection mode" — looking for threats, expecting harm, scanning for bad actors — you will find them. Every ambiguous touch becomes suspicious. Every awkward moment becomes evidence. Every mistake becomes confirmation.
 
 Not because the threats are real. Because that's what you're looking for.
 
