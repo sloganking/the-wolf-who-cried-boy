@@ -161,6 +161,8 @@ This isn't theoretical. In the last year, I've used this felt-sense check to sto
 
 And if you're still not sure — wait. Check in again an hour or two later, when the pressure of the moment is gone. In-the-moment check-ins are good, but the person is still in the situation — they might double down on their fawn because saying "actually, no" right now feels harder than just going along with it. Later, when there's no exercise starting, no partner waiting, no room watching — it's easier for them to say "yeah, I was fawning. I appreciate you checking." I've had people say yes to me three times in a row, in the moment, and then tell me later they were fawning the whole time. The in-the-moment check has limits. Checking later removes the pressure that makes fawning happen in the first place.
 
+You might worry that saying "I'm not going to play with you right now" — when they told you yes — will feel like rejection. It usually doesn't. When you talk about it later and they realize you saw through their fawn, it makes them feel *safe* with you. Fawners have a hard time feeling safe, because they don't create safety for themselves. Someone who stops them from hurting themselves — who sees what they can't say and acts on it — is one of the safest people they've ever met.
+
 | Person   | Responsibility                                                   |
 | -------- | ---------------------------------------------------------------- |
 | Person A | Check in, read cues, create safety for honesty                   |
