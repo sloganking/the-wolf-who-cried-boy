@@ -159,6 +159,8 @@ This isn't about doubting them. It's about trusting yourself.
 
 This isn't theoretical. In the last year, I've used this felt-sense check to stop roughly 30 people from fawning to me — people who said yes but whose energy told me otherwise. I don't catch it every time. But I learn from each time I catch it and each time I miss it, and missing it happens less and less.
 
+And if you're still not sure — wait. Check in again an hour or two later, when the pressure of the moment is gone. In-the-moment check-ins are good, but the person is still in the situation — they might double down on their fawn because saying "actually, no" right now feels harder than just going along with it. Later, when there's no exercise starting, no partner waiting, no room watching — it's easier for them to say "yeah, I was fawning. I appreciate you checking." I've had people say yes to me three times in a row, in the moment, and then tell me later they were fawning the whole time. The in-the-moment check has limits. Checking later removes the pressure that makes fawning happen in the first place.
+
 | Person   | Responsibility                                                   |
 | -------- | ---------------------------------------------------------------- |
 | Person A | Check in, read cues, create safety for honesty                   |
