@@ -266,7 +266,7 @@ I used to think I was fragile — struggles in school, a body that only wants to
 
 Then I saw through the belief underneath all of it: that I *have* to work eight hours a day. If my body is happy at two to three hours, then I'm forced to create a thousand dollars of value per hour and have a lot of free time. Oh no. What a curse.
 
-Same facts. Same body. One belief had me seeing myself as broken. Without it, I'm happier and accomplishing more than I ever would have grinding eight hours like everyone else. That's what one invisible belief does.
+Same facts. Same body. One belief had me seeing myself as broken. Without it, I'm happier and accomplishing more than I ever would have grinding eight hours like everyone else. That's what removing one invisible belief does.
 
 Today, I work as a Seer. I see the invisible beliefs running people's lives — the puppet strings they don't know are there — and I show them how to cut them. Sex and intimacy are a specialty, but the skill applies everywhere: money, confidence, relationships, identity under crisis. The machinery is the same.
 
