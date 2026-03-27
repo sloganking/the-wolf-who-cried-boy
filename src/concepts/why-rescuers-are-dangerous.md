@@ -183,8 +183,6 @@ The men who opposed women's suffrage weren't monsters. They were good people ope
 
 That's what made the oppression so durable. It wasn't enforced by a few predators. It was maintained by millions of Rescuers who genuinely thought they were saving the world.
 
-For how to respond differently to each type of mistake, see [Types of Mistakes](./types-of-mistakes.md).
-
 ---
 
 ## The Mechanism
