@@ -256,7 +256,7 @@ Every major atrocity in history was powered by shared belief. Not lone predators
 
 Here's what makes Rescuer beliefs uniquely dangerous: they're self-propagating.
 
-Even if the original advocate was a predator trying to cause harm—if they managed to convince a few people that out of moral necessity something needed to be done—those converts become genuine Rescuers. And genuine Rescuers don't just act on the belief. They spread it.
+Even if the original advocate was a selfish predator trying to cause harm—if they managed to convince a few people that out of moral necessity something needed to be done—those converts become genuine Rescuers. And genuine Rescuers don't just act on the belief. They spread it.
 
 A Rescuer who genuinely believes something bad is happening will:
 
