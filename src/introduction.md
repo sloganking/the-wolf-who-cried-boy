@@ -69,7 +69,7 @@ Every concept here applies to your entire life:
 | You fawn when someone pressures you for touch              | You fawn when your boss asks you to work overtime                  |
 | You have a subconscious story that you're being excluded   | That same story makes you miserable at work dinners and weddings   |
 | You over-respond to a low-severity boundary cross          | You over-respond when your partner forgets an anniversary          |
-| You cry victim to avoid taking responsibility             | You blame your ex, your parents, your circumstances for everything |
+| You cry victim without seeing the power you had           | You blame your ex, your parents, your circumstances without seeing your part |
 | You start a witch hunt based on vibes instead of facts     | You gossip and destroy reputations based on hearsay                |
 | You feel powerless as a participant facing an angry person | You feel powerless facing bureaucracy, authority, conflict         |
 
