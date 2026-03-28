@@ -28,7 +28,7 @@ Their filter cycles through: _If they're not selfishly trying to sell me somethi
 
 Your benevolent intent gets interpreted as hidden manipulation. You're trying to help them see their power, so they can end their suffering—and they hear you saying it's their fault. You're trying to free them from a loop—and they think you're dodging accountability.
 
-This is why so many misunderstandings happen. This is why people cry wolf when there are no wolves. They can't conceive of selflessness, so they interpret it as disguised selfishness.
+This is why so many misunderstandings happen. This is why people cry wolf when there are no wolves. **They can't conceive of selflessness, even when it's standing right in front of them, so they interpret it as disguised selfishness.**
 
 ### The Inversion Most People Miss
 
