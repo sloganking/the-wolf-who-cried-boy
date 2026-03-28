@@ -417,7 +417,25 @@ Think about the first time you drove a car. All your attention was on the pedals
 
 That's what's happening here. You're [riding the reverse bike](#the-reverse-bike) — pushing through fear, being authentic for the first time — and the fear itself [narrows your attention](./trauma-and-filters.md#fear-narrows-attention) to your own survival. The first few times you express yourself — your desire, your sexuality, your truth — you won't have attention left for calibration. You might say the right thing at the wrong time, to the wrong person, with too much detail. You might get called a creep. Not because you are one — but because you've never expressed this part of yourself before, and you don't yet know how to do it in a way that lands well.
 
-That's normal. It happens to nearly everyone in these spaces. And then — the same way driving stops requiring all your focus — you develop calibration. You learn to share the headline, not the details. You start seeing the other person again. The clumsiness is temporary. With practice, you can ride the bike and watch the road at the same time.
+That's normal. It happens to nearly everyone in these spaces. And then — the same way driving stops requiring all your focus — you develop calibration. You start seeing the other person again. The clumsiness is temporary. With practice, you can ride the bike and watch the road at the same time.
+
+### Consent for Conversation
+
+The same principle applies to talking about your sexuality as to doing anything else with it: check in first.
+
+When you leave sex-positive spaces and go back into the rest of your life, you're carrying a new identity — and zero practice integrating it. You know what you've experienced. You know it changed you. You want to share it. But the people around you didn't go on that journey with you, and they haven't consented to receiving it.
+
+Before you share something that might be sensitive — your sex life, your kink experiences, your journey in these spaces — enroll the other person:
+
+> *"I have something I'd like to share with you, and it happens to be a bit sexual. Are you open to hearing that?"*
+
+This does two things. It gives them a real choice — not a fait accompli where they have to react to something they didn't ask for. And it shows attunement: you're thinking about them, not just your need to express yourself.
+
+If they say yes, calibrate your level of detail. "I go to sexy parties" is enough to let someone know who you are. It's one sentence, it's authentic, and it lets them decide how much more they want to hear. You don't need to describe what happens at those parties unless they ask. Sharing the headline — not the full article — gives them the information without overwhelming their capacity to receive it.
+
+If they say no, respect it. That's consent working as designed.
+
+This isn't about hiding who you are. It's about giving people the same choice about what enters their ears that you'd give them about what touches their body.
 
 ### Exposure Therapy for Fawning
 
