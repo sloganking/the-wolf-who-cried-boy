@@ -204,6 +204,8 @@ Neither serves you. Find the middle: "I made a MEDIUM mistake. I wish I hadn't. 
 
 Anger, grief, confusion, shame—all of it. Don't rush to "get over it." The feelings are information. They're processing. But if what you're feeling isn't just grief — if it's collapsing into "maybe I deserve this," "maybe I am what they say I am" — that's [sinsickness](./i-made-a-mistake.md#sinsickness), and it's worth reading about before it takes root.
 
+**Watch for minimization.** If you have a [fawning](./fawning.md) pattern, your body may be doing the opposite of sinsickness — not inflating the harm but shrinking it. "It wasn't that bad." "They didn't mean it." "Other people have it worse." That's your fawning pattern setting you up to [under-respond](./appropriate-response.md#under-response-the-invisible-failure) — shrinking what happened so you don't have to confront it. Check the facts, not the feeling. If a neutral observer would call it HIGH, it's HIGH — regardless of how small your body is trying to make it.
+
 ## What Actions To Take
 
 ### Don't Go Shopping Hungry
