@@ -387,7 +387,7 @@ Fawning lives in your body, not your intellect. You can understand perfectly wel
 
 ### The Reverse Bike
 
-Here's what most people don't realize: overcoming fawning isn't like learning a new skill. It's like learning to ride a [bicycle that steers in reverse](https://youtu.be/MFzDaBzBlL0) — where turning the handlebars left makes you go right, and turning right makes you go left.
+Here's what most people don't realize: overcoming fawning isn't like learning a new skill. It's like learning to ride a bicycle that steers in reverse — where turning the handlebars left makes you go right, and turning right makes you go left. (There's a video of this by Destin Sandlin on his YouTube channel [*Smarter Every Day*](https://youtu.be/MFzDaBzBlL0) — it's worth watching.)
 
 If you'd never ridden a bike before, learning the reverse version would just be learning to ride a bike. Hard, but straightforward. But you *have* ridden a bike. Your body has decades of practice doing it the normal way. Every nerve ending fires toward the old pattern. When pressure hits and you need to turn left, your entire nervous system screams *turn right* — because that's what's always worked.
 
