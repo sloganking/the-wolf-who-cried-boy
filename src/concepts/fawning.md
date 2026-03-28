@@ -19,7 +19,10 @@ People hear "fawning" and think of politeness. Saying yes to avoid awkwardness. 
 
 It goes deeper than that.
 
-In *Unbound: A Woman's Guide to Power*, Kasia Urbaniak describes a woman who didn't cry out while being raped — because she didn't want to embarrass the man. Her fawning response overrode her survival instinct. The part of her that was trained to manage other people's comfort was louder than the part screaming for help.
+> **"It's why one of my students didn't scream during her rape — 'I didn't want to embarrass him.'"**  
+> — Kasia Urbaniak, *Unbound: A Woman's Guide to Power*
+
+Her fawning response overrode her survival instinct. The part of her that was trained to manage other people's comfort was louder than the part screaming for help.
 
 That's fawning. Not politeness. A trauma response so deep it can override your body's most basic drive to protect itself.
 
