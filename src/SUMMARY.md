@@ -2,7 +2,7 @@
 
 [Introduction](./introduction.md)
 
-[The Rescue That Made Me See](./origin.md)
+[The Rescue That Made Me See](./the-rescue-that-made-me-see.md)
 
 ---
 
