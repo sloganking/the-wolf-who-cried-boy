@@ -32,9 +32,9 @@ The second row is where people destroy themselves and others. The third is where
 
 Someone makes an awkward comment (LOW). You publicly shame them as a predator (HIGH). Now you've done more damage than they ever did. You've caused permanent harm in response to a recoverable inconvenience.
 
-> **If you cry victim too quietly, you enable a perpetrator. If you cry victim too loudly, you become one.**
+> **If you cry victim loud enough, you become the perpetrator.**
 
-Your response doesn't just *match* severity—it *has* severity. If your response is higher than the original harm, you've crossed from seeking justice into being a source of harm. If it's lower, you've let harm continue when you had the power to stop it.
+This is the core insight of the entire book. Your response doesn't just *match* severity—it *has* severity. If your response is higher than the original harm, you've crossed from a victim seeking justice into being a source of harm. And the mirror is just as true: if your response is lower than the harm warranted, you've [enabled it to continue](./appropriate-response.md#under-response-the-invisible-failure).
 
 See: [Appropriate Response](./appropriate-response.md)
 
