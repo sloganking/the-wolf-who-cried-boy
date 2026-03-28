@@ -413,6 +413,8 @@ So when I thought about telling my physical therapist I was attending BDSM retre
 
 But all my attention was on surviving the moment. *Will he judge me? Will he react badly? Will I be okay?* I was so consumed by my own fear that I couldn't see his context at all: he was at work, he couldn't easily change the subject or walk away, and talking about sexual topics could put his job at risk. I'd never talked about sexuality with anyone outside these spaces — so I had zero calibration for how to do it. You can't calibrate something you've never practiced.
 
+I was 26. People looked at me like I should have known better — a grown adult who can't talk about sex without making it weird? But most people figure this out as teenagers, through years of awkward fumbling I never got. I wasn't slow. I'd been fawning for 26 years — too terrified to express anything real. The learning curve was the same one everyone goes through. I was just starting it later.
+
 Think about the first time you drove a car. All your attention was on the pedals, the steering wheel, the mirrors. You couldn't hold a conversation. You definitely couldn't notice the pedestrian three blocks ahead. That's not a character flaw — that's what learning looks like. The skill is new, so it requires all your conscious attention, and there's nothing left for anything else.
 
 That's what's happening here. You're [riding the reverse bike](#the-reverse-bike) — pushing through fear, being authentic for the first time — and the fear itself [narrows your attention](./trauma-and-filters.md#fear-narrows-attention) to your own survival. The first few times you express yourself — your desire, your sexuality, your truth — you won't have attention left for calibration. You might say the right thing at the wrong time, to the wrong person, with too much detail. You might get called a creep. Not because you are one — but because you've never expressed this part of yourself before, and you don't yet know how to do it in a way that lands well.
@@ -434,6 +436,8 @@ Anything beyond the headline — what happens at those parties, what you enjoy, 
 > *"I have something I'd like to share with you, and it's a bit sexual. Are you open to hearing that?"*
 
 This gives them a real choice — not a fait accompli where they have to react to something they didn't ask for. And even when they say yes, or even when they *ask* to hear more — if what you're about to share is more intense than their question probably anticipated, check in again. One more second of attunement can save both of you.
+
+You can also just name it: *"I'm still figuring out how to talk about this stuff. I might be clumsy. Let me know if I'm overstepping."* That does two things — it explains the clumsiness before someone interprets it as something worse, and it gives them an explicit invitation to redirect you instead of silently judging.
 
 This isn't about hiding who you are. It's about giving people the same choice about what enters their ears that you'd give them about what touches their body.
 
