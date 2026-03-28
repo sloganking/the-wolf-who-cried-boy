@@ -99,13 +99,13 @@ But if you just walk up and say "here's all the things you could have done diffe
 
 **Talking about** is describing what went wrong:
 
-> "You went ahead and spent money without checking in with me first. I know we talked about it being a potential interest, but you committed before you fully verified with me."
+> "You started going harder without checking in with me. We were having a good time, but I didn't say I was ready for that level of intensity. You assumed instead of asking."
 
 This is backward-looking. It analyzes fault. It invites defensiveness.
 
 **Talking for** is making a clear request for the future:
 
-> "Next time there's a moment where you're about to spend resources or commit to something—right before that happens—I want you to explicitly reach out and ask: 'I know we talked about this. My understanding is you're positive. Can I go ahead and commit now?'"
+> "Next time we're playing and you want to escalate — go harder, move to a new area, shift the energy — right before that moment, I want you to pause and ask: 'I want to take this further. Are you with me?' Even if everything feels like a yes. That check-in is what makes me feel safe enough to actually let go."
 
 Every sentence spent "talking for" is actively solving the problem. You're not analyzing what went wrong. You're just making a request that, if they agree, fixes it.
 
