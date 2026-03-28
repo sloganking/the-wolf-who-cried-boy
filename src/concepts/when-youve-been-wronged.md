@@ -214,6 +214,14 @@ Everyone knows not to go grocery shopping when you're hungry — you buy stuff y
 
 This doesn't mean you can't seek repair until your life is perfect. Sometimes you can't feed yourself efficiently, and repair can't wait. But if you can — eat first. Go to a party. See a friend. Get laid. Whatever you're not getting, try to get it from somewhere other than the person who owes you repair. The requests will be cleaner, more proportional, and harder to dismiss. You'll know the difference because the requests that remain after you've fed yourself are the ones that are actually about the harm — not the hunger.
 
+### Check the Scope
+
+Before you make a repair request, check: is this about what *this person* did, or is it about what people like them have always done?
+
+If someone crosses your boundary, the repair is for the boundary crossing. Not for patriarchy. Not for every man who's ever been careless with a woman's body. Not for a systemic grievance you carry about people who look or act like them. Those grievances may be real — but this person didn't create them, and loading their repair with the weight of a system they didn't build will make every ask feel disproportionate. They'll sense they're being asked to pay a debt that isn't theirs, and the repair will collapse.
+
+Repair for what they did. Process the rest somewhere else — with a therapist, a friend, a journal, a community that can hold the bigger conversation. If the systemic anger is bleeding into the individual ask, that's [shopping hungry](#dont-go-shopping-hungry) with a different kind of hunger.
+
 ### Don't Counter-Attack
 
 It's tempting. They attacked you. You want to defend yourself, expose their hypocrisy, show everyone what really happened.
