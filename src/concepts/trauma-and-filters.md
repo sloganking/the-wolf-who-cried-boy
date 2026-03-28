@@ -221,7 +221,9 @@ And you are wrong. And you don't know it. And you suffer for it.
 
 But what if I hadn't caught it? What if I'd stayed in the story — that she tricked me, that she offered connection she never intended to give, that she went out of her way to cause me pain? I would have attacked her. Told people what she "did to me." Publicly. Righteously.
 
-To anyone who saw clearly — who knew she'd told me exactly what was going to happen — I would have looked crazy. The same way Kent Mansley looks crazy. But not everyone would see clearly. People carrying similar wounds, similar filters, would believe me. They'd see my pain and conclude she must have done something terrible. They'd join. And together, we'd destroy a woman who did exactly what she said she was going to do — not because one filter distorted reality, but because a room full of them confirmed each other.
+To anyone who saw clearly — who knew she'd told me exactly what was going to happen — I would have looked crazy. The same way Kent Mansley looks crazy. But not everyone would see clearly. People carrying similar wounds, similar filters, would believe me. They'd see my pain and conclude she must have done something terrible. They'd join. And the more I screamed, the more would follow — because the crowd doesn't evaluate evidence. They evaluate intensity. *If he's that upset, there must be a good reason.* The people who could see clearly would stay quiet, because speaking up against a mob means becoming its next target.
+
+And together, we'd destroy a woman who did exactly what she said she was going to do — not because one filter distorted reality, but because a room full of them confirmed each other.
 
 If you've ever watched someone attacking someone who clearly didn't do what they're accused of — and couldn't understand why others were joining in — you weren't watching crazy people. You were watching filters.
 
