@@ -173,7 +173,9 @@ That's the belief running his entire life. Once you see it, every action he take
 
 So when a boy is found alive and safe in the giant's hands — visible to everyone, the general calling ceasefire — Kent screams: "IT'S A TRICK! LAUNCH THE MISSILE!"
 
-His filter can't let the evidence in. He orders a nuclear strike on his own position rather than question the belief. Kent isn't lying. He isn't evil. He's reporting the truth as his filter sees it — and every action he takes is logical, given the premise. The premise is never questioned.
+The general turns to him: *"Are you mad?"*
+
+Kent doesn't wake up. He grabs a microphone and orders the nuclear strike himself — aimed at his own position — rather than question the belief. He isn't lying. He isn't evil. He's reporting the truth as his filter sees it — and every action he takes is logical, given the premise. The premise is never questioned.
 
 If you're watching Kent and thinking "I would never be that blind" — that's the filter. The audience judging him as insane is doing exactly what he's doing: assuming their perception is accurate, never questioning their own premise.
 
