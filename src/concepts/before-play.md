@@ -8,6 +8,16 @@ Most of what this book covers is what to do when things go wrong. But the best w
 
 Before engaging in play, intimacy, or sex with someone, have a conversation. Not just "do you consent?"—a real conversation that covers the things that, if you don't discuss them, often turn into the mistakes this book is about.
 
+### Consent Is Contextual
+
+Early in my journey, I learned this the hard way. I'd spent the night snuggling with a woman — in bed, in underwear, warm and close. The next day, at a community house with her friends around, I walked up and put my arm around her.
+
+She didn't want it.
+
+Not because she hadn't enjoyed the night before. She had. But snuggling privately and being touched publicly in front of friends are different contexts — and she'd said yes to one, not the other. Her feelings about our new connection may have shifted overnight too. Either way, what was welcome last night wasn't welcome today.
+
+**A yes is not a blanket yes.** It's specific to the moment, the setting, and the context it was given in. When the context changes — public vs. private, day vs. night, alone vs. with friends — check in again. Even if it feels like it should be obvious that you're welcome.
+
 ---
 
 ## What Is a "Good Thing"?
