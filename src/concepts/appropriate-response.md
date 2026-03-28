@@ -308,7 +308,7 @@ An under-response is when the severity of what happened is HIGH and your respons
 
 The primary driver of under-response is fear. Fear of confrontation. Fear of being seen as difficult. Fear of the person who wronged you escalating. Fear of losing relationships, community, belonging. The same fear that makes a fawner say yes when they mean no makes a wronged person say "it's fine" when it isn't.
 
-The secondary driver is a harmful belief: *there's nothing I can do.* This belief causes under-response by presenting powerlessness as fact rather than story. Before you accept it, check: have you actually asked for what you want? Have you demanded action? Have you followed up? Have you told the facilitator what you *need*, not just what happened? "There's nothing I can do" often means "I haven't tried the scary thing yet."
+The secondary driver is a [harmful belief](./trauma-and-filters.md): *there's nothing I can do.* This is a harmful belief in the same way the book defines all harmful beliefs — it causes harm when acted on. Believing you're powerless creates under-response, and under-response enables continued harm. [What you tolerate persists.](./handling-threats-of-violence.md#what-you-tolerate-persists) Before you accept the belief, check: have you actually asked for what you want? Have you demanded action? Have you followed up? Have you told the facilitator what you *need*, not just what happened? "There's nothing I can do" often means "I haven't tried the scary thing yet."
 
 ### How Fawning Distorts Response Downward
 
