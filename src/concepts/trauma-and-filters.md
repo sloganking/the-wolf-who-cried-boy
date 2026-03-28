@@ -109,11 +109,11 @@ This is your **reticular activating system (RAS)**—a network in your brainstem
 
 **This is different from attention.**
 
-With attention, you perceive many things, and your conscious mind picks which to focus on. You could choose differently.
+With attention, you perceive many things, and your conscious mind picks which to focus on. You could choose differently. That's what just happened — someone told you to look for brown, so you did. Then someone told you to switch to red, and you could. That's conscious willpower directing your focus.
 
-With your RAS, things are filtered out _before they reach your conscious awareness_. You're not choosing to ignore them—you're literally blind to them. They never made it to the part of your brain that could choose.
+Your RAS is what runs when you're *not* trying. It's the default — the filter your brain uses when no one is prompting you and you're not exerting willpower. Things get filtered out *before they reach your conscious awareness*. You're not choosing to ignore them — you're literally blind to them. They never made it to the part of your brain that could choose.
 
-In the brown-red exercise, you can consciously shift your attention to red—because someone told you what you were filtering for. You know you were looking for brown, so you can choose to look for red instead.
+You *could* override your RAS with attention — the same way you just switched from brown to red. But the moment you stop trying, it snaps back to the default. And most of the time, you're not trying. You're just perceiving. Which means your RAS is running the show unchallenged.
 
 In real life, nobody prompts you. You don't realize you're scanning for predators. It never occurs to you to scan for friends. The filter runs without you knowing it exists.
 
