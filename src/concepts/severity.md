@@ -32,9 +32,7 @@ The second row is where people destroy themselves and others. The third is where
 
 Someone makes an awkward comment (LOW). You publicly shame them as a predator (HIGH). Now you've done more damage than they ever did. You've caused permanent harm in response to a recoverable inconvenience.
 
-> **If you cry victim loud enough, you become the perpetrator.**
->
-> **If you don't cry loud enough, you become complicit.**
+> **If you cry victim too quietly, you enable a perpetrator. If you cry victim too loudly, you become one.**
 
 Your response doesn't just *match* severity—it *has* severity. If your response is higher than the original harm, you've crossed from seeking justice into being a source of harm. If it's lower, you've let harm continue when you had the power to stop it.
 
