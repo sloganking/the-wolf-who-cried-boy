@@ -219,11 +219,11 @@ That's what a filter does. Someone can tell you the truth to your face — clear
 
 And you are wrong. And you don't know it. And you suffer for it.
 
-But what if I hadn't caught it? What if I'd stayed in the story — that she tricked me, that she offered connection she never intended to give, that she went out of her way to cause me pain? I would have attacked her. Told people what she "did to me." Publicly. Righteously. And everyone watching would have thought: *what is wrong with him? She told him exactly what was going to happen.*
+But what if I hadn't caught it? What if I'd stayed in the story — that she tricked me, that she offered connection she never intended to give, that she went out of her way to cause me pain? I would have attacked her. Told people what she "did to me." Publicly. Righteously.
 
-I would have looked crazy. The same way Kent Mansley looks crazy. But I wouldn't have been crazy — I would have been filtered. From the inside, attacking her would have felt like the only reasonable response to what was "done to me."
+To anyone who saw clearly — who knew she'd told me exactly what was going to happen — I would have looked crazy. The same way Kent Mansley looks crazy. But not everyone would see clearly. People carrying similar wounds, similar filters, would believe me. They'd see my pain and conclude she must have done something terrible. They'd join. And together, we'd destroy a woman who did exactly what she said she was going to do — not because one filter distorted reality, but because a room full of them confirmed each other.
 
-If you've ever watched someone do things that made no sense — attacking someone who clearly didn't do what they're accused of, refusing to hear what everyone else can plainly see — you weren't watching a crazy person. You were watching a filter.
+If you've ever watched someone attacking someone who clearly didn't do what they're accused of — and couldn't understand why others were joining in — you weren't watching crazy people. You were watching filters.
 
 ### Before You Enter a Space
 
