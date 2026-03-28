@@ -407,13 +407,15 @@ What changes the pattern isn't insight. It's **experience**.
 
 When you start reverse-biking, all your attention goes to the handlebars — overcoming YOUR fear, expressing YOUR truth, saying what you've never said. That's the work. But if your attention is entirely on your own process, you lose attunement to the other person and the context.
 
-I learned this early. After my first experiences in sex-positive spaces — discovering that sexuality wasn't shameful, that desire was natural, that I'd been hiding my whole life for nothing — I wanted to share that liberation with everyone. I told my physical therapist about the BDSM retreats I was attending. Not to be provocative. Because I was so used to hiding who I was, and being authentic felt like the most important thing in the world.
+I learned this early. I'd spent my entire life terrified of expressing any part of my sexuality — convinced that if I showed who I was, I'd be attacked, rejected, called a predator. After my first experiences in sex-positive spaces, I committed to doing everything I was afraid of. Every time I felt fear about expressing myself, I treated it as a signal: *this is the pattern that's been enslaving me. I need to push through it.*
 
-What I didn't consider: he was at work. He couldn't easily change the subject or walk away. Talking about sexual topics could put his job at risk. I was so focused on overcoming MY repression that I didn't see HIS context at all.
+So when I thought about telling my physical therapist I was attending BDSM retreats, and I felt fear — I told him. Not to be provocative. Because the fear itself felt like proof that I needed to say it. That's the reverse bike: the thing your body screams at you not to do is exactly the thing you need to do to break free.
 
-This is common when people first enter these spaces. The world-shaking realization — *sexuality isn't bad, I'm not bad, this is beautiful* — creates an urgency to share it with everyone. But sharing without attunement is the same pattern this book warns about everywhere else: your [attention narrows](./trauma-and-filters.md#fear-narrows-attention), you stop seeing the other person, and the thing you feared — being seen as inappropriate, being rejected, being called a predator — happens. Not because you ARE inappropriate. Because your attention was on you instead of them.
+But all my attention was on surviving the moment. *Will he judge me? Will he react badly? Will I be okay?* I was so consumed by my own fear that I couldn't see his context at all: he was at work, he couldn't easily change the subject or walk away, and talking about sexual topics could put his job at risk. I'd never talked about sexuality with anyone outside these spaces — so I had zero calibration for how to do it. You can't calibrate something you've never practiced.
 
-The fix isn't to stop healing. It's to notice when your healing is consuming all your attention — and bring some of it back to the person in front of you.
+This is common when people first enter these spaces. You're [riding the reverse bike](#the-reverse-bike) — pushing through fear, being authentic for the first time — and the fear itself [narrows your attention](./trauma-and-filters.md#fear-narrows-attention) to your own survival. You stop seeing the other person. And the thing you feared — being seen as inappropriate, being rejected, being called a predator — happens. Not because you ARE inappropriate. Because your attention was on you instead of them.
+
+The fix isn't to stop healing. It's to notice when your fear is consuming all your attention — and bring some of it back to the person in front of you.
 
 ### Exposure Therapy for Fawning
 
