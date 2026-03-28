@@ -163,9 +163,9 @@ You have [responsibility](./responsibility.md) here. You can choose what you con
 
 ### When Evidence Gets Through
 
-Sometimes contradictory evidence *does* get through — reality is staring you right in the face. Even then, your conscious mind will work to protect the belief.
+In the [brown-red exercise](#the-brownred-exercise), switching was easy — someone told you to look for red and you found it. But when fear is high enough, even that stops working. Your RAS filters so aggressively that evidence can be standing right in front of you — people pointing at it, shouting it — and it still can't get through.
 
-In *The Iron Giant*, there's a character named Kent Mansley who looks completely insane. He lies to a general, manipulates everyone around him, endangers an entire town. The audience watches and thinks: *this guy is evil, or stupid, or both.*
+In the movie *The Iron Giant*, there's a character named Kent Mansley who looks completely insane. He lies to a general, manipulates everyone around him, endangers an entire town. The audience watches and thinks: *this guy is evil, or stupid, or both.*
 
 But early in the film, he says one line that explains everything: "Everyone wants what we have."
 
