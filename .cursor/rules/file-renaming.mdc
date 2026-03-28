@@ -1,0 +1,13 @@
+---
+description: How to handle file renames in this project
+alwaysApply: true
+---
+
+# File Renaming
+
+When renaming files:
+
+1. Use `git mv old new` to rename
+2. Update ALL references/links across the codebase to point to the new filename
+3. Delete the old file completely — do NOT leave stubs or redirects
+4. Verify the old file is gone after renaming
