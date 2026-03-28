@@ -120,6 +120,8 @@ That's how you make it right when you can't make it right directly. The debt doe
 
 # If You Were Harmed
 
+Your repair requests have a [severity](./severity.md) too. You can [under-respond](./appropriate-response.md#under-response-the-invisible-failure) — ask for too little, settle, fawn — and the relationship stays broken because you never gave them a real target. Or you can over-respond — ask for punishment disguised as repair, load your request with [hunger](./when-youve-been-wronged.md#dont-go-shopping-hungry) or [grievances](./when-youve-been-wronged.md#check-the-scope) that aren't theirs. The goal is proportional: ask for what would actually make it right. Not less. Not more.
+
 ## Repair Is a Privilege — and Your Best Move
 
 You don't owe anyone the chance to make it right. If someone harmed you and you can't think of any way they could add value to your life — if every path to repair would just take more from you — don't manufacture one for their sake. That's [fawning](./fawning.md). If they genuinely want to make things right and you've closed the door, the path that remains for them is to [pay it forward](#if-you-cant-pay-it-back-pay-it-forward) — to take what they learned and make the world better with it instead of you.
