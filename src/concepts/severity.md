@@ -27,9 +27,10 @@ Someone crosses your boundary. That's their action—LOW, MEDIUM, or HIGH. You r
 | LOW harm | LOW response | Proportional. Good. |
 | MEDIUM harm | MEDIUM response | Proportional. Good. |
 | HIGH harm | HIGH response | Proportional. Justified. |
-| LOW harm | HIGH response | **You caused more harm than they did.** |
+| LOW harm | HIGH response | **Over-response. You caused more harm than they did.** |
+| HIGH harm | LOW response | **Under-response. You enabled continued harm.** |
 
-That last row is where people destroy themselves and others.
+The fourth row is where people destroy themselves and others. The fifth is where they let others be destroyed.
 
 Someone makes an awkward comment (LOW). You publicly shame them as a predator (HIGH). Now you've done more damage than they ever did. You've caused permanent harm in response to a recoverable inconvenience.
 
@@ -52,15 +53,20 @@ Your feelings are real. They're valid. They matter.
 
 **They don't determine objective severity.**
 
-You can feel HIGH severity distress from a LOW severity event. That's not proof the event was HIGH—it's information about your [filters](./trauma-and-filters.md). Your nervous system might be screaming "DANGER" while the actual harm was... an awkward comment.
+This cuts both directions.
 
-This doesn't mean your pain isn't real. It means your pain is not evidence of what actually happened.
+**Overestimating:** You can feel HIGH severity distress from a LOW severity event. That's not proof the event was HIGH—it's information about your [filters](./trauma-and-filters.md). Your nervous system might be screaming "DANGER" while the actual harm was... an awkward comment. If you respond to the feeling instead of the facts, you [over-respond](./appropriate-response.md) — and become the source of harm.
+
+**Underestimating:** You can feel LOW distress from a HIGH severity event — especially if you have a [fawning](./fawning.md) pattern. Your nervous system might be whispering "it's fine, it wasn't that bad, don't make a big deal of it" while someone just made death threats or destroyed your reputation. If you respond to the feeling instead of the facts, you [under-respond](./appropriate-response.md#under-response-the-invisible-failure) — and enable continued harm.
+
+Facilitators can underestimate too. When a participant is screaming death threats and the facilitator thinks "they're just activated, they didn't mean it, let's give them space" — that's treating HIGH severity as LOW because the facilitator's fear is minimizing it. The feelings say "don't confront this." The facts say someone just threatened to kill a participant in front of 50 people.
 
 When assessing severity, ask:
 
 - What was the **actual harm**? (Not how you feel, but what happened)
 - Is it **permanent** or **recoverable**?
 - Would a neutral observer, with all the facts, call this HIGH/MEDIUM/LOW?
+- Am I **inflating** because my filters are activated — or **deflating** because confronting it feels scary?
 
 Your feelings tell you something important—about yourself. They don't tell you how serious the other person's action was. Those are different questions.
 
