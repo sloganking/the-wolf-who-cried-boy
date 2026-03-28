@@ -115,7 +115,9 @@ Your RAS is what runs when you're *not* trying. It's the default — the filter 
 
 You *could* override your RAS with attention — the same way you just switched from brown to red. But the moment you stop trying, it snaps back to the default. And most of the time, you're not trying. You're just perceiving. Which means your RAS is running the show unchallenged.
 
-In real life, nobody prompts you. You don't realize you're scanning for predators. It never occurs to you to scan for friends. The filter runs without you knowing it exists.
+In the exercise, switching is easy — because someone prompted you. You know all the colors exist. You know red is in the room somewhere. You just have to look for it.
+
+In real life, nobody prompts you. And your RAS doesn't just filter what you see — it filters what options your mind considers. If your RAS is tuned to threats, the thought "maybe I should look for friends" doesn't cross your mind — because as far as your perception is concerned, there are no friends here. There's nothing to scan for. The suggestion itself has been filtered out before it could reach the part of your brain that makes choices. You're not choosing threats over friends. The choice was never on the menu.
 
 From your perspective, you're not filtering at all. You're just looking at the world and seeing what's there. It feels accurate. It feels real. You have no experience of bias—just perception.
 
