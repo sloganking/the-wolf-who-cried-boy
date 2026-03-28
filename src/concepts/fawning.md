@@ -385,6 +385,8 @@ If you suffer long enough, the anger will come. But if you've been suppressing a
 
 Fawning lives in your body, not your intellect. You can understand perfectly well that you should say no—and watch yourself say yes anyway.
 
+In the language of [proportionality](./appropriate-response.md), fawning is the most common cause of [under-response](./appropriate-response.md#under-response-the-invisible-failure). When you fawn, your body matches a HIGH-severity harm with a LOW-severity response — and the gap between what happened and what you did about it becomes the space where continued harm lives.
+
 ### The Reverse Bike
 
 Here's what most people don't realize: overcoming fawning isn't like learning a new skill. It's like learning to ride a bicycle that steers in reverse — where turning the handlebars left makes you go right, and turning right makes you go left. (There's a video of this by Destin Sandlin on his YouTube channel [*Smarter Every Day*](https://youtu.be/MFzDaBzBlL0) — it's worth watching.)
