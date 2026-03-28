@@ -48,9 +48,9 @@ This cuts both directions.
 
 **Overestimating:** You can feel HIGH severity distress from a LOW severity event. That's not proof the event was HIGH—it's information about your [filters](./trauma-and-filters.md). Your nervous system might be screaming "DANGER" while the actual harm was... an awkward comment. If you respond to the feeling instead of the facts, you [over-respond](./appropriate-response.md) — and become the source of harm.
 
-**Underestimating:** You can feel LOW distress from a HIGH severity event — especially if you have a [fawning](./fawning.md) pattern. Your nervous system might be whispering "it's fine, it wasn't that bad, don't make a big deal of it" while someone just made death threats or destroyed your reputation. If you respond to the feeling instead of the facts, you [under-respond](./appropriate-response.md#under-response-the-invisible-failure) — and enable continued harm.
+**Underestimating:** You can feel LOW distress from a HIGH severity event — especially if you have a [fawning](./fawning.md) pattern. Your nervous system might be whispering "it's fine, it wasn't that bad, don't make a big deal of it" while someone just threatened violence or destroyed your reputation. If you respond to the feeling instead of the facts, you [under-respond](./appropriate-response.md#under-response-the-invisible-failure) — and enable continued harm.
 
-Facilitators can underestimate too. When a participant is screaming death threats and the facilitator thinks "they're just activated, they didn't mean it, let's give them space" — that's treating HIGH severity as LOW because the facilitator's fear is minimizing it. The feelings say "don't confront this." The facts say someone just threatened to kill a participant in front of 50 people.
+Facilitators can underestimate too. When a participant is threatening violence and the facilitator thinks "they're just activated, they didn't mean it, let's give them space" — that's treating HIGH severity as LOW because the facilitator's fear is minimizing it. The feelings say "don't confront this." The facts say someone just threatened a participant in front of the entire room.
 
 When assessing severity, ask:
 
