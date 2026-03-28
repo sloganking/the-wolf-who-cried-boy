@@ -119,7 +119,7 @@ In the exercise, switching is easy — because someone prompted you. You know al
 
 In real life, nobody prompts you. And your RAS doesn't just filter what you see — it filters what options your mind considers. If your RAS is tuned to threats, the thought "maybe I should look for friends" doesn't cross your mind — because as far as your perception is concerned, there are no friends here. There's nothing to scan for. The suggestion itself has been filtered out before it could reach the part of your brain that makes choices. You're not choosing threats over friends. The choice was never on the menu.
 
-From your perspective, you're not filtering at all. You're just looking at the world and seeing what's there. It feels accurate. It feels real. You have no experience of bias—just perception.
+And that's what makes it invisible. From the inside, you're not filtering at all. You're just looking at the world and seeing what's there. It feels accurate. It feels real. You have no experience of bias — just perception.
 
 Even when you learn that you _have_ an RAS, you still don't know what it's filtering for. You don't know what it makes you see or what it makes you blind to. Figuring that out requires working backwards—noticing patterns like "I tend to see threats more often than other people do" or "I keep finding myself in the same dynamics." Your RAS can filter for multiple things at once, and you're never going to be fully aware of all of them.
 
