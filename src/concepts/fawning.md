@@ -413,9 +413,11 @@ So when I thought about telling my physical therapist I was attending BDSM retre
 
 But all my attention was on surviving the moment. *Will he judge me? Will he react badly? Will I be okay?* I was so consumed by my own fear that I couldn't see his context at all: he was at work, he couldn't easily change the subject or walk away, and talking about sexual topics could put his job at risk. I'd never talked about sexuality with anyone outside these spaces — so I had zero calibration for how to do it. You can't calibrate something you've never practiced.
 
-This is common when people first enter these spaces. You're [riding the reverse bike](#the-reverse-bike) — pushing through fear, being authentic for the first time — and the fear itself [narrows your attention](./trauma-and-filters.md#fear-narrows-attention) to your own survival. You stop seeing the other person. And the thing you feared — being seen as inappropriate, being rejected, being called a predator — happens. Not because you ARE inappropriate. Because your attention was on you instead of them.
+Think about the first time you drove a car. All your attention was on the pedals, the steering wheel, the mirrors. You couldn't hold a conversation. You definitely couldn't notice the pedestrian three blocks ahead. That's not a character flaw — that's what learning looks like. The skill is new, so it requires all your conscious attention, and there's nothing left for anything else.
 
-The fix isn't to stop healing. It's to notice when your fear is consuming all your attention — and bring some of it back to the person in front of you.
+That's what's happening here. You're [riding the reverse bike](#the-reverse-bike) — pushing through fear, being authentic for the first time — and the fear itself [narrows your attention](./trauma-and-filters.md#fear-narrows-attention) to your own survival. The first few times you express yourself — your desire, your sexuality, your truth — you won't have attention left for calibration. You might say the right thing at the wrong time, to the wrong person, with too much detail. You might get called a creep. Not because you are one — but because you've never expressed this part of yourself before, and you don't yet know how to do it in a way that lands well.
+
+That's normal. It happens to nearly everyone in these spaces. And then — the same way driving stops requiring all your focus — you develop calibration. You learn to share the headline, not the details. You start seeing the other person again. The clumsiness is temporary. With practice, you can ride the bike and watch the road at the same time.
 
 ### Exposure Therapy for Fawning
 
