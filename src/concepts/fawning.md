@@ -409,7 +409,7 @@ When you start reverse-biking, all your attention goes to the handlebars — ove
 
 I learned this early. I'd spent my entire life terrified of expressing any part of my sexuality — convinced that if I showed who I was, I'd be attacked, rejected, called a predator. After my first experiences in sex-positive spaces, I committed to doing everything I was afraid of. Every time I felt fear about expressing myself, I treated it as a signal: *this is the pattern that's been enslaving me. I need to push through it.*
 
-So when I thought about telling my physical therapist I was attending BDSM retreats, and I felt fear — I told him. Not to be provocative. Because the fear itself felt like proof that I needed to say it. That's the reverse bike: the thing your body screams at you not to do is exactly the thing you need to do to break free.
+So when I thought about telling my physical therapist I was attending BDSM retreats, and I felt fear — I recognized it. The same fear that had run my entire life, in everything, not just sex. I told him — not to be provocative, but because I was practicing. Saying the things I was afraid to say. Showing myself that reality is never as bad as my body predicts. Overcoming the fawning programming that had kept me hidden so I could actually show up as myself.
 
 But all my attention was on surviving the moment. *Will he judge me? Will he react badly? Will I be okay?* I was so consumed by my own fear that I couldn't see his context at all: he was at work, he couldn't easily change the subject or walk away, and talking about sexual topics could put his job at risk. I'd never talked about sexuality with anyone outside these spaces — so I had zero calibration for how to do it. You can't calibrate something you've never practiced.
 
