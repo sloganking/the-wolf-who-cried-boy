@@ -532,6 +532,26 @@ You need rooms where you can be naked. Regularly. Not every room. But enough roo
 
 The person who dresses for the room *and* has rooms with no dress code doesn't panic. They can handle any environment because they trust themselves to dress appropriately — and they know the clothes come off later, somewhere safe. The dressing stops being a threat to their identity. It becomes a choice they make from freedom, not from fear.
 
+### Practice Saying Yes to Your Own Desire
+
+The [exposure therapy](#how-the-pattern-breaks) earlier in this chapter is about learning to say no — suffering enough times that your body finally erupts into a boundary, and then discovering that saying no brings relief instead of destruction. That works. It rewires the fawning pattern through pain.
+
+But reverse fawning can rewire through pleasure — and it happens faster than anything I've experienced.
+
+At my first play party, I wanted to kiss a woman. Every nerve in my body said: *don't ask. You'll be called a creep. You'll be rejected. You'll be attacked.* My entire life had trained me to believe that expressing desire was dangerous — that wanting someone and saying so made me a predator. I'd never tested that belief because I'd never been in a room where testing it was safe.
+
+I asked. She said yes. And it wasn't just a yes — it was enthusiastic, warm, and it led to one of the most pleasurable experiences of my life.
+
+My body didn't know what to do with that. My belief said *asking = punishment.* Reality said *asking = 120% of what you wanted.* The belief didn't slowly erode. It **shattered** — because the lived experience was so emotionally overwhelming that the old prediction couldn't survive contact with it. One experience did what years of intellectual understanding couldn't: it rewired the emotional association in my body from *asking is dangerous* to *asking is how I get what I want.*
+
+This is why play parties are, in my experience, the single most effective training ground for reverse fawners who can't ask for what they want.
+
+The reward is extreme. When you ask for something you've been terrified to voice and you receive not just a yes but *enthusiastic connection* — your nervous system updates fast. Not through repetition. Through intensity. One experience of asking and receiving can overwrite years of silence, because the emotional charge of the reward is so much stronger than the emotional charge of the fear that was keeping you silent.
+
+And when it's a no — which it sometimes is — the no is usually clean. Not an attack. Not disgust. Just *not right now* or *not for me.* Your body learns that too: no doesn't destroy you. The consequence you've been avoiding your whole life turns out to be a three-second sentence that both of you move on from. That's data your nervous system can't get from thinking about it.
+
+The exposure therapy from earlier in this chapter teaches you to say no through pain. This teaches you to say yes through pleasure. Both are reverse biking. Both overwrite the old pattern with lived experience. But if you have access to spaces where desire is welcome and consent is practiced — the pleasure path is faster, and the lessons stick just as hard.
+
 ### Fawning to Yourself
 
 Everything so far has been about fawning to another person — saying yes when you mean no, or saying no when you mean yes, because someone else's anticipated reaction overrides your truth.
