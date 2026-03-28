@@ -163,7 +163,7 @@ You have [responsibility](./responsibility.md) here. You can choose what you con
 
 ### When Evidence Gets Through
 
-And when contradictory evidence _does_ get through—when reality is staring you right in the face—your conscious mind will work to protect the belief.
+Sometimes contradictory evidence *does* get through — reality is staring you right in the face. Even then, your conscious mind will work to protect the belief.
 
 In _The Iron Giant_, there's a character named Kent Mansley who seems completely unreasonable. He looks like a comical villain—both evil and inept. The audience watches him take action after action that makes no sense. He seems to be lying, manipulating, endangering everyone around him for no clear reason.
 
