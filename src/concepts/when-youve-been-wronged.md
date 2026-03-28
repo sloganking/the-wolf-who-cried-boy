@@ -206,11 +206,11 @@ Anger, grief, confusion, shame—all of it. Don't rush to "get over it." The fee
 
 ## What Actions To Take
 
-### Feed Yourself First
+### Don't Go Shopping Hungry
 
 Before you make repair requests, check: are you starving?
 
-If your basic needs aren't being met right now — safety, connection, sex, belonging — your requests will be shaped by the starvation, not the harm. You'll ask for things that address the hunger rather than what actually happened. And the person receiving your requests will sense it — they'll feel like they're being asked to fill a hole that isn't theirs.
+Everyone knows not to go grocery shopping when you're hungry — you buy stuff you don't need because the hunger is making decisions for you. The same thing happens with repair. If your basic needs aren't being met right now — safety, connection, sex, belonging — your requests will be shaped by the starvation, not the harm. You'll ask for things that address the hunger rather than what actually happened. And the person receiving your requests will sense it — they'll feel like they're being asked to fill a hole that isn't theirs.
 
 This doesn't mean you can't seek repair until your life is perfect. Sometimes you can't feed yourself efficiently, and repair can't wait. But if you can — eat first. Go to a party. See a friend. Get laid. Whatever you're not getting, try to get it from somewhere other than the person who owes you repair. The requests will be cleaner, more proportional, and harder to dismiss. You'll know the difference because the requests that remain after you've fed yourself are the ones that are actually about the harm — not the hunger.
 
