@@ -85,7 +85,7 @@ Showing you—which is so much more powerful and actually constitutes real commu
 
 If someone doesn't see their power, they may interpret your attempt to show them as manipulation—as you trying to dodge accountability.
 
-This can happen even when you've already taken full responsibility. You're not deflecting; you're trying to help them see how they can end their own suffering. But because their frame is "I'm the victim, you're the perpetrator," any suggestion that they had power sounds like blame-shifting.
+This can happen even when you've already taken full responsibility. You're not deflecting; you're trying to help them see how they can end their own suffering. But their frame is "I'm the victim" — and in that frame, anyone who suggests they had power is either the one who hurt them or sympathizing with the one who did. Either way, you're dismissed.
 
 ### Talk For, Not About
 
