@@ -95,6 +95,18 @@ These pages are strong but long enough that reader fatigue is a risk. A tighteni
 
 ## Tone
 
-- [ ] `responsibility.md` — "There are no victims, only volunteers" (Tony Robbins quote) may land harshly for trauma survivors; consider framing or context
+- [x] `responsibility.md` — "There are no victims, only volunteers" (Tony Robbins quote) — already removed
 - [ ] `when-youve-been-wronged.md` — "Much of it came from your own fawning" and "You fawned" — may feel blaming to readers who were genuinely powerless; consider softening
 - [ ] `guiding-public-repair.md` — "You used them to abuse yourself" is sharp; may need context
+
+## Final Passes (Quick — Do Right Before Publishing)
+
+These are fast sweeps across the whole book. Each takes 15-60 minutes. Run them as final checks even if you think you've already fixed everything.
+
+- [ ] **"Demanding" language sweep** — Search for "demand," "demanding," "insist" when used to describe what the reader should do. Replace with "ask for," "advocate for," "request." The book teaches consent and collaboration, not coercion — even when advocating for yourself.
+- [ ] **Video/link attribution** — Every YouTube link and external reference should include the creator's name so it makes sense in print (e.g., "Destin Sandlin, *Smarter Every Day*"). Search for `youtu` and `http` to find them all.
+- [ ] **Navigation typo sweep** — Search for "←←" (double arrows). Known instances in `before-you-facilitate.md`, `when-things-go-wrong.md`, `guiding-public-repair.md`.
+- [ ] **Identity label sweep** — Search for "bad person," "good person," "evil," "monster," "predator" used as identity labels rather than behavioral descriptions. The book teaches describing behavior, not labeling character.
+- [ ] **"There's nothing you can do" / powerlessness sweep** — Search for language that counsels acceptance or powerlessness before the reader has been told to advocate. No page should tell the reader they're helpless before asking: have you actually requested what you want?
+- [ ] **Quotes audit** — Verify all quoted sources add value. Check distribution of who's being quoted. Remove any that are redundant or weaker than the author's own language.
+- [ ] **Print readability** — All hyperlinks should make sense without clicking. If a link says "this tool" or "here," the surrounding text should explain what it links to. Paper readers can't click.
