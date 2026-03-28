@@ -298,6 +298,47 @@ The facilitators can figure out which it is and handle it appropriately. But the
 
 ---
 
+## Under-Response: The Invisible Failure
+
+Over-response is visible. Someone screams, threatens, mobilizes — everyone sees it. Under-response is invisible. Nothing happens. And because nothing happens, no one notices — including you.
+
+An under-response is when the severity of what happened is HIGH and your response is LOW or NONE. The harm doesn't go away because you didn't respond to it. It continues. And the gap between what happened and what you did about it becomes the space where continued harm lives.
+
+### Fear Drives Under-Response
+
+The primary driver of under-response is fear. Fear of confrontation. Fear of being seen as difficult. Fear of the person who wronged you escalating. Fear of losing relationships, community, belonging. The same fear that makes a fawner say yes when they mean no makes a wronged person say "it's fine" when it isn't.
+
+The secondary driver is a harmful belief: *there's nothing I can do.* This belief causes under-response by presenting powerlessness as fact rather than story. Before you accept it, check: have you actually asked for what you want? Have you demanded action? Have you followed up? Have you told the facilitator what you *need*, not just what happened? "There's nothing I can do" often means "I haven't tried the scary thing yet."
+
+### How Fawning Distorts Response Downward
+
+If you have a [fawning](./fawning.md) pattern, your sense of proportionality is miscalibrated — but in the opposite direction from what most of this chapter covers.
+
+Over-responders feel their HIGH response is proportional because trauma inflates severity. Under-responders feel their LOW response is proportional because fawning deflates it. "It wasn't that bad." "They didn't mean it." "I probably deserved some of it." These aren't conclusions — they're the fawning pattern minimizing what happened to you so you don't have to confront it.
+
+For fawners, a proportional response FEELS like an over-response. Setting a firm boundary feels selfish. Demanding repair feels like too much. Expressing anger feels dangerous. Your feeling-meter has been miscalibrated by decades of going small — so you can't trust the feeling. You have to check the math instead.
+
+This means: **if your response feels a little selfish, it's probably proportional.** And if it feels proportional, it's probably too small. You're going to have to [reverse bike](./fawning.md#the-reverse-bike) your way into proportional response — practicing advocacy that feels uncomfortable until your nervous system recalibrates and discovers that standing up for yourself doesn't destroy you. Every proportional response will feel like an over-response in the beginning. That feeling isn't evidence you're doing too much. It's evidence of how much you've been doing too little.
+
+### If You See an Over-Response and Don't Act
+
+This applies especially to facilitators and bystanders: if you can see that someone is over-responding — screaming, threatening, causing HIGH-severity harm to someone who made a LOW mistake — and you do nothing, you are under-responding. Your inaction enables the over-response to continue. You become part of the harm — not because you caused it, but because you had the power to stop it and didn't use it.
+
+This is how [fawning](./fawning.md) cascades: one person over-responds, a facilitator fawns, and the person who made the original mistake absorbs the full force of both failures — the attacker's aggression AND the facilitator's inaction. Two harms instead of one.
+
+### Warning Signs You're Under-Responding
+
+- Someone wronged you and your first instinct is to empathize with them
+- You're minimizing what happened: "it wasn't that bad," "they didn't mean it," "others have it worse"
+- You haven't asked for anything — you've only informed
+- You feel like asking for repair would be "too much" or "selfish"
+- You're accepting "there's nothing I can do" without checking if you've actually tried
+- Someone near you is over-responding to someone else, and you're watching it happen without intervening
+- You're more worried about the other person's feelings than your own harm
+- You've already forgiven them before they've done anything to earn it
+
+---
+
 ## Related
 
 - [Before You Judge](./before-you-judge.md) — Do you actually know what happened?
