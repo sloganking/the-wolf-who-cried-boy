@@ -165,35 +165,19 @@ You have [responsibility](./responsibility.md) here. You can choose what you con
 
 Sometimes contradictory evidence *does* get through — reality is staring you right in the face. Even then, your conscious mind will work to protect the belief.
 
-In _The Iron Giant_, there's a character named Kent Mansley who seems completely unreasonable. He looks like a comical villain—both evil and inept. The audience watches him take action after action that makes no sense. He seems to be lying, manipulating, endangering everyone around him for no clear reason.
+In *The Iron Giant*, there's a character named Kent Mansley who looks completely insane. He lies to a general, manipulates everyone around him, endangers an entire town. The audience watches and thinks: *this guy is evil, or stupid, or both.*
 
-We never see inside Kent's head—so this is interpretation. But it's grounded in what he actually says. Early in the film, he tells Hogarth about the Russians, about needing to defend the country: "Everyone wants what we have."
+But early in the film, he says one line that explains everything: "Everyone wants what we have."
 
-That's not just a throwaway line. It's the belief running his entire life.
+That's the belief running his entire life. Once you see it, every action he takes suddenly makes sense. The giant robot *must* be a weapon — sent by an enemy that wants what we have. It can't be friendly. That's not even a possibility.
 
-Once you see that filter, every action he takes suddenly makes sense.
+So when a boy is found alive and safe in the giant's hands — visible to everyone, the general calling ceasefire — Kent screams: "IT'S A TRICK! LAUNCH THE MISSILE!"
 
-The giant robot must be a weapon—sent by Russians, or aliens, or some enemy government that wants what we have. It can't be friendly. That's not a possibility. It must be harmful.
+His filter can't let the evidence in. He orders a nuclear strike on his own position rather than question the belief. Kent isn't lying. He isn't evil. He's reporting the truth as his filter sees it — and every action he takes is logical, given the premise. The premise is never questioned.
 
-So when Dean—the man who's been sheltering Hogarth—tells Kent the boy is alive, safe in the giant's hands, and asks the army to stand down—Kent hears this, and his filter translates it. He turns to the general and reports: "The giant killed the boy."
+If you're watching Kent and thinking "I would never be that blind" — that's the filter. The audience judging him as insane is doing exactly what he's doing: assuming their perception is accurate, never questioning their own premise.
 
-This is one of those moments that makes Kent look purely selfish—or insane. He just lied to a general's face. Why?
-
-But through his filter, this isn't lying. The giant was obviously made by bad actors who want to steal what we have. So of course it killed the child. Dean is probably just hopeful and delusional, wanting to believe the boy is alive when he isn't. There's no other possibility. Kent is reporting the truth as his filter sees it.
-
-Later, the giant walks up with the boy visibly alive in its hands. Hogarth—the boy—is shouting: "Don't shoot! Don't shoot!" Plain as day. Everyone can see it. The general calls ceasefire.
-
-Kent screams: "IT'S A TRICK! LAUNCH THE MISSILE!"
-
-His rational mind is working overtime to preserve the belief. _The giant couldn't have NOT killed the boy. Everyone wants what we have, so the giant must be made by an enemy. So the boy must actually be dead. But wait—if they can build a giant metal man, they can probably build holograms. That's it! That's what I'm seeing! Or the boy has been enslaved by the giant and is being forced to tell the army not to shoot, so we let our guard down right before the giant kills all of us!_
-
-The evidence that the giant is friendly and not a threat—is literally standing in front of him. Everyone else can see it. But his filter can't let it in. As a result he orders a nuclear strike on his own position.
-
-This is what foundational beliefs do. When proof against them is standing right in front of you, plain as day for all eyes to see, your rational mind will find a way to make the belief possible anyway. Every explanation it constructs will be logical—given the premise. The premise is never questioned.
-
-Here's the uncomfortable part: if you're watching Kent and thinking "I would never be that blind"—that's the exact filter that makes you Kent. The audience judging him as insane is doing the same thing he's doing: assuming their perception is accurate, assuming they'd see clearly in his position, never questioning the premise.
-
-Everyone has foundational beliefs. Including you. Including me. The question isn't whether you have them. The question is whether you've found them—and whether you've ever watched them override evidence standing right in front of you.
+The question isn't whether you have foundational beliefs running your perception. Everyone does. The question is whether you've ever caught one overriding evidence that was right in front of you.
 
 ### She Told Me Everything
 
@@ -234,6 +218,12 @@ Months later, I saw the same filter running in the other direction. A different 
 That's what a filter does. Someone can tell you the truth to your face — clearly, directly, with no ambiguity — and the story running underneath can rewrite every word before it reaches you. You don't experience yourself as filtering. You experience yourself as *seeing clearly.* You're certain she's teasing. You're certain she'll stay. You're certain her words don't mean what they mean.
 
 And you are wrong. And you don't know it. And you suffer for it.
+
+But what if I hadn't caught it? What if I'd stayed in the story — that she tricked me, that she offered connection she never intended to give, that she went out of her way to cause me pain? I would have attacked her. Told people what she "did to me." Publicly. Righteously. And everyone watching would have thought: *what is wrong with him? She told him exactly what was going to happen.*
+
+I would have looked crazy. The same way Kent Mansley looks crazy. But I wouldn't have been crazy — I would have been filtered. From the inside, attacking her would have felt like the only reasonable response to what was "done to me."
+
+If you've ever watched someone do things that made no sense — attacking someone who clearly didn't do what they're accused of, refusing to hear what everyone else can plainly see — you weren't watching a crazy person. You were watching a filter.
 
 ### Before You Enter a Space
 
