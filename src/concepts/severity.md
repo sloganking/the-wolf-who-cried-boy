@@ -24,26 +24,19 @@ Someone crosses your boundary. That's their action—LOW, MEDIUM, or HIGH. You r
 
 | They Did | You Did | Result |
 | -------- | ------- | ------ |
-| LOW harm | LOW response | Proportional. Good. |
-| MEDIUM harm | MEDIUM response | Proportional. Good. |
-| HIGH harm | HIGH response | Proportional. Justified. |
+| Any level | Matching response | **Proportional.** |
 | LOW harm | HIGH response | **Over-response. You caused more harm than they did.** |
 | HIGH harm | LOW response | **Under-response. You enabled continued harm.** |
 
-The fourth row is where people destroy themselves and others. The fifth is where they let others be destroyed.
+The second row is where people destroy themselves and others. The third is where they let others be destroyed.
 
 Someone makes an awkward comment (LOW). You publicly shame them as a predator (HIGH). Now you've done more damage than they ever did. You've caused permanent harm in response to a recoverable inconvenience.
 
 > **If you cry victim loud enough, you become the perpetrator.**
+>
+> **If you don't cry loud enough, you become complicit.**
 
-This is the core insight of the entire book. Your response doesn't just *match* severity—it *has* severity. If your response is higher than the original harm, you've crossed from a victim seeking justice into being a source of harm.
-
-## Key Principle
-
-**Your response should match the severity level.**
-
-- Responding to LOW with HIGH = you become a source of harm
-- Responding to HIGH with LOW = you enable continued harm
+Your response doesn't just *match* severity—it *has* severity. If your response is higher than the original harm, you've crossed from seeking justice into being a source of harm. If it's lower, you've let harm continue when you had the power to stop it.
 
 See: [Appropriate Response](./appropriate-response.md)
 
