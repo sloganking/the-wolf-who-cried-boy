@@ -278,9 +278,9 @@ Why?
 
 Someone who makes mistakes repeatedly is either:
 
-1. **Malicious** — and action needs to be taken to remove them
-2. **Extremely clumsy** — unconscious mistakes happening too often, needs intervention. Or they might be operating at a lower severity level than they should be—easily correctable with guidance.
-3. **Operating from misguided thinking** — needs correction, but could become an outstanding community member with guidance
+1. **Extremely clumsy** — unconscious mistakes happening too often, needs intervention. Or they might be operating at a lower severity level than they should be—easily correctable with guidance.
+2. **Operating from misguided thinking** — needs correction, but could become an outstanding community member with guidance
+3. **Malicious** — and action needs to be taken to remove them. This is the least likely of the three, but the one your [filters](./trauma-and-filters.md) will jump to first.
 
 The facilitators can figure out which it is and handle it appropriately. But they can only do that if people tell them what's happening.
 
