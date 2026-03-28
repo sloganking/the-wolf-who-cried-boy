@@ -353,6 +353,16 @@ The person closest to reality in that moment will be the one asking questions. N
 
 If everyone paused and genuinely investigated—talked to primary sources, separated [notice from story](../tools/notice-feel-story.md), verified before acting—they'd converge. Because reality is one thing. When people are seeing wildly different things, it's not because reality is complicated. It's because stories are running.
 
+### Being Right by Accident Is Not the Same as Seeing Clearly
+
+When a room splinters, some people will agree with you. Be careful assuming that means they see clearly.
+
+Some of them might have investigated — talked to primary sources, checked what actually happened, and arrived at their conclusion through process. They're seeing clearly.
+
+Others just have filters that lean "friend" instead of "predator." They didn't verify any more than the mob did. Their bias just happened to point in the right direction this time.
+
+Agreement feels the same whether it comes from clear seeing or a matching filter. The only test is process: did they verify, or did they just react? If you build your circle around people who agree with you, you haven't found clear-sighted allies — you've found people whose filters match yours.
+
 ### The Invitation
 
 When you notice yourself certain about what happened—certain about who's wrong, who's a threat, who's the victim—pause and ask:
