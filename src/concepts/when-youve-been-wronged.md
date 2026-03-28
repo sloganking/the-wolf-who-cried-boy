@@ -216,11 +216,11 @@ This doesn't mean you can't seek repair until your life is perfect. Sometimes yo
 
 ### Check the Scope
 
-Before you make a repair request, check: is this about what *this person* did, or is it about what people like them have always done?
+Before you make a repair request, check: is this about what *this person* did, or is it about what people like them have done to you throughout your life?
 
-If someone crosses your boundary, the repair is for the boundary crossing. Not for patriarchy. Not for every man who's ever been careless with a woman's body. Not for a systemic grievance you carry about people who look or act like them. Those grievances may be real — but this person didn't create them, and loading their repair with the weight of a system they didn't build will make every ask feel disproportionate. They'll sense they're being asked to pay a debt that isn't theirs, and the repair will collapse.
+If someone crosses your boundary, the repair is for the boundary crossing. Not for every time someone from their category hurt you. Not for the accumulated wounds of your past. Not for the story that "men always do this" or "people like her always do that." Those wounds may be real — but this person didn't create them, and loading their repair with the weight of your whole history will make every ask feel disproportionate. They'll sense they're being asked to pay a debt that isn't theirs, and the repair will collapse.
 
-Repair for what they did. Process the rest somewhere else — with a therapist, a friend, a journal, a community that can hold the bigger conversation. If the systemic anger is bleeding into the individual ask, that's [shopping hungry](#dont-go-shopping-hungry) with a different kind of hunger.
+This is a [victim lens](./drama-triangle.md) applied to a category instead of an individual. Keep the repair about what this specific person did — these actions, this incident. Process the rest somewhere else. If the historical wounds are bleeding into the individual ask, that's [shopping hungry](#dont-go-shopping-hungry) with a different kind of hunger.
 
 ### Don't Counter-Attack
 
