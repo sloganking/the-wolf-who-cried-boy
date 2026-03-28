@@ -28,9 +28,7 @@ Someone crosses your boundary. That's their action—LOW, MEDIUM, or HIGH. You r
 | LOW harm | HIGH response | **Over-response. You caused more harm than they did.** |
 | HIGH harm | LOW response | **Under-response. You enabled continued harm.** |
 
-The second row is where people destroy themselves and others. The third is where they let others be destroyed.
-
-Someone makes an awkward comment (LOW). You publicly shame them as a predator (HIGH). Now you've done more damage than they ever did. You've caused permanent harm in response to a recoverable inconvenience.
+Someone makes an awkward comment (LOW). You publicly shame them as a predator (HIGH). Now you've done more damage than they ever did — permanent harm in response to a recoverable inconvenience. And the people in the room who can see it's wrong? They stay silent because they don't want to be next. That silence is an under-response — and it lets the over-response continue unchecked.
 
 > **If you cry victim loud enough, you become the perpetrator.**
 
