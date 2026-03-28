@@ -423,17 +423,17 @@ That's normal. It happens to nearly everyone in these spaces. And then — the s
 
 The same principle applies to talking about your sexuality as to doing anything else with it: check in first.
 
-When you leave sex-positive spaces and go back into the rest of your life, you're carrying a new identity — and zero practice integrating it. You know what you've experienced. You know it changed you. You want to share it. But the people around you didn't go on that journey with you, and they haven't consented to receiving it.
+The first time you walk out of a sex-positive space and back into the rest of your life, you're carrying a new identity — and zero practice integrating it. You know what you've experienced. You know it changed you. You want to share it. But the people around you didn't go on that journey with you, and they haven't consented to receiving it.
 
-Before you share something that might be sensitive — your sex life, your kink experiences, your journey in these spaces — enroll the other person:
+There's a spectrum of detail, and different levels need different amounts of consent.
 
-> *"I have something I'd like to share with you, and it happens to be a bit sexual. Are you open to hearing that?"*
+"I go to sexy parties" is a headline. It's one sentence, it's authentic, and it lets someone know who you are without asking them to hold anything heavy. That doesn't need enrollment — it's the same as saying you do CrossFit or you're into meditation. It's sharing a fact about your life.
 
-This does two things. It gives them a real choice — not a fait accompli where they have to react to something they didn't ask for. And it shows attunement: you're thinking about them, not just your need to express yourself.
+Anything beyond the headline — what happens at those parties, what you enjoy, what you've experienced — needs enrollment first:
 
-If they say yes, calibrate your level of detail. "I go to sexy parties" is enough to let someone know who you are. It's one sentence, it's authentic, and it lets them decide how much more they want to hear. You don't need to describe what happens at those parties unless they ask. Sharing the headline — not the full article — gives them the information without overwhelming their capacity to receive it.
+> *"I have something I'd like to share with you, and it's a bit sexual. Are you open to hearing that?"*
 
-If they say no, respect it. That's consent working as designed.
+This gives them a real choice — not a fait accompli where they have to react to something they didn't ask for. And even when they say yes, or even when they *ask* to hear more — if what you're about to share is more intense than their question probably anticipated, check in again. One more second of attunement can save both of you.
 
 This isn't about hiding who you are. It's about giving people the same choice about what enters their ears that you'd give them about what touches their body.
 
