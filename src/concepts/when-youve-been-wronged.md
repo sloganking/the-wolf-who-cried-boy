@@ -113,7 +113,7 @@ Watch especially for gratitude-based fawning — finding something to praise abo
 
 > "I understand that what happened affected you, and I take responsibility for my part. But I'm not available for being called names or having my character attacked. That's not what happened, and I won't agree to it."
 
-Notice the language: "called names," not "called a predator." When you say "I'm not available for being called names," everyone in the room thinks *that makes sense.* When you say "I'm not available for being called a predator," everyone questions *should he be called a predator?* **Don't repeat fiction. Reject the behavior without echoing the label.** Let them be the only one who said it.
+Notice the language: "called names," not "called a predator." When you say "I'm not available for being called names," everyone in the room thinks *that makes sense.* When you say "I'm not available for being called a predator," everyone asks themselves *should he be called a predator?* **Don't repeat fiction. Reject the behavior without echoing the label.** Let them be the only one who said it.
 
 ### Show Your Humanity
 
