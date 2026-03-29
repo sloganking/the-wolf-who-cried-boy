@@ -426,6 +426,16 @@ You either master your beliefs or they master you. **Beliefs are the engine of e
 
 And you will always have some. The goal was never to escape every filter. It's to keep looking for the edges of the ones you're in. The moment you stop looking is the moment they shrink back around you and you don't even notice.
 
+### When Beliefs Cascade
+
+When you [shatter](./fawning.md#practice-saying-yes-to-your-own-desire) a belief — not gradually update it, but *shatter* it through lived experience so intense the old prediction can't survive — something happens to the beliefs around it. They start to crack too.
+
+The belief you were most certain about was load-bearing. It held up an entire structure: *the world works this way, people are like this, I can't have that.* When that one collapses, the structure it was supporting doesn't just develop a gap. The whole thing becomes suspect. *If I was wrong about the thing I was most sure of — the thing reinforced by years of evidence and suffering and meaning-making — what else am I wrong about?*
+
+The shattering cascades. Beliefs that seemed unrelated to the one that broke suddenly feel less solid. "I'll never be financially successful" starts to wobble when "I'll never be sexually desired" turns out to be catastrophically wrong. Not because they're logically connected — but because your confidence in the *category* of "things I'm certain are impossible" just took a direct hit. The certainty itself is what shattered, and that certainty was holding up more than one belief.
+
+This is why a single transformative experience can change someone's entire trajectory — not just in the domain where it happened, but across their life. The experience doesn't need to be related to the other beliefs. It just needs to be powerful enough to break the deepest one. The rest follow.
+
 ---
 
 **Next:** [Body Stories](./body-stories.md) — What trauma actually is, how it lives in the body, and the specific story patterns that cause harm in play spaces.

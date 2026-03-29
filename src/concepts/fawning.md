@@ -562,7 +562,11 @@ But here's what made it work: I had to show up. By the time I walked into that p
 
 People said I looked like a totally different person by the end of that night. I was. I walked in shy, believing I lived in a world where asking was dangerous and desire would be punished. I walked out knowing — not believing, *knowing* — that asking is how I get what I want, and the world is wildly more generous than my fear predicted. It was the best day of my life.
 
+Not everyone is ready for this. I wasn't, for seven years. Some people tell me *I'm not ready yet* — and that's okay. You can't force the threshold. But when the cost of silence finally becomes scarier than the fear of asking, you'll know. And when you're ready, the training ground is there.
+
 The exposure therapy earlier in this chapter teaches you to say no through pain — you learn to set boundaries by suffering the cost of not setting them until your body can't take it anymore. This teaches you to say yes through pleasure — you learn to ask for what you want by discovering that asking leads to experiences beyond what you thought was possible. Both are [reverse biking](#the-reverse-bike). Both overwrite old patterns with lived experience. And if you have access to spaces where desire is welcome and consent is practiced, the pleasure path can rewrite the asking pattern faster than anything else I've found.
+
+There's a deeper consequence of belief-shattering that goes beyond the specific belief that broke. When the belief you were *most* certain about — the one reinforced by years of evidence and suffering and meaning-making — turns out to be wrong, it doesn't just free you from that one belief. It makes every other "impossible" belief suddenly questionable. *If I was wrong about the thing I was most sure of, what else am I wrong about?* The shattering [cascades](./trauma-and-filters.md#when-beliefs-cascade).
 
 ### Fawning to Yourself
 
