@@ -22,17 +22,15 @@ The title works like a Rorschach test. There are at least three valid interpreta
 
 Someone gets labeled a predator — a wolf. They cry out: "I'm a person. I'm a boy. I'm human." But nobody believes them, because wolves don't get believed. Once the label is assigned and Narrative Lock takes hold, nothing they say can break through. Their humanity has been overwritten by a story.
 
-### 2. The Roles Are Reversed
+### 2. The Roles Are Reversed — You See a Wolf Where There's a Boy
 
 In the original fable, the "innocent" (boy) raises a false alarm about the "threat" (wolf). In the flip, the structural positions reverse: the "threat" (wolf) occupies the subject position, and the "innocent" (boy) occupies the object position. The wolf is crying out about the boy — trying to tell people that the one everyone sees as the hero, the protector, the innocent rescuer, is actually the one causing harm. But nobody listens, because wolves don't get believed. Once you've been labeled the threat, your testimony is worthless — even when you're the one telling the truth.
+
+The title is a perceptual inversion. You see a wolf where there's a boy — and a boy where there's a wolf. The entire book is about that double blindness: the filters that make threats out of friends and friends out of threats.
 
 ### 3. The Wolf Was Just Existing
 
 The wolf was minding his own business in the forest. The humans came with their stories, their certainty, and their violence. The wolf was never the threat — the village's narrative about the wolf was. The harm came from belief blindness, not from the wolf.
-
-### 4. You See a Wolf Where There's a Boy
-
-The title is a perceptual inversion. The original fable trains you to watch for wolves. This book asks: what if the wolf you're seeing is actually a boy? And what if the boy you trust is actually a wolf? You see a wolf where there's a boy — and a boy where there's a wolf. The entire book is about that double blindness: the filters that make threats out of friends and friends out of threats.
 
 ## What Your Interpretation Reveals
 
