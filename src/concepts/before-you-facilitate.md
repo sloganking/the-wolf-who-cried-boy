@@ -408,7 +408,7 @@ It rarely looks like doing nothing. It usually looks like doing *something* — 
 
 If someone's reputation has been publicly attacked in your container, pause the container. Don't continue the schedule while one of your participants has been disgraced. Taking care of them first — before the agenda, before the curriculum, before the timeline — shows that you value people over process. That's containment.
 
-**During the crisis:** The facilitator sets up a format for the two participants to "share emotions" with each other, but doesn't facilitate it. No context is given to the group. No one explains that the original mistake was low-severity, that repair already happened, that the person whose boundary was crossed already said they felt complete. The righteous predator makes threats of violence, and the facilitator doesn't name it: *"Threats of violence are outside the boundaries of this container."* Doesn't state consequences. Doesn't enforce the time structure when the over-responder talks over it. Doesn't interject when the situation needs guidance.
+**During the crisis:** The facilitator sets up a format for the two participants to "share emotions" with each other, but doesn't facilitate it. No context is given to the group. No one explains that the original mistake was low-severity, that repair already happened, that the person whose boundary was crossed already said they felt complete. The righteous predator makes threats of violence, and the facilitator doesn't name it: *"Threats of violence are outside the boundaries of this container."* Doesn't state consequences. Doesn't enforce the time structure when the righteous predator talks over it. Doesn't interject when the situation needs guidance.
 
 Instead of a facilitated resolution, it becomes a public trial run by the angriest person in the room. The facilitator is present but not leading. They've outsourced the container to the person least qualified to hold it.
 
@@ -446,7 +446,7 @@ The facilitator was afraid of exactly what happened to the participant — havin
 
 **Name it immediately.** When threats of violence happen, say it out loud: *"Threats of violence are not acceptable in this container. If they continue, you will be asked to leave."* This isn't confrontation. It's the promise being honored. The decision was already made before the fear showed up.
 
-**Provide context before public processing.** Before the group hears any version of the story, the people directly involved should speak first — starting with the person whose boundary was actually crossed. If that person says they feel complete, the group needs to hear that *before* the over-responder frames the narrative.
+**Provide context before public processing.** Before the group hears any version of the story, the people directly involved should speak first — starting with the person whose boundary was actually crossed. If that person says they feel complete, the group needs to hear that *before* the righteous predator frames the narrative.
 
 **Facilitate, don't spectate.** A "sharing ritual" where two people yell at each other while the facilitator watches isn't facilitation. It's abdication. If you set up a format, guide it. Interject when someone makes threats. Point out what's happening. The group is looking to you to help them see clearly.
 
