@@ -396,32 +396,31 @@ That's facilitator fawning. And it's the most damaging form of [under-response](
 
 When a participant sees something wrong and stays silent, that's one person's fear. When a facilitator sees something wrong and stays silent, the group reads it as authority. The facilitator is the person everyone is looking to for guidance on what's acceptable. If they're not stopping it, it must be okay. If they're not contesting the accusations, they must be true. If they're not protecting the person being attacked, the person must deserve it.
 
-The over-responder's narrative becomes the group's narrative — not because everyone agrees, but because the only person with the authority to offer a different narrative is silent. People who privately disagree stay quiet too, because they can see what happens when someone challenges the over-responder: the facilitators don't intervene. Why would a participant risk speaking up when the people responsible for safety won't?
+The [righteous predator's](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) narrative becomes the group's narrative — not because everyone agrees, but because the person with the most leverage to offer a different narrative is silent. Other participants can challenge it, but their words carry less weight. People who privately disagree stay quiet too, because they can see what happens when someone challenges the righteous predator: the facilitators don't intervene. Why would a participant risk speaking up when the people responsible for safety won't?
 
-This is the cascade: one person [over-responds](./appropriate-response.md). The facilitator [fawns](./fawning.md). The group reads the fawning as endorsement. The over-responder's story becomes the only story. Participants who disagree go silent. And the person who made the original mistake absorbs every layer — the attack, the abandonment, the group's judgment, and the reputation damage. Not one harm. Five.
+This is the cascade: one person [over-responds](./appropriate-response.md). The facilitator [fawns](./fawning.md). The group reads the fawning as endorsement. The righteous predator's story becomes the only story. Participants who disagree go silent. And the person who made the original mistake absorbs every layer — the attack, the abandonment, the group's judgment, and the reputation damage. Not one harm. Five.
 
 ### What Facilitator Fawning Looks Like
 
 It rarely looks like doing nothing. It usually looks like doing *something* — just not the thing that matters.
 
-**Before the crisis:** A participant publicly attacks another participant's reputation — writing their name on a chart, making accusations visible to everyone. The facilitators see it but don't remove it before the group gathers. By the time participants walk in, the accusation is the first thing they see. The facilitator's inaction made it the group's first frame. Removing it before anyone sees it is protection. Leaving it up is endorsement.
+**Before the crisis:** A participant publicly attacks another participant's reputation — writing their name somewhere visible as an act of defamation, making accusations impossible to miss. The facilitators see it but don't remove it before the group gathers. By the time participants walk in, the accusation is the first thing they see. The facilitator's inaction made it the group's first frame. Removing it before anyone sees it is protection. Leaving it up is endorsement.
 
 If someone's reputation has been publicly attacked in your container, pause the container. Don't continue the schedule while one of your participants has been disgraced. Taking care of them first — before the agenda, before the curriculum, before the timeline — shows that you value people over process. That's containment.
 
-**During the crisis:** The facilitator sets up a format for the two participants to "share emotions" with each other, but doesn't facilitate it. No context is given to the group. No one explains that the original mistake was low-severity, that repair already happened, that the person whose boundary was crossed already said they felt complete. The over-responding participant makes threats of violence, and the facilitator doesn't name it: *"Threats of violence are outside the boundaries of this container."* Doesn't state consequences. Doesn't enforce the time structure when the over-responder talks over it. Doesn't interject when the situation needs guidance.
+**During the crisis:** The facilitator sets up a format for the two participants to "share emotions" with each other, but doesn't facilitate it. No context is given to the group. No one explains that the original mistake was low-severity, that repair already happened, that the person whose boundary was crossed already said they felt complete. The righteous predator makes threats of violence, and the facilitator doesn't name it: *"Threats of violence are outside the boundaries of this container."* Doesn't state consequences. Doesn't enforce the time structure when the over-responder talks over it. Doesn't interject when the situation needs guidance.
 
 Instead of a facilitated resolution, it becomes a public trial run by the angriest person in the room. The facilitator is present but not leading. They've outsourced the container to the person least qualified to hold it.
 
-**After the crisis:** The facilitator doesn't communicate — to the group, to their staff, to anyone — that what happened wasn't aligned with what they believe is right. Staff members walk away with the over-responder's story as the only story. Some of them treat the person who was attacked with contempt. The facilitator never corrects this, because correcting it would mean admitting they fawned — and admitting that feels harder than letting the wrong story stand.
+**After the crisis:** The facilitator doesn't communicate — to the group, to their staff, to anyone — that what happened wasn't aligned with what they believe is right. Staff members walk away with the righteous predator's story as the only story. Some of them treat the person who was attacked with contempt. The facilitator never corrects this, because correcting it would mean admitting they fawned — and admitting that feels harder than letting the wrong story stand.
 
 ### What Facilitators Are Afraid Of
 
 Facilitator fawning isn't random cowardice. It's a specific fear response, and it usually comes from one of these:
 
-- **Fear of the over-responder escalating** — They're already making threats. What if challenging them makes them violent? What if they turn on the facilitators?
-- **Fear of organizational damage** — What if the over-responder writes public attacks about the organization? What if they rally others against it? The facilitator protects the organization's reputation by sacrificing an individual's.
-- **Fear of the group turning** — If the group has already been [narrative-locked](./invisible-patterns.md#narrative-lock) by the over-responder, challenging the narrative means the facilitator becomes the next target.
-- **Fear of being wrong** — What if the person who made the mistake really IS dangerous? What if defending them makes the facilitator complicit? The uncertainty paralyzes action.
+- **Fear of escalation** — They're already making threats. What if challenging them makes them violent? What if they turn on the facilitators?
+- **Fear of organizational damage** — What if the righteous predator writes public attacks about the organization? What if they rally others against it? The facilitator protects the organization's reputation by sacrificing an individual's.
+- **Fear of the group turning** — If the group has already been [narrative-locked](./invisible-patterns.md#narrative-lock) by the righteous predator, challenging the narrative means the facilitator becomes the next target.
 
 Every one of these fears is real. And every one of them produces the same result: the facilitator does less than they know is right, and someone who needed protection doesn't get it.
 
@@ -429,24 +428,19 @@ Every one of these fears is real. And every one of them produces the same result
 
 The most painful version of facilitator fawning is when the facilitator sacrifices one person to protect themselves or their organization.
 
-It looks like this: the facilitator knows the over-response is wrong. They know the person being attacked should be protected. But protecting them would mean confronting the over-responder — and the over-responder might retaliate against the organization. Hate mail. Public accusations. Reputation damage. So the facilitator lets the attack land on the individual instead. They remove the person who was attacked, not the person attacking. The individual absorbs 100% of the harm that the facilitator was trying to avoid.
+It looks like this: the facilitator knows the over-response is wrong. They know the person being attacked should be protected. But protecting them would mean confronting the righteous predator — and the righteous predator might retaliate against the organization. Hate mail. Public accusations. Reputation damage. So the facilitator lets the attack land on the individual instead. They remove the person who was attacked, not the person attacking. The individual absorbs 100% of the harm that the facilitator was trying to avoid — having their reputation destroyed — while the facilitator's reputation stays intact.
 
-This is using someone as a human shield for your reputation. The facilitator was afraid of exactly what happened to the participant — having their reputation attacked — and they let it happen to someone else so it wouldn't happen to them.
-
-That's not a facilitation decision. That's a [fawning response](./fawning.md) wearing a facilitator's authority.
+The facilitator was afraid of exactly what happened to the participant. And they let it happen to someone else so it wouldn't happen to them.
 
 ### Warning Signs You're Fawning Instead of Facilitating
 
+- You feel like you can't tell the angry person no — because you're afraid of what happens if you do, so you stop setting boundaries, and the container drifts into their hands
 - You know what should happen but you're not doing it
 - You're letting the angriest person set the terms of every conversation
 - You're not enforcing your own time structures or agreements
-- You haven't told the group what you actually believe happened
-- You're afraid of one specific person's reaction to any action you take
-- You're telling yourself *"let's see if they calm down"* instead of acting
-- You're making decisions about one person's safety based on another person's anger
-- You removed someone for being in danger rather than removing the source of danger
+- You haven't told the group what you actually think should have happened
+- You removed the person receiving threats to appease the person making them
 - You know the group is carrying a distorted story and you haven't corrected it
-- After the incident, you didn't tell your staff what you think should have happened
 
 ### What Should Happen Instead
 
@@ -454,15 +448,15 @@ That's not a facilitation decision. That's a [fawning response](./fawning.md) we
 
 **Provide context before public processing.** Before the group hears any version of the story, the people directly involved should speak first — starting with the person whose boundary was actually crossed. If that person says they feel complete, the group needs to hear that *before* the over-responder frames the narrative.
 
-**Facilitate, don't spectate.** A "sharing ritual" where two people yell at each other while the facilitator watches isn't facilitation. It's abdication. If you set up a format, guide it. Interject when someone makes threats. Point out what's happening. Help the group see clearly — that's your job.
+**Facilitate, don't spectate.** A "sharing ritual" where two people yell at each other while the facilitator watches isn't facilitation. It's abdication. If you set up a format, guide it. Interject when someone makes threats. Point out what's happening. The group is looking to you to help them see clearly.
 
-**Protect reputation immediately.** If someone's reputation has been publicly attacked in your container — their name written on a chart, accusations made in front of the group — pause the container and address it before anything else. Don't continue the schedule while one of your people has been publicly disgraced. Show them — and everyone watching — that you care about their dignity more than your timeline.
+**Protect reputation immediately.** If someone's reputation has been publicly attacked in your container — their name written somewhere visible as defamation, accusations made in front of the group — pause the container and address it before anything else. Don't continue the schedule while one of your people has been publicly disgraced. Taking care of them first — before the agenda, before the curriculum — shows everyone that you value people over process.
 
-**Don't celebrate fawning as resolution.** If one person screamed threats and the other person apologized and submitted, that's not resolution. That's one person being bullied into compliance. A facilitator who sees this and calls it "hope for the world" has mistaken submission for repair. Real resolution requires the over-responder to recognize their own wrongdoing — not just the person who made the original mistake.
+**Don't celebrate fawning as resolution.** If one person screamed threats and the other person apologized and submitted, that's not resolution. That's one person being pressured into compliance. If the person making threats never recognized any wrongdoing, and the person who made the original mistake did all the apologizing — that's submission, not repair. Real resolution requires the righteous predator to see their own [over-response](./appropriate-response.md), not just the other person's mistake.
 
-**Communicate after.** If you made a decision under pressure that wasn't aligned with what you believe is right, say so — to your staff, to the group, to the person who was affected. Silence after a bad call is a second under-response. Your staff need to know what you actually believe happened, or they'll carry the over-responder's story as the truth.
+**Communicate after.** If you made a decision under pressure that wasn't aligned with what you believe is right, say so — to your staff, to the group, to the person who was affected. Silence after a bad call is a second under-response. Your staff need to know what you think should have happened, or they'll carry the righteous predator's story as the truth.
 
-**Assign protection.** If someone in your container has received threats of violence, they need a staff member with them. Not as surveillance — as safety. They shouldn't be walking the grounds alone, packing alone, or unable to get food because the person who threatened them is blocking the lunch table. Physical safety is the baseline. If you can't guarantee it, you haven't done your job.
+**Assign protection.** If someone in your container has received threats of violence, they need a staff member with them. Not as surveillance — as safety. They shouldn't be walking the grounds alone, packing alone, or unable to get food because the person who threatened them is blocking the lunch table. Physical safety is the baseline, and someone who's been threatened deserves to feel held, not abandoned.
 
 ### If You Realize You Fawned
 
