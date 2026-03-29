@@ -544,9 +544,11 @@ But I kept asking. Small asks at first. Then bigger ones. And by the end of that
 
 Every one of them was delighted. Not tolerating me. Not doing me a favor. *Delighted.* Some of them looked at me with invigorated eyes when I told them it was my first party — like *he's cute and this is his first time, I should show him a good time.* I had spent my entire life perceiving women as immutably unreachable — beautiful, untouchable, and categorically not for me. That was my [filter](./trauma-and-filters.md). That was the world I lived in. And in one night, that world was irreparably destroyed.
 
+And it wasn't just the kissing. I had walked in expecting something shady and transactional — facilitators abusing their power, people using each other, the whole thing feeling trashy. What I found was a family. People who knew each other, liked each other, and were overtly loving and welcoming in a way I'd never experienced. They weren't just tolerating desire — they were *supporting* it. Supporting each other in asking for what they wanted. My heart felt cared about and safe in a way it never had before. That was its own belief-shattering — not about sex, but about belonging.
+
 I also believed that if I showed attraction to one woman, the others would reject me — jealousy, competition, the rules I'd absorbed growing up in a monogamous context. So I kissed one woman and braced for the fallout. Then I kissed another. Then another. No one freaked out. No one attacked me. No one was jealous. Some of them watched and seemed *more* interested, not less.
 
-That belief didn't slowly evolve through therapy or insight. It **shattered** — on contact with evidence so overwhelming that my old beliefs about reality could no longer survive.
+None of these beliefs slowly evolved through therapy or insight. They **shattered** — on contact with evidence so overwhelming that my old beliefs about reality could no longer survive.
 
 That's what I mean by **belief-shattering**: a belief that has been running your life — filtering your perception, constraining your behavior, making certain futures feel impossible — breaks irreversibly when lived experience contradicts it so violently that the old prediction can't stand. It's not insight. It's not understanding. It's an experience so emotionally intense that the belief simply cannot coexist with what just happened. You don't update your model. Your model is *destroyed* — and a new one forms in its place, because you now live in a world where the old one is obviously, viscerally wrong.
 
@@ -556,7 +558,7 @@ The reward is enormous. When you ask for something you've been terrified to voic
 
 And when it's a no — which it sometimes is — the no is clean. Not an attack. Not disgust. A sentence you both move on from in three seconds. Your body learns that too: the consequence you've been avoiding your whole life is nothing. That's data your nervous system can't get from thinking about it.
 
-But here's what made it work: I had to show up. I had to bring energy and start asking — clumsy, scared, and asking anyway. Newbie energy wasn't a liability. Some of them liked it. But the belief-shattering only happens on the other side of the ask. You have to open your mouth.
+But here's what made it work: I had to show up. By the time I walked into that party, I had already become more terrified of *not* acting than of acting — seven years of not asking for what I wanted had made the cost of silence scarier than the fear of rejection. That's the threshold. The party gave me the training ground, but I had to walk in ready to train. I had to bring energy and start asking — clumsy, scared, and asking anyway. Newbie energy wasn't a liability. Some of them liked it. But the belief-shattering only happens on the other side of the ask. You have to open your mouth.
 
 People said I looked like a totally different person by the end of that night. I was. I walked in shy, believing I lived in a world where asking was dangerous and desire would be punished. I walked out knowing — not believing, *knowing* — that asking is how I get what I want, and the world is wildly more generous than my fear predicted. It was the best day of my life.
 
