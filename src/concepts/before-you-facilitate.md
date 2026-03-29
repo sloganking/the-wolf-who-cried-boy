@@ -424,11 +424,11 @@ Facilitator fawning isn't random cowardice. It's a specific fear response, and i
 
 Every one of these fears is real. And every one of them produces the same result: the facilitator does less than they know is right, and someone who needed protection doesn't get it.
 
-### The Sacrifice Pattern
+### When Protection Goes to the Wrong Person
 
-The most painful version of facilitator fawning is when the facilitator sacrifices one person to protect themselves or their organization.
+The most painful version of facilitator fawning is when the facilitator protects themselves or their organization instead of the person who needs it.
 
-It looks like this: the facilitator knows the over-response is wrong. They know the person being attacked should be protected. But protecting them would mean confronting the righteous predator — and the righteous predator might retaliate against the organization. Hate mail. Public accusations. Reputation damage. So the facilitator lets the attack land on the individual instead. They remove the person who was attacked, not the person attacking. They sacrifice one person's reputation to protect their own.
+It looks like this: the facilitator knows the over-response is wrong. They know the person being attacked should be protected. But protecting them would mean confronting the righteous predator — and the righteous predator might retaliate against the organization. Hate mail. Public accusations. Reputation damage. So the facilitator lets the attack land on the individual instead. They remove the person who was attacked, not the person attacking. The individual's reputation absorbs the hit that the facilitator was afraid of taking.
 
 The facilitator was afraid of exactly what happened to the participant — having their reputation destroyed. And they let it happen to someone else so it wouldn't happen to them.
 
