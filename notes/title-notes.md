@@ -22,7 +22,7 @@ The title works like a Rorschach test. There are at least three valid interpreta
 
 Someone gets labeled a predator — a wolf. They cry out: "I'm a person. I'm a boy. I'm human." But nobody believes them, because wolves don't get believed. Once the label is assigned and Narrative Lock takes hold, nothing they say can break through. Their humanity has been overwritten by a story.
 
-### 2. The Roles Are Reversed — You See a Wolf Where There's a Boy
+### 2. The Roles Are Reversed — You See a Wolf Where There's a Boy. And a Boy Where There's a Wolf.
 
 In the original fable, the "innocent" (boy) raises a false alarm about the "threat" (wolf). In the flip, the structural positions reverse: the "threat" (wolf) occupies the subject position, and the "innocent" (boy) occupies the object position. The wolf is crying out about the boy — trying to tell people that the one everyone sees as the hero, the protector, the innocent rescuer, is actually the one causing harm. But nobody listens, because wolves don't get believed. Once you've been labeled the threat, your testimony is worthless — even when you're the one telling the truth.
 
