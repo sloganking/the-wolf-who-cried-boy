@@ -44,7 +44,7 @@ This is the part nobody wants to say:
 
 When you claim victimhood:
 
-- You mobilize Rescuers to your cause
+- You mobilize Rescuers to your cause — and you will always get some, because not everyone verifies the situation before their sense of fear and urgency drives them to act
 - You gain moral authority
 - You can justify Persecution of your "perpetrator"
 - Cultural narratives side with you by default
