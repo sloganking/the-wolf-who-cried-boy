@@ -30,6 +30,10 @@ In the original fable, the "innocent" (boy) raises a false alarm about the "thre
 
 The wolf was minding his own business in the forest. The humans came with their stories, their certainty, and their violence. The wolf was never the threat — the village's narrative about the wolf was. The harm came from belief blindness, not from the wolf.
 
+### 4. You See a Wolf Where There's a Boy
+
+The title is a perceptual inversion. The original fable trains you to watch for wolves. This book asks: what if the wolf you're seeing is actually a boy? And what if the boy you trust is actually a wolf? You see a wolf where there's a boy — and a boy where there's a wolf. The entire book is about that double blindness: the filters that make threats out of friends and friends out of threats.
+
 ## What Your Interpretation Reveals
 
 When someone asks "what does the title mean?" the answer is: "what do you believe it means?"
