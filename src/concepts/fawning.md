@@ -534,23 +534,35 @@ The person who dresses for the room *and* has rooms with no dress code doesn't p
 
 ### Practice Saying Yes to Your Own Desire
 
-The [exposure therapy](#how-the-pattern-breaks) earlier in this chapter is about learning to say no — suffering enough times that your body finally erupts into a boundary, and then discovering that saying no brings relief instead of destruction. That works. It rewires the fawning pattern through pain.
+The [exposure therapy](#how-the-pattern-breaks) earlier in this chapter rewires fawning through pain — you suffer enough times that your body finally erupts into a boundary, and the relief of saying no overwrites the fear. That works. It's slow, and it hurts, and it works.
 
-But reverse fawning can rewire through pleasure — and it happens faster than anything I've experienced.
+But reverse fawning can rewire through pleasure — and it happens so fast it feels like a different universe.
 
-At my first play party, I wanted to kiss a woman. Every nerve in my body said: *don't ask. You'll be called a creep. You'll be rejected. You'll be attacked.* My entire life had trained me to believe that expressing desire was dangerous — that wanting someone and saying so made me a predator. I'd never tested that belief because I'd never been in a room where testing it was safe.
+At my first BDSM party, I was terrified. There was a woman I wanted to play with — she was already getting flogged by someone else, and I wanted to ask if I could join. I didn't. I went to the massage table instead, because walking up and touching someone's shoulders was less intimidating than opening my mouth and saying what I wanted.
 
-I asked. She said yes. And it wasn't just a yes — it was enthusiastic, warm, and it led to one of the most pleasurable experiences of my life.
+But I kept asking. Small asks at first. Then bigger ones. And by the end of that night, I had kissed somewhere between five and seven women. I don't remember the exact number, which still puts a smile on my face.
 
-My body didn't know what to do with that. My belief said *asking = punishment.* Reality said *asking = 120% of what you wanted.* The belief didn't slowly erode. It **shattered** — because the lived experience was so emotionally overwhelming that the old prediction couldn't survive contact with it. One experience did what years of intellectual understanding couldn't: it rewired the emotional association in my body from *asking is dangerous* to *asking is how I get what I want.*
+Every one of them was delighted. Not tolerating me. Not doing me a favor. *Delighted.* Some of them looked at me with invigorated eyes when I told them it was my first party — like *he's cute and this is his first time, I should show him a good time.* I had spent my entire life perceiving women as immutably unreachable — beautiful, untouchable, and categorically not for me. That was my [filter](./trauma-and-filters.md). That was the world I lived in. And in one night, that world was irreparably destroyed.
 
-This is why play parties are, in my experience, the single most effective training ground for reverse fawners who can't ask for what they want.
+I'd been eating pet food kibble my whole life and someone just handed me a fucking meal.
 
-The reward is extreme. When you ask for something you've been terrified to voice and you receive not just a yes but *enthusiastic connection* — your nervous system updates fast. Not through repetition. Through intensity. One experience of asking and receiving can overwrite years of silence, because the emotional charge of the reward is so much stronger than the emotional charge of the fear that was keeping you silent.
+I also believed that if I showed attraction to one woman, the others would reject me — jealousy, competition, the rules I'd absorbed growing up in a monogamous context. So I kissed one woman and braced for the fallout. Then I kissed another. Then another. No one freaked out. No one attacked me. No one was jealous. Some of them watched and seemed *more* interested, not less.
 
-And when it's a no — which it sometimes is — the no is usually clean. Not an attack. Not disgust. Just *not right now* or *not for me.* Your body learns that too: no doesn't destroy you. The consequence you've been avoiding your whole life turns out to be a three-second sentence that both of you move on from. That's data your nervous system can't get from thinking about it.
+That belief didn't slowly evolve through therapy or insight. It **shattered** on contact with reality.
 
-The exposure therapy from earlier in this chapter teaches you to say no through pain. This teaches you to say yes through pleasure. Both are reverse biking. Both overwrite the old pattern with lived experience. But if you have access to spaces where desire is welcome and consent is practiced — the pleasure path is faster, and the lessons stick just as hard.
+That's what I mean by **belief-shattering**: a belief that has been running your life — filtering your perception, constraining your behavior, making certain futures feel impossible — breaks irreversibly when lived experience contradicts it so violently that the old prediction can't survive. It's not insight. It's not understanding. It's an experience so emotionally intense that the belief simply cannot coexist with what just happened. You don't update your model. Your model is *destroyed* — and a new one forms in its place, because you now live in a world where the old one is obviously, viscerally wrong.
+
+This is why play parties — or any space where desire is welcome and consent is practiced — are the most effective training ground I've found for reverse fawners who can't ask for what they want. More effective than therapy. More effective than group work. More effective than years of trying to think my way out of beliefs that lived in my body, not my head.
+
+The reward is enormous. When you ask for something you've been terrified to voice and you receive not just a yes but *joyful, mind-blowing connection you didn't know was possible* — your nervous system updates fast. Not through repetition. Through intensity. One night of asking and receiving can overwrite years of silence, because the pleasure is so much more emotionally powerful than the fear that was keeping you silent.
+
+And when it's a no — which it sometimes is — the no is clean. Not an attack. Not disgust. A sentence you both move on from in three seconds. Your body learns that too: the consequence you've been avoiding your whole life is nothing. That's data your nervous system can't get from thinking about it.
+
+But here's what made it work: I had to show up. The women didn't seek me out while I stood in a corner being terrified. They responded when I started asking — clumsy, scared, and asking anyway. Newbie energy wasn't a liability. Some of them liked it. But the belief-shattering only happens on the other side of the ask. You have to bring the energy. You have to open your mouth.
+
+People said I literally looked like a different person by the end of that night. I was. I walked in believing I lived in a world where asking was dangerous and desire was punished. I walked out knowing — not believing, *knowing* — that asking is how I get what I want, and the world is wildly more generous than my fear predicted.
+
+The exposure therapy from earlier in this chapter teaches you to say no through pain. This teaches you to say yes through pleasure. Both are [reverse biking](#the-reverse-bike). Both overwrite the old pattern with lived experience. But if you have access to spaces where desire is welcome and consent is practiced — the pleasure path is faster, and the lessons stick just as hard.
 
 ### Fawning to Yourself
 
