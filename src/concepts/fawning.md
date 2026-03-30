@@ -682,7 +682,12 @@ You can't get that counter-evidence if no one knows the wound exists.
 
 "Fix yourself first" becomes an infinite loop: you can't heal without love, and you won't let yourself be loved until you're healed. Meanwhile, years pass. The wound stays exactly where it was. And every failed relationship adds another data point to the story that you're fundamentally too much.
 
-There's a quote from the Symatica Institute that cuts to the core of this: a participant shared that he *"had felt ashamed and continued engaging in non-consensual behaviors after working with therapists who were trying to cure him of his Core Desires, as opposed to finding consensual solutions."* The therapists were trying to fix the wound — to make it go away so he'd be acceptable. What he needed was someone who could hold the wound as it was and help him find a way to live with it that didn't cause harm. One approach says *you're broken and we need to fix you.* The other says *you have a need, and we're going to find a way to meet it.* The first one kept him stuck for years. The second one created change.
+There's a quote that cuts to the core of this:
+
+> **"He said that he had felt ashamed and continued engaging in non-consensual behaviors after working with therapists who were trying to cure him of his Core Desires, as opposed to finding consensual solutions."**  
+> — _Danielle Harel PhD & Celeste Hirschman MA, Coming Together_
+
+The therapists were trying to fix the wound — to make it go away so he'd be acceptable. What he needed was someone who could hold the wound as it was and help him find a way to live with it that didn't cause harm. One approach says *you're broken and we need to fix you.* The other says *you have a need, and we're going to find a way to meet it.* The first one kept him stuck for years. The second one created change.
 
 When someone tells you your core need isn't a need — when they try to cure you of wanting what you want instead of helping you find a way to receive it — notice what happens in your body. If you feel the same rage you felt as a child when someone told you your needs didn't matter, that's not a coincidence. That's the [recording](#fawning-to-yourself) playing again. And fawning to it — spending months trying to believe your need isn't real because someone with authority said so — is the same pattern that got you here. Your body has been screaming. Maybe it's time to listen.
 
