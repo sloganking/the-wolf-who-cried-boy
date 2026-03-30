@@ -112,7 +112,7 @@ I kept writing because people are causing each other pain that doesn't need to e
 
 Every person is a human being — not a monster, not a label. And when people can see that — in themselves and in each other — they're free. Free from the stories. Free from the unnecessary suffering. Free to create something good.
 
-**I wake people up to what they can't see — so they're free.**
+**I see the way out. And I won't leave without you.**
 
 That's why I wrote this book.
 
