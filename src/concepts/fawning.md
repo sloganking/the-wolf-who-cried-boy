@@ -708,6 +708,20 @@ Not as a trauma dump. Not as a test. As information. The same way you'd tell som
 
 *I'm wounded in this way. This is what I need. This is what I'm like when it surfaces. I'm not hiding it from you, and I'm not asking you to fix it. I'm telling you what's real so you can decide if you want to be here for the real thing.*
 
+**But how you carry it changes everything.**
+
+Same wound, two presentations, completely different responses.
+
+Early in my journey into these spaces, a woman was tying me up in a shibari session. She asked how long it had been since I'd had sex. I said two years — though the real number was closer to seven. She said something like *oh my gosh, that's so long* — genuine surprise, nothing cruel — and I went into a full panic attack. Because I was terrified of anyone knowing. I thought it meant something about me. I thought if she knew the real number, she'd see me as broken, unlovable, pathetic.
+
+After the scene, she told me something I've never forgotten. She said: *You can say it's been seven years, make it mean something terrible about yourself, and cry and withdraw from the person offering you love. Or — and this is what I personally would find very charming — you could say "yeah, it's been seven years... want to reset the clock?" with a devilish smile. Use it as a playing card.*
+
+Same information. Same wound. Completely different energy. One version makes the other person want to back away. The other makes them want to lean in.
+
+This isn't about performing confidence you don't feel. It's about a principle Kasia Urbaniak describes: **your words tell people what ideas to think, but your body tells them how to feel about it.** If you say "I haven't had sex in seven years" while sinking into shame, eyes on the floor — they feel the weight of it and want distance from it. If you say the same sentence with steady eyes and a half-smile — or even just neutrally, without making it mean anything about your worth — they feel curiosity, not pity. They feel invited, not burdened.
+
+Whatever you reveal, the other person takes their emotional cue from your state. If you feel awful about your wound, they'll feel awful about it — or not want to be near it. If you own it without shame, they'll meet it without shame. The wound is just information. Your body decides whether that information is a confession or an invitation.
+
 Some people will leave. Good. They would have left anyway — the wound always surfaces — except now they leave before either of you is invested. Before it hurts. Before anyone feels deceived.
 
 Some people will stay. And the ones who stay are staying for the actual you — wound included. Their yes is a real yes. You don't have to manage the reveal. You don't have to brace for the moment they discover who you really are. They already know. They chose this.
