@@ -624,6 +624,96 @@ Not what avoids conflict. Not what makes them happy. Not what prevents disappoin
 
 The answer is almost always: tell the truth. "I haven't done it. I've been overwhelmed. Here's where I'm at." That's disappointing — and it's also a gift, because now you're both operating in reality instead of a performance. Posturing ("I'll definitely have it tomorrow") might avoid a moment of discomfort, but it erodes trust every time the performance doesn't match reality. Admitting where you actually are — even when it's not where you wanted to be — is what makes a reasonable person think *I can rely on this person to tell me the truth, even when it's hard.* And if they're not reasonable — if they attack you for honesty — that's information too. You just learned they don't handle truth well. That tells you something about whether this person belongs in your life.
 
+### Hiding the Wound
+
+Everything above describes fawning to an internal voice — arguing with a ghost about whether your decisions are selfish. But there's a version of this that runs even deeper, and it can shape your entire relationship life without you ever seeing it.
+
+**You have a wound you believe makes you unlovable. So you hide it.**
+
+Not consciously. Not strategically. You just... don't show it. You present the version of yourself that you think people will accept — the healed version, the put-together version, the version that doesn't need anything too uncomfortable. You've been doing it so long it doesn't feel like hiding. It feels like being yourself.
+
+Here's how the cycle runs:
+
+1. **You hide the wound.** You show up as the attractive, capable, together version. Maybe you're funny, or confident, or generous, or sexually skilled. Whatever your strengths are, you lead with those. The wound stays backstage.
+
+2. **Someone falls for the version you showed them.** They didn't consent to your wound — because you never offered it. They consented to the person you presented. And that person was real, but incomplete.
+
+3. **The wound surfaces anyway.** It always does. Weeks in, months in — something triggers it. The neediness, the depression, the anger, the desperation, the thing you've been managing privately suddenly shows up in the relationship. Not because you chose to reveal it. Because wounds don't stay hidden under pressure.
+
+4. **They feel blindsided.** This isn't what they signed up for. Not because your wound is unlovable — but because it wasn't part of the agreement. They consented to one person and got another. The surprise is the betrayal, not the wound itself.
+
+5. **The relationship buckles.** Maybe they pull away. Maybe they say they need a break. Maybe they leave. Maybe they stay but something shifts — the ease is gone, replaced by something heavier than either of you expected.
+
+6. **You conclude: the wound is unlovable.** See? You showed it, and they left. Confirmed. Next time, hide it better. Try harder. Fix yourself first. Get to a place where you don't have the wound anymore, and THEN let someone in.
+
+7. **Repeat.**
+
+This is fawning applied to your entire relational life. You're saying "I'm fine" when you mean "I'm wounded." You're presenting a yes when the truth is more complicated. And just like the [Two Victims](#the-two-victims-problem) problem — your partner is also a victim. They were operating on false information. They didn't get to choose the real you, because you never offered it.
+
+#### Why You Hide It
+
+The wound-hiding isn't random. It's a strategy your nervous system built from old data.
+
+Someone — probably early, probably someone who mattered — taught you that this part of you is too much. Maybe they said it directly: *you're too needy, you're too emotional, you want too much.* Maybe they just withdrew when you showed it, and your body learned the lesson without words. Maybe they told you your needs weren't needs — and you've been trying to prove them wrong, or prove them right, ever since.
+
+Now every new relationship gets filtered through that data. Your body predicts: *if they see this, they'll leave.* So it hides the wound before you consciously decide to. You're not being deceptive. You're fawning to the anticipated rejection of someone who hasn't even had the chance to reject you yet.
+
+And here's the cruel part: by hiding the wound, you guarantee the outcome you're trying to avoid. The wound always surfaces. And when it does, it surfaces as a surprise — which makes it land harder than it would have if you'd shown it from the start. The hiding creates the very rejection it was designed to prevent.
+
+#### The Consent Problem
+
+When you lead with the healed version and reveal the wound later, you're creating a consent violation — not a sexual one, but a relational one.
+
+Your partner said yes to one version of you. When the real version shows up months later, they're now in a relationship they didn't fully agree to. Some people can roll with that. Some can't. But the ones who can't aren't rejecting your wound — they're responding to the mismatch between what was offered and what arrived.
+
+This is why the rejection feels so personal. You think they're saying *your wound is too much.* What they're actually saying — most of the time — is *I didn't know about this, and I can't adjust fast enough, and I feel like I was given incomplete information.* The wound isn't the problem. The surprise is.
+
+#### The "Fix Yourself First" Trap
+
+The cycle convinces you of something that sounds responsible but is actually the thing keeping you stuck:
+
+*I need to fix myself before I can be loved.*
+
+It sounds wise. It sounds mature. It's the thing therapists and coaches and well-meaning friends will tell you. Get your shit together. Heal the wound. Become whole. THEN find a partner.
+
+But some wounds don't heal in isolation. Some wounds specifically need the thing you're avoiding — someone seeing the wound and staying anyway. Someone whose presence provides the [counter-evidence](./why-helping-is-hard.md#when-the-medicine-is-you) your nervous system needs to update its prediction.
+
+You can't get that counter-evidence if no one knows the wound exists.
+
+"Fix yourself first" becomes an infinite loop: you can't heal without love, and you won't let yourself be loved until you're healed. Meanwhile, years pass. The wound stays exactly where it was. And every failed relationship adds another data point to the story that you're fundamentally too much.
+
+There's a quote from the Symatica Institute that cuts to the core of this: a participant shared that he *"had felt ashamed and continued engaging in non-consensual behaviors after working with therapists who were trying to cure him of his Core Desires, as opposed to finding consensual solutions."* The therapists were trying to fix the wound — to make it go away so he'd be acceptable. What he needed was someone who could hold the wound as it was and help him find a way to live with it that didn't cause harm. One approach says *you're broken and we need to fix you.* The other says *you have a need, and we're going to find a way to meet it.* The first one kept him stuck for years. The second one created change.
+
+When someone tells you your core need isn't a need — when they try to cure you of wanting what you want instead of helping you find a way to receive it — notice what happens in your body. If you feel the same rage you felt as a child when someone told you your needs didn't matter, that's not a coincidence. That's the [recording](#fawning-to-yourself) playing again. And fawning to it — spending months trying to believe your need isn't real because someone with authority said so — is the same pattern that got you here. Your body has been screaming. Maybe it's time to listen.
+
+#### Leading With the Wound
+
+The exit is what you'd expect — and what your body will resist with everything it has.
+
+**Show the wound first.**
+
+Not as a trauma dump. Not as a test. As information. The same way you'd tell someone before play that you have a [fawning pattern](#the-empowered-fawners-practice) — so they can make an informed choice about whether to engage.
+
+*I'm wounded in this way. This is what I need. This is what I'm like when it surfaces. I'm not hiding it from you, and I'm not asking you to fix it. I'm telling you what's real so you can decide if you want to be here for the real thing.*
+
+Some people will leave. Good. They would have left anyway — the wound always surfaces — except now they leave before either of you is invested. Before it hurts. Before anyone feels deceived.
+
+Some people will stay. And the ones who stay are staying for the actual you — wound included. Their yes is a real yes. You don't have to manage the reveal. You don't have to brace for the moment they discover who you really are. They already know. They chose this.
+
+That's consent. Real consent. The kind that holds when pressure hits — because the person consenting had the full picture from the start.
+
+#### What Changes
+
+When someone loves you knowing the wound is there — not despite it, not to fix it, just *with* it — your nervous system gets data it has never had before.
+
+The old prediction was: *if they see this, they leave.* The new evidence is: *they saw it, and they stayed.*
+
+That's the [belief-shattering](#practice-saying-yes-to-your-own-desire) you've been trying to create through self-improvement, through therapy, through making yourself good enough to deserve love. And it couldn't happen — because you kept hiding the thing that needed to be seen.
+
+The wound may still need healing. You may still need support, growth, work. But the foundation changes. You're not healing alone, in secret, hoping to become lovable someday. You're healing inside a relationship where the wound is known and held — where the medicine isn't your effort but [someone's presence](./why-helping-is-hard.md#when-the-medicine-is-you).
+
+And the cycle breaks. Not because the wound disappears. Because the hiding does.
+
 ## The Gift of No
 
 Here's a perspective that might surprise you:
