@@ -158,6 +158,32 @@ But you can't force that seeing. You can only offer conditions where it might ha
 
 ---
 
+## What This Looks Like in Practice
+
+At an event, I was in a group with a few people. After one exercise, some time passed. When we reconnected, a woman told me she'd fawned. She apologized and said that at first she felt like a victim and was judging me through that lens. Later she realized that wasn't fair, saw her power, and wanted to own her part.
+
+I told her I was sad to hear that she had fawned to me, because I thought the moment had been mutually enjoyed and consensual. Her feeling bad or uncomfortable wasn't something I wanted. I owned my part: I didn't catch it.
+
+It was a double fawn. I felt weird energy and checked in. She said, "No, it's okay—let's keep going." Her yes was actually a no. I'd been attuned enough to ask, and it still fell through.
+
+I expressed gratitude that she saw through her pattern and didn't attack me. And I expressed delight that now that she sees her power, she knows how to end her suffering next time.
+
+I wasn't trying to deflect my responsibility. I was trying to show her the part of this she could control so she wouldn't keep suffering.
+
+Another woman in the group—looking through a helpless victim lens—accused me of being manipulative and just trying to get out of accountability.
+
+Same moment. Two completely different filters.
+
+The first woman could receive the showing. The second couldn't. To her, any mention of power was blame-shifting. It didn't matter that I'd already owned my part. The frame was "victim/perpetrator," and everything I said passed through that filter.
+
+That's why helping is hard. Even when your intent is benevolent, if someone's lens is locked, the help will read as harm.
+
+And here's the deeper irony: if everything looks like manipulation through your filter, you have no defense against real manipulation. You're so busy attacking the people trying to help that you'd never see the real threat coming.
+
+**The people most afraid of being manipulated are the people who are [most manipulatable](./why-rescuers-are-dangerous.md#the-selfish-predators-best-tool).** Their fear doesn't protect them. It blinds them.
+
+---
+
 ## When the Medicine Is You
 
 Everything above covers active interventions — telling, showing, coaching, talking for. Moves you make.
@@ -212,32 +238,6 @@ This is for the person attacking _themselves_. The friend spiraling after being 
 **Don't rush them out of it.** The impulse to make someone feel better is strong. But rushing someone out of shame can signal that their pain is too much for _you_ — which shame reads as more evidence that the real them is unbearable. Let them be where they are. They'll move when they're ready.
 
 You're not going to resolve someone's sinsickness in one conversation. What you're doing is planting counter-evidence. Every time someone is in shame and another person stays — really stays, without flinching — the prediction weakens. The body starts learning: _vulnerability doesn't always end in rejection._ That's not a single breakthrough. It's accumulated proof, built one moment at a time, that shame's core story was never true.
-
----
-
-## What This Looks Like in Practice
-
-At an event, I was in a group with a few people. After one exercise, some time passed. When we reconnected, a woman told me she'd fawned. She apologized and said that at first she felt like a victim and was judging me through that lens. Later she realized that wasn't fair, saw her power, and wanted to own her part.
-
-I told her I was sad to hear that she had fawned to me, because I thought the moment had been mutually enjoyed and consensual. Her feeling bad or uncomfortable wasn't something I wanted. I owned my part: I didn't catch it.
-
-It was a double fawn. I felt weird energy and checked in. She said, "No, it's okay—let's keep going." Her yes was actually a no. I'd been attuned enough to ask, and it still fell through.
-
-I expressed gratitude that she saw through her pattern and didn't attack me. And I expressed delight that now that she sees her power, she knows how to end her suffering next time.
-
-I wasn't trying to deflect my responsibility. I was trying to show her the part of this she could control so she wouldn't keep suffering.
-
-Another woman in the group—looking through a helpless victim lens—accused me of being manipulative and just trying to get out of accountability.
-
-Same moment. Two completely different filters.
-
-The first woman could receive the showing. The second couldn't. To her, any mention of power was blame-shifting. It didn't matter that I'd already owned my part. The frame was "victim/perpetrator," and everything I said passed through that filter.
-
-That's why helping is hard. Even when your intent is benevolent, if someone's lens is locked, the help will read as harm.
-
-And here's the deeper irony: if everything looks like manipulation through your filter, you have no defense against real manipulation. You're so busy attacking the people trying to help that you'd never see the real threat coming.
-
-**The people most afraid of being manipulated are the people who are [most manipulatable](./why-rescuers-are-dangerous.md#the-selfish-predators-best-tool).** Their fear doesn't protect them. It blinds them.
 
 ---
 
