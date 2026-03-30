@@ -12,7 +12,9 @@ Someone pulls you aside at a retreat and says:
 
 Notice what you felt reading that. Maybe concern. Maybe urgency. Maybe the impulse to act — to go find a facilitator, to do something *now*, before someone gets hurt.
 
-That impulse is the point. Not because the concern is wrong — maybe something did happen. But notice: you just got recruited into action based entirely on one person's *interpretation* of what they saw. No one talked to the woman. No one talked to Jake. No facts were verified. And you're already feeling like you need to do something.
+Notice something else: it sounded reasonable. It even sounded responsible. Someone saw something concerning and wants to do the right thing. If you heard this at a retreat, you'd probably think *this person is being a good community member.*
+
+That's what makes it dangerous. Not because the concern is wrong — maybe something did happen. But you just got recruited into action based entirely on one person's *interpretation* of what they saw. No one talked to the woman. No one talked to Jake. No facts were verified. And you're already feeling like you need to do something. The line between responsible concern and the start of a [witch hunt](../concepts/why-rescuers-are-dangerous.md) is exactly here — and it looks identical from the outside. The only way to tell the difference is to look at what's underneath the words.
 
 Here's what was actually installed in you, sentence by sentence:
 
