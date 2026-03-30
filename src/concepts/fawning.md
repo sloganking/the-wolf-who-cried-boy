@@ -686,9 +686,16 @@ There's a quote from the Symatica Institute that cuts to the core of this: a par
 
 When someone tells you your core need isn't a need — when they try to cure you of wanting what you want instead of helping you find a way to receive it — notice what happens in your body. If you feel the same rage you felt as a child when someone told you your needs didn't matter, that's not a coincidence. That's the [recording](#fawning-to-yourself) playing again. And fawning to it — spending months trying to believe your need isn't real because someone with authority said so — is the same pattern that got you here. Your body has been screaming. Maybe it's time to listen.
 
+The same trap shows up socially. You get rejected by a community — they don't receive you, something feels off — and instead of adjusting your approach, finding different people, or starting lighter and building rapport, you retreat. *I need more personal development. I need to fix myself before I can belong.* You throw yourself into self-improvement alone — and the isolation makes you less connected, less socially calibrated, and harder to connect with next time. You're solving loneliness by being alone. The fix is the same: stay in connection while wounded. Adjust, don't retreat.
+
 #### Leading With the Wound
 
 The exit is what you'd expect — and what your body will resist with everything it has.
+
+And it's not just the eventual reveal that fails. People can sense inauthenticity in real time — even when they can't name what they're feeling. Something is off. They feel it in their body. They might not leave immediately, but the distance starts before the wound ever surfaces. The hiding repels them in the moment AND guarantees the eventual surprise. It fails twice.
+
+> **"I thought I was being seductive when I was just being manipulative. Manipulation is a stain. Oh how I have wrestled with this in my life. I've had to rip it out, tear it away from my body, away from my soul, like smoldering cloth, and cast it down before me in the dirt. I don't want to convince, to adjust, to weave words. I want to just be. The wonderful thing you discover is that there is no need for manipulation ever. Authenticity is the only truly seductive thing in this world."**  
+> — _Zan Perrion, The Alabaster Girl_
 
 **Show the wound first.**
 
