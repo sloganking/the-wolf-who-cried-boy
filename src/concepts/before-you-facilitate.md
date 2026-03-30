@@ -88,6 +88,8 @@ If you have staff or assistants, consider their state too.
 
 **A recommendation:** Consider making this a requirement, not a suggestion. *You cannot work my events unless your needs have been met recently.*
 
+Even if you don't set a hard rule, do a vibe check. You can feel it when someone has hungry ghost energy — that starving, seeking, desperate-for-connection state that makes them a liability in intimate spaces. You don't need to ask them when they last had sex. You can see it. If someone on your staff has that energy, they're not ready to hold space. Feed them first.
+
 Think of it like meals at a retreat. If nobody had eaten in 24 hours, you wouldn't push forward with the curriculum. You'd stop and feed everyone first. Same logic.
 
 ### Friction Check Your Staff
@@ -98,7 +100,11 @@ They don't check for the unhappy path.
 
 When someone makes a mistake and a [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) mobilizes the room against them — and you need to make a tough call that some participants will disagree with — will your staff have your back? Or will they side with the mob because their own [filters](./trauma-and-filters.md) are activated too?
 
-Before your container starts, find out. Have the hard conversations with your team: *What would you do if a participant makes a mistake and another participant over-responds? What if you have to remove someone the crowd thinks is the hero? What if someone you empathize with is the one causing harm?* Listen to how they think. Not what they say they'd do in theory — how they actually reason through it.
+Before your container starts, find out. Have the hard conversations with your team: *What would you do if a participant makes a mistake and another participant over-responds? What if you have to remove someone the crowd thinks is the hero? What if someone you empathize with is the one causing harm? What if one of our own staff makes the mistake — how do we handle that as a team?*
+
+Listen to how they think. Not what they say they'd do in theory — how they actually reason through it.
+
+That last question matters more than it seems. When a staff member makes a mistake, the stakes are higher for everyone — participants question whether they're safe, and the staff can fracture. Some take sides with the staff member who made the mistake, some take sides against them, and suddenly you have competing factions inside your own team in the middle of a crisis. A team that hasn't been friction-checked will split along their individual filters when pressure hits. A team that has will stay coherent — because they already talked through these scenarios and know how they'll handle them together.
 
 If you're a facilitator with a [fawning](./fawning.md) pattern, this is especially critical. When things get hard and you have to stand up for a participant who's being wronged — or make a call that the crowd won't like — knowing your staff are with you is the difference between acting and freezing. You can face a righteous predator if you know your team won't crumble behind you. You can't if you're not sure.
 
