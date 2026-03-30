@@ -116,7 +116,7 @@ One of the facilitators couldn't see it that way. Her patriarchy filter turned "
 
 That's what a blind spot on your staff looks like in practice. One facilitator with that filter is manageable — someone else on the team can see what she can't. Three facilitators with that filter, and the entire team misreads the room together. No one catches it because they're all seeing the same distortion.
 
-Diversity of perspective on your staff isn't about politics. It's about resilience. A team that sees things the same way works beautifully until the one thing they all can't see is the thing that matters most.
+Check for shared blind spots on your team. A staff that's aligned on values and process is strong. A staff that shares the same [filter](./trauma-and-filters.md) is fragile — because when that filter gets triggered, every single person on the team misreads the room at the same time, and no one is left to see clearly.
 
 ### The Jumpmaster Reframe
 
