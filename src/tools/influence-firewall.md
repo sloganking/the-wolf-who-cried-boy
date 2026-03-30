@@ -28,9 +28,9 @@ Here's what was actually installed in you, sentence by sentence:
 | "I'm really worried" | Fear |
 | "we need to bring this up with the facilitators" | Urgency, recruitment |
 | "before tonight's session" | Time pressure |
-| "If we don't say something, something worse happens" | Fear, guilt |
-| "that's on us" | Guilt, moral obligation |
-| "we have a responsibility to protect people" | Righteousness |
+| "If we don't say something and something worse happens" | Fear — but sounds like [responsibility](../concepts/responsibility.md). They're correctly recognizing they have power to influence the outcome. The problem isn't the recognition — it's that they're skipping verification and going straight to action. |
+| "that's on us" | Guilt — but sounds like ownership. Real ownership would include owning the possibility that their story is wrong. |
+| "we have a responsibility to protect people" | Righteousness — wrapped in the language of empowerment. They DO have responsibility. But responsibility without verification isn't protection — it's a [mob](../concepts/why-rescuers-are-dangerous.md) with good intentions. |
 
 Every sentence sounded caring. The pattern underneath was: **story → fear → urgency → guilt → recruitment.** No verification. No checking with the people involved. Just interpretation, wrapped in moral obligation, driving you toward action before you've confirmed anything is real.
 
