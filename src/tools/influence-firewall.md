@@ -8,7 +8,7 @@
 
 Someone pulls you aside at a retreat and says:
 
-> "I need to talk to you about something. Last night, I saw Jake with that new girl and something didn't look right. She seemed uncomfortable. I don't know if she was okay with what was happening. I've been thinking about it all morning and I'm really worried. I think we need to bring this up with the facilitators before tonight's session. If we don't say something and something worse happens, that's on us. I know it's awkward, but we have a responsibility to protect people in this space."
+> "I need to talk to you about something. Last night, I saw Jake with that new girl and something didn't look right. She seemed uncomfortable. I feel like she wasn't okay with what was happening. I've been thinking about it all morning and I'm really worried. I think we need to bring this up with the facilitators before tonight's session. If we don't say something and something worse happens, that's on us. I know it's awkward, but we have a responsibility to protect people in this space."
 
 Notice what you felt reading that. Maybe concern. Maybe urgency. Maybe the impulse to act — to go find a facilitator, to do something *now*, before someone gets hurt.
 
@@ -21,7 +21,7 @@ Here's what was actually installed in you, sentence by sentence:
 | "I need to talk to you about something" | Urgency, recruitment |
 | "something didn't look right" | Story presented as fact |
 | "She seemed uncomfortable" | Interpretation, unverified |
-| "I don't know if she was okay" | Uncertainty — but acting on it anyway |
+| "I feel like she wasn't okay" | Interpretation presented as feeling — skips verification |
 | "I've been thinking about it all morning" | Emotional investment presented as evidence |
 | "I'm really worried" | Fear |
 | "we need to bring this up with the facilitators" | Urgency, recruitment |
