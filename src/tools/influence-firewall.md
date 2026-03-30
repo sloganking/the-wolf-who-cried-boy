@@ -38,6 +38,34 @@ That's not necessarily manipulation. This person might genuinely be scared and g
 
 This is how [righteous predation](../concepts/why-rescuers-are-dangerous.md) begins. Not with someone deciding to cause harm. With someone feeling afraid and spreading that fear to others who also don't verify.
 
+### Same Concern, Two Paths
+
+Here's the thing that makes righteous predation so hard to catch: the person above did something *right*. They were attuned. They noticed something that might be a problem. Being attentive to what's happening around you and caring enough to act — that's a genuinely valuable skill.
+
+The failure isn't in the seeing. It's in what they did with what they saw.
+
+A righteous predator and a genuinely responsible person start in the exact same place: *I noticed something that might be wrong.* The fork happens at one moment — do you treat your observation as certain, or as uncertain?
+
+Here's what the same concern sounds like from someone who verifies:
+
+> "Hey, I wanted to check something with you. Last night I saw Jake with that new girl and something felt off to me — she seemed uncomfortable at one point. I could be wrong. I don't know what was actually going on between them. Have you noticed anything, or am I reading into it? I'm wondering if it's worth checking in with her — not to make a thing of it, but just to see if she's good."
+
+| What they say | What it installs |
+|---|---|
+| "I wanted to check something with you" | Collaboration, not recruitment |
+| "something felt off to me" | Owns the observation as subjective |
+| "she seemed uncomfortable at one point" | Specific, not sweeping |
+| "I could be wrong" | Acknowledges uncertainty |
+| "I don't know what was actually going on" | Doesn't fill the gap with story |
+| "Have you noticed anything?" | Seeks other perspectives |
+| "am I reading into it?" | Open to being wrong |
+| "checking in with her" | Goes to the source, not to a mob |
+| "not to make a thing of it" | No urgency, no escalation |
+
+Pattern: **observation → owned uncertainty → curiosity → verification → proportional next step.** Same concern. Same attunement. Completely different path — because every sentence holds space for the possibility that their story is wrong.
+
+The difference between these two people isn't character. It isn't intelligence. It isn't how much they care. It's one step: **did you treat your story as fact, or as something to check?** A righteous predator is an attentive, caring person who skipped verification. That's it. One skipped step is the entire distance between protection and predation.
+
 ---
 
 ## The Tool
