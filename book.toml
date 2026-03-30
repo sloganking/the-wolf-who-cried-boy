@@ -12,4 +12,4 @@ default-theme = "coal"
 preferred-dark-theme = "coal"
 git-repository-url = "https://github.com/sloganking/the-wolf-who-cried-boy"
 
-[output.pdf]
+# [output.pdf]  # Disabled during serve — causes build to split into docs/html/ and docs/pdf/, breaking mdbook serve

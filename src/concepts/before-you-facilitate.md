@@ -90,6 +90,22 @@ If you have staff or assistants, consider their state too.
 
 Think of it like meals at a retreat. If nobody had eaten in 24 hours, you wouldn't push forward with the curriculum. You'd stop and feed everyone first. Same logic.
 
+### Friction Check Your Staff
+
+Most facilitators choose staff who are nice, polite, experienced, and easy to be around. They check for the happy path — *will this person be pleasant to work with when everything goes well?*
+
+They don't check for the unhappy path.
+
+When someone makes a mistake and a [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) mobilizes the room against them — and you need to make a tough call that some participants will disagree with — will your staff have your back? Or will they side with the mob because their own [filters](./trauma-and-filters.md) are activated too?
+
+Before your container starts, find out. Have the hard conversations with your team: *What would you do if a participant makes a mistake and another participant over-responds? What if you have to remove someone the crowd thinks is the hero? What if someone you empathize with is the one causing harm?* Listen to how they think. Not what they say they'd do in theory — how they actually reason through it.
+
+If you're a facilitator with a [fawning](./fawning.md) pattern, this is especially critical. When things get hard and you have to stand up for a participant who's being wronged — or make a call that the crowd won't like — knowing your staff are with you is the difference between acting and freezing. You can face a righteous predator if you know your team won't crumble behind you. You can't if you're not sure.
+
+Staff who are wonderful on the happy path but [narrative-locked](./invisible-patterns.md#narrative-lock) on the unhappy path will compound the problem. If two out of three facilitators share the same blind spot — the same filter, the same wound — and something triggers it, you don't get one person's bias. You get the entire facilitation team reinforcing each other's distortion. The container stops being held and starts being driven by the team's shared blind spot.
+
+Diversity of perspective on your staff isn't about politics. It's about resilience. A team that sees things the same way works beautifully until the one thing they all can't see is the thing that matters most.
+
 ### The Jumpmaster Reframe
 
 There's a video of military paratroopers jumping from a plane. Before each jump, a jumpmaster does a final check — gear, straps, everything. In the video, someone is about to jump. Split second from the door. And the jumpmaster sees it: the static line is wrapped around the jumper's neck. If he jumps, he's decapitated.
