@@ -158,6 +158,59 @@ But you can't force that seeing. You can only offer conditions where it might ha
 
 ---
 
+## When the Medicine Is You
+
+Everything above covers active interventions — telling, showing, coaching, talking for. Moves you make.
+
+But sometimes none of them fit. Someone is in [sinsickness](./i-made-a-mistake.md#sinsickness) — deep in a shame loop, attacking their own identity — and telling bounces off, coaching feels like you're trying to skip past their pain, and backing off feels like confirming the story shame is running: _see? Even they couldn't handle being around the real me._
+
+There's something else. It's not active. It's not a technique. It's just staying.
+
+### What Shame Predicts
+
+Shame runs on one prediction: _if they see the real me — the struggling, incapable, broken version — they'll pull away._
+
+Every act of self-attack tests that prediction. "I'm worthless." "I'm a fraud." "I don't know what I'm doing and I'm fucking it up." The pain is real — but underneath, the nervous system is watching what happens next. Do they argue? Do they try to fix it? Do they leave?
+
+Each response confirms the prediction in its own way:
+
+| Response | What shame hears |
+|---|---|
+| Arguing ("You're not worthless!") | They can't accept what they see. Flinch. |
+| Coaching ("What do you actually want?") | They need me to be somewhere else than where I am. |
+| Fixing ("Here's what you should do") | This version of me is a problem to solve. |
+| Leaving ("I'll give you space") | Confirmed. They left. |
+
+None of these are wrong in every context. But when someone is in the grip of shame, every active intervention gets filtered through the shame story and comes out confirming it.
+
+### What Staying Does
+
+Shame didn't install through logic. It installed through experience — moments where being vulnerable was met with rejection, disgust, or withdrawal. It lives in the body. Which means it doesn't update through logic either. It updates through new experience.
+
+Your presence during someone's worst moment is that experience.
+
+You're not telling them they're not broken. You're not arguing with their story. You're there — and your warmth, your steadiness, your refusal to leave or flinch communicates something their nervous system can register even when their mind is locked: _they saw the version of me I'm most afraid of, and they moved closer._
+
+That's [showing](./from-threat-to-ally.md#show-dont-tell). Not showing them an insight. Showing them that shame's prediction was wrong — by being the counter-evidence.
+
+### What This Isn't
+
+This isn't absorbing abuse. If someone is attacking _you_ — your character, your boundaries — you still [set boundaries](./when-youve-been-wronged.md#set-boundaries-about-how-youre-spoken-to). Staying doesn't mean accepting harm directed at you.
+
+This is for the person attacking _themselves_. The friend spiraling after being wrongly labeled. The partner who's exhausted and convinced they're failing at everything. The participant in full [sinsickness](./i-made-a-mistake.md#sinsickness) after a mistake — punishing themselves with a severity that dwarfs what they did. With these people, the most powerful move is often the least active: stay, see them, and let your presence answer the question shame keeps asking.
+
+### What It Looks Like
+
+**Name what you see without telling them to stop.** "I see you being really hard on yourself right now." Not "don't be so hard on yourself" — that's telling, and it bounces off. Just observation. The naming is a gentle mirror — it lets them see what they're doing from outside the loop, without instruction.
+
+**Show that what you see doesn't push you away.** Not by arguing their self-assessment, but through your presence. Your warmth. Your continued engagement. These communicate more than "you're not what you're calling yourself" ever could.
+
+**Don't rush them out of it.** The impulse to make someone feel better is strong. But rushing someone out of shame can signal that their pain is too much for _you_ — which shame reads as more evidence that the real them is unbearable. Let them be where they are. They'll move when they're ready.
+
+You're not going to resolve someone's sinsickness in one conversation. What you're doing is planting counter-evidence. Every time someone is in shame and another person stays — really stays, without flinching — the prediction weakens. The body starts learning: _vulnerability doesn't always end in rejection._ That's not a single breakthrough. It's accumulated proof, built one moment at a time, that shame's core story was never true.
+
+---
+
 ## What This Looks Like in Practice
 
 At an event, I was in a group with a few people. After one exercise, some time passed. When we reconnected, a woman told me she'd fawned. She apologized and said that at first she felt like a victim and was judging me through that lens. Later she realized that wasn't fair, saw her power, and wanted to own her part.
@@ -188,5 +241,6 @@ And here's the deeper irony: if everything looks like manipulation through your 
 
 - [Responsibility](./responsibility.md) — The core concept
 - [Drama Triangle](./drama-triangle.md) — Don't be a Rescuer
+- [I Made a Mistake — Sinsickness](./i-made-a-mistake.md#sinsickness) — When shame attacks identity instead of behavior
 - [Before You Judge](./before-you-judge.md) — Being selfish is hard
 - [When Things Go Wrong](./when-things-go-wrong.md#this-is-the-hardest-lesson) — Honoring the self is the ultimate act of courage
