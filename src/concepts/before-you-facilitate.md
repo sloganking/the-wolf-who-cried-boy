@@ -116,7 +116,7 @@ One of the facilitators couldn't see it that way. Her patriarchy filter turned "
 
 That's what a blind spot on your staff looks like in practice. One facilitator with that filter is manageable — someone else on the team can see what she can't. Three facilitators with that filter, and the entire team misreads the room together. No one catches it because they're all seeing the same distortion.
 
-Check for shared blind spots on your team. A staff that's aligned on values and process is strong. A staff that shares the same [filter](./trauma-and-filters.md) is fragile — because when that filter gets triggered, every single person on the team misreads the room at the same time, and no one is left to see clearly.
+You're not going to find staff with zero filters. That person doesn't exist. What you're checking for is two things: first, that no one on your team has filters so intense they'll overwhelm their judgment when it matters most — the kind that turn participants into enemies the moment a trigger hits. And second, that whatever filters your staff *do* carry are different from each other. A team where one person has a patriarchy filter, another has an authority-wound filter, and a third has a conflict-avoidance filter is resilient — because when one person's filter gets triggered, the other two can still see clearly. A team where everyone shares the same filter is fragile — because when it gets triggered, every single person on the team misreads the room at the same time, they all reinforce each other's distortion, and no one is left to say *wait, I'm seeing something different.*
 
 ### The Jumpmaster Reframe
 
