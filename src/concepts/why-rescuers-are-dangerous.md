@@ -327,6 +327,7 @@ The Inquisitor never questioned his certainty. That's why he could torture with 
 > **There is no greater danger than being certain you're right.**
 
 > **"Doing what's right often means opposing the righteous."**  
+> 
 > — _Logan King_
 
 ---
