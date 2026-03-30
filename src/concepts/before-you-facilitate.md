@@ -388,9 +388,13 @@ This is why the promise needs to be made by the *entire facilitation team*, not 
 
 Everything above assumes the facilitator acts. But what happens when they don't?
 
-A participant makes a LOW-severity [unconscious mistake](./types-of-mistakes.md) — a one-second boundary crossing, immediately recognized. Another participant responds with threats of violence, public attacks on their reputation, and demands that the person who made the mistake be removed. The facilitator watches this happen. They know the response is wildly disproportionate. They know the mistake was minor. They know the person making threats is the one creating danger. And they do nothing — because they're afraid.
+A participant makes a LOW-severity [unconscious mistake](./types-of-mistakes.md) — a one-second boundary crossing, immediately recognized. They repair with the person whose boundary was crossed that same night. She says she feels complete. By all accounts, it's handled.
+
+Then another participant responds with threats of violence, public attacks on their reputation, and demands that the person who made the mistake be removed. The facilitator watches this happen. They know the response is wildly disproportionate. They know the mistake was minor. They know the person making threats is the one creating danger. And they do nothing — because they're afraid.
 
 That's facilitator fawning. And it's the most damaging form of [under-response](./appropriate-response.md#under-response-the-invisible-failure) in a container, because the facilitator's silence doesn't just fail to stop the harm. It *endorses* it.
+
+Here's what makes this so painful to look at in hindsight: the difference between a forgettable incident and months of lasting harm is usually a few decisions made in the first hour. The original mistake — a one-second boundary crossing, already repaired — was a few hours of discomfort at most. Everything after that is determined by how the facilitator handles it. Remove the public defamation before anyone sees it, handle the righteous predator privately instead of giving them a stage, provide context to the group before the angry person's story becomes the only story — and the person who made the mistake goes home thinking *that was a rough night.* Not *my life was destroyed.* Almost all of the suffering comes from the handling, not the incident.
 
 ### Why Facilitator Silence Is Different
 
@@ -446,9 +450,13 @@ The facilitator was afraid of exactly what happened to the participant — havin
 
 **Name it immediately.** When threats of violence happen, say it out loud: *"Threats of violence are not acceptable in this container. If they continue, you will be asked to leave."* This isn't confrontation. It's the promise being honored. The decision was already made before the fear showed up.
 
-**Provide context before public processing.** Before the group hears any version of the story, the people directly involved should speak first — starting with the person whose boundary was actually crossed. If that person says they feel complete, the group needs to hear that *before* the righteous predator frames the narrative.
+**Handle it privately first — don't give the righteous predator a stage.** If someone is making threats and attacking another participant's reputation, the worst thing you can do is put them in front of the entire group and let them perform their rage with an audience. Every participant who watches becomes a witness to the narrative you're allowing to be broadcast. Handle it privately: talk to the righteous predator alone, talk to the person who was wronged alone, establish what actually happened, set boundaries — and THEN decide what the group needs to hear, and frame it yourself. The group should hear your framing first, not the angriest person's. Every minute you delay is a minute the righteous predator's story spreads unchecked.
 
-**Facilitate, don't spectate.** A "sharing ritual" where two people yell at each other while the facilitator watches isn't facilitation. It's abdication. If you set up a format, guide it. Interject when someone makes threats. Point out what's happening. The group is looking to you to help them see clearly.
+**Provide context before public processing.** If the group does need to hear about what happened, the people directly involved should speak first — starting with the person whose boundary was actually crossed. If that person says they feel complete, the group needs to hear that *before* the righteous predator frames the narrative.
+
+**If there are threats of violence, both people may need to leave.** The person receiving threats leaves for their safety — with a full refund and an explicit invitation back. The person making threats leaves because they violated the container's agreements — with clear conditions for what needs to happen before they can return. The facilitators handle the group without either person present. This isn't punishment for the person who made the original mistake. It's protection. And calling it what it is — protection, not exile — matters.
+
+**Facilitate, don't spectate.** If you do set up a format for two people to process together, guide it. Interject when someone makes threats. Point out what's happening. The group is looking to you to help them see clearly.
 
 **Protect reputation immediately.** If someone's reputation has been publicly attacked in your container — their name written somewhere visible as defamation, accusations made in front of the group — pause the container and address it before anything else. Don't continue the schedule while one of your people has been publicly disgraced. Taking care of them first — before the agenda, before the curriculum — shows everyone that you value people over process.
 
