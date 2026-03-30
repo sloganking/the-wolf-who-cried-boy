@@ -92,6 +92,24 @@ Even if you don't set a hard rule, do a vibe check. You can feel it when someone
 
 Think of it like meals at a retreat. If nobody had eaten in 24 hours, you wouldn't push forward with the curriculum. You'd stop and feed everyone first. Same logic.
 
+### The Jumpmaster Reframe
+
+There's a video of military paratroopers jumping from a plane. Before each jump, a jumpmaster does a final check — gear, straps, everything. In the video, someone is about to jump. Split second from the door. And the jumpmaster sees it: the static line is wrapped around the jumper's neck. If he jumps, he's decapitated.
+
+The jumpmaster grabs him. Shoves him back. Saves his life.
+
+That pre-check isn't bureaucracy. It's love.
+
+When I require my staff to be sexually satisfied before working my events, I'm not just protecting participants. I'm protecting *them*. I'm the jumpmaster — catching something that could hurt them before they jump.
+
+If you're sexually starved and you make an [unconscious mistake](./types-of-mistakes.md), you don't just harm the participant. You harm yourself — your reputation, your standing, your self-image. By saying "you can't work here until you're fed," I'm saying: *Go take care of yourself. I won't let you jump with a rope around your neck.*
+
+### This Is Taking Responsibility
+
+This isn't indulgence. It's [responsibility](./responsibility.md).
+
+You're in a position where your state affects others. Taking care of yourself — including sexually — reduces the risk of [unconscious mistakes](./types-of-mistakes.md). Feed yourself first. Then you can hold space for others without your hunger getting in the way.
+
 ### Friction Check Your Staff
 
 Most facilitators choose staff who are nice, polite, experienced, and easy to be around. They check for the happy path — *will this person be pleasant to work with when everything goes well?*
@@ -114,27 +132,11 @@ I watched this happen at a retreat. There was a sharing ritual where all the wom
 
 One of the facilitators couldn't see it that way. Her patriarchy filter turned "people feeling left out" into "men trying to take more than they deserve." Men and women were both expressing a completely ordinary disappointment: *some of us got to be heard and some didn't.* But her [story](./trauma-and-filters.md) about men and power overwrote what was actually in front of her. She couldn't empathize with people wanting to be heard — because her filter had already categorized it as oppression. She felt distressed and resentful toward the participants who were asking for more sharing time. The people she was supposed to be serving had become the enemy — not because of anything they did, but because of the story she was seeing them through.
 
-That's what a blind spot on your staff looks like in practice. One facilitator with that filter is manageable — someone else on the team can see what she can't. Three facilitators with that filter, and the entire team misreads the room together. No one catches it because they're all seeing the same distortion.
+What made it worse: there were more men than women at this retreat. The men were already experiencing a compounding scarcity — fewer women to connect with at a sex-positive event where connection is the whole point. Not getting to share was landing on top of that. Her filter was so locked on "men taking too much" that the actual landscape of the container — men who already had *less*, now getting even less, and being resented for noticing — was completely invisible to her. Her [attention](./trauma-and-filters.md) was on one thing, and the thing that was probably shaping the men's experience more than anything else wasn't even in her field of vision.
+
+That's what a blind spot on your staff looks like in practice. One facilitator with that filter is manageable — someone else on the team can see what she can't, and more importantly, can take over when she's triggered so the container stays in steady hands instead of emotionally charged ones. Three facilitators with that filter, and the entire team misreads the room together. No one catches it because they're all seeing the same distortion — and no one is left to hold the container while the others are activated.
 
 You're not going to find staff with zero filters. That person doesn't exist. What you're checking for is two things: first, that no one on your team has filters so intense they'll overwhelm their judgment when it matters most — the kind that turn participants into enemies the moment a trigger hits. And second, that whatever filters your staff *do* carry are different from each other. A team where one person has a patriarchy filter, another has an authority-wound filter, and a third has a conflict-avoidance filter is resilient — because when one person's filter gets triggered, the other two can still see clearly. A team where everyone shares the same filter is fragile — because when it gets triggered, every single person on the team misreads the room at the same time, they all reinforce each other's distortion, and no one is left to say *wait, I'm seeing something different.*
-
-### The Jumpmaster Reframe
-
-There's a video of military paratroopers jumping from a plane. Before each jump, a jumpmaster does a final check — gear, straps, everything. In the video, someone is about to jump. Split second from the door. And the jumpmaster sees it: the static line is wrapped around the jumper's neck. If he jumps, he's decapitated.
-
-The jumpmaster grabs him. Shoves him back. Saves his life.
-
-That pre-check isn't bureaucracy. It's love.
-
-When I require my staff to be sexually satisfied before working my events, I'm not just protecting participants. I'm protecting *them*. I'm the jumpmaster — catching something that could hurt them before they jump.
-
-If you're sexually starved and you make an [unconscious mistake](./types-of-mistakes.md), you don't just harm the participant. You harm yourself — your reputation, your standing, your self-image. By saying "you can't work here until you're fed," I'm saying: *Go take care of yourself. I won't let you jump with a rope around your neck.*
-
-### This Is Taking Responsibility
-
-This isn't indulgence. It's [responsibility](./responsibility.md).
-
-You're in a position where your state affects others. Taking care of yourself — including sexually — reduces the risk of [unconscious mistakes](./types-of-mistakes.md). Feed yourself first. Then you can hold space for others without your hunger getting in the way.
 
 ### Don't Watch Horror Before Temple
 
