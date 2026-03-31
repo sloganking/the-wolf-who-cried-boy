@@ -722,6 +722,11 @@ This isn't about performing confidence you don't feel. It's about a principle Ka
 
 Whatever you reveal, the other person takes their emotional cue from your state. If you feel awful about your wound, they'll feel awful about it — or not want to be near it. If you own it without shame, they'll meet it without shame. The wound is just information. Your body decides whether that information is a confession or an invitation.
 
+> **"I hear people all the time say things like, 'Man, this is the most horrible thing in the world. This is so terrible. Someday, someday I know I will look back and will laugh about this.' I say, why wait? Let's look back and laugh now."**  
+> — _Tony Robbins_
+
+You don't have to wait until the wound is healed to stop suffering about it. You don't have to wait until you're on the other side to carry it lightly. The shibari woman wasn't telling me to pretend the seven years didn't happen. She was telling me to laugh about it *now* — and let the laughter be the signal that tells the other person *this doesn't own me.*
+
 Some people will leave. Good. They would have left anyway — the wound always surfaces — except now they leave before either of you is invested. Before it hurts. Before anyone feels deceived.
 
 Some people will stay. And the ones who stay are staying for the actual you — wound included. Their yes is a real yes. You don't have to manage the reveal. You don't have to brace for the moment they discover who you really are. They already know. They chose this.
