@@ -714,7 +714,7 @@ Same wound, two presentations, completely different responses.
 
 Early in my journey into these spaces, a woman was tying me up in a shibari session. She asked how long it had been since I'd had sex. I said two years — though the real number was closer to seven. She said something like *oh my gosh, that's so long* — genuine surprise, nothing cruel — and I went into a full panic attack. Because I was terrified of anyone knowing. I thought it meant something about me. I thought if she knew the real number, she'd see me as broken, unlovable, pathetic.
 
-After the scene, she told me something I've never forgotten. She said: *You can say it's been seven years, make it mean something terrible about yourself, and cry and withdraw from the person offering you love. Or — and this is what I personally would find very charming — you could say "yeah, it's been seven years... want to reset the clock?" with a devilish smile. Use it as a playing card.*
+After the scene, she told me something I've never forgotten. She said: *You can say it's been seven years, make it mean something terrible about yourself, and cry and withdraw from the person offering you love. Or — and this is what I personally would find very charming — you could say "yeah, it's been seven years... want to reset the clock?" with a devilish smile and a wink. Use it as a playing card.*
 
 Same information. Same wound. Completely different energy. One version makes the other person want to back away. The other makes them want to lean in.
 
@@ -732,7 +732,7 @@ That's consent. Real consent. The kind that holds when pressure hits — because
 
 When someone loves you knowing the wound is there — not despite it, not to fix it, just *with* it — your nervous system gets data it has never had before.
 
-The old prediction was: *if they see this, they leave.* The new evidence is: *they saw it, and they stayed.*
+The old prediction was: *if they see this, they leave.* The new evidence is: *a lot of them saw it, and they stayed.*
 
 That's the [belief-shattering](#practice-saying-yes-to-your-own-desire) you've been trying to create through self-improvement, through therapy, through making yourself good enough to deserve love. And it couldn't happen — because you kept hiding the thing that needed to be seen.
 
