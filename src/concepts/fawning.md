@@ -706,7 +706,9 @@ And it's not just the eventual reveal that fails. People can sense inauthenticit
 
 Not as a trauma dump. Not as a test. As information. The same way you'd tell someone before play that you have a [fawning pattern](#the-empowered-fawners-practice) — so they can make an informed choice about whether to engage.
 
-*I'm wounded in this way. This is what I need. This is what I'm like when it surfaces. I'm not hiding it from you, and I'm not asking you to fix it. I'm telling you what's real so you can decide if you want to be here for the real thing.*
+*I have a wound in this area. This is what I need. This is what I'm like when it surfaces. I'm not hiding it from you, and I'm not asking you to fix it. I'm telling you what's real so you can decide if you want to be here for the real thing.*
+
+Notice the language: *I have a wound* — not *I am wounded.* One describes something you're carrying. The other makes it your identity. "I am wounded" is a [story](./trauma-and-filters.md) that turns a temporary state into a permanent self — and once you identify as the wound, you stop believing it can heal. You start filtering every experience through it. You become someone who *is* broken rather than someone who *has* something that hurts. The wound is something that happened to you and lives in you. It's not who you are.
 
 **But how you carry it changes everything.**
 
