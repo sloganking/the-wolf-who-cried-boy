@@ -720,7 +720,14 @@ After the scene, she told me something I've never forgotten. She said: *You can 
 
 Same information. Same wound. Completely different energy. One version makes the other person want to back away. The other makes them want to lean in.
 
-When I was hiding the seven years, I was treating my experience as a disadvantage — proof that something was wrong with me. But carried differently, it became an advantage I never expected. They've already connected to you as a human being. They already like you. They're already interested. And then they hear your pain — and something in them says *well, that just won't do. I'm just going to have to love him.* Genuine empathy and attraction and desire come together. If you let them, women will love you. Not despite the wound. *Through* it. The wound wasn't keeping them away. The hiding was — the mask, the inauthenticity, the shame radiating off me. When I stopped treating my experience as a disqualifier and started treating it as a playing card, the thing I thought made me unlovable turned out to be one of the most attractive things about me.
+#### Your Wounds Are Advantages — If You Let Them Be
+
+When I was hiding the seven years, I was treating my experience as a disadvantage — proof that something was wrong with me. But carried differently, it became an advantage I never expected. They've already connected to you as a human being. They already like you. They're already interested. And then they hear your pain — and something in them says *well, that just won't do. I'm just going to have to love him.* Genuine empathy and attraction and desire come together. If you let them, women will love you. Not despite the wound. *Through* it.
+
+> **"Women are marvelous reflectors. They will respond and meet a man exactly where he is at. They will treat him in exactly the way he asks to be treated. It is up to men to create the kind of experiences they want with women. It is up to men to describe to women exactly what they desire from them and exactly how they want it to be. This is the supreme task of men when it comes to women: we teach women how to treat us. Women only give us what we ask for, even if we have no idea we asked for anything at all."**  
+> — _Zan Perrion, The Alabaster Girl_
+
+The wound wasn't keeping them away. The hiding was — the mask, the inauthenticity, the shame radiating off me. I was asking to be treated as unlovable without knowing I was asking. When I stopped treating my experience as a disqualifier and started treating it as a playing card, the thing I thought made me unlovable turned out to be one of the most attractive things about me.
 
 **Whatever you believe about your wound, they'll believe too.**
 
