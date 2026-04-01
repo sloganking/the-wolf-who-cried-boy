@@ -211,7 +211,7 @@ The next morning, I found her at breakfast and told her I'd had a panic attack a
 
 And something clicked. She *had* told me. She'd told me plainly, directly, with no ambiguity. I just hadn't believed her. My filter had rewritten her words into what my wound needed to hear.
 
-Months later, I saw the same filter running in the other direction. A different woman asked me directly what I wanted to do with her. I said almost nothing — because my filter told me that saying *I want you* would get me rejected or attacked. She was telling me to speak. I couldn't hear that either. Same filter, opposite situation: with one woman, *no* became *maybe*. With another, *tell me what you want* became *don't you dare.* That's [reverse fawning](./fawning.md#fawning-can-happen-in-reverse) — not saying yes when you mean no, but saying no when you mean yes, because expressing desire feels as dangerous as refusing someone.
+Months later, I saw the same filter running in the other direction. A different woman asked me directly what I wanted to do with her. I said almost nothing — because my filter told me that saying *I want you* would get me rejected or attacked. She was telling me to speak. I couldn't hear that either. Same filter, opposite situation: with one woman, *no* became *maybe*. With another, *tell me what you want* became *don't you dare.* That's [reverse fawning](./healing-fawning.md#fawning-can-happen-in-reverse) — not saying yes when you mean no, but saying no when you mean yes, because expressing desire feels as dangerous as refusing someone.
 
 > ***"These women are literally telling me what they want and I'm just not listening. Out of fear their words mean something else."***
 >
@@ -428,7 +428,7 @@ And you will always have some. The goal was never to escape every filter. It's t
 
 ### When Beliefs Cascade
 
-But sometimes you don't find the edge of a belief. Sometimes the belief finds the edge of *you* — and [shatters](./fawning.md#practice-saying-yes-to-your-own-desire). Not gradually. Not through insight. Through lived experience so intense the old prediction can't survive. And when that happens, something unexpected follows: the beliefs around it start to crack too.
+But sometimes you don't find the edge of a belief. Sometimes the belief finds the edge of *you* — and [shatters](./healing-fawning.md#practice-saying-yes-to-your-own-desire). Not gradually. Not through insight. Through lived experience so intense the old prediction can't survive. And when that happens, something unexpected follows: the beliefs around it start to crack too.
 
 The belief you were most certain about was load-bearing. It held up an entire structure: *the world works this way, people are like this, I can't have that.* When that one collapses, the structure it was supporting doesn't just develop a gap. The whole thing becomes suspect. *If I was wrong about the thing I was most sure of — the thing reinforced by years of evidence and suffering and meaning-making — what else am I wrong about?*
 

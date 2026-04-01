@@ -198,7 +198,7 @@ Neither serves you. Find the middle: "I made a MEDIUM mistake. I wish I hadn't. 
 **Use the reframes from this book.**
 
 - Their over-response is them [using the power that comes with being wronged](./drama-triangle.md#victim) to inflict consequences that don't match what happened
-- You can [rescind the privilege of your touch](./fawning.md#your-touch-is-a-privilege) from people who don't respect it
+- You can [rescind the privilege of your touch](./healing-fawning.md#your-touch-is-a-privilege) from people who don't respect it
 - Being attacked doesn't make you a predator any more than their accusations make them right
 - You are still a [Creator](./drama-triangle.md#creator), not a Victim—you can choose how to respond
 
@@ -268,7 +268,7 @@ Here's what was missing:
 
 **Tell the facilitator what you want.** Not just what happened — what you want done about it. "I want to know what consequences this person is facing." "I want an acknowledgment that what happened to me in your container wasn't okay." "I want to know this person won't be welcomed back without accountability." Say it clearly. This is [talking *for*](./why-helping-is-hard.md#talk-for-not-about) — for yourself, for the outcome you need.
 
-**If they don't act, say so.** "You heard what happened. Nothing has been done. I need to know why." This is the step that feels the most like the [reverse bike](./fawning.md#the-reverse-bike) — every instinct says to accept, to move on, to be grateful they listened at all. That instinct is fawning. Name it and override it.
+**If they don't act, say so.** "You heard what happened. Nothing has been done. I need to know why." This is the step that feels the most like the [reverse bike](./healing-fawning.md#the-reverse-bike) — every instinct says to accept, to move on, to be grateful they listened at all. That instinct is fawning. Name it and override it.
 
 **If the facilitator is fawning — if they're avoiding confrontation with the person who wronged you because they're afraid of them — tell them directly.** "You're not enforcing the agreements of this container." A facilitator who fawns when a participant needs protection is [causing harm through inaction](./before-you-facilitate.md#when-the-facilitator-fawns). You have the right to name that.
 
@@ -535,7 +535,7 @@ Not once. Repeatedly. Until the new pattern overwrites the old one.
 
 And somewhere along the way, you might have the realization: _Wait—that's it? That's all that happens? I've felt terror about this my whole life, and the actual consequence is... this tiny thing?_
 
-This is what the [fawning exercise](./fawning.md#how-to-actually-heal) does. It creates controlled situations where you practice the completion of the pattern—letting discomfort build until anger arises, then saying no. Your body learns: _I can do this. I survived. The thing I feared didn't destroy me._
+This is what the [fawning exercise](./healing-fawning.md#how-to-actually-heal) does. It creates controlled situations where you practice the completion of the pattern—letting discomfort build until anger arises, then saying no. Your body learns: _I can do this. I survived. The thing I feared didn't destroy me._
 
 Each time you do this, the old belief weakens. The anticipation of powerlessness fades. Because your body now has counter-evidence.
 

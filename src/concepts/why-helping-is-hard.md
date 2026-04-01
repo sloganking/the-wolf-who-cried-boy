@@ -198,7 +198,7 @@ The voice that says "you're worthless," "you're incapable," "you're a fraud" —
 
 At some point, you were in a situation like this one — struggling, uncertain, exposed — and someone responded with disapproval, attack, or withdrawal. That experience recorded as an emotional association: _I was vulnerable → I got hurt._ Now, whenever you're in a similar situation, the voice plays the recording preemptively. It's trying to keep you in line before the tribe notices and casts you out.
 
-The voice is doing what [fawning](./fawning.md) does — submitting to a threatening presence to stay safe. Except the threatening presence isn't in the room anymore. It's [in your head](./fawning.md#fawning-to-yourself). You're obeying the internalized voice of someone who once had power over you, because your nervous system still believes that disobeying means abandonment.
+The voice is doing what [fawning](./fawning.md) does — submitting to a threatening presence to stay safe. Except the threatening presence isn't in the room anymore. It's [in your head](./healing-fawning.md#fawning-to-yourself). You're obeying the internalized voice of someone who once had power over you, because your nervous system still believes that disobeying means abandonment.
 
 When someone else is in this loop — calling themselves worthless, attacking their own identity — their nervous system is watching the room the same way. Not consciously. But underneath: _do they flinch? Do they argue? Do they try to fix me? Do they leave?_
 

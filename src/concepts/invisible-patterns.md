@@ -65,7 +65,7 @@ These patterns are everywhere — in play spaces, in relationships, in professio
 >
 > **Person D — The [Fawner](./fawning.md):** The people most afraid of their boundaries being violated are the least likely to say no — and get the most people touching them in ways they don't want.
 >
-> **Person E — The [Reverse Fawner](./fawning.md#fawning-can-happen-in-reverse):** The people most afraid of expressing desire say no when they mean yes — and starve in front of a feast. They want desperately, but their body treats honesty as a threat, so they suppress, decline, and perform indifference while the thing they need most stands right in front of them.
+> **Person E — The [Reverse Fawner](./healing-fawning.md#fawning-can-happen-in-reverse):** The people most afraid of expressing desire say no when they mean yes — and starve in front of a feast. They want desperately, but their body treats honesty as a threat, so they suppress, decline, and perform indifference while the thing they need most stands right in front of them.
 
 All five are the same mechanism: **fear creates a behavior that produces the outcome the fear predicted.**
 

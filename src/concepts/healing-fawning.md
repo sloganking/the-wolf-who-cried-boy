@@ -1,4 +1,4 @@
-﻿# Healing Fawning
+# Healing Fawning
 
 ---
 
@@ -82,7 +82,7 @@ Those stories became my [compass](./i-made-a-mistake.md#find-your-compass). When
 > **"I want you to listen to me very carefully, Harry. You're not a bad person. You're a very good person who bad things have happened to. Besides, the world isn't split into good people and Death Eaters. We've all got both light and dark inside us. What matters is the part we choose to act on. That's who we really are."**  
 > — _Harry Potter and Sirius Black, Harry Potter and the Order of the Phoenix_
 
-And here's what finally moved me. Not therapy. Not insight. Not "I should probably do something about this." The certainty that I would be dead within months if I didn't figure this out grew larger than the certainty my body felt that I would die if I talked to a woman or expressed my attraction. Two competing survival signals — and the real one finally won. I started acting. Reaching out. Asking for touch, for connection, for love. Clumsy, terrified, and acting anyway. Not because I figured it out intellectually. Because I had no other option left. That's what made me do the things I should have done years earlier — reach out, ask for what I need, accept love, [stop hiding the wound](./fawning.md#hiding-the-wound).
+And here's what finally moved me. Not therapy. Not insight. Not "I should probably do something about this." The certainty that I would be dead within months if I didn't figure this out grew larger than the certainty my body felt that I would die if I talked to a woman or expressed my attraction. Two competing survival signals — and the real one finally won. I started acting. Reaching out. Asking for touch, for connection, for love. Clumsy, terrified, and acting anyway. Not because I figured it out intellectually. Because I had no other option left. That's what made me do the things I should have done years earlier — reach out, ask for what I need, accept love, [stop hiding the wound](./healing-fawning.md#hiding-the-wound).
 
 If you recognize yourself in any of this, here's what I want you to hear.
 
@@ -320,7 +320,7 @@ The same [three-sentence tool](./guiding-public-repair.md#speaking-truth-instead
 
 4. **Cement.** One small action that locks the decision in place. Send one text. Say one yes. Make one move so you can't drift back into the fog. The decision becomes real when your body does something about it — not when your mind finishes deliberating. You don't owe the voice a rebuttal. You don't close the debate — you were never in one. You just walk forward.
 
-Every time you hold this line, your body learns something. Maybe something good happens — you told the truth and the other person respected you more for it. Now you have pleasure associated with speaking truth, which is what you want. Maybe it wasn't as bad as you feared — the punishment your body predicted never arrived. Or maybe something hard DID happen — and you handled it. You survived. You asked the [responsibility](./responsibility.md) questions, learned from it, and discovered that the story of "if this goes wrong, it's the end of my life and I can never recover" was false. Next time, you feel more confident — not because nothing went wrong, but because you showed yourself you're bigger than the fear. That's the [reverse bike](./fawning.md#the-reverse-bike) going forward.
+Every time you hold this line, your body learns something. Maybe something good happens — you told the truth and the other person respected you more for it. Now you have pleasure associated with speaking truth, which is what you want. Maybe it wasn't as bad as you feared — the punishment your body predicted never arrived. Or maybe something hard DID happen — and you handled it. You survived. You asked the [responsibility](./responsibility.md) questions, learned from it, and discovered that the story of "if this goes wrong, it's the end of my life and I can never recover" was false. Next time, you feel more confident — not because nothing went wrong, but because you showed yourself you're bigger than the fear. That's the [reverse bike](./healing-fawning.md#the-reverse-bike) going forward.
 
 Every time you fawn to the voice instead — argue with it, go back and forth, withhold your truth — your body learns: *the voice is right. I can't be trusted. My desires really are selfish.* And the next decision gets harder. You never show yourself that anything else is possible.
 

@@ -318,7 +318,7 @@ Over-responders feel their HIGH response is proportional because trauma inflates
 
 For fawners, a proportional response FEELS like an over-response. Setting a firm boundary feels selfish. Asking for what would make it right feels like too much. Expressing anger feels dangerous. Your feeling-meter has been miscalibrated by decades of going small — so you can't trust the feeling. You have to check the math instead.
 
-This means: **if your response feels a little selfish, it's probably proportional.** And if it feels proportional, it's probably too small. You're going to have to [reverse bike](./fawning.md#the-reverse-bike) your way into proportional response — practicing advocacy that feels uncomfortable until your nervous system recalibrates and discovers that standing up for yourself doesn't destroy you. Every proportional response will feel like an over-response in the beginning. That feeling isn't evidence you're doing too much. It's evidence of how much you've been doing too little.
+This means: **if your response feels a little selfish, it's probably proportional.** And if it feels proportional, it's probably too small. You're going to have to [reverse bike](./healing-fawning.md#the-reverse-bike) your way into proportional response — practicing advocacy that feels uncomfortable until your nervous system recalibrates and discovers that standing up for yourself doesn't destroy you. Every proportional response will feel like an over-response in the beginning. That feeling isn't evidence you're doing too much. It's evidence of how much you've been doing too little.
 
 ### If You See an Over-Response and Don't Act
 
