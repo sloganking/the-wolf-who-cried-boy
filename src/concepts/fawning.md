@@ -416,8 +416,10 @@ Here's what I found at the bottom: my heart was still there. Underneath the rage
 
 Those stories became my [compass](./i-made-a-mistake.md#find-your-compass). When the dark feelings tried to tell me who I was, the stories reminded me who I actually am. Not the rage. Not the vengeance. The person whose heart breaks at the right things.
 
-> **"You're not a bad person. You're a very good person who bad things have happened to. Besides, the world isn't split into good people and Death Eaters. We've all got both light and dark inside us. What matters is the part we choose to act on. That's who we really are."**  
-> — _Sirius Black, Harry Potter and the Order of the Phoenix_
+> **"I just feel so angry all the time. And what if after everything that I've been through, something's gone wrong inside me? What if I'm becoming bad?"**
+>
+> **"I want you to listen to me very carefully, Harry. You're not a bad person. You're a very good person who bad things have happened to. Besides, the world isn't split into good people and Death Eaters. We've all got both light and dark inside us. What matters is the part we choose to act on. That's who we really are."**  
+> — _Harry Potter and Sirius Black, Harry Potter and the Order of the Phoenix_
 
 And here's what finally moved me: the pain of staying where I was became greater than the fear of acting. After years of being terrified — of rejection, of being seen, of asking for what I needed — the alternative became worse. Death. Not metaphorically. My body had made it clear: either something changes, or this ends. And when that threshold crossed — when the certainty that I would not survive another year of this outweighed every fear that had kept me frozen — I started acting. Reaching out. Asking for touch, for connection, for love. Clumsy, terrified, and acting anyway. Not because I figured it out intellectually. Because I had no other option left.
 
