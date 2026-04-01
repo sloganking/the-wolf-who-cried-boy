@@ -194,9 +194,11 @@ And this is where [your repair is a privilege](./fawning.md#your-touch-is-a-priv
 
 [Keep showing yourself.](./i-made-a-mistake.md#the-response-to-misunderstanding) Your consistent presence — standing your ground, showing up with integrity, refusing to perform shame — becomes evidence that contradicts their story. Not everyone will see it. The ones who can will.
 
-But here's what needs to be acknowledged: **when you make a mistake, you damage trust.** That's real. People around you become less certain that you're safe to be around. Less certain you're a friend and not a problem. That's not just their filters — that's a legitimate response to something you did. And it needs to be addressed, not ignored.
+### What Actually Rebuilds Trust
 
-The question is: what actually rebuilds trust?
+Standing your ground doesn't mean ignoring that trust was damaged. **When you make a mistake, you damage trust.** That's real. People around you become less certain that you're safe to be around. Less certain you're a friend and not a problem. That's not just their filters — that's a legitimate response to something you did. And it needs to be addressed, not ignored.
+
+The question is: what actually rebuilds it?
 
 Not exile. Absence provides zero evidence of change. You come back after a year and you're still the person who made the mistake — except now you're also a stranger. Nobody got new data about you. The trust wasn't rebuilt. It was just paused.
 
