@@ -88,7 +88,7 @@ And her? She has the sympathy of everyone in the room. She has moral authority. 
 
 **The person who was physically helpless holds almost all the power in the aftermath. The person who had physical freedom faces the most catastrophic consequences.**
 
-This isn't about who *should* be protected — both should. It's about seeing what's actually there. The man in that scene isn't just touching her body. He's trusting her with his reputation, his community, his future. [Your touch is a privilege](./fawning.md#your-touch-is-a-privilege) — and so is your vulnerability. When you make yourself physically vulnerable with someone, you're giving them enormous power over the narrative of what happened — and through that, power over your entire life.
+This isn't about who *should* be protected — both should. It's about seeing what's actually there. The man in that scene isn't just touching her body. He's trusting her with his reputation, his community, his future. [Your touch is a privilege](./healing-fawning.md#your-touch-is-a-privilege) — and so is your vulnerability. When you make yourself physically vulnerable with someone, you're giving them enormous power over the narrative of what happened — and through that, power over your entire life.
 
 The person everyone calls powerful is often the most exposed. The person everyone calls vulnerable often holds the weapons that can destroy.
 
@@ -118,7 +118,7 @@ But it happens. Regularly.
 
 Their attention is entirely on their own fear — which is real and valid — but it's not the only fear in the room. Top vulnerability is invisible precisely because no one in the protected position has ever had to look at it.
 
-Every top who engages with you is trusting you with their reputation, their community, and their future. That's not a small thing. [Your touch is a privilege](./fawning.md#your-touch-is-a-privilege) — and so is theirs.
+Every top who engages with you is trusting you with their reputation, their community, and their future. That's not a small thing. [Your touch is a privilege](./healing-fawning.md#your-touch-is-a-privilege) — and so is theirs.
 
 **There is no such thing as one-way vulnerability.** If one person is vulnerable, both people are vulnerable — just in different directions. The bottom has the entire room ready to stop everything the moment they say the word. That's not helplessness — that's an instant safety net. The top has no equivalent. There's no word they can say that makes the room rush to protect them. If they're accused, no amount of "stop" will make the room pause and verify before acting.
 
@@ -126,7 +126,7 @@ In play spaces especially, the idea that only one person is at risk is a dangero
 
 Power flows both ways. Always.
 
-This is especially true in play spaces — which may be [the safest environments in the world](./fawning.md#the-safest-place-in-the-world) to say "stop," yet where many people still [fawn](./fawning.md) instead of using the power they have.
+This is especially true in play spaces — which may be [the safest environments in the world](./healing-fawning.md#the-safest-place-in-the-world) to say "stop," yet where many people still [fawn](./fawning.md) instead of using the power they have.
 
 ## Why This Matters
 
@@ -193,4 +193,4 @@ Ask:
 - [Responsibility](./responsibility.md) — Responsibility is also always mutual
 - [Power Dynamics](./power-dynamics.md) — How this plays out between participants and facilitators
 - [Drama Triangle](./drama-triangle.md) — The Victim role's hidden power
-- [Fawning](./fawning.md#your-touch-is-a-privilege) — Your vulnerability is a gift you can rescind
+- [Fawning](./healing-fawning.md#your-touch-is-a-privilege) — Your vulnerability is a gift you can rescind
