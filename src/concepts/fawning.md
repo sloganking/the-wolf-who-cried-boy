@@ -418,6 +418,9 @@ I know this because I was at that fork. And here's what I found at the bottom: m
 
 Those stories became my [compass](./i-made-a-mistake.md#find-your-compass). When the dark feelings tried to tell me who I was, the stories reminded me who I actually am. Not the rage. Not the vengeance. The person whose heart breaks at the right things.
 
+> **"You're not a bad person. You're a very good person who bad things have happened to. Besides, the world isn't split into good people and Death Eaters. We've all got both light and dark inside us. What matters is the part we choose to act on. That's who we really are."**  
+> — _Sirius Black, Harry Potter and the Order of the Phoenix_
+
 And here's what finally moved me: the pain of staying where I was became greater than the fear of acting. After years of being terrified — of rejection, of being seen, of asking for what I needed — the alternative became worse. Death. Not metaphorically. My body had made it clear: either something changes, or this ends. And when that threshold crossed — when the certainty that I would not survive another year of this outweighed every fear that had kept me frozen — I started acting. Reaching out. Asking for touch, for connection, for love. Clumsy, terrified, and acting anyway. Not because I figured it out intellectually. Because I had no other option left.
 
 That's the [advantage to every position](./i-made-a-mistake.md#everything-happens-for-you). The most terrifying feelings I'd ever had were the thing that finally broke the freeze. Not therapy. Not insight. Not "I should probably do something about this." The absolute certainty that I would die if I didn't move. That certainty was stronger than the fear, and it made me do the things I should have done years earlier — reach out, ask for what I need, accept love, [stop hiding the wound](./fawning.md#hiding-the-wound).
