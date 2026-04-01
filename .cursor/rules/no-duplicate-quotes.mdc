@@ -1,0 +1,14 @@
+---
+description: Never duplicate quotes in the book - each quote should appear only once
+globs: src/**/*.md
+alwaysApply: false
+---
+
+# No Duplicate Quotes
+
+When adding a quote to the book, always check if it's already used elsewhere first (search for the author name or key phrase). Each quote should appear exactly once.
+
+- If a quote is already in the book and the user references it for a new location, decide which placement is stronger and use it there only.
+- If the new location is better, move it (remove from old location, add to new).
+- If the original location is better, keep it there and link to it instead.
+- Never copy a quote into a second location. The user considers this a significant quality issue.
