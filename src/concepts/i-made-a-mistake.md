@@ -204,6 +204,18 @@ However long you think you need to stay away — ask yourself what that absence 
 
 And here's what happens if you don't return: **the intellectual understanding fades.** Without practice, without real situations to apply your learning, the lesson never solidifies. You end up learning it worse than if you'd stayed in community.
 
+### Go Back Before the Avoidance Hardens
+
+There's a saying that after a traumatic event, you need to go back to the environment where it happened relatively quickly — whether it's your workplace, a social space, wherever — or you might never go back at all. This is an example of that.
+
+**A single intensely negative experience can rewire your emotional association with the entire activity.**
+
+If someone attacks your reputation at a retreat, calls you a predator, or you have an experience so emotionally devastating that your body registers *this place is dangerous* — even one event that powerful can retrain your nervous system. Now every time you think about going to a party, a workshop, a community gathering, you don't feel excitement. You feel dread. Maybe you can't even name it — it's not a conscious thought like *I'm afraid.* It's a heaviness, a resistance, a vague sense that it's not worth it. Your body made a new prediction: *going there means pain.* And that prediction steers you away from the connection, community, and pleasure you actually want.
+
+This is the same mechanism as the [reverse bike](./fawning.md#the-reverse-bike). One powerfully negative experience overwrote your old association — the one that said *community is where I find connection and joy* — with a new one that says *community is where I get hurt.* If you don't go back and have positive experiences relatively soon, that new association hardens. It stops feeling like a temporary fear and starts feeling like wisdom. *I'm just being smart. I'm protecting myself. I don't need those spaces.* But it's not wisdom. It's an avoidance pattern dressed up as self-care.
+
+Going back — and having pleasurable experiences with friends, with community, with the connection you came for — is what overwrites the negative association. Your body needs new data. It needs several positive experiences to resume its normal prediction: *when I go to these spaces, I have fun, I feel safe, I connect, I grow.* That one terrible night was a fluke, not the new normal. But your nervous system can't learn that from your couch. It can only learn it by going back and living it.
+
 ### Everything Happens For You
 
 > **"Everything happens for you, not to you."**
