@@ -382,6 +382,42 @@ This isn't pretty. It's not a three-step framework. It's just... how bodies lear
 
 If you suffer long enough, the anger will come. But if you've been suppressing anger your whole life, it might take far longer than it needs to — because the channel is shut down. Your body learned decades ago that anger gets punished, so it intercepts the anger before you can feel it. You can't use fuel you can't reach. If that's you, you might need to actively practice letting your anger out — not unleashing it unprocessed at the person you're angry at, but somewhere safe where your body can feel the full force of it and remember that anger is available to it. The boundary-setting this book teaches requires fuel. If the tank has been empty your whole life, you might need to fill it before any of this works.
 
+### When the Anger Becomes Something Else
+
+Everything above describes the cycle when it completes in weeks or months. Fawn, suffer, get angry, set a boundary, feel relief, learn. That's the healthy arc.
+
+But what if it doesn't complete? What if you've been fawning for years — decades — and the anger never finds an exit? Every channel shut down. Every boundary unset. Every need unmet. The suffering just compounds.
+
+The anger doesn't stay as anger. It becomes something else.
+
+It starts as resentment — a constant, low-grade bitterness toward the people who wronged you, who have what you don't, who seem to be thriving while you suffer. Then the resentment deepens into a [victim story](./drama-triangle.md) so total that it colors every emotion, every interaction, every day. You're not just angry about one thing anymore. You're angry about your entire life trajectory. The people who harmed you aren't just people who made mistakes — they're the reason you have nothing. And then feelings arise that you've never felt before.
+
+Feelings that horrify you.
+
+I need to be direct about what happens at the extreme end of this spectrum, because if you're there, you need to know you're not alone — and you need to know there's a way back.
+
+When fawning goes on long enough — when you've suppressed your needs, your anger, your power for so many years that your body genuinely cannot sustain it anymore — you don't just get angry. You get dark. Impulses arise that don't match who you know yourself to be. They feel foreign, perverse, terrifying. Your body has been screaming for something so loudly and for so long that the scream has distorted into something unrecognizable. You look at yourself and you don't know who you are anymore.
+
+And then the [sinsickness](./i-made-a-mistake.md#sinsickness) hits — harder than anything described elsewhere in this book. Because now you're not just asking *did I do something bad?* You're asking *am I something bad?* The feelings themselves become evidence. *If I can feel this, I must be a monster. If this is inside me, maybe the people who called me dangerous were right.*
+
+They weren't. And the feelings don't mean what you think they mean.
+
+What you're feeling is starvation. Not evil. A body that has been denied its fundamental needs for so long that its signals have become desperate, distorted, extreme. A starving person will eat things they'd never touch if they were fed. That doesn't make them a bad person. It makes them someone who hasn't eaten. The feelings aren't your identity. They're your body's emergency broadcast system — screaming because nothing else has worked.
+
+Here's what I found at the bottom of that place: my heart was still there. Underneath the rage, underneath the dark impulses, underneath the horror at what I was feeling — my heart hadn't changed. I knew this because I tested it. I collected stories — movie clips, quotes, moments from books and films — that touched something real in me. Scenes about doing the right thing when it's hard. About seeing a human being instead of a monster. About choosing love when everything in you wants to choose destruction. I watched them when the darkness was loudest, and every time, my heart responded. It hadn't died. It was buried under years of unmet needs and suppressed anger, but it was there.
+
+Those stories became my [compass](./i-made-a-mistake.md#find-your-compass). When the dark feelings tried to tell me who I was, the stories reminded me who I actually am. Not the rage. Not the impulses. The person whose heart breaks at the right things.
+
+And here's what finally moved me: the pain of staying where I was became greater than the fear of acting. I had been terrified — of rejection, of being seen, of asking for what I needed. But the alternative was death. Not metaphorically. My body had made it clear: either something changes, or this ends. And when that threshold crossed — when the certainty that I would not survive another year of this outweighed every fear that had kept me frozen — I started acting. Clumsy, terrified, and acting anyway.
+
+That's the [advantage to every position](./i-made-a-mistake.md#everything-happens-for-you). The darkest feelings I've ever had were the thing that finally broke the freeze. Not therapy. Not insight. Not "I should probably do something about this." The absolute certainty that I would die if I didn't move. That certainty was stronger than the fear, and it made me do the things I should have done years earlier — reach out, ask for what I need, accept love, [stop hiding the wound](./fawning.md#hiding-the-wound).
+
+If you're in this place — if you're reading this and recognizing yourself — know two things.
+
+First: **the feelings don't mean you're a bad person.** They mean you're starving. Get fed. Get your needs met — through connection, through touch, through asking for what you actually need instead of suffering in silence. The feelings will change when the conditions change. You don't need more therapy. You need more living.
+
+Second: **the heart that's horrified by what you're feeling IS your compass.** The fact that you're disturbed by these impulses is the proof that they don't define you. Someone who truly wanted to cause harm wouldn't be horrified by the desire. They'd be acting on it. Your horror is your goodness showing through the noise. Follow it. Collect the stories that touch it. Let it remind you who you are when the darkness tries to tell you otherwise.
+
 ### Why Cognitive Therapy Often Fails
 
 > "I did five hours of therapy a week for a year. Basically five years of therapy in one year. It helped me understand some things intellectually. But it didn't help shit when it came to actually changing my automatic responses."
