@@ -41,6 +41,7 @@
 # The Patterns
 
 - [Fawning](./concepts/fawning.md)
+- [Healing Fawning](./concepts/healing-fawning.md)
 - [Power Dynamics](./concepts/power-dynamics.md)
 - [Drama Triangle](./concepts/drama-triangle.md)
 - [Why Helping Is Hard](./concepts/why-helping-is-hard.md)
