@@ -222,6 +222,14 @@ Maybe someone called you a predator. Maybe they got others to believe their stor
 
 You can stand up when it happens to someone else and say what's true, because you've lived it. You can become the voice of clarity in situations where everyone else is reacting from fear. You can see how containers are being run — how facilitators are handling conflict, how safety protocols fail, how the dynamics this book describes play out in real time — and you can be the person who creates something better. Not just for yourself, but for everyone. You can build safer, happier containers — because you understand what goes wrong and why. You can propose solutions to facilitators that they wouldn't have seen without your experience. You can serve others more powerfully than you could have before this experience — because you're not teaching from theory. You're teaching from what you survived and built.
 
+And here's the version of this that sounds impossible — until you realize it's the most natural thing in the world:
+
+The people who attacked you are in pain too. The person who called you a predator, who rallied the mob, who tried to destroy your life — they're not doing that from a place of peace. They're doing it from a place of blindness and suffering. They saw a monster where there was a human being. And that pattern — seeing monsters — is going to follow them. It's not a one-time event. It's a [filter](./trauma-and-filters.md) that will fire again and again, in every community they enter, creating chaos and misery wherever it goes. They're a wounded warrior swinging at shadows.
+
+Now imagine: you see them. Not as the enemy. Not as the person who destroyed your reputation. As a human being trapped in a pattern they can't see. And you help them see it. You take the pain away — not just yours, but theirs. You help them see their own blind spots, the way this book helps you see yours. You help them heal so they can stop being in pain, stop creating harm, and start creating value and goodness in other people's lives instead.
+
+If that happens — if the people who attacked you become the people who see clearly because of you — you didn't just survive the worst thing that ever happened to you. You turned it into the most powerful thing you've ever done. You saw a human being where they saw a monster, and you proved that seeing clearly is more powerful than being right. That's not recovery. That's an origin story.
+
 > **"There's actually an advantage to every position."**
 >
 > — Alex Hormozi
