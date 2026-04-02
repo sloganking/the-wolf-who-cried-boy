@@ -184,7 +184,7 @@ Expect to be misunderstood. The crowd will see you standing up for yourself and 
 
 *I'm available to take actions to make things right. I'm open to repair — here are some things I'm willing to do. I'm not available to punish myself with actions that don't add value to anyone and exist only to cause me pain.*
 
-If they take you up on it, great — that's real repair. If all they want is your suffering, and anything that doesn't involve you being destroyed isn't enough, that's not accountability. That's vengeance. And this is where [your repair is a privilege](./healing-fawning.md#your-touch-is-a-privilege) applies. You can say: *I was open to repair. You're open to punishment. Those aren't the same thing, and I'm not available for yours.* Repair is for people who want things to be better. Not for people who want you to bleed.
+If they take you up on it, great — that's real repair. If all they want is your suffering, and anything that doesn't involve you being destroyed isn't enough, that's not accountability. That's vengeance. And this is where your repair is a privilege applies. You can say: *I was open to repair. You're open to punishment. Those aren't the same thing, and I'm not available for yours.* Repair is for people who want things to be better. Not for people who want you to bleed.
 
 Keep showing yourself. Your consistent presence — standing your ground, showing up with integrity, refusing to perform shame — becomes evidence that contradicts their story. Not everyone will see it. The ones who can will.
 
