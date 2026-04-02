@@ -280,8 +280,6 @@ Because you went through it, you've seen:
 - The unfair ways others may have treated you—the over-responses, the wrong actions, the things that need to be accounted for
 - What actually happened versus what people believed happened
 
-You've witnessed all of this firsthand. And then you did something most people never do: you introspected. You thought deeply about what occurred. You gained insights that only come from living through it and then examining it honestly.
-
 When a similar situation happens to someone else, you're the one who can see clearly:
 
 - Who needs to learn what?
