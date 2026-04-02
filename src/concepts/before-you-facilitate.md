@@ -219,8 +219,6 @@ This isn't a possibility—it's a certainty. Play long enough and:
 
 This isn't a reason not to play. But it IS something you must go in with eyes open about. If you're not prepared to handle being on the receiving end of the dynamics this book describes, you're not ready to be a facilitator who plays.
 
-### No Judgment Either Way
-
 Some of the best facilitators never touch a participant. Some of the best facilitators are fully in the mix. What they have in common is clarity about their choice and how to handle what comes with it.
 
 ---
