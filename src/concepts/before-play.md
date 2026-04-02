@@ -204,7 +204,17 @@ Even if things are getting hot and heavy. Even if they say "okay, you can do it.
 
 There was a reason they told you beforehand that they weren't okay with that thing. In the heat of the moment, arousal and pressure can override their actual limits. If you cross that line because they "gave permission" mid-scene, they may feel violated afterward, get hurt, or even cry victim.
 
-**Your responsibility:** If they stated a hard boundary before play, respect it until the scene is over and you're both thinking clearly. Then—and only then—you can have a conversation about whether they actually want to change that boundary for next time.
+Think of it this way: mid-scene, you can *subtract* — stop something, pull back, end the scene entirely. You can't *add*. You can't expand into new territory that was off-limits ten minutes ago, because the person saying "yes" now is not the same person who said "no" earlier. Arousal, subspace, and the heat of the moment change your judgment. The boundary they set when they were thinking clearly is more trustworthy than the one they're revising when they're not.
+
+**Your responsibility:** If they stated a hard boundary before play, respect it until the scene is over and you're both thinking clearly. Then — and only then — you can have a conversation about whether they actually want to change that boundary for next time.
+
+I learned this the direct way. A woman told me she didn't want to have sex that night. I asked: "Is that a hard boundary?" She wasn't sure what I meant. I said: "If you tell me it's a hard boundary, I will hold it. Even if you change your mind later. Even if you beg, cry, and scream — I won't cross it. So: is it a hard boundary, or are you open to the possibility?"
+
+She paused. She actually had to think about it — because she wasn't used to a man making her be that clear about her own consent. She was used to saying "no" as a soft shield she could lower later if she wanted to, and men were used to treating it that way. Nobody had ever said: *your word is final, and I will enforce it for you, even against you.*
+
+It shocked her. And — she told me later — it turned her on. Because that level of commitment to her boundaries meant she could actually trust me. She didn't have to manage my behavior. She could relax.
+
+Sometimes people need to know you can handle their no before they'll give you their yes.
 
 This protects them from themselves. It protects you from accusations. It's what responsible play looks like.
 
