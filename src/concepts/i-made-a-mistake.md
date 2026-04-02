@@ -212,8 +212,6 @@ Here's the thing: **The only way you become the person everyone receives value f
 - The only way to get lived experience is by being in community
 - The only way to prove you've learned is by showing up differently
 
-However long you think you need to stay away — ask yourself what that absence actually produces. If you're not at parties, interacting with people live, you're not gaining wisdom. You're not embodying the lesson. Time away doesn't rebuild trust. Showing up differently does.
-
 And here's what happens if you don't return: **the intellectual understanding fades.** Without practice, without real situations to apply your learning, the lesson never solidifies. You end up learning it worse than if you'd stayed in community.
 
 ### Go Back Before the Avoidance Hardens
