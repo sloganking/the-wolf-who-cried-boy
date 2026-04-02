@@ -8,7 +8,7 @@ Pages that have completed their first tightening pass.
 
 ## Remaining
 
-- [ ] `i-made-a-mistake.md`
+- [x] `i-made-a-mistake.md` — Cut "Response to Misunderstanding" subsection (redundant with narrative lock + Return to Community), cut restating bridge in "Clearest Judge," merged two redundant paragraphs in repair-as-privilege section (fixed broken link), cut restating knowledge/wisdom paragraph in closer, added prevention bullet to goals list. Page is tight; remaining length is distinct content.
 - [ ] `before-you-facilitate.md`
 - [ ] `walking-your-talk.md`
 - [ ] `responsibility.md`
