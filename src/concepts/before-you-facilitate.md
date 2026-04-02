@@ -221,11 +221,6 @@ This isn't a reason not to play. But it IS something you must go in with eyes op
 
 ### No Judgment Either Way
 
-Neither choice is "right." What matters is:
-1. You make the choice consciously
-2. You understand the tradeoffs
-3. You're prepared for the consequences of your choice
-
 Some of the best facilitators never touch a participant. Some of the best facilitators are fully in the mix. What they have in common is clarity about their choice and how to handle what comes with it.
 
 ---
