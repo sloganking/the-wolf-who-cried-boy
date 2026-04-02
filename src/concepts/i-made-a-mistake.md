@@ -618,6 +618,7 @@ You're going to make mistakes. Accept that now.
 
 The goal isn't perfection. The goal is:
 
+- **Prevent what you can** — Preparation, awareness, and training make serious mistakes vanishingly rare
 - **Make mistakes at lower severity** — A clumsy comment instead of a boundary violation
 - **Recognize them faster** — Minutes instead of months
 - **Repair them better** — Real accountability instead of defensive justification
