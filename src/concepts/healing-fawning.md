@@ -43,7 +43,7 @@ This isn't pretty. It's not a three-step framework. It's just... how bodies lear
 
 If you suffer long enough, the anger will come. But if you've been suppressing anger your whole life, it might take far longer than it needs to — because the channel is shut down. Your body learned decades ago that anger gets punished, so it intercepts the anger before you can feel it. You can't use fuel you can't reach. If that's you, you might need to actively practice letting your anger out — not unleashing it unprocessed at the person you're angry at, but somewhere safe where your body can feel the full force of it and remember that anger is available to it. The boundary-setting this book teaches requires fuel. If the tank has been empty your whole life, you might need to fill it before any of this works.
 
-### When the Anger Becomes Something Else
+### Where Fawning Ends Up
 
 Everything above describes the cycle when it completes in weeks or months. Fawn, suffer, get angry, set a boundary, feel relief, learn. That's the healthy arc.
 
