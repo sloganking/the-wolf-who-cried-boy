@@ -38,6 +38,12 @@ Not evil. Not irredeemable. Confused. Scared. Certain they're protecting somethi
 
 When you have that recognition, something shifts.
 
+> **"You don't have to trust them. You just have to love them."**
+>
+> — _Laurie Handlers_
+
+You can see someone clearly — see their confusion, their fear, their capacity for harm — and still love them. Love doesn't require trust. It doesn't require safety. It doesn't even require liking them. It just requires seeing the human being underneath the behavior. Trust comes later, if it comes at all. But love is what lets you reach them in the first place.
+
 ---
 
 ## The Opportunity You're Missing

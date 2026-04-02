@@ -44,6 +44,12 @@ The answer is yes. And the answer is: add so much value that you're more connect
 
 That's the whole message. Not obligation. Not punishment. Just: here's what works.
 
+> **"Completion is really an act of love."**
+>
+> — _Laurie Handlers_
+
+Even if you didn't start out loving them — even if you have to get complete with them before the love can flow — repair is what clears the channel. It's not a debt you're paying. It's an act of care that makes connection possible again.
+
 ### Show, Don't Tell
 
 1. **Take responsibility and ownership** of what occurred
@@ -222,6 +228,20 @@ And if they say no? Behind every no is something someone cares about. A no is ju
 5. If they say no, get curious. What do they need? What would work for both of you?
 
 The person offering repair usually _wants_ to make it right. Give them something real to aim for. Give them a way to win.
+
+### Completion Isn't Always One Conversation
+
+> **"Completion is a process. It might mean I need to get complete with you over and over and over again."**
+>
+> — _Laurie Handlers_
+
+Maybe you asked for what you thought would make it right. They did it. And you still don't feel repaired.
+
+That's okay. Don't feel guilty — like you spent your one chance and now you have to pretend you're fine. Repair isn't a single transaction. It's a process. Sometimes you don't know what you actually need until the first attempt doesn't land. Sometimes new layers surface after the initial repair. Sometimes you wake up the next day still angry about something you thought was resolved.
+
+You can go back. You can say: "I thought that would be enough, and it wasn't. I'm still feeling [this]. Here's what I think I actually need." That's not being difficult. That's being honest — and honesty is what makes repair real instead of performative.
+
+The same is true in the other direction. If you're the one making it right, completion might take more than one round. They might come back and say it didn't land. That's not failure — it's the process working. You're done when both of you feel done. Not when the first conversation ends.
 
 ## Real Repair Is Mutual
 
