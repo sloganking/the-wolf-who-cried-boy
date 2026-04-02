@@ -42,7 +42,7 @@ Three messages across four months — and then months more of silence. Then she 
 
 She told me: "A check-in rooted in care or curiosity about how I was doing would have felt very different." My second message — the one she never answered — was: "Hey checking in. Still wanting more time?" She could have said no. She could have told me her first message was a hard boundary. She said nothing — and months later, told me I hadn't checked in with care.
 
-She never asked what I meant. She already knew, because the story she'd built told her. This is [narrative lock](./invisible-patterns.md#narrative-lock) — every word I sent was filtered through a story that was already written before she read any of them.
+She never asked what I meant. She already knew, because the story she'd built told her. She attributed my motive — selfish desire for connection — without ever checking it. This is [narrative lock](./invisible-patterns.md#narrative-lock), and all three of its signals are visible in a single message: [motive attribution](./invisible-patterns.md#narrative-lock) in the second line, [framework substitution](./invisible-patterns.md#narrative-lock) in the third, and no repair path anywhere.
 
 ---
 
