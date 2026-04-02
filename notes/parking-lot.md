@@ -124,6 +124,25 @@ And the pushback section:
 
 ---
 
+### Drama Triangle Example — Additional Layers Not Included
+
+The narrative lock example on the drama triangle page (and linked from `i-made-a-mistake.md`) contains at least 10 book concepts in a single interaction. Only narrative lock and the attention reframe are used in the book. The rest are logged here for reference — not included because it would be verbose and most are inference rather than confirmed:
+
+1. **Narrative lock** — she assumed his intent without asking (USED in drama-triangle.md)
+2. **Motive attribution** — decided he was being selfish without checking (USED in drama-triangle.md)
+3. **Framework substitution** — filed him under patriarchy (USED in drama-triangle.md)
+4. **Attention reframe** — same event, two feelings depending on where attention goes (USED in i-made-a-mistake.md)
+5. **Fawning breaking point** — she may have had difficulty setting boundaries, finally set one ungracefully (INFERENCE)
+6. **Reverse bike / Watch the Road** — so focused on setting the boundary that she lost attunement to him entirely (INFERENCE)
+7. **Self-focused attention** — her attention was entirely on her fear, her feelings, her boundaries — not on him or how her message would land (INFERENCE)
+8. **No repair path** — no opening for him to respond, correct, or reconnect (USED in drama-triangle.md)
+9. **Under-response to her own fawning** — never answered his check-in, never clarified her boundary, then exploded months later (INFERENCE)
+10. **Over-response** — ending a friendship without verification, based on assumed intent (PARTIAL — implied in drama-triangle.md)
+
+**Why not included:** Most are inferences about her internal state, not confirmed. The book shouldn't present guesses as teaching examples. The two confirmed uses (narrative lock analysis, attention reframe) are sufficient. The example is already referenced twice — adding more would be a third appearance of the same story.
+
+---
+
 (Add ideas here as they come up)
 
 ---
