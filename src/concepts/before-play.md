@@ -63,6 +63,16 @@ Before playing with someone—especially someone new—talk through each of thes
 
 - They have a partner who's at the same event. You don't know. You make a mistake during play—something minor, an accident. The person you're playing with is reasonable and handles it well. But their partner finds out, freaks out, and [witch hunts](./before-you-judge.md) you with HIGH severity. You didn't even know that was a possibility because you didn't know who was partnered with whom.
 
+### The Broader Question
+
+The standard question is some version of "are you in a relationship?" — but that only catches committed, monogamous partnerships. A better question:
+
+**"Are there any relationships that would be affected by us doing what we're about to do — that I should know about?"**
+
+That's broader. It covers committed partners, non-committed connections, someone at the same event who has feelings for them, anything. It lets them think through the full landscape instead of just the obvious box.
+
+This is a higher standard than most people play at. You're not obligated to ask it. But if you want to play responsibly and avoid surprises — for yourself and for the people around you — it's worth keeping in your toolkit.
+
 ### The Couples Warning
 
 **Couples are double the risk.**
