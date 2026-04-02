@@ -623,8 +623,6 @@ The goal isn't perfection. The goal is:
 - **Repair them better** — Real accountability instead of defensive justification
 - **Actually encode the lesson** — So your body remembers, not just your mind
 
-Each mistake you make and learn from becomes a piece of wisdom you carry forward. Not just "I know I shouldn't do that," but a visceral, embodied understanding that shapes your future behavior automatically.
-
 **The person who makes a mistake and learns nothing is likely to repeat it.**
 
 The person who makes a mistake and collapses into shame is too busy suffering to grow.
