@@ -40,21 +40,6 @@ If you fawn and then blame the other person for believing you — cry victim, at
 
 Everything that follows in this chapter is about building the awareness and the responsibility to be the first kind of partner, not the second.
 
-#### What's Your Color? 
-
-If you're playing with someone who fawns — or if you fawn yourself — a simple tool makes check-ins possible even in the middle of a scene:
-
-- **Green** — everything's good. Keep going.
-- **Yellow** — something needs to be adjusted, but I want to keep playing.
-- **Red** — we need to stop. The scene is over.
-- **Blue** — I'm dissociating. I don't know how I feel.
-
-If you know your partner fawns, you can ask "what's your color?" at any point. One word is all it takes — and for a fawner, saying one word is dramatically easier than constructing a sentence about why they need to stop. If they're deep in a scene or in subspace, even that might be hard. But "red" is easier than "I need you to stop because I'm not actually okay even though I told you I was."
-
-Blue is the most important color for fawners. Their whole pattern is not knowing what they feel — saying yes when the real answer is "I don't know." If they don't know their color, they're blue. And blue means stop and check in.
-
-You don't want to ask "what's your color?" every thirty seconds — that pulls someone out of the scene and reduces their pleasure. But when your gut says something might be off, or when you know you're playing with someone who has a pattern of fawning, one check-in gives you clarity that no amount of reading body language can.
-
 ## The Two Victims Problem
 
 **When fawning happens, it creates TWO victims.**
