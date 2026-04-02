@@ -178,9 +178,7 @@ A structured workshop changes the math:
 
 The people around you know you have a tendency to fawn. Everyone is there to support you. If you haven't said no within about a minute, someone checks in — the worst case is you don't break the pattern this time, and you get care and support instead of consequences. After that, you can go back in and try again, or you can say "I'm done for today" — which is itself a completion of the pattern. Saying *I'm not feeling it* instead of going along with the workshop is a no. It counts.
 
-This isn't to say real life never works. Sometimes it does — sometimes you need to sit in the pain of a bad situation long enough to get angry enough to leave, and no workshop can substitute for that. But starting with small, structured practice gives your body evidence that saying no is something you *can* do. And that evidence travels with you. The next time you're in a bigger situation — an unstructured one, where the stakes are real — your nervous system has something to draw on. *I said no before. I have that power.* That memory can be the difference between six weeks of suffering and six days.
-
-In a container, you're guaranteed to reach the boundary-setting moment one way or another — either inside the exercise or by choosing to stop. In real life, fawners often endure the full experience, never reach the boundary, and leave more afraid than they arrived. Starting small and structured is how you build the muscle before you need it.
+This isn't to say real life never works. Sometimes you need to sit in the pain of a bad situation long enough to get angry enough to leave, and no workshop can substitute for that. But starting with small, structured practice gives your body evidence that saying no is something you *can* do. That evidence travels with you — *I said no before, I have that power* — and it can be the difference between six weeks of suffering and six days.
 
 ### The Counterintuitive Advice
 
