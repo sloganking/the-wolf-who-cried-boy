@@ -186,15 +186,7 @@ If you're a fawner:
 
 **You might need to fawn more before you fawn less.**
 
-Not because fawning is good. But because you need to feel the full pain of it—to let your body learn that fawning hurts more than setting boundaries does.
-
-This isn't permission to stay in abusive situations. It's recognition that:
-
-- You probably can't think your way out of this
-- You need to _feel_ your way out
-- Anger is your friend—it's the fuel for boundary-setting
-- Each painful experience is data that trains your nervous system
-- It gets faster every time
+Not because fawning is good. But because you need to feel the full pain of it — to let your body learn that fawning hurts more than setting boundaries does. This isn't permission to stay in abusive situations. It's recognition that the pattern breaks through experience, not insight — and each cycle gets faster.
 
 ### The Goal
 
