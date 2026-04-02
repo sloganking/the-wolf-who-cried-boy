@@ -1,4 +1,4 @@
-﻿# Fawning
+# Fawning
 
 ---
 
@@ -27,6 +27,18 @@ Her fawning response overrode her survival instinct. The part of her that was tr
 That's fawning. Not politeness. A trauma response so deep it can override your body's most basic drive to protect itself.
 
 Everything in this chapter exists on a spectrum from "said yes when I meant no at a party" to that. Most fawning you'll encounter is on the milder end. But understanding the extreme is what makes you take the pattern seriously — in yourself and in others.
+
+### I Invite You To Play
+
+This chapter is going to talk about the hazards of fawning — what can go wrong, who gets hurt, and why responsibility matters. Before we get into that: having a fawning pattern is human, and playing is how you heal from it. Not playing and then healing separately. Playing IS healing. Fawning, realizing what happened, owning it, trying again, fawning again, owning it faster, trying again — and the third time, catching it before it fires and doing the thing you couldn't do before. That's the whole process. You can't heal outside of live interaction. The task is the lesson.
+
+Playing with someone who fawns can be beautiful. Two imperfect people who know they're imperfect, healing through each other, checking in, catching the moments where the pattern fires — that's more connected than two "perfect" people performing confidence they don't feel. The vulnerability of "I might fawn and I want you to know that" can be part of what draws people closer.
+
+The problem isn't the fawning. It's what happens after. If you fawn — say yes when you meant no — and then catch yourself, own it, and come back with "I told you I was a yes when I was a no, and I'll own that" — that's a partner worth playing with. That's someone who makes the dynamic safer over time, not less safe.
+
+If you fawn and then blame the other person for believing you — cry victim, attack their character, make it their fault for not catching your fawning — that's where the real damage happens. Not the fawn itself. The refusal to own it afterward.
+
+Everything that follows in this chapter is about building the awareness and the responsibility to be the first kind of partner, not the second.
 
 ## The Two Victims Problem
 
