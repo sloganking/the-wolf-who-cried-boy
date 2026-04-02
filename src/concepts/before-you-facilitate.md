@@ -454,8 +454,6 @@ It rarely looks like doing nothing. It usually looks like doing *something* — 
 
 **Before the crisis:** A participant publicly attacks another participant's reputation — writing their name somewhere visible as an act of defamation, making accusations impossible to miss. The facilitators see it but don't remove it before the group gathers. By the time participants walk in, the accusation is the first thing they see. The facilitator's inaction made it the group's first frame. Removing it before anyone sees it is protection. Leaving it up is endorsement.
 
-If someone's reputation has been publicly attacked in your container, pause the container. Don't continue the schedule while one of your participants has been disgraced. Taking care of them first — before the agenda, before the curriculum, before the timeline — shows that you value people over process. That's containment.
-
 **During the crisis:** The facilitator sets up a format for the two participants to "share emotions" with each other, but doesn't facilitate it. No context is given to the group. No one explains that the original mistake was low-severity, that repair already happened, that the person whose boundary was crossed already said they felt complete. The righteous predator makes threats of violence, and the facilitator doesn't name it: *"Threats of violence are outside the boundaries of this container."* Doesn't state consequences. Doesn't enforce the time structure when the righteous predator talks over it. Doesn't interject when the situation needs guidance.
 
 Instead of a facilitated resolution, it becomes a public trial run by the angriest person in the room. The facilitator is present but not leading. They've outsourced the container to the person least qualified to hold it.
