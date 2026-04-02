@@ -42,9 +42,7 @@ Three messages across four months — and then months more of silence. Then she 
 
 She told me: "A check-in rooted in care or curiosity about how I was doing would have felt very different." My second message — the one she never answered — was: "Hey checking in. Still wanting more time?" She could have said no. She could have told me her first message was a hard boundary. She said nothing — and months later, told me I hadn't checked in with care.
 
-She never asked what I meant. She already knew, because the story she'd built told her. She attributed my motive — selfish desire for connection — without ever checking it. This is [narrative lock](./invisible-patterns.md#narrative-lock), and all three of its signals are visible in a single message: [motive attribution](./invisible-patterns.md#narrative-lock) in the second line, [framework substitution](./invisible-patterns.md#narrative-lock) in the third, and no repair path anywhere.
-
----
+She never asked what I meant. She already knew, because the story she'd built told her. This is [narrative lock](./invisible-patterns.md#narrative-lock), and all three of its signals are visible in a single message: [motive attribution](./invisible-patterns.md#narrative-lock) — she decided why I contacted her without ever checking — [framework substitution](./invisible-patterns.md#narrative-lock) — she filed me under patriarchy — and no repair path anywhere.
 
 That was all three roles in a single message. But the triangle doesn't just show up once — it keeps spinning. The roles aren't stable. People rotate through them constantly, and the rotation is what keeps the drama alive:
 
