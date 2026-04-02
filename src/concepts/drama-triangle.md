@@ -24,6 +24,8 @@ One person. All three roles. Ten seconds. They don't know they're doing it.
 
 **Rescuer** — *"Someone needs to stop him before he hurts anyone else."* The Rescuer swoops in to fix, help, protect — but keeps the Victim helpless in the process. They need to be needed. In this book, the Rescuer is the most dangerous role: [Rescuers cause more harm than predators](./why-rescuers-are-dangerous.md) because they act from moral certainty and never question whether their "help" is actually helping.
 
+### A Real Example
+
 Here's what all three look like in one real message.
 
 I met someone at a festival. She texted afterward: "I'm needing a few days to disconnect from my phone. I'll get back to you when I have more capacity." I replied: "Thank you for asking for what you need. Take your time. I wish you well."
