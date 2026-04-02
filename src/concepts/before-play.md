@@ -204,7 +204,7 @@ Even if things are getting hot and heavy. Even if they say "okay, you can do it.
 
 There was a reason they told you beforehand that they weren't okay with that thing. In the heat of the moment, arousal and pressure can override their actual limits. If you cross that line because they "gave permission" mid-scene, they may feel violated afterward, get hurt, or even cry victim.
 
-Think of it this way: mid-scene, you can *subtract* — stop something, pull back, end the scene entirely. You can't *add*. You can't expand into new territory that was off-limits ten minutes ago, because the person saying "yes" now is not the same person who said "no" earlier. Arousal, subspace, and the heat of the moment change your judgment. The boundary they set when they were thinking clearly is more trustworthy than the one they're revising when they're not.
+Think of it this way: mid-scene, you can *subtract* — stop something, pull back, end the scene entirely. You can't *add*. You can't expand into new territory that was off-limits ten minutes ago, because the person saying "yes" now is not the same person who said "no" earlier. Arousal, subspace, and the heat of the moment change your judgment. The boundary they set in a calm, grounded state is more trustworthy than the one they're revising in a heightened one.
 
 **Your responsibility:** If they stated a hard boundary before play, respect it until the scene is over and you're both thinking clearly. Then — and only then — you can have a conversation about whether they actually want to change that boundary for next time.
 
