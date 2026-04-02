@@ -628,19 +628,7 @@ Here's the process:
 
 5. **You choose differently.** Not because you're trying to remember a rule from a book. Because your body won't let you forget what happened last time.
 
-That's how you become wise. Not by avoiding mistakes, but by making them consciously enough to learn from them.
-
-### The Shortcut That Doesn't Exist
-
-"Can't I just learn from other people's mistakes?"
-
-Partially. Reading this book will help you recognize patterns faster. It'll give you language for what you're experiencing. It'll help you understand what went wrong after the fact.
-
-But it won't stop you from making mistakes in the first place. Because until you've felt the consequences in your own body, the knowledge stays theoretical.
-
-The panic attack after rejection. The sick feeling when you realize you've hurt someone. The weeks of replaying a conversation, wishing you'd said something different. These experiences are your teachers. The pain is the lesson.
-
-You can't outsource your curriculum.
+That's how you become wise. Not by avoiding mistakes, but by making them consciously enough to learn from them. You can't outsource your curriculum.
 
 ### What This Means for You
 
