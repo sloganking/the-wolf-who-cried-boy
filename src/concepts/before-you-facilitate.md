@@ -104,12 +104,6 @@ When I require my staff to be sexually satisfied before working my events, I'm n
 
 If you're sexually starved and you make an [unconscious mistake](./types-of-mistakes.md), you don't just harm the participant. You harm yourself — your reputation, your standing, your self-image. By saying "you can't work here until you're fed," I'm saying: *Go take care of yourself. I won't let you jump with a rope around your neck.*
 
-### This Is Taking Responsibility
-
-This isn't indulgence. It's [responsibility](./responsibility.md).
-
-You're in a position where your state affects others. Taking care of yourself — including sexually — reduces the risk of [unconscious mistakes](./types-of-mistakes.md). Feed yourself first. Then you can hold space for others without your hunger getting in the way.
-
 ### Friction Check Your Staff
 
 Most facilitators choose staff who are nice, polite, experienced, and easy to be around. They check for the happy path — *will this person be pleasant to work with when everything goes well?*
