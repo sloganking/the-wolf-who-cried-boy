@@ -184,11 +184,9 @@ Expect to be misunderstood. The crowd will see you standing up for yourself and 
 
 *I'm available to take actions to make things right. I'm open to repair — here are some things I'm willing to do. I'm not available to punish myself with actions that don't add value to anyone and exist only to cause me pain.*
 
-Be transparent. State what you're offering. If they want to take you up on it — if they're willing to engage with repair that actually creates good — that's available to them. If all they want is your suffering, and anything that doesn't involve you being destroyed isn't enough, then they've told you something important about what they're actually after. That's not accountability. That's vengeance.
+If they take you up on it, great — that's real repair. If all they want is your suffering, and anything that doesn't involve you being destroyed isn't enough, that's not accountability. That's vengeance. And this is where [your repair is a privilege](./healing-fawning.md#your-touch-is-a-privilege) applies. You can say: *I was open to repair. You're open to punishment. Those aren't the same thing, and I'm not available for yours.* Repair is for people who want things to be better. Not for people who want you to bleed.
 
-And this is where [your repair is a privilege](./healing-fawning.md#your-touch-is-a-privilege) applies. Making it right is something you're offering — not something you owe to someone who will accept nothing less than your destruction. If the person demanding "accountability" won't accept any form of repair that doesn't involve you suffering significantly — if they reject every offer you make because it doesn't hurt you enough — then you don't have to make it right to them. You can say: *I was open to repair. You're open to punishment. Those aren't the same thing, and I'm not available for yours.* Repair is for people who want things to be better. Not for people who want you to bleed.
-
-[Keep showing yourself.](./i-made-a-mistake.md#the-response-to-misunderstanding) Your consistent presence — standing your ground, showing up with integrity, refusing to perform shame — becomes evidence that contradicts their story. Not everyone will see it. The ones who can will.
+Keep showing yourself. Your consistent presence — standing your ground, showing up with integrity, refusing to perform shame — becomes evidence that contradicts their story. Not everyone will see it. The ones who can will.
 
 ### What Actually Rebuilds Trust
 
