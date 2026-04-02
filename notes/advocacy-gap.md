@@ -32,13 +32,11 @@ The fawning pattern shows up in three structural ways:
 
 ---
 
-### 2. MAJOR — Under-response barely explored in appropriate-response.md
+### 2. ~~MAJOR — Under-response barely explored in appropriate-response.md~~ ✅ FIXED
 
 **File:** `appropriate-response.md`
 
-Under-response gets two lines out of 305. The entire page — flowcharts, examples, self-checks, common mistakes — is about over-response. No content exists for: warning signs you're under-responding, how fawning distorts response downward, what under-response looks like (facilitators who don't act, wronged people who don't speak up), what to do about it.
-
-**Fix:** Add a section on under-response with equivalent depth. Warning signs, examples, self-checks. Mirror the over-response content.
+Full section now exists: "Under-Response: The Invisible Failure" with five subsections — fear drivers, fawning distortion of proportionality, bystander/facilitator responsibility, and an 8-point warning signs checklist. Asymmetric with over-response content but appropriately so — over-response is the book's primary subject.
 
 ---
 
@@ -64,13 +62,11 @@ The section's climax lists what you can do: "say no and leave," "enforce boundar
 
 ---
 
-### 5. ~~MAJOR — Facilitator failure has no participant recourse~~ ✅ PARTIALLY FIXED (covered in expanded "Talk to Facilitators" section; cross-references to guiding-public-repair.md still TODO)
+### 5. ~~MAJOR — Facilitator failure has no participant recourse~~ ✅ FIXED
 
-**Files:** `when-youve-been-wronged.md`, `appropriate-response.md`, `making-it-right.md`
+**Files:** `when-youve-been-wronged.md`, `appropriate-response.md`
 
-All three pages tell the reader to "tell facilitators," "involve facilitators," "report to facilitators." None address: what do you do when the facilitator doesn't act? Excellent content about confronting facilitator passivity exists in `guiding-public-repair.md` lines 262-281 — but it's buried in a facilitator-oriented chapter that a wronged participant would never find.
-
-**Fix:** Add guidance to participant-facing pages about recognizing facilitator fawning, confronting it, and what recourse exists when facilitators fail. Cross-reference the existing content in `guiding-public-repair.md`.
+Now addressed: `when-youve-been-wronged.md` explicitly names facilitator under-response as its own wound (line 15), tells readers to confront fawning facilitators directly with specific language ("You're not enforcing the agreements of this container"), cross-references `before-you-facilitate.md#when-the-facilitator-fawns`, and includes follow-up guidance ("If they don't act, say so"). `appropriate-response.md` covers facilitator/bystander under-response in its own subsection.
 
 ---
 
@@ -104,13 +100,11 @@ The follow-up is all about giving information. It doesn't include: ask them what
 
 ---
 
-### 9. MODERATE — "When the Facilitator Fawns" is written only to facilitators
+### 9. ~~MODERATE — "When the Facilitator Fawns" is written only to facilitators~~ ✅ FIXED
 
-**File:** `walking-your-talk.md`, lines 333-361
+**File:** `when-youve-been-wronged.md`
 
-Brilliantly identifies facilitator fawning. But addressed entirely to facilitators. No corresponding section for participants: how to recognize it, that you have the right to call it out, specific language for confronting it, what to do if they still don't act.
-
-**Fix:** Add participant-facing version, or cross-reference from `when-youve-been-wronged.md`.
+Now has participant-facing facilitator fawning guidance: names the pattern, gives specific confrontation language ("You're not enforcing the agreements of this container"), cross-references the facilitator-facing content, and addresses the fear of advocating to authority figures. Covered in the expanded "Talk to Facilitators" section.
 
 ---
 

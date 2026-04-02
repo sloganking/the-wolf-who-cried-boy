@@ -4,7 +4,7 @@ Tracked issues to resolve before the book is ready for release.
 
 ## Before Publishing — The Three Things
 
-1. **Advocacy Gap** — The most value-adding fix. The book teaches informing but not advocating. Readers learn to communicate what happened but not to demand what they need. 13 specific gaps across multiple pages. Full breakdown: [advocacy-gap.md](./advocacy-gap.md). ~1 day of focused work.
+1. **Advocacy Gap** — Mostly resolved. 7 of 13 gaps fixed (all 4 MAJORs done). Remaining: 4 MODERATE paragraph-level additions (#6 severity underestimation, #7 passive repair advice, #8 ask mistake-maker what they need, #10 own-your-part demand complement) and 3 MINOR sentence-level additions. A few hours of work. Full breakdown: [advocacy-gap.md](./advocacy-gap.md).
 
 2. **Tightening Pass** — Cut 15-20% from the longest pages (`i-made-a-mistake.md`, `before-you-facilitate.md`, `walking-your-talk.md`, `responsibility.md`, `fawning.md`). Reduce repetition (Inquisitor example, "cry victim" restatements, popcorn metaphor re-explanations). Reader fatigue is the main risk.
 
@@ -77,11 +77,11 @@ These pages are strong but long enough that reader fatigue is a risk. A tighteni
 - [ ] `before-you-facilitate.md`
 - [ ] `walking-your-talk.md`
 - [ ] `responsibility.md` (contributing vs. determining factors section is dense)
-- [ ] `fawning.md` ("The Gift of No" and "Especially for Men" sections)
+- [ ] `healing-fawning.md` ("The Gift of No" and "Especially for Men" sections — moved from fawning.md after split)
 
 ## New Content Needed
 
-- [ ] **The Advocacy Gap** — Structural blind spot from the author's fawning pattern. The book teaches informing but not demanding, acceptance before advocacy, and gives no participant recourse for facilitator failure. 13 specific gaps across multiple pages. Full breakdown: [notes/advocacy-gap.md](./advocacy-gap.md)
+- [x] **The Advocacy Gap** — Structural blind spot mostly resolved. All 4 MAJOR gaps fixed. 4 MODERATE and 3 MINOR paragraph/sentence-level additions remain. Full breakdown: [notes/advocacy-gap.md](./advocacy-gap.md)
 
 - [ ] **Righteous predator repair** — What do you do when you realize YOU were the righteous predator? Different from normal repair: sinsickness is worse, their anger is proportional, harm was public/community-wide, you recruited allies who also caused harm, repair is a privilege they may not grant. Candidate locations: subsection in `i-made-a-mistake.md` (the realization) and/or `making-it-right.md` (the repair process). Needs author voice — not a word-swap task.
 
