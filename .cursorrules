@@ -24,6 +24,16 @@ See `notes/writing-guide.md` for the full guide. Core rules:
 - **Make it inarguable.** Anyone on any side of an incident should be able to read without feeling attacked.
 - **Author identity: King.** Everything should be gold. Excellent. The real shit.
 
+## Pruning / Editing Rules
+
+**Every edit must be evaluated for net value, not just conciseness.** Before making any cut:
+
+1. Ask: what is this section doing that no other section does? (Different frame? Different audience perspective? Hope vs. mechanism? Future state vs. present explanation?)
+2. Ask: does removing this make the surrounding content feel thin, structurally weak, or lose emotional impact?
+3. After making the edit, re-read the result in context and rate it 1-10. If it's below 7, revert.
+4. **The book being too long is better than the book being lobotomized.** Redundancy is a lesser sin than losing value. If in doubt, keep it.
+5. Never cut just because something "looks redundant." Two passages can describe similar ideas and both add value if they serve different purposes (mechanism vs. destination, abstract vs. visceral, teaching vs. hope).
+
 ## Co-Creation
 
 - Point out opportunities to improve things you weren't asked about.
