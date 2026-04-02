@@ -115,3 +115,4 @@ These are fast sweeps across the whole book. Each takes 15-60 minutes. Run them 
 - [ ] **Quotes audit** — Verify all quoted sources add value. Check distribution of who's being quoted. Remove any that are redundant or weaker than the author's own language.
 - [ ] **Print readability** — All hyperlinks should make sense without clicking. If a link says "this tool" or "here," the surrounding text should explain what it links to. Paper readers can't click.
 - [ ] **"Character assassination" sweep** — Replace all instances with "attacking their reputation" or "publicly attacking their reputation." "Character assassination" is wound language — narrative, arguable, dramatic. Describe the behavior instead.
+- [ ] **Stub section sweep** — No section header should exist for only 1-2 lines of content. Either merge the content into the preceding section, expand it, or remove the header and keep the text as a closing paragraph.
