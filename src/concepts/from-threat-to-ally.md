@@ -155,7 +155,7 @@ You might even become allies.
 
 Some people try a different approach: tell the person what they're doing is _wrong_. Appeal to their desire to be good. Shame them into changing.
 
-> **"No one was ever made good by being told he or she was bad."**  
+> **"No one was ever made good by being informed he or she was bad."**  
 > — _Nathaniel Branden, The Six Pillars of Self-Esteem_
 
 Moralizing fails for several reasons:
