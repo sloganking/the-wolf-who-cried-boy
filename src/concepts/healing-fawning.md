@@ -513,7 +513,7 @@ I'll be direct about the gender dynamic here.
 
 As a man who typically initiates touch, I'm incredibly vulnerable to women who fawn and then cry victim. If a woman says yes when she means no, then later decides she was violated, there's not a lot I can do. The cultural narrative will side with her. My reputation can be destroyed based on her lie about her own consent.
 
-This isn't bitterness—it's [taking responsibility](./responsibility.md) for my experience. I pay attention. When I see someone fawning, that's a flag. When I see them fawn and then cry victim? I'm out. I don't play with people who can't own their no. It's not going to be fun for either of us—and if something goes wrong, it would be 100% my creation for ignoring the warning signs.
+This isn't bitterness—it's [taking responsibility](./responsibility.md) for my experience. I pay attention. When I see someone fawning, that's a sign to pay closer attention. When I see them fawn and then cry victim? I'm out. I don't play with people who can't own their no. It's not going to be fun for either of us—and if something goes wrong, it would be 100% my creation for ignoring the warning signs.
 
 So when I find someone who clearly owns their no? Who says what they mean? That's gold. That's safety. That's someone I can trust.
 
@@ -639,7 +639,7 @@ You have [power over the people you interact with](./power-dynamics.md). Real po
 
 **Telling someone no is a proper use of your power.** You're using it to protect both of you.
 
-**Telling someone yes when you're actually a no is an abuse of your power.** You're using it to deceive them, to create a situation that harms them, to set them up for consequences they didn't consent to.
+**Telling someone yes when you're actually a no is a misuse of your power.** You're using it to deceive them, to create a situation that harms them, to set them up for consequences they didn't consent to.
 
 And if you then cry victim afterward—attacking them for believing your lie—you are **using the power that comes with being wronged to punish someone for trusting you.** That should be recognized for what it is.
 
