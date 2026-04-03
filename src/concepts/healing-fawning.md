@@ -39,6 +39,10 @@ You don't. Here's the rule I eventually learned, and it's one of the most import
 
 Your [body is a qualified source](./body-stories.md). If every day with someone feels like dread, your body has already made the assessment your mind is still debating. You don't need to catch them in a lie. You don't need a diagnosis. You don't need a framework to file them under. You just need to notice the pattern in your own experience — and if the pattern is *I feel terrible every time I'm around this person* — that's enough. Leave.
 
+The fawning mind has a counter-argument ready: *but what if it gets better?* I know, because I asked myself that question every day for six weeks. How do I feel today? Like shit. But maybe tomorrow will be different. A week passes. Still shit. A month. Still shit. Some days were a six instead of a nine, and I'd seize on that as evidence of progress — maybe it's improving, maybe I should give it more time. I was using my own hope as a reason to stay. The hope itself was the fawning — my mind inventing reasons not to set the boundary my body was begging for.
+
+If you've been checking in with yourself and the answer has been "bad" for weeks — it's not going to change. The person who needs more data is your fawning mind. Your body decided a long time ago.
+
 This connects to everything the book teaches about [consent](./before-play.md). Your no doesn't need justification. [Your touch is a privilege](./healing-fawning.md#your-touch-is-a-privilege) — and that means your presence is too. You can rescind it for any reason, including "I feel bad and I don't know why." The inability to articulate *what's wrong* doesn't mean nothing is wrong. It means your body knows something your mind hasn't caught up to yet.
 
 I wish someone had told me this during those six weeks. Not "leave because she's manipulative" — I couldn't see that clearly enough to act on it. But "leave because you feel terrible, and that's enough." That I could have heard.
@@ -52,6 +56,10 @@ I wish someone had told me this during those six weeks. Not "leave because she's
 5. **You set the boundary** — often messily, often late, but you do it. And the moment you do, you feel immediate relief.
 6. **Next time**, an invitation to something similar comes up — and your body remembers. Not intellectually. Viscerally. You feel the awfulness of the last time in your gut. Your face visibly wretches. The memory isn't a thought — it's an emotional recoil.
 7. **Saying no becomes easier** — not because of a new intellectual understanding, but because your body formed a new emotional association. Saying yes is now linked to the visceral memory of every awful moment between the fawn and the boundary — and saying no is linked to the relief you felt the instant you finally set it. Both associations flipped. Think of it like drinking too much one night — you vomit, it's awful, and a week later the smell of alcohol alone makes you nauseous. You don't have to convince yourself not to drink. Your body won't let you. That's what happens with fawning after enough pain: your body recoils from yes the way it recoils from the smell of tequila after a bad night. Not an intellectual "I know I shouldn't." The offer comes up and your body says *FUCK NO* — and just like that, the question is over.
+
+The association doesn't fade. Years after that relationship, every time someone mentions her name or the memory surfaces, my body still wretches — visibly, involuntarily, unmistakably. That's not damage. That's wisdom stored in the body. My fawning mind will never get a chance to deliberate again, because my body answers before the question finishes forming.
+
+> Wisdom is the change in action caused by the visceral pain you feel when you remember doing something fucking stupid.
 
 This isn't pretty. It's not a three-step framework. It's just... how bodies learn.
 
