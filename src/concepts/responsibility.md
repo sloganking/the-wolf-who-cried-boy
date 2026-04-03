@@ -161,8 +161,6 @@ The only difference between you and the facilitator is that the facilitator is e
 - "How could I have contributed to preventing this?"
 - "What will I do differently in the next container?"
 
-You don't have to be the one who made the mistake to be responsible for helping prevent it. You are a co-creator of the container—not a passive consumer of it.
-
 This matters most when an angry crowd turns on someone. In [a famous psychology experiment](https://cruciallearning.com/blog/how-to-speak-up-and-listen-at-work-crucial-learning/), researchers showed a group of people a line and asked them to match it to one of three options. The correct answer was obvious — but everyone in the room except one person was an actor, told to confidently give the wrong answer. About two-thirds of the real test subjects went along with the group's wrong answer, even though they could see it was wrong. Most people will not contest the loudest voice in the room, even when they know it's wrong.
 
 But here's the part that matters: **when even one actor broke from the group and said "I see it differently," 95% of test subjects said what they actually saw instead of conforming.** One voice giving them permission to disagree was all it took. The false consensus collapsed.
