@@ -339,11 +339,9 @@ When you're activated and angry, it's easy to blur this line. That's why we name
 
 These rules aren't just for participants. They're for you.
 
-**Clarity on when to act:** When you've clearly stated what will result in removal, you don't have to agonize over decisions in the moment. Someone threatens violence? You already said that's grounds for removal. Done. No second-guessing.
+**Clarity on when to act:** When you've clearly stated what will result in removal, you don't have to agonize. In the heat of a situation, ask: "Did they violate one of my stated rules?" If yes, act. If no, work through it. The rules become your decision-making framework — no second-guessing.
 
 **Accountability to your own values:** Writing it down and sharing it publicly keeps you honest. If you say "threats of violence result in removal" but then let it slide because you're scared of the person, a participant can point to your own rules and help you walk your talk.
-
-**A reference when you're unsure:** In the heat of a situation, you can ask yourself: "Did they violate one of my stated rules?" If yes, act. If no, work through it. The list becomes your decision-making framework.
 
 **Protection from accusations of targeting:** When everyone knows the rules upfront, your enforcement looks like consistency, not personal vendetta.
 
