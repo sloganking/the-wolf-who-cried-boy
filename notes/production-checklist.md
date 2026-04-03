@@ -91,7 +91,7 @@ These pages are strong but long enough that reader fatigue is a risk. A tighteni
 
 ## Quote Permissions — CANNOT SKIP
 
-- [ ] **Laurie Handlers quotes** — Three quotes added to the book pending her approval. Locations: (1) "You don't have to trust them. You just have to love them." in `from-threat-to-ally.md`, (2) "Completion is really an act of love." in `making-it-right.md` opening, (3) "Completion is a process..." in `making-it-right.md` iterative repair section. Screenshot each quote in context and send to Laurie for approval. She may want to tighten wording for print. If she declines any, remove or paraphrase.
+- [x] **Laurie Handlers quotes** — Approved by Laurie. Three quotes added to the book. Locations: (1) "You don't have to trust them. You just have to love them." in `from-threat-to-ally.md`, (2) "Completion is really an act of love." in `making-it-right.md` opening, (3) "Completion is a process..." in `making-it-right.md` iterative repair section. Screenshot each quote in context and send to Laurie for approval. She may want to tighten wording for print. If she declines any, remove or paraphrase.
 
 ## Legal Review — CANNOT SKIP
 
