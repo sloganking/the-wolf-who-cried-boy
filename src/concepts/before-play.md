@@ -514,9 +514,7 @@ Trust Baseline         Can you BOTH extend the trust that a mistake is a mistake
 
 ## This Is Taking Responsibility
 
-Having this conversation before play is [taking responsibility](./responsibility.md) proactively.
-
-You're not waiting for something to go wrong and then trying to repair it. You're creating the conditions for a **good thing**—where both people feel good during AND after.
+Having this conversation is [taking responsibility](./responsibility.md) proactively — shaping the outcome before it happens.
 
 **For facilitators:** Teaching participants to have this conversation before play is part of preparing them for temple nights and open play. If you skip this education, you're setting people up for the mistakes this book is about.
 
