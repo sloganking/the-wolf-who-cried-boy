@@ -56,7 +56,7 @@ This is why drama never resolves. The roles feed each other.
 
 ---
 
-## The Shifts
+## The Empowerment Shifts
 
 Each role has a healthy version. The shift from drama to empowerment is the shift from reactive to chosen:
 
