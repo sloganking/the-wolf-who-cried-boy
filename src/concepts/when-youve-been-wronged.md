@@ -354,7 +354,7 @@ Take responsibility for your actual mistakes. Reject the distortions. Heal. And 
 
 ## The Way Out
 
-Everything above tells you what to do. This section is about something deeper: why you feel like a victim, and how to stop.
+Everything above tells you what to do. This section is about something deeper: why you feel like a victim, and how to stop. This applies whether someone attacked your reputation, crossed your boundaries, or you [fawned](./fawning.md) during intimacy and feel violated — the victim feeling comes from the same place.
 
 ### Pain Is Part of Life. Suffering Is Optional.
 
