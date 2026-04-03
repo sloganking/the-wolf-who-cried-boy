@@ -51,6 +51,8 @@ I wish someone had told me this during those six weeks. Not "leave because she's
 
 The next time I was in a situation that wasn't right, I recognized the feeling — the same specific powerlessness, the same depression of watching myself not act. I gave it three days instead of six weeks. The feeling didn't change. I left. Instant relief, zero regret. My body already knew the answer. This time, I listened before the anger had to force it.
 
+Here's the part most people wouldn't say: I used her to abuse myself. I had [100% control](../tools/100-percent-control.md) the entire time. I could have said *this isn't working for me* on day one and walked away. I didn't — because disappointing her felt scarier than suffering. And my fawning wasn't just unkind to me. It was unkind to *her*. She wanted a monogamous partner who wanted what she wanted. I was never going to be that. By staying, I let her believe she had something she didn't — and every day I stayed was a day she wasn't free to find what she actually needed. Pleasing someone isn't the same as serving them. I was giving her what she asked for while withholding what she deserved: the truth.
+
 ### The Pattern That Heals
 
 1. **You fawn** (because it's automatic)
