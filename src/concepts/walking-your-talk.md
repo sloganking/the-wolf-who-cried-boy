@@ -378,20 +378,6 @@ When someone in your container is being attacked — even if the room thinks the
 
 ---
 
-## This Is Your Integrity
-
-Walking your talk is the most important thing as a facilitator.
-
-Not your curriculum. Not your marketing. Not your reputation. Not how many retreats you've led or trainings you've completed.
-
-**Your integrity.**
-
-The alignment between what you say and what you do. The alignment between what you teach and who you are.
-
-That's what participants actually learn from. That's what changes their lives. That's what makes you worth following.
-
----
-
 ## Your First Officer
 
 > **"Every good captain needs a first officer who will tell him when he's wrong."**  
