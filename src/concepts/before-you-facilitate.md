@@ -335,14 +335,6 @@ If your primary goal is to make sure you and others are safe, you're in defense.
 
 When you're activated and angry, it's easy to blur this line. That's why we name it upfront: strong emotions are welcome, defensive actions are protected, but using an incident as license to attack will not be tolerated.
 
-### The Key Distinction
-
-**Mistakes made in good faith** → Protected. Work through it. Learn. Stay.
-
-**Intentional harm or repeated violations** → Not protected. Asked to leave.
-
-This isn't about being harsh. It's about being clear. When people know exactly where the lines are, they can relax inside them.
-
 ### Why This Benefits You (The Facilitator)
 
 These rules aren't just for participants. They're for you.
