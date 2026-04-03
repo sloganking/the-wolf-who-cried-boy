@@ -70,8 +70,6 @@ At worst, they keep winding up in situations that cause them suffering. The same
 
 This is why we care about responsibility. Not because it's the "right" thing to do. Because it's the only path to actually getting what you want.
 
-**Responsibility is always beneficial.** There is no downside to the person taking it. Pure upside. You see your power, you can use it, that's it.
-
 People avoid responsibility because they confuse it with accountability or punishment—which may involve costs, inconvenience, or suffering. But responsibility itself? No cost. Only power.
 
 The choice is simple:
