@@ -45,7 +45,7 @@ The fawning mind has a counter-argument ready: *but what if it gets better?* I k
 
 If you've been checking in with yourself and the answer has been "bad" for weeks — it's not going to change. The person who needs more data is your fawning mind. Your body decided a long time ago.
 
-This connects to everything the book teaches about [consent](./before-play.md). Your no doesn't need justification. [Your touch is a privilege](./healing-fawning.md#your-touch-is-a-privilege) — and that means your presence is too. You can rescind it for any reason, including "I feel bad and I don't know why." The inability to articulate *what's wrong* doesn't mean nothing is wrong. It means your body knows something your mind hasn't caught up to yet.
+Your no doesn't need justification. [Your touch is a privilege](./healing-fawning.md#your-touch-is-a-privilege) — and that means your presence is too. You can rescind it for any reason, including "I feel bad and I don't know why." The inability to articulate *what's wrong* doesn't mean nothing is wrong. It means your body knows something your mind hasn't caught up to yet.
 
 I wish someone had told me this during those six weeks. Not "leave because she's manipulative" — I couldn't see that clearly enough to act on it. But "leave because you feel terrible, and that's enough." That I could have heard.
 
