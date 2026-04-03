@@ -2,7 +2,7 @@
 
 ---
 
-## The Concept
+## The Dance Metaphor
 
 It takes two to dance.
 

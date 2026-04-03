@@ -5,7 +5,7 @@
 
 ---
 
-## The Thesis
+## Rescuers Outscale Predators
 
 > **Rescuers cause more destruction than predators ever could.**
 
@@ -185,7 +185,7 @@ That's what made the oppression so durable. It wasn't enforced by a few predator
 
 ---
 
-## The Mechanism
+## The Five Dangers of Certainty
 
 Why are Rescuers so dangerous?
 
