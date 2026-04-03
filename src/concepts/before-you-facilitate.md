@@ -347,15 +347,9 @@ These rules aren't just for participants. They're for you.
 
 **Protection from accusations of targeting:** When everyone knows the rules upfront, your enforcement looks like consistency, not personal vendetta.
 
-### Communicate This Early
-
-This should be communicated at the very beginning of your container—before anything happens. Not after someone makes a mistake. Not as a reaction to conflict.
-
-When it's established upfront, it's a framework for safety. When it's announced mid-conflict, it looks like targeting.
-
 ### Example: How to Present This
 
-Here's language you might use at the opening of your container:
+This should be communicated at the very beginning of your container — not after someone makes a mistake, not as a reaction to conflict. When it's established upfront, it's a framework for safety. When it's announced mid-conflict, it looks like targeting. Here's language you might use:
 
 > "Before we begin, I want to make a sacred promise to you.
 >
