@@ -549,7 +549,7 @@ Much of it came from your own fawning.
 
 Not from what they did. From you staying and receiving it. From you not using your power to leave, to set boundaries, to make it stop.
 
-This isn't victim-blaming. The person who attacked you is still responsible for being an attacker. But the duration and intensity of your suffering was largely determined by how long you stayed in a situation you could have left.
+The person who attacked you is still responsible for being an attacker. But the duration and intensity of your suffering was largely determined by how long you stayed in a situation you could have left.
 
 That's bitter medicine. But it's also freedom.
 
