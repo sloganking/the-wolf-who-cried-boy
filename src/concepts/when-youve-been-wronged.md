@@ -141,14 +141,6 @@ Notice what you never said: "I'm not a monster." "I'm not what they're calling m
 
 The people who still call this manipulation after watching you state a belief in human dignity, provide evidence of repair, and calmly set a boundary — they'll be contested by the people in the room who aren't [belief-blind](./trauma-and-filters.md). The burden of proof just shifted. It's no longer on you to prove you're not a monster. It's on them to explain how standing on a principle of human dignity is manipulation. Let them try.
 
-### Set Boundaries About How You're Spoken To
-
-You don't have to stand there and absorb someone's rage.
-
-> "I'm open to having a conversation about what happened when you're ready to speak to me with respect. Until then, I'm not available for this."
-
-Then disengage. You don't owe them your presence while they attack you.
-
 **Your body trusts what you show it, not what you tell it.** If you stay and absorb it, you show your body: *when this happens, I'm powerless.* If you set the boundary and leave, you show your body: *when this happens, I handle it.* A body that trusts you to protect it doesn't need to be terrified of making mistakes in the future. The fear was never about the angry person — it was about whether you could keep yourself safe. (For the full picture of why this matters, see [what happens when you stay vs. when you leave](./guiding-public-repair.md#if-youre-being-yelled-at).)
 
 ### Remember: Their Response Is Data About Them
