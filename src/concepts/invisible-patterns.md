@@ -271,31 +271,6 @@ This isn't about being paranoid about your every perception. It's about humility
 
 This is why [Notice, Feel, Story](../tools/notice-feel-story.md) and [Before You Judge](./before-you-judge.md) matter so much. They're tools for catching your filters before they cause harm.
 
-## The Problem in Sex-Positive Spaces
-
-When a boundary violation occurs, what do you assume about the person who made it?
-
-- Do you assume the best or the worst?
-- What meaning do you ascribe to mistakes?
-- Do you know you have trauma that causes your interpretations to lean a certain way?
-
-### How Trauma Distorts Everything
-
-Trauma creates subconscious filters. You may not even know you have trauma. It may just be one of those filters you view the world through.
-
-**A belief and narrative about the world and what happened to you.**
-
-Whatever comes up—whatever mistake someone makes, you make it, they make it—you're going to view everything through your beliefs and filters, **which are not necessarily real.**
-
-Someone's hand brushes your thigh:
-
-- Without trauma filter: "That was probably accidental. I'll mention my boundary if it happens again."
-- With trauma filter: "They're testing me. This is how it starts. I need to protect myself."
-
-Both interpretations create very different [appropriate responses](./appropriate-response.md).
-
-One leads to a simple conversation. The other might lead to accusations, witch hunts, or [high-severity](./severity.md) responses to a low-severity mistake.
-
 ## The Filter You Don't Know You're Wearing
 
 There may be a single sentence running your life and tainting how you see everything in the world.
