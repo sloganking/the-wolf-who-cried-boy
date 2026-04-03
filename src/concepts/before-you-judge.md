@@ -2,7 +2,7 @@
 
 ---
 
-## The Problem
+## Judging Before Verifying
 
 When something happens in a community, people form opinions fast.
 

@@ -2,7 +2,7 @@
 
 ---
 
-## The Problem
+## Stories Disguised as Facts
 
 When something happens, we instantly create a story about it.
 

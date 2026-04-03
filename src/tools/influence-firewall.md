@@ -68,7 +68,7 @@ The difference between these two people isn't character. It isn't intelligence. 
 
 ---
 
-## The Tool
+## Label What Gets Installed
 
 When someone is talking to you — especially when emotions are high — label what each sentence *does to you*. Not what it says. What it installs.
 
