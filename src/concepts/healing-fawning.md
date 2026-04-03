@@ -29,6 +29,20 @@ Here's what it looked like for me:
 >
 > Six weeks is a long time. But it was faster than my previous relationships. And that's the point: **each time this happens, recovery gets faster and easier.**"
 
+Looking back, I was depressed every single day. I felt powerless — not because of anything she did in any one moment, but because I was watching myself not leave. I knew it was wrong. My body knew it was wrong from day one. But I kept trying to *justify* leaving — looking for the smoking gun, the specific behavior I could point to and say *that's why.* As if feeling terrible every day wasn't enough on its own.
+
+That's the trap fawning sets: you believe you need *evidence* before you're allowed to leave. You need to catch them manipulating you. You need to identify the specific thing they're doing wrong. You need a label — narcissist, abuser, manipulator — before your exit feels legitimate.
+
+You don't. Here's the rule I eventually learned, and it's one of the most important things I've ever internalized:
+
+> **If you consistently feel bad around someone, that is a sufficient reason to leave. You don't need to prove anything about the other person.**
+
+Your [body is a qualified source](./body-stories.md). If every day with someone feels like dread, your body has already made the assessment your mind is still debating. You don't need to catch them in a lie. You don't need a diagnosis. You don't need a framework to file them under. You just need to notice the pattern in your own experience — and if the pattern is *I feel terrible every time I'm around this person* — that's enough. Leave.
+
+This connects to everything the book teaches about [consent](./before-play.md). Your no doesn't need justification. [Your touch is a privilege](./healing-fawning.md#your-touch-is-a-privilege) — and that means your presence is too. You can rescind it for any reason, including "I feel bad and I don't know why." The inability to articulate *what's wrong* doesn't mean nothing is wrong. It means your body knows something your mind hasn't caught up to yet.
+
+I wish someone had told me this during those six weeks. Not "leave because she's manipulative" — I couldn't see that clearly enough to act on it. But "leave because you feel terrible, and that's enough." That I could have heard.
+
 ### The Pattern That Heals
 
 1. **You fawn** (because it's automatic)
