@@ -12,8 +12,6 @@ Or, put another way:
 
 > **We must become what we wish to teach.**
 
-This is the most important thing to understand as a facilitator. More important than your curriculum. More important than your exercises. More important than anything you say.
-
 Nothing matters more for a facilitator than alignment between what you say and what you do. You can teach about consent, boundaries, and dignity all day. But what people learn is what they see you do when it's hard.
 
 Your actions are louder than your words. Every time.
