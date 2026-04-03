@@ -37,7 +37,7 @@ Someone pulls a trigger carelessly. Someone's hand strays where it shouldn't. A 
 
 **Scale: Isolated.**
 
-Tragic, but it doesn't organize. It doesn't spread. One mistake, one incident. The [Popcorn Metaphor](../tools/popcorn-metaphor.md)—you burned the popcorn, you learn, you move on.
+Tragic, but it doesn't organize. It doesn't spread. One mistake, one incident. The [Popcorn Metaphor](./types-of-mistakes.md#the-popcorn-metaphor)—you burned the popcorn, you learn, you move on.
 
 ### Harmful Beliefs
 

@@ -326,7 +326,7 @@ This is almost always wrong. And it causes enormous harm.
 
 Unconscious mistakes often don't have satisfying explanations.
 
-Think about the [popcorn metaphor](../tools/popcorn-metaphor.md). When you burn popcorn, you can say "I wasn't paying attention." But you've been inattentive before without burning popcorn. So why this time?
+Think about the [popcorn metaphor](./types-of-mistakes.md#the-popcorn-metaphor). When you burn popcorn, you can say "I wasn't paying attention." But you've been inattentive before without burning popcorn. So why this time?
 
 Sometimes there isn't a deeper reason. That's what makes it an unconscious mistake—they weren't thinking when it happened. And demanding an explanation they can't give, then treating that absence as proof of malice, is how communities destroy innocent people.
 

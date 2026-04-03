@@ -156,7 +156,7 @@ Learning sticks better when it's immediately applicable. Real experiences make t
 
 1. [Severity](./concepts/severity.md) — The scale of harm
 2. [Types of Mistakes](./concepts/types-of-mistakes.md) — Not all mistakes are the same
-3. [The Popcorn Metaphor](./tools/popcorn-metaphor.md) — A gentle way to understand accidents
+3. [The Popcorn Metaphor](./concepts/types-of-mistakes.md#the-popcorn-metaphor) — A gentle way to understand accidents
 4. [Fawning](./concepts/fawning.md) — When "yes" means "no"
 5. [Responsibility](./concepts/responsibility.md) — What it actually means
 6. [Appropriate Response](./concepts/appropriate-response.md) — Matching your reaction to reality
