@@ -310,16 +310,6 @@ These become the lessons they carry into their lives. Not your slides. Not your 
 
 ## The Gap Between Knowing and Being
 
-Many facilitators *know* these principles. They can articulate them perfectly. But there's a gap between knowing and being.
-
-When you're tested:
-- Do you *become* what you teach?
-- Or do you revert to old patterns while your words echo uselessly in everyone's memory?
-
-This is why the hardest work for facilitators isn't learning the material. It's **embodying** it so deeply that you don't have to think about it when things get hard. It just *is* who you are.
-
-### The Ultimate Standard
-
 Here's the bar to hold yourself to:
 
 > **If I had no words—if I could only be observed—would my actions teach the principles I claim to believe?**
