@@ -32,7 +32,7 @@ Jordan says "It's fine" but looks uncomfortable. They get up and move to another
 
 - Alex wasn't thinking—they shifted in their sleep-adjacent state
 - No malicious intent
-- Classic [popcorn situation](./tools/popcorn-metaphor.md)
+- Classic [popcorn situation](./concepts/types-of-mistakes.md#the-popcorn-metaphor)
 
 → **ACCIDENT (unconscious)**
 

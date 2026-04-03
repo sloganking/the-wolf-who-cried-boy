@@ -85,7 +85,7 @@ No human being perfectly fits an archetype. People are complex, contradictory, a
 | Type                          | Description                                                                         |
 | ----------------------------- | ----------------------------------------------------------------------------------- |
 | **Conscious, harmful belief** | They were thinking, but the belief driving them was harmful                         |
-| **Unconscious, not thinking** | Autopilot, sleepy, careless — the [Popcorn](../tools/popcorn-metaphor.md) situation |
+| **Unconscious, not thinking** | Autopilot, sleepy, careless — the [Popcorn](#the-popcorn-metaphor) situation |
 
 ## The Mistake Matrix
 
@@ -221,7 +221,7 @@ The conscious mind isn't at full capacity. Tired, medicated, intoxicated, emotio
 
 When your conscious mind is running at 40%, your unconscious has more control. Mistakes become more likely—not because you wanted to make them, but because the part of you that would have stopped them wasn't fully online.
 
-This is the classic [Popcorn Metaphor](../tools/popcorn-metaphor.md) situation—you've done something successfully a thousand times, but this time you were sleepy or impaired, and an accident happened. The [Gun Test](../tools/gun-test.md) helps you catch when you're too impaired to play safely.
+This is the classic [Popcorn Metaphor](#the-popcorn-metaphor) situation—you've done something successfully a thousand times, but this time you were sleepy or impaired, and an accident happened. The [Gun Test](../tools/gun-test.md) helps you catch when you're too impaired to play safely.
 
 ### Different Causes → Different Prevention
 
@@ -235,7 +235,7 @@ Sometimes it's one cause. Sometimes it's a combination. Sometimes you don't know
 
 ### A Personal Example
 
-I made my first significant unconscious mistake at a retreat. What happened was my hand strayed somewhere it shouldn't have. For one second. A [popcorn metaphor](../tools/popcorn-metaphor.md) moment—unconscious, automatic, not a choice I made consciously.
+I made my first significant unconscious mistake at a retreat. What happened was my hand strayed somewhere it shouldn't have. For one second. A [popcorn metaphor](#the-popcorn-metaphor) moment—unconscious, automatic, not a choice I made consciously.
 
 When I tried to understand why it happened, I was confused. The action didn't line up with my identity. I only want to create good things. Things where everyone participating feels good both during and after. I'm completely disinterested in crossing boundaries. So why did my body do something I would never consciously choose?
 
@@ -278,5 +278,5 @@ You prevent mistakes by doing both: staying conscious as much as possible, *and*
 
 - [Severity](./severity.md) — How serious (separate from type)
 - [Fawning](./fawning.md) — Deep dive on this type
-- [Popcorn Metaphor](../tools/popcorn-metaphor.md) — Teaching tool for accidents
+- [Popcorn Metaphor](#the-popcorn-metaphor) — Teaching tool for accidents
 - [Trauma & Filters](./trauma-and-filters.md) — Why people misread types
