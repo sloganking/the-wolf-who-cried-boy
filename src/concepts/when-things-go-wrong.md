@@ -138,24 +138,6 @@ If you model "staff don't defend themselves," you're teaching participants that 
 
 That's not the lesson you want to teach.
 
-### What You're Modeling
-
-When you set a boundary with someone who's attacking you, you model:
-
-- Self-respect is non-negotiable
-- Dignity applies to everyone—including the accused
-- Anger doesn't grant permission to abuse
-- Values hold even when things get hard
-
-When you fawn and appease, you model:
-
-- Anger wins
-- If you're loud enough, you get your way
-- Facilitators/staff are afraid of participants
-- The person crying victim controls the container
-
-**Which lesson do you want participants to learn?**
-
 ---
 
 ## The Facilitator's Dilemma
