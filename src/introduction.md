@@ -1,6 +1,6 @@
 # Introduction
 
-**⚠️ This book is still a work in progress. Some sections are drafts, some are being rewritten, and the structure may change. You're reading a living document.**
+**⚠️ This book is substantively complete. The frameworks, structure, and core ideas are all in place. You may encounter tightening edits, occasional new ideas, and a final polish pass before publication — but everything that matters is here.**
 
 ---
 
