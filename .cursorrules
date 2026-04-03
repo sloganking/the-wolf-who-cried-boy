@@ -33,6 +33,7 @@ See `notes/writing-guide.md` for the full guide. Core rules:
 3. After making the edit, re-read the result in context and rate it 1-10. If it's below 7, revert.
 4. **The book being too long is better than the book being lobotomized.** Redundancy is a lesser sin than losing value. If in doubt, keep it.
 5. Never cut just because something "looks redundant." Two passages can describe similar ideas and both add value if they serve different purposes (mechanism vs. destination, abstract vs. visceral, teaching vs. hope).
+6. **Don't cut consolidation lists after narrative sections.** When a bullet list follows a long narrative/scenario and distills the key concepts into scannable, memorable points, that list is doing a different job than the narrative — it's a memory anchor. Readers retain bullet points differently than prose. Cutting a list like this because its content was "already covered" in the narrative is a mistake. (Example: "Your Duty as Facilitator" in `walking-your-talk.md` had a 4-item bullet list crystallizing what was taught through stories above it. Cutting it was wrong and had to be reverted.)
 
 ## Co-Creation
 

@@ -10,5 +10,5 @@ Pages that have completed their first tightening pass.
 
 - [x] `i-made-a-mistake.md` — Cut "Response to Misunderstanding" subsection (redundant with narrative lock + Return to Community), cut restating bridge in "Clearest Judge," merged two redundant paragraphs in repair-as-privilege section (fixed broken link), cut restating knowledge/wisdom paragraph in closer, added prevention bullet to goals list. Page is tight; remaining length is distinct content.
 - [x] `before-you-facilitate.md` — Cut duplicate "pause the container" instruction, removed "This Is Taking Responsibility" telling-after-showing, merged "No Judgment Either Way" stub into preceding section, cut "The Key Distinction" summary (third restatement of "relax inside the lines"), merged "Communicate This Early" stub into Example section, merged duplicate "clarity/reference" bullets. Page is tight; remaining length is distinct facilitation guidance.
-- [ ] `walking-your-talk.md`
+- [x] `walking-your-talk.md` — Cut "This Is Your Integrity" recap section (word-for-word restatement of opening thesis), cut opening paragraph that duplicated the one below it, cut "Gap Between Knowing and Being" intro (restated embodiment > curriculum from 200 lines earlier, kept the test question). Page is tight; remaining length is distinct content.
 - [ ] `responsibility.md`

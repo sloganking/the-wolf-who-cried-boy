@@ -107,7 +107,7 @@ If someone's boundary was crossed, they can take responsibility by asking:
 - Did I [fawn](./fawning.md) instead of speaking up?
 - What will I do differently next time to create a different outcome?
 
-This isn't victim-blaming. It's recognizing: **You have power in who you choose to interact with and how.**
+**You have power in who you choose to interact with and how.**
 
 Next time, before playing with someone, you can make sure you actually know and trust them. That's taking responsibility.
 
@@ -463,7 +463,7 @@ This isn't about excusing what they did. It's about reclaiming your power. As lo
 
 The lightning struck you. But you chose to be in the field.
 
-### The Questions You Ask
+### Ask Better Questions
 
 Here's another way to catch yourself in that moment: **notice what question you're asking.**
 
