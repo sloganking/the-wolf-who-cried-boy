@@ -200,7 +200,7 @@ Most people hear someone creating fear, urgency, and moral pressure — and they
 
 This tool gives you a gap between what someone says and what you do about it. A pause. A moment to label what's happening before it drives your behavior.
 
-You don't have to use it on everyone. You don't have to be suspicious of every conversation. But when emotions are high, when someone is pressuring you to act *now*, when you feel fear or shame rising in response to someone's words — that's when you run the firewall.
+You don't have to use it on everyone. You don't have to be suspicious of every conversation. But when emotions are high, when someone is pressuring you to act *now*, when you feel fear or shame rising in response to someone's words — that's when you run the firewall. Once you start, you'll notice the pattern everywhere — not just in conversations, but in news, social media, advertising. Anything designed to make you act before you think runs on the same sequence: fear, urgency, moral pressure, recruitment.
 
 Label what's being installed. Check the pattern. Ask: *for them, or for me?*
 
