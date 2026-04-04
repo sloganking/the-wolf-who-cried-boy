@@ -121,7 +121,7 @@ Not because you did it. But because you were part of the system that created it.
 
 Imagine a facilitator running a week-long retreat designed for people new to sex-positive spaces. The room is mostly first-timers. At the end of the week, there's an open temple night where people can play.
 
-**Irresponsible approach:** "Okay everybody, go fuck each other, have fun!" No education. No teaching about fawning, boundaries, safer sex conversations. Just first-timers fumbling into intimacy with no preparation.
+**Irresponsible approach:** "Alright everyone, temple's open tonight — have fun!" No education. No teaching about fawning, boundaries, safer sex conversations. Just first-timers fumbling into intimacy with no preparation.
 
 What happens? Accidents. People feel bad. They don't know how to handle it. Blame spirals. Witch hunts.
 
