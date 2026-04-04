@@ -500,22 +500,7 @@ This fucking sucks.
 
 So now, every time I meet someone new, I'm asking myself: _Can I trust you? If you don't want something, will you tell me? Or will you say yes and then blame me later?_
 
-When someone says no clearly—especially repeatedly, showing me they own their boundaries—I feel safe with them. I can trust their yes. I can relax. The pressure is off both of us.
-
-### The Counterintuitive Truth
-
-Many people think saying no will damage their relationship with someone. "If I reject them, they won't like me."
-
-The opposite is true.
-
-When you say no clearly, you create trust. The other person knows:
-
-- Your yes means yes
-- You're not going to lie to protect their feelings
-- You won't blame them for believing you later
-- They're safe to engage with you
-
-**Hearing no creates more safety than hearing yes.** Anyone who's been in these spaces long enough knows this. A clear no is one of the most attractive things a person can do.
+When someone says no clearly—especially repeatedly, showing me they own their boundaries—I feel safe with them. I can trust their yes. I can relax. The pressure is off both of us. Many people think saying no will damage a relationship. The opposite is true. When you say no clearly, the other person knows your yes means yes, you won't lie to protect their feelings, and you won't blame them for believing you later. **Hearing no creates more safety than hearing yes.** A clear no is one of the most attractive things a person can do.
 
 If you've ever been told yes by someone who meant no — and then been attacked for believing them — you know what this feels like in your body. The next time someone gives you a clear, clean no, your whole nervous system exhales. *I can trust this person. If they're telling me no now, I can probably trust their yes too.* That relief is visceral, not intellectual.
 
