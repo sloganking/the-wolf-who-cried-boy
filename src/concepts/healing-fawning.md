@@ -504,16 +504,6 @@ When someone says no clearly—especially repeatedly, showing me they own their 
 
 If you've ever been told yes by someone who meant no — and then been attacked for believing them — you know what this feels like in your body. The next time someone gives you a clear, clean no, your whole nervous system exhales. *I can trust this person. If they're telling me no now, I can probably trust their yes too.* That relief is visceral, not intellectual.
 
-### Especially for Men
-
-I'll be direct about the gender dynamic here.
-
-As a man who typically initiates touch, I'm incredibly vulnerable to women who fawn and then cry victim. If a woman says yes when she means no, then later decides she was violated, there's not a lot I can do. The cultural narrative will side with her. My reputation can be destroyed based on her lie about her own consent.
-
-This isn't bitterness—it's [taking responsibility](./responsibility.md) for my experience. I pay attention. When I see someone fawning, that's a sign to pay closer attention. When I see them fawn and then cry victim? I'm out. I don't play with people who can't own their no. It's not going to be fun for either of us—and if something goes wrong, it would be 100% my creation for ignoring the warning signs.
-
-So when I find someone who clearly owns their no? Who says what they mean? That's gold. That's safety. That's someone I can trust.
-
 ### Especially for Fawners
 
 If you fawn, you already know firsthand how easily a subconscious process can override your will. Your body says yes before your mind catches up. You don't choose it. It just happens.
@@ -578,21 +568,17 @@ But consider the flip side:
 
 **When you touch someone, you're becoming vulnerable.**
 
-You're trusting them. You're putting yourself at risk. If they fawn and then cry victim, you could face accusations, reputation damage, witch hunts—all for believing their yes.
+You're trusting them. You're putting yourself at risk. As a man who typically initiates touch, I'm incredibly vulnerable to women who fawn and then cry victim. If a woman says yes when she means no, then later decides she was violated, there's not a lot I can do. The cultural narrative will side with her. My reputation can be destroyed based on her lie about her own consent.
 
 Your touch is a gift. Your vulnerability is a gift. Your trust is a gift.
-
-When someone mistreats that gift—when they respond to your honest mistake with wildly disproportionate aggression—they're not respecting what you offered. They're not respecting you.
 
 And here's the frame that changed everything for me:
 
 **Your touch is a privilege. You can rescind it.**
 
-If someone treats your vulnerability with contempt, with [high-severity](./severity.md) attacks for low-severity mistakes, with victim-playing instead of honest communication—they've lost the privilege of your touch.
+If someone treats your vulnerability with contempt, with [high-severity](./severity.md) attacks for low-severity mistakes, with victim-playing instead of honest communication—they've lost the privilege of your touch. You don't have to be vulnerable with people who weaponize your vulnerability against you.
 
-You don't have to play with people who don't respect the gift you're offering. You don't have to be vulnerable with people who weaponize your vulnerability against you.
-
-This isn't bitterness. It's self-respect. It's [taking responsibility](./responsibility.md) for your own safety by choosing who gets access to you.
+This isn't bitterness—it's [taking responsibility](./responsibility.md) for my experience. I pay attention. When I see someone fawning, that's a sign to pay closer attention. When I see them fawn and then cry victim? I'm out. I don't play with people who can't own their no — and if something goes wrong, it would be 100% my creation for ignoring the warning signs.
 
 Most men have never thought about it this way. But once you do, everything shifts. You stop seeing yourself as someone begging for permission. You start seeing yourself as someone offering something valuable—and choosing carefully who receives it.
 
