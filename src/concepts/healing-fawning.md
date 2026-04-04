@@ -606,23 +606,9 @@ If you struggle to tell others no—if you tend to fawn and people-please—flip
 
 **Your no is a gift.**
 
-When you tell someone no, you're not rejecting them. You're not being mean. You're not damaging the relationship.
+When you tell someone no, you're not rejecting them. You're taking care of them — protecting them from interacting with someone who doesn't actually want to be there, from the icky feeling of later finding out you didn't want it, from the potential accusation, the confusion, the harm.
 
-You're taking care of them.
-
-You're protecting them from interacting with someone who doesn't actually want to be there. You're protecting them from the icky feeling of later finding out you didn't want it. You're protecting them from the potential accusation, the confusion, the harm.
-
-When you see your no as an act of serving the other person—as creating a good thing instead of a bad thing—it becomes much easier to say it.
-
-### The Power Frame
-
-Here's another way to see it:
-
-You have [power over the people you interact with](./power-dynamics.md). Real power. The power to affect their experience, their reputation, their emotional state.
-
-**Telling someone no is a proper use of your power.** You're using it to protect both of you.
-
-**Telling someone yes when you're actually a no is a misuse of your power.** You're using it to deceive them, to create a situation that harms them, to set them up for consequences they didn't consent to.
+You have [power over the people you interact with](./power-dynamics.md). **Telling someone no is a proper use of your power.** You're using it to protect both of you. **Telling someone yes when you're actually a no is a misuse of your power.** You're using it to deceive them, to create a situation that harms them, to set them up for consequences they didn't consent to.
 
 And if you then cry victim afterward—attacking them for believing your lie—you are **using the power that comes with being wronged to punish someone for trusting you.** That should be recognized for what it is.
 
