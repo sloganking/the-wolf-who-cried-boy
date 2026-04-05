@@ -26,6 +26,8 @@ See `notes/writing-guide.md` for the full guide. Core rules:
 
 ## Pruning / Editing Rules
 
+**"Pruning" means maximizing value, not minimizing words.** Sometimes the most valuable edit is adding words, not removing them. Always evaluate through a value lens: what makes the reader's experience better? If the answer is more clarity, more emotional scaffolding, or a missing distinction — add it. If the answer is removing noise — cut it. "10x" means the highest-value move, regardless of direction.
+
 **Every edit must be evaluated for net value, not just conciseness.** Before making any cut:
 
 1. Ask: what is this section doing that no other section does? (Different frame? Different audience perspective? Hope vs. mechanism? Future state vs. present explanation?)
