@@ -131,20 +131,23 @@ What happens? People feel safe, held, and have fun. When mistakes happen—and t
 
 Most people look at this and think: "The facilitators are the ones with power to prepare people. That's their job."
 
-**Here's the part they miss:** You have just as much power as they do. And if things go wrong because people weren't prepared, that's your creation just as much as theirs.
+They're right — it IS the facilitator's job. The facilitator has a **role**: they agreed to hold the container, they may be getting paid for it, and they have structural power that comes with that role — they can set the agenda, address the whole room, and design the curriculum. When a facilitator doesn't prepare first-timers for temple night, that's a failure of their role. They agreed to do something and didn't.
 
-You're not a passive consumer of the container. You're a co-creator of it. You have power to influence what happens—whether you're staff or a first-time participant.
+**But here's the part most people miss:** having a role isn't what gives you power. It's what you *agreed to do* with power. The role tells you what someone committed to. It doesn't tell you how much power they actually have.
+
+You — as a participant — have real power to influence what happens in a container. Not the same power as the facilitator. Not the same obligation. But real power. Sometimes a participant has *more* influence than the facilitators — because they have a skill the staff doesn't, or because they see something the facilitators missed, or because they're willing to use the [power that comes with their position](./all-power-is-mutual.md) when no one else is.
+
+You're not a passive consumer of the container. You're a co-creator of it — whether you're staff or a first-time participant.
 
 Ask yourself:
 
 - Did I see warning signs and say nothing?
 - Was I talking to this person and noticed something—trauma, a limiting belief, a pattern—that I thought might cause problems later?
 - Did I let it be instead of trying to help?
-- Could I have stood up before the event started and said something to the group?
 - Could I have talked to the facilitators about what people should learn before playing?
 - Could I have taken action to improve the container's safety?
 
-The only difference between you and the facilitator is that the facilitator is expected to do these things. But nothing stops you from doing them too. And if you don't, you're responsible for that inaction—same as they would be.
+None of this means you should be doing the facilitator's job. You paid to be there. You're allowed to receive, to relax, to let the staff hold the container — that's what they agreed to do. But if something goes wrong and you find yourself saying "that was entirely the facilitator's fault" — responsibility asks: *did you have power you didn't use?* Not "should you have used it" — that's a choice. But *can you see it?* Because seeing your power is how you create differently next time.
 
 ### Examples of Taking Responsibility for Others' Mistakes
 
