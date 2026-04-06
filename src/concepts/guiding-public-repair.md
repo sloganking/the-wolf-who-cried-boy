@@ -247,9 +247,7 @@ The whole approach above — the three sentences — takes thirty seconds. Maybe
 
 But you didn't leave. Your fawning response told you staying was safer — that if you just apologized enough, they'd stop. So you stayed. And they kept going. And you kept absorbing it. And every minute you stayed was another minute of damage that you have to unravel from your nervous system later.
 
-The angry person wasn't holding you there. You were holding yourself there.
-
-> **You used them to abuse yourself.**
+The angry person wasn't holding you there. You were holding yourself there — using them to hurt yourself, one minute at a time.
 
 Your nervous system was doing what it knows how to do under threat — freeze, appease, survive. That's not a moral failure. But look at what happened: you had an exit the entire time. You had the power to stop it after thirty seconds. And you didn't take it — not because you couldn't, but because you didn't know you could.
 
