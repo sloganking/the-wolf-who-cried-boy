@@ -220,8 +220,6 @@ Which means:
 - You will feel violated by things you said yes to
 - And no one can prevent that except you
 
-I spent [six weeks using someone to abuse myself](./healing-fawning.md#why-this-works-when-therapy-often-doesnt) because no one could have stopped my fawning but me — and I wasn't ready yet.
-
 ### The Victim Trap
 
 Some fawners, when their fawning isn't caught, cry [Victim](./drama-triangle.md):
