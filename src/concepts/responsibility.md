@@ -68,6 +68,8 @@ At best, they live a smaller life than they could have. Things are okay. There a
 
 At worst, they keep winding up in situations that cause them suffering. The same conflict in every relationship. The same pattern at every job. The same "bad luck" that follows them everywhere. And because they see themselves as powerless—because they believe everything that happens is determined by forces outside them—they feel terrified. Helpless. It's a hellish, painful life. Not because the world is actually that dangerous, but because their story says it is.
 
+That repetition isn't random. **The lesson will be presented until it is learned.** You keep ending up in the same situation because you haven't yet learned how to not create it. The situation isn't the problem — it's the curriculum. And you graduate by asking *what lesson is being presented here?* instead of *why does this keep happening to me?* One question gives you power. The other keeps you enrolled in the same class forever.
+
 This is why we care about responsibility. Not because it's the "right" thing to do. Because it's the only path to actually getting what you want.
 
 People avoid responsibility because they confuse it with accountability or punishment—which may involve costs, inconvenience, or suffering. But responsibility itself? No cost. Only power.
