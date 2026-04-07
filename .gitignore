@@ -5,6 +5,11 @@ docs/
 .DS_Store
 Thumbs.db
 
+# Large/binary files
+*.mp4
+*.pdf
+*.png
+
 # Python
 __pycache__/
 *.pyc
