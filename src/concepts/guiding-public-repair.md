@@ -273,9 +273,9 @@ But if the facilitators are fawning — if they're afraid of the angry person an
 
 > "I notice you're not enforcing the agreements we were promised at the beginning of this container. I understand this is hard. And if [person] continues to harass me and you don't act, I can't stay here. I don't want to leave, and I don't want to have to tell people why I left — but I will if I have to."
 
-You're not threatening. You're stating reality. The facilitator is afraid of the angry person writing a bad review or slandering their organization online. Fair enough — that's a real concern. But you can write a review too. And a review about a facilitator who let someone get harassed because they were too scared to act is just as damaging as whatever the angry person might write. Sometimes the facilitator needs to hear that the cost of fawning isn't zero.
+You're not threatening. You're asking for what you need — directly, specifically, and honestly. If the facilitator can act, they will. If they can't — if their fawning is stronger than their commitment to the container — that's information. It tells you whether this space can hold what it promised, and whether you want to come back.
 
-This isn't overstepping. This is what a healthy container looks like — participants who care enough about the process to help hold it, especially when the facilitator is struggling. The [promise](./before-you-facilitate.md#the-promise) is held by everyone, not just the person at the front of the room.
+If you leave, be honest about why when people ask. Not as retaliation — as truth. "I left because I wasn't being protected, and the facilitator wasn't willing to enforce the agreements." That's not an attack on the facilitator. It's a description of what happened. The same inarguable, story-free language this book teaches everywhere else. Let people draw their own conclusions.
 
 ---
 
