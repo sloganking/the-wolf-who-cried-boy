@@ -1,0 +1,12 @@
+---
+description: How to review and rate book pages
+alwaysApply: true
+---
+
+# Page Review Protocol
+
+When the user asks to review or rate a page (1-10 or otherwise):
+
+1. **Read the entire page first.** Have the full content in context before forming any opinion.
+2. Never rate based on partial reads, summaries, or memory from earlier in the conversation.
+3. If the page is too long for a single read, use multiple reads or a subagent to ensure full coverage.
