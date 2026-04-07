@@ -139,11 +139,23 @@ Not to fight their battle. To help them fight it themselves.
 
 This is covered in detail in [When You See Someone Fawning](./when-things-go-wrong.md#when-you-see-someone-fawning). In public processing, it's even more critical — because fawning in front of the whole room means the whole room watches someone submit. And they learn: that's how conflicts end here. The louder person wins. That lesson poisons every future interaction in the container.
 
+### Rapport Before Truth
+
+Everything above — guiding honesty, narrating dynamics, interrupting fawning — requires one thing: the person you're guiding needs to feel you're on their side.
+
+Not that you agree with everything they say. Not that you'll protect them from accountability. That you genuinely care about them and want to help them get to something real.
+
+Rapport isn't a technique. It's the prerequisite that makes every other technique on this page work. Without it, the Context Rule fails. Guiding honesty fails. Interrupting fawning fails. All of it fails — because if the person feels the facilitator is against them, they go into [Narrative Lock](./invisible-patterns.md#narrative-lock) against the facilitator, and now the facilitator is part of the problem.
+
+Tony Robbins doesn't walk someone on stage and immediately tell them why their marriage is dying. He listens first. He empathizes. He lets them feel that he sees them — not their story, not their role in the conflict, *them*. And once they feel that, he can say the hardest truths. He can call something bullshit. He can push back on a story they've been telling themselves for twenty years. And they hear it — not as an attack, but as their friend telling them something they need to hear.
+
+The order matters. If you skip rapport and go straight to "here's what's really happening," you'll push the person into narrative lock against you. Now you're not guiding — you're just another person they need to defend against. Same words, completely different reception. The difference between "my friend is showing me something I couldn't see" and "the facilitator is attacking me" is whether you built the bridge first.
+
 ### What a World-Class Facilitator Does
 
-A truly skilled facilitator would see the fawning, gently stop the process, and walk the fawning person into their actual truth. Not by telling them what to say — by asking the right questions until the real answer surfaces.
+A truly skilled facilitator builds that bridge, then walks the fawning person into their actual truth. Not by telling them what to say — by asking the right questions until the real answer surfaces.
 
-They'd also see the activated person's pain underneath their rage, name it without endorsing their behavior, and help the room hold both things at once: this person is hurting AND the way they're expressing it is not okay.
+They see the activated person's pain underneath their rage, name it without endorsing their behavior, and help the room hold both things at once: this person is hurting AND the way they're expressing it is not okay.
 
 That's the difference between a facilitator who runs a timer and a facilitator who leads. The timer version produces fake resolution. The leading version might produce real repair.
 
