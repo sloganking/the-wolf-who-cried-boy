@@ -259,9 +259,11 @@ Your body trusts what you show it, not what you tell it. If you stay and take it
 
 ### When the Harassment Doesn't Stop
 
-Sometimes setting a boundary and leaving doesn't end it. The angry person follows you. They confront you at meals. They make scenes whenever you're in the room. They spread stories about you to other participants. They refuse to let it go.
+The best boundaries are the ones you set before you need them. Before you enter any container, know what you're not available for and when you leave — not as a list of fears, but as a promise to yourself. When pressure comes, you're not deciding whether to leave. You already decided. You're just following through. The reason this matters is [fawning](./fawning.md): under pressure, your body will negotiate away everything you care about if you let it deliberate in the moment. Pre-committing removes the deliberation.
 
-If the facilitators are holding the container, this is their problem to solve. The promise should cover it — ongoing harassment and attempts to destroy someone's reputation are grounds for removal.
+Sometimes setting a boundary and leaving a conversation doesn't end it. The angry person follows you. They confront you at meals. They make scenes whenever you're in the room. They spread stories about you to other participants. They refuse to let it go.
+
+If the facilitators are holding the container, this is their problem to solve. The [promise](./before-you-facilitate.md#the-promise) should cover it — ongoing harassment and attempts to destroy someone's reputation are grounds for removal.
 
 But if the facilitators are fawning — if they're afraid of the angry person and not enforcing boundaries — you have to protect yourself.
 
@@ -269,13 +271,13 @@ But if the facilitators are fawning — if they're afraid of the angry person an
 
 > "You cannot speak to me, about me to others, or approach me at this retreat. If that continues, I'm leaving — and I'll be honest about why."
 
-**Name what you see with the facilitator:**
+**Ask for what you need from the facilitator:**
 
-> "I notice you're not enforcing the agreements we were promised at the beginning of this container. I understand this is hard. And if [person] continues to harass me and you don't act, I can't stay here. I don't want to leave, and I don't want to have to tell people why I left — but I will if I have to."
+> "I want this to work out. I want to stay here and have a good experience. But I can't do that if [person] is calling me names and attacking my reputation. I need you to enforce the boundary. Can you do that?"
 
-You're not threatening. You're asking for what you need — directly, specifically, and honestly. If the facilitator can act, they will. If they can't — if their fawning is stronger than their commitment to the container — that's information. It tells you whether this space can hold what it promised, and whether you want to come back.
+If they can, great. If they can't — if their fawning is stronger than their commitment to the container — then you're in a space that can't hold what it promised. Staying in a container where you're not being treated with dignity isn't resilience. It's [using them to hurt yourself](./guiding-public-repair.md#three-sentences-then-you-leave), one hour at a time. If you pre-committed to your conditions, you already know what to do. Follow through.
 
-If you leave, be honest about why when people ask. Not as retaliation — as truth. "I left because I wasn't being protected, and the facilitator wasn't willing to enforce the agreements." That's not an attack on the facilitator. It's a description of what happened. The same inarguable, story-free language this book teaches everywhere else. Let people draw their own conclusions.
+If you leave, be honest about why when people ask. Not as retaliation — as truth. "I left because I wasn't being protected, and the facilitator wasn't willing to enforce the agreements." That's not an attack. It's a description of what happened — the same inarguable, story-free language this book teaches everywhere else. Let people draw their own conclusions.
 
 ---
 
