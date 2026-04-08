@@ -203,6 +203,16 @@ As a facilitator, you should be catching the signs of fake resolution as they ha
 
 For the full repair framework — how to make it right, how to ask for what you need, how to avoid fawning during repair — see [Making It Right](./making-it-right.md).
 
+### Closing
+
+When the conversation reaches its truth — whether that's reconnection, a clear ending, or simply both people understanding each other — the facilitator's last job is to close it for the room.
+
+Check in with both parties: "How do you feel right now? Is there anything left unsaid?" If they're complete, let that be visible. The room needs to see that both people arrived somewhere real — not because you steered them there, but because they got there honestly.
+
+Then give the room a moment. People just watched something intense. Some of them saw their own patterns in it. A brief pause — even just a few seconds of silence — lets that land before you move on.
+
+If it feels right, name what the room just witnessed: "What you saw was two people being honest with each other about something hard, and getting to the other side of it." Not a lecture — a frame. Let them carry what they learned into the rest of the container.
+
 ---
 
 ## When It Doesn't Work
