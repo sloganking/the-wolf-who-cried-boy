@@ -179,6 +179,10 @@ That's the difference between a facilitator who runs a timer and a facilitator w
 
 Whether public or private, repair is either real or it isn't. Knowing the difference matters — because fake resolution looks convincing. People watch it and think something good happened.
 
+**One thing to get clear on first:** the goal of repair isn't reconciliation. It's not "everyone likes each other at the end." It's not "the relationship goes back to how it was before." The goal is that both people arrive at their truth — what they actually feel, what they actually want, what they're actually willing to do — and make their next decision from clarity, not fear.
+
+Sometimes that means the relationship gets closer. Sometimes it means it ends. A facilitator who's attached to reconciliation will push people toward "making up" — which is just another form of fawning, except now the facilitator is doing it. Your job is to guide both people into honesty. What they do with that honesty is theirs.
+
 ### What Real Repair Looks Like
 
 - **Both people acknowledge what they could have done differently — and what they'll do in the future.** Not perfectly symmetrically — sometimes one person clearly made the bigger mistake — but both are looking at their part. The person who crossed the boundary recognizes they failed a [gun check](../tools/gun-test.md) or didn't check in enough before playing. The angry person recognizes they didn't vet this person before agreeing to play, or didn't communicate a boundary clearly enough. Both are seeing what they can do differently next time to create what they actually want. Neither is doing all the owning while the other does all the blaming. When the audience watches this, they learn too — "oh, I haven't been doing that either, and it would save me from being in this situation."
