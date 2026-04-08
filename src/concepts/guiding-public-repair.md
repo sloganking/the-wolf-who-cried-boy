@@ -64,7 +64,7 @@ If you've decided to go public, here's the arc:
 1. **Build rapport with both parties.** Before you guide anyone, they need to feel you're on their side — not that you agree with them, but that you care about them. Without this, everything below fails. ([Rapport Before Truth](#rapport-before-truth))
 2. **Set context for the room.** Get the facts from primary sources — both people share what actually happened, before anyone else's version takes over. ([The Context Rule](#the-context-rule))
 3. **Guide the conversation.** Narrate dynamics so the room can process instead of project. Interrupt fawning. Guide honesty. ([The Facilitator's Role](#the-facilitators-role-narrator-not-timekeeper))
-4. **Check for real repair.** Both people feel genuinely good — not just relieved it's over. If one person fawned, it's not repair. ([Real Repair vs. Fake Resolution](#real-repair-vs-fake-resolution))
+4. **Check for real repair.** Both people arrived at something true — not just relieved it's over. If one person fawned, it's not repair. ([Real Repair vs. Fake Resolution](#real-repair-vs-fake-resolution))
 5. **Close it.** Acknowledge what happened, check in with both parties, and give the room a moment to land before moving on. ([Closing](#closing))
 
 The rest of this page teaches each step.
