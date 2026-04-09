@@ -28,7 +28,11 @@ Go back and read that paragraph again, but this time, label each sentence:
 
 The pattern underneath: **story → fear → urgency → guilt → recruitment.** No verification anywhere. Just interpretation, wrapped in moral obligation, driving you toward action before you've confirmed anything is real.
 
-That's not necessarily manipulation. This person might genuinely be scared and genuinely care. But their fear is now your fear — and neither of you has checked whether it's based on reality. This is how [righteous predation](../concepts/why-rescuers-are-dangerous.md) begins. Not with someone deciding to cause harm. With someone feeling afraid and spreading that fear to others who also don't verify.
+That's not necessarily manipulation. This person might genuinely be scared and genuinely care. But their fear is now your fear — and neither of you has checked whether it's based on reality.
+
+Notice what drives the rescue: the assumption that she can't protect herself. "We need to protect people in this space" sounds like [responsibility](../concepts/responsibility.md) — they're seeing their power to influence the outcome. But they skipped the person they're supposedly protecting. They never asked her how she felt. They projected their own interpretation of discomfort and went straight to action. People who struggle to protect themselves — who [fawn](../concepts/fawning.md) instead of speaking up — often assume others are equally unable. "If I were in that situation, I'd be terrified." Maybe she was. Maybe she was having a great time. The only way to know is to ask.
+
+This is how [righteous predation](../concepts/why-rescuers-are-dangerous.md) begins. Not with someone deciding to cause harm. With someone feeling afraid and spreading that fear to others who also don't verify.
 
 ### Same Concern, Different Path
 
