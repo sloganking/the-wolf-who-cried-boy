@@ -73,6 +73,8 @@ The reader should *experience* clear sight by reading this book, not just learn 
 
 This is the unifying principle behind no moralizing, inarguable writing, and show don't tell. The book walks its own talk by how it communicates everything.
 
+**Be cautious with "should."** "Should" tends to moralize — it tells people what to do instead of showing them why they'd want to. Every time you write "should," ask: can this be reframed as a consequence, a pattern, or a choice? "You should set boundaries" is moralizing. "When boundaries aren't set, the container drifts" shows what happens. The reader reaches the same conclusion without being told what to do.
+
 ---
 
 ## Style Guide
