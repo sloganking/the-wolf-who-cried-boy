@@ -403,7 +403,7 @@ This is why the promise needs to be made by the *entire facilitation team*, not 
 
 Everything above assumes the facilitator acts. But what happens when they don't?
 
-A participant makes a LOW-severity [unconscious mistake](./types-of-mistakes.md) — a one-second boundary crossing, immediately recognized. They repair with the person whose boundary was crossed that same night. She says she feels complete. By all accounts, it's handled.
+A participant makes a LOW-severity [unconscious mistake](./types-of-mistakes.md) — a momentary boundary crossing, immediately recognized. They repair with the person whose boundary was crossed that same night. The person whose boundary was crossed says they feel complete. By all accounts, it's handled.
 
 Then another participant responds with threats of violence, public attacks on their reputation, and demands that the person who made the mistake be removed. The facilitator watches this happen. They know the response is wildly disproportionate. They know the mistake was minor. They know the person making threats is the one creating danger. And they do nothing — because they're afraid.
 
