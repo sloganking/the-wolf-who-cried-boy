@@ -305,7 +305,7 @@ Sometimes setting a boundary and leaving a conversation doesn't end it. The angr
 
 If the facilitators are holding the container, this is their problem to solve. The [promise](./before-you-facilitate.md#the-promise) should cover it — ongoing harassment and attempts to destroy someone's reputation are grounds for removal.
 
-But if the facilitators are fawning — if they're afraid of the angry person and not enforcing boundaries — you have to protect yourself.
+But if the harassment continues and the facilitators haven't stopped it — for whatever reason — you have to protect yourself.
 
 **Set your own boundary with the angry person:**
 
