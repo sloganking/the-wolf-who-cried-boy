@@ -1,6 +1,6 @@
 # The Influence Firewall
 
-**⚠️ DRAFT — This page needs to be rewritten in Logan's voice with better examples and labels. The structure and concept are solid; the execution needs fire.**
+**⚠️ DRAFT — This page's structure and concept are solid. The prose still needs polish to match the rest of the book.**
 
 ---
 
