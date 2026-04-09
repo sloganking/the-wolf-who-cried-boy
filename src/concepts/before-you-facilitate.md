@@ -445,9 +445,9 @@ Every one of these fears is real. And every one of them produces the same result
 
 The most painful version of facilitator fawning is when the facilitator protects themselves or their organization instead of the person who needs it.
 
-It looks like this: the facilitator knows the over-response is wrong. They know the person being attacked should be protected. But protecting them would mean confronting the righteous predator — and the righteous predator might retaliate against the organization. Hate mail. Public accusations. Reputation damage. So the facilitator lets the attack land on the individual instead. They remove the person who was attacked, not the person attacking. The individual's reputation absorbs the hit that the facilitator was afraid of taking.
+It looks like this: someone over-responds — the response is clearly disproportionate to what happened. The person being attacked should be defended. But defending them would mean confronting the righteous predator — and the righteous predator might retaliate against the facilitator or their organization. Hate mail. Public accusations. Reputation damage. So the facilitator doesn't confront it. The attack lands on the individual instead. The person who was attacked gets removed, not the person attacking.
 
-The facilitator was afraid of exactly what happened to the participant — having their reputation destroyed. And they let it happen to someone else so it wouldn't happen to them.
+The facilitator's reputation stays intact. The individual's doesn't. Whatever the facilitator's reasons for not acting, the result is the same: the reputation damage the facilitator avoided lands on the person they were supposed to defend.
 
 ### Warning Signs You're Fawning Instead of Facilitating
 
