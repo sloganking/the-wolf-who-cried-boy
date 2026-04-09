@@ -14,3 +14,6 @@ Thumbs.db
 __pycache__/
 *.pyc
 *.pyo
+
+# Private review notes
+notes/mentor-review-flags.md
