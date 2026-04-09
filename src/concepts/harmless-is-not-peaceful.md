@@ -52,7 +52,7 @@ Every framework in this book becomes more powerful in the hands of someone who h
 
 ## The Cage
 
-If you only have restraint, this book's tools become elaborate justifications for never standing up for yourself. "I should see their blindness." "I should respond proportionally." "I should seek repair, not revenge." All true — and all [fawning dressed up as wisdom](./when-youve-been-wronged.md#dont-use-your-imperfection-to-cancel-your-anger) if you're using them to avoid the confrontation your body is begging you to have. If "I understand their blindness" makes you feel depressed instead of relieved, you're not choosing the wise response. You're using wisdom as a muzzle.
+If you only have restraint, this book's tools become elaborate justifications for never standing up for yourself. "I should see their blindness." "I should respond proportionally." "I should seek repair, not revenge." All true — and all [fawning dressed up as wisdom](./when-youve-been-wronged.md#dont-use-your-imperfection-to-cancel-your-anger) if you're using them to avoid the confrontation your body is begging you to have. If "I understand their blindness" makes you feel depressed instead of relieved, that's not wisdom. Real wisdom doesn't muzzle you. Real wisdom doesn't leave you depressed. If it does, it's not wisdom — it's fawning wearing wisdom's face.
 
 If you only have teeth, this book's tools become weapons. You learn about [severity](./severity.md) and use it to justify why YOUR high-severity response was actually proportional. You learn about [filters](./trauma-and-filters.md) and decide everyone else has them — except you. You learn about [repair](./making-it-right.md) and decide the other person owes YOU, without examining what you owe them.
 
@@ -66,9 +66,9 @@ The integration is what matters. Both capacities, wielded together, by someone w
 
 **When someone attacks you.** You don't fawn. You don't counter-attack. You [state a principle](./when-youve-been-wronged.md#show-your-humanity), set a boundary, and leave — because you have the teeth to stay and fight AND the judgment to know it won't help. Walking away isn't weakness when you could have stayed. It's the most powerful move available.
 
-**When someone you care about is being harmed.** You don't watch and hope someone else intervenes. You [step in](./walking-your-talk.md#if-you-see-an-over-response-and-dont-act) — not with aggression, but with clarity. "This isn't okay. This stops now." The capacity for confrontation is what makes you useful in the moment that matters.
+**When someone you care about is being harmed.** You don't watch and hope someone else intervenes. You step in. You stop the immediate harm — with power, not aggression. Eyebrows furrowed, voice grounded, a "no" that lands like a wall. Then you go into inquiry, not reaction. You find out what happened. You [verify](./before-you-judge.md). The righteous predator also steps in — but they never stop swinging long enough to ask questions. You stop the harm AND hold the space for truth. That's the difference.
 
-**When you've been wronged and you're furious.** You let yourself feel the fury. All of it. You don't intercept it with empathy. You don't use this book's frameworks to skip over your rage. You feel it — and then, from the settled place after the emotion has moved through, you choose your response. Not because the fury wasn't real. Because you have something more precise to do with it.
+**When you've been wronged and you're furious.** You let yourself feel the fury. All of it. You don't use your empathy as an excuse to cancel out the anger — "I understand why they did it, so I shouldn't be mad." No. You can understand why they did it AND be furious that they did it. You don't use this book's frameworks to skip over your rage. You feel it — and then, from the settled place after the emotion has moved through, you choose your response. Not because the fury wasn't real. Because you have something more precise to do with it.
 
 ---
 
