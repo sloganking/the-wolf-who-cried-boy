@@ -319,7 +319,13 @@ If they can, great. If they can't — if their fawning is stronger than their co
 
 And if leaving is exactly what the angry person wanted — if they were trying to drive you out — leave anyway. "I can't leave because then they win" is a form of being controlled by them. Your decision to stay or go should be based on your own conditions, not on denying them theirs. The person who should be removed is the one harassing you, not you. That's the facilitator's job. If the facilitator won't do it, you can't fix that by suffering through it. Protect yourself first. Their failure is their creation, not yours.
 
-If you leave, be honest about why when people ask. Not as retaliation — as truth. "I left because I wasn't being protected, and the facilitator wasn't willing to enforce the agreements." That's not an attack. It's a description of what happened — the same inarguable, story-free language this book teaches everywhere else. Let people draw their own conclusions.
+This shouldn't have happened to you. The person who should have been removed was the one harassing you — not you. You paid for a container that promised to hold you, and it didn't. That's the facilitator's failure, and you have every right to ask for your money back. Not as leverage — as a straightforward response to a broken agreement.
+
+If you leave, be honest about why when people ask. Not as retaliation — as truth. "I left because I wasn't being protected, and the facilitator wasn't willing to enforce the agreements." That's not an attack. It's a description of what happened — the same inarguable, story-free language this book teaches everywhere else. Don't repeat the names they called you — just describe the behavior. Let people draw their own conclusions.
+
+And take what you learned forward. You now know something about this facilitator: their container can't hold what it promises. Next time, vet differently. Ask harder questions before you enter. Choose facilitators who have a [promise](./before-you-facilitate.md#the-promise) and the spine to enforce it. That's [responsibility](./responsibility.md) — not for what happened to you, but for what you create next.
+
+For the full picture of what to do after you've been wronged — the emotional aftermath, advocating with facilitators, and finding your way out of the victim feeling — see [When You've Been Wronged](./when-youve-been-wronged.md).
 
 ---
 
