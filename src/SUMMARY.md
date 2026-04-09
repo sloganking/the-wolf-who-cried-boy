@@ -78,6 +78,7 @@
 
 # The Point of Sight
 
+- [Harmless Is Not Peaceful](./concepts/harmless-is-not-peaceful.md)
 - [What Clear Eyes Are For](./concepts/what-clear-eyes-are-for.md)
 
 ---
