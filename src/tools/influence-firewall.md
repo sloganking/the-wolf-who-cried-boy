@@ -14,7 +14,7 @@ Notice something else: it sounded reasonable. It even sounded responsible. If yo
 
 That's what makes it dangerous. Not because the concern is wrong — maybe something did happen. But you just got recruited into action based entirely on one person's *interpretation* of what they saw. No one talked to the woman. No one talked to Jake. No facts were verified. And you're already feeling like you need to do something.
 
-The line between responsible concern and the start of a [witch hunt](../concepts/why-rescuers-are-dangerous.md) is exactly here — and it looks identical from the outside.
+The line between responsible concern and the start of a [witch hunt](../concepts/why-rescuers-are-dangerous.md) is exactly here — and unless you can see the pattern underneath the words, they look identical.
 
 ---
 
