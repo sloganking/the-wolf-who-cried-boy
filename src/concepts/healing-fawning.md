@@ -498,7 +498,7 @@ Not disappointed. Not rejected. Grateful. And relieved.
 
 When you've interacted with enough fawners who later cry victim, you learn something important: **being told yes when they mean no is dangerous.**
 
-They lie to you. Then they feel violated by something they agreed to. Then they attack you with [high-severity](./severity.md) accusations for a situation they created.
+They lie to you — not out of malice, but out of fear. Then they feel violated by something they agreed to. Then they attack you with [high-severity](./severity.md) accusations for a situation they created.
 
 This fucking sucks.
 
