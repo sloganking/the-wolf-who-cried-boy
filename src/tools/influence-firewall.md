@@ -22,7 +22,7 @@ The line between responsible concern and the start of a [witch hunt](../concepts
 
 The tool is simple: when someone is talking to you — especially when emotions are high — label what each sentence *does to you*. Not what it says. What it installs.
 
-Go back and read that paragraph again, but this time, label each sentence:
+Go back and read that paragraph again, but this time, label each sentence. You can do this in real time — someone says a sentence, you silently label what it installed. It works mid-conversation, not just after:
 
 *Urgency. Story presented as fact. Interpretation, unverified. Fear. Time pressure. Guilt. Recruitment.*
 
