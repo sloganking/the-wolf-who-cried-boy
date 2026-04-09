@@ -447,7 +447,7 @@ The most painful version of facilitator fawning is when the facilitator protects
 
 It looks like this: someone over-responds — the response is clearly disproportionate to what happened. The person being attacked should be defended. But defending them would mean confronting the righteous predator — and the righteous predator might retaliate against the facilitator or their organization. Hate mail. Public accusations. Reputation damage. So the facilitator doesn't confront it. The attack lands on the individual instead. The person who was attacked gets removed, not the person attacking.
 
-The facilitator's reputation stays intact. The individual's doesn't. Whatever the facilitator's reasons for not acting, the result is the same: the reputation damage the facilitator avoided lands on the person they were supposed to defend.
+The facilitator's reputation goes relatively unchanged. The individual's doesn't. Whatever the facilitator's reasons for not acting, the result is the same: the reputation damage the facilitator avoided lands on the person they knew was being disproportionately attacked.
 
 ### Warning Signs You're Fawning Instead of Facilitating
 
