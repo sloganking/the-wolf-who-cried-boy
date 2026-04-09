@@ -75,6 +75,12 @@ This is the unifying principle behind no moralizing, inarguable writing, and sho
 
 **Be cautious with "should."** "Should" tends to moralize — it tells people what to do instead of showing them why they'd want to. Every time you write "should," ask: can this be reframed as a consequence, a pattern, or a choice? "You should set boundaries" is moralizing. "When boundaries aren't set, the container drifts" shows what happens. The reader reaches the same conclusion without being told what to do.
 
+### Defended Terminology
+
+**"Cry victim"** — This is the book's term for loudly broadcasting victimhood (pointing fingers, spreading stories, mobilizing others). It replaced "play victim," which implied conscious deception. "Cry" is accurate: they're literally crying, yelling, proclaiming. It also directly parallels the book's title (*The Wolf Who Cried Boy*) — same verb, same structure. It describes observable behavior, not intent.
+
+**"Lie" (for fawning)** — When a fawner says yes and means no, the effect on the other person is being lied to. That's the truth, and softening it would be fawning to protect fawners from an accurate description. The book uses "lie" from the perspective of the person who trusted the yes. Where needed, add context that it's from fear, not malice — so fawners can also read it and recognize themselves without feeling attacked. Both perspectives are true. The book names both.
+
 ---
 
 ## Style Guide
