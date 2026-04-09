@@ -310,7 +310,7 @@ If you see someone fawning to an aggressor, consider stepping in—not to fight 
 
 The lesson you're teaching is one of the most important ones:
 
-> **I can't keep you safe. Only you can. But I'll support you while you do it.**
+> **I can protect you from what others do. I can't protect you from your own patterns. But I can support you while you learn to.**
 
 Until someone learns to stand up for themselves, they'll continue to be treated badly. They'll continue to receive punishment they don't deserve. They'll continue to create situations where they're the victim—because they won't set boundaries.
 
