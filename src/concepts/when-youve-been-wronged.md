@@ -200,6 +200,12 @@ Anger, grief, confusion, shame—all of it. Don't rush to "get over it." The fee
 
 **Watch for minimization.** If you have a [fawning](./fawning.md) pattern, your body may be doing the opposite of sinsickness — not inflating the harm but shrinking it. "It wasn't that bad." "They didn't mean it." "Other people have it worse." That's your fawning pattern setting you up to [under-respond](./appropriate-response.md#under-response-the-invisible-failure) — shrinking what happened so you don't have to confront it. Check the facts, not the feeling. If a neutral observer would call it HIGH, it's HIGH — regardless of how small your body is trying to make it.
 
+**Return to community.** After a bad experience, your body builds a negative emotional association with the space where it happened. Play parties feel dangerous now. Retreats feel threatening. Your instinct says avoid — and if you listen, the avoidance solidifies the fear. Your body never gets counter-evidence. The one bad experience becomes the only data point, and it defines the entire category.
+
+The fix is the same principle this book teaches everywhere else: [your body trusts what you show it, not what you tell it](./guiding-public-repair.md#speaking-truth-instead-of-fawning). You can't think your way out of the association. You have to go back, have positive experiences, and let your body update. Not recklessly — you're more informed now, you know what to vet, you know what to ask before you play. But go back. Have fun. Let your nervous system learn that what happened was a fluke, not a prediction. Every good experience after a bad one rewrites the association a little more. Avoid long enough, and the fear calcifies into a permanent boundary that was never yours — it was the event's.
+
+I avoided play parties for six months after my experience. That wasn't healing. That was my body running an old program — "that space is dangerous, stay away" — and me not overriding it. The longer I stayed away, the scarier going back felt. The fear fed itself.
+
 ## What Actions To Take
 
 ### Don't Go Shopping Hungry
