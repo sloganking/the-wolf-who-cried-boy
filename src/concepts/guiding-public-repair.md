@@ -10,7 +10,7 @@ At this point, private resolution might not be enough. The room already has stor
 
 This is when a facilitator might choose to guide public repair: a structured conversation between the parties, in front of the group, with the facilitator actively leading.
 
-This page is about how to do that without it becoming a shitshow.
+This page is about how to do that without it becoming a shitshow — and what to do if you're the participant caught in the middle of one.
 
 ---
 
@@ -229,11 +229,11 @@ That's not failure. That's recognizing when the tool isn't working and switching
 
 ---
 
-## Participant Self-Advocacy
+## When You're the One in the Hot Seat
 
 Everything above assumes the facilitator is doing their job. But sometimes they're not. Sometimes the facilitator is fawning. Sometimes they're in over their head. Sometimes they just didn't think to set context before letting two people go at each other in front of the room.
 
-If you're a participant watching this happen — or worse, if you're the person being yelled at — you can advocate for yourself and for the process.
+If you're a participant watching this happen — or worse, if you're the person being yelled at — you don't have to wait for the facilitator to lead. You can advocate for yourself and for the process.
 
 **If the facilitator isn't setting context:**
 
