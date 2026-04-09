@@ -128,7 +128,7 @@ They're scared. They're thinking:
 - "What if they get violent?"
 - "What if other participants side with them?"
 
-So instead of enforcing boundaries, the facilitator appeases. They let the behavior slide. They prioritize de-escalation over integrity.
+So instead of enforcing boundaries, the facilitator appeases. They let the behavior slide. They prioritize de-escalation over boundary enforcement.
 
 **The participant now has power over the facilitator.**
 

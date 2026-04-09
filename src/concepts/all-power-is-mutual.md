@@ -112,7 +112,7 @@ And the contrast in what happens when things go wrong is stark. If someone cross
 
 Now mirror it. Someone accuses you. They're screaming. They're in your face. You look around the room for help and no one moves. Some are nodding. Some are joining in. You try to explain what actually happened and every word you say is heard as manipulation. You raise your hands to show you're not a threat and the gesture itself looks guilty. There is nothing you can say — no word you can call out — that will make this stop. You are in an unprotected position, and no one in the room thinks that's a problem, because no one in the room is looking at you.
 
-If you've only ever bottomed, try to sit with this: imagine your boundary is crossed, and instead of the room rushing to protect you, the room agrees you had it coming. Someone gets in your face and threatens you, and the people watching nod along. You look for the facilitator and they look away. You try to call a safeword and nothing happens — there is no safeword, and even if there were, no one would honor it. That is top vulnerability. For most people in the protected position, it's unimaginable.
+If you've only ever bottomed, try to sit with this: imagine your boundary is crossed, and instead of the room rushing to protect you, the room agrees you had it coming. Someone gets in your face and threatens you, and the people watching nod along. The facilitator doesn't intervene. You try to call a safeword and nothing happens — there is no safeword, and even if there were, no one would honor it. That is top vulnerability. For most people in the protected position, it's unimaginable.
 
 But it happens. Regularly.
 
