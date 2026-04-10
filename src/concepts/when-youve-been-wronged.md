@@ -232,6 +232,20 @@ Usually, this backfires. It escalates. It looks like you're "attacking the victi
 
 **Exception:** If there's a formal process (mediation, community accountability, legal), participate honestly. But public counter-attacks usually hurt you more.
 
+### When Someone Comes to You Afterward
+
+Days or weeks later, someone who was there approaches you. Maybe they're angry — they absorbed the accuser's story and now they think you're selfish, dangerous, whatever label was thrown. Maybe they're giving you a chance to defend yourself. Either way, the temptation is to say "I'm innocent" or explain your side.
+
+Don't. Here's why: anything you say in your own defense sounds like what a guilty person would say. "I didn't do anything wrong" is exactly the sentence someone who did something wrong would use. You can't win that game.
+
+Instead, redirect them to the one thing that will show them the truth without you having to claim it:
+
+"I'll tell you how you can find the answer yourself. Don't take my word for it. Go ask the person who attacked me how much they actually verified before spreading those accusations. Ask them: did you talk to me first? Did you check with the person who was supposedly harmed? Did you get both sides before going public? Then decide for yourself whether those accusations were founded on anything real."
+
+That's it. You don't have to prove your innocence. You just have to point them toward the accuser's process. If the accuser didn't [verify](./before-you-judge.md) — and if they're a [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator), they almost certainly didn't — the person asking will discover that on their own. They'll see that the entire thing was built on reaction, not investigation. And a conclusion they reached themselves is infinitely more convincing than one you handed them.
+
+You're not even claiming innocence. You're saying: check the foundation this was built on. If it was built on nothing, the accusations can't stand — regardless of what you say or don't say in your own defense.
+
 ### Consider Whether to Communicate Directly
 
 Sometimes a direct conversation helps. Sometimes it makes things worse.
