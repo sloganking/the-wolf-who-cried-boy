@@ -195,7 +195,7 @@ Body stories don't always start with your own experience. There are at least thr
 In *Playing to Lose*, the author describes growing up as a Jehovah's Witness, where the literature and weekly meetings taught that the world outside was full of murderers, apostates, and criminals:
 
 > **"I'd developed the impression from reading the literature that roughly 50 per cent of non-Jehovah's Witnesses were likely to be dangerous criminals, and that everyone else probably had HIV. I became anxious in multi-storey car parks, where I felt murders were more likely, and I didn't like it when my parents answered the front door, in case the person who'd rung the doorbell had come to kill us. By the time I was ten years old, I was scared most of the time."**  
-> — _Playing to Lose_
+> — _Ariel Anderssen, Playing to Lose_
 
 No direct experience. No one she knew had been murdered. Just thousands of small messages over years, until a ten-year-old was checking whether strangers in the street were following her family. Years later, a professional photographer offered to shoot her for free — in front of witnesses, with his picture about to be published in a newspaper — and her first thought was that he was probably a murderer. The cultural story was so deep it overrode basic logic. That's what inherited fear does.
 
