@@ -30,6 +30,8 @@ If it just happened — if the person you harmed is standing in front of you rig
 
 **Ask what they need.** "What would help right now? Do you want space, or do you want to talk about it?" Give them the choice. Don't assume you know.
 
+**Keep the focus on them right now.** You might feel upset, scared, or disappointed in yourself during this conversation. That's real, and those feelings matter — but this moment is about holding space for the person you harmed, not processing your own emotions. If something they say or do during this conversation creates genuine hurt for you — that's a separate thing that deserves its own repair, its own conversation, at a different time. [Repair goes both ways](./when-youve-been-wronged.md#repair-goes-both-ways). But right now, you're the one offering support. Don't pull the attention to yourself.
+
 **Don't accept a story that isn't true.** If their reaction is [proportional](./appropriate-response.md), receive it. If they're calling you names, assigning intent you didn't have, or escalating beyond what happened — you can acknowledge your actual mistake without accepting their distorted version of it. "I take responsibility for what I did. I'm not available for being called [label]." Owning your mistake and [defending yourself against an over-response](./when-youve-been-wronged.md#show-your-humanity) are not contradictions. You can do both.
 
 For the full repair process after the dust has settled, see [Making It Right](./making-it-right.md).
