@@ -79,7 +79,7 @@ The Gun Test is a self-check. The Gun Check is what happens when someone uses it
 
 If you teach the Gun Test in your container, it becomes shared language. Anyone who knows the term can use it — facilitators, staff, or a friend who notices someone looks a little off and cares enough to check in. Walk up and say: "Gun check." They stop, think about it, and answer honestly.
 
-If someone honestly tells you they wouldn't pass the Gun Test right now, that's a good thing. They're being honest about where they're at, and that honesty is what makes the next steps possible. Depending on the rules of your container, failing a Gun Check might mean they stop playing, or it might mean they continue with awareness. Some containers prohibit play after failing. Others allow it as long as everyone involved is choosing consciously. Either way, the check opens a dialogue:
+If someone honestly tells you they wouldn't pass the Gun Test right now, that's a good thing. They're being honest about where they're at, and that honesty is what makes the next steps possible. Depending on the rules of your container, failing a Gun Check might mean they stop playing, or it might mean they continue with awareness. Some containers may choose to prohibit play after failing. Others may choose to allow it as long as everyone involved is choosing consciously. Either way, the check opens a dialogue:
 
 **1. Acknowledge where they're at.** They've told you they wouldn't pass. That's honest — and it's exactly the kind of honesty that lets you handle the situation well. They might not have even noticed they were impaired until you asked.
 
@@ -97,7 +97,7 @@ Not everyone in a scene carries the same level of responsibility.
 
 In BDSM dynamics, the top (the person holding the space, directing the scene) carries responsibility for both their own experience and their partner's. A bottom or submissive might consensually go deep into subspace — fully absorbed in pleasure, barely verbal, not remotely capable of holding a gun. That's not a failure. That's the point. They entered that state consensually, and the scene was designed for it. But it means the top needs to be sharp. The further gone the bottom is, the more critical it is that the person holding space can think clearly, read cues, and make good calls. The Gun Test matters most for whoever is holding the most responsibility in the interaction.
 
-This extends beyond BDSM. Staff at a play party carry more responsibility than participants — because [participant filters](../concepts/body-stories.md) make it so that staff mistakes land with higher severity and more [top vulnerability](../concepts/all-power-is-mutual.md#top-and-bottom-vulnerability). A facilitator might hold staff to a higher standard on the Gun Check than participants — requiring them to pass before playing, rather than just checking in consciously.
+This extends beyond BDSM. Staff at a play party carry more responsibility than participants — because [participant filters](../concepts/body-stories.md) make it so that staff mistakes land with higher severity and more [top vulnerability](../concepts/all-power-is-mutual.md#top-and-bottom-vulnerability). You might choose to hold staff to a higher standard on the Gun Check than participants — requiring them to pass before playing, rather than just checking in consciously.
 
 The principle is the same in both cases: the more responsibility you're carrying, the more important it is that you're alert.
 
