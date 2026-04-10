@@ -477,9 +477,9 @@ The person you harmed may not forgive you. That's their right. Your job is to do
 
 If your over-response came from moral certainty — if you genuinely believed you were protecting people from a predator, and now you're seeing that you caused more harm than the person you were "protecting" everyone from — everything above applies, plus these:
 
-**You might not yet be seeing the full weight of what you did.**
+**Their anger is a response to what you actually did to them.**
 
-Your instinct will be to read their anger as an over-response — dramatic, manipulative, disproportionate. But you're predisposed to minimizing what you did, because you originally believed it was right and just. You may have started to see through that blind spot enough to know you weren't 100% in the right. But there's a difference between "I was a little too angry" and the reality that you may have caused harm far exceeding the original mistake — publicly attacked someone, mobilized others against them, damaged their reputation, gotten them removed from communities. You've seen the ears of the blind spot, but you may not yet understand the full depth of how your response was weighted compared to their mistake. Their anger is a response to what you actually did to them. Before you dismiss it, make sure you're seeing the full picture of what that was.
+Your instinct will be to read their anger as an over-response — dramatic, manipulative, disproportionate. But you're predisposed to minimizing what you did, because you originally believed it was right and just. There's a difference between "I was a little too angry" and the reality: you may have publicly attacked someone, mobilized others against them, damaged their reputation, gotten them removed from communities — over a mistake that could have been handled with a conversation. The gap between "I was a little too angry" and what actually happened may be much larger than you think. Don't dismiss their anger until you've honestly assessed the full weight of what you did.
 
 **If the harm was public, the repair needs to be public.**
 
