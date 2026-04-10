@@ -222,6 +222,8 @@ Notice: the replacement isn't "Am I safe? Yes!" You can train yourself to answer
 
 Replacing the question works the same way as incantations — repetition, ideally in a positive emotional state. Ask yourself the new question enough times and it becomes the default. For me, the question itself generates the state — asking *do I like her?* puts me in a positive state automatically, which cements it faster. But you can also get into a peak state first and then practice the question. Either way, the body learns through reps. The old question had years of installation. The new one needs practice — and eventually, it takes over.
 
+This is a deeper version of the same principle described in [Ask Better Questions](./responsibility.md#ask-better-questions): your brain answers whatever question you give it. Ask a disempowering question, get disempowering answers. Your primary question is just the one you're asking most often — the default your body runs when you're not consciously choosing.
+
 ## Narrative Lock
 
 Even with all of the above, some people never see their filter. Sometimes the story hardens — and any attempt to help them see it only strengthens it.
