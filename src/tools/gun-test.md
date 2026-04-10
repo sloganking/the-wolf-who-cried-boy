@@ -45,11 +45,9 @@ Examples:
 
 ### The Logic
 
-If you wouldn't trust yourself with a gun because you're tired, impaired, or emotionally activated...
+If you wouldn't trust yourself with a gun because you're tired, impaired, or emotionally activated, it's worth asking: should you trust yourself with MEDIUM-severity activities in that state?
 
-Should you trust yourself with MEDIUM-severity activities in that state?
-
-The same things that would make you dangerous with a gun—impaired judgment, slow reactions, lack of presence—can make you dangerous in intimate situations too. Not gun-dangerous, but capable of causing harm you wouldn't cause if you were fully present.
+The same things that would make you dangerous with a gun — impaired judgment, slow reactions, lack of presence — can make you more likely to cause harm in intimate situations too. Not gun-dangerous, but capable of missing cues you'd normally catch or making mistakes you wouldn't make if you were fully present. This doesn't mean you can't play. It means you should know where you're at before you do.
 
 ---
 
@@ -93,7 +91,15 @@ The Gun Check isn't prohibition. It's making sure no one falls into risk unconsc
 
 There's an art to this. If you're gun-checking everyone every second, you're just being a pest. But if something feels off and you want to check in — do it. A friend who cares enough to give you a gun check is looking out for you. If you're thinking straight, you'll feel grateful for it.
 
-As a facilitator, you might hold your staff and assistants to a [higher standard](../concepts/walking-your-talk.md) on the Gun Check than you do participants — requiring them to pass before playing, rather than just checking in consciously. Staff carry more responsibility in the container, and their mistakes [land differently](../concepts/walking-your-talk.md#when-staff-make-the-mistake).
+### Who Needs to Pass Most
+
+Not everyone in a scene carries the same level of responsibility.
+
+In BDSM dynamics, the top (the person holding the space, directing the scene) carries responsibility for both their own experience and their partner's. A bottom or submissive might consensually go deep into subspace — fully absorbed in pleasure, barely verbal, not remotely capable of holding a gun. That's not a failure. That's the point. They entered that state consensually, and the scene was designed for it. But it means the top needs to be sharp. The further gone the bottom is, the more critical it is that the person holding space can think clearly, read cues, and make good calls. The Gun Test matters most for whoever is holding the most responsibility in the interaction.
+
+This extends beyond BDSM. Staff at a play party carry more responsibility than participants — because [participant filters](../concepts/body-stories.md) make it so that staff mistakes land with higher severity and more [top vulnerability](../concepts/all-power-is-mutual.md#top-and-bottom-vulnerability). A facilitator might hold staff to a higher standard on the Gun Check than participants — requiring them to pass before playing, rather than just checking in consciously.
+
+The principle is the same in both cases: the more responsibility you're carrying, the more important it is that you're alert.
 
 ---
 
@@ -107,9 +113,9 @@ However, there are other tools you can use to reduce harm—even if you accident
 
 ## The Point
 
-You wouldn't hand a gun to someone who's impaired. Don't hand your body—or access to someone else's—to an impaired version of yourself.
+The Gun Test isn't about never playing impaired. It's about never playing impaired *without knowing it*. The danger isn't the altered state. It's the unconsciousness — falling into risk because you didn't stop to check where you were at.
 
-**Self-check is [taking responsibility](../concepts/responsibility.md).**
+**Self-check is [taking responsibility](../concepts/responsibility.md).** Whether the answer is "I'm good" or "I'm foggy but I want to keep going" — the check itself is the responsible act.
 
 ---
 
