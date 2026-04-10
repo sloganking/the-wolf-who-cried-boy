@@ -164,7 +164,7 @@ And so their perception shifts. That innocent mistake doesn't look so innocent a
 
 Now they're reacting to the story—not the situation. And the story was generated _by_ the feeling, which was generated _by_ the implicit memory, which has nothing to do with the person standing in front of them.
 
-**This is how innocent people get labeled as predators.**
+**This is how innocent people get labeled as threats and predators.**
 
 Not because someone is lying. Not because they're malicious. But because their body told them a story from the past, their conscious mind didn't know it was from the past, and their conscious mind built a present-tense narrative to explain a feeling that had nothing to do with the present.
 
