@@ -26,7 +26,7 @@ If it just happened — if the person you harmed is standing in front of you rig
 
 **Don't over-apologize.** Saying sorry seventeen times, groveling, making yourself small — that's [fawning](./fawning.md), not accountability. It makes the moment about managing *their* anger instead of addressing what happened. One sincere apology is worth more than twenty panicked ones.
 
-**Don't make it about your guilt.** "Oh my god, I'm such a terrible person, I can't believe I did that" puts them in the position of comforting you for the thing you did to them. Your guilt is yours to process later. Right now, their experience is what matters.
+**Don't decide what it means for them.** If guilt or [sinsickness](./i-made-a-mistake.md#sinsickness) hits, your instinct might be to start punishing yourself out loud — painting a story about how awful you are before they've even decided what the mistake means to them. The problem: if you start telling them you're a terrible person, they might agree. They might assume you had selfish intent when you didn't. You're handing them a narrative they hadn't formed yet. Instead, acknowledge what happened, show that you're on their side, and let *them* decide what it means. Your guilt is yours to process later — not out loud, not right now, and not in a way that shapes their interpretation of what just happened.
 
 **Ask what they need.** "What would help right now? Do you want space, or do you want to talk about it?" Give them the choice. Don't assume you know.
 
