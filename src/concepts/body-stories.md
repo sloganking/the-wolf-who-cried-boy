@@ -192,6 +192,13 @@ Body stories don't always start with your own experience. There are at least thr
 
 **3. Cultural inheritance.** The fear goes so far back that nobody you know has the direct experience either. It's just _what everyone believes._ An entire community, religion, or culture teaches that a certain type of person is dangerous—predators are everywhere, those people are all criminals, the outside world is full of rapists and murderers. You grow up marinating in this fear. It seeps into your nervous system not through any single moment, but through thousands of small messages over years. By the time you're an adult, the fear feels as real and as _yours_ as if you'd lived through something terrible. But you didn't. Nobody you know did. The story just... propagated.
 
+In *Playing to Lose*, the author describes growing up as a Jehovah's Witness, where the literature and weekly meetings taught that the world outside was full of murderers, apostates, and criminals:
+
+> **"I'd developed the impression from reading the literature that roughly 50 per cent of non-Jehovah's Witnesses were likely to be dangerous criminals, and that everyone else probably had HIV. I became anxious in multi-storey car parks, where I felt murders were more likely, and I didn't like it when my parents answered the front door, in case the person who'd rung the doorbell had come to kill us. By the time I was ten years old, I was scared most of the time."**  
+> — _Playing to Lose_
+
+No direct experience. No one she knew had been murdered. Just thousands of small messages over years, until a ten-year-old was checking whether strangers in the street were following her family. Years later, a professional photographer offered to shoot her for free — in front of witnesses, with his picture about to be published in a newspaper — and her first thought was that he was probably a murderer. The cultural story was so deep it overrode basic logic. That's what inherited fear does.
+
 All three produce the same result: an implicit memory that fires when the pattern matches. Your body doesn't distinguish between fear you earned and fear you inherited. It all feels the same from the inside.
 
 **The self-check:** If you're deeply afraid of something you've never actually encountered—if the fear is intense but you can't point to a direct experience that caused it—that's a signal. It doesn't mean the fear is "fake." It means the fear may have been _given_ to you rather than _earned_ by you, and the story underneath it deserves examination rather than automatic trust.
