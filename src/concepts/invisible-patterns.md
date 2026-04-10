@@ -32,7 +32,7 @@ They apologize—not because they did anything wrong, but because they believe a
 
 But to the attacker, the apology looks like a confession. It reinforces the attacker's story: _See? They admitted it. I was right._
 
-**The person never showed any other possibility.** They never took action that would make the attacker question what they were seeing. Their fear of being misunderstood and attacked caused them to take exactly the actions that caused people to misunderstand and attack them.
+**The person never showed any other possibility.** They never told the attacker the truth — that the attacking was unjustified. They never gave the attacker and any audience a chance to ask themselves: *is this attack actually just?* Their fear of being misunderstood and attacked caused them to take exactly the actions that caused people to misunderstand and attack them.
 
 ---
 
