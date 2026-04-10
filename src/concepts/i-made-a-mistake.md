@@ -16,6 +16,26 @@ Whatever brought you here, the core message is the same: what you did is not who
 
 ---
 
+## In the Moment
+
+If it just happened — if the person you harmed is standing in front of you right now — here's what to do before anything else.
+
+**Stop.** Whatever you were doing, stop doing it. Immediately.
+
+**Acknowledge what happened honestly.** "I crossed your boundary. I'm sorry. That wasn't my intention, but I see it happened." Name what you did without minimizing it, and without inflating it into a bigger story than what occurred. Stick to the [Notice](../tools/notice-feel-story.md) — what a camera would have recorded.
+
+**Don't over-apologize.** Saying sorry seventeen times, groveling, making yourself small — that's [fawning](./fawning.md), not accountability. It makes the moment about managing *their* anger instead of addressing what happened. One sincere apology is worth more than twenty panicked ones.
+
+**Don't make it about your guilt.** "Oh my god, I'm such a terrible person, I can't believe I did that" puts them in the position of comforting you for the thing you did to them. Your guilt is yours to process later. Right now, their experience is what matters.
+
+**Ask what they need.** "What would help right now? Do you want space, or do you want to talk about it?" Give them the choice. Don't assume you know.
+
+**Don't accept a story that isn't true.** If their reaction is [proportional](./appropriate-response.md), receive it. If they're calling you names, assigning intent you didn't have, or escalating beyond what happened — you can acknowledge your actual mistake without accepting their distorted version of it. "I take responsibility for what I did. I'm not available for being called [label]." Owning your mistake and [defending yourself against an over-response](./when-youve-been-wronged.md#show-your-humanity) are not contradictions. You can do both.
+
+For the full repair process after the dust has settled, see [Making It Right](./making-it-right.md).
+
+---
+
 ## Protect Your Identity
 
 The first thing to understand: **a mistake does not define you.**
