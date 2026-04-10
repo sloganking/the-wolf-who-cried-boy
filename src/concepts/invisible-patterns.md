@@ -200,7 +200,7 @@ Not once. Daily. The old sentence had years of installation. The new one needs r
 
 This won't fix everything in a day. But it's the difference between seeing the pattern and actually changing it. The rest of this book teaches you to see. This is how you start to move.
 
-### Replacing the Question
+### Your Primary Question
 
 Your body isn't just running a statement. It's also running a question — one you ask yourself constantly, often without realizing it. Tony Robbins calls this your *primary question*. You may not know what yours is — it's often easier for people close to you to identify it than it is for you, because they can see the pattern your attention follows from the outside. If you're trying to find yours, ask a friend who knows you well. They might nail it immediately.
 
