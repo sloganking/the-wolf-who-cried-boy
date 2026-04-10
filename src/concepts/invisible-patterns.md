@@ -28,7 +28,7 @@ When someone does confront them—angry, accusing—their fear kicks in. Part of
 
 So instead of saying "This is unreasonable. You can't speak to me this way. If you want to talk with dignity and respect, I'm available—otherwise, I'm not"—instead of that, they try to appease. They explain their actions, which to the attacker looks like manipulation, trying to get out of trouble. The attack intensifies.
 
-They apologize—not because they did anything wrong, but because apologizing makes angry people less angry. Fawning.
+They apologize—not because they did anything wrong, but because they believe apologizing will make angry people less angry. Fawning.
 
 But to the attacker, the apology looks like a confession. It reinforces the attacker's story: _See? They admitted it. I was right._
 
