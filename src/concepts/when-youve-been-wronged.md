@@ -236,13 +236,23 @@ For everyone else who approaches you, there's a move that's more powerful than d
 
 "If I told you I was innocent, would you trust my word?"
 
-If they say yes — tell them. "I'm innocent. And if you want to see it for yourself, go ask the person who attacked me how much they actually verified before spreading those accusations."
+If they say yes — tell them. "I'm innocent." Then give them the questions below anyway, so they can see it for themselves.
 
-If they say no — then your word is meaningless to them anyway, and defending yourself is a waste of breath. So say: "Then my word isn't going to help you. But I'll tell you what will. Go ask the person who attacked me how much they actually verified before spreading those accusations. Ask them: did you talk to me first? Did you check with the person who was supposedly harmed? Did you get both sides before going public? Then decide for yourself whether those accusations were founded on anything real."
+If they say no — then your word is meaningless to them, and defending yourself is a waste of breath. So say: "Then my word isn't going to help you. But I'll tell you what will."
 
-Either way, you're redirecting them to the one thing that shows the truth without requiring them to trust you: the accuser's process. If the accuser didn't [verify](./before-you-judge.md) — and if they're a [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator), they almost certainly didn't — the person asking will discover that on their own. They'll see that the entire thing was built on reaction, not investigation. And a conclusion they reached themselves is infinitely more convincing than one you handed them.
+Either way, you're redirecting them to the accuser's process. But "go ask if they verified" isn't specific enough. The attacker will say "of course I did" and launch into their story about how you're terrible. The questioner needs specific questions that force objective answers — [Notice](../tools/notice-feel-story.md)-level facts, not stories. Questions the attacker can't dodge without revealing their own blind spots.
 
-This is showing instead of telling. You're not arguing your innocence. You're pointing at the foundation the accusations were built on and saying: check if it's real. If it was built on nothing, the accusations can't stand — regardless of what you say or don't say in your own defense.
+Give the questioner these:
+
+1. **"Before you attacked them, did you ask them what their intent was?"** Not what the action looked like. Not what it meant to you. Did you ask *them* what they were trying to do? If the answer is no — they assumed intent without checking. That's the foundation of the entire accusation, and it was never verified.
+
+2. **"Did the person you're defending already do a repair process with the person you attacked? Did they say they felt complete?"** If yes — the attacker was defending someone who wasn't hurt and didn't want defending. The questioner can see that for themselves. If the person who was supposedly harmed already felt complete before the attack, then what was the attack for?
+
+3. **"Did your actions make the person you were defending happy? Or did it upset them?"** If the attacker's actions upset the very person they were "protecting," the questioner can ask themselves: who was this actually for? If it wasn't for the person harmed, and it upset them, it was the attacker's own stories and drama — not protection.
+
+The attacker might not admit they were wrong. They might double down. But the questioner will hear the answers — "no, I didn't ask their intent," "yes, the person I was defending was already complete," "actually, my actions upset them" — and the picture assembles itself. No one has to tell the questioner the accusations were unfounded. The attacker's own answers show it.
+
+A conclusion someone reaches by asking their own questions and hearing the answers firsthand is infinitely more convincing than one you handed them. You're not arguing your innocence. You're giving someone the tools to see the truth for themselves.
 
 ### Consider Whether to Communicate Directly
 
