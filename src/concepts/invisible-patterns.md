@@ -214,7 +214,7 @@ Every time I saw a woman I was attracted to, that question fired. *She's going t
 
 My new primary question: *Do I like her?*
 
-Every time I say it, it puts a smirk on my face. I laugh at myself a little — *oh, Logan, so helplessly in love with women and their beauty, you sly fox.* It puts my attention on pleasure and desire instead of fear and lack. It presupposes my value, my agency, my right to choose. The old question evaluated whether I was worthy of her. The new one evaluates whether she's what I want. Same moment — same woman standing in front of me — completely different experience.
+Every time I say it, it puts a smirk on my face. I laugh at myself a little — *oh, Logan, so helplessly in love with women and their beauty. You sly fox, you!* It puts my attention on pleasure and desire instead of fear and lack. It presupposes my value, my agency, my right to choose. The old question evaluated whether I was worthy of her. The new one evaluates whether she's what I want. Same moment — same woman standing in front of me — completely different experience.
 
 Notice: the replacement isn't "Am I safe? Yes!" That's just arguing with the old question. And it's not "How is this obstacle just an illusion?" — that's still trying to fix the same problem in different wording. The replacement is a question that throws out the old presuppositions entirely. *Do I like her?* doesn't engage with safety or brokenness at all. It skips the entire axis. The old question has nowhere to live because the new one isn't even in the same conversation. You'll know you've found a good replacement when it doesn't just make you smile — it makes the old question irrelevant. The old presuppositions don't get answered differently. They get discarded.
 
