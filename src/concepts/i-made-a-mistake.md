@@ -405,7 +405,7 @@ Be honest with yourself:
 3. **Identify the harmful belief**—what idea or belief made this seem okay?
 4. **Replace it**—what will you believe instead? Write it down. Commit to it.
 5. Examine the pattern—is this a one-time lapse or a recurring blind spot?
-6. Consider: do you need support (therapy, coaching, community) to address this pattern?
+6. **Check how deep it goes.** Some beliefs update the moment someone points them out — you go "oh, obviously" and it's done. Others are [body stories](./body-stories.md) that intellectual understanding alone won't change. If it's deep, you may need [repetition and lived experience](./invisible-patterns.md#replacing-the-sentence) or support (therapy, coaching, community) to address it at the level where it actually lives.
 
 ---
 
