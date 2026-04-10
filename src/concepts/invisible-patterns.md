@@ -202,7 +202,7 @@ This won't fix everything in a day. But it's the difference between seeing the p
 
 ### Your Primary Question
 
-Your body isn't just running a statement. It's also running a question — one you ask yourself constantly, often without realizing it. Tony Robbins calls this your *primary question*. You may not know what yours is — it's often easier for people close to you to identify it than it is for you, because they can see the pattern your attention follows from the outside. If you're trying to find yours, ask a friend who knows you well. They might nail it immediately.
+Your body isn't just running a statement. It's also running a question — one you ask yourself constantly, often without realizing it. Tony Robbins calls this your *primary question*. You may not know what yours is. You ask it so constantly that it's as unnoticeable as breathing — you don't realize you're doing it until someone points it out, and the moment you stop paying attention, it starts again. That's why people close to you can often identify your primary question more easily than you can. They can see the pattern your attention follows from the outside. If you're trying to find yours, ask a friend who knows you well. They might nail it immediately.
 
 The statement is what your body believes: *I am not safe.* The question is where your body points your attention: *Am I safe?* And the answer your body keeps giving — *no* — is the statement again. The question and the statement feed each other. The question scans for danger, the answer confirms you're not safe, and the loop repeats.
 
