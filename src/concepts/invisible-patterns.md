@@ -154,7 +154,7 @@ And it matters that the new meaning is spoken out loud, not just thought. When y
 
 That's why this process has to be physical, emotional, and spoken — not intellectual. Here's how to do it.
 
-### Replacing the Sentence
+## Replacing the Sentence
 
 **Step 1: Find the sentence.**
 
@@ -200,7 +200,7 @@ Not once. Daily. The old sentence had years of installation. The new one needs r
 
 This won't fix everything in a day. But it's the difference between seeing the pattern and actually changing it. The rest of this book teaches you to see. This is how you start to move.
 
-### Your Primary Question
+## Your Primary Question
 
 Your body isn't just running a statement. It's also running a question — one you ask yourself constantly, often without realizing it. Tony Robbins calls this your *primary question*. You may not know what yours is. You ask it so constantly that it's as unnoticeable as breathing — you don't realize you're doing it until someone points it out, and the moment you stop paying attention, it starts again. That's why people close to you can often identify your primary question more easily than you can. They can see the pattern your attention follows from the outside. If you're trying to find yours, ask a friend who knows you well. They might nail it immediately.
 
@@ -210,11 +210,11 @@ The incantation replaces the statement through repetition. But you can also repl
 
 For years, my primary question was: *How do I fix myself?*
 
-Every time I saw a woman I was attracted to, that question fired. *She's going to find out I'm broken. How do I fix myself so she doesn't?* The question presupposed I was broken. It put my attention on my flaws, my inadequacy, the gap between me and acceptable. And here's what made it a trap: no amount of fixing would ever satisfy it. I could improve more than everyone on the planet, and I'd still feel broken — because the question itself presupposes brokenness. It's a hunger ghost. You can feed it forever and it never gets full, because asking "how do I fix myself?" reinstalls "I am broken" every single time it fires. The answer doesn't matter. The question is the damage.
+Every time I saw a woman I was attracted to, that question fired. *She's going to find out I'm broken. How do I fix myself so she doesn't?* The question presupposed I was broken. It put my attention on my flaws, my inadequacy, the gap between me and acceptable. And here's what made it a trap: no amount of fixing would ever satisfy it. I could improve more than everyone on the planet, and I'd still feel broken — because the question itself presupposes brokenness. It's a hungry ghost of a question. You can feed it forever and it never gets full, because asking "how do I fix myself?" reinstalls "I am broken" every single time it fires. The answer doesn't matter. The question is the damage.
 
 My new primary question: *Do I like her?*
 
-Every time I say it, it puts a smirk on my face. It puts my attention on what I desire instead of what I lack. It presupposes my value, my agency, my right to choose. The old question evaluated whether I was worthy of her. The new one evaluates whether she's what I want. Same moment — same woman standing in front of me — completely different experience.
+Every time I say it, it puts a smirk on my face. I laugh at myself a little — *oh, Logan, so helplessly in love with women and their beauty, you sly fox.* It puts my attention on pleasure and desire instead of fear and lack. It presupposes my value, my agency, my right to choose. The old question evaluated whether I was worthy of her. The new one evaluates whether she's what I want. Same moment — same woman standing in front of me — completely different experience.
 
 Notice: the replacement isn't "Am I safe? Yes!" That's just arguing with the old question. And it's not "How is this obstacle just an illusion?" — that's still trying to fix the same problem in different wording. The replacement is a question that throws out the old presuppositions entirely. *Do I like her?* doesn't engage with safety or brokenness at all. It skips the entire axis. The old question has nowhere to live because the new one isn't even in the same conversation. You'll know you've found a good replacement when it doesn't just make you smile — it makes the old question irrelevant. The old presuppositions don't get answered differently. They get discarded.
 
