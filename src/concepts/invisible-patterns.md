@@ -53,6 +53,8 @@ Person A started the fight. Person A attacked and accused an innocent person bas
 
 Whether Person B fawns or fights, the trap is total. Fawning looks like a confession. Fighting looks like aggression. Both confirm the story. Calm, clear boundary-setting has the best chance of breaking through — but even that can get filtered as "the predator is using boundaries to manipulate." When someone's story is locked, there may be no response that doesn't confirm it. That's what makes it a trap.
 
+If either of their reticular activating systems focused on literally anything else, they'd be less likely to find what they're expecting to find. They might even find their patterns funny. They might even be friends.
+
 ### The Thing You're Most Afraid of Is the Thing Your Fear Creates
 
 These patterns are everywhere — in play spaces, in relationships, in professional life. Here are four of the most common:
@@ -129,8 +131,6 @@ If Person C let their desire flow in small, honest amounts instead of caging it�
 If Person D practiced saying no when they mean no—the boundaries would be clear and the violations would stop.
 
 If Person E practiced saying yes when they mean yes—the starvation would end and the desperation would quiet.
-
-If their reticular activating systems focused on literally anything else, they'd be less likely to find what they're expecting to find. They might even find their patterns funny. They might even be friends.
 
 But here's the problem: **"just relax" is useless advice.**
 
