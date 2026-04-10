@@ -61,7 +61,7 @@ These patterns are everywhere — in play spaces, in relationships, in professio
 >
 > **Person B — The Target:** The people most afraid of being misunderstood and attacked are most likely to wind up being attacked.
 >
-> **Person C — The Cage:** The people most afraid of their desire hurting others create the conditions for it to come out in the most overwhelming form.
+> **Person C — The Cage:** The people most afraid of their desire not being accepted by others create the conditions for it to come out in the most overwhelming form.
 >
 > **Person D — The [Fawner](./fawning.md):** The people most afraid of their boundaries being violated are the least likely to say no — and get the most people touching them in ways they don't want.
 >
