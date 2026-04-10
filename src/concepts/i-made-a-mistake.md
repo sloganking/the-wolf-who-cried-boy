@@ -483,7 +483,7 @@ Your instinct will be to read their anger as an over-response — dramatic, mani
 
 **If the harm was public, the repair needs to be public.**
 
-If you attacked someone's reputation in front of a community — in group chats, on social media, in the room at an event — a private apology doesn't undo the damage. The community still carries the story you put there. Public repair means going to the same spaces where you caused the harm and saying: I was wrong. My response was an over-response. This person didn't deserve what I did to them.
+If you attacked someone's reputation in front of a community — in group chats, on social media, in a room in front of others — a private apology doesn't undo the damage. The community still carries the story you put there. Public repair means going to the same spaces where you caused the harm and saying: I was wrong. My response was an over-response. This person didn't deserve what I did to them.
 
 This is one of the hardest things a person can do. It requires admitting, to the same people who rallied behind you, that you were the one causing harm — not the person you were pointing at.
 
@@ -491,7 +491,7 @@ And here's what makes it harder: the people who rallied behind you may try to pu
 
 It will be tempting to believe them. The old narrative is easier. Admitting fault is terrifying, especially when the mob is offering you a way not to. But you've already seen through the story. Going back into it would be choosing comfortable blindness over what you know to be true.
 
-The good news: you have an advantage no one else has. You're not the person they attacked — the one they've already decided is dangerous. You're the one they trusted. The one they followed. When the accused says "I was wronged," the mob dismisses it. When the accuser says "I was wrong," the mob has to listen. That's real power. You have more leverage to change this narrative than anyone else involved. And if you care about justice — actual justice — that leverage is an opportunity you don't want to waste.
+The good news: you have an advantage no one else has. You're not the person they attacked — the one they've already decided is dangerous. You're the one they trusted. The one they followed. When the accused says "I was wronged," the mob dismisses it. When the accuser says "I was wrong," the mob has to listen. That's real power. You have more leverage to change this narrative than anyone else involved. That leverage is a uniquely powerful tool that only you have — and it's one of the most effective things you can wield to make it right.
 
 **You recruited allies — and they may still be causing harm.**
 
