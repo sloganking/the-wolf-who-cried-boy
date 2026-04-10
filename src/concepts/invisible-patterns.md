@@ -57,7 +57,7 @@ Whether Person B fawns or fights, the trap is total. Fawning looks like a confes
 
 These patterns are everywhere — in play spaces, in relationships, in professional life. Here are four of the most common:
 
-> **Person A — The Scanner:** The people most afraid of predators are most likely to cause harm — by seeing and attacking people who aren't.
+> **Person A — The Scanner:** The people most afraid of predators are most likely to become the thing they fear — by unjustly attacking people who aren't predators, making those people rightfully angry, and then pointing at the anger as proof: *"See? There are predators here that I need to fight!"* They create the very hostility they were afraid of, and the hostility confirms their story.
 >
 > **Person B — The Target:** The people most afraid of being misunderstood and attacked are most likely to wind up being attacked.
 >
