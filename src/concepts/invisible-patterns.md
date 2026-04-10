@@ -6,7 +6,7 @@ Stories don't just distort your own perception — they interact with other peop
 
 ## When Filters Find Each Other
 
-Here's something that makes this worse: **complementary filters magnetize.**
+People carry [filters](./trauma-and-filters.md) — stories stored in their bodies that distort how they see the world, what they fear, and how they react. Those filters already cause harm on their own. Here's something that makes it worse: **complementary filters magnetize.**
 
 Consider someone whose subconscious runs this story: "People are going to misunderstand me and attack me."
 
