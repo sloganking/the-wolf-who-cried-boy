@@ -82,7 +82,7 @@ The experience is new. But you're reacting to an old story.
 
 If you think these patterns are purely intellectual—that you can think your way out of them—you'll never solve them.
 
-In _My Grandmother's Hands_, Resmaa Menakem makes this point about racism: it's not a problem of the mind. It's a trauma stored in the body. When someone with that body story sees a Black person, they don't consciously decide to feel afraid. Their body reacts—muscles tense, heart rate spikes, threat detection activates—before any conscious thought occurs.
+In _My Grandmother's Hands_, Resmaa Menakem makes this point about racism: it's not a problem of the mind. It's a trauma stored in the body. When someone with that body story sees a member of a race they have fear around, they don't consciously decide to feel afraid. Their body reacts—muscles tense, heart rate spikes, threat detection activates—before any conscious thought occurs.
 
 Here's an example from the book that shows exactly how this plays out:
 
