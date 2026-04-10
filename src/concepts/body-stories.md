@@ -98,7 +98,7 @@ The officer paused. Then answered: _"I don't know."_
 
 And notice the [fawning](./fawning.md) parallel: the Black man's fear response—getting on the ground, making himself small—may have been the very thing that triggered the officer's body story. His submission looked like guilt. His fear looked like evidence. The fawning created the outcome it was trying to prevent.
 
-If the Black man had been standing casually—relaxed energy, "Thanks, officer, glad you're here"—the outcome may have been completely different. The officer would have read a calm person who was there to help, not a threat. But because the Black man was afraid, his body communicated danger to the officer's body. And the officer's body reacted.
+If the Black man had been standing casually—an expression of relief and gratitude when the officer arrived, "Thanks, officer, glad you're here"—the outcome may have been completely different. The officer would have read a calm person who was there to help, not a threat. But because the Black man was afraid, his body communicated danger to the officer's body. And the officer's body reacted.
 
 **This is because most communication is nonverbal.** Your words tell someone what to think. Your body tells them how to feel about it. If you say "I got fired today" in a panic, they'll panic with you. If you say "I got fired today" with a smile and ease, they'll feel like it's not a big deal—even though the words are identical.
 
