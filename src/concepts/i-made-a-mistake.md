@@ -382,15 +382,13 @@ On that last point: don't just help the person you harmed. Use this experience t
 
 ---
 
-### Conscious Mistakes
+### Harmful Belief Mistakes
 
-You knew it was wrong, or at least questionable, and you did it anyway. Maybe you pushed past a soft boundary. Maybe you let desire override judgment. Maybe you convinced yourself it would be fine.
-
-This is a [harmful belief mistake](./types-of-mistakes.md#harmful-belief-mistakes) — you were thinking, but the belief driving you caused harm. A belief made the action seem okay when it wasn't.
+You were operating from a belief you didn't know was wrong. Not carelessness — a wrong premise. Whatever culture, family, or upbringing you came from installed a belief that made your action seem normal or okay, and you never examined it until the harm showed you it wasn't. (See [Harmful Belief Mistakes](./types-of-mistakes.md#harmful-belief-mistakes) for the full mechanics.)
 
 **How to think about it:**
 
-This is harder. You can't hide behind "I didn't know."
+This is harder than an unconscious mistake. The belief was yours, even if you didn't choose it.
 
 But this still doesn't make you irredeemable. It makes you someone who made a choice you regret. The question is what you do now.
 
