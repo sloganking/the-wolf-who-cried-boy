@@ -118,7 +118,7 @@ Both feel like victims. All three think the other person — or their own nature
 
 **The way out:**
 
-If either one calmed down and re-centered, the dynamic dissolves.
+If any one of them calmed down and re-centered, the dynamic dissolves.
 
 If Person A relaxed and said, "I'm in a safe place. I don't need to scan for predators every second"—they'd stop seeing threats in anxious people.
 
