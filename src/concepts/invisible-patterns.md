@@ -101,7 +101,7 @@ Not because they're dangerous. Because suppression doesn't reduce desire — it 
 
 This is the same mechanism as Person A and Person B, just pointed inward. Person A's hypervigilance creates the predators they're scanning for. Person B's over-apologizing creates the target they're trying to avoid. Person C's suppression creates the overwhelming intensity they're trying to prevent. All three are building the thing they fear — and none of them can see it, because from the inside, the fear feels like intelligence.
 
-The way out is the same for all three. Not "just relax." Not "stop being afraid." But: find the sentence your body is running, write its opposite, and give your nervous system enough reps of the new one that the old one starts to loosen. For Person C, the sentence might sound like:
+The way out is the same for all three. Not "just relax." Not "stop being afraid." But: find the sentence your body is running, write its opposite, and give your nervous system enough reps of the new one that the old one starts to loosen. (The full process for this — [incantations](#replacing-the-sentence), based on Tony Robbins' method — is described later in this chapter.) For Person C, the sentence might sound like:
 
 > *"My desire is dangerous. If I show it, I'll hurt someone. If they see how much I want, they'll leave."*
 
