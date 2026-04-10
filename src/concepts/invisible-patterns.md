@@ -200,6 +200,26 @@ Not once. Daily. The old sentence had years of installation. The new one needs r
 
 This won't fix everything in a day. But it's the difference between seeing the pattern and actually changing it. The rest of this book teaches you to see. This is how you start to move.
 
+### Replacing the Question
+
+Your body isn't just running a statement. It's also running a question — one you ask yourself constantly, often without realizing it. Tony Robbins calls this your *primary question*.
+
+The statement is what your body believes: *I am not safe.* The question is where your body points your attention: *Am I safe?* And the answer your body keeps giving — *no* — is the statement again. The question and the statement feed each other. The question scans for danger, the answer confirms you're not safe, and the loop repeats.
+
+The incantation replaces the statement through repetition. But you can also replace the question — and the most effective replacement isn't the inverse of the old one. It's a question on a completely different axis that presupposes what the old one denied.
+
+For years, my primary question was: *How do I fix myself?*
+
+Every time I saw a woman I was attracted to, that question fired. *She's going to find out I'm broken. How do I fix myself so she doesn't?* The question presupposed I was broken. It pointed my attention at my flaws, my inadequacy, the gap between me and acceptable. No matter how many times I answered it, the question itself kept reinstalling the belief.
+
+My new primary question: *Do I like her?*
+
+Every time I say it, it puts a smirk on my face. It makes me look at what I desire instead of what I lack. It presupposes my value, my agency, my right to choose. The old question evaluated whether I was worthy of her. The new one evaluates whether she's what I want. Same moment — same woman standing in front of me — completely different experience.
+
+Notice: the replacement isn't "Am I safe? Yes!" That's just arguing with the old question. The replacement is a question the old one never considered. *Do I like her?* doesn't engage with safety or brokenness at all. It skips the entire axis. The old question has nowhere to live because the new one isn't even in the same conversation.
+
+Replacing the question works the same way as incantations — repetition, ideally in a positive emotional state. Ask yourself the new question enough times and it becomes the default. For me, the question itself generates the state — asking *do I like her?* puts me in a positive state automatically, which cements it faster. But you can also get into a peak state first and then practice the question. Either way, the body learns through reps. The old question had years of installation. The new one needs practice — and eventually, it takes over.
+
 ## Narrative Lock
 
 Even with all of the above, some people never see their filter. Sometimes the story hardens — and any attempt to help them see it only strengthens it.
