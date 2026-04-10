@@ -236,21 +236,23 @@ For everyone else who approaches you, there's a move that's more powerful than d
 
 "If I told you I was innocent, would you trust my word?"
 
+Notice what this does. If you just say "I'm innocent," the person asks themselves: *are they really innocent, or are they lying?* They're evaluating you. But when you ask "would you even trust my word?" first, you flip it. Now they're not evaluating your innocence. They're evaluating their own clarity: *am I in a position to judge this clearly? Do I actually know enough to assess what this person is telling me?* You're helping them see what they actually need to examine before they can answer the question they came with.
+
 If they say yes — tell them. "I'm innocent." Then give them the questions below anyway, so they can see it for themselves.
 
 If they say no — then your word is meaningless to them, and defending yourself is a waste of breath. So say: "Then my word isn't going to help you. But I'll tell you what will."
 
-Either way, you're redirecting them to the accuser's process. But "go ask if they verified" isn't specific enough. The attacker will say "of course I did" and launch into their story about how you're terrible. The questioner needs specific questions that force objective answers — [Notice](../tools/notice-feel-story.md)-level facts, not stories. Questions the attacker can't dodge without revealing their own blind spots.
+Either way, you're redirecting them to the accuser's process. But "go ask if they verified" isn't specific enough. The attacker will say "of course I did" and launch into their story about how you're terrible. The questioner needs specific questions that force objective, [Notice](../tools/notice-feel-story.md)-level answers — not stories, not interpretations. Questions the attacker can't dodge without revealing their own blind spots.
 
 Give the questioner these:
 
 1. **"Before you attacked them, did you ask them what their intent was?"** Not what the action looked like. Not what it meant to you. Did you ask *them* what they were trying to do? If the answer is no — they assumed intent without checking. That's the foundation of the entire accusation, and it was never verified.
 
-2. **"Did the person you're defending already do a repair process with the person you attacked? Did they say they felt complete?"** If yes — the attacker was defending someone who wasn't hurt and didn't want defending. The questioner can see that for themselves. If the person who was supposedly harmed already felt complete before the attack, then what was the attack for?
+2. **"Did the person you're defending ask you to defend them? Did they already do a repair process with the person you attacked? Did they say they felt complete?"** If the person who was supposedly harmed already felt complete before the attack, and never asked for anyone to step in, the questioner can ask themselves: was this about protecting that person, or was it about the attacker's own stories? The answer reveals whether this was [rescue](./drama-triangle.md) or response.
 
-3. **"Did your actions make the person you were defending happy? Or did it upset them?"** If the attacker's actions upset the very person they were "protecting," the questioner can ask themselves: who was this actually for? If it wasn't for the person harmed, and it upset them, it was the attacker's own stories and drama — not protection.
+3. **"Did you ask anyone who's known this person long-term what their character is like?"** Someone who's known a person for 30 seconds and assumed the worst about them is working from a completely different evidence base than 20 people who've known them for years and can tell you this was out of character, or was a mistake, or that this person has a track record of integrity. If the attacker didn't check with anyone who actually knows the person they attacked, they were operating on their own [filters](./trauma-and-filters.md), not on reality.
 
-The attacker might not admit they were wrong. They might double down. But the questioner will hear the answers — "no, I didn't ask their intent," "yes, the person I was defending was already complete," "actually, my actions upset them" — and the picture assembles itself. No one has to tell the questioner the accusations were unfounded. The attacker's own answers show it.
+The attacker might not admit they were wrong. They might double down. But the questioner will hear the answers — "no, I didn't ask their intent," "actually, the person I was defending was already complete and didn't ask me to step in," "no, I didn't talk to anyone who knows them" — and the picture assembles itself. If the attacker took zero steps to understand what actually happened before attacking, the questioner can see for themselves: the attacker was swinging blind, based on their own assumptions and biases, reacting to a story in their head rather than the reality of what was in front of them. They had no idea what they were actually responding to.
 
 A conclusion someone reaches by asking their own questions and hearing the answers firsthand is infinitely more convincing than one you handed them. You're not arguing your innocence. You're giving someone the tools to see the truth for themselves.
 
