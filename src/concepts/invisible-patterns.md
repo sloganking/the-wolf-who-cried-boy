@@ -226,7 +226,7 @@ This is a deeper version of the same principle described in [Ask Better Question
 
 ## Narrative Lock
 
-Even with all of the above, some people never see their filter. Sometimes the story hardens — and any attempt to help them see it only strengthens it.
+Everything above describes filters that create self-fulfilling dynamics — patterns people can't see, conflicts they unknowingly co-create. But those patterns assume the person *could* see it if they looked. Sometimes they can't. Sometimes the story hardens — and any attempt to help them see it only strengthens it.
 
 You try to explain what happened. They hear you making excuses. You apologize. They hear you admitting guilt. You go quiet. They say you're avoiding accountability. You keep engaging. They say you're pressuring them.
 
