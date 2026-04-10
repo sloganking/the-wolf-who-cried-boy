@@ -525,7 +525,7 @@ But the transformation requires letting go of the identity that justified the ha
 
 **What Gets Born**
 
-Here's what you need to know: the part of you that wanted to protect people was real. The fire was real. The desire to fight for something good — that was never the problem. The problem was that the fire didn't have sight. You had a warrior's intensity with no clarity behind it, and an unwise warrior doesn't protect anyone — they just cause suffering while believing they're helping.
+Here's what you need to know: the part of you that wanted to protect people was real. The fire was real. The desire to fight for something good — that was never the problem. The problem was that the fire didn't have sight. You had a warrior's intensity with no clarity behind it, and a warrior without wisdom doesn't protect anyone — they just cause suffering while believing they're helping.
 
 When you wake up, you don't lose the fire. You give it eyes. You become the person who has the same intensity, the same willingness to act — but now with the clarity to know *when* to act, *how much* force is appropriate, and *whether the target actually deserves it*. You don't become less. You become more.
 
