@@ -64,7 +64,7 @@ In this scene, Hogarth pulls out a toy gun. The Iron Giant's automatic defense p
 
 The Giant didn't want to do it. He wasn't thinking. His programming—like trauma, like a reflex—took over before his conscious mind could intervene. Something in the present (toy gun) resembled something from the past (real weapon), and an automatic response fired.
 
-This is what trauma responses look like. They're not bad. They're not malicious. Something automatic fired that the person didn't choose. And the person didn't even know that trigger existed until it activated.
+This is what trauma responses look like. They're not bad. They're not malicious. Something automatic fired that the person didn't choose. And the person may not have even known that trigger existed until it activated.
 
 The Iron Giant is pure goodness—but lacks wisdom about his own nature. He doesn't know what will trigger his programming. That's why goodness alone isn't enough. (See: ["Goodness without wisdom always accomplishes evil"](./i-made-a-mistake.md#why-mistakes-are-necessary))
 
