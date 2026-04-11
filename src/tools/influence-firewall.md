@@ -1,5 +1,7 @@
 # The Influence Firewall
 
+In these spaces, you learn to consent to the hands that touch your body. This page is about learning to consent to the ideas that touch your mind.
+
 ---
 
 ## Read This First
