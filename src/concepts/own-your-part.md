@@ -202,9 +202,9 @@ That's not cruelty. That's love with a cost.
 
 **Why this matters beyond the moment:**
 
-If you don't offer resistance—if by your actions you communicate that their story is valid and they're justified when they're not—then you will be partially responsible for the people this person hurts in the future.
+If you don't offer resistance—if by your silence you communicate that their story is valid and they're justified when they're not—that story gets stronger. They stay stuck in it. And the people around them keep paying for it — because an unchallenged story doesn't stay contained. It spreads, it repeats, and it hurts people who had nothing to do with this moment.
 
-You're not responsible for whether they believe you and change. But you ARE responsible for doing your part to show them the error. After that, let go.
+You're not responsible for everything they do from here forward. But you had power in this moment to show them the truth, and what you do with that power affects more lives than yours. Use it, then let go.
 
 ---
 
