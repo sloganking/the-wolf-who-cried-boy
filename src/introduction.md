@@ -60,7 +60,7 @@ This book won't give you all the answers. But it will give you a framework—a w
 A friend who's prominent in these spaces once told me:
 
 > "Temple is concentrated life."  
-> — _Enki, organizer of temple community in the San Francisco Bay Area_
+> — *Enki, organizer of temple community in the San Francisco Bay Area*
 
 In sacred sexuality spaces—where everything is welcome, where desire and pleasure and jealousy and despair all happen at once—you experience in one night what might take months or years to encounter elsewhere. The intensity is turned up. Everything is amplified.
 
@@ -68,14 +68,16 @@ But here's the thing: **nothing in this book is unique to play parties.**
 
 Every concept here applies to your entire life:
 
-| In Temple                                                  | In Life                                                            |
-| ---------------------------------------------------------- | ------------------------------------------------------------------ |
-| You fawn when someone pressures you for touch              | You fawn when your boss asks you to work overtime                  |
-| You have a subconscious story that you're being excluded   | That same story makes you miserable at work dinners and weddings   |
-| You over-respond to a low-severity boundary cross          | You over-respond when your partner forgets an anniversary          |
-| You cry victim without seeing the power you had           | You blame your ex, your parents, your circumstances without seeing your part |
-| You start a witch hunt based on vibes instead of facts     | You gossip and destroy reputations based on hearsay                |
-| You feel powerless as a participant facing an angry person | You feel powerless facing bureaucracy, authority, conflict         |
+
+| In Temple                                                  | In Life                                                                      |
+| ---------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| You fawn when someone pressures you for touch              | You fawn when your boss asks you to work overtime                            |
+| You have a subconscious story that you're being excluded   | That same story makes you miserable at work dinners and weddings             |
+| You over-respond to a low-severity boundary cross          | You over-respond when your partner forgets an anniversary                    |
+| You cry victim without seeing the power you had            | You blame your ex, your parents, your circumstances without seeing your part |
+| You start a witch hunt based on vibes instead of facts     | You gossip and destroy reputations based on hearsay                          |
+| You feel powerless as a participant facing an angry person | You feel powerless facing bureaucracy, authority, conflict                   |
+
 
 The patterns are identical. Temple just makes them visible faster.
 
@@ -212,7 +214,7 @@ That's it. Everything else is detail.
 ## You Will Make Mistakes
 
 > **"But goodness alone is never enough. A hard cold wisdom is required for goodness to accomplish good. Goodness without wisdom always accomplishes evil."**  
-> — _Robert A. Heinlein, Stranger in a Strange Land_
+> — *Robert A. Heinlein, Stranger in a Strange Land*
 
 Wisdom is demonstrated by action and gained only through personal lived experience. This book will give you knowledge, and when you combine it with your own experiences, it will accelerate how quickly you gain wisdom.
 
@@ -260,7 +262,7 @@ I was blind. Completely blind — to the beliefs running my life, to the stories
 
 I went to therapy — five hours a week for over a year. It helped me understand things intellectually, but it didn't change the beliefs underneath. You can talk about being lovable every session — but until someone actually shows you love, your body doesn't trust it. The mind might update, but the body holds the old story. That's when I realized: you can't think your way out of trauma. You have to live your way out. If the beliefs destroying me were about worth and being wanted, I needed experiences where those beliefs would be tested — not more conversations about them.
 
-So I tried everything. I went to my first play party, terrified — not because of the party, but because rejection felt like walking into fire. Every "no" confirmed the story I'd been carrying: _I'm unlovable. No one will ever want me._ I discovered conscious sexuality communities. I started attending as self-directed exposure therapy — crying at some events, connecting at others, learning at all of them. Each experience taught me something. Each risk built evidence that I could create the life I wanted.
+So I tried everything. I went to my first play party, terrified — not because of the party, but because rejection felt like walking into fire. Every "no" confirmed the story I'd been carrying: *I'm unlovable. No one will ever want me.* I discovered conscious sexuality communities. I started attending as self-directed exposure therapy — crying at some events, connecting at others, learning at all of them. Each experience taught me something. Each risk built evidence that I could create the life I wanted.
 
 That's also where I learned to see patterns — not from textbooks, but in the field. Every partnered exercise, every conversation with a stranger, every moment of connection or conflict was a live laboratory. I could watch my own stories come up in real-time, and I could see other people's stories playing out right in front of me. Hundreds of interactions, compressed into intense environments where everything is amplified. That's how you get good at this fast.
 
@@ -300,4 +302,4 @@ If something in this book hit home — if you recognized a pattern in yourself, 
 
 ---
 
-_— Logan King_ 👑
+*— Logan King* 👑
