@@ -171,6 +171,10 @@ A truly skilled facilitator builds that bridge, then walks the fawning person in
 
 They see the activated person's pain underneath their rage, name it without endorsing their behavior, and help the room hold both things at once: this person is hurting AND the way they're expressing it is not okay.
 
+And they use questions — not declarations — to reveal what the angry person skipped. This is showing instead of telling, applied to facilitation. A facilitator who says "you're overreacting" is telling — and it kills rapport and triggers narrative lock. A facilitator who asks "did you ask them what their intent was before you took action?" is showing — letting the room hear the answer and draw its own conclusion. The angry person might say "I didn't need to — it was obvious." And now the room can see for themselves: this person went from [notice to story](../tools/notice-feel-story.md) without ever verifying. The facilitator didn't declare the disproportionality. They asked a question, and the answer revealed it.
+
+This is the skill: [separating what someone noticed from the story they made about it](../tools/notice-feel-story.md) — and doing it through questions that let the person answer, instead of verdicts that make them defend. "What did you see happen?" "What did you decide it meant?" "Did you check?" Each question peels back a layer. The room watches someone's certainty unravel — not because the facilitator attacked it, but because the questions revealed there was nothing underneath it.
+
 That's the difference between a facilitator who runs a timer and a facilitator who leads. The timer version produces fake resolution. The leading version might produce real repair.
 
 ---
