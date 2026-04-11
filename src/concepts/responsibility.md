@@ -135,7 +135,7 @@ Most people look at this and think: "The facilitators are the ones with power to
 
 **Here's the part they miss:** you have real power too.
 
-Not the same power as the facilitator — they have a **role** they agreed to, and when they don't prepare first-timers, that's a failure of their agreement. But a role tells you what someone *committed to do*. It doesn't tell you how much power they actually have. Sometimes a participant has more influence than the facilitators — because they have a skill the staff doesn't, because they see something the facilitators missed, or because they're willing to speak when no one else will.
+Not the same power as the facilitator — they have a **role** they agreed to, and when they don't prepare first-timers, they've failed to honor that agreement. But a role tells you what someone *committed to do*. It doesn't tell you how much power they actually have. Sometimes a participant has more influence than the facilitators — because they have a skill the staff doesn't, because they see something the facilitators missed, or because they're willing to speak when no one else will.
 
 You're not a passive consumer of the container. You're a co-creator of it.
 
