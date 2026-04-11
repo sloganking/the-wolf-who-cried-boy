@@ -119,11 +119,11 @@ Notice the language: "called names," not "called a predator." When you say "I'm 
 
 ### Show Your Humanity
 
-When someone publicly calls you a predator, a monster, a threat — they're not talking to you. They're talking to a [label they put on you](./invisible-patterns.md#narrative-lock). The person — your intentions, your history, your capacity for repair — has been replaced by a caricature. That's what [dehumanization](./types-of-mistakes.md#the-predator-trap) is: the label replaces the person, and the label is what gets attacked. You're standing right there, but you're not in the conversation anymore.
+When someone publicly calls you a predator, a monster, a threat — they're not talking to you. They're talking to a [label they put on you](./invisible-patterns.md#narrative-lock). The person — your intentions, your history, your capacity for repair — has been replaced by a caricature. That's what [dehumanization](./types-of-mistakes.md#a-note-on-the-word-predator) is: the label replaces the person, and the label is what gets attacked. You're standing right there, but you're not in the conversation anymore.
 
 If you stay silent, the room accepts the label. *He's being defensive because he's guilty. He's trying to manipulate his way out of consequences.* That's the default assumption when someone is publicly accused and doesn't fawn.
 
-The countermove is in the name of this section. They made you not-a-person. These three steps make you a person again — not by arguing against the label, but by showing the room a human being that the label can't contain.
+The countermove is in the name of this section. They're pushing a narrative that claims you're not a person. These three steps make you a person again — not by arguing against the label, but by showing the room a human being that the label can't contain.
 
 There are three steps, in this order:
 
