@@ -117,7 +117,7 @@ And selfishness doesn't just come from a false belief—it's a strategy that und
 
 Selfishness is a scaling problem. It can extract from people who have no other option. But anyone with choices will eventually choose someone else. The selfish person ends up with fewer and shallower relationships than someone who learned to give and receive in balance—[hungry and naive](./before-you-judge.md#and-the-ones-who-are-selfish), using the only strategy they know, not realizing it caps out far below what's actually possible. It's a cop-out dressed up as insight.
 
-It's also the opposite of [responsibility](./responsibility.md). When you say "they're just too stupid to get it," you're pretending you don't have the power to affect them. You're disowning your influence. But you _do_ have power here—you just haven't figured out how to use it yet.
+But so is writing them off. When you say "they're just too stupid to get it," you're doing the opposite of [responsibility](./responsibility.md) — pretending you don't have the power to affect them. You're disowning your influence. But you _do_ have power here—you just haven't figured out how to use it yet.
 
 Blaming their stupidity is giving up while telling yourself you never had a chance.
 
