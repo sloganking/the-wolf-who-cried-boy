@@ -1,0 +1,21 @@
+---
+description: When linking to book pages, always link to the specific section, not just the page
+globs: src/**/*.md
+alwaysApply: false
+---
+
+# Link to Specific Sections
+
+When adding markdown links to other pages in the book, ALWAYS link to the specific section heading, not just the page.
+
+```markdown
+❌ BAD — links to the page but not the relevant section:
+[dehumanization](./types-of-mistakes.md)
+[Narrative Lock](./invisible-patterns.md)
+
+✅ GOOD — links to the exact section:
+[dehumanization](./types-of-mistakes.md#a-note-on-the-word-predator)
+[Narrative Lock](./invisible-patterns.md#narrative-lock)
+```
+
+Before adding a link, search for the actual heading text in the target file to get the correct anchor. Do not guess anchor names — verify them.
