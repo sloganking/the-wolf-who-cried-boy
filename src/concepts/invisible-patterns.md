@@ -10,27 +10,27 @@ People carry [filters](./trauma-and-filters.md) — stories stored in their bodi
 
 Consider someone whose subconscious runs this story: "People are going to misunderstand me and attack me."
 
-They might not consciously think this. But their body knows it. Every time their phone buzzes—a text, a call, a notification—they get a jolt of fear. _Is someone mad at me? Did they see some imperfection and now they think I'm deserving to be screamed at?_
+They might not consciously think this. But their body knows it. Every time their phone buzzes—a text, a call, a notification—they get a jolt of fear. *Is someone mad at me? Did they see some imperfection and now they think I'm deserving to be screamed at?*
 
 They're not choosing to think this. Their nervous system just fires. Years of being misunderstood have trained their RAS to expect attack.
 
 This story doesn't just distort perception. **It creates the thing it fears.**
 
-Say they're on a team. They make a minor error—the kind everyone makes. But they hyper-focus on it: _Oh no, someone might misunderstand this._ So they proactively bring it up at the team meeting, trying to seem accountable.
+Say they're on a team. They make a minor error—the kind everyone makes. But they hyper-focus on it: *Oh no, someone might misunderstand this.* So they proactively bring it up at the team meeting, trying to seem accountable.
 
-The problem: everyone makes these mistakes, but no one else mentions theirs. In fact, the others might not even perceive their own identical actions as mistakes — their RAS isn't tuned to "being misunderstood," so the same behavior that this person agonizes over doesn't even register for them. They're not staying quiet strategically. They genuinely don't see it. Now this person is the only one the team hears making errors. Week after week. Their confessions are training everyone else's RAS: _This person is mistake-prone. Watch them._
+The problem: everyone makes these mistakes, but no one else mentions theirs. In fact, the others might not even perceive their own identical actions as mistakes — their RAS isn't tuned to "being misunderstood," so the same behavior that this person agonizes over doesn't even register for them. They're not staying quiet strategically. They genuinely don't see it. Now this person is the only one the team hears making errors. Week after week. Their confessions are training everyone else's RAS: *This person is mistake-prone. Watch them.*
 
 They think they're taking actions that will stop others from misunderstanding and attacking them. They're actually painting a target on themselves — making themselves more likely to be misunderstood and attacked.
 
 **And then comes the fawning.**
 
-When someone does confront them—angry, accusing—their fear kicks in. Part of the fear is the story: _I don't know how to handle this. If I defend myself, it'll get worse._
+When someone does confront them—angry, accusing—their fear kicks in. Part of the fear is the story: *I don't know how to handle this. If I defend myself, it'll get worse.*
 
 So instead of saying "This is unreasonable. You can't speak to me this way. If you want to talk with dignity and respect, I'm available—otherwise, I'm not"—instead of that, they try to appease. They explain their actions, which to the attacker looks like manipulation, trying to get out of trouble. The attack intensifies.
 
 They apologize—not because they did anything wrong, but because they believe apologizing will make angry people less angry. Fawning.
 
-But to the attacker, the apology looks like a confession. It reinforces the attacker's story: _See? They admitted it. I was right._
+But to the attacker, the apology looks like a confession. It reinforces the attacker's story: *See? They admitted it. I was right.*
 
 **The person never showed any other possibility.** They never told the attacker the truth — that the attacking was unjustified. They never gave the attacker and any audience a chance to ask themselves: *is this attack actually just?* Their fear of being misunderstood and attacked caused them to take exactly the actions that caused people to misunderstand and attack them.
 
@@ -116,7 +116,7 @@ Both feel like victims. All three think the other person — or their own nature
 [Taking responsibility](./responsibility.md) here is tricky — because every person's pattern is invisible to them. The scanner doesn't see how their hypervigilance creates false accusations. The target doesn't see how their over-apologizing paints a target on themselves. The cage doesn't see how their suppression builds the bomb. The fawner doesn't see how their compliance invites the violations they fear. They'll cycle through these dynamics over and over — feeling victimized, feeling afraid, never resting — genuinely believing it's happening *to* them. Breaking the cycle requires something most people never consider: waking up to the unconscious pattern itself. You can't take responsibility for power you don't know you have.
 
 > **"Until you make the unconscious conscious, it will direct your life and you will call it fate."**  
-> — _Paraphrase of Carl Jung_
+> — *Paraphrase of Carl Jung*
 
 **The way out:**
 
@@ -237,9 +237,7 @@ That's Narrative Lock. The person isn't asking "what actually happened?" anymore
 **Three signals that someone has entered Narrative Lock:**
 
 1. **Motive Attribution** — they tell you *why* you did what you did. Not what you did — *why*. Your internal experience doesn't matter anymore. They've become the authority on your intentions. A curious person says "you did X — why?" and waits for the answer. A narrative-locked person skips the question entirely: "you did X *because*..." — *"You did that because you wanted to." "You knew exactly what you were doing." "You planned this."* The moment someone tells you your own intentions instead of asking about them, they've stopped listening.
-
 2. **Framework Substitution** — they stop talking about the specific event and start invoking a larger system. You're no longer a person who did a thing. You're an instance of patriarchy, rape culture, predatory behavior. Listen for the shift: they stop saying "you did X" and start saying "this is what X looks like" — *"This is exactly what toxic masculinity is." "This is predatory behavior." "People like you are the reason spaces aren't safe."* That's the moment they stopped talking to you and started talking to a category. Even a single word does this — "predator," "narcissist," "abuser" aren't just labels. Each one carries an entire framework: what you are, why you did it, what you'll do next, and why curiosity is unnecessary. The label *is* the framework, compressed into one word. It's impossible to repair a conflict with someone who's no longer talking to you — they're talking to a framework you've been filed under.
-
 3. **No Repair Path** — healthy boundaries usually include a way back, even if it's not immediate. Someone might be angry or hurt and need time to process before they can even think about repair — that's normal. "I need space. I'll reach out when I'm ready." Or, after they've emotionally regulated: "Here's what I'd need to feel like this is actually repaired: [specific request]. If you can do that, I'm open to continuing this." The repair path doesn't have to be open right now. It just has to exist. Narrative Lock closes the door entirely. Listen for the finality: *"I'm done." "There's nothing to discuss." "You need to leave and never come back."* There's no "when I'm ready." No future where repair becomes possible. The verdict is final. You've been sentenced, and there's no appeal.
 
 One caveat: choosing not to reconnect with someone isn't always Narrative Lock. If you've seen a repeated pattern, you've processed what happened honestly, and you've decided you don't want to continue given the risk — that's a boundary based on experience, not a locked story. The difference is whether you're *unable* to see them as a human who might have changed, or whether you *can* see that possibility and simply choose not to find out. One is a locked filter. The other is a clear-eyed decision about where you want to spend your energy.
