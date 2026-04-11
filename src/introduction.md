@@ -252,6 +252,7 @@ Welcome to clearer thinking.
 
 ## About the Author
 
+<!-- prettier-ignore -->
 <img src="./images/logan.jpg" alt="Logan King" width="250" style="border-radius: 8px; float: right; margin-left: 20px; margin-bottom: 10px;">
 
 A few years ago, I was barely surviving.
