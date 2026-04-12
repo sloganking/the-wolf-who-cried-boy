@@ -171,6 +171,12 @@ This applies to:
 
 ---
 
+### No Real Names in Personal Examples
+
+The book draws on real experiences. The people involved are never identified. Use roles ("a facilitator," "a participant," "a friend"), not names. The book already attributes quotes to their authors (Laurie Handlers, Tony Robbins, etc.) — that's different from placing someone as a character in a story about conflict, harm, or failure. If someone's name appears in a quote attribution, that doesn't mean they can be named in a narrative example. Keep stories anonymous. The insight matters. The identity doesn't.
+
+---
+
 ### Don't Recommend Therapists as a Default
 
 Telling readers to "find a therapist" is a cop-out. It decreases the book's authority and continues the standard narrative that therapy is the answer to emotional pain — when two-thirds of depression patients show zero improvement from therapy. The book has built a complete framework. Don't defer to someone else's authority when you've already done the work.
