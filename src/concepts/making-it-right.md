@@ -241,6 +241,37 @@ That's okay. Don't feel guilty — like you spent your one chance and now you ha
 
 You can go back. You can say: "I thought that would be enough, and it wasn't. I'm still feeling [this]. Here's what I think I actually need." That's not being difficult. That's being honest — and honesty is what makes repair real instead of performative.
 
+### When Apologies Don't Land
+
+The section above covers the real work — [showing, not telling](#show-dont-tell). Making it right with your actions, not just your words. If someone took significant actions to add value to your life and told you it was their way of making things right, that would be hard to miss — even if they never said the word "sorry." The actions *are* the apology. That's the primary point.
+
+But words still matter — and an apology that doesn't land can actively damage the relationship further, because of the stories it creates.
+
+There are two ways this fails, and they're different.
+
+**The apology you didn't even know happened.**
+
+I've received apologies so non-distinct that I genuinely didn't know I'd been apologized to. Someone says "that shouldn't have happened" and maybe there's a sorry in there somewhere — but it's so linguistically indistinct, so casual, that when I looked back afterward, I couldn't tell whether they'd actually apologized or not. I had a story for months that they hadn't. And that story shaped everything — how I felt about them, whether I thought they cared, whether I believed the relationship could be repaired. Maybe they did apologize. But if the apology is so non-distinct that the other person doesn't even register it, it functionally didn't happen.
+
+**The apology you receive but doesn't feel like one.**
+
+This is different. You know they're trying to apologize — you can hear the intent. But it's so unintentional that it doesn't mend anything. You don't feel any better after receiving it. Maybe they sent you a message that starts with something like "I guess I got a little too angry" and then immediately pivots to whatever else is on their mind — things going on in their life, topics they're interested in, stuff that has nothing to do with what they did to you. Maybe they did mean to apologize. But their attention switched so fast to what *they* care about that it felt like an afterthought to receive. It didn't feel like they stopped and looked at what happened. It didn't feel like they cared about my experience enough to pause for it. I didn't feel any safer with them afterward. I didn't feel apologized to.
+
+And then a story forms: *this person doesn't really care about me.* Maybe that's true. Or maybe they do care and they just don't know how to apologize in a way that lets you see their heart. That's a [story](../tools/notice-feel-story.md), not a fact — but it's a story that an unintentional apology writes for you. The [Notice](../tools/notice-feel-story.md) is what they said and did. The feeling is that you don't feel repaired. The story — that they don't care — is the part that might or might not be accurate. But accurate or not, the story is now running, and a better apology would have prevented it.
+
+**What both failures have in common:** the apology was about the apologizer, not the recipient. "I got a little carried away" is a statement about *you*. It doesn't name a single thing you did *to them*. It doesn't acknowledge their pain, their experience, the specific actions that hurt them. It doesn't say "I shouldn't have done [this specific thing] and you shouldn't have had to receive that." When someone harms you seriously and their apology doesn't name what they did or recognize what it cost you, it communicates: *I haven't really looked at what I did to you.* That's not repair. That's a formality.
+
+**What makes an apology land:**
+
+If you fucked up and you want to apologize — actually apologize — drop everything you're doing. Everything else goes silent. Put your attention on nothing but them.
+
+- **Full attention.** Nothing else in the conversation. Nothing before it, nothing after it. Just the apology. Don't mix it with other topics. Don't pivot to your life afterward. The moment you shift your attention to something else, you've told them where your attention actually is.
+- **Make it about them, not you.** Don't say "I got a little carried away." Say what you did to them. Name the specific actions. Acknowledge their pain — not your feelings about what happened, but what they experienced because of what you did. The apology is for *them*.
+- **Be specific.** Not "sorry about everything" — the actual things you did, the actual impact. Show them you've looked at it clearly enough to name it.
+- **Be intentional.** Maybe bow your head, or do something with your body that signals: *this matters to me.* The recipient should be able to feel that you stopped your life for a moment to do this. A gesture, a pause, a shift in your energy. Something that says: *right now, nothing matters more than this.*
+
+When those things are present, an apology can complete something in one sentence. When they're absent, a hundred sentences won't do it — and worse, the absence tells a story about how much you care that may follow you long after the words are forgotten.
+
 The same is true in the other direction. If you're the one making it right, completion might take more than one round. They might come back and say it didn't land. That's not failure — it's the process working. You're done when both of you feel done. Not when the first conversation ends.
 
 ## Real Repair Is Mutual
