@@ -257,7 +257,7 @@ That mismatch shaped everything — how I felt about them, whether I thought the
 
 **The under-apology.**
 
-The person knows they harmed you. They're not deluding themselves about what happened. But the apology they deliver doesn't carry enough weight — it's too casual, too buried, too unintentional for the size of what occurred. Maybe they tacked it onto the beginning of a message about something else. Maybe they said the right things but rushed through them. Maybe they apologized in passing when the situation called for stopping everything and being present. The awareness is there. The delivery isn't. This is fixable — a more intentional retry, with full attention and real weight behind it, can land where the first attempt didn't.
+The person knows they harmed you. They're not deluding themselves about what happened. But the apology they deliver doesn't carry enough weight — it's too casual, too buried, too unintentional for the size of what occurred. Maybe they tacked it onto the beginning of a message about something else. Maybe they apologized in passing when the situation called for stopping everything and being present. The awareness is there. The delivery isn't. This is fixable — a more intentional retry, with full attention and real weight behind it, can land where the first attempt didn't.
 
 **The narrative-locked apology.**
 
