@@ -251,7 +251,9 @@ There are two ways this fails, and they're different.
 
 **The apology you didn't even know happened.**
 
-I've received apologies so non-distinct that I genuinely didn't know I'd been apologized to. Someone says "that shouldn't have happened" and maybe there's a sorry in there somewhere — but it's so linguistically indistinct, so casual, that when I looked back afterward, I couldn't tell whether they'd actually apologized or not. I had a story for months that they hadn't. And that story shaped everything — how I felt about them, whether I thought they cared, whether I believed the relationship could be repaired. Maybe they did apologize. But if the apology is so non-distinct that the other person doesn't even register it, it functionally didn't happen.
+I've received apologies so non-distinct that I genuinely didn't know I'd been apologized to. Someone says "that shouldn't have happened" and maybe there's a sorry in there somewhere — but it's so linguistically indistinct, so casual, that it never registered as an apology at all. And then you end up with a mismatch: I was walking around with a story that I hadn't been apologized to — that this person hadn't given me a real, distinct apology for what happened. They were walking around with a story that they had — that they'd addressed it, that I'd received it, that we were good. Two completely different beliefs about what even happened between us. Neither of us knew the other person's version was different.
+
+That mismatch shaped everything — how I felt about them, whether I thought they cared, whether I believed the relationship could be repaired. And it could have gone on indefinitely, because from their side nothing was wrong. If your apology is so non-distinct that the other person doesn't even register it, you don't just fail to repair — you create a silent rift where one person thinks things are fine and the other person thinks they were never apologized to.
 
 **The apology you receive but doesn't feel like one.**
 
