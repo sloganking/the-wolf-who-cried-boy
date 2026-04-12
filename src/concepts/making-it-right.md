@@ -247,7 +247,7 @@ The section above covers the real work — [showing, not telling](#show-dont-tel
 
 But words still matter — and an apology that doesn't land can actively damage the relationship further, because of the stories it creates.
 
-There are two ways this fails, and they're different.
+Just like responses can be [under-responses or over-responses](./appropriate-response.md), apologies can be under-apologies. An under-apology is an apology whose weight doesn't match the harm. There are three ways this happens.
 
 **The apology you didn't even know happened.**
 
@@ -255,11 +255,17 @@ I've received apologies so non-distinct that I genuinely didn't know I'd been ap
 
 That mismatch shaped everything — how I felt about them, whether I thought they cared, whether I believed the relationship could be repaired. And it could have gone on indefinitely, because from their side nothing was wrong. If your apology is so non-distinct that the other person doesn't even register it, you don't just fail to repair — you create a silent rift where one person thinks things are fine and the other person thinks they were never apologized to.
 
-**The apology you receive but doesn't feel like one.**
+**The under-apology.**
 
-I've also received an apology that I knew was an apology — but it was so unintentional that it didn't mend anything. I didn't feel any better after receiving it. They sent me a message that started with something like "I guess I got a little too angry" — and then everything after that was about them. What they'd been up to. What they were into lately. What was going on in their life. Their attention was on me for one sentence — the apology — and then it was on themselves for the rest of the same message. Not even a separate message. The apology was attached to the beginning, and then the rest was about what they wanted to say, not what I needed to hear. Everything after that one sentence made it obvious: their attention wasn't on me. It wasn't for me.
+The person knows they harmed you. They're not deluding themselves about what happened. But the apology they deliver doesn't carry enough weight — it's too casual, too buried, too unintentional for the size of what occurred. Maybe they tacked it onto the beginning of a message about something else. Maybe they said the right things but rushed through them. Maybe they apologized in passing when the situation called for stopping everything and being present. The awareness is there. The delivery isn't. This is fixable — a more intentional retry, with full attention and real weight behind it, can land where the first attempt didn't.
 
-Here's what this person actually did: they called me names in front of a room full of people — names that damaged my reputation. They told others I was dangerous. They spread stories that weren't true. They tried to get me removed from the space. They threatened violence. Some people who had been friendly with me before this changed how they treated me because of what this person said. Relationships I'd built were damaged — not by anything I did, but by a story someone told about me while they were angry. That's what happened. That's the [Notice](../tools/notice-feel-story.md).
+**The narrative-locked apology.**
+
+This is different and harder. The person hasn't seen through their own [story](./invisible-patterns.md#narrative-lock) about what happened. They still believe they were mostly right — maybe they were a [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) who genuinely thought they were protecting others by attacking you. In their version, they're the hero who got "a little too angry." So the apology can only cover the fraction of wrongdoing they've admitted to themselves. A narrative-locked apology is always an under-apology by definition — but the cause isn't bad delivery. It's that they can't apologize for harm they haven't seen. No amount of better delivery fixes this. Not until they wake up.
+
+Here's what one of these looks like.
+
+I received an apology from someone who had called me names in front of a room full of people — names that damaged my reputation. They told others I was dangerous. They spread stories that weren't true. They tried to get me removed from the space. They threatened violence. Some people who had been friendly with me before this changed how they treated me because of what this person said. Relationships I'd built were damaged — not by anything I did, but by a story someone told about me while they were angry. That's what happened. That's the [Notice](../tools/notice-feel-story.md).
 
 And their apology for all of that was: "I guess I got a little too angry."
 
