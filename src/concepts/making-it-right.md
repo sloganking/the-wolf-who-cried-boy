@@ -6,6 +6,8 @@
 
 When a mistake occurs, the goal is **repair**, not punishment.
 
+Repair isn't a checklist of actions. It's a state — both people feel good about each other and consider the matter complete. Actions are the mechanism, but the measure is the feeling. You're done when both of you feel done, not when a certain number of steps have been taken.
+
 Rather than blaming, attacking, or going for an eye for an eye—if the person who made a mistake wants to make up for it, **allow them to make it right.**
 
 ## Repair Requires Safe Conditions
