@@ -106,6 +106,8 @@ If what they're asking for crosses your boundaries, you can say:
 
 That's still repair. It's just repair that doesn't require self-betrayal.
 
+And if you go back and forth a few times and still can't find something that works for you both — don't repair with something that doesn't feel good to you just because you couldn't find something that did. Wait. Keep looking. A repair action you resent taking is worse than no repair action at all, because now the relationship carries the original harm *plus* your resentment. Hold out until you find something that genuinely feels right — or accept that the repair might need to take a different form than either of you expected.
+
 ## When the Other Person Doesn't Want Contact
 
 Sometimes the person receiving the repair may:
