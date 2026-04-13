@@ -229,17 +229,23 @@ And if they say no? Behind every no is something someone cares about. A no is ju
 
 The person offering repair usually _wants_ to make it right. Give them something real to aim for. Give them a way to win.
 
-### Completion Isn't Always One Conversation
+### Repair Might Need to Happen Multiple Times
 
 > **"Completion is a process. It might mean I need to get complete with you over and over and over again."**
 >
 > — _Laurie Handlers_
 
-Maybe you asked for what you thought would make it right. They did it. And you still don't feel repaired.
+Someone wrongs you. They take action to make it right — real action, not just words. And you still don't feel repaired.
 
-That's okay. Don't feel guilty — like you spent your one chance and now you have to pretend you're fine. Repair isn't a single transaction. It's a process. Sometimes you don't know what you actually need until the first attempt doesn't land. Sometimes new layers surface after the initial repair. Sometimes you wake up the next day still angry about something you thought was resolved.
+That's okay. Don't feel guilty — like you spent your one chance and now you have to pretend you're fine. Repair isn't a single transaction. It's a process. And there are specific reasons why the first round might not be enough:
 
-You can go back. You can say: "I thought that would be enough, and it wasn't. I'm still feeling [this]. Here's what I think I actually need." That's not being difficult. That's being honest — and honesty is what makes repair real instead of performative.
+**What they offered wasn't enough.** The action was real — they did something genuine to make it right. But it didn't match the size of the harm. Maybe a medium gesture for a high-severity wound. They showed up, and it still wasn't enough. That's not them failing. It's the harm being bigger than what one round of repair can cover. More is needed.
+
+**You thought it would be enough, and it wasn't.** You asked for something. They gave it to you. And you still don't feel repaired. This happens because you don't always know what you actually need until the first attempt shows you. The first round of repair clears one layer — and reveals another one underneath that you didn't know was there. Maybe you thought a conversation would do it, and now you realize you need action. Maybe you thought an action would do it, and now you realize there's something else you need that you couldn't see before.
+
+**You [fawned](./fawning.md) and asked for less than you needed.** You asked for the minimum — the "reasonable" request, the one that wouldn't make you look demanding. They did it. And you're not repaired, because what you asked for was never what you actually needed. You were protecting their comfort instead of advocating for yourself. Now you're realizing: *that wasn't enough, and the reason it wasn't enough is that I never gave them a real target.* This is the moment to go back and ask for what would actually put a smile on your face — not what feels "appropriate." (See [Ask for What You Actually Want](./making-it-right.md#ask-for-what-you-actually-want).)
+
+In all three cases, the move is the same: go back. You can say: "I thought that would be enough, and it wasn't. I'm still feeling [this]. Here's what I think I actually need." That's not being difficult. That's being honest — and honesty is what makes repair real instead of performative. If you accepted the first round and pretend you're fine when you're not, the relationship stays broken and they never get a chance to actually make it right.
 
 ### When Apologies Don't Land
 
@@ -297,8 +303,6 @@ If you fucked up and you want to apologize — actually apologize — drop every
 - **Be intentional.** Maybe bow your head, or do something with your body that signals: *this matters to me.* The recipient should be able to feel that you stopped your life for a moment to do this. A gesture, a pause, a shift in your energy. Something that says: *right now, nothing matters more than this.*
 
 When those things are present, an apology can complete something in one sentence. When they're absent, a hundred sentences won't do it — and worse, the absence tells a story about how much you care that may follow you long after the words are forgotten.
-
-The same is true in the other direction. If you're the one making it right, completion might take more than one round. They might come back and say it didn't land. That's not failure — it's the process working. You're done when both of you feel done. Not when the first conversation ends.
 
 ## Real Repair Is Mutual
 
