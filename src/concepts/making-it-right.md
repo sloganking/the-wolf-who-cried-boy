@@ -239,7 +239,7 @@ And if they say no? A no is not the end of the conversation — it's the beginni
 
 The person offering repair usually _wants_ to make it right. Give them something real to aim for. Give them a way to win.
 
-### Repair Might Need to Happen Multiple Times
+## Repair Might Need to Happen Multiple Times
 
 > **"Completion is a process. It might mean I need to get complete with you over and over and over again."**
 >
