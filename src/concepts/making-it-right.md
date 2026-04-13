@@ -140,7 +140,7 @@ Your repair requests have a [severity](./severity.md) too. You can [under-respon
 
 ## Repair Is a Privilege — and Your Best Move
 
-You don't owe anyone the chance to make it right. If someone harmed you and you can't think of any way they could add value to your life — if every path to repair would just take more from you — don't manufacture one for their sake. That's [fawning](./fawning.md). If they genuinely want to make things right and you've closed the door, the path that remains for them is to [pay it forward](#if-you-cant-pay-it-back-pay-it-forward) — to take what they learned and make the world better with it instead of you.
+You don't owe anyone the chance to make it right. If someone harmed you and you can't think of any way they could add value to your life that you would enjoy — if every path to repair would just take more from you — don't manufacture one for their sake. That's [fawning](./fawning.md). If they genuinely want to make things right and you've closed the door, the path that remains for them is to [pay it forward](#if-you-cant-pay-it-back-pay-it-forward) — to take what they learned and make the world better with it instead of you.
 
 But before you decide there's nothing they could do — slow down.
 
