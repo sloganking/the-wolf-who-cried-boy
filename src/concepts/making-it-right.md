@@ -223,7 +223,7 @@ And if they say no? A no is not the end of the conversation — it's the beginni
 > That any wage I had asked of Life,  
 > Life would have willingly paid.
 >
-> — _Quoted in Think and Grow Rich_
+> — _Napoleon Hill, Think and Grow Rich_
 
 ### How to Ask
 
