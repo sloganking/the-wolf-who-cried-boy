@@ -205,7 +205,7 @@ Sometimes that means the relationship gets closer. Sometimes it means it ends. A
 
 As a facilitator, you should be catching the signs of fake resolution as they happen: one person is admitting all fault while the other admits none. The non-angry person apologizes, agrees, shrinks — and at no point stands up for themselves or says anything that pushes back on the angry person's story. The angry person "forgives" and everyone exhales. But nothing true was said. No one learned anything. The angry person's narrative was confirmed, not examined. If you're watching this unfold and it looks like resolution, check: did the non-angry person actually say what they think is true and fair? Or did they just perform well enough to make the angry person stop?
 
-For the full repair framework — how to make it right, how to ask for what you need, how to avoid fawning during repair — see [Making It Right](./making-it-right.md).
+For the full repair framework — how to make it right, how to ask for what you need, how to avoid fawning during repair — see [Repair](./making-it-right.md).
 
 ### Closing
 

@@ -297,5 +297,5 @@ This is a genuinely painful situation. Even handled perfectly, it's disruptive. 
 - [When Things Go Wrong](./when-things-go-wrong.md) — Emergency exception, threats of violence, de-escalation
 - [Before You Facilitate](./before-you-facilitate.md) — The promise, the first officer, pre-framing
 - [Fawning](./fawning.md) — What you're doing when you appease instead of act
-- [Making It Right](./making-it-right.md) — The repair framework referenced for re-entry
+- [Repair](./making-it-right.md) — The repair framework referenced for re-entry
 - [Walking Your Talk](./walking-your-talk.md) — When your actions match your values
