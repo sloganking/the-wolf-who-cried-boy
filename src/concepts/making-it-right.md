@@ -206,7 +206,7 @@ Maybe you're thinking: _I can't ask them to come to my home, dress in nothing bu
 
 But if that's something that would actually feel fun, repair the relationship, and leave you both laughing—they might say yes.
 
-And if they say no? Behind every no is something someone cares about. A no is just information. It's an opportunity to figure out what they need in order to feel good while doing repair—and come to a new idea that works for you both. That new idea might even be better than the one you first proposed.
+And if they say no? A no is not the end of the conversation — it's the beginning of figuring out what matters to them. Behind every no is something someone cares about. That's information. It's an opportunity to figure out what they need in order to feel good while doing repair — and come to a new idea that might be a hell yes for you both.
 
 > I bargained with Life for a penny,  
 > And Life would pay no more,  
