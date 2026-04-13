@@ -287,7 +287,7 @@ Then someone else in the room decided I was dangerous. They called me names in f
 
 And their apology for all of that was: "I guess I got a little too angry."
 
-That's it. One sentence. No mention of the names they called me. No acknowledgment that they spread stories about me. No recognition that other people treated me differently because of what they did. No awareness that threatening violence isn't "a little too angry." They acknowledged one thing out of a hundred — and even that one thing was minimized. "A little too angry" for what was the most aggressive behavior I've ever been on the receiving end of.
+That's it. One sentence. No mention of the names they called me. No acknowledgment that they spread stories about me. No recognition that other people treated me differently because of what they did. No awareness that making death threats isn't "a little too angry." They acknowledged one thing out of a hundred — and even that one thing was minimized. "A little too angry" for what was the most aggressive behavior I've ever been on the receiving end of.
 
 Not only was the apology a single sentence — it was attached to the beginning of a message, and then the rest was about what they wanted to say, not what I needed to hear. Their attention was on me for one sentence and then on themselves for the rest of the same message. Everything after that one sentence made it obvious: their attention wasn't on me. It wasn't for me. This was both an under-apology and a narrative-locked one — the delivery was unintentional, and the content showed they hadn't looked at the full scope of what they did.
 
