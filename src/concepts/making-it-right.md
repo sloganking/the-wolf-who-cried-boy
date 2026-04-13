@@ -8,7 +8,9 @@ When a mistake occurs, the goal is **repair**, not punishment.
 
 Repair isn't a checklist of actions. It's a state — both people feel good about each other and consider the matter complete. Actions are the mechanism, but the measure is the feeling. You're done when both of you feel done, not when a certain number of steps have been taken.
 
-Rather than blaming, attacking, or going for an eye for an eye—if the person who made a mistake wants to make up for it, **allow them to make it right.**
+Rather than blaming, attacking, or going for an eye for an eye — if the person who made a mistake wants to make up for it, the most valuable option is usually to **allow them to make it right.** Even if you're skeptical. Even if your first instinct is *fuck them.* Allowing repair is how you turn a negative into a net positive — it creates an opportunity for them to add value to your life that wouldn't have existed without the mistake. You might come out of this with a deeper relationship, a stronger sense of your own worth, or something genuinely good that wouldn't have happened otherwise. That's not naive — that's strategic.
+
+But you don't owe anyone the chance to repair. If the harm was severe enough that you genuinely can't think of any way they could add value to your life — if every path to repair would just take more from you — you don't have to manufacture one for their sake. [That's its own section.](#when-the-other-person-doesnt-want-contact) Both options are real. But before you decide there's nothing they could do, make sure you've actually considered it — not just reacted.
 
 ## Repair Requires Safe Conditions
 
