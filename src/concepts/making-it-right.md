@@ -85,6 +85,8 @@ This is powerful. Most people don't do this. Most people give the minimum apolog
 
 ### Don't Fawn When You Repair
 
+This is what an over-apology looks like in practice — repair driven by guilt, [sinsickness](./i-made-a-mistake.md#sinsickness), or [fawning](./fawning.md) instead of genuine care.
+
 Here's something important: **making it right should not violate your own boundaries.**
 
 You might feel grief or remorse after making a mistake. That's natural. But repair is not self-punishment. You don't owe them actions that make you uncomfortable. You're not doing this out of obligation or blame.
