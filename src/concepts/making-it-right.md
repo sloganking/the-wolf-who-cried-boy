@@ -281,7 +281,9 @@ This is different and harder. The person hasn't seen through their own [story](.
 
 Here's what one of these looks like.
 
-I made a low-to-medium severity mistake — crossed a boundary briefly, repaired immediately with the person involved, and she felt complete. Then someone else in the room decided I was dangerous. They called me names in front of a room full of people — names that damaged my reputation. They told others I was dangerous. They spread stories that weren't true. They tried to get me removed from the space. They threatened violence. Some people who had been friendly with me before this changed how they treated me because of what this person said. Relationships I'd built were damaged — not by the mistake I'd made, but by a story someone told about me while they were angry. That's what happened. That's the [Notice](../tools/notice-feel-story.md).
+I made a low-to-medium [severity](./severity.md), [unconscious mistake](./types-of-mistakes.md#unconscious-mistakes) — crossed a boundary for about one second, stopped immediately, and apologized. She said she felt complete and didn't need anything else. I told her I didn't feel complete — that when I make a mistake, I like to make it right with actions, not just words — and asked if she'd be open to hearing what I came up with later. She didn't say no.
+
+Then someone else in the room decided I was dangerous. They called me names in front of a room full of people — names that damaged my reputation. They told others I was dangerous. They spread stories that weren't true. They tried to get me removed from the space. They made death threats. Some people who had been friendly with me before this changed how they treated me because of what this person said. Relationships I'd built were damaged — not by the mistake I'd made, but by a story someone told about me while they were angry. That's what happened. That's the [Notice](../tools/notice-feel-story.md).
 
 And their apology for all of that was: "I guess I got a little too angry."
 
