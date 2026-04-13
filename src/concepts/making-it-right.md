@@ -281,7 +281,7 @@ This is different and harder. The person hasn't seen through their own [story](.
 
 Here's what one of these looks like.
 
-I received an apology from someone who had called me names in front of a room full of people — names that damaged my reputation. They told others I was dangerous. They spread stories that weren't true. They tried to get me removed from the space. They threatened violence. Some people who had been friendly with me before this changed how they treated me because of what this person said. Relationships I'd built were damaged — not by anything I did, but by a story someone told about me while they were angry. That's what happened. That's the [Notice](../tools/notice-feel-story.md).
+I received an apology from someone who had called me names in front of a room full of people — names that damaged my reputation. They told others I was dangerous. They spread stories that weren't true. They tried to get me removed from the space. They threatened violence. Some people who had been friendly with me before this changed how they treated me because of what this person said. Relationships I'd built were damaged — not by the mistake I'd actually made, but by a story someone told about me while they were angry. I'd made a low-severity mistake earlier — crossed a boundary briefly, repaired immediately with the person involved, and she felt complete. What this person did in response was not proportional to that. That's what happened. That's the [Notice](../tools/notice-feel-story.md).
 
 And their apology for all of that was: "I guess I got a little too angry."
 
