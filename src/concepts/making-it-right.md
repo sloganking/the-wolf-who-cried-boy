@@ -297,6 +297,8 @@ At the time, I felt offended receiving this. Not by what they said — by the ga
 
 They told me they were sorry. And in doing so, they showed me they don't even recognize the ways they wronged me. This book teaches [show, don't tell](#show-dont-tell) — and sometimes telling *is* showing. Just not what you intended to show. The words said "I'm sorry." Everything else about the message — the minimization, the pivot to their own life, the superiority, the single sentence for serious harm — showed that they hadn't looked at what they did. The telling and the showing contradicted each other. And when they do, people believe the showing.
 
+**What a mismatched apology creates.**
+
 I didn't respond. The apology was so mismatched to the harm that I concluded: this person hasn't seen through any of their own story yet. If they had, the apology would look nothing like this. And if they haven't, then engaging with them — even to respond to the apology — would be a waste of my time. Not out of spite. Out of a practical assessment: someone who can look at everything they did and summarize it as "I got a little too angry" is not someone who's ready for a real conversation about what happened.
 
 That's the opposite of what an apology is supposed to create. Why would you invest your time in a repair process with someone who's shown they don't even recognize the ways they've wronged you? At that point, the apology isn't adding value to your life — it's supposed to be for you, and it isn't. Engaging further would mean spending your energy showing them the error of their ways, which is a gift from you to them, not repair from them to you.
