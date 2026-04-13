@@ -381,7 +381,7 @@ This should be communicated at the very beginning of your container — not afte
 
 You can adapt this language to your style. The key is: **say it early, say it clearly, and put it in writing if possible.**
 
-### When the Facilitator Is the Target
+## When the Facilitator Is the Target
 
 Everything above addresses what happens when participants conflict with each other. But the promise matters *most* in the scenario nobody plans for: when someone accuses the facilitator of being the problem.
 

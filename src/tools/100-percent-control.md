@@ -10,8 +10,6 @@ When something you don't want occurs while interacting with another person, mult
 
 **However:** The majority of the time, you have the power to control 100% of the outcome.
 
-## The Dance Metaphor
-
 > If somebody invites you to dance, you both have to say yes in order for the dance to happen.
 >
 > If either of you say no, the dance doesn't happen.
