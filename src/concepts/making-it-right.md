@@ -259,7 +259,7 @@ The section above covers the real work — [showing, not telling](#show-dont-tel
 
 But words still matter — and an apology that doesn't land can actively damage the relationship further, because of the stories it creates.
 
-Just like responses can be [under-responses or over-responses](./appropriate-response.md), apologies can be under-apologies. An under-apology is an apology whose weight doesn't match the harm. There are three ways this happens.
+Just like responses can be [under-responses or over-responses](./appropriate-response.md), apologies can be under-apologies or over-apologies. An under-apology is an apology whose weight falls short of the harm. An over-apology is the opposite — groveling, saying sorry seventeen times, making yourself small, punishing yourself out loud. Over-apologizing is usually [fawning](./fawning.md) or [sinsickness](./i-made-a-mistake.md#sinsickness) — you've narrative-locked yourself into believing you're a monster, and the apology is proportional to that story instead of to what actually happened. Over-apologizing is covered in [Don't Fawn When You Repair](#dont-fawn-when-you-repair). What follows is about the other direction — under-apologies — which are more common and less understood. There are three ways this happens.
 
 **The apology you didn't even know happened.**
 
@@ -273,7 +273,7 @@ The person knows they harmed you. They're not deluding themselves about what hap
 
 **The narrative-locked apology.**
 
-This is different and harder. The person hasn't seen through their own [story](./invisible-patterns.md#narrative-lock) about what happened. They still believe they were mostly right — maybe they were a [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) who genuinely thought they were protecting others by attacking you. In their version, they're the hero who got "a little too angry." So the apology can only cover the fraction of wrongdoing they've admitted to themselves. A narrative-locked apology is always an under-apology by definition — but the cause isn't bad delivery. It's that they can't apologize for harm they haven't seen. No amount of better delivery fixes this. Not until they wake up.
+This is different and harder. The person hasn't seen through their own [story](./invisible-patterns.md#narrative-lock) about what happened. They still believe they were mostly right — maybe they were a [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) who genuinely thought they were protecting others by attacking you. In their version, they're the hero who got "a little too angry." So the apology can only cover the fraction of wrongdoing they've admitted to themselves. Narrative lock distorts in both directions — someone locked into a story where they're the hero will under-apologize, and someone locked into [sinsickness](./i-made-a-mistake.md#sinsickness) will over-apologize. But when narrative lock produces an under-apology, the cause isn't bad delivery. It's that they can't apologize for harm they haven't seen. No amount of better delivery fixes this. Not until they wake up.
 
 Here's what one of these looks like.
 
