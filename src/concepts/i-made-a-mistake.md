@@ -40,7 +40,7 @@ If they're upset but present — hurt, angry, shaken, but still able to hear you
 
 **Don't accept a story that isn't true.** If their reaction is [proportional](./appropriate-response.md), receive it. If they're calling you names, assigning intent you didn't have, or escalating beyond what happened — you can acknowledge your actual mistake without accepting their distorted version of it. "I take responsibility for what I did. I'm not available for being called [label]." Owning your mistake and [defending yourself against an over-response](./when-youve-been-wronged.md#show-your-humanity) are not contradictions. You can do both.
 
-For the full repair process after the dust has settled, see [Making It Right](./making-it-right.md).
+For the full repair process after the dust has settled, see [Repair](./making-it-right.md).
 
 ---
 
@@ -375,7 +375,7 @@ The question isn't "am I a bad person?" It's:
 
 1. Acknowledge the harm—don't minimize it
 2. Apologize without excessive self-flagellation
-3. Ask what would help repair it (see [Making It Right](./making-it-right.md))
+3. Ask what would help repair it (see [Repair](./making-it-right.md))
 4. Pay it forward, not just backward
 
 On that last point: don't just help the person you harmed. Use this experience to update your behavior and become the kind of person who doesn't just avoid this mistake in the future—but actively brings delight instead. Maybe you even help others avoid the same mistake. That's how you turn a harm into a net positive for the world.
@@ -401,7 +401,7 @@ Be honest with yourself:
 **What to do:**
 
 1. Full accountability—no minimizing, no excuses
-2. Real apology (see [Making It Right](./making-it-right.md))
+2. Real apology (see [Repair](./making-it-right.md))
 3. **Identify the harmful belief**—what idea or belief made this seem okay?
 4. **Replace it**—what will you believe instead? Write it down. Commit to it.
 5. Examine the pattern—is this a one-time lapse or a recurring blind spot?
@@ -664,7 +664,7 @@ That's available to you.
 
 ## See Also
 
-- [Making It Right](./making-it-right.md) — concrete steps for repair
+- [Repair](./making-it-right.md) — concrete steps for repair
 - [Severity](./severity.md) — understanding the scale of harm
 - [Appropriate Response](./appropriate-response.md) — matching response to offense
 - [Responsibility](./responsibility.md) — the creator frame

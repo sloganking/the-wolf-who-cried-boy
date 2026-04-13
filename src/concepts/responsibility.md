@@ -496,7 +496,7 @@ Now that you understand your responsibility, see [Own Your Part — Not Theirs](
 - [Own Your Part — Not Theirs](./own-your-part.md) — When someone pushes their responsibility onto you
 - [100% Control](../tools/100-percent-control.md) — The teaching tool for seeing your power
 - [Power Dynamics](./power-dynamics.md) — Unrecognized power
-- [Making It Right](./making-it-right.md) — Taking responsibility in action
+- [Repair](./making-it-right.md) — Taking responsibility in action
 - [Drama Triangle](./drama-triangle.md) — Victim vs Creator
 - [Before You Judge](./before-you-judge.md) — Responsibility to verify before acting
 - [Fawning](./fawning.md) — Taking responsibility for your patterns
