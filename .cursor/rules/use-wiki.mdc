@@ -25,6 +25,10 @@ This repository has a `wiki/` folder — a structured knowledge base covering ev
 - Append a log entry to `wiki/log.md` for any wiki update (format: `[date] verb | description`).
 - Follow the structure established in `llm-wiki-guide.md` at the repo root.
 
+## No Real Names in the Wiki
+
+This is a public repository. **Never include the real names of individuals involved in personal incidents** — only describe patterns, roles, and behaviors. Published authors cited for their published work (Karpman, David Emerald, Tony Robbins, Laurie Handlers) and the book's author (Logan King) are fine. Hypothetical placeholder names in tool examples (e.g., "Jake" in a scenario) are fine. But names of real people from the author's life or from incidents described in the book must never appear in the wiki.
+
 ## Why This Matters
 
 The wiki exists so you don't have to re-discover the book's language, frameworks, and interconnections from scratch every session. It's compounding knowledge — each session benefits from all previous ones. Reading the wiki first is faster AND produces better output than scanning raw source files.
