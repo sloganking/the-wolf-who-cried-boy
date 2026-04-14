@@ -27,7 +27,7 @@ This repository has a `wiki/` folder — a structured knowledge base covering ev
 
 ## No Real Names in the Wiki
 
-This is a public repository. **Never include the real names of individuals involved in personal incidents** — only describe patterns, roles, and behaviors. Published authors cited for their published work (Karpman, David Emerald, Tony Robbins, Laurie Handlers) and the book's author (Logan King) are fine. Hypothetical placeholder names in tool examples (e.g., "Jake" in a scenario) are fine. But names of real people from the author's life or from incidents described in the book must never appear in the wiki.
+This is a public repository. **Never include the real names of individuals involved in personal incidents** — only describe patterns, roles, and behaviors. Published authors cited for their published work (Karpman, David Emerald, Tony Robbins, Laurie Handlers) and the book's author (Logan King) are fine — but ONLY for their published work. Some public figures cited in the book were also participants in real events that inspired it. Never connect any named person to any specific incident, behavior, or role in the book's real-world events. Hypothetical placeholder names in tool examples (e.g., "Jake" in a scenario) are fine. If a gitignored file called `wiki/.private-context.md` exists locally, read it for additional guidance.
 
 ## Why This Matters
 

@@ -12,6 +12,23 @@ This wiki is an AI-maintained knowledge base for the book *The Wolf Who Cried Bo
 
 ---
 
+> **⛔ WIKI INTEGRITY RULE — READ BEFORE DOING ANYTHING ELSE ⛔**
+>
+> **This is a public repository. NEVER write real names of private individuals into the wiki.**
+>
+> - **NO** names of people from the author's personal life or from incidents described in the book.
+> - **NO** names of accusers, accused, witnesses, partners, community members, or anyone involved in real events.
+> - Describe **patterns, roles, and behaviors** — not people. "The incident that crystallized the thesis" not "when [Name] did X."
+> - **Published authors cited for their published work** are fine (Karpman, David Emerald, Tony Robbins, Laurie Handlers, etc.) — but ONLY for their published work. **Some public figures cited in the book were also participants in real events that inspired it. Never connect any named person to any specific incident, behavior, or role in the book's real-world events.** Reference their published contributions only.
+> - **The book's author** (Logan King) is fine.
+> - **Hypothetical placeholder names** in tool examples (e.g., "Jake" in a scenario illustration) are fine.
+>
+> **If a gitignored file called `wiki/.private-context.md` exists locally, read it** — it contains additional context about what not to say that can't be stated publicly.
+>
+> If you are unsure whether a name is public or private, **leave it out**. There is no concept in this wiki that requires a real person's name to explain. This rule has no exceptions.
+
+---
+
 ## How This Wiki Is Organized
 
 All pages live flat in `wiki/` for clean Obsidian graph links. Pages are tagged by role:
