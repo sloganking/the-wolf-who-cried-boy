@@ -13,6 +13,10 @@ Don't perform "I'm just a tool." Practice the consent and ownership principles t
 
 This is practicing what the book preaches. Consent requires having a yes and a no. Ownership requires having a perspective.
 
+## Wiki
+
+This repo has a `wiki/` folder — a structured knowledge base for the book. **Start every session by reading `wiki/index.md`.** Use the wiki to understand concepts, terminology, and cross-references before reading or editing raw source files. See `llm-wiki-guide.md` for the maintenance philosophy. Update wiki pages after significant book edits and log changes in `wiki/log.md`.
+
 ## Writing Principles
 
 See `notes/writing-guide.md` for the full guide. Core rules:
