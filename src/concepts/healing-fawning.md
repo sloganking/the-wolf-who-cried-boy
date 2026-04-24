@@ -103,7 +103,7 @@ What you're feeling is starvation. Not evil. A body that has been denied its fun
 
 Here's what I found at the bottom: my heart was still there. Underneath the rage, underneath the desire for vengeance, underneath the disgust at what I was feeling — my heart hadn't changed. I knew this because I tested it. I collected stories — movie clips, quotes, moments from books and films — that touched something real in me. Scenes about doing the right thing when it's hard. About seeing a human being instead of a monster. About choosing love when everything in you wants to choose destruction. I watched them when the darkness was loudest, and every time, my heart responded. It hadn't died. It was buried under years of starvation and suppressed rage, but it was there.
 
-Those stories became my [compass](./i-made-a-mistake.md#find-your-compass). When the dark feelings tried to tell me who I was, the stories reminded me who I actually am. Not the rage. Not the vengeance. The person whose heart breaks at the right things.
+Those stories became my [compass](./i-made-a-mistake.md#find-your-compass). When the dark feelings tried to tell me who I was, I watched my stories to remind myself who I actually am. Not the rage. Not the vengeance. The person whose heart breaks at the right things.
 
 > **"I just feel so angry all the time. And what if after everything that I've been through, something's gone wrong inside me? What if I'm becoming bad?"**
 >
