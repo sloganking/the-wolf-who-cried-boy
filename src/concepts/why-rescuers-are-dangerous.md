@@ -83,6 +83,24 @@ A selfish predator is one person doing harm. A righteous predator can mobilize a
 
 And here's the part nobody tells you about the boy who cried wolf: in the real world, when someone cries wolf, the village doesn't check and find nothing. They find a wolf — every time. Whether it exists or not. They find someone to label, someone to blame, someone to destroy. And when it's done, they look at the person who raised the alarm and think: *damn, that guy's good at seeing wolves. We should put him in charge.* And they do. The next false alarm gets taken even more seriously. The people who can see clearly — who say "wait, that wasn't actually a wolf" — get labeled wolf sympathizers and driven away, because contesting the narrative means risking becoming the next wolf. And every time one of them leaves, the average drops. Eventually it's nothing but people who see wolves everywhere, led by the person who sees the most wolves that aren't there.
 
+### The Blurry Predator: Where Most Harm Lives
+
+Most predators aren't either of the two pure types. Not the cold selfish predator who knows exactly what they're taking. Not the pure righteous predator operating on moral certainty without any hunger underneath. Those exist — but they're the minority. Most harm comes from the middle.
+
+Three self-statements distinguish the three types:
+
+- **Selfish:** *"I want this. I'm taking it. I know it's mine to take even if it costs you."*
+- **Righteous:** *"I'm doing the right thing. You're the problem. Stopping you is justice."*
+- **Blurry:** *"I'm owed. They have what should be mine. The situation makes it just."*
+
+The blurry predator's specific move is the third one. Not pure clarity about their selfishness — that's too hard to carry for long. Not pure moral certainty — that requires more conviction than this actually has. Something in between: a circumstance-based justification that silently converts what would be wrong in other situations into what is permissible in this one. The situation does the moral work the person can't do themselves. The entitlement gets produced by the circumstance instead of ever being examined.
+
+Most people who cause significant harm in their lives are blurry predators at least once. The cheat who convinces themselves the marriage is already dead. The thief who decides the company deserves it. The person who takes what isn't theirs and tells themselves they were owed. They're not heroes. They're not monsters. They're someone who used their situation as the argument for why a wrong is a right.
+
+Having the word matters for the same reason it matters for the righteous predator. Without it, people in the middle read about selfish predators and don't fit, read about righteous predators and don't fit, and conclude *I'm not a predator* — while still doing the harm. The label closes that exit.
+
+If the self-statement *"I'm owed. They have what should be mine. The situation makes it just"* sounds familiar in any area of your life, that's where to look. You're not evil. You're in the blur. And you'll stay there as long as you keep letting the situation do your moral reasoning for you.
+
 ### The Selfish Predator's Best Tool
 
 Here's what makes this even worse: a competent selfish predator doesn't use overt force. Overt force gets seen, gets stopped, gets a defensive response. Instead, they see your blind spots — and use them.
