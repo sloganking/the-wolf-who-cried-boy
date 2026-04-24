@@ -342,11 +342,7 @@ Every time you fawn to the voice instead — argue with it, go back and forth, w
 
 The voice will never be satisfied. It's not trying to protect you. It's a recording of someone who once had power over you, playing on a loop. You don't owe it an explanation. You owe yourself the truth.
 
-**The shortcut:** If you're in the moment and can't run through all four steps — you're about to respond to someone, you feel the fawning pull, and you need to decide NOW — ask one question: **what action creates the most trust right now?**
-
-Not what avoids conflict. Not what makes them happy. Not what prevents disappointment. What creates the most trust.
-
-The answer is almost always: tell the truth. "I haven't done it. I've been overwhelmed. Here's where I'm at." That's disappointing — and it's also a gift, because now you're both operating in reality instead of a performance. Posturing ("I'll definitely have it tomorrow") might avoid a moment of discomfort, but it erodes trust every time the performance doesn't match reality. Admitting where you actually are — even when it's not where you wanted to be — is what makes a reasonable person think *I can rely on this person to tell me the truth, even when it's hard.* And if they're not reasonable — if they attack you for honesty — that's information too. You just learned they don't handle truth well. That tells you something about whether this person belongs in your life.
+**When the moment is now:** The four-step tool is good when you have time. When you don't — when someone is waiting, the fawn is firing, and you need to decide this second — fall back on the single question at the end of this chapter: [What Creates the Most Trust Right Now?](#what-creates-the-most-trust-right-now) It works on the ghost voice the same way it works on real people.
 
 ### Hiding the Wound
 
@@ -371,6 +367,12 @@ Here's how the cycle runs:
 6. **You conclude: the wound is unlovable.** See? You showed it, and they left. Confirmed. Next time, hide it better. Try harder. Fix yourself first. Get to a place where you don't have the wound anymore, and THEN let someone in.
 
 7. **Repeat.**
+
+> The story says: *"If I show this, they'll leave."*
+>
+> The physics says: *"If I hide it, they fall for someone who isn't me — and the reveal later is the leaving."*
+>
+> **The hiding was never protection. It was rejection, delayed.**
 
 This is fawning applied to your entire relational life. You're saying "I'm fine" when you mean "I'm wounded." You're presenting a yes when the truth is more complicated. And just like the [Two Victims](#the-two-victims-problem) problem — your partner is also a victim. They were operating on false information. They didn't get to choose the real you, because you never offered it.
 
@@ -485,6 +487,33 @@ That's the [belief-shattering](#practice-saying-yes-to-your-own-desire) you've b
 The wound may still need healing. You may still need support, growth, work. But the foundation changes. You're not healing alone, in secret, hoping to become lovable someday. You're healing inside a relationship where the wound is known and held — where the medicine isn't your effort but [someone's presence](./why-helping-is-hard.md#when-the-medicine-is-you).
 
 And the cycle breaks. Not because the wound disappears. Because the hiding does.
+
+### What Creates the Most Trust Right Now
+
+When the fawn is live and you need to respond NOW — someone's waiting, the pull is firing, and the four-step tool or any framework is too slow — there's one question that cuts through every flavor of fawn in this chapter.
+
+> **What action creates the most trust right now?**
+
+Not what avoids conflict. Not what makes them happy. Not what prevents disappointment. Not what satisfies the voice in your head. What creates the most trust.
+
+The answer is almost always the thing you're afraid to say:
+
+- *"I haven't done it — I've been overwhelmed. Here's where I'm at."*
+- *"I love you, and I'm not the container for tonight."*
+- *"I'm not resourced for that scene. Here's what I can offer instead."*
+- *"I have a wound in this area. This is what I'm like when it surfaces."*
+
+Each of those is disappointing in the moment. Each of them is a gift — because now you're both operating in reality instead of a performance.
+
+Posturing — *"I'll definitely have it tomorrow," "I've got you," "I'm fine," "yes"* — might avoid the immediate discomfort. It erodes trust every time the performance doesn't match reality. Admitting where you actually are — even when it's not where you wanted to be — is what makes a reasonable person think *I can rely on this person to tell me the truth, even when it's hard.*
+
+The imposter story inverts the actual physics. The story says: *"If I tell the truth about my limits, they'll leave."* The physics says: *"If I hide my limits and deliver something thinner than I promised, the reveal is the leaving I was trying to prevent."* **The truth is never the exposure risk. The performance is.**
+
+This is why the question works across every fawn in this chapter — the [external fawn](#the-pattern-that-heals), the [reverse fawn](#fawning-can-happen-in-reverse), the [self-fawn](#fawning-to-yourself), the [wound-hiding fawn](#hiding-the-wound). The failure mode of all of them is abandoning what's true about your state to protect how you imagine someone else will react. The question routes around the imagined reaction and back to the truth.
+
+And if someone attacks you for telling the truth about where you are — that's information too. You just learned they don't handle honesty well. That tells you something about whether this person belongs in your life.
+
+You don't need to run a framework. The question is the whole tool.
 
 ## The Gift of No
 
