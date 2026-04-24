@@ -99,7 +99,7 @@ Most people who cause significant harm in their lives are blurry predators at le
 
 Having the word matters for the same reason it matters for the righteous predator. Without it, people in the middle read about selfish predators and don't fit, read about righteous predators and don't fit, and conclude *I'm not a predator* — while still doing the harm. The label closes that exit.
 
-If the self-statement *"I'm owed. They have what should be mine. The situation makes it just"* sounds familiar in any area of your life, that's where to look. You're not evil. You're in the blur. And you'll stay there as long as you keep letting the situation do your moral reasoning for you.
+If the self-statement *"I'm owed. They have what should be mine. The situation makes it just"* sounds familiar in any area of your life, that's where to look. You're not evil. You're in the blur. And you'll stay there as long as two engines keep running: the *situation* telling you this is fair, and a [helplessness story](./healing-fawning.md) telling you this is the only way the thing can reach you. The situation converts the wrong into the permissible. The helplessness converts the permissible into the necessary. Between them, they produce something that feels like reasoning and functions as permission.
 
 ### The Selfish Predator's Best Tool
 
