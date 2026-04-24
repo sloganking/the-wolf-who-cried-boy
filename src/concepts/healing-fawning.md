@@ -507,7 +507,7 @@ Each of those is disappointing in the moment. Each of them is a gift — because
 
 Posturing — *"I'll definitely have it tomorrow," "I've got you," "I'm fine," "yes"* — might avoid the immediate discomfort. It erodes trust every time the performance doesn't match reality. Admitting where you actually are — even when it's not where you wanted to be — is what makes a reasonable person think *I can rely on this person to tell me the truth, even when it's hard.*
 
-The imposter story inverts the actual physics. The story says: *"If I tell the truth about my limits, they'll leave."* The physics says: *"If I hide my limits and deliver something thinner than I promised, the reveal is the leaving I was trying to prevent."* **The truth is never the exposure risk. The performance is.**
+**The truth is never the exposure risk. The performance is.** This is the same physics you saw in [Hiding the Wound](#hiding-the-wound), applied to the real-time moment instead of the relational cycle. The fear that makes you fawn is the fear of being found out as not-enough. The fawn is how you get found out.
 
 This is why the question works across every fawn in this chapter — the [external fawn](#the-pattern-that-heals), the [reverse fawn](#fawning-can-happen-in-reverse), the [self-fawn](#fawning-to-yourself), the [wound-hiding fawn](#hiding-the-wound). The failure mode of all of them is abandoning what's true about your state to protect how you imagine someone else will react. The question routes around the imagined reaction and back to the truth.
 
