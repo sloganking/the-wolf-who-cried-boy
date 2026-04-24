@@ -97,6 +97,8 @@ And then the [sinsickness](./i-made-a-mistake.md#sinsickness) hits — harder th
 
 But the feelings don't mean what you think they mean.
 
+> **When you're starving to death, eating your brother sounds righteous.**
+
 What you're feeling is starvation. Not evil. A body that has been denied its fundamental needs for so long that its signals have become desperate, distorted, extreme. A starving person will eat things they'd never touch if they were fed. That doesn't make them a bad person. It makes them someone who hasn't eaten. Those feelings aren't your identity. They're your body's emergency broadcast system — screaming because nothing else has worked, because you've been fawning over its signals for years, and it's done being polite about it.
 
 Here's what I found at the bottom: my heart was still there. Underneath the rage, underneath the desire for vengeance, underneath the disgust at what I was feeling — my heart hadn't changed. I knew this because I tested it. I collected stories — movie clips, quotes, moments from books and films — that touched something real in me. Scenes about doing the right thing when it's hard. About seeing a human being instead of a monster. About choosing love when everything in you wants to choose destruction. I watched them when the darkness was loudest, and every time, my heart responded. It hadn't died. It was buried under years of starvation and suppressed rage, but it was there.
