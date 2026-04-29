@@ -181,7 +181,7 @@ Think about driving somewhere familiar. You meant to go to the store, but you zo
 
 In [Target Focus Training](https://targetfocustraining.com/)—a reality-based self-protection program—there's a rule: when you're done practicing with a weapon, you *never* hand it to your partner. You drop it on the ground and let them pick it up—even when it's their turn to use it in the next exercise.
 
-Why? Because there are documented cases of people defending themselves from an attacker—successfully fending them off with a gun or knife—and then, in shock, *handing the weapon to their attacker*. The threat isn't over. The attacker could kill them. But their body, running on autopilot after the adrenaline spike, does what it did in practice: hand the weapon to your partner when you're done.
+Why? Because there are documented cases of people defending themselves from an attacker—successfully fending them off with a gun or knife—and then, in shock, *handing the weapon to their attacker*. The threat isn't over. The attacker could kill them. But their body, running on autopilot after the adrenaline spike, does what it did in practice: hand the weapon to your partner when you're done. Even though this isn't practice, that's not your partner, and they may still try to kill you.
 
 This makes no logical sense. It could literally end your life. But autopilot doesn't care about logic. It runs the pattern that was trained, regardless of context.
 
