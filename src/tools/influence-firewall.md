@@ -106,7 +106,7 @@ When the labels aren't enough, ask one question:
 
 If everything they say is about their fear of you leaving, their fear of losing control, their fear of what happens to *them* if you act freely — it doesn't matter how caring the words sound. The function is control.
 
-If what they're saying acknowledges what you actually want, challenges you based on *your* values, and points out how your actions might compromise what *you* care about — that's genuine. Even if it's uncomfortable.
+If what they're saying acknowledges what you actually want, challenges you in a way that helps you act in alignment with *your own* values, and points out how your actions might compromise what *you* care about — that's genuine. Even if it's uncomfortable.
 
 A person who's controlling you says: "You can't do that — think about what it'll do to us."
 
