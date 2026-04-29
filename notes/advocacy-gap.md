@@ -70,31 +70,29 @@ Now addressed: `when-youve-been-wronged.md` explicitly names facilitator under-r
 
 ---
 
-### 6. MODERATE — Under-response underexplored in severity.md
+### 6. ~~MODERATE — Under-response underexplored in severity.md~~ ✅ FIXED
 
 **File:** `severity.md`
 
-"Responding to HIGH with LOW = you enable continued harm" gets one line. The "Feelings Don't Determine Severity" section is entirely about overestimating severity. Nothing about underestimating it — dismissing HIGH as LOW, minimizing real violations, facilitators treating something serious as "just drama."
-
-**Fix:** Add content about severity underestimation and its consequences.
+Now addressed: "Feelings Don't Determine Severity" has a full **Underestimating** paragraph covering fawning-driven minimization, facilitator under-response ("they're just activated, they didn't mean it"), and the consequence of treating HIGH as LOW. Cross-references `appropriate-response.md#under-response-the-invisible-failure`.
 
 ---
 
-### 7. MODERATE — "When Repair Isn't Possible" counsels passivity
+### 7. MODERATE — "When Repair Isn't Possible" counsels passivity — STILL OPEN
 
-**File:** `making-it-right.md`, lines 248-258
+**File:** `making-it-right.md`, lines 347-357
 
-When the wrongdoer won't take responsibility, the advice is: match severity, inform facilitators, stay safe, don't retaliate. All passive/informing. The final bullet — "don't become a harm-creator yourself" — prioritizes the reader's restraint before their advocacy.
+When the wrongdoer won't take responsibility, the advice is still four bullets: match severity, involve facilitators, prioritize safety, don't become a harm-creator. All passive/informing. The final bullet still prioritizes restraint before advocacy. No demand step.
 
 **Fix:** Add: demand the facilitator enforce consequences even without the wrongdoer's cooperation. Insist on proportional accountability whether or not the person wants to repair.
 
 ---
 
-### 8. MODERATE — Follow-up with mistake-maker gives information, doesn't ask what they need
+### 8. MODERATE — Follow-up with mistake-maker gives information, doesn't ask what they need — STILL OPEN
 
 **File:** `handling-threats-of-violence.md`, lines 176-188
 
-The follow-up is all about giving information. It doesn't include: ask them what they need. What repair do they want from the facilitator? What would make them feel safe? The mistake-maker was the victim of death threats — and the follow-up treats them as someone to be informed, not someone whose demands should be heard.
+Still all information-giving: (1) you're welcome back, (2) here's how we're handling them, (3) safety planning, (4) future attendance notification. All facilitator → mistake-maker. Never asks: what do you need? What repair would make you feel whole? What do you want from us? The mistake-maker was the victim of death threats and the follow-up treats them as someone to be informed, not someone whose demands should be heard.
 
 **Fix:** Add "ask them what they need" to the follow-up protocol.
 
@@ -108,50 +106,91 @@ Now has participant-facing facilitator fawning guidance: names the pattern, give
 
 ---
 
-### 10. MODERATE — "Own Your Part" is about refusing to carry too much — silent on demanding what you're owed
+### 10. MODERATE — "Own Your Part" is about refusing to carry too much — silent on demanding what you're owed — STILL OPEN
 
 **File:** `own-your-part.md`
 
-"Own your part fully. Refuse to own theirs." Great — but the third leg is missing: "And demand that they own theirs."
+Still two-legged: "Own your part fully. Refuse to own theirs." The third leg — "And demand that they own theirs" — is still absent. The chapter extensively covers not carrying their part and what blame does, but never tells the reader to insist the other person own their contribution.
 
 **Fix:** Add the complement.
 
 ---
 
-### 11. MINOR — "Consider Whether to Communicate Directly" frames communication as risk, not advocacy
+### 11. MINOR — "Consider Whether to Communicate Directly" frames communication as risk, not advocacy — STILL OPEN
 
-**File:** `when-youve-been-wronged.md`, lines 156-168
+**File:** `when-youve-been-wronged.md`, lines 261-271
 
-Questions are all risk-assessment. Never asks "what do you want from this conversation?" Only whether it will go badly.
+Questions are still all risk-assessment: narrative lock? mediator available? best realistic outcome? Never asks "what do you want from this conversation?" or "what are you trying to get?" Only whether it will go badly.
 
 **Fix:** Add "what are you trying to get?" to the questions.
 
 ---
 
-### 12. MINOR — "Decide About This Person Going Forward" is entirely about withdrawal
+### 12. MINOR — "Decide About This Person Going Forward" is entirely about withdrawal — STILL OPEN
 
-**File:** `when-youve-been-wronged.md`, lines 181-189
+**File:** `when-youve-been-wronged.md`, lines 315-323
 
-Frames the decision as what you'll withhold. Doesn't mention: before you withdraw, have you demanded what would make it right? The book's own "give them a way to win" concept from `making-it-right.md` is never applied here.
+Still frames the decision purely as what you'll withhold: "this person doesn't get the privilege of my presence, my touch, my vulnerability anymore." No mention of demanding repair first. The book's own "give them a way to win" concept from `making-it-right.md` appears in the wronged-types list at the top (line 17) but is never applied in this decision section.
 
 **Fix:** Add a check before withdrawal: have you told them what repair would look like?
 
 ---
 
-### 13. MINOR — "Report to Facilitators" in appropriate-response.md — inform but never follow up
+### 13. MINOR — "Report to Facilitators" in appropriate-response.md — inform but never follow up — PARTIALLY FIXED
 
-**File:** `appropriate-response.md`, lines 265-285
+**File:** `appropriate-response.md`, lines 267-288
 
-"Let the facilitators know" is the advice. No guidance on following up, asking what action was taken, or what to do if the facilitator minimizes or ignores it.
+The "Report to Facilitators" section itself still just says "let the facilitators know" with no follow-up guidance. However, the **Under-Response** section added later in the same file (line 311) does now include: "Have you actually asked for what you want? Have you demanded action? Have you followed up?" So the advocacy voice exists in the chapter — it's just in a different section from the reporting advice. A reader going through linearly still gets told "report" without being told "and follow up" until much later.
 
-**Fix:** Add follow-up guidance.
+**Possible fix:** Add a brief cross-reference or follow-up line to the Report section pointing to the under-response checklist.
+
+---
+
+---
+
+### 14. NEW (April 28, 2026) — "The Way Out" assumes power resolves anger. It doesn't always.
+
+**File:** `when-youve-been-wronged.md`, line 452
+
+The entire Way Out framework rests on: "The anger dissolves because anger is what happens when you feel wronged AND powerless — remove the powerless, and the anger has nowhere to live."
+
+This is true for a category of anger. But it's not the whole picture. The author has claimed his power — wrote the book, built the frameworks, isn't fawning, isn't powerless — and the anger is still there. The hate hasn't moved. The reason: the anger isn't about powerlessness. It's about wanting the other person to suffer and not being able to make that happen. Power can't touch that want.
+
+The book currently has no guidance for: what do you do when you've used your power, advocated, set boundaries, built your life — and the anger is still there? When the anger isn't about feeling like a victim but about wanting consequences that may never come?
+
+This is the gap the author can't write from inside the room. The section will be stronger when written from the other side.
+
+**Not a fix — a flag.** This can't be fixed with a paragraph. It requires the author to find the answer first.
+
+---
+
+## Status Summary (April 28, 2026)
+
+| # | Severity | Status |
+|---|----------|--------|
+| 1 | MAJOR | ✅ FIXED |
+| 2 | MAJOR | ✅ FIXED |
+| 3 | MAJOR | ✅ FIXED |
+| 4 | MAJOR | ✅ FIXED |
+| 5 | MAJOR | ✅ FIXED |
+| 6 | MODERATE | ✅ FIXED |
+| 7 | MODERATE | STILL OPEN |
+| 8 | MODERATE | STILL OPEN |
+| 9 | MODERATE | ✅ FIXED |
+| 10 | MODERATE | STILL OPEN |
+| 11 | MINOR | STILL OPEN |
+| 12 | MINOR | STILL OPEN |
+| 13 | MINOR | PARTIALLY FIXED |
+| 14 | DEEP | UNFIXABLE FROM INSIDE |
+
+All 5 MAJOR items are fixed. 1 of 4 remaining MODERATE items is fixed. The remaining open items (7, 8, 10-13) are all the same pattern: sections that inform/withdraw but don't demand. Item 14 is a different kind of gap — not about advocacy but about what happens when advocacy isn't enough.
 
 ---
 
 ## The Underlying Insight
 
-The book reflects the author at the time of writing. The author's fawning pattern — giving frameworks instead of demanding repair, informing instead of advocating, accepting instead of insisting — created a book that's brilliant at understanding harm and weak at demanding justice.
+The book reflects the author at the time of writing. The original version was shaped entirely by fawning — giving frameworks instead of demanding repair, informing instead of advocating, accepting instead of insisting. The major fixes addressed this: the book now has an advocacy voice in its most important sections.
 
-The fix isn't adding a section. It's adding a *voice* — the voice that says "you deserve repair, and here's how to demand it" with the same authority the book uses to say "here's how to see clearly."
+The remaining open items are smaller instances of the same pattern — places where the old fawning voice (inform, withdraw, accept) wasn't yet replaced with the new one (demand, follow up, insist).
 
-This is a multi-page project that touches the core of the wronged-person experience in the book.
+The new gap (item 14) is different in kind. It's not about fawning. It's about the limits of the book's anger model — the assumption that power resolves anger. Sometimes it doesn't. That gap can't be fixed with edits. It requires new understanding the author doesn't have yet.
