@@ -44,9 +44,11 @@ Here's what the same concern sounds like from someone who verifies:
 
 > "Hey, I wanted to check something with you. Last night I saw Jake with that new girl and something felt off to me — she seemed uncomfortable at one point. I could be wrong. I don't know what was actually going on between them. Have you noticed anything, or am I reading into it? I'm wondering if it's worth checking in with her — not to make a thing of it, but just to see if she's good."
 
-Label this one: *Collaboration. Owned uncertainty. Curiosity. Openness to being wrong. Goes to the source.* 
+Label this one: *Collaboration. Owned uncertainty. Curiosity. Openness to being wrong.*
 
-Pattern: **observation → owned uncertainty → curiosity → verification → proportional next step.**
+Pattern: **observation → owned uncertainty → curiosity → verification.**
+
+If this person proceeds after this conversation, their next step is to check with her directly — to verify before acting. Compare that to the first example, where the next step is escalation: go to the facilitators, express fear and urgency, ask an authority to step in — not to check, but to *act* — all based on an unverified story.
 
 Same concern. Same attunement. Completely different path — because every sentence holds space for the possibility that their story is wrong. The difference isn't character or intelligence or how much they care. It's one step: **did you treat your story as fact, or as something to check?**
 
