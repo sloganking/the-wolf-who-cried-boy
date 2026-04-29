@@ -216,7 +216,7 @@ Instead of stating a story as fact, frame it as how someone *occurs* to you.
 - Instead of: "He's being manipulative." → "He occurs to me as manipulative."
 - Instead of: "She's going to explode." → "She occurs to me as likely to explode."
 
-It's a concise way of saying "my story about them is..." without the full framework. You're still communicating the idea — you're just labeling it as your perception instead of declaring it as truth. This is especially useful when staff are trying to assess a situation together under pressure. "They occur to me as dangerous" invites dialogue. "They're dangerous" invites action on an unverified story.
+It's a concise way of saying "my story about them is..." without the full framework. You're still communicating the idea — you're just labeling it as your perception instead of declaring it as truth. This is especially useful when staff are trying to assess a situation together under pressure. "They occur to me as dangerous" invites dialogue. "They're dangerous" invites urgency and fear — which creates a pull toward immediate action that might cause serious harm if the story turns out to be wrong.
 
 ### "I imagine..."
 
