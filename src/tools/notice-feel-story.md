@@ -240,7 +240,7 @@ Everything above teaches you how to speak in NFS yourself. But the most powerful
 
 Someone says: **"I feel like you don't care about me."**
 
-That's a trap. The natural response — "I do care!" — contests their story and invalidates their feeling in the same breath. You can't win because the feeling and story are entangled into one statement.
+The natural response — "I do care!" — contests their story and invalidates their feeling in the same breath. Neither of you can get what you want because the feeling and story are entangled into one statement. They're not doing this on purpose — they're trying to communicate, but the entangled language doesn't leave room for a response that satisfies either of you.
 
 Instead, disentangle it:
 
