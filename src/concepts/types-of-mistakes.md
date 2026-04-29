@@ -163,7 +163,7 @@ Some harmful beliefs live purely in the mind. "Hickeys just happen" is intellect
 
 Others live in the body. A belief like "that person is a threat" can fire from your nervous system before your conscious mind has a say. You can understand intellectually that a one-second mistake isn't predatory behavior, and your body still screams *danger*. These beliefs don't respond to education alone — they require the kind of body-level rewiring described in [Trauma & Filters](./trauma-and-filters.md#why-knowing-doesnt-change-feeling) and [Replacing the Sentence](./invisible-patterns.md#replacing-the-sentence). The intellectual understanding comes fast. The body catches up slower. But it can change.
 
-For what to do if you've made a harmful belief mistake, see: [Conscious Mistakes](./i-made-a-mistake.md#conscious-mistakes)
+For what to do if you've made a harmful belief mistake, see: [Harmful Belief Mistakes](./i-made-a-mistake.md#harmful-belief-mistakes)
 
 ---
 
