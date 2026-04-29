@@ -401,7 +401,7 @@ You still have honest options. You just don't have the option of pretending you 
 
 **The dangerous option:** "I couldn't verify, so I'll go with my gut." Which in practice means going with your [story](./trauma-and-filters.md). This is how most people handle inconclusive verification — and it's exactly how righteous predators are born. The uncertainty feels uncomfortable, so the mind fills it with certainty it didn't earn.
 
-**When others ask what happened.** This is where it matters most. Whether you chose to set a boundary or stay in connection, when someone asks you about the situation, your responsibility is to say what you actually know — which is that you don't know. "I noticed [what you observed]. I don't know what actually happened. I chose to [what you chose] based on my own comfort level. Make your own assessment."
+**When others ask what happened.** This is where it matters most. Whether you chose to set a boundary or stay in connection, when someone asks you about the situation, the honest answer is what you actually know — which is that you don't know. "I noticed [what you observed]. I don't know what actually happened. I chose to [what you chose] based on my own comfort level. Make your own assessment."
 
 That's radically different from "I distanced myself because they're dangerous" — which recruits others into your unverified story. Saying "I don't know" lets others evaluate for themselves. Saying "they're dangerous" turns your uncertainty into their certainty — and now you've become exactly the [influence pattern](../tools/influence-firewall.md) this book warns about.
 
