@@ -185,7 +185,7 @@ Go straight to:
 2. [Before You Judge](./concepts/before-you-judge.md) — Make sure you're qualified to respond
 3. [Severity](./concepts/severity.md) — Assess how serious it actually is
 4. [I Made a Mistake](./concepts/i-made-a-mistake.md) — If you're the one who made it
-5. [Repair](./concepts/making-it-right.md) — How repair works
+5. [Repair](./concepts/repair.md) — How repair works
 6. [When You've Been Wronged](./concepts/when-youve-been-wronged.md) — If it happened to you
 
 ### If you're a facilitator:

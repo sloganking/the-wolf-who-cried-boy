@@ -40,7 +40,7 @@ If they're upset but present — hurt, angry, shaken, but still able to hear you
 
 **Don't accept a story that isn't true.** If their reaction is [proportional](./appropriate-response.md), receive it. If they're calling you names, assigning intent you didn't have, or escalating beyond what happened — you can acknowledge your actual mistake without accepting their distorted version of it. "I take responsibility for what I did. I'm not available for being called [label]." Owning your mistake and [defending yourself against an over-response](./when-youve-been-wronged.md#show-your-humanity) are not contradictions. You can do both.
 
-For the full repair process after the dust has settled, see [Repair](./making-it-right.md).
+For the full repair process after the dust has settled, see [Repair](./repair.md).
 
 ---
 
@@ -163,7 +163,7 @@ You're here because you see it now. That matters more than most people will give
 
 Everything on this page applies to you — *especially* the [sinsickness](#sinsickness) section. The guilt you feel — "I did something harmful and I don't want to do it again" — is healthy. Use it. Let it drive change. But the shame — "I am a bad person" — will destroy you without helping anyone. Your self-destruction doesn't un-harm the person you hurt. It just adds another casualty.
 
-The repair you owe is bigger. The accountability is bigger. You may need to spend significant time and energy [making things right](./making-it-right.md). But "I am bad and should feel bad about myself forever" is not repair. It's not accountability. It's sinsickness — and it keeps you stuck in exactly the place where you can't contribute anything good to the world.
+The repair you owe is bigger. The accountability is bigger. You may need to spend significant time and energy [making things right](./repair.md). But "I am bad and should feel bad about myself forever" is not repair. It's not accountability. It's sinsickness — and it keeps you stuck in exactly the place where you can't contribute anything good to the world.
 
 Most people are more complicated than a single label. Even genuinely selfish actions usually have something behind them — a belief that the world is hostile and taking what you can is just survival, a story that everyone does it, a justification that the other person wanted it. Unlike a [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) who genuinely doesn't see the harm they're causing, you may have known on some level that what you were doing was wrong — but the belief gave you enough of an excuse to keep going. That's a harder thing to face than pure ignorance.
 
@@ -183,7 +183,7 @@ This is one of the most disorienting realizations a person can have. You didn't 
 
 The sinsickness that comes from this is unique: you can't fall back on "I didn't mean to." You meant every word. You just meant it toward the wrong target, at the wrong intensity, based on a story that felt like truth. Now you have to live with having been the thing this book warns about — while also recognizing that you were operating on the same invisible beliefs that drive everyone in this book. You're not uniquely evil. You're typically human.
 
-Everything on this page applies to you. The guilt — "I over-responded and caused real harm, and I need to make it right" — has a direction. Follow it. The shame — "I'm a terrible person for doing that" — is sinsickness, and it won't help you or the person you harmed. [Make it right](./making-it-right.md). And become the person who sees clearly next time the room is about to turn on someone who doesn't deserve it.
+Everything on this page applies to you. The guilt — "I over-responded and caused real harm, and I need to make it right" — has a direction. Follow it. The shame — "I'm a terrible person for doing that" — is sinsickness, and it won't help you or the person you harmed. [Make it right](./repair.md). And become the person who sees clearly next time the room is about to turn on someone who doesn't deserve it.
 
 ### Return to Community
 
@@ -377,7 +377,7 @@ The question isn't "am I a bad person?" It's:
 
 1. Acknowledge the harm—don't minimize it
 2. Apologize without excessive self-flagellation
-3. Ask what would help repair it (see [Repair](./making-it-right.md))
+3. Ask what would help repair it (see [Repair](./repair.md))
 4. Pay it forward, not just backward
 
 On that last point: don't just help the person you harmed. Use this experience to update your behavior and become the kind of person who doesn't just avoid this mistake in the future—but actively brings delight instead. Maybe you even help others avoid the same mistake. That's how you turn a harm into a net positive for the world.
@@ -403,7 +403,7 @@ Be honest with yourself:
 **What to do:**
 
 1. Full accountability—no minimizing, no excuses
-2. Real apology (see [Repair](./making-it-right.md))
+2. Real apology (see [Repair](./repair.md))
 3. **Identify the harmful belief**—what idea or belief made this seem okay?
 4. **Replace it**—what will you believe instead? Write it down. Commit to it.
 5. Examine the pattern—is this a one-time lapse or a recurring blind spot?
@@ -666,7 +666,7 @@ That's available to you.
 
 ## See Also
 
-- [Repair](./making-it-right.md) — concrete steps for repair
+- [Repair](./repair.md) — concrete steps for repair
 - [Severity](./severity.md) — understanding the scale of harm
 - [Appropriate Response](./appropriate-response.md) — matching response to offense
 - [Responsibility](./responsibility.md) — the creator frame

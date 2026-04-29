@@ -80,7 +80,7 @@ Now addressed: "Feelings Don't Determine Severity" has a full **Underestimating*
 
 ### 7. MODERATE — "When Repair Isn't Possible" counsels passivity — STILL OPEN
 
-**File:** `making-it-right.md`, lines 347-357
+**File:** `repair.md`, lines 347-357
 
 When the wrongdoer won't take responsibility, the advice is still four bullets: match severity, involve facilitators, prioritize safety, don't become a harm-creator. All passive/informing. The final bullet still prioritizes restraint before advocacy. No demand step.
 
@@ -130,7 +130,7 @@ Questions are still all risk-assessment: narrative lock? mediator available? bes
 
 **File:** `when-youve-been-wronged.md`, lines 315-323
 
-Still frames the decision purely as what you'll withhold: "this person doesn't get the privilege of my presence, my touch, my vulnerability anymore." No mention of demanding repair first. The book's own "give them a way to win" concept from `making-it-right.md` appears in the wronged-types list at the top (line 17) but is never applied in this decision section.
+Still frames the decision purely as what you'll withhold: "this person doesn't get the privilege of my presence, my touch, my vulnerability anymore." No mention of demanding repair first. The book's own "give them a way to win" concept from `repair.md` appears in the wronged-types list at the top (line 17) but is never applied in this decision section.
 
 **Fix:** Add a check before withdrawal: have you told them what repair would look like?
 

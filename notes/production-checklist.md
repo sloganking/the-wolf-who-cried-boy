@@ -26,7 +26,7 @@ These are places where the book describes people instead of behaviors — exactl
 - [x] `when-things-go-wrong.md` — "abusing their power as a victim" → replaced
 - [x] `when-youve-been-wronged.md` — "abusing their power as a victim" → replaced (two instances)
 - [x] All "playing victim" → swept to "crying victim" across book
-- [x] `making-it-right.md` — "play victim" → "cry victim"
+- [x] `repair.md` — "play victim" → "cry victim"
 - [x] `before-play.md` — "play victim" → "cry victim"
 - [x] `introduction.md` — "playing victim" → "crying victim"
 
@@ -83,9 +83,9 @@ These pages are strong but long enough that reader fatigue is a risk. A tighteni
 
 - [x] **The Advocacy Gap** — Structural blind spot mostly resolved. All 4 MAJOR gaps fixed. 4 MODERATE and 3 MINOR paragraph/sentence-level additions remain. Full breakdown: [notes/advocacy-gap.md](./advocacy-gap.md)
 
-- [ ] **Positive repair example** — The repair chapter (`making-it-right.md`) shows a vivid example of a bad apology (narrative-locked under-apology) but has no concrete example of what good repair looks like in action. The "What makes an apology land" bullet points tell but don't show. Needs either a personal example of a repair that genuinely landed, or a well-constructed theoretical one. Personal is better, but theoretical beats nothing. Gap is in the "If You Made the Mistake" section, near "Create More Value Than Was Taken."
+- [ ] **Positive repair example** — The repair chapter (`repair.md`) shows a vivid example of a bad apology (narrative-locked under-apology) but has no concrete example of what good repair looks like in action. The "What makes an apology land" bullet points tell but don't show. Needs either a personal example of a repair that genuinely landed, or a well-constructed theoretical one. Personal is better, but theoretical beats nothing. Gap is in the "If You Made the Mistake" section, near "Create More Value Than Was Taken."
 
-- [ ] **Righteous predator repair** — What do you do when you realize YOU were the righteous predator? Different from normal repair: sinsickness is worse, their anger is proportional, harm was public/community-wide, you recruited allies who also caused harm, repair is a privilege they may not grant. Candidate locations: subsection in `i-made-a-mistake.md` (the realization) and/or `making-it-right.md` (the repair process). Needs author voice — not a word-swap task.
+- [ ] **Righteous predator repair** — What do you do when you realize YOU were the righteous predator? Different from normal repair: sinsickness is worse, their anger is proportional, harm was public/community-wide, you recruited allies who also caused harm, repair is a privilege they may not grant. Candidate locations: subsection in `i-made-a-mistake.md` (the realization) and/or `repair.md` (the repair process). Needs author voice — not a word-swap task.
 
 - [ ] **Forgiveness as organic, not chosen** — Consider adding a brief note (2-3 sentences) to `when-youve-been-wronged.md` near "You don't have to forgive them." Frame as observation, not definition: "if you're trying to forgive and it's not landing, that's not a failure." Must be inarguable — avoid defining forgiveness, describe experience instead.
 
@@ -93,7 +93,7 @@ These pages are strong but long enough that reader fatigue is a risk. A tighteni
 
 ## Quote Permissions — CANNOT SKIP
 
-- [x] **Laurie Handlers quotes** — Approved by Laurie. Three quotes added to the book. Locations: (1) "You don't have to trust them. You just have to love them." in `from-threat-to-ally.md`, (2) "Completion is really an act of love." in `making-it-right.md` opening, (3) "Completion is a process..." in `making-it-right.md` iterative repair section. Screenshot each quote in context and send to Laurie for approval. She may want to tighten wording for print. If she declines any, remove or paraphrase.
+- [x] **Laurie Handlers quotes** — Approved by Laurie. Three quotes added to the book. Locations: (1) "You don't have to trust them. You just have to love them." in `from-threat-to-ally.md`, (2) "Completion is really an act of love." in `repair.md` opening, (3) "Completion is a process..." in `repair.md` iterative repair section. Screenshot each quote in context and send to Laurie for approval. She may want to tighten wording for print. If she declines any, remove or paraphrase.
 
 ## Legal Review — CANNOT SKIP
 

@@ -161,7 +161,7 @@ This is where actions communicate louder than any speech.
 
 This is a judgment call, but I lean toward transparency. Tell the group that the mistake-maker was refunded. Tell them the violent person was not.
 
-Here's why: the refund and the transparency are both acts of [making it right](./making-it-right.md). You asked someone to leave who didn't violate the agreements — that's a deviation from the promise, even if it was necessary for their safety. The refund acknowledges that. The transparency protects their reputation — because without it, every person in that room fills the vacuum with "they must have done something wrong if they had to leave." Telling the crowd openly that this person was protected, refunded, and removed only for their safety is how you stay in the spirit of the promise even when the emergency forced you outside the letter of it.
+Here's why: the refund and the transparency are both acts of [making it right](./repair.md). You asked someone to leave who didn't violate the agreements — that's a deviation from the promise, even if it was necessary for their safety. The refund acknowledges that. The transparency protects their reputation — because without it, every person in that room fills the vacuum with "they must have done something wrong if they had to leave." Telling the crowd openly that this person was protected, refunded, and removed only for their safety is how you stay in the spirit of the promise even when the emergency forced you outside the letter of it.
 
 It also does something words alone can't. It shows — through a concrete, material action — that mistakes are genuinely protected and that threats of violence have real consequences. Every person in that room now knows: if I make a mistake and the worst happens, the facilitator will actually take care of me. And if I threaten someone's life, it will cost me.
 
@@ -210,7 +210,7 @@ They're excluded from future containers until one of two conditions is met:
 2. **They've undergone a genuine repair process.** This means:
    - Acknowledging what they did (not "I was just protecting people")
    - Making it right with the facilitators and the container
-   - Making it right with the person they threatened—not just apologizing, but actual [repair](./making-it-right.md)
+   - Making it right with the person they threatened—not just apologizing, but actual [repair](./repair.md)
    - Seeing through the story that justified their behavior
 
 That last point matters most. If they still believe they were righteous—"there was a dangerous predator and I was protecting everyone"—they'll do the same thing in the next container. Their nervous system is tuned to see threats that aren't there, and they'll escalate again the moment someone makes a mistake. Letting them back in without genuine insight isn't compassion. It's negligence.
@@ -297,5 +297,5 @@ This is a genuinely painful situation. Even handled perfectly, it's disruptive. 
 - [When Things Go Wrong](./when-things-go-wrong.md) — Emergency exception, threats of violence, de-escalation
 - [Before You Facilitate](./before-you-facilitate.md) — The promise, the first officer, pre-framing
 - [Fawning](./fawning.md) — What you're doing when you appease instead of act
-- [Repair](./making-it-right.md) — The repair framework referenced for re-entry
+- [Repair](./repair.md) — The repair framework referenced for re-entry
 - [Walking Your Talk](./walking-your-talk.md) — When your actions match your values

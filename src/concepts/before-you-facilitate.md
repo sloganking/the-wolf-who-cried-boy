@@ -485,7 +485,7 @@ You will. If you facilitate long enough and you have a fawning pattern, there wi
 
 That's not the end. That's the beginning of repair.
 
-[Making it right](./making-it-right.md) as a facilitator who fawned means:
+[Making it right](./repair.md) as a facilitator who fawned means:
 
 1. **Acknowledge it — to yourself first, then to the person you failed.** Not "I could have done better" — that's a hedge. *"I was afraid, and I didn't protect you when I should have."*
 2. **Tell the truth to your community.** If the group is carrying a distorted story because you didn't correct it, correct it now. Explain what happened, how you failed, and what should have happened. This is the hardest step and the most important one.

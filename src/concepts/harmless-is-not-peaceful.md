@@ -40,7 +40,7 @@ They can see clearly enough to know when destruction is warranted. They can hit 
 
 This person has [claws](./healing-fawning.md). They can say no and enforce it. They can confront someone who's causing harm. They can tell a facilitator "what you did wasn't okay" and follow up when nothing is done. They can set a boundary with someone [making death threats](./handling-threats-of-violence.md) and enforce it without flinching. They have the full capacity for destruction — and that capacity is exactly what makes their restraint meaningful.
 
-When this person chooses [proportional response](./appropriate-response.md), it's not because they can't do more. It's because they're choosing precision over chaos. When they choose empathy, it's not because they're too weak to fight. It's because they [see clearly](./before-you-judge.md) enough to know the fight isn't warranted. When they choose [repair over punishment](./making-it-right.md), it's not capitulation. It's a person with a sword choosing to build instead of cut.
+When this person chooses [proportional response](./appropriate-response.md), it's not because they can't do more. It's because they're choosing precision over chaos. When they choose empathy, it's not because they're too weak to fight. It's because they [see clearly](./before-you-judge.md) enough to know the fight isn't warranted. When they choose [repair over punishment](./repair.md), it's not capitulation. It's a person with a sword choosing to build instead of cut.
 
 **The tools in this book aren't rules for the meek. They're precision instruments for the dangerous.**
 
@@ -54,7 +54,7 @@ Every framework in this book becomes more powerful in the hands of someone who h
 
 If you only have restraint, this book's tools become elaborate justifications for never standing up for yourself. "I should see their blindness." "I should respond proportionally." "I should seek repair, not revenge." All true — and all [fawning dressed up as wisdom](./when-youve-been-wronged.md#dont-use-your-imperfection-to-cancel-your-anger) if you're using them to avoid the confrontation your body is begging you to have. If "I understand their blindness" makes you feel depressed instead of relieved, that's not wisdom. Real wisdom doesn't muzzle you. Real wisdom doesn't leave you depressed. If it does, it's not wisdom — it's fawning wearing wisdom's face.
 
-If you only have teeth, this book's tools become weapons. You learn about [severity](./severity.md) and use it to justify why YOUR high-severity response was actually proportional. You learn about [filters](./trauma-and-filters.md) and decide everyone else has them — except you. You learn about [repair](./making-it-right.md) and decide the other person owes YOU, without examining what you owe them.
+If you only have teeth, this book's tools become weapons. You learn about [severity](./severity.md) and use it to justify why YOUR high-severity response was actually proportional. You learn about [filters](./trauma-and-filters.md) and decide everyone else has them — except you. You learn about [repair](./repair.md) and decide the other person owes YOU, without examining what you owe them.
 
 The integration is what matters. Both capacities, wielded together, by someone who can see clearly enough to know which one the moment demands.
 

@@ -87,4 +87,4 @@ You're saying: **"You have more power than you realized. Let's look at how you c
 
 - [Responsibility](../concepts/responsibility.md) — Power and responsibility together
 - [Power Dynamics](../concepts/power-dynamics.md) — Unrecognized power
-- [Repair](../concepts/making-it-right.md) — Using your power for repair
+- [Repair](../concepts/repair.md) — Using your power for repair

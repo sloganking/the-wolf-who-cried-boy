@@ -262,7 +262,7 @@ When you give someone a clear way to win, you might end up with an outcome that'
 
 That's not possible if you attack first.
 
-For more on receiving repair well—including why you should ask for what you _actually_ want—see [Repair: If You Were Harmed](./making-it-right.md#if-you-were-harmed).
+For more on receiving repair well—including why you should ask for what you _actually_ want—see [Repair: If You Were Harmed](./repair.md#if-you-were-harmed).
 
 ## Report to Facilitators
 
@@ -345,4 +345,4 @@ This is how [fawning](./fawning.md) cascades: one person over-responds, a facili
 - [Severity](./severity.md) — The scale to match
 - [Types of Mistakes](./types-of-mistakes.md) — Intent matters for response
 - [Trauma & Filters](./trauma-and-filters.md) — Why responses get distorted
-- [Repair](./making-it-right.md) — The goal of response
+- [Repair](./repair.md) — The goal of response
