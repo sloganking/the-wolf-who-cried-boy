@@ -114,6 +114,8 @@ A person who's helping you says: "You can do whatever you want — but have you 
 
 Same surface structure. Completely different function. The first one centers their needs. The second one centers yours.
 
+Even apologies can be "for me." "I'm so sorry — please let me apologize to you" sounds like it's for you. But if every previous interaction was self-serving — if they never respected a boundary, never honored a no, always came back after being told no — the apology is probably the same pattern wearing different clothes. The function isn't to give you repair. It's to get the door open again. You don't owe someone your time just because they say they want to apologize.
+
 ---
 
 ## Why This Matters
