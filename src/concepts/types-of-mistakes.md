@@ -131,7 +131,7 @@ A smaller portion might be **harmful belief** mistakes—conscious but mistaken.
 
 **Malicious mistakes**—intentional harm—are rarer, but they happen. Sometimes people realize in hindsight that they were attacking rather than defending. Sometimes the line between "protecting myself" and "punishing them" got blurred.
 
-This book focuses heavily on unconscious mistakes because they're the most common source of unintended harm. Understanding why they happen—and how to prevent them—gives you tools to reduce risk even when your conscious mind isn't fully in control.
+Unconscious mistakes are the most common source of unintended harm. But the biggest harm doesn't come from the mistakes themselves — it comes from what happens after: the harmful beliefs, blind spots, and over-responses that turn a small mistake into a catastrophe. The mistake is the spark. The beliefs are the fire.
 
 ---
 
