@@ -159,7 +159,9 @@ Harmful beliefs range from the innocuous to the catastrophic. A hickey belief is
 2. **Replace it** — Clearly articulate the new belief you'll think from instead
 3. **Commit** — When the old thought arises, use the memory of this mistake to remind yourself why you don't think that way anymore
 
-Harmful belief mistakes require **education and belief correction**. The response is different from unconscious mistakes (which need awareness) or intentional harm (which may require removal from the space for safety).
+Some harmful beliefs live purely in the mind. "Hickeys just happen" is intellectual — the moment someone points out it's wrong, you go *oh, silly me*, and it's fixed. Education is enough.
+
+Others live in the body. A belief like "that person is a threat" can fire from your nervous system before your conscious mind has a say. You can understand intellectually that a one-second mistake isn't predatory behavior, and your body still screams *danger*. These beliefs don't respond to education alone — they require the kind of body-level rewiring described in [Trauma & Filters](./trauma-and-filters.md#why-knowing-doesnt-change-feeling) and [Replacing the Sentence](./invisible-patterns.md#replacing-the-sentence). The intellectual understanding comes fast. The body catches up slower. But it can change.
 
 For what to do if you've made a harmful belief mistake, see: [Conscious Mistakes](./i-made-a-mistake.md#conscious-mistakes)
 
