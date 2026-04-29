@@ -128,6 +128,34 @@ Then decide for yourself what to do.
 
 ---
 
+## The Zoom-Out Check
+
+Everything above is granular — analyzing individual sentences, labeling patterns, checking function. That's powerful, but it requires real-time awareness that most people won't have in the moment.
+
+Here's the simpler version: **notice how you consistently feel around someone.**
+
+Not sentence by sentence. Just the overall pattern. When you leave an interaction with this person, what state are you in?
+
+Destructive influence leaves a signature:
+
+- You feel scared or anxious after talking to them
+- You feel a sense of urgency — like action needs to be taken *now* or something bad will happen
+- You feel like they've told you what reality is and you need to respond to it
+- You feel smaller, less capable, or less sure of yourself than before
+
+Constructive influence leaves a different signature:
+
+- You feel clearer about your own life after talking to them
+- You feel safe and held — not in a way that makes you dependent, but in a way that makes you more capable
+- Nothing feels artificially urgent — and when something real does come up, you're encouraged to check before you act
+- You feel more yourself, not less
+
+You don't have to catch every sentence someone says to notice the pattern. You just have to ask: *after spending time with this person, am I more afraid or more clear? Am I being pushed toward urgent action or toward careful thought?*
+
+If someone consistently leaves you feeling scared and urgent, that's data — regardless of how reasonable their words sound. It's the same principle as noticing that you always feel drained after visiting a particular friend, even though you can't point to any specific thing they said. The pattern is the signal. And if you're already predisposed to seeing certain things in a fearful way, spending time with someone who reinforces that fear isn't helping you see clearly — it's like trying to quit smoking while all your friends are smokers.
+
+---
+
 ## Related
 
 - [Notice, Feel, Story](./notice-feel-story.md) — Separating observation from interpretation (your internal process)
