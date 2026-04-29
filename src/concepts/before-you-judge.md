@@ -389,6 +389,24 @@ Whatever you just answered — would the Inquisitor have said the same thing?
 
 Not having an opinion is more honest than having an uninformed one.
 
+## When You Can't Verify
+
+Sometimes verification is inconclusive. You've checked with primary sources, asked questions, done your due diligence — and you still don't know what really happened. Maybe the accounts conflict. Maybe nobody witnessed it. Maybe determining the truth would cost more time and effort than you're willing to spend. What then?
+
+You still have honest options. You just don't have the option of pretending you know.
+
+**"I don't know, and I'm choosing to set a boundary."** You can decide not to interact with someone, not to invite them back, not to take the risk — while openly acknowledging that you don't know what actually happened. That's a conscious choice made from honest uncertainty. It's fundamentally different from "they're a predator and I know it." One is a personal risk assessment. The other is a conviction based on a story you couldn't verify.
+
+**"I don't know, and I'm choosing to stay in connection with more awareness."** You can decide to keep someone in your life while paying closer attention going forward. Not because you've convicted them and are generously giving them a second chance — because the data was incomplete and you're choosing trust while staying alert. You watch for patterns, not from suspicion, but because you're being responsible about what you don't know.
+
+**The dangerous option:** "I couldn't verify, so I'll go with my gut." Which in practice means going with your [story](./trauma-and-filters.md). This is how most people handle inconclusive verification — and it's exactly how righteous predators are born. The uncertainty feels uncomfortable, so the mind fills it with certainty it didn't earn.
+
+**When others ask what happened.** This is where it matters most. Whether you chose to set a boundary or stay in connection, when someone asks you about the situation, your responsibility is to say what you actually know — which is that you don't know. "I noticed [what you observed]. I don't know what actually happened. I chose to [what you chose] based on my own comfort level. Make your own assessment."
+
+That's radically different from "I distanced myself because they're dangerous" — which recruits others into your unverified story. Saying "I don't know" lets others evaluate for themselves. Saying "they're dangerous" turns your uncertainty into their certainty — and now you've become exactly the [influence pattern](../tools/influence-firewall.md) this book warns about.
+
+It's always better to say "I don't know" than to present a story as fact. Whether you're setting a boundary or keeping someone close, owning your uncertainty honestly — to yourself and to others — is the difference between acting responsibly from incomplete information and playing Russian roulette with someone's reputation.
+
 ---
 
 ## Related
