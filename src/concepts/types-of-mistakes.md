@@ -215,7 +215,9 @@ The goal isn't just to never zone out—it's to control both layers. Use conscio
 
 Unmet needs—sexual, emotional, connection—can drive the subconscious to reach for what it wants when the conscious mind isn't watching.
 
-Think about consciously deciding not to eat candy, but there's candy on your desk. You zone out while working. Your hand reaches for the candy before you realize what you're doing. The want existed; your conscious mind overruled it; when you zoned out, the want drove the action.
+Think about consciously deciding not to eat candy, but there's candy on your desk. You zone out while working. Your hand reaches for the candy before you realize what you're doing. The want existed; your conscious mind overruled it; when you zoned out, your subconscious reached for what it was hungry for before you woke up and remembered *oh yeah, I decided not to do that.*
+
+This isn't malicious. Your subconscious is innocent — it doesn't have the full context of your conscious decision. It just wants what it wants, and without the conscious mind actively saying *no, not right now*, it reaches. In the candy example, you catch yourself and put it back. In a play space, if you reach and cross a boundary before you catch yourself, that's where harm happens — even though the intent was never there.
 
 This is why [feeding yourself first](./before-you-facilitate.md#staff-readiness-feed-yourself-first) matters—especially for facilitators and staff. A well-fed animal body is safer on autopilot.
 
