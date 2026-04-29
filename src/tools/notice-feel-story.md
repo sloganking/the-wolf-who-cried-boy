@@ -118,7 +118,7 @@ When conversations get heated, people start making claims about what the other p
 
 But "I noticed you left. I felt hurt. My story is you didn't want to be around me. Is there any truth to that?" — what is there to argue with?
 
-**In high-stakes conversations, moving to inarguable language can be the difference between war and real communication.**
+**In high-stakes conversations, moving to inarguable language can be the difference between war and real communication — the kind where everyone feels heard and walks away closer instead of further apart.**
 
 Both people can use this framework. You can go back and forth—each person sharing what they noticed, what they felt, and what their story is—and actually understand each other instead of just attacking.
 
