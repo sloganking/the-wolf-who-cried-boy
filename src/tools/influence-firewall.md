@@ -74,7 +74,7 @@ The words might overlap. The pattern underneath won't.
 
 ## What to Firewall, What to Let In
 
-**Firewall these patterns** — they make you reactive, small, and blind:
+**Firewall these patterns** — they narrow your perception and push you toward action before verification:
 
 | Pattern | What it does to you |
 |---|---|
@@ -84,7 +84,7 @@ The words might overlap. The pattern underneath won't.
 | Moral labeling | Replaces your name with a category. Skips due process |
 | Guilt + obligation | Makes you act from debt instead of choice |
 
-**Let these in** — they make you clearer, stronger, and more capable:
+**Let these in** — they widen your perception and give you more options:
 
 | Pattern | What it does to you |
 |---|---|
