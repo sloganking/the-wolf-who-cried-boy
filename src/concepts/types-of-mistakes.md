@@ -151,6 +151,8 @@ Here's the thing: this idea might not be malicious. You might not think it becau
 
 That doesn't make it less harmful. It just means you have unexamined beliefs that need examining.
 
+Harmful beliefs range from the innocuous to the catastrophic. A hickey belief is low-to-medium severity — it leaves a mark on someone's body they didn't ask for, visible to others, causing discomfort that lasts beyond the moment. A belief that someone is a predator who must be stopped — when they actually made a one-second unconscious mistake — can produce death threats, destroyed reputations, and more harm than the original mistake ever could. Same category of mistake. Vastly different scale. The [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) is a harmful belief mistake operating at maximum severity.
+
 **The response to harmful belief mistakes:**
 
 1. **Identify the harmful belief** — What belief or idea made this seem okay in the moment?
