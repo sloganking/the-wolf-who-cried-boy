@@ -338,7 +338,7 @@ That answer feels unsatisfying. It doesn't give closure. But it's often the trut
 
 > **Lack of explanation is not evidence of guilt. It's often just evidence that the mistake was unconscious.**
 
-This single misunderstanding is behind countless character assassinations, destroyed reputations, and banishments of people who made a small mistake and simply couldn't articulate why.
+This single misunderstanding is behind countless character assassinations, destroyed reputations, and people being removed from their communities — for a small mistake they simply couldn't articulate why they made.
 
 ## A Reflection
 
