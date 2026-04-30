@@ -171,7 +171,7 @@ When someone is being attacked and you think the response is disproportionate, y
 
 See: [Power Dynamics](./power-dynamics.md) — You have more power than you think.
 
-## Responsibility ≠ Blame
+## Responsibility Is Not Blame
 
 This is critical to understand. **Responsibility and blame are opposites.**
 
@@ -220,7 +220,7 @@ When you take responsibility—even for things that weren't "your fault"—you'r
 
 This is the [Creator](./drama-triangle.md) mindset. It's the opposite of [Victim](./drama-triangle.md).
 
-## Responsibility ≠ Repair
+## Responsibility Is Not Repair
 
 Here's another confusion that gets people trapped:
 
