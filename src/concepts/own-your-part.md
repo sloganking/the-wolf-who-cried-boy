@@ -81,9 +81,9 @@ This framing has consequences — for both of you:
 3. **They don't get what they want** — People who don't see their power can't use it. The life they want stays out of reach
 4. **It damages the relationship** — If you can see their power and they can't, their asks will feel unreasonable to you, resentment builds, and the connection erodes
 
-This is why refusing to carry their part isn't about avoiding accountability. It's about rejecting a false framing that makes you solely responsible for an outcome multiple people created.
+This is why refusing to carry their part isn't about avoiding accountability. It's about rejecting a false framing that makes you solely accountable for an outcome multiple people created.
 
-You might have had [100% control](../tools/100-percent-control.md) over the outcome—meaning you _could_ have prevented it. But others created it too. Having the power to stop something doesn't mean you should bear 100% of the fallout when multiple people's choices contributed.
+You might have had [100% control](../tools/100-percent-control.md) over the outcome—meaning you _could_ have prevented it. But others created it too. Having the power to stop something doesn't mean you should bear 100% of the accountability when multiple people's choices contributed.
 
 ---
 
