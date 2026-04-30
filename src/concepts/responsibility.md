@@ -63,7 +63,7 @@ When you refuse to take responsibility, you disown your power. You say: "I had n
 
 **What it looks like when someone doesn't take responsibility:**
 
-At best, they live a smaller life than they could have. Things are okay. There are pleasantries. But they never realize what was possible.
+At best, the majority of what they want stays out of reach. Things are okay. There are pleasantries. But the life they actually want — the relationships, the freedom, the depth — never arrives.
 
 At worst, they keep winding up in situations that cause them suffering. The same conflict in every relationship. The same pattern at every job. The same "bad luck" that follows them everywhere. And because they see themselves as powerless—because they believe everything that happens is determined by forces outside them—they feel terrified. Helpless. It's a hellish, painful life. Not because the world is actually that dangerous, but because their story says it is.
 
