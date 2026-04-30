@@ -282,7 +282,7 @@ When something goes wrong:
 1. **Take responsibility** — Internally. Ask the questions. See your part.
 2. **Assess the conditions** — Is it safe? Is there good faith? Is the ask proportional?
 3. **Repair if conditions are met** — Acknowledge impact, make amends, rebuild trust.
-4. **Decline if conditions aren't met** — You can own your part without submitting to abuse.
+4. **Decline if conditions aren't met** — You can own your part without [fawning](./fawning.md) through their attack to do it.
 
 You can say:
 
