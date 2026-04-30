@@ -45,7 +45,7 @@ People use the same words to mean different things. Here's the clean split:
 
 Responsibility is something you do for yourself. Accountability is something you do to repair a relationship and create good on both sides. It doesn't require pain or suffering; it might involve inconvenience, but the focus is value added and restored trust. If the focus is the other person's pain—or your pain—it's punishment. Punishment is about suffering and tends to destroy trust rather than restore it. In this book's terms, punishment is a form of attack, not defense.
 
-So if someone says "take responsibility," listen for which one they actually mean. People often say responsibility when they're really asking for punishment.
+So if someone says "take responsibility," listen for which one they actually mean. People often say responsibility when they're really asking for accountability or punishment.
 
 ## Why You Want Responsibility
 
