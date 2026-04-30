@@ -271,7 +271,7 @@ Here's what it looks like when you speak truth instead:
 
 **Three sentences. Then you leave.**
 
-1. **State the facts.** "I crossed a boundary for one second. [Person whose boundary was crossed] and I already talked about it and did repair. They feel complete about it."
+1. **State the facts.** "I crossed a boundary for a moment. [Person whose boundary was crossed] and I already talked about it and did repair. They feel complete about it."
 
 2. **Name the disproportionality.** "This response isn't proportional to what happened. Is this coming from somewhere else?" — Not psychoanalyzing them, not calling out their specific past trauma in front of everyone. Just naming what's true: this reaction doesn't match the event. Let them respond if they want to.
 

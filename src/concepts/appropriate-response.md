@@ -82,13 +82,13 @@ When someone is over-responding, they sometimes frame their over-response as res
 
 This reframes an over-response as an under-response — and [belief-blind](./trauma-and-filters.md) observers buy it. They hear "I'm holding back" and think: *this person is being reasonable. They could be doing more. How restrained of them.*
 
-But look at what's actually happening: someone is already causing disproportionate harm, and they're using the *possibility* of even greater harm to make their current harm look justified. Breaking someone's nose isn't justified because you could have broken their arm too and didn't. The fact that you *could* do worse doesn't make what you're *doing* proportional. A person screaming death threats at someone who crossed a boundary for one second is not showing mercy by not following through. They're over-responding — and framing the over-response as a gift.
+But look at what's actually happening: someone is already causing disproportionate harm, and they're using the *possibility* of even greater harm to make their current harm look justified. Breaking someone's nose isn't justified because you could have broken their arm too and didn't. The fact that you *could* do worse doesn't make what you're *doing* proportional. A person screaming death threats at someone who crossed a boundary for a moment is not showing mercy by not following through. They're over-responding — and framing the over-response as a gift.
 
 ## The Math of Proportionality
 
 Here's a concrete test:
 
-**If someone crosses a boundary for one second and then stops—what response is proportional?**
+**If someone crosses a boundary for a moment and then stops—what response is proportional?**
 
 Death threats? No.
 Physical assault? No.
@@ -116,7 +116,7 @@ Here's the question that catches most over-responses:
 
 > **Am I responding to what happened, or what I'm afraid might happen?**
 
-If someone crossed a boundary for one second and stopped—that's what happened. That's the "notice."
+If someone crossed a boundary for a moment and stopped—that's what happened. That's the "notice."
 
 If you're now afraid they'll attack again, afraid other people aren't safe, afraid this is a predator who will hurt someone if they stay—that's a story about what _might_ happen. It might be true. It might not. But you don't know yet.
 

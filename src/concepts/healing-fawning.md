@@ -320,7 +320,7 @@ External fawning costs you a boundary — you say yes when you mean no, and some
 
 **Why you stop speaking truth — to others and to yourself:**
 
-When someone [accuses you publicly](./when-youve-been-wronged.md), there are often real contributing factors that would help the room understand what happened. Maybe you were intoxicated. Maybe you zoned out for one second. Maybe the boundary was already repaired. But you don't say those things — because the voice (theirs or yours) is already whispering: *If you explain yourself, they'll say you're just being manipulative. You're making excuses. You're trying to get out of the punishment you deserve.*
+When someone [accuses you publicly](./when-youve-been-wronged.md), there are often real contributing factors that would help the room understand what happened. Maybe you were intoxicated. Maybe you zoned out for a moment. Maybe the boundary was already repaired. But you don't say those things — because the voice (theirs or yours) is already whispering: *If you explain yourself, they'll say you're just being manipulative. You're making excuses. You're trying to get out of the punishment you deserve.*
 
 So you withhold the truth. You don't explain the contributing factors. You don't say what you actually believe. You shrink, you go back and forth, or you over-apologize — and the room fills the gap with their worst assumptions. That's external fawning stopping you from speaking truth to others.
 
@@ -545,7 +545,7 @@ If you've ever been told yes by someone who meant no — and then been attacked 
 
 If you fawn, you already know firsthand how easily a subconscious process can override your will. Your body says yes before your mind catches up. You don't choose it. It just happens.
 
-The same thing can happen to the person giving you touch. A hand moves wrong for one second before they correct it. Their autopilot fired before their brain did — just like yours does when you say yes and mean no. See how easy it is to violate yourself through fawning? That's how easy it is for someone else to make a momentary mistake. That's not predation. That's the same kind of involuntary override you're already intimate with.
+The same thing can happen to the person giving you touch. A hand moves wrong for a moment before they correct it. Their autopilot fired before their brain did — just like yours does when you say yes and mean no. See how easy it is to violate yourself through fawning? That's how easy it is for someone else to make a momentary mistake. That's not predation. That's the same kind of involuntary override you're already intimate with.
 
 ### If You're New to These Spaces
 

@@ -426,7 +426,7 @@ The problem isn't stating contributing factors. The problem is stating them in a
 "I crossed a boundary. That's on me. I chose to be in that situation while impaired, and I should have been more careful."
 
 **2. Offer the contributing context — explicitly labeled.**
-"If it helps to understand how it happened: I was intoxicated and I zoned out for one second. Those aren't excuses — they're contributing factors. They don't change that it happened or that it's my responsibility."
+"If it helps to understand how it happened: I was intoxicated and I zoned out for a moment. Those aren't excuses — they're contributing factors. They don't change that it happened or that it's my responsibility."
 
 **3. Let them decide what to do with it.**
 You've owned the determining factor. You've provided context. You've explicitly named the distinction. What they do with that information is up to them.

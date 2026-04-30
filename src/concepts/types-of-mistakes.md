@@ -20,7 +20,7 @@ People do this all the time, in every field. It happens in sacred sexuality temp
 
 When you burn popcorn, people understand. "Oh, you weren't paying attention. Obviously a mistake."
 
-When you cross a boundary for one second at a play party before catching yourself? "Oh my god, did you do that on purpose? Are you a predator?" Our culture has so much trauma and sensitivity around sexuality that the same kind of mistake—a moment of unconsciousness—gets treated as intentional malice.
+When you cross a boundary for a moment at a play party before catching yourself? "Oh my god, did you do that on purpose? Are you a predator?" Our culture has so much trauma and sensitivity around sexuality that the same kind of mistake—a moment of unconsciousness—gets treated as intentional malice.
 
 ---
 
