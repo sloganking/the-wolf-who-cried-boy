@@ -271,7 +271,7 @@ And the person, wanting to be responsible, tries to do repair—while being atta
 
 **This is not responsibility. This is [fawning](./fawning.md).**
 
-Repair under attack is not repair. It's submission. And it doesn't work—it just trains the attacker that aggression gets results.
+Repair under attack is not repair. It's submission. And it doesn't work — because real repair means both people feel good about the relationship afterward. If you're doing repair actions while being berated, disrespected, and treated without dignity, the other person might feel satisfied — but now *you* feel resentful. You endured attack to make them feel better. The relationship isn't restored; it's worse than before, because it now carries the original harm *plus* the harm of how they treated you during the "repair." And it trains the attacker that aggression gets results.
 
 See: [Own Your Part — Not Theirs](./own-your-part.md)
 
