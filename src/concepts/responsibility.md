@@ -19,9 +19,9 @@ And because of this misunderstanding, you see dynamics like:
 
 - Someone makes a mistake
 - A group gathers and says "You need to take responsibility!"
-- Meanwhile, none of the accusers are asking what *they* had the power to affect — how they responded, whether their response was [proportional](./appropriate-response.md), whether they [verified](./before-you-judge.md) before acting
+- Meanwhile, none of the accusers are looking at their own power — how *they* responded, whether *their* response matched what actually happened, whether *they* checked before acting
 
-Everyone is pointing fingers. No one is looking at themselves.
+Everyone is pointing at someone else's power. No one is looking at their own.
 
 ## What Responsibility Actually Means
 
