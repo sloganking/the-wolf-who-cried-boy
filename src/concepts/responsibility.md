@@ -439,8 +439,6 @@ And if you suppress the contributing factors entirely — if you just say "I cro
 
 And it's not just for you. When you say "I was intoxicated and I zoned out," everyone in that room who was also intoxicated last night and DIDN'T make a mistake just learned they were at risk too. Without your vulnerability, they never see it. Your contributing factors become their prevention. A facilitator hears it and updates their policy. A participant hears it and makes a different choice next time. If the room is too busy calling you selfish to hear what actually happened, nobody learns anything — and the same contributing factors create the same outcome with someone else next time.
 
-See: [100% Control](../tools/100-percent-control.md)
-
 ## The Responsibility Mirror
 
 Here's the moment this matters most:
