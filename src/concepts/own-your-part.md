@@ -34,7 +34,7 @@ Not because you're trying to avoid accountability. But because carrying someone 
 | ------------------------ | ------------------------------------------------------------------------------------------------------ |
 | "You made me feel..."    | "I'm responsible for my actions. You're responsible for your interpretations and feelings about them." |
 | "You should have known"  | "I'm responsible for asking. You're responsible for communicating."                                    |
-| "This is all your fault" | "I'm responsible for my part. What's your part?"                                                       |
+| "This is all your fault" | "I'm responsible for my part. Not yours."                                                              |
 | "Fix this"               | "I'll do what I can to repair. What will you do?"                                                      |
 
 ---
