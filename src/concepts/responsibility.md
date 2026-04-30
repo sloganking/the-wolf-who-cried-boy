@@ -75,8 +75,8 @@ People avoid responsibility because they confuse it with accountability or punis
 
 The choice is simple:
 
-- Responsibility = feel powerful, feel safe, feel like you have control
-- No responsibility = feel helpless, feel scared, feel like the world happens to you
+- Responsibility = feel powerful, feel safe, feel like you have control — and eventually get the majority of what you want, because you can see how to create it
+- No responsibility = feel helpless, feel scared, feel like the world happens to you — and most of what you want stays out of reach, because you can't see your power to get there
 
 ## Everyone Has Responsibility
 
