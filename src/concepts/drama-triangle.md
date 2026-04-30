@@ -24,6 +24,14 @@ One person. All three roles. Ten seconds. They don't know they're doing it.
 
 **Rescuer** — *"Someone needs to stop him before he hurts anyone else."* The Rescuer swoops in to fix, help, protect — but keeps the Victim helpless in the process. They need to be needed. In this book, the Rescuer is the most dangerous role: [Rescuers cause more harm than predators](./why-rescuers-are-dangerous.md) because they act from moral certainty and never question whether their "help" is actually helping.
 
+### The Victim Frame Is Not the Same as Being Wronged
+
+Being harmed is real. Someone can wrong you, cross your boundaries, damage your life. That's not a frame — that's an event.
+
+The Victim *frame* is something different. It's a psychological position where you see yourself as powerless, the world as something that happens *to* you, and your only options as suffering or being saved. You can be genuinely wronged and not enter the Victim frame — by seeing your power, taking responsibility, and choosing what to create next. And you can enter the Victim frame without anyone having wronged you at all — just by telling yourself a story where you're helpless.
+
+Throughout this book, when we say someone is "in the Victim frame," we're describing the psychological position — not whether something bad happened to them. The two are independent. Something terrible can happen to you and you can still choose Creator.
+
 ### A Real Example
 
 Here's what all three look like in one real message.
