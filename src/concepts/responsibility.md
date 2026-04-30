@@ -67,7 +67,7 @@ At best, the majority of what they want stays out of reach. Things are okay. The
 
 At worst, they keep winding up in situations that cause them suffering. The same conflict in every relationship. The same pattern at every job. The same "bad luck" that follows them everywhere. And because they see themselves as powerless—because they believe everything that happens is determined by forces outside them—they feel terrified. Helpless. It's a hellish, painful life. Not because the world is actually that dangerous, but because their story says it is.
 
-That repetition isn't random. **The lesson will be presented until it is learned.** You keep ending up in the same situation because you haven't yet learned how to not create it. The situation isn't the problem — it's the curriculum. And you graduate by asking *what lesson is being presented here?* instead of *why does this keep happening to me?* One question gives you power. The other keeps you enrolled in the same class forever.
+That repetition isn't random. **The lesson will be presented until it is learned.** You keep ending up in the same situation because you haven't yet learned how not to create it. The situation isn't the problem — it's the curriculum. And you graduate by asking *what lesson is being presented here?* instead of *why does this keep happening to me?* One question gives you power. The other keeps you enrolled in the same class forever.
 
 That's why responsibility matters. Not because it's the "right" thing to do. Because it's the only way to graduate — to stop creating the same outcome and start creating what you actually want.
 
