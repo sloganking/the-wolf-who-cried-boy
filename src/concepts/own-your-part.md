@@ -116,9 +116,9 @@ When you carry someone else's responsibility, you're:
 
 If you believe all humans should be treated fairly, with dignity and respect, then the most important application of that belief is **treating yourself** fairly, with dignity and respect—especially when others challenge you.
 
-We live in a world where standing up for yourself is often seen as shirking responsibility. "You're just avoiding accountability." "You won't own your mistakes."
+Sometimes people genuinely are shirking responsibility — using contributing factors as excuses, dodging their part, deflecting blame. That's real and it looks similar from the outside.
 
-In reality, it's the opposite.
+But if you're not doing that — if you're owning your part honestly and simply refusing to carry theirs — the world will often still attack you for it. Through [belief blindness](./trauma-and-filters.md), people will accuse you of being selfish for protecting yourself. They can't tell the difference between someone dodging accountability and someone holding a boundary with dignity.
 
 Refusing to carry what isn't yours IS taking responsibility — for yourself, for the truth, for not participating in a false narrative. It's doing the hard thing. It's doing the right thing, even when others don't understand it.
 
