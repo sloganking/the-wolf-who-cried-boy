@@ -107,8 +107,8 @@ When you carry someone else's responsibility, you're:
 
 - [Fawning](./fawning.md) — saying yes when you mean no
 - Acting out of fear — afraid of their reaction if you don't comply
-- Misreading the [Drama Triangle](./drama-triangle.md) — seeing them as Victim and yourself as Persecutor when that framing is incorrect
-- Making yourself a victim
+- Buying into a [Drama Triangle](./drama-triangle.md) frame — accepting their casting of you as Persecutor and them as powerless Victim, when both of you have power
+- Letting yourself be genuinely harmed — the Victim *role* is a frame; being wronged is real. You can be wronged without entering the role, and you can refuse to stay in a situation that harms you
 
 ---
 
