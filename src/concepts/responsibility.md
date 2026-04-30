@@ -380,7 +380,7 @@ This applies to everything people call "luck":
 
 - The "lucky" person who meets the right partner? They put themselves in environments where that was likely.
 - The "unlucky" person who keeps getting hurt? There's a pattern in who they choose and how they vet.
-- The "random" conflict that erupted? Trace back to who was in the room and what wasn't said.
+- The "random" conflict that erupted? Trace back to who was in the room, what blind spots were present, and what wasn't said. Once you see those, what felt random starts to look inevitable.
 
 You can't control the roll. But you can make the die so small that "bad luck" becomes nearly impossible—or so large that it's nearly inevitable.
 
