@@ -32,7 +32,7 @@ Most people hear "100% control" and think about prevention—the power to stop s
 
 But you also have 100% control over whether something _does_ happen.
 
-If you want to dance, one person can say no. But you have 100% control over _whether_ you dance—just not _who_ you dance with. Ask someone else. You can have anything you want. You just can't have it with whoever you want.
+If you want to dance, one person can say no. But you have 100% control over _whether_ you dance—just not _who_ you dance with. Ask someone else. **You can have anything you want — just not with whoever you want.**
 
 The same [responsibility](../concepts/responsibility.md#the-dice-principle) that lets you prevent outcomes lets you create them. You shape the odds. You choose where to be, who to ask, how to show up. The more creative and persistent you are, the more inevitable the outcome becomes.
 
