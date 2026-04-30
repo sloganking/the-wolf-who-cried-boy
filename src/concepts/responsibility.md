@@ -19,8 +19,7 @@ And because of this misunderstanding, you see dynamics like:
 
 - Someone makes a mistake
 - A group gathers and says "You need to take responsibility!"
-- Meanwhile, none of the accusers are taking any responsibility themselves
-- For their [mob judgment](./before-you-judge.md), for their [over-response](./appropriate-response.md), for their role in what happened
+- Meanwhile, none of the accusers are asking what *they* had the power to affect — how they responded, whether their response was [proportional](./appropriate-response.md), whether they [verified](./before-you-judge.md) before acting
 
 Everyone is pointing fingers. No one is looking at themselves.
 
