@@ -463,7 +463,7 @@ The lightning struck you. But you chose to be in the field.
 
 Here's another way to catch yourself in that moment: **notice what question you're asking.**
 
-Your brain will answer whatever question you give it. Ask a disempowering question, get disempowering answers. Ask an empowering question, get useful ones.
+In *Awaken the Giant Within*, Tony Robbins teaches that your brain will answer whatever question you give it. Ask a disempowering question, get disempowering answers. Ask an empowering question, get useful ones.
 
 | Victim Question              | Creator Question                                   |
 | ---------------------------- | -------------------------------------------------- |
