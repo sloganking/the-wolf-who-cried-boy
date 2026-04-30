@@ -122,9 +122,9 @@ But if you're not doing that — if you're owning your part honestly and simply 
 
 Refusing to carry what isn't yours IS taking responsibility — for yourself, for the truth, for not participating in a false narrative. It's doing the hard thing. It's doing the right thing, even when others don't understand it.
 
-The responsible thing to do when someone is crying victim is to **call it out**. Not harshly, but clearly. Help guide them into seeing their own power—how they can create safety for themselves and a future they actually want.
+When someone is stuck in the Victim role — not just someone who was wronged, but someone who *stays* in the frame of powerlessness and can't see any path forward — the responsible thing to do is help them see their power. Not harshly. But clearly. Help guide them into seeing how they can create safety for themselves and a future they actually want.
 
-That's the Creator move. Taking their responsibility for them keeps them stuck in Victim.
+That's the Creator move. Carrying their part for them keeps them stuck in Victim.
 
 ---
 
