@@ -259,6 +259,18 @@ A blanket ban on staff play isn't wrong. It's a valid choice — simpler, lower 
 
 If the reason is "I don't want to manage that complexity," that's honest. If the reason is "something bad happened so I'm making sure it can't happen again" — check whether you're actually making sure, or whether you're just moving the risk somewhere you can't see it. And check whether you're [walking your talk](./walking-your-talk.md) — because a policy born from fear, in a container that teaches people to see past their fear, is a contradiction your participants will absorb whether you name it or not.
 
+### When Participants Push for a Ban
+
+Sometimes the pressure won't come from you. Participants themselves — especially those who carry stories that staff or people in positions of power are inherently predatory — may demand that staff not be allowed to play with participants. They may have seen an interaction that went badly, or they may be operating entirely from fear they brought with them. Either way, their request is well-intentioned. They genuinely believe it will make the space safer.
+
+If you give them what they're asking for, you're [pleasing them, not serving them](./walking-your-talk.md#serving-not-pleasing). You're doing what keeps them comfortable instead of what would actually help them. Because everything in this section still applies: if you ban staff from play to satisfy their demand, you remove the safest, most experienced people from their experience. They'll have more mistakes, not fewer. They'll never see what skilled, boundaried intimacy looks like modeled in practice. Their stories about staff being dangerous go unchallenged. And the fear that drove their request gets reinforced by the very policy they asked for.
+
+This is [righteous predation](./why-rescuers-are-dangerous.md) operating at a policy level. The participant is trying to protect people — from a story they haven't verified. If you [fawn](./fawning.md) to their demand because you're afraid of their anger or want to avoid conflict, you're making the container worse for everyone, including them.
+
+Serving them looks like waking them up: *"I understand your concern. Here's what actually happens when we remove experienced people from play — first-timers only interact with other first-timers, mistakes increase, and nobody models what good consent looks like. The safest people in this room are the people you're asking me to remove. What I'm going to do instead is make sure that before any staff plays with a participant, we've done the work to make it safe — pre-framing, friction checks, and making sure both people are ready. That protects you better than a ban would."*
+
+That's harder than giving in. They might push back. They might not see it yet. But if you see it and you fold anyway, that's not leadership — that's fawning dressed up as policy. And if they *do* hear you, you've just turned someone who was opposing you into someone who understands — and that's an [ally](./from-threat-to-ally.md) you wouldn't have had if you'd just pleased them.
+
 ---
 
 ## The Promise
