@@ -141,17 +141,27 @@ Harmful belief mistakes are **conscious but unintentional**. You were thinking�
 
 The key feature: you weren't on autopilot. You made a choice. But the choice was based on a flawed belief you didn't know was flawed.
 
-**Example:**
+### A Personal Example
 
-> "Hickeys just sometimes happen."
+By the time this happened, I'd been in the sex-positive world for two years. Not casually — week-long intimacy retreats, play parties, deep dives into consent and attunement. I'd regularly stopped people from fawning to me. I was good at this, at a conscious level.
 
-This thought disowns your power. Giving someone a hickey is completely in your control—it's an action you take, not something that "happens." This belief allows you to excuse yourself from responsibility for medium-severity harm.
+Then I was at an event playing with a woman. The experience was intense and primal. She wound up with a hickey.
 
-Here's the thing: this idea might not be malicious. You might not think it because you want to violate someone's boundaries. You might think it because whatever culture or family you grew up in passed this false belief around, and you never actually examined it. This is exactly the kind of subconscious story described in [Trauma & Filters](./trauma-and-filters.md)—a belief that sits in the background, pops up now and then, seems correct, but has never been examined.
+When she brought it up afterward, my response was bizarre. I turned it into a flirt — something like *yeah, I love doing that.* From her perspective, she'd just told a man he'd marked her body without consent, and his response was to brag about it. Her reaction was rightfully *excuse me, what the fuck?* At first glance, I looked like someone who didn't care about her boundaries.
 
-That doesn't make it less harmful. It just means you have unexamined beliefs that need examining.
+But that wasn't what was happening inside me. I wasn't being defiant or dismissive. I was operating from a belief I'd never examined: *hickeys just sometimes happen.* I'd absorbed it from the culture I grew up in — a culture that wasn't very consent-conscious, where hickeys were treated as a cute accident, *oh no baby, sorry, couldn't help it.* That was the kind of attitude many of the adults around me had growing up. That belief was still sitting in my subconscious, untouched by two years of conscious consent work. When she brought it up, my subconscious response came from that old story — one where this wasn't a big deal, one where a flirty response was appropriate. It wasn't. And her reaction woke me up.
 
-Harmful beliefs range from the innocuous to the catastrophic. A hickey belief is low-to-medium severity — it leaves a mark on someone's body they didn't ask for, visible to others, causing discomfort that lasts beyond the moment. A belief that someone is a predator who must be stopped — when they actually made a one-second unconscious mistake — can produce death threats, destroyed reputations, and more harm than the original mistake ever could. Same category of mistake. Vastly different scale. The [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) is a harmful belief mistake operating at maximum severity.
+The truth was obvious the moment I actually looked at it: giving someone a hickey is 100% in my control. It's not something that "just happens now and then." Two years of consent work had given me the understanding to see that immediately — but I'd never pointed that understanding at this particular belief. It had been sitting in my subconscious since childhood, untouched, while every belief around it got upgraded. That belief disowned my power — it let me off the hook for [medium-severity](./severity.md) harm. A visible mark on someone's body without their consent. A mark other people would see — including her partner, who she had agreements with about marks from other people. Discomfort and consequences that lasted well beyond the moment.
+
+The fix was fast. This was an intellectual blind spot, not a body-level story. Once I saw it, I could update it immediately — *oh, this belief is bullshit, I can absolutely control this, and I will from now on.* No deep rewiring needed. Just a belief that had never been examined, examined.
+
+But here's what stayed with me: from the outside, I looked malicious. My response — the flirt — looked like someone who didn't care about consent. If she'd told others what happened, without the context of what was going on inside me, I'd have sounded like exactly the kind of person this book warns about. And I wouldn't have known how to explain myself, because *I* didn't understand what had just happened. I had to do the [responsibility](./responsibility.md) work — *what happened? why? what belief was driving me?* — before I could even make sense of my own actions.
+
+That's what harmful belief mistakes look like from the inside. Confusion. A response that doesn't match your values. And a belief you didn't know was there, running the show until someone or something wakes you up.
+
+### The Range of Harmful Beliefs
+
+Harmful beliefs range from the innocuous to the catastrophic. The hickey belief is low-to-medium severity — it leaves a mark on someone's body they didn't ask for, visible to others, causing discomfort that lasts beyond the moment. A belief that someone is a predator who must be stopped — when they actually made a momentary unconscious mistake — can produce death threats, destroyed reputations, and more harm than the original mistake ever could. Same category of mistake. Vastly different scale. The [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) is a harmful belief mistake operating at maximum severity.
 
 **The response to harmful belief mistakes:**
 
