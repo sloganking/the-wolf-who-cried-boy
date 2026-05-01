@@ -147,6 +147,24 @@ The person launching the witch hunt? They ARE the predator in that moment — ca
 
 This doesn't excuse the harm. It explains where it comes from. And it means: if you're scared, certain, and ready to act — you might be about to become what you're afraid of.
 
+### What You're Actually Watching
+
+When someone publicly calls someone else a predator, stop and notice what you're actually observing.
+
+You are watching one person commit a visible act of aggression against another person. That's what's happening in front of you. The accusation — the name-calling, the public shaming, the demands — is itself an act of harm. It's observable. It's happening right now.
+
+The accused's guilt? Unverified. Whether the accused ever committed any act of aggression at all? Also unverified. You don't know. Nobody in the room has checked.
+
+And yet — culturally, instinctively — all our fear points at the accused. We skip right past the aggression we're watching and fixate on the aggression we're imagining. The observable evidence is right in front of us, and we look past it to focus on a story we haven't confirmed.
+
+Ask yourself: which do you believe in more — human selfishness or human fear?
+
+If you believe selfishness is more common, then selfish predators are everywhere and the accuser is probably right. If you believe fear is more common — and this book's position is that it overwhelmingly is — then the person crying predator is more likely to be a [righteous predator](./why-rescuers-are-dangerous.md) acting from fear than the accused is to be a selfish predator acting from malice. The accuser's fear-driven aggression is the more probable danger in the room. Not the only one. But the more probable one.
+
+This is a cultural blind spot driven by the same fear it fails to see. We've absorbed stories — selfish predators are everywhere, the powerful don't care who they hurt — and those stories prime us to see the accused as the threat and the accuser as the protector. But the accuser isn't protecting anyone if they haven't verified what actually happened. They're acting from fear and calling it righteousness. And we're joining them because their fear activates ours.
+
+The next time you watch someone accuse someone else, notice: you are watching someone cause harm. Whether the person they're accusing also caused harm is something you don't yet know. Start with what you can see.
+
 ### Facilitators Especially
 
 It's not that facilitators and those in authority roles are 10x more likely to be bad people. It's that 10x more people are asking if they are.
