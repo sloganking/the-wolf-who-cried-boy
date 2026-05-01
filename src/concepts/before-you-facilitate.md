@@ -221,6 +221,26 @@ This isn't a reason not to play. But it IS something you must go in with eyes op
 
 Some of the best facilitators never touch a participant. Some of the best facilitators are fully in the mix. What they have in common is clarity about their choice and how to handle what comes with it.
 
+### The Survivorship Bias Trap
+
+When something goes wrong — an assistant crosses a boundary, an over-response erupts, a container gets destabilized — the instinctive response is to tighten the rules. *No more staff playing with participants. Problem solved.*
+
+It feels responsible. It looks like leadership. And it might be exactly backwards.
+
+In World War II, the US military studied bombers returning from missions. They mapped where the bullet holes were — fuselage, wings, tail — and planned to add armor to those areas. Statistician Abraham Wald stopped them. The planes that came back *could* survive hits in those areas. The planes that *didn't* come back were the ones hit everywhere else — the engines, the cockpit. The military was about to armor the places that didn't need it and ignore the places that did. They were looking at survivors and drawing conclusions about what kills.
+
+The same pattern shows up in containers. Something goes wrong between a staff member and a participant. You look at the problem — *staff played with participants and it went badly* — and you armor that spot: no more staff playing with participants.
+
+But what you're actually doing is removing the most experienced, most consent-aware, most attuned people from play with the least experienced people. Your first-timers — the people who most need to experience what skilled, attentive, boundaried intimacy looks and feels like — now only interact with other first-timers. Everyone is fumbling together. Nobody in the room models what good play actually looks like in practice, only in lecture.
+
+You took safety measures to reduce harm. And you may find yourself with *more* mistakes than before — because you removed all the safest people from play. The incidents might be lower-stakes (no power-dynamic stories about staff), but there may be more of them, and the participants learn less. You armored the fuselage. The engines are still exposed.
+
+The alternative takes more work: instead of banning staff from play, build systems that make it safe. [Pre-frame](./before-you-facilitate.md#pre-framing-the-flip-side) participants that staff are human and make mistakes. Run the [friction check](./before-play.md#the-friction-check) before staff play with anyone. Make sure participants understand [severity](./severity.md) and [types of mistakes](./types-of-mistakes.md) before they're in a position to over-respond to one. Check orientation toward repair. Screen for whether someone's filters will turn a momentary mistake into a catastrophe.
+
+This is harder than a blanket ban. It requires more facilitation, more awareness, more systems. But the result is that you keep the good — experienced people modeling consent, first-timers learning through direct experience — while systematically reducing the bad. You armor the engines instead of the fuselage.
+
+A blanket ban on staff play isn't wrong. It's a valid choice — simpler, lower risk for the facilitator, and defensible. But it should be made from clarity about the tradeoffs, not from fear of the last thing that went wrong. If the reason is "I don't want to manage that complexity," that's honest. If the reason is "something bad happened so I'm making sure it can't happen again" — check whether you're actually making sure, or whether you're just moving the risk somewhere you can't see it.
+
 ---
 
 ## The Promise
