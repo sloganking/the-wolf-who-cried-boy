@@ -10,6 +10,12 @@ Append-only record of wiki changes. Each entry starts with a consistent prefix f
 
 ---
 
+## [2026-05-01] sync | `types-of-mistakes.md` harmful-belief section
+
+**Book change:** Personal hickey / harmful-belief example expanded; added explicit link to [[filters-and-ras|Trauma & Filters]] (meaning vs. event) and parallel to Christopher Ryan concubine example; cultural framing (men and women; some women romanticizing *couldn't help himself*) without moralizing eras.
+
+---
+
 ## [2026-04-14] create | Initial wiki build
 
 **Scope:** Complete wiki created from a full read of the entire book.
