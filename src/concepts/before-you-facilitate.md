@@ -279,7 +279,7 @@ That's harder than giving in. They might push back. They might not see it yet. B
 
 One of the most powerful things a facilitator can do is establish clear rules at the beginning of a container—and make an explicit promise:
 
-> **As long as you follow these rules, you are safe. You will not be kicked out. You will not be punished. You have room to experiment, make mistakes, and learn. I have your back.**
+> **As long as you follow these rules, you are safe. You will not be asked to leave. You will not be punished. You have room to experiment, make mistakes, and learn. I have your back.**
 
 This principle shows up in any high-performance environment: when people know exactly what the boundaries are, and know they're protected as long as they stay within them, they can relax. They can take risks. They can fail and learn without fear.
 
