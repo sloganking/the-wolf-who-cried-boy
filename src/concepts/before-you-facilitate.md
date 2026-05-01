@@ -253,7 +253,9 @@ The result: you keep the good — experienced people modeling consent, first-tim
 
 You armor the engines instead of the fuselage.
 
-Option 2 reduces your exposure. Option 3 creates the outcome you actually want. One is playing to lose less. The other is playing to win.
+Option 2 reduces your exposure. Option 3 creates the outcome you actually want.
+
+**One is playing to lose less. The other is playing to win.**
 
 ### Choosing From Clarity, Not Fear
 
