@@ -165,7 +165,7 @@ That's what harmful belief mistakes look like from the inside. Confusion. A resp
 
 ### The Range of Harmful Beliefs
 
-Harmful beliefs range from the innocuous to the catastrophic. The hickey belief is medium severity — it leaves a mark on someone's body they didn't ask for, visible to others, causing discomfort that lasts beyond the moment. A belief that someone is a predator who must be stopped — when they actually made a momentary unconscious mistake — can produce death threats, destroyed reputations, and more harm than the original mistake ever could. Same category of mistake. Vastly different scale. The [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) is a harmful belief mistake operating at maximum severity.
+Harmful beliefs range from the innocuous to the catastrophic. The hickey belief is [medium](./severity.md) severity — it leaves a mark on someone's body they didn't ask for, visible to others, causing discomfort that lasts beyond the moment. An unexamined belief that someone *is* a predator who must be stopped — when they actually made a momentary unconscious mistake and you haven't [verified](./before-you-judge.md) the story — is [HIGH](./severity.md) severity: death threats, destroyed reputations, lasting harm that dwarfs the original mistake. Same category of mistake (harmful belief). Vastly different place on the scale. The [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) is this pattern at its most dangerous.
 
 **The response to harmful belief mistakes:**
 
