@@ -144,7 +144,7 @@ Or the opposite breakthrough: "Oh my god — I've been on the receiving end of t
 
 You might do more good in the world with an audience to your dispute than without one. By standing your ground publicly, you're not just speaking to one person—you're modeling something for everyone watching.
 
-Your resistance becomes a teaching moment for people you'll never know you reached.
+Your refusal to accept treatment you don't deserve becomes a teaching moment for people you'll never know you reached.
 
 ---
 
