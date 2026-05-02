@@ -165,7 +165,7 @@ The compassionate response isn't to take their responsibility. It's to help them
 
 ## The Path Forward
 
-When someone is crying victim and trying to make you carry their responsibility, the most loving thing you can do — for both of you — is to refuse. You take yours. And you lovingly encourage them to take theirs — not by forcing it, but by helping them see why they'd want to. That's the only path to real resolution.
+When someone is crying victim and trying to make you carry their responsibility, the most loving thing you can do — for both of you — is to refuse. You take yours. And you lovingly encourage them to take theirs — not by forcing it, but by helping them see why they'd want to. That's the only path where their suffering ends — and the only path where the relationship actually feels good to both of you. If you fawn and carry their part, they stay stuck and you grow resentful. Neither of you gets what you want.
 
 ---
 
