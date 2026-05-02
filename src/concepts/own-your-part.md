@@ -159,7 +159,7 @@ Possible reasons:
 
 This is the same pattern described in [Trauma & Filters](./trauma-and-filters.md). Their story about the situation—"I'm powerless, you did this to me"—feels true to them. It's running in the background, unquestioned.
 
-The compassionate response isn't to take their responsibility. It's to help them see their own power. That's how they grow. That's how they stop being a victim.
+The compassionate response isn't to take their responsibility. It's to help them see their own power. That's how they stop suffering — because the Victim frame doesn't just describe their situation, it *creates* their pain. As long as they can't see what they can do, nothing gets better. The moment they see their power, they can start building what they actually want.
 
 ---
 
