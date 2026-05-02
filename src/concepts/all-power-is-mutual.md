@@ -174,6 +174,8 @@ A man spends twenty years in prison for something he didn't do. Inside the cell,
 
 This is power debt. It accrues silently while you're in the powerless position — and it compounds.
 
+A [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) targeted me at a retreat. No one handled it well — not the staff, not the participants, not me. I left with nothing but the experience. That experience became this book. You're holding the power debt right now. Partly fueled by anger about what happened to me, and partly fueled by heart — I didn't want it to happen to anyone else. Both are true. Both are fuel.
+
 But power debt is neutral. It gives you power. It doesn't make you right about what to do with it. You can use it to create justice, to correct what happened, to influence others from a position no one can argue with. You can also use it to become a [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) — vengeful, resentful, punishing people beyond what the situation warrants because the debt makes you feel entitled to. "They wronged me, so whatever I do back is justified." That's the debt talking, not clarity.
 
 The choice isn't whether you have the debt. You do. The choice is what you do with it — collect wisely, collect destructively, or let it sit and pursue what makes you happy instead. All three are real options. But "I'm powerless and there's nothing I can do" is never true. You're holding uncollected debt. Whether and how you spend it is up to you.
