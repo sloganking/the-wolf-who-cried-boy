@@ -154,10 +154,8 @@ When someone asks you to take responsibility for things that are theirs to own, 
 
 Possible reasons:
 
-- **Unconscious limiting beliefs** — They truly believe they're powerless
-- **They don't see their power** — No one ever showed them how much agency they have
+- **They don't see their power** — They have [unexamined beliefs](./trauma-and-filters.md) that they're powerless in this specific area, and no one has ever shown them otherwise
 - **Cultural conditioning** — They grew up in an environment where one person was expected to take all the responsibility (nonsensical, but common)
-- **Unexamined beliefs** — Ideas that dwell in their subconscious, pop up now and then, and have never been critically examined
 
 This is the same pattern described in [Trauma & Filters](./trauma-and-filters.md). Their story about the situation—"I'm powerless, you did this to me"—feels true to them. It's running in the background, unquestioned.
 
