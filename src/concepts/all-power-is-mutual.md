@@ -40,7 +40,7 @@ The person who looks powerless often has _more_ leverage than the person who loo
 
 This is the part nobody wants to say:
 
-**Crying victim is one of the most powerful moves available.**
+**Crying victim is one of the most powerful moves available.** Whether the victimhood is real or a story — the power is the same.
 
 When you claim victimhood:
 
