@@ -124,7 +124,7 @@ Refusing to carry what isn't yours IS taking responsibility — for yourself, fo
 
 When someone is stuck in the Victim role — not just someone who was wronged, but someone who *stays* in the frame of powerlessness and can't see any path forward — the responsible thing to do is help them see their power. Not harshly. But clearly. Help guide them into seeing how they can create safety for themselves and a future they actually want.
 
-That's the Creator move. Carrying their part for them keeps them stuck in Victim.
+That's the Creator move. Carrying their part for them keeps them stuck in Victim — which means stuck in pain. The Victim frame doesn't end. It just repeats. Getting them out of it isn't something you do for you — it's the kindest thing you can do for them.
 
 ---
 
