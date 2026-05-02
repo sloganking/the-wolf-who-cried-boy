@@ -193,7 +193,7 @@ You could appease them. It would be easier. The discomfort would end.
 
 Instead, you're choosing vulnerability. You're accepting risk. You're holding up a mirror that might change the trajectory of their life—and everyone they'll ever interact with.
 
-That's not cruelty. That's love with a cost.
+That's not cruelty. That's love with teeth.
 
 **What to do:**
 
