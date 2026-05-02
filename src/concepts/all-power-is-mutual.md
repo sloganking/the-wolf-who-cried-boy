@@ -170,11 +170,13 @@ This doesn't mean what they did was okay. It doesn't mean the exchange was fair.
 
 Sometimes the exchange isn't instant. Sometimes what they took from you gives you power you can't use yet — but will be able to later.
 
-A man spends twenty years in prison for something he didn't do. Inside the cell, it doesn't look like he has power. But when he walks out, he carries something no one can take from him: a debt the world owes him. His story moves people. His authority on injustice is unchallengeable. His moral weight in every room he enters is enormous. The years they took became the power he now wields.
+A man spends twenty years in prison for something he didn't do. Inside the cell, it doesn't look like he has power. But when he walks out, he carries something no one can take from him: the full moral weight of what happened. His story moves people. His authority on injustice is unchallengeable. His moral weight in every room he enters is enormous. The years they took became the power he now wields.
 
 This is power debt. It accrues silently while you're in the powerless position — and it compounds.
 
-The choice isn't whether you have the debt. You do. The choice is whether you collect on it. You can use it to create change, to correct the injustice, to influence others from a position no one can argue with. Or you can choose not to — let it sit, live your life, pursue what makes you happy. Both are legitimate. But "I'm powerless and there's nothing I can do" is never true. You're holding uncollected debt. Whether you spend it is up to you.
+But power debt is neutral. It gives you power. It doesn't make you right about what to do with it. You can use it to create justice, to correct what happened, to influence others from a position no one can argue with. You can also use it to become a [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) — vengeful, resentful, punishing people beyond what the situation warrants because the debt makes you feel entitled to. "They wronged me, so whatever I do back is justified." That's the debt talking, not clarity.
+
+The choice isn't whether you have the debt. You do. The choice is what you do with it — collect wisely, collect destructively, or let it sit and pursue what makes you happy instead. All three are real options. But "I'm powerless and there's nothing I can do" is never true. You're holding uncollected debt. Whether and how you spend it is up to you.
 
 ## The Practical Takeaway
 
