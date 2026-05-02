@@ -183,7 +183,7 @@ No matter how perfect your logical argument, you will not change their mind in t
 
 2. **You don't have to take their attacks.** If they're not speaking to you with dignity and respect, you are not obligated to stand there and receive it. Setting the boundary "I'm not available to be spoken to this way" is the proper action. Then disengage.
 
-3. **Not fawning is the kindest thing you can do for them.** If you appease them when they're angry, you reinforce their story. You're telling them: "Your behavior is acceptable. Your view of me is correct. How you're handling this is proper." That's a lie—and it's a disservice to them.
+3. **Not fawning is the kindest thing you can do for them.** If you appease them when they're angry, you're [pleasing them, not serving them](./walking-your-talk.md) — and you reinforce their story. You're telling them: "Your behavior is acceptable. Your view of me is correct. How you're handling this is proper." That's a lie—and it's a disservice to them.
 
 4. **Your resistance plants a seed.** If you offer no resistance, when they calm down they'll never ask themselves: "Was my thinking out of line? Do I need to rethink how I operate?" You never showed them anything was wrong. But if you hold your ground—through your actions and perhaps a few words—you give them something to reflect on later.
 
