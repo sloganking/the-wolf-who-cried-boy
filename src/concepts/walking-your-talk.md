@@ -394,6 +394,8 @@ Being told you're wrong is essential. Being told you're wrong *in front of every
 
 ### How to Find Your First Officer
 
+Your first officer is whoever you trust most for judgment — not whoever holds the second-in-command title. Co-facilitator roles are sometimes training roles. The person in the #2 position might be learning, growing, and not yet the person whose "no" you'd trust in a crisis. Meanwhile, someone else in the room — a participant, an assistant, someone who hasn't climbed the hierarchy but whose judgment you've seen tested — might be exactly that person. Choose based on clarity, not org chart. If you can, eventually put your strongest judge in a formal role. But don't wait for the org chart to catch up before you start leaning on the person you actually trust.
+
 Look for people who:
 
 - Have wisdom from lived experience (not just opinions)
