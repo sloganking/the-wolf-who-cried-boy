@@ -1,5 +1,8 @@
 # Trauma & Filters
 
+> **"We don't see things as they are, we see them as we are."**
+> — *Anaïs Nin*
+
 ## How Feelings Actually Work
 
 Most people believe their feelings are caused by what happens to them.
