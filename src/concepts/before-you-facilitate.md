@@ -253,7 +253,7 @@ The result: you keep the good — experienced people modeling consent, first-tim
 
 You armor the engines instead of the fuselage.
 
-**Option 2 is playing to lose less. Option 3 is playing to win.**
+**Whatever you choose, check your motivation: are you playing to win, or playing to lose less?**
 
 ### Choosing From Clarity, Not Fear
 
