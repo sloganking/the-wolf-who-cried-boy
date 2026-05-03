@@ -271,7 +271,7 @@ This is [righteous predation](./why-rescuers-are-dangerous.md) operating at a po
 
 Serving them looks like waking them up: *"I understand your concern. Here's what actually happens when we remove experienced people from play — first-timers only interact with other first-timers, mistakes increase, and nobody models what good consent looks like. The safest people in this room are the people you're asking me to remove. What I'm going to do instead is make sure that before any staff plays with a participant, we've done the work to make it safe — pre-framing, friction checks, and making sure both people are ready. That protects you better than a ban would."*
 
-That's harder than giving in. They might push back. They might not see it yet. But if you see it and you fold anyway, that's not leadership — that's fawning dressed up as policy. And if they *do* hear you, you've just turned someone who was opposing you into someone who understands — and that's an [ally](./from-threat-to-ally.md) you wouldn't have had if you'd just pleased them.
+That's harder than giving in. They might push back. They might not see it yet. But if you see it and you fold anyway, notice why. If it's fear of their reaction, that's the same [fawning](./fawning.md) pattern — running your policy decisions instead of your personal ones. And if they *do* hear you, you've just turned someone who was opposing you into someone who understands — and that's an [ally](./from-threat-to-ally.md) you wouldn't have had if you'd just given in.
 
 ---
 
