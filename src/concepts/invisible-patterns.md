@@ -230,7 +230,7 @@ This is a deeper version of the same principle described in [Ask Better Question
 
 Everything above describes filters that create self-fulfilling dynamics — patterns people can't see, conflicts they unknowingly co-create. But those patterns assume the person *could* see it if they looked. Sometimes they can't. Sometimes the story hardens — and any attempt to help them see it only strengthens it.
 
-You try to explain what happened. They hear you making excuses. You apologize. They hear you admitting guilt. You go quiet. They say you're avoiding accountability. You keep engaging. They say you're pressuring them.
+You try to explain what happened. They hear you making excuses. You apologize. They hear you admitting guilt. You set a boundary and disengage. They say you're avoiding accountability.
 
 Every move loses. Not because you're doing the wrong thing — because they've stopped processing new information. Everything coming in gets converted into confirmation of what they already decided.
 
