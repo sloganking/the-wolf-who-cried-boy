@@ -91,7 +91,7 @@ That's not dodging. That's acknowledging their concern while keeping the operati
 
 ### Don't Do This Alone
 
-This is where your [first officer](./before-you-facilitate.md) is critical. One person escorts the mistake-maker to safety. The other stays with the group and the violent person. Trying to manage both solo creates gaps where things can go very wrong—the violent person is unsupervised, or the crowd is unmanaged, or the mistake-maker is alone and vulnerable.
+This is where your [first officer](./walking-your-talk.md#your-first-officer) is critical. One person escorts the mistake-maker to safety. The other stays with the group and the violent person. Trying to manage both solo creates gaps where things can go very wrong—the violent person is unsupervised, or the crowd is unmanaged, or the mistake-maker is alone and vulnerable.
 
 If you're facilitating without a co-facilitator and this happens, you're in a genuinely difficult spot. Do the best you can with what you have—but this is exactly why having a trusted second is worth the investment.
 
