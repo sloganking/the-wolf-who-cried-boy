@@ -93,7 +93,11 @@ Not just the "perpetrator." Not just the person who made the most obvious mistak
 
 Being wronged is real. And it doesn't erase your power.
 
-Even when someone else created harm, responsibility asks the same question: *What's within my reach to create differently next time?* This isn't blame. It's how you take your power back.
+Even when someone else created harm, responsibility asks the same question: *What's within my reach to create differently next time?*
+
+The first time you hear this, it can hurt. *Damn, I had a part in creating this horrible outcome?* It can feel like blame — like someone is telling you the tragedy was your fault. That's one story you can have about it, and it produces pain.
+
+Here's the other story: the first time I heard this, it was the best news I'd ever heard. Because it meant that every tragedy in my life — and everyone else's — wasn't just something that *happened to me*. I had influence over it. I could affect it, change it, reduce it, get out of it. If there was always something I could have done differently, then there's always something I *can* do differently. That's not blame. That's freedom.
 
 ### What "The Person Whose Boundary Was Crossed" Can Look At
 
