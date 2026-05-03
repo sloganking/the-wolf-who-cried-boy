@@ -27,13 +27,13 @@ And they're both in your room.
 
 ---
 
-## What Death Threats Usually Are
+## What Death Threats Can Be
 
-Before you act, understand what you're looking at.
+Before you act, understand what you might be looking at.
 
-Most people who make death threats in these spaces are not planning to kill anyone. They're [righteous predators](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) — terrified, certain they're protecting someone, and causing harm in the process. They don't know how else to communicate the severity of what they're feeling. "I'll kill you" is often the only language their nervous system has for "stay back, I'm serious, I need you to take this seriously, I don't know what else to do."
+Sometimes people who make death threats in these spaces are not planning to kill anyone. They're [righteous predators](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) — terrified, certain they're protecting someone, and causing harm in the process. They don't know how else to communicate the severity of what they're feeling. "I'll kill you" is sometimes the only language their nervous system has for "stay back, I'm serious, I need you to take this seriously, I don't know what else to do."
 
-It's posturing — making yourself look big and dangerous when you're actually scared and overwhelmed. Think about it: if this person has a family, a life, people who depend on them — actually following through would destroy everything they care about. They'd lose their freedom, their family, their future. That's not protecting anyone. That's indulging rage at the cost of everything they say matters to them.
+Sometimes it's posturing — making yourself look big and dangerous when you're actually scared and overwhelmed. Sometimes it's not. Think about it: if this person has a family, a life, people who depend on them — actually following through would destroy everything they care about. They'd lose their freedom, their family, their future. That's not protecting anyone. That's indulging rage at the cost of everything they say matters to them.
 
 This doesn't mean you treat death threats casually. You never test whether a threat is real by waiting to see what happens. Every threat gets the same response: immediate separation, removal from the container, real consequences. The distinction matters not for your _actions_ — which stay the same regardless — but for your _understanding_. When you know the person across from you is scared, not evil, you can hold the boundary firmly without dehumanizing them. That's the difference between a facilitator who handles a crisis and a facilitator who creates a second one.
 
