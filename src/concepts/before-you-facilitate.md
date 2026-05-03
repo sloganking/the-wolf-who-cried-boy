@@ -257,9 +257,9 @@ You armor the engines instead of the fuselage.
 
 ### Choosing From Clarity, Not Fear
 
-A blanket ban on staff playing with participants isn't wrong. If you're coming from Option 1 — no systems, no checks — and something went badly, stepping into a ban is a responsible first move. It's a [Creator](./drama-triangle.md) response: you saw a problem and you acted. That's better than doing nothing. But recognize that it has tradeoffs you may not have seen yet — it doesn't just remove pain, it may add a different kind of pain, and it removes good experiences along with the bad. The next step, when you're ready, is building the systems that let you move to Option 3.
+A blanket ban on staff playing with participants isn't wrong. If you're coming from Option 1 — no systems, no checks — and something went badly, stepping into a ban is a [Creator](./drama-triangle.md) response. You saw a problem and you acted. That's better than doing nothing. But it has tradeoffs you may not have seen yet — it doesn't just remove pain, it may add a different kind of pain, and it removes good experiences along with the bad.
 
-If the reason is "I don't want to manage that complexity," that's honest. If the reason is "something bad happened so I'm making sure it can't happen again" — check whether you're actually making sure, or whether you're just moving the risk somewhere you can't see it. And check whether you're [walking your talk](./walking-your-talk.md) — because a policy born from fear, in a container that teaches people to see past their fear, is a contradiction your participants will absorb whether you name it or not.
+If the reason is "I don't want to manage the complexity of Option 3 yet," that's honest. If the reason is "something bad happened so I'm making sure it can't happen again" — check whether you're actually making sure, or whether you're just moving the risk somewhere you can't see it. And check whether you're [walking your talk](./walking-your-talk.md) — because a policy born from fear, in a container that teaches people to see past their fear, is a contradiction your participants will absorb whether you name it or not.
 
 ### When Participants Push for a Ban
 
