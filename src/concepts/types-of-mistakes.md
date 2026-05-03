@@ -62,7 +62,7 @@ The only difference? You've claimed moral authority. You think you're justified.
 
 That's the pattern. That's how [you become the thing you fear](./trauma-and-filters.md#you-become-the-thing-you-fear).
 
-This isn't unique to the word "predator." "Narcissist." "Abuser." "Toxic person." These labels all do the same thing—they collapse a complex human being into a character that means *bad person who does bad things because they're bad*. They hand-wave all explanation for why the person does what they do. There's nothing to understand. They're just broken.
+This isn't unique to the word "predator." "Narcissist." "Abuser." "Stalker." "Toxic person." These labels all do the same thing—they collapse a complex human being into a character that means *bad person who does bad things because they're bad*. They hand-wave all explanation for why the person does what they do. There's nothing to understand. They're just broken.
 
 **Labels like these are too simple to describe a human heart.**
 
