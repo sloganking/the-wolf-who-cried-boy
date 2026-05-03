@@ -105,24 +105,6 @@ Starvation in any domain — touch, money, recognition, rest — is the most com
 
 If the self-statement *"I'm owed. They have what should be mine. The situation makes it just"* sounds familiar in any area of your life, that's where to look. You're not evil. You're in the blur. And you'll stay there as long as two engines keep running: the *situation* telling you this is fair, and a [helplessness story](./healing-fawning.md) telling you this is the only way the thing can reach you. The situation converts the wrong into the permissible — *they have what I need, and watching them have it hurts, so this evens the books.* The helplessness converts the permissible into the necessary — *I don't have what they have that lets them get it, so this is the only way the thing reaches me.* Between them, they produce something that feels like reasoning and functions as permission.
 
-### The Selfish Predator's Best Tool
-
-Here's what makes this even worse: a competent selfish predator doesn't use overt force. Overt force gets seen, gets stopped, gets a defensive response. Instead, they see your blind spots — and use them.
-
-If someone has a [filter](./trauma-and-filters.md) that makes them prone to seeing predators everywhere, a selfish predator doesn't have to attack their target directly. They just say the right things to the right person, push the right buttons, and let the righteous predator do the rest. The righteous predator attacks with full moral certainty, the mob joins in, and the selfish predator gets what they want without ever being seen. And if anyone accuses them of orchestrating it, they just say they were caught up in the same story as everyone else.
-
-Every righteous predator in that mob thinks they're saving someone. None of them realize they're a weapon being aimed by the person who can see what they can't.
-
-Most of the time, there is no selfish predator pulling the strings. It's just a mob of traumatized, belief-blind, scared, angry people overreacting to someone making an innocent mistake — assuming the worst and attacking with way too much force. That's bad enough on its own.
-
-But when there *is* a selfish predator, you won't find them where you're looking. They're not the person the group is attacking — that's probably just someone who made an innocent mistake. They're not the one making threats. They're not the one getting in someone's face. They're probably the person standing next to the righteous predator afterward, comforting them. *"That must have been so scary. Thank you for standing up for the group. You did the right thing."* Reinforcing every story. Validating every distortion. Calling the righteous predator a hero — because as long as the righteous predator believes they're a hero, they'll keep doing the selfish predator's work for free.
-
-This is why seeing through your blind spots isn't just self-improvement — it's self-defense. If you can't see your own [filters](./trauma-and-filters.md), you can be aimed. Any person or group that is blind to their own patterns is a tool waiting to be used. The best protection against selfish predators isn't scanning for them harder — it's seeing through your own beliefs clearly enough that you can't be turned into a righteous predator. If you and the people around you have done that work — if the blind spots are gone and there are no righteous predators left to aim — then selfish predators have no tools left to use.
-
-**Your blind spots are where the selfish predators hide.**
-
-For a practical tool to detect influence in real-time — whether from a selfish predator, a righteous one, or just someone whose fear is contagious — see [The Influence Firewall](../tools/influence-firewall.md).
-
 ### The Sinsick Righteous Predator
 
 There's a specific path into righteous predation that's worth naming, because communities often give these people *more* authority — not less.
@@ -142,6 +124,24 @@ The person with the most capacity for empathy — because they've been there —
 And here's the tragic part: they may do *more* harm as a righteous predator than they ever did before. A blurry predator's scope is limited — one person justifying what they take. But a sinsick righteous predator fueled by self-hatred is the most easily triggered, most intensely reactive version of the pattern. They mobilize others. They lead witch hunts. They destroy reputations. They cause harm that radiates outward and lasts for months, years, sometimes permanently. Someone who genuinely tried to change — who genuinely wanted to do good — ends up doing more damage than they ever did when they were in the blur. Not because they're evil. Because their shame became a weapon they can't see themselves holding.
 
 Communities often trust these people precisely because of their history. "They've been through it. They understand. They know what to look for." And the truly recovered version *does* understand. But the sinsick version isn't seeing clearly — they're projecting their own history onto everyone, finding their past sins in other people's innocent mistakes, and attacking with a fury fueled by self-hatred they've never resolved.
+
+### The Selfish Predator's Best Tool
+
+Here's what makes this even worse: a competent selfish predator doesn't use overt force. Overt force gets seen, gets stopped, gets a defensive response. Instead, they see your blind spots — and use them.
+
+If someone has a [filter](./trauma-and-filters.md) that makes them prone to seeing predators everywhere, a selfish predator doesn't have to attack their target directly. They just say the right things to the right person, push the right buttons, and let the righteous predator do the rest. The righteous predator attacks with full moral certainty, the mob joins in, and the selfish predator gets what they want without ever being seen. And if anyone accuses them of orchestrating it, they just say they were caught up in the same story as everyone else.
+
+Every righteous predator in that mob thinks they're saving someone. None of them realize they're a weapon being aimed by the person who can see what they can't.
+
+Most of the time, there is no selfish predator pulling the strings. It's just a mob of traumatized, belief-blind, scared, angry people overreacting to someone making an innocent mistake — assuming the worst and attacking with way too much force. That's bad enough on its own.
+
+But when there *is* a selfish predator, you won't find them where you're looking. They're not the person the group is attacking — that's probably just someone who made an innocent mistake. They're not the one making threats. They're not the one getting in someone's face. They're probably the person standing next to the righteous predator afterward, comforting them. *"That must have been so scary. Thank you for standing up for the group. You did the right thing."* Reinforcing every story. Validating every distortion. Calling the righteous predator a hero — because as long as the righteous predator believes they're a hero, they'll keep doing the selfish predator's work for free.
+
+This is why seeing through your blind spots isn't just self-improvement — it's self-defense. If you can't see your own [filters](./trauma-and-filters.md), you can be aimed. Any person or group that is blind to their own patterns is a tool waiting to be used. The best protection against selfish predators isn't scanning for them harder — it's seeing through your own beliefs clearly enough that you can't be turned into a righteous predator. If you and the people around you have done that work — if the blind spots are gone and there are no righteous predators left to aim — then selfish predators have no tools left to use.
+
+**Your blind spots are where the selfish predators hide.**
+
+For a practical tool to detect influence in real-time — whether from a selfish predator, a righteous one, or just someone whose fear is contagious — see [The Influence Firewall](../tools/influence-firewall.md).
 
 ### "Think of the Children"
 
