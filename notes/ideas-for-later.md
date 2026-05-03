@@ -111,3 +111,15 @@ If you punished someone and they thanked you for it (gratitude-based fawning), a
 **Where to use:** Coaching, facilitation training. The book covers repair and fawning separately — this specific intersection (helping someone undo their gratitude-fawn after you realize you wronged them) is more of a coaching tool than a book concept.
 
 ---
+
+### Shadow Play Workshop Story: Choice vs. Chance
+
+At a shadow play workshop, everyone shared what they wanted in a sharing circle before pairing up. Logan wanted love, nurturing, and aftercare. A woman across the room wanted to degrade her partner — call him pathetic, harsh intensity. Opposite flavors. When they said "go find your partner," Logan sprinted across the room, floor-slid to her, and pitched blending both: she degrades him, then gives loving aftercare. Her response: "Ooh, you're freaky. I like that. Let's play." They did both.
+
+**What it demonstrates:** Chance said she wanted the opposite thing and was across the room — surface-level incompatibility. Choice said sprint anyway and propose something neither of them would have predicted. The outcome only existed because of the choice. Anyone with hesitation, anyone who assumed "she wants something different, she'd definitely say no," would have created the reality of not connecting — without ever testing it. Without choice, chance wins every time, and the default chance is usually not compelling.
+
+**Best fit if added to book:** Dice Principle section in `responsibility.md` (currently has abstract bullet-point examples that work but aren't shown through personal story). Could also fit in `healing-fawning.md` near the reverse fawning / play party section. Rated 6x–7x — vivid and personal but reinforces a point already made. Could bump higher in a future edition or if the Dice Principle section needs a stronger anchor story.
+
+**Also works for:** Coaching, workshops, talks. The floor-slide energy is better performed than written.
+
+---
