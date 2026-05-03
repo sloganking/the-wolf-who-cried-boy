@@ -499,7 +499,7 @@ Here's the distinction:
 
 **Being victimized** = having harm done to you when you had limited or no power to stop it. This can be real. It happens.
 
-**Feeling like a victim** = the ongoing emotional state of helplessness, anger, and "this was done TO me and I can't do anything about this or future occurances."
+**Feeling like a victim** = the ongoing emotional state of helplessness, anger, and "this was done TO me and I can't do anything about this or future occurrences."
 
 The insight isn't about the past event. It's about the present feeling.
 
