@@ -51,7 +51,7 @@ You'll encounter all of this: fawning, over-responses, trauma reactions, people 
 
 Most facilitator trainings don't cover this. They teach you how to hold space, guide exercises, support people in process. They don't teach you what to do when a participant starts a witch hunt, or when someone's trauma makes them see predators everywhere, or when you need to protect someone being unfairly attacked while still honoring the accuser's pain.
 
-This book won't give you all the answers. But it will give you a framework—a way to think through these situations more clearly than just reacting from instinct.
+This book gives you a framework for seeing clearly through situations that most people handle on instinct — and instinct gets it wrong most of the time.
 
 ---
 
