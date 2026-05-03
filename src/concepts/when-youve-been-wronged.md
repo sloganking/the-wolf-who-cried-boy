@@ -89,7 +89,7 @@ There are two completely separate wounds here:
 
 **Wound 1: You didn't catch the fawning.** The signs were there — maybe subtle, maybe not — and you missed them. You could have been more attuned. You could have paused and checked in. You didn't, and they had an experience they didn't want. That's real. You owe them acknowledgment and repair for your part in that.
 
-**Wound 2: They attacked your character.** They took a miscommunication — one they contributed to by saying "yes" when they meant "no" — and turned it into a story about who you are. They called you names. They told others. They went into [narrative lock](./trauma-and-filters.md) and decided you were a threat rather than a person who believed what they were told. That's also real. And they owe *you* repair for that.
+**Wound 2: They attacked your character.** They took a miscommunication — one they contributed to by saying "yes" when they meant "no" — and turned it into a story about who you are. They called you names. They told others. They went into [narrative lock](./invisible-patterns.md#narrative-lock) and decided you were a threat rather than a person who believed what they were told. That's also real. And they owe *you* repair for that.
 
 The tendency — the overwhelming cultural tendency — is for only one of these to be addressed. The person who didn't catch the fawning does all the owning, all the apologizing, all the repair. The fawner's attack goes completely unaddressed, because they're seen as the victim, and victims don't owe repair.
 
@@ -141,7 +141,7 @@ This step is critical. If you skip it — if you just set the boundary and leave
 
 Notice what you never said: "I'm not a monster." "I'm not what they're calling me." "I didn't do anything wrong." You didn't *tell* the room you're a human being. You *showed* them — by standing on principle, providing facts, and leaving with dignity. You showed them that you value yourself enough to treat yourself as a human being — and that's the proof that can't be faked. Anyone watching just saw a person acting with more humanity than the person attacking them.
 
-The people who still call this manipulation after watching you state a belief in human dignity, provide evidence of repair, and calmly set a boundary — they'll be contested by the people in the room who aren't [belief-blind](./trauma-and-filters.md). The burden of proof just shifted. It's no longer on you to prove you're not a monster. It's on them to explain how standing on a principle of human dignity is manipulation. Let them try.
+The people who still call this manipulation after watching you state a belief in human dignity, provide evidence of repair, and calmly set a boundary — they'll be contested by the people in the room who aren't [belief-blind](./trauma-and-filters.md#stories-control-attention). The burden of proof just shifted. It's no longer on you to prove you're not a monster. It's on them to explain how standing on a principle of human dignity is manipulation. Let them try.
 
 **Your body trusts what you show it, not what you tell it.** If you stay and absorb it, you show your body: *when this happens, I'm powerless.* If you set the boundary and leave, you show your body: *when this happens, I handle it.* A body that trusts you to protect it doesn't need to be terrified of making mistakes in the future. The fear was never about the angry person — it was about whether you could keep yourself safe. (For the full picture of why this matters, see [what happens when you stay vs. when you leave](./guiding-public-repair.md#if-youre-being-yelled-at).)
 
@@ -224,7 +224,7 @@ Before you make a repair request, check: is this about what *this person* did, o
 
 If someone crosses your boundary, the repair is for the boundary crossing. Not for every time someone from their category hurt you. Not for the accumulated wounds of your past. Not for the story that "men always do this" or "people like her always do that." Those wounds may be real — but this person didn't create them, and loading their repair with the weight of your whole history will make every ask feel disproportionate. They'll sense they're being asked to pay a debt that isn't theirs, and the repair will collapse.
 
-This is a [victim lens](./drama-triangle.md) applied to a category instead of an individual. Keep the repair about what this specific person did — these actions, this incident. Process the rest somewhere else. If the historical wounds are bleeding into the individual ask, that's [shopping hungry](#dont-go-shopping-hungry) with a different kind of hunger.
+This is a [victim lens](./drama-triangle.md#the-victim-frame-is-not-the-same-as-being-wronged) applied to a category instead of an individual. Keep the repair about what this specific person did — these actions, this incident. Process the rest somewhere else. If the historical wounds are bleeding into the individual ask, that's [shopping hungry](#dont-go-shopping-hungry) with a different kind of hunger.
 
 ### When Someone Comes to You Afterward
 
@@ -250,13 +250,13 @@ Give the questioner these:
 
 1. **"Before you attacked them, did you ask them what their intent was?"** Not what the action looked like. Not what it meant to you. Did you ask *them* what they were trying to do? If the answer is no — they assumed intent without checking. That's the foundation of the entire accusation, and it was never verified.
 
-2. **"Did you ask the person you're defending if they even wanted defending?"** Not whether you assumed they needed help. Did you check in with them first? "Are you okay? Do you need help?" If they said "no, I've got this" and you stepped in anyway, you were protecting someone who never asked to be protected. You assumed what was happening and reacted. The answer reveals whether this was [rescue](./drama-triangle.md) or response. And if they'd already done a repair process with the person you attacked and said they felt complete — then what were you defending them from?
+2. **"Did you ask the person you're defending if they even wanted defending?"** Not whether you assumed they needed help. Did you check in with them first? "Are you okay? Do you need help?" If they said "no, I've got this" and you stepped in anyway, you were protecting someone who never asked to be protected. You assumed what was happening and reacted. The answer reveals whether this was [rescue](./drama-triangle.md#the-three-roles) or response. And if they'd already done a repair process with the person you attacked and said they felt complete — then what were you defending them from?
 
 3. **"Did you ask anyone who's known this person long-term what their character is like?"** Someone who's known a person for 30 seconds and assumed the worst about them is working from a completely different evidence base than the people who've known them for years — of which there may be many — who can tell you this was out of character, or was a mistake, or that this person has a track record of integrity. If the attacker didn't check with anyone who actually knows the person they attacked, they were operating on their own [filters](./trauma-and-filters.md), not on reality.
 
 The attacker might not admit they were wrong. They might double down. But the questioner will hear the answers — "no, I didn't ask their intent," "actually, the person I was defending was already complete and didn't ask me to step in," "no, I didn't talk to anyone who knows them" — and the picture assembles itself. If the attacker took zero steps to understand what actually happened before attacking, the questioner can see for themselves: the attacker was swinging blind. They may have felt absolutely certain about what they were responding to — righteous predators always do. But certainty built on assumptions isn't knowledge. In reality, they had zero idea what they were actually responding to. The certainty was the story. The reality was never checked.
 
-This entire technique is [showing instead of telling](./walking-your-talk.md). When someone asks you to defend yourself, they're asking you to *tell* them you're innocent. And telling is weak — they might not believe you, and anything you say sounds like what a guilty person would say too. Instead, you're giving them a way to *show themselves* the answer. You're pointing them at specific, objective questions whose answers reveal the truth without you ever having to claim it. A conclusion someone reaches by asking their own questions and hearing the answers firsthand is infinitely more convincing than one you handed them.
+This entire technique is [showing instead of telling](./walking-your-talk.md#the-core-principle-show-dont-tell). When someone asks you to defend yourself, they're asking you to *tell* them you're innocent. And telling is weak — they might not believe you, and anything you say sounds like what a guilty person would say too. Instead, you're giving them a way to *show themselves* the answer. You're pointing them at specific, objective questions whose answers reveal the truth without you ever having to claim it. A conclusion someone reaches by asking their own questions and hearing the answers firsthand is infinitely more convincing than one you handed them.
 
 ### Consider Whether to Communicate Directly
 
@@ -400,7 +400,7 @@ What's the difference?
 
 The person who suffers tells a story where they're powerless. Where something was done TO them that they couldn't stop. Where they're a victim.
 
-The person who doesn't suffer tells a different story. Maybe "this happened FOR me." Maybe "I can handle this." Maybe "[every position has an advantage](./all-power-is-mutual.md)—even this one."
+The person who doesn't suffer tells a different story. Maybe "this happened FOR me." Maybe "I can handle this." Maybe "[every position has an advantage](./all-power-is-mutual.md#power-always-flows-both-ways)—even this one."
 
 The event happened. The pain was real. But the story you tell determines whether that pain becomes ongoing suffering or a chapter you move through.
 

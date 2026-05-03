@@ -82,14 +82,14 @@ Every major concept in this book maps to the Drama Triangle. You've already been
 
 | Book Concept | Drama Triangle Role | The Shift |
 | --- | --- | --- |
-| [Righteous Predator](./why-rescuers-are-dangerous.md) | Rescuer → Persecutor | Rescuer who becomes the harm they're trying to prevent |
+| [Righteous Predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) | Rescuer → Persecutor | Rescuer who becomes the harm they're trying to prevent |
 | [Fawning](./fawning.md) | Victim | Staying helpless instead of using the power you have |
 | [Taking Responsibility](./responsibility.md) | Victim → Creator | Seeing your power instead of your powerlessness |
 | [Over-Response](./appropriate-response.md) | Persecutor | Punishment disguised as accountability |
 | [Proportional Response](./appropriate-response.md) | Challenger | Accountability that matches what happened |
 | [Crying Victim](./all-power-is-mutual.md#the-victim-position-is-powerful) | Victim wielding power | Using the Victim role's power to cause harm |
 | [The Advocacy Gap](./when-youve-been-wronged.md#before-you-accept) | Stuck in Victim | Informing and accepting instead of advocating |
-| [What Clear Eyes Are For](./what-clear-eyes-are-for.md) | Rescuer → Coach | Helping without rescuing |
+| [What Clear Eyes Are For](./what-clear-eyes-are-for.md#coach-not-rescuer) | Rescuer → Coach | Helping without rescuing |
 
 The Drama Triangle isn't just a model. It's what's running underneath every conflict this book describes. Once you can see which role you're in, you can choose the shift.
 

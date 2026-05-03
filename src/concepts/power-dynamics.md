@@ -145,7 +145,7 @@ Even now, the participant still has power:
 - They can go home and write hate mail
 - They can start a witch hunt on social media
 - They can rally other participants against the facilitator _during_ the event
-- Others might side with them out of [mob judgment](./before-you-judge.md)—because they saw someone upset and the facilitator "kicking them out"
+- Others might side with them out of [mob judgment](./before-you-judge.md#the-witch-hunt-dynamic)—because they saw someone upset and the facilitator "kicking them out"
 
 The facilitator did everything right. And they're still vulnerable to someone willing to use the power of being wronged to cause disproportionate damage.
 

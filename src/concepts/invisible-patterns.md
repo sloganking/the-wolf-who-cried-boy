@@ -353,7 +353,7 @@ Having trauma is **not your fault.**
 
 How you handle it when interacting with others **is your responsibility.**
 
-This isn't blame. It's [empowerment](./responsibility.md). You're the only one who can:
+This isn't blame. It's [empowerment](./responsibility.md#why-you-want-responsibility). You're the only one who can:
 
 - Know your triggers
 - Communicate them when possible

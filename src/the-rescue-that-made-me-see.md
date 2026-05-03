@@ -16,7 +16,7 @@ I tried to communicate. I tried to say I was doing my best. He didn't hear it. H
 
 Years later, my father and I talked about it. He sees it differently now.
 
-He was in [Rescuer](./concepts/drama-triangle.md) mode. He was afraid for me. He saw a son who couldn't handle pressure, who would crumble when the world didn't bend to his needs. And the world doesn't bend. He knew that. He'd lived it.
+He was in [Rescuer](./concepts/drama-triangle.md#the-three-roles) mode. He was afraid for me. He saw a son who couldn't handle pressure, who would crumble when the world didn't bend to his needs. And the world doesn't bend. He knew that. He'd lived it.
 
 So he tried to toughen me up. Prepare me. Make me strong enough to survive what was coming.
 
@@ -42,7 +42,7 @@ Multiple traumas I'd never processed came up at once. I developed PTSD. I had ei
 
 That's why I'm so passionate about what this book teaches. I know what it's like to live in hell—not because the world is hell, but because perceiving yourself as a powerless victim *turns it into one.* I lived there for years. The world wasn't actually crushing me. My stories were. But I couldn't see that from inside the dream.
 
-I was stuck in the [Victim](./concepts/drama-triangle.md) position. And I didn't even know there was another option.
+I was stuck in the [Victim](./concepts/drama-triangle.md#the-three-roles) position. And I didn't even know there was another option.
 
 ---
 

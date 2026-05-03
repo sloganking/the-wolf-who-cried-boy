@@ -37,7 +37,7 @@ They had supreme goodness. They were acting from love—love of God, love of fam
 > **"Never assume malice, where belief will do."**  
 > — _Logan King_
 
-This is the [Rescuer](./drama-triangle.md) in its most dangerous form. The Inquisitor saw himself as saving souls — and the urgency of _something terrible will happen if I don't act now_ is exactly what drove him to cause harm. When you're caught in the Rescuer role, becoming the Perpetrator is always a danger.
+This is the [Rescuer](./drama-triangle.md#the-three-roles) in its most dangerous form. The Inquisitor saw himself as saving souls — and the urgency of _something terrible will happen if I don't act now_ is exactly what drove him to cause harm. When you're caught in the Rescuer role, becoming the Perpetrator is always a danger.
 
 Most people today look back at the witch trials and think: _Those people were insane. Witches don't even exist. They were just murdering innocent people._
 
@@ -161,7 +161,7 @@ And yet — culturally, instinctively — all our fear points at the accused. We
 
 Ask yourself: which do you believe in more — human selfishness or human fear?
 
-If you believe selfishness is more common, then selfish predators are everywhere and the accuser is probably right. If you believe fear is more common — and this book's position is that it overwhelmingly is — then the person crying predator is more likely to be a [righteous predator](./why-rescuers-are-dangerous.md) acting from fear than the accused is to be a selfish predator acting from malice. The accuser's fear-driven aggression is the more probable danger in the room. Not the only one. But the more probable one.
+If you believe selfishness is more common, then selfish predators are everywhere and the accuser is probably right. If you believe fear is more common — and this book's position is that it overwhelmingly is — then the person crying predator is more likely to be a [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) acting from fear than the accused is to be a selfish predator acting from malice. The accuser's fear-driven aggression is the more probable danger in the room. Not the only one. But the more probable one.
 
 This is a cultural blind spot driven by the same fear it fails to see. We've absorbed stories — selfish predators are everywhere, the powerful don't care who they hurt — and those stories prime us to see the accused as the threat and the accuser as the protector. But the accuser isn't protecting anyone if they haven't verified what actually happened. They're acting from fear and calling it righteousness. And we're joining them because their fear activates ours.
 

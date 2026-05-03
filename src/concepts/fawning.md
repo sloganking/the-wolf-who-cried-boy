@@ -131,7 +131,7 @@ Here's the thing: the harm to Person A can be MEDIUM or HIGH—depending on how 
 - Person A may be banned, shunned, or publicly shamed
 - [Severity](./severity.md): **HIGH** — potentially permanent harm
 
-The fawner who cries [Victim](./drama-triangle.md) and blames Person A for "not catching their lie" is now creating HIGH severity harm to someone who was acting in good faith.
+The fawner who cries [Victim](./drama-triangle.md#the-three-roles) and blames Person A for "not catching their lie" is now creating HIGH severity harm to someone who was acting in good faith.
 
 > The fawner who started as a victim becomes the perpetrator.
 
@@ -222,7 +222,7 @@ Which means:
 
 ### The Victim Trap
 
-Some fawners, when their fawning isn't caught, cry [Victim](./drama-triangle.md):
+Some fawners, when their fawning isn't caught, cry [Victim](./drama-triangle.md#the-three-roles):
 
 - "You should have caught my lie"
 - "I feel violated"

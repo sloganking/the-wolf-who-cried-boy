@@ -57,11 +57,11 @@ Before playing with someone—especially someone new—talk through each of thes
 
 ### Examples of What Can Go Wrong
 
-- They're monogamous with a partner at home. You don't know. Their partner finds out, the relationship ends, and suddenly the partner is crying [victim](./drama-triangle.md) and coming after YOU—trying to cause you harm for "destroying their relationship."
+- They're monogamous with a partner at home. You don't know. Their partner finds out, the relationship ends, and suddenly the partner is crying [victim](./drama-triangle.md#the-victim-frame-is-not-the-same-as-being-wronged) and coming after YOU—trying to cause you harm for "destroying their relationship."
 
 - You're at a festival. You've been flirting with someone. They see you kiss someone else. They're polyamorous and know you are too—but they feel jealous. If you have sex with this person, the other one might judge you, act weird toward you, or create drama. Maybe you're okay with that, but you should know about it upfront.
 
-- They have a partner who's at the same event. You don't know. You make a mistake during play—something minor, an accident. The person you're playing with is reasonable and handles it well. But their partner finds out, freaks out, and [witch hunts](./before-you-judge.md) you with HIGH severity. You didn't even know that was a possibility because you didn't know who was partnered with whom.
+- They have a partner who's at the same event. You don't know. You make a mistake during play—something minor, an accident. The person you're playing with is reasonable and handles it well. But their partner finds out, freaks out, and [witch hunts](./before-you-judge.md#the-witch-hunt-dynamic) you with HIGH severity. You didn't even know that was a possibility because you didn't know who was partnered with whom.
 
 ### The Broader Question
 
@@ -324,7 +324,7 @@ This is one of the most important questions you can ask:
 If you accidentally cross a boundary for a moment—your hand goes somewhere it shouldn't, you misread a cue—what happens?
 
 - **Charitable interpretation:** "Hey, I think you forgot, but I have a boundary about that." You say "Oh, thank you for telling me," and appreciate their respectful response.
-- **Uncharitable interpretation:** You're a rapist. Character assassination. Reputation destruction. [Witch hunt](./before-you-judge.md).
+- **Uncharitable interpretation:** You're a rapist. Character assassination. Reputation destruction. [Witch hunt](./before-you-judge.md#the-witch-hunt-dynamic).
 
 If you know someone responds to mistakes with HIGH severity—treating accidents like malice—you might choose not to play with them. You might choose someone whose interpretation of mistakes is charitable, who understands the difference between [accident and malice](./types-of-mistakes.md).
 

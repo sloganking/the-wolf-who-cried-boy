@@ -201,7 +201,7 @@ Imagine this scenario—it happens more often than you'd think:
 
 Someone makes a MEDIUM mistake. The person affected talks to them about it. They work it out. The affected person feels complete. Issue resolved.
 
-But the affected person's partner hears about it. They weren't there. They didn't witness anything. They just heard about it secondhand—and they're furious. They step into [Rescuer](./drama-triangle.md) mode.
+But the affected person's partner hears about it. They weren't there. They didn't witness anything. They just heard about it secondhand—and they're furious. They step into [Rescuer](./drama-triangle.md#the-three-roles) mode.
 
 Now the facilitators set up an exercise where the Rescuer and the mistake-maker can process. Emotions run high. The Rescuer is attacking with maximum intensity. The mistake-maker is apologizing, trying to de-escalate.
 
@@ -229,7 +229,7 @@ Even better:
 
 If Person B had said, "Yeah, I feel complete. We worked it out. I don't hold anything against them"—then everyone would have seen the Rescuer's rage for what it was: an over-response driven by their own stories, not by the actual severity of what occurred.
 
-The audience would have had context. Most would have seen: the person who was actually wronged isn't even upset. This angry person is representing their own emotions, not the victim's. This is a [Rescuer](./drama-triangle.md) dynamic, not justified outrage.
+The audience would have had context. Most would have seen: the person who was actually wronged isn't even upset. This angry person is representing their own emotions, not the victim's. This is a [Rescuer](./drama-triangle.md#the-three-roles) dynamic, not justified outrage.
 
 Not everyone—some people will still view things through their own trauma filters and side with intensity regardless of facts. But the *majority* would recognize this as an over-response. And that's what matters. Mobs form when the whole room gets swept up. When most people have context and can see clearly, the groupthink works *for* truth instead of against it.
 
@@ -334,7 +334,7 @@ The damage cascades:
 
 **Participants were deprived of clarity.** The facilitator had an opportunity to show them a hard truth. A truth that didn't fit their comfortable story. A truth that, if they'd actually received it, would have let them take a hard look at their assumptions—and might have been the singular life-changing lesson of that retreat.
 
-**The harm propagates.** Those participants go home with their [Rescuer beliefs](./why-rescuers-are-dangerous.md) intact. They continue causing harm to everyone around them. They pass the beliefs to others. All because one person—the person in the room with the most influence—was too afraid to show them something different.
+**The harm propagates.** Those participants go home with their [Rescuer beliefs](./why-rescuers-are-dangerous.md#the-transmissibility-of-belief) intact. They continue causing harm to everyone around them. They pass the beliefs to others. All because one person—the person in the room with the most influence—was too afraid to show them something different.
 
 When a participant [fawns](./fawning.md), they harm themselves and maybe one other person. When a facilitator fawns, they fail every participant who was looking to them for clarity. It's a force multiplier.
 

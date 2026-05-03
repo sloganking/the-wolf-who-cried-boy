@@ -80,7 +80,7 @@ Same applies here. If you skip verification and launch a high-severity response,
 
 When someone is over-responding, they sometimes frame their over-response as restraint: *"I could have done worse." "I'm being kind by only doing this." "You're lucky I'm holding back."*
 
-This reframes an over-response as an under-response — and [belief-blind](./trauma-and-filters.md) observers buy it. They hear "I'm holding back" and think: *this person is being reasonable. They could be doing more. How restrained of them.*
+This reframes an over-response as an under-response — and [belief-blind](./trauma-and-filters.md#stories-control-attention) observers buy it. They hear "I'm holding back" and think: *this person is being reasonable. They could be doing more. How restrained of them.*
 
 But look at what's actually happening: someone is already causing disproportionate harm, and they're using the *possibility* of even greater harm to make their current harm look justified. Breaking someone's nose isn't justified because you could have broken their arm too and didn't. The fact that you *could* do worse doesn't make what you're *doing* proportional. A person screaming death threats at someone who crossed a boundary for a moment is not showing mercy by not following through. They're over-responding — and framing the over-response as a gift.
 

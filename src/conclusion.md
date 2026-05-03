@@ -36,7 +36,7 @@ What actually transforms the planet is what happens *after* the breakthrough—w
 
 Planetary transformation isn't a peak experience. It's what you do in the hard moments.
 
-It's seeing that the person in front of you—the one who seems like a threat—is probably a [good person operating on a harmful belief](./concepts/before-you-judge.md). It's choosing to understand before you attack. It's [taking responsibility](./concepts/responsibility.md) for your part instead of pointing fingers. It's recognizing that [your fear of harm is itself the most likely source of harm](./concepts/trauma-and-filters.md#you-become-the-thing-you-fear).
+It's seeing that the person in front of you—the one who seems like a threat—is probably a [good person operating on a harmful belief](./concepts/before-you-judge.md#most-people-arent-predators). It's choosing to understand before you attack. It's [taking responsibility](./concepts/responsibility.md) for your part instead of pointing fingers. It's recognizing that [your fear of harm is itself the most likely source of harm](./concepts/trauma-and-filters.md#you-become-the-thing-you-fear).
 
 If enough people learned to do this—to see through their stories, to respond to reality instead of fear, to treat confused people as confused instead of evil—that would change the world. Not as a slogan. As a practice.
 

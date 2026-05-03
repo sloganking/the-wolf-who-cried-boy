@@ -222,7 +222,7 @@ When you take responsibility—even for things that weren't "your fault"—you'r
 - I'm not a victim of circumstance
 - My future is in my hands
 
-This is the [Creator](./drama-triangle.md) mindset. It's the opposite of [Victim](./drama-triangle.md).
+This is the [Creator](./drama-triangle.md#the-empowerment-shifts) mindset. It's the opposite of [Victim](./drama-triangle.md#the-three-roles).
 
 ## Responsibility Is Not Repair
 

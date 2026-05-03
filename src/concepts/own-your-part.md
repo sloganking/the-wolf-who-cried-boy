@@ -118,7 +118,7 @@ If you believe all humans should be treated fairly, with dignity and respect, th
 
 Sometimes people genuinely are shirking responsibility — using contributing factors as excuses, dodging their part, deflecting blame. That's real and it looks similar from the outside.
 
-But if you're not doing that — if you're owning your part honestly and simply refusing to carry theirs — the world will often still attack you for it. Through [belief blindness](./trauma-and-filters.md), people will accuse you of being selfish for protecting yourself. They can't tell the difference between someone dodging accountability and someone holding a boundary with dignity.
+But if you're not doing that — if you're owning your part honestly and simply refusing to carry theirs — the world will often still attack you for it. Through [belief blindness](./trauma-and-filters.md#stories-control-attention), people will accuse you of being selfish for protecting yourself. They can't tell the difference between someone dodging accountability and someone holding a boundary with dignity.
 
 Refusing to carry what isn't yours IS taking responsibility — for yourself, for the truth, for not participating in a false narrative. It's doing the hard thing. It's doing the right thing, even when others don't understand it.
 
@@ -183,7 +183,7 @@ No matter how perfect your logical argument, you will not change their mind in t
 
 2. **You don't have to take their attacks.** If they're not speaking to you with dignity and respect, you are not obligated to stand there and receive it. Setting the boundary "I'm not available to be spoken to this way" is the proper action. Then disengage.
 
-3. **Not fawning is the kindest thing you can do for them.** If you appease them when they're angry, you're [pleasing them, not serving them](./walking-your-talk.md) — and you reinforce their story. You're telling them: "Your behavior is acceptable. Your view of me is correct. How you're handling this is proper." That's a lie—and it's a disservice to them.
+3. **Not fawning is the kindest thing you can do for them.** If you appease them when they're angry, you're [pleasing them, not serving them](./walking-your-talk.md#your-duty-as-facilitator) — and you reinforce their story. You're telling them: "Your behavior is acceptable. Your view of me is correct. How you're handling this is proper." That's a lie—and it's a disservice to them.
 
 4. **Your resistance plants a seed.** If you offer no resistance, when they calm down they'll never ask themselves: "Was my thinking out of line? Do I need to rethink how I operate?" You never showed them anything was wrong. But if you hold your ground—through your actions and perhaps a few words—you give them something to reflect on later.
 

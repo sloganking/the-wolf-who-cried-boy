@@ -9,7 +9,7 @@
 
 This book taught you how to see.
 
-You learned what [filters](./trauma-and-filters.md) are. You learned to catch your own. You learned to recognize when others are operating on stories they don't know they have. You can see the [Drama Triangle](./drama-triangle.md) forming, the [rescue pattern](./why-rescuers-are-dangerous.md) activating, the [witch hunt](./before-you-judge.md) building in real time.
+You learned what [filters](./trauma-and-filters.md) are. You learned to catch your own. You learned to recognize when others are operating on stories they don't know they have. You can see the [Drama Triangle](./drama-triangle.md) forming, the [rescue pattern](./why-rescuers-are-dangerous.md#rescuers-outscale-predators) activating, the [witch hunt](./before-you-judge.md#the-witch-hunt-dynamic) building in real time.
 
 You can see clearly now.
 

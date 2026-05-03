@@ -337,7 +337,7 @@ For the full picture of what to do after you've been wronged — the emotional a
 
 - [When Things Go Wrong](./when-things-go-wrong.md) — Dignity, fawning intervention, de-escalation
 - [Handling Threats of Violence](./handling-threats-of-violence.md) — When public repair escalates past the point of no return
-- [Before You Facilitate](./before-you-facilitate.md) — The promise that governs these decisions
-- [Invisible Patterns](./invisible-patterns.md) — Narrative Lock: when someone stops processing new information
+- [Before You Facilitate — The Promise](./before-you-facilitate.md#the-promise) — The promise that governs these decisions
+- [Invisible Patterns — Narrative Lock](./invisible-patterns.md#narrative-lock) — Narrative Lock: when someone stops processing new information
 - [Before You Judge](./before-you-judge.md) — Why the room isn't qualified to judge without primary sources
 - [Fawning](./fawning.md) — What it looks like when someone submits instead of repairs

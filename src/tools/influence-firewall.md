@@ -16,7 +16,7 @@ Notice something else: it sounded reasonable. It even sounded responsible. If yo
 
 That's what makes it dangerous. Not because the concern is wrong — maybe something did happen. But you just got recruited into action based entirely on one person's *interpretation* of what they saw. No one talked to the woman. No one talked to Jake. No facts were verified. And you're already feeling like you need to do something.
 
-The line between responsible concern and the start of a [witch hunt](../concepts/why-rescuers-are-dangerous.md) is exactly here — and unless you can see the pattern underneath the words, they look identical.
+The line between responsible concern and the start of a [witch hunt](../concepts/before-you-judge.md#the-witch-hunt-dynamic) is exactly here — and unless you can see the pattern underneath the words, they look identical.
 
 ---
 
@@ -34,7 +34,7 @@ That's not necessarily manipulation. This person might genuinely be scared and g
 
 Notice what drives the rescue: the assumption that she can't protect herself. "We need to protect people in this space" sounds like [responsibility](../concepts/responsibility.md) — they're seeing their power to influence the outcome. But they skipped the person they're supposedly protecting. They never asked her how she felt. They projected their own interpretation of discomfort and went straight to action. People who struggle to protect themselves — who [fawn](../concepts/fawning.md) instead of speaking up — often assume others are equally unable. "If I were in that situation, I'd be terrified." Maybe she was. Maybe she was having a great time. The only way to know is to ask.
 
-This is how [righteous predation](../concepts/why-rescuers-are-dangerous.md) begins. Not with someone deciding to cause harm. With someone feeling afraid and spreading that fear to others who also don't verify.
+This is how [righteous predation](../concepts/why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) begins. Not with someone deciding to cause harm. With someone feeling afraid and spreading that fear to others who also don't verify.
 
 ### Same Concern, Different Path
 

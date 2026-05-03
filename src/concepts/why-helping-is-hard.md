@@ -130,7 +130,7 @@ They learn their agency without ever having to be told they have it. The request
 
 If they're so resistant that your attempts are causing them pain, back off. You're not saving them under any cost. You're offering something. If they can't receive it, that's information—not a mandate to push harder.
 
-See: [Drama Triangle — Rescuer](./drama-triangle.md)
+See: [Drama Triangle — Rescuer](./drama-triangle.md#the-three-roles)
 
 ### When Help Creates Harm
 

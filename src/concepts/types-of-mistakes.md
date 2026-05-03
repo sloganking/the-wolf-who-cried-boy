@@ -50,7 +50,7 @@ Genuine malice—someone who consciously chose to cause harm for selfish or evil
 
 Even when there's malice mixed in—when someone indulged their anger and went too far—there's usually a harmful belief fueling it. They weren't purely evil. They were confused, reactive, carried by a story, and slipped into causing more harm than they would have chosen from a clear state.
 
-The word "predator" collapses all of this into one label. It assigns the worst possible intent before any investigation has happened. It's a [story](./trauma-and-filters.md) dressed up as a fact. And once that label sticks, due process is over—because who needs due process for a "predator"?
+The word "predator" collapses all of this into one label. It assigns the worst possible intent before any investigation has happened. It's a [story](./trauma-and-filters.md#the-story-happens-instantly) dressed up as a fact. And once that label sticks, due process is over—because who needs due process for a "predator"?
 
 **This is why TYPE matters.** The same action can be malicious or accidental—and the appropriate response is completely different. Get the type wrong, and you become the source of harm.
 
