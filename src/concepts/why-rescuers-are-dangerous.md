@@ -65,7 +65,7 @@ The gap doesn't just prevent you from seeing the pattern — it prevents you fro
 
 This even affects how you process it internally. If the only words you have to describe what happened to yourself are "someone called me a predator," your own [moral immune system](./i-made-a-mistake.md#sinsickness) can turn on you — *maybe they're right, maybe I am what they said.* That's [sinsickness](./i-made-a-mistake.md#sinsickness) caused by a language gap. But if you can say "a righteous predator falsely accused and attacked me," the experience makes sense. You're less likely to attack yourself over someone else's distortion.
 
-Having the word changes what you can see, what you can say, and what you can survive.
+Having the word changes what you can see, what you can say, and what you can survive. And it works for the righteous predator too — if they wake up and the only frame they have is "I was the villain," [sinsickness](./i-made-a-mistake.md#sinsickness) is almost guaranteed. But "I was a righteous predator" carries something the villain frame doesn't: the acknowledgment that you thought you were doing good the whole time. It's not a pretty label. But it's one you can recover from — because it tells the truth about your intent, even while naming the harm.
 
 A righteous predator — someone who causes significant harm powered by moral certainty instead of selfishness — has everything that makes harmful beliefs dangerous, plus:
 
