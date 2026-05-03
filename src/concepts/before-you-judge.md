@@ -147,6 +147,8 @@ The person launching the witch hunt? They ARE the predator in that moment — ca
 
 This doesn't excuse the harm. It explains where it comes from. And it means: if you're scared, certain, and ready to act — you might be about to become what you're afraid of.
 
+Here's how it works: if you believe someone is stealing from you, taking from them doesn't feel like stealing — it feels like justice. If you believe someone is about to attack you, attacking them first doesn't feel like aggression — it feels like self-defense. The story you carry about what *they're* doing transforms what *you're* doing into something righteous. You're not a thief. You're evening the score. You're not an aggressor. You're protecting yourself. Whatever you perceive someone doing to you, it's worth checking: are you doing that thing to them? Did they start — or did you?
+
 ### What You're Actually Watching
 
 When someone publicly calls someone else a predator, stop and notice what you're actually observing.
