@@ -145,7 +145,7 @@ Not because the threats are real. Because that's what you're looking for.
 
 ### Choose Your Lens
 
-If you spend five hours consuming content about scary murders, rapists, and consent violations right before you go to a play party—what are you setting yourself up for?
+If you spend hours consuming content about scary murders, rapists, consent violations, selfish people who want what you have and are coming to take it, or anyone telling you that people out there are dangerous and you need to be afraid — right before you go to a play party — what are you setting yourself up for?
 
 **You're pre-framing yourself to see predators.**
 
