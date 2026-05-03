@@ -109,7 +109,7 @@ If the self-statement *"I'm owed. They have what should be mine. The situation m
 
 There's a specific path into righteous predation that's worth naming, because communities often give these people *more* authority — not less.
 
-Someone who has genuinely done harmful things — maybe they were a [blurry predator](#the-blurry-predator-where-most-harm-lives), justifying what they took because the situation made it feel permissible, maybe they were [starving](#the-blurry-predator-where-most-harm-lives) and did things they wouldn't have done from a place of abundance — can go one of two directions. Which direction depends on whether they heal their [sinsickness](./i-made-a-mistake.md#sinsickness).
+Someone who has genuinely done harmful things — maybe they were a blurry predator, justifying what they took because the situation made it feel permissible, maybe they were starving and did things they wouldn't have done from a place of abundance — can go one of two directions. Which direction depends on whether they heal their [sinsickness](./i-made-a-mistake.md#sinsickness).
 
 Sinsickness is what happens when shame stops targeting your behavior and starts targeting your identity. Instead of "I did a bad thing," it becomes "I *am* bad." The guilt that could have driven change collapses into a shame loop with no exit — because you can fix what you did, but you can't fix what you are. That shame doesn't stay still. It leaks outward.
 
