@@ -225,7 +225,9 @@ The men who opposed women's suffrage weren't monsters. They were good people ope
 
 That's what made the oppression so durable. It wasn't enforced by a few predators. It was maintained by millions of Rescuers who genuinely thought they were saving the world.
 
-If you want to see what belief-blindness looks like — not described, but *on someone's face* — watch [this 1964 BBC clip](https://youtube.com/shorts/RDcWBC56uIA) of women reacting to a dress that shows cleavage (search "1964: BBC News - Topless dresses" if the link breaks). They call it disgusting. They say no decent woman would wear it. They're not expressing a preference — they're expressing moral certainty. They can't see that their disgust is culturally constructed. It feels like objective truth. The dress they found scandalous is tamer than what you'd see on any street today.
+### What Belief-Blindness Looks Like
+
+If you want to see it — not described, but *on someone's face* — watch [this 1964 BBC clip](https://youtube.com/shorts/RDcWBC56uIA) of women reacting to a dress that shows cleavage (search "1964: BBC News - Topless dresses" if the link breaks). They call it disgusting. They say no decent woman would wear it. They're not expressing a preference — they're expressing moral certainty. They can't see that their disgust is culturally constructed. It feels like objective truth. The dress they found scandalous is tamer than what you'd see on any street today.
 
 Watch their eyes. That certainty, that disgust, that absolute conviction that they're right and this is obvious — that's what belief-blindness looks like from the outside. And the uncomfortable question: what are you that certain about right now that will look just as absurd in sixty years?
 
