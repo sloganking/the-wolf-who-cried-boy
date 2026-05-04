@@ -114,7 +114,17 @@ But if you choose differently—if you pause, see clearly, and respond with wisd
 
 That's the commitment. Not a promise you make once. A choice you make every time it matters.
 
-Whatever brought you to this book — whatever happened to you, whatever you did, whatever you're carrying — you get to decide what it becomes. The worst thing that ever happened to you, or the thing that gave you more power, more clarity, and more capacity to help others than anything else in your life. Same event. Your meaning-making. Your choice.
+Whatever brought you to this book — whatever happened to you, whatever you did, whatever you're carrying — you get to decide what it becomes.
+
+Maybe someone attacked your reputation. Maybe you crossed a boundary you didn't see. Maybe you froze when you should have spoken. Maybe you watched someone get hurt and didn't intervene. Maybe you're the facilitator who fawned. Maybe you're the person who got called a predator and lost everything.
+
+You can make that the worst thing that ever happened to you. You can let it define you, shrink you, keep you out of the rooms where you belong. A lot of people do. They never come back.
+
+Or you can make it the thing that gave you more power, more clarity, and more capacity to help others than anything else in your life. You can use it to see what most people never see. You can become the person who stands up when the room is wrong, who catches the pattern before it causes harm, who helps the next person through the thing that almost broke you.
+
+Same event. Same pain. The only difference is the question you ask about it: *Is this the end of everything I've known? Or is this the beginning of something I couldn't have built without it?*
+
+That's your choice. Not once. Every day. And the answer you give will determine whether what happened to you was a tragedy or an origin story.
 
 ---
 
