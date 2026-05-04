@@ -124,7 +124,7 @@ You get to answer that question. And the answer you give will shape everything t
 
 You can make it the end. You can let it define you, shrink you, keep you out of the rooms where you belong. A lot of people do. They never come back.
 
-Or you can make it the beginning — of more power, more clarity, more influence, more connection than you would have ever had without it. You can use what happened to see what most people never see. You can become the person who stands up when the room is wrong, who catches the pattern before it causes harm, who helps the next person through the thing that almost broke you. Someone bigger than you would have ever become if this hadn't happened.
+Or you can make it the beginning — of more power, more clarity, more influence, more connection than you would have ever had without it. You can use what happened to see what most people never see. You can become the person who stands up when the room is wrong, who catches the pattern before it causes harm, who helps the next person through the thing that almost broke you. Someone who feels safe — not because nothing bad can happen, but because you know you can handle whatever does. Someone others trust, lean on, and love for what you bring. Happier, freer, and more powerful than you would have ever become if this hadn't happened.
 
 That's not recovery. That's an origin story. And it's yours to write.
 
