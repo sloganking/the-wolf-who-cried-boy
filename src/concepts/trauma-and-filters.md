@@ -96,7 +96,7 @@ Here's another layer: **stories don't just create feelings. They also direct att
 
 Where you look determines what you see. And what you see determines the story you tell. And the story you tell determines how you feel.
 
-### The Brown/Red Exercise
+### Try This Right Now
 
 Here's an exercise that makes this visceral:
 
