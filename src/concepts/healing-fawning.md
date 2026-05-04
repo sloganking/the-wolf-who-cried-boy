@@ -669,7 +669,7 @@ And when someone trusts you enough to tell you no, knowing you'll receive it wit
 
 ## The Safest Place in the World
 
-For people in [bottom vulnerability](./all-power-is-mutual.md#top-and-bottom-vulnerability) — the ones receiving touch, the ones whose boundaries might be crossed — play spaces may be the safest environments in the world to have sex.
+For people with [bottom vulnerability](./all-power-is-mutual.md#top-and-bottom-vulnerability) — the ones receiving touch, the ones whose boundaries might be crossed — play spaces may be the safest environments in the world to have sex.
 
 You're surrounded by people who share your values. There are facilitators trained to intervene. There are agreements in place. If you say "stop," 30 people will jump to help you. That's not a metaphor — that's the literal design of these spaces. One word, and the room mobilizes on your behalf.
 
