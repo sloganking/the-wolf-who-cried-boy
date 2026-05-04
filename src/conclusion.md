@@ -116,7 +116,7 @@ That's the commitment. Not a promise you make once. A choice you make every time
 
 Whatever brought you to this book — whatever happened to you, whatever you did, whatever you're carrying — you get to decide what it becomes.
 
-Maybe someone attacked your reputation. Maybe you crossed a boundary you didn't see. Maybe you froze when you should have spoken. Maybe you watched someone get hurt and didn't intervene. Maybe you're the facilitator who fawned. Maybe you're the person who got called a predator and lost everything.
+Maybe someone attacked your reputation. Maybe you crossed a boundary you didn't see. Maybe you froze when you should have spoken. Maybe you watched someone get hurt and didn't intervene. Maybe you're a facilitator who fawned. Maybe someone called you a predator and you lost everything.
 
 *Is this the end of everything you've known? Or is this the beginning of something you couldn't have built without it?*
 
