@@ -114,6 +114,8 @@ But if you choose differently—if you pause, see clearly, and respond with wisd
 
 That's the commitment. Not a promise you make once. A choice you make every time it matters.
 
+Whatever brought you to this book — whatever happened to you, whatever you did, whatever you're carrying — you get to decide what it becomes. The worst thing that ever happened to you, or the thing that gave you more power, more clarity, and more capacity to help others than anything else in your life. Same event. Your meaning-making. Your choice.
+
 ---
 
 ## Going Deeper
