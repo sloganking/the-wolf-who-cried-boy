@@ -123,3 +123,25 @@ At a shadow play workshop, everyone shared what they wanted in a sharing circle 
 **Also works for:** Coaching, workshops, talks. The floor-slide energy is better performed than written.
 
 ---
+
+## Potential Second Edition Additions
+
+### Righteous Predation That Mimics Selfishness (Mercy Defense diagnostic layer)
+
+The Mercy Defense section in `appropriate-response.md` describes the pattern of framing over-response as restraint ("you're lucky I'm holding back"). It explains what the behavior looks like and why observers buy it. What it doesn't do is help the reader diagnose *what's driving* the behavior — which matters because the book's own framework says the correct response differs based on type.
+
+Three possible engines underneath the Mercy Defense:
+
+1. **Righteous** — they genuinely believe they're showing mercy. Their frame is so complete that not committing extreme harm feels generous. Basic human decency gets reframed as extraordinary virtue. They're not hiding selfishness — they *are* righteous, all the way down. The actions look selfish (dominance posturing, self-aggrandizement) but the mechanism is pure belief-blindness.
+
+2. **Flooded** — nervous system in survival mode. They feel small and helpless, and making themselves look dangerous is the fight response's way of regaining control. They may not believe what they're saying once they calm down. This is posturing, not conviction.
+
+3. **Blurry to selfish** — some mix of genuine feeling and enjoying the power the display gives them. Ranges from "can't see where the real feeling ends and the self-serving performance begins" (blurry) to "knows exactly what they're doing and uses the implied threat as leverage" (selfish — which is already covered in "the selfish predator's best tool").
+
+The diagnostic confusion — that extreme righteousness can *present* as selfishness on the surface — is a real pitfall. The book's examples of righteous predators (Inquisitors, exile-without-verifying, sinsick projectors) all *look* righteous from the outside. This would be the first example where righteous predation *looks* like ego, dominance, and self-serving behavior, which is how it often presents in real conflicts.
+
+**Rated 7x.** Real diagnostic gap, not a restatement. But a nuance within an existing framework rather than a new framework. The book already teaches "look underneath surfaces" — this makes that instruction more specific for one common pattern.
+
+**Best fit:** Expansion of the Mercy Defense section in `appropriate-response.md`. Could also include a brief personal narration of the diagnostic process (initially thinking blurry, then realizing righteous).
+
+---
