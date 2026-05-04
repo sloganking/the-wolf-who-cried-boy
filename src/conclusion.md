@@ -118,13 +118,15 @@ Whatever brought you to this book — whatever happened to you, whatever you did
 
 Maybe someone attacked your reputation. Maybe you crossed a boundary you didn't see. Maybe you froze when you should have spoken. Maybe you watched someone get hurt and didn't intervene. Maybe you're the facilitator who fawned. Maybe you're the person who got called a predator and lost everything.
 
-You can make that the worst thing that ever happened to you. You can let it define you, shrink you, keep you out of the rooms where you belong. A lot of people do. They never come back.
+*Is this the end of everything you've known? Or is this the beginning of something you couldn't have built without it?*
 
-Or you can make it the thing that gave you more power, more clarity, and more capacity to help others than anything else in your life. You can use it to see what most people never see. You can become the person who stands up when the room is wrong, who catches the pattern before it causes harm, who helps the next person through the thing that almost broke you.
+You get to answer that question. And the answer you give will shape everything that follows.
 
-Same event. Same pain. The only difference is the question you ask about it: *Is this the end of everything I've known? Or is this the beginning of something I couldn't have built without it?*
+You can make it the end. You can let it define you, shrink you, keep you out of the rooms where you belong. A lot of people do. They never come back.
 
-That's your choice. Not once. Every day. And the answer you give will determine whether what happened to you was a tragedy or an origin story.
+Or you can make it the beginning — of more power, more clarity, more influence, more connection than you would have ever had without it. You can use what happened to see what most people never see. You can become the person who stands up when the room is wrong, who catches the pattern before it causes harm, who helps the next person through the thing that almost broke you. Someone bigger than you would have ever become if this hadn't happened.
+
+That's not recovery. That's an origin story. And it's yours to write.
 
 ---
 
