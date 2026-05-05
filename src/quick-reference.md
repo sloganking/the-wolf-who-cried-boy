@@ -8,14 +8,14 @@ Everything in one place. Click any link to jump to the full explanation.
 
 | Framework | What It Does | Where |
 |-----------|-------------|-------|
-| [Severity Scale](./concepts/severity.md) | Rates harm as High / Medium / Low — independent of how it *feels* | Foundation |
-| [Types of Mistakes](./concepts/types-of-mistakes.md) | Classifies mistakes by intent and awareness: Malicious, Harmful Belief, Accident — plus Fawning (outside the matrix) | Foundation |
-| [RBDSMT](./concepts/before-play.md#rbdsmt-the-safer-sex-conversation) | The safer sex conversation — Relationships, Boundaries, Desires, Sexual Health, Meaning & Mistakes, Trauma | Before Play |
-| [The Friction Check](./concepts/before-play.md#the-friction-check-interpretive-compatibility) | Screens for how someone handles ambiguity, conflict, and meaning-making under stress. Three dimensions: Story Style, Repair Style, Communication Clarity | Before Play |
-| [The Trust Baseline](./concepts/before-play.md#the-trust-baseline) | Bidirectional trust threshold — if either person can't trust that a mistake will be treated as a mistake (not malice), play is premature | Before Play |
-| [Drama Triangle](./concepts/drama-triangle.md) | Victim / Persecutor / Rescuer — the three roles people cycle through | Core Reframe |
+| [Severity Scale](./concepts/severity.md) | Rates harm as High / Medium / Low — independent of how it *feels* | Seeing Clearly |
+| [Types of Mistakes](./concepts/types-of-mistakes.md) | Classifies mistakes by intent and awareness: Malicious, Harmful Belief, Accident — plus Fawning (outside the matrix) | Seeing Clearly |
+| [RBDSMT](./concepts/before-play.md#rbdsmt-the-safer-sex-conversation) | The safer sex conversation — Relationships, Boundaries, Desires, Sexual Health, Meaning & Mistakes, Trauma | Before You Play |
+| [The Friction Check](./concepts/before-play.md#the-friction-check-interpretive-compatibility) | Screens for how someone handles ambiguity, conflict, and meaning-making under stress. Three dimensions: Story Style, Repair Style, Communication Clarity | Before You Play |
+| [The Trust Baseline](./concepts/before-play.md#the-trust-baseline) | Bidirectional trust threshold — if either person can't trust that a mistake will be treated as a mistake (not malice), play is premature | Before You Play |
+| [Drama Triangle](./concepts/drama-triangle.md#the-three-roles) | Victim / Persecutor / Rescuer — the three roles people cycle through | The Patterns |
 | [The Promise](./concepts/before-you-facilitate.md#the-promise) | The facilitator's public commitment that determines how incidents are handled | For Facilitators |
-| [Appropriate Response](./concepts/appropriate-response.md) | Match response severity to harm severity — not to fear | How to Respond |
+| [Appropriate Response](./concepts/appropriate-response.md) | Match response severity to harm severity — not to fear | When Something Goes Wrong |
 
 ---
 
@@ -23,31 +23,31 @@ Everything in one place. Click any link to jump to the full explanation.
 
 | Tool | What It Does | Where |
 |------|-------------|-------|
-| [Notice, Feel, Story](./tools/notice-feel-story.md) | Separate what happened from what you felt from the story you built | Foundation |
-| [Gun Test](./tools/gun-test.md) | Self-check: Am I fit to play right now? | Before Play |
-| [100% Control](./tools/100-percent-control.md) | Both people had 100% control over the outcome — empowers without blaming | Core Reframe |
-| [Influence Firewall](./tools/influence-firewall.md) | Detects whether someone's words install fear, urgency, and guilt — or observation, curiosity, and verification. Consent for ideas, not just touch | Foundation |
-| [How to Check](./concepts/trauma-and-filters.md#how-to-check) | Three questions before you act on a feeling: (1) Would I react this intensely if it weren't my partner? (2) Did they ask for this? (3) What am I actually afraid of? | Trauma & Filters |
+| [Notice, Feel, Story](./tools/notice-feel-story.md) | Separate what happened from what you felt from the story you built | Seeing Clearly |
+| [Gun Test](./tools/gun-test.md) | Self-check: Am I fit to play right now? | Before You Play |
+| [100% Control](./tools/100-percent-control.md) | Both people had 100% control over the outcome — empowers without blaming | Taking Responsibility |
+| [Influence Firewall](./tools/influence-firewall.md) | Detects whether someone's words install fear, urgency, and guilt — or observation, curiosity, and verification. Consent for ideas, not just touch | Seeing Clearly |
+| [How to Check](./concepts/trauma-and-filters.md#how-to-check) | Three questions before you act on a feeling: (1) Would I react this intensely if it weren't my partner? (2) Did they ask for this? (3) What am I actually afraid of? | What's Running You |
 
 ---
 
 ## Key Distinctions
 
-| Distinction | The Point |
-|-------------|-----------|
-| [Severity vs. Feeling](./concepts/severity.md#feelings-dont-determine-severity) | How bad something *feels* and how bad it *is* are independent. High fear doesn't mean high severity. |
-| [Righteous Predator vs. Selfish Predator](./concepts/why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) | Most "predators" are righteous — causing harm while genuinely believing they're helping. The selfish predator who knowingly exploits is far rarer. We have a word for the second. We didn't have one for the first. |
-| [Narrative Lock](./concepts/invisible-patterns.md#narrative-lock) | When someone stops processing new information and filters everything to confirm their existing story. Repair becomes structurally impossible. |
-| [Fawning](./concepts/fawning.md) | When "yes" means "no" — a trauma response that creates two victims. The fawner is harmed by their own compliance, and the other person is set up to look like an aggressor. |
-| [Pre-framing](./concepts/before-you-facilitate.md#pre-framing-the-flip-side) | The first frame presented tends to stick. Facilitators can pre-frame groups toward trust and repair instead of fear and accusation. |
-| [Love vs. Jealousy](./concepts/trauma-and-filters.md#how-to-check) | Love is wanting someone's happiness. Jealousy is wanting to control who gives it to them. If your actions make the person you love less happy and more afraid, what's driving you isn't love. |
-| [Own Your Part — Not Theirs](./concepts/own-your-part.md) | Take full responsibility for what you did. Refuse to carry what isn't yours. Accepting false responsibility keeps them stuck in the story that's causing their pain. |
-| [Sinsickness](./concepts/i-made-a-mistake.md#sinsickness) | When your moral immune system attacks *you*. Shame that targets identity ("I AM bad") instead of behavior ("I DID something bad"). Can be fatal to growth. |
-| [Body Stories](./concepts/body-stories.md) | Trauma stored in the body as automatic meaning-making — not memories you recall, but patterns that fire before conscious thought. The feeling comes first, then the brain builds a story to explain it. |
-| [Top & Bottom Vulnerability](./concepts/all-power-is-mutual.md#top-and-bottom-vulnerability) | Bottom vulnerability (physical exposure) has a safeword and cultural protection. Top vulnerability (reputational exposure) has neither. The person who looks least vulnerable is often most vulnerable. |
-| [Belief-Blindness](./concepts/why-rescuers-are-dangerous.md#what-belief-blindness-looks-like) | The inability to see past a belief so normalized it doesn't register as a belief. Intelligence makes you better at *defending* a blind belief, not seeing through it. |
-| [Harmless Is Not Peaceful](./concepts/harmless-is-not-peaceful.md) | A person who can't be dangerous isn't choosing peace — they're just incapable. True restraint requires having the capacity for destruction AND the wisdom to hold it. |
-| [Serving vs. Pleasing](./concepts/walking-your-talk.md) | Serving means doing what's right for them, even if it makes them mad. Pleasing means doing what keeps them comfortable, even if it harms them. |
+| Distinction | The Point | Where |
+|-------------|-----------|-------|
+| [Severity vs. Feeling](./concepts/severity.md#feelings-dont-determine-severity) | How bad something *feels* and how bad it *is* are independent. High fear doesn't mean high severity. | Seeing Clearly |
+| [Righteous Predator vs. Selfish Predator](./concepts/why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) | Most "predators" are righteous — causing harm while genuinely believing they're helping. The selfish predator who knowingly exploits is far rarer. We have a word for the second. We didn't have one for the first. | The Central Insight |
+| [Narrative Lock](./concepts/invisible-patterns.md#narrative-lock) | When someone stops processing new information and filters everything to confirm their existing story. Repair becomes structurally impossible. | What's Running You |
+| [Fawning](./concepts/fawning.md#what-is-fawning) | When "yes" means "no" — a trauma response that creates two victims. The fawner is harmed by their own compliance, and the other person is set up to look like an aggressor. | The Patterns |
+| [Pre-framing](./concepts/before-you-facilitate.md#pre-framing-the-flip-side) | The first frame presented tends to stick. Facilitators can pre-frame groups toward trust and repair instead of fear and accusation. | For Facilitators |
+| [Love vs. Jealousy](./concepts/trauma-and-filters.md#how-to-check) | Love is wanting someone's happiness. Jealousy is wanting to control who gives it to them. If your actions make the person you love less happy and more afraid, what's driving you isn't love. | What's Running You |
+| [Own Your Part — Not Theirs](./concepts/own-your-part.md#the-balance) | Take full responsibility for what you did. Refuse to carry what isn't yours. Accepting false responsibility keeps them stuck in the story that's causing their pain. | Taking Responsibility |
+| [Sinsickness](./concepts/i-made-a-mistake.md#sinsickness) | When your moral immune system attacks *you*. Shame that targets identity ("I AM bad") instead of behavior ("I DID something bad"). Can be fatal to growth. | When Something Goes Wrong |
+| [Body Stories](./concepts/body-stories.md#what-trauma-actually-is) | Trauma stored in the body as automatic meaning-making — not memories you recall, but patterns that fire before conscious thought. The feeling comes first, then the brain builds a story to explain it. | What's Running You |
+| [Top & Bottom Vulnerability](./concepts/all-power-is-mutual.md#top-and-bottom-vulnerability) | Bottom vulnerability (physical exposure) has a safeword and cultural protection. Top vulnerability (reputational exposure) has neither. The person who looks least vulnerable is often most vulnerable. | Taking Responsibility |
+| [Belief-Blindness](./concepts/why-rescuers-are-dangerous.md#what-belief-blindness-looks-like) | The inability to see past a belief so normalized it doesn't register as a belief. Intelligence makes you better at *defending* a blind belief, not seeing through it. | The Central Insight |
+| [Harmless Is Not Peaceful](./concepts/harmless-is-not-peaceful.md#the-integration) | A person who can't be dangerous isn't choosing peace — they're just incapable. True restraint requires having the capacity for destruction AND the wisdom to hold it. | The Point of Sight |
+| [Serving vs. Pleasing](./concepts/walking-your-talk.md#the-gap-between-knowing-and-being) | Serving means doing what's right for them, even if it makes them mad. Pleasing means doing what keeps them comfortable, even if it harms them. | For Facilitators |
 
 ---
 
