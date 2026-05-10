@@ -69,3 +69,17 @@ Everyone. Not just staff.
 Participants see things facilitators miss. They're in the scenes. They're in the conversations. They notice when someone's energy shifts, when a dynamic feels off, when someone is going quiet in a way that doesn't look like choice. Staff can't be everywhere — and even when they are, they're watching from the outside. Someone who just shared a touch exercise with another participant — who felt their energy shift, who noticed them go quiet — often has better information than a facilitator watching from across the room.
 
 This is why protected reporting applies to participants, not just staff. A participant who notices a red flag and tells a facilitator is doing exactly what the community needs. That report — "hey, I noticed something during that exercise, it might be nothing, but I wanted to flag it" — is the kind of information that prevents the next incident. It's the near-miss report that keeps the system learning.
+
+---
+
+## What a Learning Community Looks Like
+
+When reporting is safe, the entire dynamic inverts.
+
+Someone crosses a boundary. The person whose boundary was crossed goes to the facilitator — not because they want the other person punished, but because they know the facilitator will help them figure out what happened and what to do about it. The facilitator talks to both people. The person who made the mistake says "I didn't realize — I'm sorry, here's what I'll do differently." The person whose boundary was crossed feels heard. Both stay in community. Both learned something. Everyone who witnessed it learned something too.
+
+Someone notices a red flag — a participant who seems activated, a pairing that looks like it's heading toward friction. They mention it to a facilitator. The facilitator keeps an eye on it. Maybe nothing happens. Maybe the facilitator steps in early and has a quiet conversation that redirects the whole evening. Either way, no catastrophe. No drama. No story spreading through the group. Just a community paying attention to itself.
+
+Someone makes a mistake and admits it — to the facilitator, to the person they harmed, maybe to the group. Not because they're performing accountability, but because admitting it is safe. The community responds with proportional action: repair where repair is needed, education where education is needed, a boundary where a boundary is needed. The person who made the mistake stays. They show up differently next time. The community watches them show up differently — and that becomes the model for what happens when you mess up here.
+
+This is what proportional response creates. Not a community where nothing goes wrong — that doesn't exist. A community where things go wrong and people actually deal with them. Where mistakes become learning instead of destruction. Where the system gets smarter over time because it can see what's happening instead of being blinded by its own fear.
