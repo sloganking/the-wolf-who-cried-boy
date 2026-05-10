@@ -306,6 +306,7 @@ When someone makes an honest mistake and gets destroyed for it — reputation at
 
 And silence blinds the community. Facilitators can't address patterns they never hear about. Participants can't learn from mistakes nobody admits to. The problems don't disappear — they go underground, where they compound until something catastrophic happens that can't be hidden. The community that punished small mistakes to "keep people safe" made itself unable to see the big ones coming.
 
+This isn't theoretical. It's the principle behind protected reporting in industries like aviation, where mistakes are high severity — when crews can report errors and near-misses without career consequences, systemic problems get caught before they become catastrophic. The reporting doesn't work because people are noble. It works because the system made honesty safe.
 ## Under-Response: The Invisible Failure
 
 Over-response is visible. Someone screams, threatens, mobilizes — everyone sees it. Under-response is invisible. Nothing happens. And because nothing happens, no one notices — including you.
