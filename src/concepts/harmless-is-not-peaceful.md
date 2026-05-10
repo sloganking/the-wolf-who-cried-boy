@@ -22,7 +22,7 @@ The book has described both of these in detail. Here they are side by side.
 
 **The person with no sword.** The [fawner](./fawning.md). Agreeable, empathetic, accommodating. Everyone likes them. They never threaten anyone — because they can't. When someone crosses their boundary, they absorb it. When someone attacks them, they appease. They look peaceful, but they're not choosing peace. They're incapable of confrontation. Their "restraint" isn't restraint. It's paralysis.
 
-They confuse sensitivity with passivity. Empathy with softness. Grace with weakness.
+They confuse passivity with sensitivity. Softness with empathy. Weakness with grace.
 
 **The person with no sheath.** The [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator). Reactive, aggressive, certain they're justified. When someone makes a mistake, they swing with everything they have. They don't pause to [verify](./before-you-judge.md). They don't calibrate their response to [severity](./severity.md). They don't ask whether the sword is warranted — they just cut. Their power isn't restrained by judgment. It's unleashed by emotion.
 
