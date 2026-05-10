@@ -38,7 +38,7 @@ The person this book is building has both.
 
 They can see clearly enough to know when destruction is warranted. They can hit hard enough to make it count. And they can hold the sword still when it doesn't need to swing.
 
-This person has [claws](./healing-fawning.md). They can say no and enforce it. They can confront someone who's causing harm. They can tell a facilitator "what you did wasn't okay" and follow up when nothing is done. They can set a boundary with someone [making death threats](./handling-threats-of-violence.md) and enforce it without flinching. They have the full capacity for destruction — and that capacity is exactly what makes their restraint meaningful.
+This person has [claws](./healing-fawning.md). They can say no and enforce it. They can confront someone who's causing harm. They can tell a facilitator "what you did caused harm, and I want something done about it" and follow up when nothing is done. They can set a boundary with someone [making death threats](./handling-threats-of-violence.md) and enforce it without flinching. They have the full capacity for destruction — and that capacity is exactly what makes their restraint meaningful.
 
 When this person chooses [proportional response](./appropriate-response.md), it's not because they can't do more. It's because they're choosing precision over chaos. When they choose empathy, it's not because they're too weak to fight. It's because they [see clearly](./before-you-judge.md#are-you-a-qualified-source) enough to know the fight isn't warranted. When they choose [repair over punishment](./repair.md), it's not capitulation. It's a person with a sword choosing to build instead of cut.
 
