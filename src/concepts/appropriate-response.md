@@ -298,15 +298,12 @@ The facilitators can figure out which it is and handle it appropriately. But the
 
 ---
 
-## What Over-Response Does to Communities
+## [The Culture of Punishment](./punishment-culture.md)
 
-Over-response doesn't just harm the person it's aimed at. It reshapes the entire community around it.
+Over-response doesn't just harm the person it's aimed at — it reshapes the entire community. When mistakes are met with annihilation, everyone learns to hide. For the full picture of what punishment culture does to communities — including how it silences the very people it claims to protect — see [The Culture of Punishment](./punishment-culture.md).
 
-When someone makes an honest mistake and gets destroyed for it — reputation attacked, removed from community, treated like a predator — every person watching learns the same lesson: *don't get caught.* Not "don't make mistakes." Mistakes are inevitable. The lesson is: *hide them.* Don't admit what happened. Don't bring it up. Don't report the near-miss. Don't tell the facilitator about the red flag you noticed. Because if the community's response to an honest mistake is annihilation, the only rational move is silence.
+---
 
-And silence blinds the community. Facilitators can't address patterns they never hear about. Participants can't learn from mistakes nobody admits to. The problems don't disappear — they go underground, where they compound until something catastrophic happens that can't be hidden. The community that punished small mistakes to "keep people safe" made itself unable to see the big ones coming.
-
-This isn't theoretical. It's the principle behind protected reporting in industries like aviation, where mistakes are high severity — when crews can report errors and near-misses without career consequences, systemic problems get caught before they become catastrophic. The reporting doesn't work because people are noble. It works because the system made honesty safe.
 ## Under-Response: The Invisible Failure
 
 Over-response is visible. Someone screams, threatens, mobilizes — everyone sees it. Under-response is invisible. Nothing happens. And because nothing happens, no one notices — including you.
