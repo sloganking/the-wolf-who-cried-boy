@@ -50,7 +50,7 @@ Not just incidents. Not just boundary crossings that already happened. The most 
 - Two people whose [filters may magnetize](./invisible-patterns.md#when-filters-find-each-other) — one scanning for threats, the other bracing for attack, or any combination of complementary patterns that tend to create the conflict both people fear
 - A participant with a strong [fawning](./fawning.md#what-is-fawning) pattern — a facilitator who notices this can talk with them before they play and give them tools to protect themselves, like telling their partner "I fawn — will you check in with me a lot during play?" That one conversation can change their entire experience
 
-These are weather reports, not accusations. "I noticed something that might become a problem" is different from "that person is a predator." The first gives the facilitator information to act on. The second installs a [story](./trauma-and-filters.md#the-story-happens-instantly) that skips verification.
+These are weather reports, not accusations. "I noticed something that might become a problem" gives the facilitator information to act on. "That person is dangerous and you need to do something about it" installs a [story](./trauma-and-filters.md#the-story-happens-instantly) and skips verification. Same concern — completely different function.
 
 ### What Makes It Work
 
