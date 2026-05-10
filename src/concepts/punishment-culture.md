@@ -47,8 +47,8 @@ The principle is simple: anyone — staff or participant — can report a mistak
 Not just incidents. Not just boundary crossings that already happened. The most valuable reports are the ones that come _before_ anything goes wrong:
 
 - A participant whose [filters](./trauma-and-filters.md) seem primed for danger — scanning for threats, [reading aggression into a strength exercise](./body-stories.md#stories-and-the-problems-they-create), making comments that suggest they're about to interpret everything as an attack
-- A dynamic between two people that looks like it's building toward a miscommunication — one person escalating intensity, the other going quiet
-- Someone who seems to be [fawning](./fawning.md#what-is-fawning) — saying yes to everything, not checking in with themselves, going along with whatever's happening
+- Two people whose [filters may magnetize](./invisible-patterns.md#when-filters-find-each-other) — one scanning for threats, the other bracing for attack, or any combination of complementary patterns that tend to create the conflict both people fear
+- A participant with a strong [fawning](./fawning.md#what-is-fawning) pattern — a facilitator who notices this can talk with them before they play and give them tools to protect themselves, like telling their partner "I fawn — will you check in with me a lot during play?" That one conversation can change their entire experience
 
 These are weather reports, not accusations. "I noticed something that might become a problem" is different from "that person is a predator." The first gives the facilitator information to act on. The second installs a [story](./trauma-and-filters.md#the-story-happens-instantly) that skips verification.
 
