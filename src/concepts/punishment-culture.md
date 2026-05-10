@@ -66,6 +66,6 @@ Protected reporting only works if three things are true:
 
 Everyone. Not just staff.
 
-Participants see things facilitators miss. They're in the scenes. They're in the conversations. They notice when someone's energy shifts, when a dynamic feels off, when someone is going quiet in a way that doesn't look like choice. Staff can't be everywhere — and even when they are, they're watching from the outside. The person next to you often has better information than the person across the room.
+Participants see things facilitators miss. They're in the scenes. They're in the conversations. They notice when someone's energy shifts, when a dynamic feels off, when someone is going quiet in a way that doesn't look like choice. Staff can't be everywhere — and even when they are, they're watching from the outside. Someone who just shared a touch exercise with another participant — who felt their energy shift, who noticed them go quiet — often has better information than a facilitator watching from across the room.
 
 This is why protected reporting applies to participants, not just staff. A participant who notices a red flag and tells a facilitator is doing exactly what the community needs. That report — "hey, I noticed something during that exercise, it might be nothing, but I wanted to flag it" — is the kind of information that prevents the next incident. It's the near-miss report that keeps the system learning.
