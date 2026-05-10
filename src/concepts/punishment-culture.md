@@ -2,7 +2,7 @@
 
 Over-response doesn't just harm the person it's aimed at. It reshapes the entire community around it.
 
-When someone makes an honest mistake and gets destroyed for it — reputation attacked, removed from community, treated like a predator — every person watching learns the same lesson: *don't get caught.* Not "don't make mistakes." Mistakes are inevitable. The lesson is: *hide them.* Don't admit what happened. Don't bring it up. Don't report the near-miss. Don't tell the facilitator about the red flag you noticed. Because if the community's response to an honest mistake is annihilation, the only rational move is silence.
+When someone makes an honest mistake and gets destroyed for it — reputation attacked, removed from community, treated like a predator — every person watching learns the same lesson: _don't get caught._ Not "don't make mistakes." Mistakes are inevitable. The lesson is: _hide them._ Don't admit what happened. Don't bring it up. Don't report the near-miss. Don't tell the facilitator about the red flag you noticed. Because if the community's response to an honest mistake is annihilation, the only rational move is silence.
 
 ### It Silences the People It Claims to Protect
 
@@ -10,7 +10,7 @@ Here's what nobody in a punishment culture is thinking about: it doesn't just si
 
 Imagine someone crosses your boundary at an event. It wasn't malicious — a miscommunication, a moment of unconsciousness, something that shook you. You'd like to talk to a facilitator about it. You'd like help making sense of what happened, maybe support in having a conversation with the person. You'd like someone with clear eyes to help you process it.
 
-But you saw what happened to the last person who got reported. Called a predator. Publicly shamed. Removed from the community. Their name turned into a warning. And what happened to you isn't that. It was a boundary crossing, not an attack. You don't want *that* to happen to this person. You just want it addressed.
+But you saw what happened to the last person who got reported. Called a predator. Publicly shamed. Removed from the community. Their name turned into a warning. And what happened to you isn't that. It was a boundary crossing, not an attack. You don't want _that_ to happen to this person. You just want it addressed.
 
 So you say nothing. You don't go to the facilitator. You don't get help. You carry it alone — not because nobody would listen, but because the system's response to a report is so disproportionate that using it feels like pulling a fire alarm for a candle. The very system built to protect you is too dangerous to use.
 
@@ -18,7 +18,7 @@ So you say nothing. You don't go to the facilitator. You don't get help. You car
 
 Now both sides are silent. The person who made the mistake hides it. The person whose boundary was crossed hides it. The facilitator hears nothing.
 
-And because the facilitator hears nothing, nobody learns how to prevent it from happening again. The facilitator doesn't learn — they can't look at patterns across events and realize *we keep having problems in this specific situation, let's redesign the container to reduce them.* They can't improve what they can't see. And participants don't learn either — because if a boundary crossing gets handled through quiet repair instead of public destruction, other participants get to witness it and think: *that could have been me. I took sleeping medication last night and my scene went fine — but now I see what can happen when you're not fully present, and I don't want that.* That's learning. That's how a community actually gets safer. But when everything is hidden, nobody gets that moment.
+And because the facilitator hears nothing, nobody learns how to prevent it from happening again. The facilitator doesn't learn — they can't look at patterns across events and realize _we keep having problems in this specific situation, let's redesign the container to reduce them._ They can't improve what they can't see. And participants don't learn either — because if a boundary crossing gets handled through quiet repair instead of public destruction, other participants get to witness it and think: _that could have been me. I took sleeping medication last night and my scene went fine — but now I see what can happen when you're not fully present, and I don't want that._ That's learning. That's how a community actually gets safer. But when everything is hidden, nobody gets that moment.
 
 This is [fear creating what it fears](./invisible-patterns.md#the-thing-youre-most-afraid-of-is-the-thing-your-fear-creates).
 
@@ -28,7 +28,7 @@ The community that punishes the hardest learns the slowest. And the community th
 
 ### Who Stays and Who Leaves
 
-Over time, a punishment culture selects its own members. The people with the most self-awareness — the ones who notice their own mistakes, who worry about crossing lines, who would benefit most from a space that helps them grow — are the first to leave. They see the punishment and think: *I could be next. I'm not perfect. I make mistakes. This isn't safe for me.* They stop coming. Or they come and participate as little as possible, staying small and invisible — which is [fawning](./fawning.md#what-is-fawning).
+Over time, a punishment culture selects its own members. The people with the most self-awareness — the ones who notice their own mistakes, who worry about crossing lines, who would benefit most from a space that helps them grow — are the first to leave. They see the punishment and think: _I could be next. I'm not perfect. I make mistakes. This isn't safe for me._ They stop coming. Or they come and participate as little as possible, staying small and invisible — which is [fawning](./fawning.md#what-is-fawning).
 
 The people who stay are the ones who either don't notice the punishment culture (oblivious), don't think it applies to them ([overconfident](./body-stories.md#stories-and-the-problems-they-create)), or thrive in it (the [righteous predators](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) who see themselves as enforcers). The community gradually fills with the people least equipped to create safety and empties of the people most equipped to create it.
 
@@ -44,7 +44,7 @@ The principle is simple: anyone — staff or participant — can report a mistak
 
 ### What Gets Reported
 
-Not just incidents. Not just boundary crossings that already happened. The most valuable reports are the ones that come *before* anything goes wrong:
+Not just incidents. Not just boundary crossings that already happened. The most valuable reports are the ones that come _before_ anything goes wrong:
 
 - A participant whose [filters](./trauma-and-filters.md) seem primed for danger — scanning for threats, [reading aggression into a strength exercise](./body-stories.md#stories-and-the-problems-they-create), making comments that suggest they're about to interpret everything as an attack
 - A dynamic between two people that looks like it's building toward a miscommunication — one person escalating intensity, the other going quiet
@@ -60,7 +60,7 @@ Protected reporting only works if three things are true:
 
 **2. Reports are treated as information, not verdicts.** A report means "something happened that's worth looking at." It doesn't mean "this person is guilty." The facilitator investigates, talks to the people involved, and determines what actually happened before taking action. This is the difference between a report and a [witch hunt](./before-you-judge.md#the-witch-hunt-dynamic).
 
-**3. The facilitator has said this out loud.** This is part of [The Promise](./before-you-facilitate.md#the-promise). Before the event starts, the facilitator tells the group: *if something happens — if a boundary gets crossed, if something feels off, if you notice a red flag — tell us. We will handle it proportionally. We will not destroy someone over an honest mistake. Your report will be used to make things better, not to punish.* If participants don't know reporting is safe, it doesn't matter that it is. The safety has to be stated before it can be trusted.
+**3. The facilitator has said this out loud.** This is part of [The Promise](./before-you-facilitate.md#the-promise). Before the event starts, the facilitator tells the group: _if something happens — if a boundary gets crossed, if something feels off, if you notice a red flag — tell us. We will handle it proportionally. We will not destroy someone over an honest mistake. Your report will be used to make things better, not to punish._ If participants don't know reporting is safe, it doesn't matter that it is. The safety has to be stated before it can be trusted.
 
 ### Who Reports
 
