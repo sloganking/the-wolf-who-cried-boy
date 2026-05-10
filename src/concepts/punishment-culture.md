@@ -25,3 +25,11 @@ This is [fear creating what it fears](./invisible-patterns.md#the-thing-youre-mo
 The community punishes boundary crossings to prevent boundary crossings. The punishment makes people afraid to report boundary crossings. Because nobody reports, the community never learns what's causing them. Because the community never learns, the same conditions persist. More boundaries get crossed. More punishment. More silence. More crossings.
 
 The community that punishes the hardest learns the slowest. And the community that learns the slowest has the most to punish.
+
+### Who Stays and Who Leaves
+
+Over time, a punishment culture selects its own members. The people with the most self-awareness — the ones who notice their own mistakes, who worry about crossing lines, who would benefit most from a space that helps them grow — are the first to leave. They see the punishment and think: *I could be next. I'm not perfect. I make mistakes. This isn't safe for me.* They stop coming. Or they come and participate as little as possible, staying small and invisible — which is [fawning](./fawning.md#what-is-fawning).
+
+The people who stay are the ones who either don't notice the punishment culture (oblivious), don't think it applies to them (overconfident), or thrive in it (the [righteous predators](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) who see themselves as enforcers). The community gradually fills with the people least equipped to create safety and empties of the people most equipped to create it.
+
+This is the same pattern described in [the boy who cried wolf](./why-rescuers-are-dangerous.md): the people who see clearly get driven out, and every time one of them leaves, the average drops. Eventually you're left with a community that sees wolves everywhere, led by the person who sees the most wolves that aren't there.
