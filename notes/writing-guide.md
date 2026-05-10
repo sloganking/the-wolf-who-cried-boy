@@ -54,6 +54,7 @@ Write in a way that's hard to argue with:
 - Describe patterns, not people
 - Use "Notice, Feel, Story" style framing when possible
 - Acknowledge complexity rather than oversimplifying
+- Don't assert facts the reader can't verify in context. Describe mechanisms and patterns — those are inarguable. Historical claims and statistics require the reader to trust you, which is the opposite of what this book teaches. If referencing an external example, describe what it does, not what it "proved."
 
 ### 5. Be a Co-Author, Not a Bot
 
