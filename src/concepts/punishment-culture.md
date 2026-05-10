@@ -83,3 +83,17 @@ Someone notices a red flag — a participant who seems activated, a pairing that
 Someone makes a mistake and admits it — to the facilitator, to the person they harmed, maybe to the group. Not because they're performing accountability, but because admitting it is safe. The community responds with proportional action: repair where repair is needed, education where education is needed, a boundary where a boundary is needed. The person who made the mistake stays. They show up differently next time. The community watches them show up differently — and that becomes the model for what happens when you mess up here.
 
 This is what proportional response creates. Not a community where nothing goes wrong — that doesn't exist. A community where things go wrong and people actually deal with them. Where mistakes become learning instead of destruction. Where the system gets smarter over time because it can see what's happening instead of being blinded by its own fear.
+
+Punishment cultures feel safe. They feel righteous. They feel like they're protecting people. But they protect nobody — not the people who make mistakes, who hide instead of grow. Not the people whose boundaries are crossed, who stay silent instead of getting help. Not the facilitators, who make decisions in the dark. Not the community, which slowly fills with the people least equipped to build what everyone says they want.
+
+Proportional response isn't just fairer. It's what allows a community to see.
+
+---
+
+## Related
+
+- [Appropriate Response](./appropriate-response.md) — Match response severity to harm severity
+- [Before You Judge](./before-you-judge.md#are-you-a-qualified-source) — Become a qualified source before acting
+- [Before You Facilitate](./before-you-facilitate.md#the-promise) — The Promise that makes protected reporting possible
+- [Invisible Patterns](./invisible-patterns.md#the-thing-youre-most-afraid-of-is-the-thing-your-fear-creates) — Fear creates what it fears
+- [Why Rescuers Are Dangerous](./why-rescuers-are-dangerous.md#the-village-always-finds-a-wolf) — How communities select for blindness
