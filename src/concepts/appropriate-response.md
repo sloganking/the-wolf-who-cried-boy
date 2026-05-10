@@ -298,6 +298,14 @@ The facilitators can figure out which it is and handle it appropriately. But the
 
 ---
 
+## What Over-Response Does to Communities
+
+Over-response doesn't just harm the person it's aimed at. It reshapes the entire community around it.
+
+When someone makes an honest mistake and gets destroyed for it — reputation attacked, removed from community, treated like a predator — every person watching learns the same lesson: *don't get caught.* Not "don't make mistakes." Mistakes are inevitable. The lesson is: *hide them.* Don't admit what happened. Don't bring it up. Don't report the near-miss. Don't tell the facilitator about the red flag you noticed. Because if the community's response to an honest mistake is annihilation, the only rational move is silence.
+
+And silence blinds the community. Facilitators can't address patterns they never hear about. Participants can't learn from mistakes nobody admits to. The problems don't disappear — they go underground, where they compound until something catastrophic happens that can't be hidden. The community that punished small mistakes to "keep people safe" made itself unable to see the big ones coming.
+
 ## Under-Response: The Invisible Failure
 
 Over-response is visible. Someone screams, threatens, mobilizes — everyone sees it. Under-response is invisible. Nothing happens. And because nothing happens, no one notices — including you.
