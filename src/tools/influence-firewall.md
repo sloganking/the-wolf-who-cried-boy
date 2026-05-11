@@ -154,6 +154,14 @@ You don't have to catch every sentence someone says to notice the pattern. You j
 
 If someone consistently leaves you feeling scared and urgent, that's data — regardless of how reasonable their words sound. It's the same principle as noticing that you always feel drained after visiting a particular friend, even though you can't point to any specific thing they said. The pattern is the signal. And if you're already predisposed to seeing certain things in a fearful way, spending time with someone who reinforces that fear isn't helping you see clearly — it's like trying to quit smoking while all your friends are smokers.
 
+### This Tool Scales
+
+Everything above applies to one person talking to you. The same labels work on the language your community uses as a whole.
+
+When the dominant conversation in a group shifts toward fear, urgency, moral certainty, and dehumanization — when people start talking about categories instead of individuals, when "something must be done" replaces "let's find out what happened," when the emotional weather goes from curiosity to dread — that's the community-level version of the same pattern. You're not listening to one person install fear. You're listening to a culture install it in everyone simultaneously.
+
+You don't need a new tool for this. You just need to point the same one at a wider signal. Label what the community's language is doing: *Fear. Urgency. Dehumanization. Recruitment. Moral certainty.* If that's the weather, a [righteous predator](../concepts/why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) storm is forming — and the time to act is before it lands, not after.
+
 ---
 
 ## Related
