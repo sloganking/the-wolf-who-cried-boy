@@ -36,7 +36,7 @@ This is why so many misunderstandings happen. This is why people cry wolf when t
 
 Because if someone doesn't see their power now, they're going to keep suffering.
 
-Every future relationship. Every recurring pattern. The same pain, over and over. Helping them wake up to their responsibility isn't about making them feel bad—it's about freeing them from a loop they can't escape while they're blind to it.
+Every future relationship. Every recurring pattern. The same pain, over and over. Helping them wake up to their power isn't about making them feel bad—it's about freeing them from a loop they can't escape while they're blind to it.
 
 You're not doing this to win an argument. You're doing it because you've seen what happens when people stay stuck. And you don't want that for them.
 
