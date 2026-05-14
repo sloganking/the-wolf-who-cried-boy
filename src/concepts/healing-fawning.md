@@ -687,9 +687,13 @@ The consequence of not doing this isn't confrontation. Fawners don't fight you. 
 
 #### If You're the Fawner
 
-This applies to you too. If interacting with someone is consistently hard — if being honest with them requires a fight every time — notice the negative association building. You're not going to push through it forever. You're going to leave. And leaving without telling them why is just more fawning.
+This applies to you too. You might already know you want to stop. You might know exactly what you need to say. The problem isn't that you haven't figured it out — it's that saying it feels like a fight every single time, and eventually you stop trying.
 
-The move is to name it early: "I notice it's hard for me to say no to you. I want to have a good relationship with you, and right now the way we interact makes honesty feel expensive. Can we change something?" That's not an accusation. It's a [weather report](./punishment-culture.md#what-gets-reported). And it gives them a chance to adjust before the relationship dies in silence.
+When someone consistently makes honesty expensive — pushback on every no, no pauses to speak into, guilt when you decline — a negative association builds. Not because you don't know what you want, but because getting it heard requires more energy than you have. So you stay quiet. You go along. And eventually you leave.
+
+Leaving without telling them why is just more fawning. It's the path of least resistance — which is exactly why your nervous system picks it.
+
+The move is to name it before that happens: "I notice it's hard for me to say no to you. I want to have a good relationship with you, and right now the way we interact makes honesty feel expensive. Can we change something?" That's not an accusation. It's a [weather report](./punishment-culture.md#what-gets-reported). And it gives them a chance to adjust before the relationship dies in silence.
 
 ## The Safest Place in the World
 
