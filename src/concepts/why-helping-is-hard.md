@@ -28,13 +28,7 @@ Their filter cycles through: _If they're not selfishly trying to sell me somethi
 
 Your benevolent intent gets interpreted as hidden manipulation. You're trying to help them see their power, so they can end their suffering—and they hear you saying it's their fault. You're trying to free them from a loop—and they think you're dodging accountability.
 
-This is why so many misunderstandings happen. This is why people cry wolf when there are no wolves. **They can't conceive of selflessness, even when it's standing right in front of them, so they interpret it as disguised selfishness.**
-
-### The Inversion Most People Miss
-
-Most people assume being selfish is easy and being selfless takes strength. It's actually the opposite. (See: [Being Selfish Is Hard](./before-you-judge.md#being-selfish-is-hard))
-
-But because the cultural story says humans are selfish, anyone who _appears_ selfless must be hiding something. And anyone trying to help you see your own power must be trying to get out of theirs.
+This is why so many misunderstandings happen. This is why people cry wolf when there are no wolves. **They can't conceive of selflessness, even when it's standing right in front of them, so they interpret it as disguised selfishness.** The cultural story says humans are selfish — so anyone who appears selfless must be hiding something, and anyone trying to help you see your own power must be trying to get out of theirs. Most people assume being selfish is easy and being selfless takes strength. It's actually the opposite. (See: [Being Selfish Is Hard](./before-you-judge.md#being-selfish-is-hard))
 
 ---
 
