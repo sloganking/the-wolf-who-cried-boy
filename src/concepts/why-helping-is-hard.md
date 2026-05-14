@@ -32,7 +32,7 @@ This is why so many misunderstandings happen. This is why people cry wolf when t
 
 ### The Inversion Most People Miss
 
-Most people assume being selfish is easy and being selfless takes strength. It's the opposite. (See: [Being Selfish Is Hard](./before-you-judge.md#being-selfish-is-hard))
+Most people assume being selfish is easy and being selfless takes strength. It's actually the opposite. (See: [Being Selfish Is Hard](./before-you-judge.md#being-selfish-is-hard))
 
 But because the cultural story says humans are selfish, anyone who _appears_ selfless must be hiding something. And anyone trying to help you see your own power must be trying to get out of theirs.
 
