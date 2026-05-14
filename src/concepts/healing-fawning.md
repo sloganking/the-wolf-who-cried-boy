@@ -667,6 +667,28 @@ You'll find yourself saying this sincerely. Because you've learned that a clear 
 
 And when someone trusts you enough to tell you no, knowing you'll receive it with gratitude instead of pressure, you've created something real between you.
 
+### Make It Easy
+
+If you interact with someone who fawns — or anyone, really — and they keep quietly disappearing from your life, it might not be about them.
+
+Some people make it structurally hard to say no. They talk without pauses. They push back on every refusal. They respond to "I don't want to" with "why not?" or "are you sure?" or "but I set this up for you." They're not being malicious — they might genuinely want to hear a no. They might even say "just tell me if you're not interested." But then they keep talking without leaving a single breath for the other person to speak, and the invitation to say no becomes meaningless because there's no space to say it in.
+
+When someone fawns — when they stay, when they go along, when they don't speak up — and you respond with frustration ("why didn't you just tell me?"), you're seeing your [100% control](../tools/100-percent-control.md) over the outcome and missing theirs. They had the power to say no. They also had a nervous system that was screaming at them not to. Both are true. But you had power here too — and the way you showed up either made it easier or harder for them to use theirs.
+
+This isn't about blame. It's about results.
+
+If you leave pauses — real ones, long enough that the silence feels uncomfortable — people can actually fill them. If you ask "do you want to keep going?" and then *wait*, without jumping in to answer for them, they get the space to check in with themselves. If you notice someone going quiet, going along, or agreeing too easily, you can slow down and say "you seem like you might be somewhere else — what's actually going on?" These aren't heroic acts. They're basic attunement. And they're the difference between someone fawning to you for an hour and then resenting you, or someone saying "actually, I'd like to stop" and both of you walking away clean.
+
+The consequence of not doing this isn't confrontation. Fawners don't fight you. They just leave. The interactions become too expensive — every conversation requires them to fight their own nervous system just to be honest with you — and eventually they stop showing up. You won't get a goodbye. You'll get silence. And you'll wonder what happened, because from your perspective, everything was fine. It was fine because they were performing "fine" the entire time.
+
+**If people keep disappearing from your life without explanation, look at whether you're making honesty easy or hard.** Not whether you're *saying* it's okay to be honest — whether the way you show up actually leaves room for it.
+
+#### If You're the Fawner
+
+This applies to you too. If interacting with someone is consistently hard — if being honest with them requires a fight every time — notice the negative association building. You're not going to push through it forever. You're going to leave. And leaving without telling them why is just more fawning.
+
+The move is to name it early: "I notice it's hard for me to say no to you. I want to have a good relationship with you, and right now the way we interact makes honesty feel expensive. Can we change something?" That's not an accusation. It's a [weather report](./punishment-culture.md#what-gets-reported). And it gives them a chance to adjust before the relationship dies in silence.
+
 ## The Safest Place in the World
 
 For people with [bottom vulnerability](./all-power-is-mutual.md#top-and-bottom-vulnerability) — the ones receiving touch, the ones whose boundaries might be crossed — play spaces may be the safest environments in the world to have sex.
