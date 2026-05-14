@@ -142,7 +142,7 @@ Not the same power as the facilitator — they have a **role** they agreed to, a
 
 You're not a passive consumer of the container. You're a co-creator of it.
 
-Duty is what you agreed to take on voluntarily. Creation is what happens because you were there. You don't have to sign up to create an outcome. You create it by showing up. **The outcome is not your duty, but it is your creation.**
+Duty is what you agree to take on voluntarily. Creation is what happened as a result of your actions and inactions — regardless of whether you volunteered for a role. **The outcome is not your duty, but it is your creation.**
 
 Ask yourself:
 
