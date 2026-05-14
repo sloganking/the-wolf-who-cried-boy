@@ -675,7 +675,7 @@ Some people make it structurally hard to say no. They talk without pauses. They 
 
 They might genuinely be giving you a gift — spending real money and time to do something nice for you because they care. But the difference between a request and a demand is whether there are consequences for saying no. If you say no and they respond with frustration, guilt, or pushback, it's a demand — regardless of how generous it is. People can feel that. A very expensive, thoughtful demand done out of love because they want you to be happy is still a demand. And when it's a demand, the person receiving it doesn't feel generosity. They feel pressure. You offered them a gift and what they experienced was negative emotion — which is probably the opposite of what you wanted.
 
-When someone fawns — when they stay, when they go along, when they don't speak up — and you respond with frustration ("why didn't you just tell me?"), you're seeing your [100% control](../tools/100-percent-control.md) over the outcome and missing theirs. They had the power to say no. They also had a nervous system that was screaming at them not to. Both are true. But you had power here too — and the way you showed up either made it easier or harder for them to use theirs.
+When someone fawns — when they stay, when they go along, when they don't speak up — and you respond with frustration ("why didn't you just tell me?"), you're seeing their [100% control](../tools/100-percent-control.md) over the outcome and missing yours. They had the power to say no. They also had a nervous system that was screaming at them not to. Both are true. But you had power here too — and the way you showed up either made it easier or harder for them to use theirs.
 
 This isn't about blame. It's about results.
 
