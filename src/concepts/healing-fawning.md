@@ -689,7 +689,7 @@ The consequence of not doing this isn't confrontation. Fawners don't fight you. 
 
 This applies to you too. You might already know you want to stop. You might know exactly what you need to say. The problem isn't that you haven't figured it out — it's that saying it feels like a fight every single time, and eventually you stop trying.
 
-When someone consistently makes honesty expensive — pushback on every no, no pauses to speak into, guilt when you decline — a negative association builds. Not because you don't know what you want, but because getting it heard requires more energy than you have. So you stay quiet. You go along. And eventually you leave.
+When someone consistently makes honesty expensive — pushes back on every no, leaves no pauses to speak into, guilts you when you decline — a negative association builds. Not because you don't know what you want, but because getting it heard requires more energy than you have. So you stay quiet. You go along. And eventually you leave.
 
 Leaving without telling them why is just more fawning. It's the path of least resistance — which is exactly why your nervous system picks it.
 
