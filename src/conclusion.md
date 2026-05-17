@@ -132,11 +132,11 @@ That's not recovery. That's an origin story. And it's yours to write.
 
 ## The Mirror
 
-Most of the cultural examples of belief blindness in this book — the Inquisitors, the witch trials — are ones that nobody alive today believes. I chose those deliberately — so you could see how the mechanism works without your own beliefs getting in the way. When the example is 500 years old, your filters don't fire. You can watch the pattern clearly: good people, harmful beliefs, absolute certainty, devastating consequences. Easy to see. Easy to agree with. Nobody reading this thinks the Inquisitors were right.
-
-Now — where is this pattern running in you?
+Everything in this book points outward — at patterns in others, at communities, at dynamics you can now see clearly. But the mechanism doesn't stop at the edge of your perception. It includes you.
 
 If you read this book and your first instinct is *"I can see so clearly how the people around me are blind"* — but you haven't found a single place where you might be operating on a harmful belief yourself — that's a check engine light. The mechanism doesn't skip you because you learned about it. Belief blindness doesn't feel like blindness. It feels like seeing clearly. It feels like being right. The Inquisitors felt the same way.
+
+Most of the cultural examples in this book — the Inquisitors, the witch trials — are ones that nobody alive today believes. I chose those deliberately, so you could see how the mechanism works without your own beliefs getting in the way. When the example is 500 years old, your filters don't fire. You can watch the pattern clearly: good people, harmful beliefs, absolute certainty, devastating consequences. Easy to see. Easy to agree with. Nobody reading this thinks the Inquisitors were right. Now — where is this pattern running in you?
 
 Certainty and righteousness are check engine lights. Not proof that you're wrong — but signals worth examining. And "I've believed this for twenty years" doesn't make it examined. Twenty years of certainty is just twenty years of not questioning. It doesn't matter how long you've held a belief, how many people share it, or how much you've researched it from inside the belief's own framework. Unless you've been using tools very close to the ones in this book — tools designed to surface the beliefs you can't see — then your certainty is untested. You've been looking through the lens, not at it.
 
