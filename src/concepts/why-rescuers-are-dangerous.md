@@ -177,7 +177,7 @@ That was the point. That was the Rescuer belief.
 
 The acid on girls didn't catch on. The circumcision of boys did. Same ideology, same person — but one was rejected and the other became so normal that today, an uncircumcised penis looks "weird" to many Americans. The belief became invisible. The practice continues—millions of non-consensual genital surgeries on infants, every year, in a country that considers itself enlightened.
 
-If someone pricks a girl's clitoris with a needle—reducing sensitivity slightly—we call it genital mutilation. We despise cultures that do it. We consider it barbaric.
+Today, if someone pricks a girl's clitoris with a needle—reducing sensitivity slightly—we Americans call it genital mutilation. We despise cultures that do it. We consider it barbaric.
 
 If someone cuts off a section of a boy's penis—removing tissue containing a significant portion of nerve endings—we call it tradition. We consider it normal. Maybe even cleaner or healthier—justifications that arrived long after the practice started, and long after its original purpose became embarrassing. People don't circumcise their sons because of health statistics. They do it because their dad was circumcised, and his dad before him, and it's just what you do.
 
