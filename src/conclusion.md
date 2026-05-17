@@ -140,6 +140,8 @@ If you read this book and your first instinct is *"I can see so clearly how the 
 
 Certainty and righteousness are check engine lights. Not proof that you're wrong — but signals worth examining. And "I've believed this for twenty years" doesn't make it examined. Twenty years of certainty is just twenty years of not questioning. It doesn't matter how long you've held a belief, how many people share it, or how much you've researched it from inside the belief's own framework. Unless you've been using tools very close to the ones in this book — tools designed to surface the beliefs you can't see — then your certainty is untested. You've been looking through the lens, not at it.
 
+The only way to decrease blindness is to always assume you're blind to something and look for it. The moment you stop looking — the moment you decide you can see clearly now — is the moment the blindness settles back in.
+
 The book you just read was designed to teach you how belief blindness works without triggering yours. Now that you know the mechanism — the real work begins.
 
 ---
