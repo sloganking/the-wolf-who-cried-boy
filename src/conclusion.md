@@ -130,7 +130,7 @@ That's not recovery. That's an origin story. And it's yours to write.
 
 ---
 
-## One Last Thing
+## The Mirror
 
 Most of the cultural examples of belief blindness in this book — the Inquisitors, the witch trials — are ones that nobody alive today believes. I chose those deliberately — so you could see how the mechanism works without your own beliefs getting in the way. When the example is 500 years old, your filters don't fire. You can watch the pattern clearly: good people, harmful beliefs, absolute certainty, devastating consequences. Easy to see. Easy to agree with. Nobody reading this thinks the Inquisitors were right.
 
