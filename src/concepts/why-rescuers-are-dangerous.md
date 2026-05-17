@@ -169,7 +169,7 @@ In the late 1800s, John Harvey Kellogg—yes, the cereal guy—promoted routine 
 
 That was the point. That was the Rescuer belief.
 
-The crusade worked. It became normal. So normal that today, an uncircumcised penis looks "weird" to many Americans. The belief became invisible. The practice continues—millions of non-consensual genital surgeries on infants, every year, in a country that considers itself enlightened.
+The acid on girls didn't catch on. The circumcision of boys did. Same ideology, same person — but one was rejected and the other became so normal that today, an uncircumcised penis looks "weird" to many Americans. The belief became invisible. The practice continues—millions of non-consensual genital surgeries on infants, every year, in a country that considers itself enlightened.
 
 If someone pricks a girl's clitoris with a needle—reducing sensitivity slightly—we call it genital mutilation. We despise cultures that do it. We consider it barbaric.
 
