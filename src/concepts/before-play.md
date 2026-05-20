@@ -89,9 +89,9 @@ Before playing with anyone with significant intimacy, figure out:
 
 If you're playing with someone who has a partner and you didn't know, you may be in for a surprise when a mistake occurs and suddenly you're dealing with someone you've never met who's explosively angry.
 
-### Assessing Couple Stability
+### Assessing the Relationship Dynamic
 
-Not all couples are equally safe to play with. Ask yourself—and ask THEM:
+Not all relationship situations carry the same risk. Ask yourself—and ask THEM:
 
 - **Are they emotionally stable?** Have you seen them fighting in the container? What were those disagreements about?
 - **Have they been non-monogamous for a while?** Or have they been monogamous their whole lives and this is completely new? Someone with years of non-monogamy experience handles things differently than someone trying it for the first time.
