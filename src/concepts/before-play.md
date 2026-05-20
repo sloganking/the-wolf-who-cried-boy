@@ -59,7 +59,7 @@ Before playing with someone—especially someone new—talk through each of thes
 
 - They're monogamous with a partner at home. You don't know. You share a night of intimacy that violates their relationship agreements. Their partner finds out, the relationship ends, and suddenly the partner is crying [victim](./drama-triangle.md#the-victim-frame-is-not-the-same-as-being-wronged) and coming after YOU—trying to cause you harm for "destroying their relationship."
 
-- You're at a festival. You've been flirting with someone. They see you kiss someone else. They're polyamorous and know you are too—but they feel jealous. If you have sex with this person, the other one might judge you, act weird toward you, or create drama. Maybe you're okay with that, but you should know about it upfront.
+- You're at a festival. You've been flirting with Person A. They see you kiss someone else — Person B. Person A is polyamorous and knows you are too — but they unexpectedly find themselves feeling jealous. If you have sex with Person B, Person A might judge them, act catty toward them, or create drama — not because Person B did anything wrong, but because Person A wanted you to themselves. Maybe Person B is okay with that, but they should know about it upfront.
 
 - They have a partner who's at the same event. You don't know. You make a mistake during play—something minor, an accident. The person you're playing with is reasonable and handles it well. But their partner finds out, freaks out, and [witch hunts](./before-you-judge.md#the-witch-hunt-dynamic) you with HIGH severity. You didn't even know that was a possibility because you didn't know who was partnered with whom.
 
