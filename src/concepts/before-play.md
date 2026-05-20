@@ -73,9 +73,9 @@ That's broader. It covers committed partners, non-committed connections, someone
 
 This is a higher standard than most people play at. You're not obligated to ask it. But if you want to play responsibly and avoid surprises — for yourself and for the people around you — it's worth keeping in your toolkit.
 
-### The Couples Warning
+### Playing With Partnered People
 
-**Couples are double the risk.**
+**Double the people, double the risk.**
 
 If you play with someone who has an active romantic partner, you don't just need THEM to be reasonable about mistakes. You need their partner to be reasonable too.
 
@@ -136,17 +136,13 @@ Some people are fine with it. Others want to stay clear of the drama entirely. K
 
 Once you recognize the situation, ask yourself: Am I comfortable engaging with someone in this relationship state? And at what level of intimacy?
 
-### A Note on Couples at Retreats
+### Partnered People at Retreats
 
-In my experience at sex-positive retreats: **couples often have more drama than single people.**
+Retreats surface whatever stress exists in a relationship. If there's a crack, this environment will find it. You're going into a space with naked people, partnered exercises, deep vulnerability — whatever imperfection exists between two people is going to be magnified. One partner talks to someone attractive. The other feels jealous. Old wounds get triggered. Arguments happen. That's not a judgment — it's the reality of what happens when couples enter high-intensity intimate spaces where they're experiencing new things with new people.
 
-Whatever crack exists in a relationship—whatever imperfection, whatever point of stress—it will surface at a retreat where people can flirt and have sex with others. One partner talks to someone attractive. The other feels jealous. Old wounds get triggered. Arguments happen.
+Some couples are robust — they've been in these spaces for years. They love each other deeply. They play with others regularly and it brings them closer together. That's awesome.
 
-Some couples are robust. They've been in these spaces for years. They love each other deeply. They play with others regularly and it brings them closer together. That's awesome.
-
-Other couples are newer, or shaky, or came to the retreat hoping it would "fix" something. Those couples are riskier to engage with.
-
-On average, couples bring more potential drama than single people. That's not a reason to avoid them entirely—just something to be aware of when you're deciding who to play with.
+Others are newer to it, or carrying unresolved tension that the retreat's intensity will amplify. Before engaging with someone who's partnered, it's worth understanding which dynamic you're walking into.
 
 **Example questions:**
 
