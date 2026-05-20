@@ -555,7 +555,7 @@ Someone who's never had a partner ask about their trauma before play — who's n
 
 **Talking about desires is foreplay.** When someone tells you the thing they've been afraid to say — and you receive it with enthusiasm instead of judgment — you've already started.
 
-**Trust is the hottest thing in the room.** A partner who knows your boundaries and plays with full confidence inside them — because they asked, because they listened, because they *know* where they stand — is infinitely more attractive than someone fumbling in the dark hoping they don't accidentally hurt you. Or worse — someone holding back from ravaging you to the fullest, juiciest extent of your pleasure because they're stuck in their head, unsure where your boundaries are.
+**Trust is the hottest thing in the room.** A partner who knows your boundaries and plays with full confidence inside them — because they asked, because they listened, because they *know* where they stand — is infinitely more attractive than someone fumbling in the dark hoping they don't accidentally hurt you. Or worse — someone holding back from ravaging you to the fullest, juiciest extent of your pleasure because they're stuck in their head, unsure what you desire and where your boundaries are.
 
 **It's a filter.** Someone who won't have this conversation is telling you something about how they'll handle things when they go wrong. And someone who leans into it — who asks good questions, who gets visibly excited about what you want — just told you everything you need to know about what kind of partner they'll be.
 
