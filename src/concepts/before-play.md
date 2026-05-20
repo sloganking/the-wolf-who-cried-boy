@@ -535,19 +535,29 @@ Learn from my mistakes. Have the conversation.
 
 ---
 
-## It Doesn't Have to Be Awkward
+## RBDSMT as Foreplay
 
-Some people resist these conversations because they seem mood-killing or like they delay pleasure.
+Some people hear "have a conversation before sex" and think: *really? Every time? With everyone?*
 
-But:
+Not always the full version. With an established partner who knows your boundaries, it might be a quick check-in. But with someone new — especially someone you haven't played with before — the full conversation matters. You can rush through it. I have. And every time I did, there was something I wished we'd talked about that only became obvious afterward.
 
-1. **It can be sexy.** Talking about desires is foreplay. Knowing what someone wants makes it better.
+If your attention is on *I can't have them right now* — the conversation feels like a wall between you and what you want.
 
-2. **It builds trust.** Someone who's willing to have this conversation is someone who cares about your experience.
+If your attention is on *I remember sexual experiences that weren't good afterward, and this is what makes sure this one stays good for both of us* — the conversation feels like building something together.
 
-3. **It prevents way more awkwardness than it creates.** A 15-minute conversation now prevents hours of processing, repair, and drama later.
+Same conversation. Different story about what it is. And the story you carry into it shapes the experience you have inside it.
 
-4. **It's a filter.** Someone who won't have this conversation is telling you something about how they'll handle things when they go wrong.
+You're sitting across from someone you're about to be naked with. You ask: "What would make this incredible for you?" They pause. Something shifts in their face — the thing they've wanted to say but never been asked. They tell you. And now you know exactly what to do with them, and they know you're going to do it.
+
+That's not a delay. That's the beginning.
+
+Someone who's never had a partner ask about their trauma before play — who's never heard "I have a fawning pattern, and I want you to check in with me" — who's never been told "your hard boundary stays hard, even if you beg me to cross it later" — when they experience that for the first time, the trust that builds in those 15 minutes can unlock things that years of silent, unchecked sex never did.
+
+**Talking about desires is foreplay.** When someone tells you the thing they've been afraid to say — and you receive it with enthusiasm instead of judgment — you've already started.
+
+**Trust is the hottest thing in the room.** A partner who knows your boundaries and plays with full confidence inside them — because they asked, because they listened, because they *know* where they stand — is infinitely more attractive than someone fumbling in the dark hoping they don't accidentally hurt you.
+
+**It's a filter.** Someone who won't have this conversation is telling you something about how they'll handle things when they go wrong. And someone who leans into it — who asks good questions, who gets visibly excited about what you want — just told you everything you need to know about what kind of partner they'll be.
 
 ---
 
