@@ -124,7 +124,7 @@ Playing with someone in a misaligned couple is possible. But consider:
 
 Ask yourself honestly:
 
-- Do I want to be tied up in this drama?
+- Do I want to be involved if this creates tension between them?
 - If their relationship has stress because of what we did, do I want that on my conscience—even if they're ultimately responsible for their own choices?
 - Do I like BOTH of them as people? If he's hurting because of what I did with her, will I hurt too?
 - Even if it's "not my fault," will I feel good about this afterward?
