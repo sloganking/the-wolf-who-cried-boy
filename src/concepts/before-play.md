@@ -10,7 +10,7 @@ Before engaging in play, intimacy, or sex with someone, have a conversation. Not
 
 ### Consent Is Contextual
 
-Early in my journey, I learned this the hard way. I'd spent the night snuggling with a woman — in bed, in underwear, warm and close. The next day, at a community house with her friends around, I walked up and put my arm around her.
+Early in my journey, I learned this the hard way. I'd spent the night snuggling with a woman — warm and close. The next day, with some of her friends around, I walked up and put my arm around her.
 
 She didn't want it.
 
