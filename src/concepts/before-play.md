@@ -551,7 +551,7 @@ You're sitting across from someone you're about to be naked with. You ask: "What
 
 That's not a delay. That's the beginning.
 
-Someone who's never had a partner ask about their trauma before play — who's never heard "I have a fawning pattern, and I want you to check in with me" — who's never been told "your hard boundary stays hard, even if you beg me to cross it later" — when they experience that for the first time, the trust that builds in those 15 minutes can unlock things that years of silent, unchecked sex never did.
+Someone who's never had a partner ask about their trauma before play — who's never heard "I have a fawning pattern, and I want you to check in with me" — who's never been told "your hard boundary stays hard, even if you beg me to cross it later" — when they experience that for the first time, the trust that builds in those 15 minutes can unlock things that years of silent, unchecked sex never did. It can also unlock depth they wouldn't have otherwise offered — things they weren't sure they wanted to do with you until the conversation itself made them feel safe enough to say yes to more.
 
 **Talking about desires is foreplay.** When someone tells you the thing they've been afraid to say — and you receive it with enthusiasm instead of judgment — you've already started.
 
