@@ -543,7 +543,7 @@ Not always the full version. With an established partner who knows your boundari
 
 If your attention is on *I can't have them right now* — the conversation feels like a wall between you and what you want.
 
-If your attention is on *I remember sexual experiences that weren't good afterward, and this is what makes sure this one stays good for both of us* — the conversation feels like building something together.
+If your attention is on *I remember sexual experiences that weren't good afterward, and this is what makes sure this one stays good for both of us — and makes it most likely we'll want to do this again* — the conversation feels like building something together.
 
 Same conversation. Different story about what it is. And the story you carry into it shapes the experience you have inside it.
 
