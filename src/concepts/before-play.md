@@ -541,7 +541,7 @@ Some people hear "have a conversation before sex" and think: *really? Every time
 
 Not always the full version. With an established partner who knows your boundaries, it might be a quick check-in. But with someone new — especially someone you haven't played with before — the full conversation matters. You can rush through it. I have. And every time I did, there was something I wished we'd talked about that only became obvious afterward.
 
-If your attention is on *I can't have them right now* — the conversation feels like a wall between you and what you want.
+If your attention is on *I can't have them this instant because this is in the way* — the conversation feels like a wall between you and what you want.
 
 If your attention is on *I remember sexual experiences that weren't good afterward, and this is what makes sure this one stays good for both of us — and makes it most likely we'll want to do this again* — the conversation feels like building something together.
 
