@@ -53,7 +53,7 @@ Before playing with someone—especially someone new—talk through each of thes
 
 **What to discuss:** What are your current relationship structures? Who else is involved? What agreements do you have with others?
 
-**Why it matters:** Playing with someone who has a partner you don't know about, or violating agreements they have with someone else, can create HIGH severity harm—not just to them, but to third parties.
+**Why it matters:** Playing with someone who has a partner you don't know about, or who is violating agreements they have with someone else, can create HIGH severity harm—not just to them, but to third parties.
 
 ### Examples of What Can Go Wrong
 
