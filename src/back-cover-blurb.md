@@ -1,27 +1,51 @@
-# Back Cover Blurb
+# Back Cover Blurb — Options
+
+Pick the energy. Or Frankenstein them.
 
 ---
 
-When the boy cried wolf, the village came running. But what happens when someone cries *predator* — and the village doesn't check?
+## Option A — "The Village"
 
-A father beats his son out of love. A community destroys a man over a mistake. An Inquisitor tortures with a clean conscience. In each case, the person causing the most harm is certain they're preventing it.
+Here's what nobody tells you about the boy who cried wolf: in the real world, when someone cries wolf, the village doesn't check and find nothing. They find a wolf — every time. Whether it exists or not. They find someone to label, someone to blame, someone to destroy. And when it's done, they look at the person who raised the alarm and think: *damn, that guy's good at seeing wolves.* And they put him in charge.
 
-Most harm doesn't come from malice. It comes from people who can't see what they're doing — and the more certain they are that they're right, the more dangerous they become.
+Most harm doesn't come from malice. It comes from people who can't see what they're doing — and the more certain they are that they're right, the more dangerous they become. The Inquisitor never questioned his certainty. That's why he could torture with a clean conscience.
 
-*The Wolf Who Cried Boy* is a framework for seeing clearly. Written from inside the world of play parties, tantra workshops, and sacred sexuality spaces — where human patterns show up fastest and most undeniably — it reveals the invisible machinery that drives conflict, false accusations, and disproportionate punishment in every domain of life:
-
-- The trauma responses that make you say *yes* when your whole body means *no* — and then blame the person who believed you
-- The filters that make you see predators where there are only confused humans making mistakes
-- The fear that creates the exact outcome it's scanning for
-- The rescue instinct that has caused more destruction than selfishness ever could
-- The power you have that you've never been shown how to see
-
-This isn't a book about being kinder. It's a book about being less blind.
-
-If a framework can handle a false accusation at a play party, it can handle a conflict anywhere. This book uses the hardest domain on purpose.
+This book is the thing he never had: a way to check.
 
 **You don't fix blindness with punishment. You fix it with sight.**
 
 ---
 
-*Logan King is a Seer — someone who finds the invisible beliefs running people's lives and shows them how to cut the strings. He's been on both sides of every dynamic this book describes: harmed by a Rescuer who loved him, falsely accused, fawning when he should have set boundaries, and watching communities destroy people over stories that were never verified. Everything here comes from lived experience — years of navigating these spaces, seeing the patterns most people miss, and learning the hard way what works.*
+## Option B — "That Could Have Been Me"
+
+You've watched it happen.
+
+Someone makes a mistake. Not a big one. A misread signal. A hand that went somewhere it shouldn't have for one second. Immediately corrected.
+
+And then the room turns. The word *predator* gets spoken. People who weren't there form opinions. A reputation built over years is destroyed in hours. The punishment is permanent. The mistake was not.
+
+And somewhere in the back of your mind, a voice says: *that could have been me.*
+
+This book is for that voice. It's for every person who's watched a community eat someone alive over a story no one verified — and felt the chill of knowing that the only thing separating them from the accused was luck.
+
+It's also for the person doing the eating — who doesn't know they're doing it. Who feels righteous. Who's certain they're protecting people. Who has no idea they just became the most dangerous person in the room.
+
+**You don't fix blindness with punishment. You fix it with sight.**
+
+---
+
+## Option C — "Three Lines"
+
+The most dangerous person in the room isn't the one everyone's afraid of.
+
+It's the one who's certain they're right.
+
+**You don't fix blindness with punishment. You fix it with sight.**
+
+---
+
+## Author Bio (for whichever option)
+
+*Logan King is a Seer — he finds the invisible beliefs running people's lives and shows them how to cut the strings. He's been on both sides of every dynamic in this book. Everything here comes from lived experience — not theory.*
+
+*Learn more: sloganking.github.io/coaching*
