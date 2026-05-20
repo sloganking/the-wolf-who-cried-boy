@@ -71,7 +71,7 @@ The standard question is some version of "are you in a relationship?" — but th
 
 That's broader. It covers committed partners, non-committed connections, someone at the same event who has feelings for them, anything. It lets them think through the full landscape instead of just the obvious box.
 
-This is a higher standard than most people play at. You're not obligated to ask it. But if you want to play responsibly and avoid surprises — for yourself and for the people around you — it's worth keeping in your toolkit.
+This is a higher standard than most people play at. You're not obligated to ask it. But if you want to make sure what you're creating is a [good thing](#what-is-a-good-thing) for everyone involved — and avoid surprises — it's worth keeping in your toolkit.
 
 ### Playing With Partnered People
 
