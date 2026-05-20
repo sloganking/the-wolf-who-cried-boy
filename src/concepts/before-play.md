@@ -57,7 +57,7 @@ Before playing with someone—especially someone new—talk through each of thes
 
 ### Examples of What Can Go Wrong
 
-- They're monogamous with a partner at home. You don't know. Their partner finds out, the relationship ends, and suddenly the partner is crying [victim](./drama-triangle.md#the-victim-frame-is-not-the-same-as-being-wronged) and coming after YOU—trying to cause you harm for "destroying their relationship."
+- They're monogamous with a partner at home. You don't know. You share a night of intimacy that violates their relationship agreements. Their partner finds out, the relationship ends, and suddenly the partner is crying [victim](./drama-triangle.md#the-victim-frame-is-not-the-same-as-being-wronged) and coming after YOU—trying to cause you harm for "destroying their relationship."
 
 - You're at a festival. You've been flirting with someone. They see you kiss someone else. They're polyamorous and know you are too—but they feel jealous. If you have sex with this person, the other one might judge you, act weird toward you, or create drama. Maybe you're okay with that, but you should know about it upfront.
 
