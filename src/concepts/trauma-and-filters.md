@@ -455,8 +455,6 @@ And this is what people mean when they call someone "crazy" — they're watching
 
 **The practical move:** When you find yourself stuck in a belief you've already dissolved three times — when the same feeling keeps regenerating under different names — stop looking at the belief. Look underneath it. Ask: *what would I have to believe about myself, about the world, about people, for this belief to feel obviously true?* The answer to that question is the axiom. That's where the work is. Dissolve the axiom and the surface beliefs built on it collapse on their own — the same way pulling a foundation out from under a building brings down every floor above it.
 
-This is also what makes the [incantation](./invisible-patterns.md#replacing-the-sentence) work later in this book. "Find the sentence your body is running" is another way of saying: find the axiom. The sentence isn't a surface belief. It's the foundational premise your nervous system has been building on since childhood. When you replace it, you're not changing one belief — you're changing the axiom that hundreds of beliefs were derived from. That's why the effects cascade.
-
 ### When Beliefs Cascade
 
 But sometimes you don't find the edge of a belief. Sometimes the belief finds the edge of *you* — and [shatters](./healing-fawning.md#practice-saying-yes-to-your-own-desire). Not gradually. Not through insight. Through lived experience so intense the old prediction can't survive. And when that happens, something unexpected follows: the beliefs around it start to crack too.
