@@ -279,7 +279,7 @@ The jealous partner might even go further: warning others that this person is "p
 
 **Here's the problem: they genuinely believe their story.**
 
-It's not that they're being irrational. Within their reference frame—where "everyone wants what I have" is a core axiom—their actions make perfect sense. If you truly believe others are trying to steal your partner, of course you'd act defensive. Of course you'd push people away. Of course you'd warn others about the "threat."
+It's not that they're being irrational. Within their reference frame—where "everyone wants what I have" is a core [belief axiom](./trauma-and-filters.md#belief-axioms)—their actions make perfect sense. If you truly believe others are trying to steal your partner, of course you'd act defensive. Of course you'd push people away. Of course you'd warn others about the "threat."
 
 The harm they're creating feels like self-defense. They think they're responding to high-severity aggression against them—but it's not true at all.
 
