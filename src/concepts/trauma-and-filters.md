@@ -178,7 +178,9 @@ So when a boy is found alive and safe in the giant's hands — visible to everyo
 
 The general turns to him: *"Are you mad?"*
 
-Kent doesn't wake up. He grabs a microphone and orders the nuclear strike himself — aimed at his own position — rather than question the belief. He isn't lying. He isn't evil. He's reporting the truth as his filter sees it — and every action he takes is logical, given the premise. The premise is never questioned.
+Kent doesn't wake up. He grabs a microphone and orders the nuclear strike himself — aimed at his own position — rather than question the belief. He isn't lying. He isn't evil. He's reporting the truth as his filter sees it. The fear came first. The reasoning followed — and it *feels* airtight to him, because every conclusion flows from the premise. The premise is never questioned.
+
+Logicians have a word for this. An argument is **valid** when the conclusion follows logically from the premises. An argument is **sound** when it's valid *and* the premises are actually true. Kent's arguments are valid — the conclusions follow from his premise. His premise is false. So his conclusions are **valid but unsound**: fear-driven reasoning that looks logical from the inside, built on a foundation that isn't real. That's why the general calls him mad. He's watching someone produce conclusions that make no sense — and can't see the fear-installed premise making them feel inevitable.
 
 If you're watching Kent and thinking "I would never be that blind" — that's the filter. The audience judging him as insane is doing exactly what he's doing: assuming their perception is accurate, never questioning their own premise.
 
@@ -445,13 +447,9 @@ Underneath your surface beliefs, there are **belief axioms** — foundational be
 
 Every surface belief you've been fighting is a logical conclusion built on an axiom you've never examined.
 
-**This is why Kent Mansley couldn't wake up.** His axiom — "everyone wants what we have" — was the premise from which every other conclusion followed. The giant *must* be a weapon. The boy *must* be deceived. The ceasefire *must* be a trick. Each of those conclusions was perfectly logical *given the axiom*. You can't argue with the conclusions. The logic is flawless. The axiom is where the error lives — and axioms are the last thing anyone examines, because they feel like bedrock, not belief.
+**This is why Kent Mansley couldn't wake up.** His axiom — "everyone wants what we have" — was the premise from which every other conclusion followed. The giant *must* be a weapon. The boy *must* be deceived. The ceasefire *must* be a trick. Each of those conclusions was [valid but unsound](#when-evidence-gets-through) — perfectly logical, built on a premise that wasn't true. You can't argue with the conclusions. The logic is flawless. The axiom is where the error lives — and axioms are the last thing anyone examines, because they feel like bedrock, not belief.
 
-Logicians have a precise word for this. An argument is **valid** when the conclusion follows logically from the premises — when the structure of the reasoning is correct. An argument is **sound** when it's valid *and* the premises are actually true. Every person in this book who causes harm from a harmful belief is making valid arguments. Their logic is perfect. Their axioms are false. That makes their conclusions **valid but unsound** — structurally flawless reasoning built on a foundation that isn't real.
-
-This is what makes harmful beliefs so hard to reach. You can't argue with the logic, because the logic works. You can't point to a flaw in their reasoning, because there isn't one. The flaw is underneath the reasoning — in the axiom they've never examined because it doesn't feel like a belief. It feels like the way the world is.
-
-And this is what people mean when they call someone "crazy" — they're watching valid reasoning produce insane conclusions and can't figure out how both things are true at the same time. The answer is always an axiom they can't see. Once you find the axiom, the behavior stops looking crazy and starts looking inevitable. Anyone with that axiom would do the same thing.
+This is what makes harmful beliefs so hard to reach. You can't point to a flaw in someone's reasoning, because there isn't one. The flaw is underneath the reasoning — in the axiom they've never examined because it doesn't feel like a belief. It feels like the way the world is. Once you find the axiom, the behavior stops looking crazy and starts looking inevitable. Anyone with that axiom would do the same thing.
 
 **The practical move:** When you find yourself stuck in a belief you've already dissolved three times — when the same feeling keeps regenerating under different names — stop looking at the belief. Look underneath it. Ask: *what would I have to believe about myself, about the world, about people, for this belief to feel obviously true?* The answer to that question is the axiom. That's where the work is. Dissolve the axiom and the surface beliefs built on it collapse on their own — the same way pulling a foundation out from under a building brings down every floor above it.
 
