@@ -433,6 +433,30 @@ You either master your beliefs or they master you. **Beliefs are the engine of e
 
 And you will always have some. The goal was never to escape every filter. It's to keep looking for the edges of the ones you're in. The moment you stop looking is the moment they shrink back around you and you don't even notice.
 
+### Belief Axioms
+
+Not all beliefs are equal. Some are surface-level — "I can't get clients," "nobody will pay me," "I'm bad at relationships." You can find these, argue with them, maybe even dissolve them. But a week later, a new one grows in its place. Same feeling, different words.
+
+That's because you dissolved a branch, not the root.
+
+Underneath your surface beliefs, there are **belief axioms** — foundational beliefs that other beliefs are built on top of. In mathematics, an axiom is a statement accepted as true without proof — the starting point from which everything else is derived. Your belief axioms work the same way. They're the premises you never question, because they don't feel like premises. They feel like the floor.
+
+"Nobody will pay me" is a surface belief. The axiom underneath it might be: *"I'm not worth paying for."* "I can't get clients" is a surface belief. The axiom might be: *"If they really see me, they'll reject me."* "I'm bad at relationships" is a surface belief. The axiom might be: *"My needs are too much for anyone to hold."*
+
+Every surface belief you've been fighting is a logical conclusion built on an axiom you've never examined.
+
+**This is why Kent Mansley couldn't wake up.** His axiom — "everyone wants what we have" — was the premise from which every other conclusion followed. The giant *must* be a weapon. The boy *must* be deceived. The ceasefire *must* be a trick. Each of those conclusions was perfectly logical *given the axiom*. You can't argue with the conclusions. The logic is flawless. The axiom is where the error lives — and axioms are the last thing anyone examines, because they feel like bedrock, not belief.
+
+Logicians have a precise word for this. An argument is **valid** when the conclusion follows logically from the premises — when the structure of the reasoning is correct. An argument is **sound** when it's valid *and* the premises are actually true. Every person in this book who causes harm from a harmful belief is making valid arguments. Their logic is perfect. Their axioms are false. That makes their conclusions **valid but unsound** — structurally flawless reasoning built on a foundation that isn't real.
+
+This is what makes harmful beliefs so hard to reach. You can't argue with the logic, because the logic works. You can't point to a flaw in their reasoning, because there isn't one. The flaw is underneath the reasoning — in the axiom they've never examined because it doesn't feel like a belief. It feels like the way the world is.
+
+And this is what people mean when they call someone "crazy" — they're watching valid reasoning produce insane conclusions and can't figure out how both things are true at the same time. The answer is always an axiom they can't see. Once you find the axiom, the behavior stops looking crazy and starts looking inevitable. Anyone with that axiom would do the same thing.
+
+**The practical move:** When you find yourself stuck in a belief you've already dissolved three times — when the same feeling keeps regenerating under different names — stop looking at the belief. Look underneath it. Ask: *what would I have to believe about myself, about the world, about people, for this belief to feel obviously true?* The answer to that question is the axiom. That's where the work is. Dissolve the axiom and the surface beliefs built on it collapse on their own — the same way pulling a foundation out from under a building brings down every floor above it.
+
+This is also what makes the [incantation](./invisible-patterns.md#replacing-the-sentence) work later in this book. "Find the sentence your body is running" is another way of saying: find the axiom. The sentence isn't a surface belief. It's the foundational premise your nervous system has been building on since childhood. When you replace it, you're not changing one belief — you're changing the axiom that hundreds of beliefs were derived from. That's why the effects cascade.
+
 ### When Beliefs Cascade
 
 But sometimes you don't find the edge of a belief. Sometimes the belief finds the edge of *you* — and [shatters](./healing-fawning.md#practice-saying-yes-to-your-own-desire). Not gradually. Not through insight. Through lived experience so intense the old prediction can't survive. And when that happens, something unexpected follows: the beliefs around it start to crack too.
