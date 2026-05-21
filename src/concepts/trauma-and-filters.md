@@ -435,13 +435,13 @@ And you will always have some. The goal was never to escape every filter. It's t
 
 ### Belief Axioms
 
-Not all beliefs are equal. Some are surface-level — "I can't get clients," "nobody will pay me," "I'm bad at relationships." You can find these, argue with them, maybe even dissolve them. But a week later, a new one grows in its place. Same feeling, different words.
+Not all beliefs are equal. Some are surface-level — "people always cross my boundaries," "I can't say no," "I always end up with the wrong person." You can find these, argue with them, maybe even dissolve them. But a week later, a new one grows in its place. Same feeling, different words.
 
 That's because you dissolved a branch, not the root.
 
 Underneath your surface beliefs, there are **belief axioms** — foundational beliefs that other beliefs are built on top of. In mathematics, an axiom is a statement accepted as true without proof — the starting point from which everything else is derived. Your belief axioms work the same way. They're the premises you never question, because they don't feel like premises. They feel like the floor.
 
-"Nobody will pay me" is a surface belief. The axiom underneath it might be: *"I'm not worth paying for."* "I can't get clients" is a surface belief. The axiom might be: *"If they really see me, they'll reject me."* "I'm bad at relationships" is a surface belief. The axiom might be: *"My needs are too much for anyone to hold."*
+"People always cross my boundaries" is a surface belief. The axiom underneath it might be: *"I don't have the power to stop them."* "I can't say no" is a surface belief. The axiom might be: *"If I displease someone, I'll be abandoned."* "I always end up with the wrong person" is a surface belief. The axiom might be: *"My needs are too much for anyone to hold."*
 
 Every surface belief you've been fighting is a logical conclusion built on an axiom you've never examined.
 
