@@ -15,7 +15,7 @@ Run `python scripts/check_links.py` to re-verify link fixes — run it before ev
 ## Urgent — reader-facing bugs (do before wider sales / Laurie)
 
 - [ ] **Fix the one real 404:** `when-youve-been-wronged.md` links to `../tools/rbdsmt.md`, which doesn't exist. Retarget to `./before-play.md#rbdsmt-the-safer-sex-conversation`.
-- [ ] **Compress `src/images/logan.jpg`** — currently **12.6 MB**, loads on the Introduction (the landing page). Target ~150–300 KB. Single biggest UX win per minute spent.
+- [x] **Compress `src/images/logan.jpg`** — 12.4 MB → 179 KB (3648×5472 → 750×1125, JPEG q85). Original retrievable from git history if needed for print.
 - [ ] **Fix 26 broken anchors** (silent fails — reader lands at top of page instead of the section). Suggested retargets:
 
 | File | Broken link | Suggested fix |
