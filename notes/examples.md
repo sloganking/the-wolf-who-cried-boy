@@ -1,5 +1,11 @@
 # Example Scenarios
 
+> **STATUS / PLAN (June 2026):** Pulled from the book. As a chapter, this page was vestigial — every scenario is a weaker version of something the book already teaches better through the author's in-chapter personal stories (Scenario 1 ≈ the Popcorn Metaphor, Scenario 2 ≈ the Two Victims Problem + the double-fawn story in Why Helping Is Hard, Scenario 3 ≈ Before You Judge).
+>
+> **Why it's kept:** it does one thing nothing else in the book does — it runs the complete framework end-to-end on a single incident (severity → type → qualified to judge? → response → repair), like a worked problem set. That format is the spine of the planned **companion field manual** (15–20k words, pure protocol: flowcharts, checklists, scripts, worked scenarios — the 2 AM document). When the field manual gets written (after the main book ships), start here: expand these three scenarios, add more (facilitator crisis, threats of violence, public repair), and pair each with the relevant flowchart.
+>
+> Do not add back to SUMMARY.md. Do not polish as a book chapter.
+
 ---
 
 These scenarios show the framework in action. Names are fictional. Situations are composites based on real dynamics.
