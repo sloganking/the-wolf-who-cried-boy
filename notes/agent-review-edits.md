@@ -52,7 +52,7 @@ Run `python scripts/check_links.py` to re-verify link fixes — run it before ev
 ## Housekeeping
 
 - [x] **Delete `src/concepts/making-it-right.md`** — orphaned 10-byte stub, deleted.
-- [ ] **Decide `src/examples.md`** — recommendation revised after discussion: vestigial as a book chapter (in-chapter personal stories teach better); its real value is as seed material for the future field manual. Suggested: move to `notes/` as field-manual raw material rather than adding to SUMMARY or polishing now.
+- [x] **`src/examples.md`** — moved to `notes/examples.md` with a status/plan note at the top: vestigial as a chapter, kept as seed material for the future field manual (its end-to-end worked-scenario format is the field manual's spine).
 - [x] **`back-cover-blurb.md`** — moved `src/` → `notes/` (git mv), no longer in the published site output.
 - [ ] **`before-you-facilitate.md` has no "Related" section** — only chapter that ends without one (just `---`). Content itself is complete (verified, not truncated — also closes the open question in `production-checklist.md` → Structural).
 - [x] **Link check in CI** — `scripts/check_links.py` now exits 1 on failure, and `deploy.yml` runs it before the build. A push with broken links fails the workflow (GitHub emails the failure), and the live site stays on the last good version.
