@@ -1,9 +1,5 @@
 # Introduction
 
-**⚠️ This book is substantively complete. The frameworks, structure, and core ideas are all in place. You may encounter tightening edits, occasional new ideas, and a final polish pass before publication — but everything that matters is here.**
-
----
-
 Anyone can see wrongdoing, assume malice, and punish. That takes nothing — just righteous certainty and anger. That's not a commitment to justice — it's a commitment to fear.
 
 Seeing wrongdoing and understanding why it happened, what beliefs drove it, what patterns made it inevitable — and then seeing the person who did it as a human being and helping them find a way to get what they actually need that works better than whatever drove them there — that takes empathy, courage, and everything you have.
@@ -247,6 +243,12 @@ When you do make a mistake, see: [I Made a Mistake—What Now?](./concepts/i-mad
 Start with [Severity](./concepts/severity.md), or browse the [Quick Reference](./quick-reference.md).
 
 Welcome to clearer thinking.
+
+---
+
+## A Note on This Edition
+
+You're reading the web edition — the most current version of this book, continuously refined, with every concept cross-linked so you can follow any idea to its source. Paperback, ebook, and audiobook editions are coming.
 
 ---
 
