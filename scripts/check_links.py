@@ -7,6 +7,7 @@ SRC = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 
 
 link_re = re.compile(r"\[[^\]]*\]\(([^)\s]+)\)")
 heading_re = re.compile(r"^(#{1,6})\s+(.*)$")
+html_anchor_re = re.compile(r"<a\s+id=\"([^\"]+)\"")
 
 
 def slugify(text: str) -> str:
@@ -43,6 +44,8 @@ for root, _, names in os.walk(SRC):
                         continue
                     if in_code:
                         continue
+                    for am in html_anchor_re.finditer(line):
+                        slugs.add(am.group(1))
                     m = heading_re.match(line)
                     if m:
                         s = slugify(m.group(2))

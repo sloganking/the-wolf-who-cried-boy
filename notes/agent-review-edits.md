@@ -16,7 +16,7 @@ Run `python scripts/check_links.py` to re-verify link fixes — run it before ev
 
 - [x] **Fix the one real 404:** `when-youve-been-wronged.md` → `../tools/rbdsmt.md` retargeted to `./before-play.md#rbdsmt-the-safer-sex-conversation`. Verified with link checker — zero missing files remain.
 - [x] **Compress `src/images/logan.jpg`** — 12.4 MB → 179 KB (3648×5472 → 750×1125, JPEG q85). Original retrievable from git history if needed for print.
-- [ ] **Fix 26 broken anchors** (silent fails — reader lands at top of page instead of the section). Suggested retargets:
+- [x] **Fix 26 broken anchors** — DONE in one pass. 21 retargeted to the renamed/relocated headings below; 5 fixed by inserting invisible `<a id="...">` anchors at the exact spot (no visible content changed): `i-would-never-do-that` (body-stories), `find-your-compass` (i-made-a-mistake), `your-voice-matters` (responsibility), `belief-shattering` (healing-fawning), `serving-not-pleasing` (walking-your-talk). `scripts/check_links.py` (now HTML-anchor-aware) reports **zero broken internal links across all 41 files**. Original mapping table kept below for reference:
 
 | File | Broken link | Suggested fix |
 |---|---|---|

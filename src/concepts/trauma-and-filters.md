@@ -166,7 +166,7 @@ You have [responsibility](./responsibility.md) here. You can choose what you con
 
 ### When Evidence Gets Through
 
-In the [brown-red exercise](#the-brownred-exercise), switching was easy — someone told you to look for red and you found it. But when fear is high enough, even that stops working. Your RAS filters so aggressively that evidence can be standing right in front of you — people pointing at it, shouting it — and it still can't get through.
+In the [brown-red exercise](#try-this-right-now), switching was easy — someone told you to look for red and you found it. But when fear is high enough, even that stops working. Your RAS filters so aggressively that evidence can be standing right in front of you — people pointing at it, shouting it — and it still can't get through.
 
 In the movie *The Iron Giant*, there's a character named Kent Mansley who looks completely insane. He lies to a general, manipulates everyone around him, endangers an entire town. The audience watches and thinks: *this guy is evil, or stupid, or both.*
 

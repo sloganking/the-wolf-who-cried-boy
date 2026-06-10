@@ -202,7 +202,7 @@ It might feel like penance. It might feel like "the responsible thing to do." Bu
 
 Be prepared: some people will tell you that *this* is being irresponsible. That staying in community is selfish. That real accountability means punishment — exile, shame, disappearing until you've "earned" the right to exist in the space again. They'll use the word "accountability" and mean something very different from what this book means.
 
-This book defines [responsibility](./responsibility.md#what-responsibility-actually-means) as seeing your power — asking "how did I create this?" and "what will I do differently?" It defines [repair](./responsibility.md#responsibility--repair) as restoring the relationship through action, when conditions allow it. Neither of those requires punishment. Neither requires exile. Neither requires you to destroy yourself to prove you're sorry.
+This book defines [responsibility](./responsibility.md#what-responsibility-actually-means) as seeing your power — asking "how did I create this?" and "what will I do differently?" It defines [repair](./responsibility.md#responsibility-is-not-repair) as restoring the relationship through action, when conditions allow it. Neither of those requires punishment. Neither requires exile. Neither requires you to destroy yourself to prove you're sorry.
 
 When someone says "you're not being accountable" and what they mean is "you're not accepting punishment" — that's [sinsickness](./i-made-a-mistake.md#sinsickness) being spread. They believe that mistakes are sins — unforgivable, identity-defining — and that the correct response is shame and suffering. If they ever make the same mistake, they'll attack themselves the same way. And now they're trying to install that belief in you. The correct response is no.
 
@@ -538,6 +538,8 @@ When you wake up, you don't lose the fire. You give it eyes. You become the pers
 The character saying this used to start fights and nearly killed innocents. She changed. And in the scene this quote comes from, someone she's protecting has just stabbed her — and she still shields him from her allies who want to kill him, because she knows he's not in control of what he's doing. That's who's on the other side of the identity crack. Not someone who pretends the past didn't happen. Someone who owns every scar they caused — and fights to be different anyway.
 
 That's what a reformed righteous predator looks like. And you have an advantage most people don't: you've seen the pattern from the inside. You know exactly how moral certainty turns into harm. That makes you better equipped to stop it than anyone who's never been through it.
+
+<a id="find-your-compass"></a>
 
 **Find your compass.**
 

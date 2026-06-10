@@ -50,7 +50,7 @@ When you claim victimhood:
 - Cultural narratives side with you by default
 - Others feel guilty challenging your story
 
-This is why the [Victim position](./drama-triangle.md#victim) isn't powerless. It's _enormously_ powerful—and that power can be used to inflict consequences that far exceed the original harm.
+This is why the [Victim position](./drama-triangle.md#the-three-roles) isn't powerless. It's _enormously_ powerful—and that power can be used to inflict consequences that far exceed the original harm.
 
 The power doesn't come from whether you were actually helpless. It comes from whether others *perceive* you as a victim. The mob doesn't verify. They don't check whether you had [power](../tools/100-percent-control.md) you didn't use, whether you [fawned](./fawning.md) instead of speaking up, or whether the situation was as one-sided as your story makes it sound. They hear "victim," they feel urgency, and they act. The perception is what mobilizes them — not the facts.
 

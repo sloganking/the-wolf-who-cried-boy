@@ -356,7 +356,7 @@ If you're entering with your attention primed to see predators, you're likely to
 
 This doesn't mean your fears aren't valid. But if you know you're primed for danger, [Notice, Feel, Story](../tools/notice-feel-story.md) becomes critical for you. Your first interpretation will almost certainly be "threat"—and you need a way to check whether that's actually true.
 
-For more on how attention filters work, see: [The Brown/Red Exercise](./trauma-and-filters.md#the-brownred-exercise) and [Before You Enter a Space](./trauma-and-filters.md#before-you-enter-a-space).
+For more on how attention filters work, see: [The Brown/Red Exercise](./trauma-and-filters.md#try-this-right-now) and [Before You Enter a Space](./trauma-and-filters.md#before-you-enter-a-space).
 
 ---
 

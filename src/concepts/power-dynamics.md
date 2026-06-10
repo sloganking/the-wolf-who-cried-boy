@@ -132,7 +132,7 @@ So instead of enforcing boundaries, the facilitator appeases. They let the behav
 
 **The participant now has power over the facilitator.**
 
-Not because they have legitimate authority—but because they're willing to use aggression, and the facilitator is afraid of the consequences. The participant's [filters](./trauma-and-filters.md) and the facilitator's [fawning](./fawning.md) are [complementary patterns](./invisible-patterns.md#complementary-filters) — each one reinforcing the other.
+Not because they have legitimate authority—but because they're willing to use aggression, and the facilitator is afraid of the consequences. The participant's [filters](./trauma-and-filters.md) and the facilitator's [fawning](./fawning.md) are [complementary patterns](./invisible-patterns.md#when-filters-find-each-other) — each one reinforcing the other.
 
 ### Even When the Facilitator Does Everything Right
 

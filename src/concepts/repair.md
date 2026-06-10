@@ -18,7 +18,7 @@ But before you close the door — know what you might be leaving on the table. A
 
 Before we talk about how to repair, an important clarification:
 
-**[Repair is not the same as responsibility](./responsibility.md#responsibility--repair).**
+**[Repair is not the same as responsibility](./responsibility.md#responsibility-is-not-repair).**
 
 Responsibility is always yours to take—looking at your part, learning, doing differently next time. That's internal and unconditional.
 
@@ -281,7 +281,7 @@ This is different and harder. The person hasn't seen through their own [story](.
 
 Here's what one of these looks like.
 
-I made a LOW-to-MEDIUM [severity](./severity.md), [unconscious mistake](./types-of-mistakes.md#unconscious-mistakes) — crossed a boundary for about one second, stopped immediately, and apologized. She said she felt complete and didn't need anything else. I told her I didn't feel complete — that when I make a mistake, I like to make it right with actions, not just words — and asked if she'd be open to hearing what I came up with later. She didn't say no.
+I made a LOW-to-MEDIUM [severity](./severity.md), [unconscious mistake](./types-of-mistakes.md#why-unconscious-mistakes-happen) — crossed a boundary for about one second, stopped immediately, and apologized. She said she felt complete and didn't need anything else. I told her I didn't feel complete — that when I make a mistake, I like to make it right with actions, not just words — and asked if she'd be open to hearing what I came up with later. She didn't say no.
 
 Then someone else in the room decided I was dangerous. They called me names in front of a room full of people — names that damaged my reputation. They told others I was dangerous. They spread stories that weren't true. They tried to get me removed from the space. They made death threats. Some people who had been friendly with me before this changed how they treated me because of what this person said. Relationships I'd built were damaged — not by the mistake I'd made, but by a story someone told about me while they were angry. All HIGH [severity](./severity.md). All attempts at permanent harm. That's what happened. That's the [Notice](../tools/notice-feel-story.md).
 

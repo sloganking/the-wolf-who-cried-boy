@@ -191,10 +191,10 @@ Neither serves you. Find the middle: "I made a MEDIUM mistake. I wish I hadn't. 
 
 **Use the reframes from this book.**
 
-- Their over-response is them [using the power that comes with being wronged](./drama-triangle.md#victim) to inflict consequences that don't match what happened
+- Their over-response is them [using the power that comes with being wronged](./drama-triangle.md#the-three-roles) to inflict consequences that don't match what happened
 - You can [rescind the privilege of your touch](./healing-fawning.md#your-touch-is-a-privilege) from people who don't respect it
 - Being attacked doesn't make you a predator any more than their accusations make them right
-- You are still a [Creator](./drama-triangle.md#creator), not a Victim—you can choose how to respond
+- You are still a [Creator](./drama-triangle.md#the-empowerment-shifts), not a Victim—you can choose how to respond
 
 **Let yourself feel it.**
 

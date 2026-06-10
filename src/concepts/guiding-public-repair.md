@@ -319,7 +319,7 @@ But if the harassment continues and the facilitators haven't stopped it — for 
 
 > "I want this to work out. I want to stay here and have a good experience. But I can't do that if [person] is calling me names and attacking my reputation. I need you to enforce the boundary. Can you do that?"
 
-If they can, great. If they can't — then you're in a space that can't hold what it promised. Staying in a container where you're not being treated with dignity isn't resilience. It's [using them to hurt yourself](./guiding-public-repair.md#three-sentences-then-you-leave), one hour at a time. If you pre-committed to your conditions, you already know what to do. Follow through.
+If they can, great. If they can't — then you're in a space that can't hold what it promised. Staying in a container where you're not being treated with dignity isn't resilience. It's [using them to hurt yourself](#speaking-truth-instead-of-fawning), one hour at a time. If you pre-committed to your conditions, you already know what to do. Follow through.
 
 And if leaving is exactly what the angry person wanted — if they were trying to drive you out — leave anyway. "I can't leave because then they win" is a form of being controlled by them. Your decision to stay or go should be based on your own conditions, not on denying them theirs. The person who should be removed is the one harassing you, not you. That's the facilitator's job. If the facilitator won't do it, you can't fix that by suffering through it. Protect yourself first. Their failure is their creation, not yours.
 

@@ -344,6 +344,8 @@ Not: "How could someone experienced do this? They must be a predator."
 
 If you catch yourself thinking that, you're in the filter. Check it.
 
+<a id="i-would-never-do-that"></a>
+
 **Example: "I Would Never Do That"**
 
 This filter often compounds with "Facilitators are perfect"—and it's especially common in newcomers.

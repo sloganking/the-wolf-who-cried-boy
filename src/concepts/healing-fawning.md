@@ -258,7 +258,7 @@ The person who dresses for the room *and* has rooms with no dress code doesn't p
 
 ### Practice Saying Yes to Your Own Desire
 
-The [exposure therapy](#how-the-pattern-breaks) earlier in this chapter rewires fawning through pain — you suffer enough times that your body finally erupts into a boundary, and the relief of saying no overwrites the fear. That works. It's slow, and it hurts, and it works.
+The [exposure therapy](#exposure-therapy-for-fawning) earlier in this chapter rewires fawning through pain — you suffer enough times that your body finally erupts into a boundary, and the relief of saying no overwrites the fear. That works. It's slow, and it hurts, and it works.
 
 But reverse fawning can rewire through pleasure — and it can happen so fast it feels like a different universe.
 
@@ -273,6 +273,8 @@ And it wasn't just the kissing. I had walked in expecting something shady and tr
 I also believed that if I showed attraction to one woman, the others would reject me — jealousy, competition, the rules I'd absorbed growing up in a monogamous context. So I kissed one woman and braced for the fallout. Then I kissed another. Then another. No one freaked out. No one attacked me. No one was jealous. Some of them watched and seemed *more* interested, not less.
 
 None of these beliefs slowly evolved through therapy or insight. They **shattered** — on contact with evidence so overwhelming that my old beliefs about reality could no longer survive.
+
+<a id="belief-shattering"></a>
 
 That's what I mean by **belief-shattering**: a belief that has been running your life — filtering your perception, constraining your behavior, making certain futures feel impossible — breaks irreversibly when lived experience contradicts it so violently that the old prediction can't stand. It's not insight. It's not understanding. It's an experience so emotionally intense that the belief simply cannot coexist with what just happened. You don't update your model. Your model is *destroyed* — and a new one forms in its place, because you now live in a world where the old one is obviously, viscerally wrong.
 
@@ -378,7 +380,7 @@ Here's how the cycle runs:
 >
 > **The hiding was never protection. It was rejection, delayed.**
 
-This is fawning applied to your entire relational life. You're saying "I'm fine" when you mean "I'm wounded." You're presenting a yes when the truth is more complicated. And just like the [Two Victims](#the-two-victims-problem) problem — your partner is also a victim. They were operating on false information. They didn't get to choose the real you, because you never offered it.
+This is fawning applied to your entire relational life. You're saying "I'm fine" when you mean "I'm wounded." You're presenting a yes when the truth is more complicated. And just like the [Two Victims](./fawning.md#the-two-victims-problem) problem — your partner is also a victim. They were operating on false information. They didn't get to choose the real you, because you never offered it.
 
 #### Why You Hide It
 
@@ -434,7 +436,7 @@ And it's not just the eventual reveal that fails. People can sense inauthenticit
 
 **Show the wound first.**
 
-Not as a trauma dump. Not as a test. As information. The same way you'd tell someone before play that you have a [fawning pattern](#the-empowered-fawners-practice) — so they can make an informed choice about whether to engage.
+Not as a trauma dump. Not as a test. As information. The same way you'd tell someone before play that you have a [fawning pattern](./fawning.md#the-empowered-fawners-practice) — so they can make an informed choice about whether to engage.
 
 *I have a wound in this area. This is what I need. This is what I'm like when it surfaces. I'm not hiding it from you, and I'm not asking you to fix it. I'm telling you what's real so you can decide if you want to be here for the real thing.*
 
@@ -465,7 +467,7 @@ If you believe not having had sex in seven years means you're unlovable, hopeles
 
 This is the principle Kasia Urbaniak describes: **your words tell people what ideas to think, but your body tells them how to feel about it.** Your body can't lie about your beliefs. If you say "I haven't had sex in seven years" while sinking into shame, eyes on the floor — they feel the weight of it and want distance. If you say the same sentence with steady eyes and a half-smile — they feel curiosity, not pity. They feel invited, not burdened.
 
-This isn't about performing confidence you don't feel. People see confident men flirting with women, try to say the same words, and it doesn't work — because what works isn't the words. It's the beliefs behind them. If you're performing ease while internally believing you're unlovable, the performance leaks. They can feel the mismatch. The solution isn't to hide what you believe and act okay when you're not. The solution is for your beliefs about the wound itself to change — so that what your body broadcasts matches what your mouth says. If you can't get there yet — if your body genuinely believes you're broken and the wink-and-smile feels impossible — that's the belief talking, and there are tools for changing it: [incantations](./invisible-patterns.md#replacing-the-sentence), [replacing your primary question](./invisible-patterns.md#the-question-underneath-the-sentence), and [belief-shattering experiences](#belief-shattering). When the belief shifts, the body follows, and the other person receives something coherent instead of something performed.
+This isn't about performing confidence you don't feel. People see confident men flirting with women, try to say the same words, and it doesn't work — because what works isn't the words. It's the beliefs behind them. If you're performing ease while internally believing you're unlovable, the performance leaks. They can feel the mismatch. The solution isn't to hide what you believe and act okay when you're not. The solution is for your beliefs about the wound itself to change — so that what your body broadcasts matches what your mouth says. If you can't get there yet — if your body genuinely believes you're broken and the wink-and-smile feels impossible — that's the belief talking, and there are tools for changing it: [incantations](./invisible-patterns.md#replacing-the-sentence), [replacing your primary question](./invisible-patterns.md#your-primary-question), and [belief-shattering experiences](#belief-shattering). When the belief shifts, the body follows, and the other person receives something coherent instead of something performed.
 
 The wound is just information. Your beliefs decide whether that information is a confession or an invitation.
 

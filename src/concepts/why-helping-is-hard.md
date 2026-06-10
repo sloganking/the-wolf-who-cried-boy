@@ -219,7 +219,7 @@ That's why arguing doesn't work — you can't win against a recording by engagin
 
 ### What This Isn't
 
-This isn't absorbing abuse. If someone is attacking _you_ — your character, your boundaries — you still [set boundaries](./when-youve-been-wronged.md#set-boundaries-about-how-youre-spoken-to). Staying doesn't mean accepting harm directed at you.
+This isn't absorbing abuse. If someone is attacking _you_ — your character, your boundaries — you still [set boundaries](./when-youve-been-wronged.md#dont-fawn). Staying doesn't mean accepting harm directed at you.
 
 This is for the person attacking _themselves_. The friend spiraling after being wrongly labeled. The partner who's exhausted and convinced they're failing at everything. The participant in full [sinsickness](./i-made-a-mistake.md#sinsickness) after a mistake — punishing themselves with a severity that dwarfs what they did. With these people, the most powerful move is often the least active: stay, see them, and let your presence answer the question shame keeps asking.
 
