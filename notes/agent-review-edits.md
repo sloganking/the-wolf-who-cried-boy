@@ -67,7 +67,20 @@ Run `python scripts/check_links.py` to re-verify link fixes — run it before ev
 
 ---
 
-## Product / distribution
+## Launch Sequence (decided June 2026)
 
-- [ ] **Access model** — currently honor-system (public repo, free link on coaching site, paid link sent to buyers). Fine for 9 sales; move to a real delivery method before scaling, and update existing buyers when it changes. (Author's own note.)
-- [ ] **Laurie / retreat sales readiness** — the bar before the book is sold at ISTA-adjacent retreats: all items in "Urgent" above, plus the quote-permission screenshots and legal review already tracked in `production-checklist.md` (Quote Permissions, Legal Review — both marked CANNOT SKIP there).
+The path from "9 manual sales" to "scalable product." Vision: ebook + paperback + audiobook on Amazon/Google Play/Audible. The web edition is interim product now, free sample later.
+
+1. - [ ] **Write the buyer list (today, 10 min).** One spreadsheet/file: name + email of all 9 buyers. Every future buyer gets appended. This is the artifact that lets you give early buyers the first-edition ebook free later — no remembering required.
+2. - [ ] **Interim scalable sales (tonight, ~30–60 min): Gumroad.** Product = "The Wolf Who Cried Boy (Web Edition)" at chosen price; deliverable = a 1-page welcome PDF containing the site link (+ note that buyers get the first-edition ebook free when it ships). Buyers pay → instant automatic delivery → Gumroad keeps the buyer list. Replaces PayPal-then-manually-verify-then-manually-send. Doesn't solve link-sharing security — accepted; this is a bridge, retired at Amazon launch. Fallback if Gumroad's content review balks: Payhip.
+3. - [ ] **Polish pass** — `production-checklist.md` "Three Things" (advocacy-gap remainder, tightening pass, quick fixes) + final sweeps. Content freeze at the end. Amazon reviews are permanent; launch the version a stranger can review.
+4. - [ ] **CANNOT-SKIP items before Amazon:** quote-permission screenshots (Laurie + Enki), legal review of the private-message quotes in `drama-triangle.md` (matters MORE for Amazon than for the website).
+5. - [ ] **EPUB conversion** — pandoc pipeline from existing markdown (agent task, free). Internal links survive in EPUB.
+6. - [ ] **KDP ebook launch at \$9.99** (70% royalty band ends at \$9.99 — \$9.99 earns ~\$7/sale, \$14.99 earns ~\$5.25). Email the EPUB free to everyone on the buyer list.
+7. - [ ] **Paperback (after ebook):** KDP print-on-demand — no inventory. Needs a separate fixed-layout interior + wraparound cover. OUTSOURCE the formatting (see below). Paperback carries the \$15–25 price positioning.
+8. - [ ] **Retire the free full site:** repo → private; public site becomes a free-sample edition (intro + 1–2 chapters + "buy on Amazon"); coaching site points at the sample. Leak window closes permanently here.
+9. - [ ] **Post-launch ideas (parked):** linked web edition as premium tier / buyer bonus ("professional tool" — the cross-link web is the feature print can't replicate); companion field manual (seed: `notes/examples.md`); audiobook (ACX/Findaway).
+
+**Outsourcing (high leverage, low burn):** paperback interior formatting ≈ \$200–800 freelance (Reedsy/Upwork), or DIY-ish with Atticus (~\$150 one-time). Cover design ≈ \$100–500 (see `notes/cover-design.md`). Total launch outsourcing budget ≈ \$500–1,500. Rule: don't hire formatting until content freeze (step 3) — formatting before freeze = paying twice. Ask the aunt who publishes what she uses first.
+
+- [ ] **Laurie / retreat sales readiness** — the bar before the book is sold at ISTA-adjacent retreats: steps 3–4 above + "When the Accuser Is Right" section.
