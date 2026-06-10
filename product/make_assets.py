@@ -16,20 +16,27 @@ print("source:", im.size)
 right = im.crop((w // 2 + 6, 0, w, h))
 
 # Auto-trim any near-white margins (gutter remnants / edges).
-def trim_white(img, thresh=235):
-    px = img.load()
-    W, H = img.size
-    def col_dark(x):
-        return any(sum(px[x, y]) / 3 < thresh for y in range(0, H, 8))
-    def row_dark(y):
-        return any(sum(px[x, y]) / 3 < thresh for x in range(0, W, 8))
-    l = next(x for x in range(W) if col_dark(x))
-    r = next(x for x in range(W - 1, -1, -1) if col_dark(x))
-    t = next(y for y in range(H) if row_dark(y))
-    b = next(y for y in range(H - 1, -1, -1) if row_dark(y))
-    return img.crop((l, t, r + 1, b + 1))
+def trim_white(img, white=170, inset=4):
+    """Bounding box of all DARK pixels (the navy cover), excluding any
+    white border/gutter on any side, then a small safety inset."""
+    gray = img.convert("L")
+    mask = gray.point(lambda v: 255 if v < white else 0)
+    bbox = mask.getbbox()
+    l, t, r, b = bbox
+    return img.crop((l + inset, t + inset, r - inset, b - inset))
 
 right = trim_white(right)
+
+# Verify: brightest pixel within 5px of each edge (want dark navy, < ~100)
+px = right.load()
+W, H = right.size
+edges = {
+    "left":   max(sum(px[x, y]) / 3 for x in range(5) for y in range(H)),
+    "right":  max(sum(px[x, y]) / 3 for x in range(W - 5, W) for y in range(H)),
+    "top":    max(sum(px[x, y]) / 3 for y in range(5) for x in range(W)),
+    "bottom": max(sum(px[x, y]) / 3 for y in range(H - 5, H) for x in range(W)),
+}
+print("edge max brightness (want < ~100):", {k: round(v) for k, v in edges.items()})
 right.save(rf"{OUT}\book-cover.png")
 print("book-cover:", right.size)
 

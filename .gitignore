@@ -10,6 +10,13 @@ Thumbs.db
 *.pdf
 *.png
 
+# Product assets — tracked despite the rules above.
+# cover-original.png is the irreplaceable source (AI art, full res);
+# cover.png / thumbnail.png are the final Gumroad assets.
+!product/cover-original.png
+!product/cover.png
+!product/thumbnail.png
+
 # Python
 __pycache__/
 *.pyc
