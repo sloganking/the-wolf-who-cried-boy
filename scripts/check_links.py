@@ -87,5 +87,6 @@ if problems:
     for f, t, kind in problems:
         print(f"{kind:22} {f:{width}}  ->  {t}")
     print(f"\n{len(problems)} problems found across {len(files)} files.")
+    sys.exit(1)
 else:
     print(f"No broken internal links found across {len(files)} files.")

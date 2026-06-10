@@ -51,11 +51,11 @@ Run `python scripts/check_links.py` to re-verify link fixes — run it before ev
 
 ## Housekeeping
 
-- [ ] **Delete `src/concepts/making-it-right.md`** — 10-byte stub ("# Repair"), orphaned, nothing links to it.
-- [ ] **Decide `src/examples.md`** — three good worked scenarios, currently invisible (not in SUMMARY, not linked). Recommendation: add to the Reference section of SUMMARY after Quick Reference. Alternative: cut it.
-- [ ] **`back-cover-blurb.md`** — working file living in `src/`; mdBook copies src files to the published output, so it's fetchable by URL. Move to `notes/` if you don't want it publicly reachable.
+- [x] **Delete `src/concepts/making-it-right.md`** — orphaned 10-byte stub, deleted.
+- [ ] **Decide `src/examples.md`** — recommendation revised after discussion: vestigial as a book chapter (in-chapter personal stories teach better); its real value is as seed material for the future field manual. Suggested: move to `notes/` as field-manual raw material rather than adding to SUMMARY or polishing now.
+- [x] **`back-cover-blurb.md`** — moved `src/` → `notes/` (git mv), no longer in the published site output.
 - [ ] **`before-you-facilitate.md` has no "Related" section** — only chapter that ends without one (just `---`). Content itself is complete (verified, not truncated — also closes the open question in `production-checklist.md` → Structural).
-- [ ] **Optional: add link check to CI** — one extra step in `.github/workflows/deploy.yml` running `scripts/check_links.py` so broken links can never ship again.
+- [x] **Link check in CI** — `scripts/check_links.py` now exits 1 on failure, and `deploy.yml` runs it before the build. A push with broken links fails the workflow (GitHub emails the failure), and the live site stays on the last good version.
 
 ---
 
