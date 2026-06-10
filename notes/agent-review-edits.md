@@ -84,6 +84,11 @@ Run `python scripts/check_links.py` to re-verify link fixes — run it before ev
 
 ---
 
+## Author homework (optional, polish pass)
+
+- [ ] **Read "Letter from Birmingham Jail"** (~30 min, free online) + skim the Birmingham 1963 campaign. Reason: MLK is now load-bearing in two places (Power Debt witness channel, Conclusion enemy-frame passage), and retreat audiences will ask. The Letter is also directly relevant to the book's own concepts — its critique of the "white moderate" who prefers order to justice is essentially the book's under-response/facilitator-fawning pattern at national scale. If it resonates, the more specific references (Birmingham on television, "moderates," jail-filling direct action) can be restored with full ownership; the current book text deliberately uses only plain-language facts the author can already defend (house bombed with family inside, ~30 arrests, stabbed in 1958, assassinated 1968, allies telling him he pushed too hard/too fast — the public criticism that prompted the Letter).
+- **Principle established (June 2026): the retreat Q&A test.** Every line in the book must be something the author can speak about for two minutes if challenged. Factually-accurate-but-unownable references fail this test until the author learns the background.
+
 ## Launch Sequence (decided June 2026)
 
 The path from "9 manual sales" to "scalable product." Vision: ebook + paperback + audiobook on Amazon/Google Play/Audible. The web edition is interim product now, free sample later.
