@@ -1,10 +1,46 @@
 # Gumroad Product Description — *The Wolf Who Cried Boy*
 
-_Sales copy for the Gumroad product page. Copy the block below as-is._
-
 _Aim: sell the book, build desire through a taste of clear sight (not just a description of it), land Logan as a Seer (credibility instrument / coaching funnel), pre-frame how the book gets read (sight, not sides; about you, not just others; bigger than play parties), and self-select the right readers._
 
+_Two versions below: the **recommended** shorter cut for the live product page, and the **full** manifesto kept for reference and longer placements._
+
 ---
+
+## Recommended (product page)
+
+**You already know how to watch the person everyone's afraid of. No one ever taught you to watch the other one — the person who's certain they're helping.**
+
+You've felt a room turn. An accusation lands, the temperature shifts, and by morning people who weren't there are certain they know what happened. Nobody checked.
+
+Here's what the fable leaves out: when someone cries wolf, the village always finds one — whether it exists or not. Someone to name, someone to blame. The accusation just changes its words across the centuries. Witch. Heretic. Communist. Predator.
+
+Here's the part that's hard to believe until you feel it: the people doing the most damage almost never know they're doing it. The fear feels like intelligence. The certainty feels like clarity. Someone can hear you say something plain and true, and their fear rewrites your words before they land — they don't feel a distortion, they feel like they're seeing you clearly. It runs in all of us — the rescuer who destroys what they love, the part of you that says yes when it means no. And the moment you can watch it run, in them and in yourself, it loses its grip.
+
+This book gives that pattern a name — the *righteous predator*, someone causing real harm while certain they're the hero. Name it once and you start seeing it everywhere. Including the times it's you.
+
+It makes one wager: fear is more common than selfishness — so the person shouting "predator" is usually the more dangerous one in the room. Not always. Clear eyes are how you tell which it is this time, and stop the real thing without flinching.
+
+*The Wolf Who Cried Boy* is a field guide to that sight — and to what you do with it: telling a mistake from malice, responding without becoming the harm, taking responsibility without drowning in shame, repairing what punishment only breaks.
+
+It's written from inside sex-positive spaces — play parties, retreats, temples — because that's where these patterns show up fastest. But it's the same machinery anywhere people get scared and certain at once: at work, at home, at the dinner table.
+
+I've been every person in these pages. The one who made a mistake and got treated as if he'd done it on purpose. The one who watched a room turn on someone over a story nobody checked. And the one who almost destroyed a woman who'd done nothing wrong — because my own fear rewrote what she'd plainly told me. I didn't write this from above it. I wrote it from inside all of it.
+
+You don't fix blindness with punishment. You fix it with sight.
+
+You've wished, at least once, that someone in the room could see clearly when it counted. This is how you become that person.
+
+**What you get:**
+
+- The complete book — the living web edition, continuously updated, every idea cross-linked
+- The first-edition ebook, free, the moment it ships
+- Frameworks for the next time a room turns: how serious it actually is, mistake or malice, and the question that stops a witch hunt before it starts
+
+— Logan King, Seer. I find the invisible patterns running people's lives. If this book names something in you, that's the work I do one-on-one → sloganking.github.io/coaching
+
+---
+
+## Full version (reference / longer placements)
 
 **You already know how to watch the person everyone's afraid of. No one ever taught you to watch the other one — the person who's certain they're helping.**
 
