@@ -431,7 +431,7 @@ Beliefs are cause and effect. If you believe something is impossible, you'll nev
 
 The goal of this book isn't to make you stop believing. It's to help you see which beliefs are running you — so you can keep the ones that serve you and replace the ones that don't. Empowering beliefs move you toward what you want and give you more capability. Disempowering beliefs keep you stuck and in pain. Learning to tell the difference — and choosing deliberately — is one of the most important things you can do.
 
-You either master your beliefs or they master you. **Beliefs are the engine of everything good humans accomplish. The dangerous ones aren't the beliefs you hold — they're the ones that hold you. The ones so deep they don't feel like beliefs at all. They just feel like the way things are.**
+**You either master your beliefs or they master you.** Beliefs are the engine of everything good humans accomplish. The dangerous ones aren't the beliefs you hold — they're the ones that hold you. The ones so deep they don't feel like beliefs at all. They just feel like the way things are.
 
 And you will always have some. The goal was never to escape every filter. It's to keep looking for the edges of the ones you're in. The moment you stop looking is the moment they shrink back around you and you don't even notice.
 
