@@ -461,6 +461,12 @@ The shattering cascades. Beliefs that seemed unrelated to the one that broke sud
 
 This is why a single transformative experience can change someone's entire trajectory — not just in the domain where it happened, but across their life. The experience doesn't need to be related to the other beliefs. It just needs to be powerful enough to break the deepest one. The rest don't survive the aftershock.
 
+I know this because it happened to me. I spent seven years without sex or touch, certain I was unlovable and that connection was something other people got to have. Then I walked into my first play party — terrified — and within one night the belief I had organized my whole life around turned out to be flatly, catastrophically false. Connection wasn't scarce. It had been available the entire time. The wall was never in the room. It was in me.
+
+And standing in the rubble of that one, a question arrived that I couldn't un-ask: *if I was that wrong about the thing I was most certain of — the belief reinforced by seven years of evidence and pain — what else am I wrong about? Every limit I've accepted as the plain truth about myself and the world… how many of them are just as false?*
+
+That question is the doorway. You don't have to borrow my belief or my evidence. You only have to look at your own — the limit you are most certain is simply the way things are — and ask whether you have ever actually tested it, or only ever believed it. Mine looked exactly as real as yours does right now. Right up until it didn't.
+
 ---
 
 **Next:** [Body Stories](./body-stories.md) — What trauma actually is, how it lives in the body, and the specific story patterns that cause harm in play spaces.
