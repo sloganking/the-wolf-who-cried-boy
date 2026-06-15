@@ -1,51 +1,40 @@
-# Back Cover Blurb — Options
+# Back Cover
 
-Pick the energy. Or Frankenstein them.
+## Final (recommended)
 
----
+**The most dangerous person in the room is the one certain they're helping.**
 
-## Option A — "The Village"
+You've felt a room turn. An accusation lands, the temperature changes, and by morning people who weren't even there are certain they know what happened. Nobody checked.
 
-Here's what nobody tells you about the boy who cried wolf: in the real world, when someone cries wolf, the village doesn't check and find nothing. They find a wolf — every time. Whether it exists or not. They find someone to label, someone to blame, someone to destroy. And when it's done, they look at the person who raised the alarm and think: *damn, that guy's good at seeing wolves.* And they put him in charge.
+We're taught that harm comes from bad people, so that's who we watch for. But the person about to do the most damage is usually someone protecting something — a partner, a community, a cause — whose fear has hardened into certainty. The people most afraid of monsters are the ones most likely to act like one. Cry victim loud enough, and you become the very thing you feared.
 
-Most harm doesn't come from malice. It comes from people who can't see what they're doing — and the more certain they are that they're right, the more dangerous they become. The Inquisitor never questioned his certainty. That's why he could torture with a clean conscience.
+This book gives that pattern a name — the righteous predator — and once you can see it, you see it everywhere: at the retreat, at work, at the dinner table. It's a field guide to telling a mistake from malice, responding without becoming the harm, and repairing what punishment only breaks.
 
-This book is the thing he never had: a way to check.
-
-**You don't fix blindness with punishment. You fix it with sight.**
-
----
-
-## Option B — "That Could Have Been Me"
-
-You've watched it happen.
-
-Someone makes a mistake. Not a big one. A misread signal. A hand that went somewhere it shouldn't have for one second. Immediately corrected.
-
-And then the room turns. The word *predator* gets spoken. People who weren't there form opinions. A reputation built over years is destroyed in hours. The punishment is permanent. The mistake was not.
-
-And somewhere in the back of your mind, a voice says: *that could have been me.*
-
-This book is for that voice. It's for every person who's watched a community eat someone alive over a story no one verified — and felt the chill of knowing that the only thing separating them from the accused was luck.
-
-It's also for the person doing the eating — who doesn't know they're doing it. Who feels righteous. Who's certain they're protecting people. Who has no idea they just became the most dangerous person in the room.
+I've been every person in these pages: the one accused of something he didn't do, the one who watched a room turn, and the one whose own fear nearly destroyed someone who had done nothing wrong. I didn't write it from above it. I wrote it from inside it.
 
 **You don't fix blindness with punishment. You fix it with sight.**
 
 ---
 
-## Option C — "Three Lines"
+## Author bio (inside flap or bottom)
 
-The most dangerous person in the room isn't the one everyone's afraid of.
+*Logan King is a Seer — he finds the invisible patterns running people's lives and shows them what to do about it. He's been on every side of the dynamics in this book. Everything here comes from lived experience, not theory.*
 
-It's the one who's certain they're right.
-
-**You don't fix blindness with punishment. You fix it with sight.**
+*sloganking.github.io/coaching*
 
 ---
 
-## Author Bio (for whichever option)
+## Alternate hook lines (swap the top line if you want a different energy)
 
-*Logan King is a Seer — he finds the invisible beliefs running people's lives and shows them how to cut the strings. He's been on both sides of every dynamic in this book. Everything here comes from lived experience — not theory.*
+- **The people most afraid of monsters are the ones most likely to act like one.** (most visceral)
+- **When someone cries wolf, the village always finds one — whether it exists or not.** (the fable turned)
+- **You don't fix blindness with punishment. You fix it with sight.** (lead with the kicker instead, move it to the top)
 
-*Learn more: sloganking.github.io/coaching*
+---
+
+## Notes
+
+- The front cover carries the title + subtitle ("...why the most dangerous person in the room is the one trying to help"). The back-cover hook above echoes it on purpose — cohesive, not repetitive.
+- "Why good people cause the most harm" is the matching tagline / essay title — usable as a small line above this blurb if there's room, but the concrete "person in the room" hook is the stronger lead for the back cover.
+- Leave physical room for barcode, price, ISBN, publisher logo.
+
