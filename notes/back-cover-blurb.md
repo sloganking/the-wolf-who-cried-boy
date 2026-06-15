@@ -6,7 +6,7 @@
 
 You've felt a room turn. An accusation lands, the temperature changes, and by morning people who weren't even there are certain they know what happened. Nobody checked.
 
-We're taught that harm comes from bad people, so that's who we watch for. But the person about to do the most damage is usually someone protecting something — a partner, a community, a cause — whose fear has hardened into certainty. The people most afraid of monsters are the ones most likely to act like one. Cry victim loud enough, and you become the very thing you feared.
+We're taught that harm comes from bad people, so that's who we watch for. But the person about to do the most damage is usually someone protecting something — a partner, a community, a cause — whose fear has hardened into certainty. The people most afraid of monsters are the ones most likely to act like one. Cry victim loud enough, and you become the perpetrator.
 
 This book gives that pattern a name — the righteous predator — and once you can see it, you see it everywhere: at the retreat, at work, at the dinner table. It's a field guide to telling a mistake from malice, responding without becoming the harm, and repairing what punishment only breaks.
 
