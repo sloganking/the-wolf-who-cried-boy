@@ -16,11 +16,15 @@ I've been every person in these pages: the one accused of something he didn't do
 
 ---
 
-## Author bio (inside flap or bottom)
+## Author bio
 
-*Logan King is a Seer — he finds the invisible patterns running people's lives and shows them what to do about it. He's been on every side of the dynamics in this book. Everything here comes from lived experience, not theory.*
+Logan King sees the invisible beliefs running people's lives — the ones they can't see themselves — and helps them put them down. He spent most of his own life run by beliefs he couldn't see, and found the way out. He doesn't leave people in it.
 
 *sloganking.github.io/coaching*
+
+### Why no credentials
+
+By design. Stacking institutions and accolades reads as defending the price — the opposite of the certainty that actually sells (Luxury Academy: state it, don't justify it). The book already earned the reader's trust by the time they reach this; the bio is the human signature, not a résumé. If a cold-trust signal is ever needed for someone who hasn't read a word, put one flat understated line elsewhere — never in this bio. Earnings and paying-client claims stay out entirely until they're true.
 
 ---
 
