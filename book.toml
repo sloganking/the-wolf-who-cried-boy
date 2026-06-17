@@ -12,4 +12,9 @@ default-theme = "coal"
 preferred-dark-theme = "coal"
 git-repository-url = "https://github.com/sloganking/the-wolf-who-cried-boy"
 
-# [output.pdf]  # Disabled during serve — causes build to split into docs/html/ and docs/pdf/, breaking mdbook serve
+# PDF generation is disabled during serve — it splits the build into docs/html/ and docs/pdf/, breaking mdbook serve.
+# To regenerate book.pdf in dark mode: uncomment the three lines below, run `mdbook build`,
+# copy docs/pdf/output.pdf to book.pdf, then re-comment. (print-background is required for the dark coal background.)
+# [output.pdf]
+# theme = "coal"
+# print-background = true
