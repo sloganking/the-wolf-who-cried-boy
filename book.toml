@@ -13,8 +13,13 @@ preferred-dark-theme = "coal"
 git-repository-url = "https://github.com/sloganking/the-wolf-who-cried-boy"
 
 # PDF generation is disabled during serve — it splits the build into docs/html/ and docs/pdf/, breaking mdbook serve.
-# To regenerate book.pdf in dark mode: uncomment the three lines below, run `mdbook build`,
-# copy docs/pdf/output.pdf to book.pdf, then re-comment. (print-background is required for the dark coal background.)
+# To regenerate book.pdf: uncomment the block below, run `mdbook build`, copy docs/pdf/output.pdf to book.pdf, then re-comment.
+# - theme = "coal" + print-background = true → dark background (Chrome skips backgrounds by default).
+# - 0.5" margins → denser pages (mdbook-pdf defaults to 1" margins, which looks sparse/squished).
 # [output.pdf]
 # theme = "coal"
 # print-background = true
+# margin-top = 0.5
+# margin-bottom = 0.5
+# margin-left = 0.5
+# margin-right = 0.5
