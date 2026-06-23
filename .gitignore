@@ -32,3 +32,5 @@ audiobook.mp3
 
 # Private AI context (sensitive details for wiki integrity)
 wiki/.private-context.md
+
+*.mp3
