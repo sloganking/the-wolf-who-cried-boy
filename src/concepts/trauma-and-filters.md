@@ -427,7 +427,7 @@ There's a difference between belief as a **tool** and belief as a **prison**.
 
 **Belief as a prison** is invisible. Unchosen. It runs you without your knowledge. "I'm unlovable." "The world isn't safe." "I can't protect myself." These beliefs don't feel like beliefs. They feel like reality. And because you don't know they're there, you can't choose differently. You just live inside them and call it fate.
 
-Beliefs are cause and effect. If you believe something is impossible, you'll never attempt it. If you believe it's inevitable — regardless of how long it takes — you'll keep going until you get there. The belief doesn't just change how you feel. It changes what you *do*. And what you do determines the outcome.
+Beliefs are cause and effect. If you believe something is impossible, you'll never attempt it. And believing you *can* isn't enough on its own — if some part of you is convinced it isn't worth the cost, you'll quit even when success is guaranteed. But if you believe it's *both* inevitable — regardless of how long it takes — *and* worth it, you'll keep going until you get there. The belief doesn't just change how you feel. It changes what you *do*. And what you do determines the outcome.
 
 The goal of this book isn't to make you stop believing. It's to help you see which beliefs are running you — so you can keep the ones that serve you and replace the ones that don't. Empowering beliefs move you toward what you want and give you more capability. Disempowering beliefs keep you stuck and in pain. Learning to tell the difference — and choosing deliberately — is one of the most important things you can do.
 
