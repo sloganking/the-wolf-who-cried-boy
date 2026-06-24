@@ -32,7 +32,7 @@ Most people hear "100% control" and think prevention. That's the obvious half �
 
 The **no to presence** refuses the presence of what you don't want. It's spoken, and usually respected; when it isn't, you say it with action — you leave.
 
-The **no to absence** refuses the _lack_ of what you do want — no to not dancing, not connecting, not being wanted. One person can say no to the dance, but you have 100% control over _whether_ you dance — just not _who_ you dance with. Nothing stands in front of you to refuse, so you don't say this no by stopping something. You say it by acting until the absence ends: ask again, ask elsewhere. **You can have anything you want — just not with whoever you want.**
+The **no to absence** refuses the _lack_ of what you do want — no to not dancing, not connecting, not being wanted. One person can say no to the dance, but you have 100% control over _whether_ you dance — just not _who_ you dance with. Nothing stands in front of you to refuse, so you don't say this no by stopping something. You say it by acting until the absence ends: ask again, ask elsewhere. **You can have whatever you want, just not whoever you want.**
 
 The same [responsibility](../concepts/responsibility.md#the-dice-principle) that lets you prevent outcomes lets you create them. You shape the odds — you choose where to be, who to ask, how to show up. The more creative and persistent you are, the more inevitable the outcome becomes.
 
