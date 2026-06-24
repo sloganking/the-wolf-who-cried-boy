@@ -10,6 +10,18 @@ Append-only record of wiki changes. Each entry starts with a consistent prefix f
 
 ---
 
+## [2026-06-23] edit | `100-percent-control.md` — merged "This Works Both Ways" into "The Two-Sided No"
+
+**Book change:** Merged the `This Works Both Ways` and `The Two-Sided No` subsections into a single `The Two-Sided No` section in `src/tools/100-percent-control.md`. The two sections each walked the prevent/create split separately (redundant restatement); now the split is established once and framed through the two-sided-no lens. All distinct content preserved (the "anything you want — just not with whoever you want" line, the `responsibility#the-dice-principle` link, "shape the odds / inevitable"). Wiki `hundred-percent-control.md` substance unchanged and still accurate.
+
+---
+
+## [2026-06-23] sync | `100-percent-control.md` — "The Two-Sided No" section added
+
+**Book change:** Added a "The Two-Sided No" subsection to `src/tools/100-percent-control.md` (after "This Works Both Ways"). Names both halves of 100% control as forms of *no*: the **no to presence** (refuse what you don't want — spoken, then action/leaving if not respected) and the **no to absence** (refuse the *lack* of what you want — said by acting until the absence ends; the dance: keep asking until a yes). The reframe: the creation/persistence half *is* a no, and naming it turns a passive wait into an owned action. Wiki `hundred-percent-control.md` updated to match; relates to [[gift-of-no]].
+
+---
+
 ## [2026-05-01] sync | `types-of-mistakes.md` harmful-belief section
 
 **Book change:** Personal hickey / harmful-belief example expanded; added explicit link to [[filters-and-ras|Trauma & Filters]] (meaning vs. event) and parallel to Christopher Ryan concubine example; cultural framing (men and women; some women romanticizing *couldn't help himself*) without moralizing eras.

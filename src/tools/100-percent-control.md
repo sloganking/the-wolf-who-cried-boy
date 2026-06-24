@@ -26,15 +26,20 @@ This isn't a contradiction. It's not zero-sum. You're not dividing power between
 
 When something goes wrong, multiple people created it. Both had full control. Both can take full responsibility without diminishing the other's.
 
-### This Works Both Ways
+### The Two-Sided No
 
-Most people hear "100% control" and think about prevention—the power to stop something from happening. That's the obvious half.
+Most people hear "100% control" and think prevention — the power to stop something you don't want. That's the obvious half. But you have just as much control over whether something _does_ happen. Both halves are a *no*.
 
-But you also have 100% control over whether something _does_ happen.
+The **no to presence** refuses what you don't want. It's spoken, and usually respected; when it isn't, you say it with action — you leave.
 
-If you want to dance, one person can say no. But you have 100% control over _whether_ you dance—just not _who_ you dance with. Ask someone else. **You can have anything you want — just not with whoever you want.**
+The **no to absence** refuses the _lack_ of what you do want — no to not dancing, not connecting, not being wanted. One person can say no to the dance, but you have 100% control over _whether_ you dance — just not _who_ you dance with. Nothing stands in front of you to refuse, so you don't say this no by stopping something. You say it by acting until the absence ends: ask again, ask elsewhere. **You can have anything you want — just not with whoever you want.**
 
-The same [responsibility](../concepts/responsibility.md#the-dice-principle) that lets you prevent outcomes lets you create them. You shape the odds. You choose where to be, who to ask, how to show up. The more creative and persistent you are, the more inevitable the outcome becomes.
+The same [responsibility](../concepts/responsibility.md#the-dice-principle) that lets you prevent outcomes lets you create them. You shape the odds — you choose where to be, who to ask, how to show up. The more creative and persistent you are, the more inevitable the outcome becomes.
+
+The first no is spoken. The second is done — and it's the harder one to learn, because nothing is forcing the lack. That's exactly why it stays invisible, and why naming it as a *no* turns a passive wait into an action you own.
+
+> **"Say no to what you don't want. Say no to the lack of what you do."**  
+> — _Logan King👑_
 
 ### Why People Miss This
 

@@ -2,7 +2,7 @@
 title: 100% Control
 tags: [tool]
 source: tools/100-percent-control.md
-updated: 2026-04-14
+updated: 2026-06-23
 ---
 
 # 100% Control
@@ -18,6 +18,8 @@ A dance requires both people. Either one saying no stops the dance. That means e
 **Prevention side:** You can always stop an outcome you don't want. You have [[fawning|100% control]] to say no, to leave, to set a boundary.
 
 **Creation side:** You can't force a specific partner to dance with you. But you can keep asking until someone says yes. You have 100% control over whether you get the outcome eventually — just not with whom or when.
+
+**The two-sided no (added 2026-06-23):** Both sides are a *no*. The **no to presence** refuses what you don't want (spoken first; if not respected, said with action — you leave). The **no to absence** refuses the *lack* of what you want — no to not dancing, not connecting, not being wanted — said not by stopping something but by acting until the absence ends. Most people only recognize the first. Naming the second as a *no* turns a passive wait into an owned action. Relates to [[gift-of-no]].
 
 ---
 
