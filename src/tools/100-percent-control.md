@@ -38,7 +38,7 @@ The same [responsibility](../concepts/responsibility.md#the-dice-principle) that
 
 The first no is spoken. The second is done — and it's the harder one to learn, because nothing is forcing the lack. That's exactly why it stays invisible, and why naming it as a *no* turns a passive wait into an action you own.
 
-> **"Say no to what you don't want. Say no to the lack of what you do."**  
+> **"No isn't only what you refuse to allow. It's what you refuse to live without."**  
 > — _Logan King👑_
 
 ### Why People Miss This
