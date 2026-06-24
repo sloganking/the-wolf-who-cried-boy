@@ -28,9 +28,9 @@ When something goes wrong, multiple people created it. Both had full control. Bo
 
 ### The Two-Sided No
 
-Most people hear "100% control" and think prevention — the power to stop something you don't want. That's the obvious half. But you have just as much control over whether something _does_ happen. Both halves are a *no*.
+Most people hear "100% control" and think prevention. That's the obvious half — but the presence of what you don't want and the lack of what you do are both things you don't want. Both are a *no*.
 
-The **no to presence** refuses what you don't want. It's spoken, and usually respected; when it isn't, you say it with action — you leave.
+The **no to presence** refuses the presence of what you don't want. It's spoken, and usually respected; when it isn't, you say it with action — you leave.
 
 The **no to absence** refuses the _lack_ of what you do want — no to not dancing, not connecting, not being wanted. One person can say no to the dance, but you have 100% control over _whether_ you dance — just not _who_ you dance with. Nothing stands in front of you to refuse, so you don't say this no by stopping something. You say it by acting until the absence ends: ask again, ask elsewhere. **You can have anything you want — just not with whoever you want.**
 
