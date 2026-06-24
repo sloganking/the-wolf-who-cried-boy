@@ -94,7 +94,7 @@ The person everyone calls powerful is often the most exposed. The person everyon
 
 Everyone's instinct is to protect the person who *looks* vulnerable. Which is exactly why the person who *doesn't* look vulnerable has no protection when things go wrong. Nobody's watching out for them. Nobody thinks they need it. And that blind spot is where the most damage happens.
 
-**The person who looks the least vulnerable is often the most vulnerable.** They have no safety net. No one will rally to their defense. No cultural narrative protects them. If something goes wrong, they absorb the full weight of it alone — and often can't even name what's happening to them, because the language doesn't exist. We have words for the vulnerability of the person who's tied up. We don't have words for the vulnerability of the person who's about to lose everything over a mistake.
+**The person who looks the least vulnerable is often the most vulnerable.** They have no safety net. No one will rally to their defense. No cultural narrative protects them. If something goes wrong, they absorb the full weight of it alone — and may not be able to name what's happening to them, because the language doesn't exist. We have words for the vulnerability of the person who's tied up. We don't have words for the vulnerability of the person who's about to lose everything over a mistake.
 
 ## Top and Bottom Vulnerability
 
