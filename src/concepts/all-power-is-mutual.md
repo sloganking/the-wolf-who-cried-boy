@@ -180,6 +180,8 @@ But power debt is neutral. It gives you power. It doesn't make you right about w
 
 If you've been wronged, the choice isn't whether you have the debt — you do. The choice is what you do with it — collect wisely, collect destructively, or let it sit unutilized and pursue what makes you happy instead. All three are real options. But "I'm powerless and there's nothing I can do" is never true. You're holding uncollected debt. Whether and how you spend it is up to you.
 
+#### My Own Power Debt
+
 A [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) targeted me at a retreat. No one handled it well — not the staff, not the participants, not me. I walked away with no apology, no vindication, nobody correcting the record. Every drop of victim-position power in that room went to the person attacking me — the room believed them, and belief is what pays. By every visible measure, I just lost. But the gap between what happened and what the room believed was wide. That gap was the debt, and it's been accruing ever since.
 
 The experience also handed me the raw material for collecting it: I'd seen the pattern from the inside — how the mob forms, how facilitators freeze and fail to protect out of fear, what it's like to be squished between an over-response and an under-response at the same time — attacked from one side, unprotected on the other. It felt like shit. This book is the collection. And I'm not spending the debt on the person who attacked me — I'm spending it on the pattern that ran them. Partly fueled by anger about what happened to me, and partly fueled by heart — I didn't want it to happen to anyone else. Both are true. Both are fuel.
