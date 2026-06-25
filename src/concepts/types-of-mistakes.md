@@ -1,13 +1,5 @@
 # Types of Mistakes
 
-> **"It's never what we're doing — it's always where we're coming from in doing it."**
->
-> — _Ariel Zeigler_
-
-In other words: **it's not what you do, it's why you do it.**
-
-<!-- TODO: add Ariel Zeigler's title/credit next to her name once she sends it -->
-
 ---
 
 ## The Popcorn Metaphor

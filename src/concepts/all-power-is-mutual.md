@@ -210,6 +210,14 @@ And I know that value points both ways, because I've held it up to the harder te
 
 That's **selfless defense** — a play on self-defense. The action is identical: you stand your ground. The source is opposite. Self-defense protects you. **Selfless defense** uses the act of protecting yourself to protect everyone the precedent would have reached. From the outside, no one can tell them apart — which is exactly why a room convinced you're selfish will read even the most selfless stand as one more selfish move. The action never told them the truth. Only the reason did — and the reason lives where they weren't looking: inside you.
 
+> **"It's never what we're doing — it's always where we're coming from in doing it."**
+>
+> — _Ariel Zeigler_
+
+In other words: **it's not what you do, it's why you do it.**
+
+<!-- TODO: add Ariel Zeigler's title/credit next to her name once she sends it -->
+
 ## The Practical Takeaway
 
 When you find yourself thinking "they have all the power and I have none"—stop.
