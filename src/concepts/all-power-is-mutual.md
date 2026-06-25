@@ -204,6 +204,8 @@ I did want to be treated fairly — and I'll name that plainly, because [hiding 
 
 What kept me standing was that it wasn't only about me. The largest reason I did it was for them — and for everyone who would come after them. Because it wasn't just them: if this could be done to someone without anyone stopping to check what was true, it could be done to anyone. I was standing up for the people attacking me too, even though they couldn't see it — because I knew what a [culture of punishment](./punishment-culture.md) eventually costs the people who build it.
 
+Under all of it was a principle I won't trade: no human being should be accused and have their reputation attacked while a room decides the verdict without checking what's true. I wasn't really defending *me*. I was defending *that* — a value that doesn't change based on who's in the chair. It just happened to be me in the chair that day. Standing up for myself was the only way to stand up for the principle, because in that moment, I was where it was being broken.
+
 That's **selfless defense** — a play on self-defense. The action is identical: you stand your ground. The source is opposite. Self-defense protects you. **Selfless defense** uses the act of protecting yourself to protect everyone the precedent would have reached. From the outside, no one can tell them apart — which is exactly why a room convinced you're selfish will read even the most selfless stand as one more selfish move. The action never told them the truth. Only the reason did — and the reason lives where they weren't looking: inside you.
 
 ## The Practical Takeaway
