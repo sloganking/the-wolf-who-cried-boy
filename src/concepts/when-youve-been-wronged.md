@@ -145,6 +145,8 @@ The people who still call this manipulation after watching you state a belief in
 
 **Your body trusts what you show it, not what you tell it.** If you stay and absorb it, you show your body: *when this happens, I'm powerless.* If you set the boundary and leave, you show your body: *when this happens, I handle it.* A body that trusts you to protect it doesn't need to be terrified of making mistakes in the future. The fear was never about the angry person — it was about whether you could keep yourself safe. (For the full picture of why this matters, see [what happens when you stay vs. when you leave](./guiding-public-repair.md#if-youre-being-yelled-at).)
 
+And if any part of you worries that standing up like this is selfish — that you're just trying to save yourself — it can be the very opposite. Defending yourself here is also how you defend everyone who would face the same treatment after you. This book calls that [selfless defense](./all-power-is-mutual.md#selfless-defense): the same act as self-defense, aimed at protecting more than yourself.
+
 ### Remember: Their Response Is Data About Them
 
 Their over-response tells you about **their patterns**, not your worth.
