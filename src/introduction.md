@@ -136,6 +136,18 @@ If that lands wrong at first, sit with it. The concepts build on each other.
 
 ---
 
+## A Note on Perception and Prescription
+
+This book moves between two registers, and it helps to know which one you're reading at any moment.
+
+The first is **perception** — what I see. The patterns, the dynamics, the frequencies. When I say that fear drives more harm than malice, or that nine times out of ten a boundary crossing is a mistake and not a predator, I am not citing a study. I haven't run the math, and I'm wary of anyone in these spaces who claims they have. I'm telling you what I've watched happen, again and again, across years in these rooms — and what follows from the single premise this book rests on: that human fear is far more common than human selfishness. That premise is a bet, not a measurement. So hold my frequencies as field observation and reasoning from that bet — signposts, not statistics. Where I have a source, I cite it. Where I don't, you're hearing my read. Weigh it against your own.
+
+The second is **prescription** — what I recommend you do about it. The protocols, the tools, the way to hold a container when everything is going wrong. Some of this I have lived and tested. Some of it is the best solution I can design for problems this industry has barely named — reasoned from principle, not yet battle-tested at scale. And I'll tell you plainly where I stand: I've spent years in these spaces as a participant and an assistant, on every side of every dynamic in this book, including being falsely accused. I have not spent years as the lead facilitator at the front of the room. That is the vantage I write from — the person inside the experience, not the one running it. It's a different view, and in a book about the people the room stops seeing, it may be the more useful one. But it means my prescriptions deserve your scrutiny, and the scrutiny of facilitators who have held the room longer than I have. Take what's true. Test the rest.
+
+These two registers are not the same, and the difference is the whole point. A perception you can disagree with and still use. A prescription you should pressure-test before you trust it. Keep them apart as you read, and you'll get more out of both.
+
+---
+
 ## How to Read This
 
 ### If you're new to these spaces:
