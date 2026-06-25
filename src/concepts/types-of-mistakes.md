@@ -4,6 +4,8 @@
 >
 > — _Ariel Zeigler_
 
+In other words: **it's not what you do, it's why you do it.**
+
 <!-- TODO: add Ariel Zeigler's title/credit next to her name once she sends it -->
 
 ---
