@@ -166,6 +166,8 @@ Complete alphabetical glossary of terms coined or specifically defined in *The W
 
 **Selfish Predator** — Someone who knowingly causes harm for their own benefit. Far rarer than [[righteous-predator|righteous predators]], and limited in scale because "let's be evil" doesn't recruit. → [[righteous-predator]] | `why-rescuers-are-dangerous.md`
 
+**Selfless Defense** — A play on self-defense: standing your ground not (only) to protect yourself, but to protect everyone the precedent would reach. The action is identical to self-defense; the source is opposite. Because outsiders can't see the motive, a room convinced you're selfish reads even a selfless stand as one more selfish move. → [[conservation-of-power]] | `all-power-is-mutual.md`
+
 **Severity Model** — LOW (inconvenience, recoverable quickly), MEDIUM (real impact, recoverable with effort), HIGH (permanent or near-permanent damage). → [[severity-model]] | `severity.md`
 
 **Severity Shift** — In play spaces you cross into MEDIUM severity by default. Mistakes have real consequences. → [[severity-model]] | `severity.md`

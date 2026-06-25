@@ -188,6 +188,18 @@ The collection is still in progress. If this book makes me an authority in these
 
 And if you feel something reading this — anger at what happened to me, or the older anger of remembering when it happened to you, or to someone you love — that's power debt too. It doesn't only accrue to the person who was wronged. Injustice witnessed becomes fuel in the witness. That's how movements happen. Many of the people who marched with Martin Luther King Jr. were spending debt of their own — they'd lived the wrong directly. But many more had never been wronged themselves — including millions who never marched at all, just watched what was happening on television. They were spending debt that accrued in them by witnessing what was done to others. So if you're holding some now, spend it the way this book teaches: not at the person who attacked me — that would just make you the next mob — but at the pattern. The next time a room turns on someone who made a mistake, you'll know exactly what to do with it.
 
+### Selfless Defense
+
+Earlier I said no one handled that day well — *not even me.* Here's what I mean. In the moment, I stood up for myself, and I did it the hard way: I argued, I tried to make the room hear me. I've since learned there's a better move — [state a principle, set a boundary, and leave](./when-youve-been-wronged.md#show-your-humanity) — instead of battling someone who can't hear you and handing the room more "evidence" for the story they've already written. I didn't have that tool yet. So to a crowd that had already decided, my standing up looked like exactly what they expected: a guilty man scrambling out of consequences.
+
+But the reason I stood there wasn't the one they assigned me.
+
+I did want to be treated fairly — and I'll name that plainly, because [hiding your self-interest makes you harder to trust, not easier](./why-helping-is-hard.md#humans-are-suspicious-of-selflessness). Wanting fair treatment is real, and it's allowed. But I'm honest enough to know it might not have been enough to keep me there. Walking away and letting the stress end would have been easier. If it were only about me, I might have done exactly that.
+
+What kept me standing was that it wasn't only about me. The largest reason I did it was for them — and for everyone who would come after them. Because it wasn't just them: if this could be done to someone without anyone stopping to check what was true, it could be done to anyone. I was standing up for the people attacking me too, even though they couldn't see it — because I knew what a [culture of punishment](./punishment-culture.md) eventually costs the people who build it.
+
+That's **selfless defense** — a play on self-defense. The action is identical: you stand your ground. The source is opposite. Self-defense protects you. **Selfless defense** uses the act of protecting yourself to protect everyone the precedent would have reached. From the outside, no one can tell them apart — which is exactly why a room convinced you're selfish will read even the most selfless stand as one more selfish move. The action never told them the truth. Only the reason did — and the reason lives where they weren't looking: inside you.
+
 ## The Practical Takeaway
 
 When you find yourself thinking "they have all the power and I have none"—stop.

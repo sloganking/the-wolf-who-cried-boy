@@ -10,6 +10,12 @@ Append-only record of wiki changes. Each entry starts with a consistent prefix f
 
 ---
 
+## [2026-06-25] add | `all-power-is-mutual.md` — new "Selfless Defense" section + coined term
+
+**Book change:** Added a `### Selfless Defense` subsection to `src/concepts/all-power-is-mutual.md` (after `### Power Debt`, before `## The Practical Takeaway`). Coins **selfless defense** (a play on self-defense): the same action — standing your ground — but sourced from protecting everyone the precedent would reach, not only yourself. Built on the author's retreat story already in Power Debt; names the selfish desire honestly (links [[why-helping-is-hard|Humans Are Suspicious of Selflessness]] — hiding self-interest erodes trust), admits self-interest alone might not have been enough to stay, then reveals the selfless motive ("the largest reason I did it was for them — and everyone who would come after"). Notes the better in-the-moment move (links `when-youve-been-wronged#show-your-humanity`) and the precedent cost (links `punishment-culture.md`). Deliberately avoids labeling all attackers "narrative-locked" ("even the ones attacking me ... even though they couldn't see it") to stay inarguable. Glossary updated under S.
+
+---
+
 ## [2026-06-23] edit | `100-percent-control.md` — merged "This Works Both Ways" into "The Two-Sided No"
 
 **Book change:** Merged the `This Works Both Ways` and `The Two-Sided No` subsections into a single `The Two-Sided No` section in `src/tools/100-percent-control.md`. The two sections each walked the prevent/create split separately (redundant restatement); now the split is established once and framed through the two-sided-no lens. All distinct content preserved (the "anything you want — just not with whoever you want" line, the `responsibility#the-dice-principle` link, "shape the odds / inevitable"). Wiki `hundred-percent-control.md` substance unchanged and still accurate.
