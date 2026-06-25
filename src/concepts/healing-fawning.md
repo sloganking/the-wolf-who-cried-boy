@@ -567,7 +567,7 @@ The experience didn't change. Your interpretation did. And that story will shift
 ### What Confidence Actually Is
 
 > **"Confidence is a generalized expectation of positive outcomes."**  
-> — _Chase Hughes, [NCI University](https://nci.university/)_
+> — _Chase Hughes, founder of [NCI University](https://nci.university/)_
 
 Confidence isn't a performance. It's not something you fake or force. It's what happens when your body has enough evidence that things tend to work out.
 
