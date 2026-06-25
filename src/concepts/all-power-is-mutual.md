@@ -190,6 +190,12 @@ And if you feel something reading this — anger at what happened to me, or the 
 
 ### Selfless Defense
 
+> **"You know what happens to you if you go through with this."**
+>
+> **"I know what happens to everyone else if I don't."**
+>
+> — _Top Gun: Maverick_
+
 Earlier I said no one handled that day well — *not even me.* Here's what I mean. In the moment, I stood up for myself, and I did it the hard way: I argued, I tried to make the room hear me. I've since learned there's a better move — [state a principle, set a boundary, and leave](./when-youve-been-wronged.md#show-your-humanity) — instead of battling someone who can't hear you and handing the room more "evidence" for the story they've already written. I didn't have that tool yet. So to a crowd that had already decided, my standing up looked like exactly what they expected: a guilty man scrambling out of consequences.
 
 But the reason I stood there wasn't the one they assigned me.
