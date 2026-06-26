@@ -128,6 +128,14 @@ Even when you learn that you _have_ an RAS, you still don't know what it's filte
 
 That's why RAS-level distortions are so hard to overcome. You can't redirect your attention to possibilities that never reached your conscious mind. You can't consider interpretations that your brainstem already filtered out of existence. You don't even know they were options.
 
+### Everything Has Everything In It
+
+Your filter doesn't only choose which *things* register. It also chooses which *side* of a thing you see.
+
+Everything has everything in it. Every person, every situation, every event holds beauty and ugliness, evidence for hope and evidence for despair — all of it, at once. Look closely at anyone and you'll find something to admire and something to recoil from. Both are really there. Which one you walk away with isn't dictated by them — it's dictated by where you looked.
+
+Your attention lands on the positive aspect or the negative one, and that becomes the whole picture to you. The selection hardens into a belief; the belief produces a feeling; the feeling drives an action. You think the facts made you feel and act the way you did — but the facts held both sides. Your attention picked one, and everything downstream followed from the half you focused on. You can be completely accurate and still be working from half the truth — **factually selective**, right about your slice and blind to the rest.
+
 ### The Horror Movie Effect
 
 You know how after watching a horror film, you suddenly feel unsafe in your own home?

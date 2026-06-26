@@ -48,11 +48,15 @@ Complete alphabetical glossary of terms coined or specifically defined in *The W
 
 **Emotional Mirroring** — Matching someone's emotional state when calm doesn't reach them. A de-escalation technique of last resort. → `when-things-go-wrong.md`
 
+**Everything Has Everything In It** — Every person, situation, and event contains all qualities at once — beauty and ugliness, hope and despair. Which one you perceive isn't dictated by reality but by where your attention lands; that selection becomes belief, then feeling, then action. → [[filters-and-ras]] | `trauma-and-filters.md`
+
 **Explanation Trap** — When explaining yourself gets read as making excuses or manipulation. Common when someone is in [[narrative-lock]]. → [[witch-hunt-dynamic]] | `before-you-judge.md`
 
 **Exposure Therapy for Fawning** — Practice saying no in safe containers until the nervous system learns a new pattern. The pattern breaks through experience, not insight. → [[fawning]] | `fawning.md`
 
 ## F
+
+**Factually Selective** — Being accurate about the aspect of the facts you're focused on while blind to the aspects you're not. You can be completely factual and still be working from half the truth. The accurate-but-partial result of [[filters-and-ras|everything has everything in it]]. → [[filters-and-ras]] | `trauma-and-filters.md`
 
 **Fawning** — Trauma response where someone says yes when they mean no. Not politeness — a deep automatic override that can suppress even survival instinct. → [[fawning]] | `fawning.md`
 

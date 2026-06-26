@@ -10,6 +10,12 @@ Append-only record of wiki changes. Each entry starts with a consistent prefix f
 
 ---
 
+## [2026-06-25] add | `trauma-and-filters.md` — new "Everything Has Everything In It" subsection + two coined terms
+
+**Book change:** Added a `### Everything Has Everything In It` subsection to `src/concepts/trauma-and-filters.md` (under "Stories Control Attention," after the brown-red/RAS exercise, before "The Horror Movie Effect"). Coins **everything has everything in it** (every person/situation holds all qualities at once — beauty and ugliness, hope and despair — and your attention selects which side, which becomes belief → feeling → action) and **factually selective** (accurate about the side you're focused on, blind to the side you're not). Extends the chapter's existing attention→story→feeling chain with the everything-contains-everything premise and the →action tail. Kept tight (3 paragraphs) to extend rather than restate the RAS/elephant material. No external attribution (Tony Robbins already quoted in-section for the same root idea; the lead distinction is the author's). Glossary updated under E and F.
+
+---
+
 ## [2026-06-25] add | `all-power-is-mutual.md` — new "Selfless Defense" section + coined term
 
 **Book change:** Added a `### Selfless Defense` subsection to `src/concepts/all-power-is-mutual.md` (after `### Power Debt`, before `## The Practical Takeaway`). Coins **selfless defense** (a play on self-defense): the same action — standing your ground — but sourced from protecting everyone the precedent would reach, not only yourself. Built on the author's retreat story already in Power Debt; names the selfish desire honestly (links [[why-helping-is-hard|Humans Are Suspicious of Selflessness]] — hiding self-interest erodes trust), admits self-interest alone might not have been enough to stay, then reveals the selfless motive ("the largest reason I did it was for them — and everyone who would come after"). Notes the better in-the-moment move (links `when-youve-been-wronged#show-your-humanity`) and the precedent cost (links `punishment-culture.md`). Deliberately avoids labeling all attackers "narrative-locked" ("even the ones attacking me ... even though they couldn't see it") to stay inarguable. Glossary updated under S.
