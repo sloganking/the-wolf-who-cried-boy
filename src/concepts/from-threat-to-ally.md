@@ -78,7 +78,7 @@ They don't see what you see. They don't understand what you understand. Their be
 
 When you recognize this, the optimal strategy changes. As long as the option is possible, it's better to work toward understanding—because you're not dealing with evil people who can't be reasoned with. You're dealing with confused people who _could_ be reached.
 
-Communication becomes the superior strategy. Not because it's morally better (though it might be). Because it's _strategically_ better.
+Communication becomes the superior strategy. Not the softer choice—the more effective one.
 
 ---
 
