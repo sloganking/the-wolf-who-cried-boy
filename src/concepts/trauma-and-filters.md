@@ -339,6 +339,8 @@ No predator was ever present. But the trauma fed itself, proved itself, and grew
 As the old saying goes:
 
 > *"My life has been filled with terrible misfortune, most of which never happened."*
+>
+> — _author unknown_
 
 And the initial feeling doesn't have to come from trauma. It can come from jealousy, insecurity, fear of inadequacy—anything that creates a strong fear reaction in your body. Any strong feeling that arrives without a clear label will get one, and in these spaces, "predator" is the label that's always within reach. The person doesn't know what's actually driving the feeling. They just know something feels wrong, and their mind [builds a story](./body-stories.md#when-the-feeling-comes-first) to explain it.
 
