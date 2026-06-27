@@ -84,29 +84,29 @@ If you think these patterns are purely intellectual—that you can think your wa
 
 In _My Grandmother's Hands_, Resmaa Menakem makes this point about racism: it's not a problem of the mind. It's a trauma stored in the body. When someone with that body story sees a member of a race they have fear around, they don't consciously decide to feel afraid. Their body reacts—muscles tense, heart rate spikes, threat detection activates—before any conscious thought occurs.
 
-Here's an example from the book that shows exactly how this plays out:
+Consider what happened in North Miami in July 2016.
 
-A crime occurred. A police officer arrived on scene. A Black man was present—he may have even been the one who called the police. He'd done nothing wrong. But when the officer arrived, the Black man immediately got on the ground, lowered his head, and put his arms above his head. He was afraid of the cop and wanted to show he wasn't a threat.
+An autistic man wandered from his group home into the street, holding a silver toy truck. His behavioral therapist, Charles Kinsey, followed to bring him back. Someone called 911 saying a man had a gun. Police arrived. Kinsey lay on his back, hands in the air, calling out — repeatedly — that there was no gun, only a toy truck, and that he was a therapist.
 
-The officer shot him. Multiple times. Hit him in the leg.
+An officer fired three shots. Two missed; one hit Kinsey in the leg. When Kinsey asked why, the officer answered:
 
-The Black man called out: _"Why did you shoot me?"_
+> _"I don't know."_
 
-The officer paused. Then answered: _"I don't know."_
+When you read that, which way did your mind go?
 
-**"I don't know."** That's not intellectual racism. That's a body story firing. The officer's trauma response activated—something about the situation triggered "threat"—and his body acted before his conscious mind could intervene. When his conscious mind caught up, it had no explanation. Because there wasn't one. It was automatic.
+Maybe: he's lying — he fired on a man lying on the ground because that man was Black, and "I don't know" is the cover. Maybe the reverse: no officer shoots someone with their hands up unless something forced it, so "I don't know" is the honest answer of a man who'll replay it for the rest of his life. Or maybe: I can't tell what happened from this.
 
-And notice the [fawning](./fawning.md) parallel: the Black man's fear response—getting on the ground, making himself small—may have been the very thing that triggered the officer's body story. His submission looked like guilt. His fear looked like evidence. The fawning created the outcome it was trying to prevent.
+If your mind went to the first, look at what it just did: it reached a verdict. That verdict is a plausible theory — it can't be ruled out from what you read. But it can't be confirmed from what you read either. It has to be investigated. Taking it as fact and acting on it is the high-severity harm this book keeps describing.
 
-If the Black man had been standing casually—an expression of relief and gratitude when the officer arrived, "Thanks, officer, glad you're here"—the outcome may have been completely different. The officer would have read a calm person who was there to help, not a threat. But because the Black man was afraid, his body communicated danger to the officer's body. And the officer's body reacted.
+If your mind went to the second, it did the same thing pointed the other way: reached a verdict that can't be confirmed from what you read, and needs investigating just as much.
 
-**This is because most communication is nonverbal.** Your words tell someone what to think. Your body tells them how to feel about it. If you say "I got fired today" in a panic, they'll panic with you. If you say "I got fired today" with a smile and ease, they'll feel like it's not a big deal—even though the words are identical.
+Only one response never has to be walked back: _I don't know yet._ The other two are a verdict reached ahead of the evidence — [narrative lock](./invisible-patterns.md#narrative-lock). And it can happen here, on a subject far from this book's usual one. The machinery doesn't care what the topic is.
 
-The Black man's words didn't matter. His body communicated: _I am afraid of you._ And the officer's body concluded: _He should be afraid of me._ And it came up with its own explanations as to why, a.k.a. they did something wrong, they're the criminal.
+So what did investigation surface? Something messier than either verdict. The officer wasn't aiming at Kinsey at all — he testified he believed the autistic man had a gun and was about to kill Kinsey, and that he fired to _protect_ him. He says he never heard Kinsey shouting "toy truck." He shot an innocent man he believed he was saving. Across two juries and an appeals court, it never resolved cleanly: acquitted of intending harm, convicted of negligence, the conviction later overturned. Even the system built to investigate couldn't land on a verdict.
 
-This is the same dynamic described throughout this book. Someone [fawns](./fawning.md), and their appeasement gets interpreted as a confession. Someone acts afraid, and their fear gets interpreted as evidence of wrongdoing. The body story creates the behavior that confirms the other person's body story.
+What _can_ be said is what the visible facts are consistent with. A man fires on someone lying down, hands up, plainly no threat — and the first words out of his mouth are "I don't know." That is what a body story looks like from the outside: a fear response firing faster than thought, leaving the conscious mind with nothing to point to, because there was no decision to begin with. The toy truck is the tell — a call said "gun," and a primed nervous system turned a child's toy into a weapon. That's not a choice. It's a [filter](./trauma-and-filters.md) firing.
 
-This isn't about racism specifically. Racism is one manifestation of a universal pattern: **trauma stored in the body causes automatic reactions that harm people—and the person causing harm often can't explain why they did it.** Because it wasn't a decision. It was a reflex.
+Whether the officer should face consequences is a separate question — that's [responsibility](./responsibility.md). This is about the mechanism: trauma and fear stored in the body cause automatic reactions that harm people — and the person who caused the harm often genuinely cannot tell you why. Racism is one place this shows up. It is not the only one.
 
 ### When the Feeling Comes First
 
