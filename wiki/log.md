@@ -10,6 +10,16 @@ Append-only record of wiki changes. Each entry starts with a consistent prefix f
 
 ---
 
+## [2026-06-29] edit | `invisible-patterns.md` — Narrative Lock signal #3 expanded to "No Real Repair Path" (+ painted-on door / domestication-through-shame)
+
+**Book change:** Renamed Narrative Lock's third signal from **No Repair Path** to **No Real Repair Path** and split it into two failure modes: the **closed door** (the original — "I'm done," no future repair) and the **painted-on door** (new — a path *appears* to exist, but the only way through is to agree with the story: accept the assigned motive, confirm the category, take on the label). Distinction drawn: real repair asks you to own *what you did* (a behavior/impact); a painted-on door asks you to ratify *who they've decided you are* — a confession demanded as its price, i.e. the [[fawning]] the book already warns about, charged as a toll for reentry. Added the cost mechanism: taking on a degrading label to make an angry person stop is **domestication through shame** (label = leash, compliance = rewarded behavior, each success lowers the bar for the next demand), and the exact route by which a story about *what you did* hardens into [[sinsickness]] about *who you are* — a verdict installed by someone else and carried by you. Also added a symmetric self-check question (#4: is the "way back" I'm offering real, or a painted-on door?) so the lens turns back on the reader, per the chapter's existing turn-it-around move.
+
+**Writing-guide check:** framed from the target's side (what accepting the label does to *you*) to stay inarguable and non-moralizing; "domesticate" used once as a plain descriptive verb, not coined/bolded as a Defended Term; used a bracketed placeholder ("[what they called you]") instead of parading a specific label, per "Don't Repeat Fiction." Origin: a real coaching incident (worked through in the author's private notes) — a narrative-locked "repair path" whose only way back required accepting a "you're not a man, you're a boy" label.
+
+**Files updated:** `src/concepts/invisible-patterns.md` (signal #3 + self-check), `wiki/narrative-lock.md` (signal #3 + self-check), `wiki/glossary.md` (Narrative Lock entry + new **Painted-On Door** entry), `wiki/log.md` (this entry).
+
+---
+
 ## [2026-06-25] add | `trauma-and-filters.md` — new "Everything Has Everything In It" subsection + two coined terms
 
 **Book change:** Added a `### Everything Has Everything In It` subsection to `src/concepts/trauma-and-filters.md` (under "Stories Control Attention," after the brown-red/RAS exercise, before "The Horror Movie Effect"). Coins **everything has everything in it** (every person/situation holds all qualities at once — beauty and ugliness, hope and despair — and your attention selects which side, which becomes belief → feeling → action) and **factually selective** (accurate about the side you're focused on, blind to the side you're not). Extends the chapter's existing attention→story→feeling chain with the everything-contains-everything premise and the →action tail. Kept tight (3 paragraphs) to extend rather than restate the RAS/elephant material. No external attribution (Tony Robbins already quoted in-section for the same root idea; the lead distinction is the author's). Glossary updated under E and F.

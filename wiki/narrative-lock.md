@@ -17,7 +17,7 @@ When someone stops processing new information and filters everything to confirm 
 
 2. **Framework Substitution** — They stop talking about the specific event and start invoking a larger system. "This is exactly what toxic masculinity is." "People like you are the reason spaces aren't safe." Each label carries an entire framework — predator, narcissist, abuser — that makes curiosity unnecessary.
 
-3. **No Repair Path** — Healthy boundaries include a way back, even if distant. Narrative Lock closes the door entirely. "I'm done." "There's nothing to discuss." No future where repair becomes possible.
+3. **No Real Repair Path** — Healthy boundaries include a way back, even if distant. Narrative Lock fails this in one of two ways. **Closed door:** "I'm done." "There's nothing to discuss." No future where repair becomes possible — because the label isn't a claim about what you did, it's a *prediction* of what you'll do; certainty about it forecasts you'll always be bad, so there's nothing to reopen. **Painted-on door:** a repair path appears to exist, but the only way through is to agree with the story — accept the assigned motive, confirm the category, take on the label ("I'll forgive you once you admit you're [X]"). Real repair asks you to own *what you did*; a painted-on door asks you to ratify *who they've decided you are* — a confession demanded as its price. Accepting it is domestication through shame, and the mechanism by which a story about what you did becomes [[sinsickness]] about who you are.
 
 When all three are present, the connection is already over. Not because you can't fix it — because the other person is no longer in a conversation with you. They're in a conversation with the version of you their story created.
 
@@ -55,7 +55,8 @@ Self-check questions:
 1. Have I decided *why* they did what they did — without asking them?
 2. Have I stopped seeing a person and started seeing a category?
 3. Is there anything they could say or do right now that would change my mind?
-4. If someone I trusted said "you might be wrong about this," would I consider it — or would I feel attacked?
+4. If I've left them a "way back," is it real — or does it require them to agree they're what I've decided they are? (A painted-on door.)
+5. If someone I trusted said "you might be wrong about this," would I consider it — or would I feel attacked?
 
 If that last question made you bristle — pay attention.
 

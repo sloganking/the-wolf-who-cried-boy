@@ -116,7 +116,9 @@ Complete alphabetical glossary of terms coined or specifically defined in *The W
 
 ## N
 
-**Narrative Lock** — When someone stops processing new information and filters everything to confirm their existing story. Three signals: motive attribution, framework substitution, no repair path. → [[narrative-lock]] | `invisible-patterns.md`
+**Narrative Lock** — When someone stops processing new information and filters everything to confirm their existing story. Three signals: motive attribution, framework substitution, no *real* repair path (the door is closed, **or** painted on — a "way back" that requires you to ratify the false story). → [[narrative-lock]] | `invisible-patterns.md`
+
+**Painted-On Door** — A repair path that appears to exist but only opens if you agree with the accuser's story — accept the assigned motive, confirm the category, take on the label. Not repair (owning *what you did*) but a confession (ratifying *who they've decided you are*). Accepting it is domestication through shame; it installs [[sinsickness]]. The second failure mode of the No Real Repair Path signal. → [[narrative-lock]] | `invisible-patterns.md`
 
 **Notice, Feel, Story** — Three-step framework separating observation (what a camera would record), emotion (what you feel), and interpretation (the story you made). → [[notice-feel-story]] | `tools/notice-feel-story.md`
 
