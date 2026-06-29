@@ -258,14 +258,15 @@ The natural response — "I do care!" — contests their story and invalidates t
 
 Instead, disentangle it:
 
-> "It sounds like you're feeling sad and disconnected, and your story is that I don't care about you."
+> "It sounds like you're feeling sad and disconnected, and your story is that I don't care about you. Did I get that right?"
 
-They'll likely say "yeah" — because you just said what they said, just separated. Now you can address each part:
+They'll likely say "yeah" — because you just said what they said, just separated. The check gives them room to correct you if you misread either part. Now you can address each part — **in this order**:
 
-1. "I hear that you're feeling sad and disconnected. That makes sense given what happened."
-2. "And I want you to know — I do care. Here's what was actually going on..."
+1. **Empathize first.** "I hear that you're feeling sad and disconnected. That makes sense given what happened — and it sounds like that feels very tough right now." You're not just agreeing logically. You're mirroring where they are and letting them feel seen before you say anything about your side.
 
-The feeling gets validated. The story gets checked. No fight. And the other person didn't need to know NFS at all — you did the disentangling for them.
+2. **Then explain your side.** "And I want you to know — I do care. Here's what was actually going on..."
+
+Address the feeling before the story. Once they know you get them, the correction is much more likely to land. The feeling gets validated. The story gets checked. No fight. And the other person didn't need to know NFS at all — you did the disentangling for them.
 
 This works because most people don't know their feelings and stories are entangled. They're not being difficult — they just don't have the distinction. When you separate it for them, you're not correcting them. You're translating what they said into something that can actually be worked with.
 
