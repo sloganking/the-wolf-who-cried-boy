@@ -240,6 +240,8 @@ The fix is to use words that carry the doubt inside them:
 
 "I suspect" can only mean a guess — it's impossible to hear it as certainty. "My story is" and "occurs to me as" do the same job: they label the thought as your interpretation, not a fact about the world. "I think" can swing either way, so it defaults to sounding like a verdict. When you actually want to communicate that you're not sure, pick the word that *can't* be mistaken for certainty.
 
+This bites hardest with a word like *dangerous.* "I think they're dangerous" feels like hedging — but because "I think" doesn't register as doubt, what the room actually hears is *dangerous,* and that word pulls people toward immediate action. So the phrase does two bad things at once: it commits you to nothing — it was only a guess — while spreading urgency as if the danger were verified. Uncertainty and urgency in the same breath. "They occur to me as dangerous" or "I suspect they're dangerous" defuses it: the doubt arrives with the word, so the room hears something to check rather than an alarm to act on.
+
 ### The Habit That Changes Everything
 
 If you get in the habit of catching yourself when you state a story as fact — "they're an asshole" — and backtracking to "they occur to me as an asshole" — something shifts. Your [reticular activating system](../concepts/trauma-and-filters.md) starts flagging the difference between observation and interpretation in real time. You start sorting reality from fiction as a reflex, not an exercise.
