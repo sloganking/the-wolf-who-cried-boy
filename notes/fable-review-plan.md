@@ -162,6 +162,15 @@ From `TODO.md`. Natural home: I Made a Mistake, adjacent to "You Are What You Wa
 
 Clears the 7x bar because it's the case most readers of that section are actually in, and it completes the tiering pattern from item D.
 
+### P. Warrior vs. King passage in `harmless-is-not-peaceful.md` (decided 2026-07-01; do NOT replace the book's opening)
+
+Source: Jim Rajan, "KING Energy — The Sensitive Man Who Became A King" (The Subtle Qualities School, YouTube, 2026): *"Not a man who goes to war. A man whose presence makes war unnecessary."* Adjacent line: *"The warrior knows that if he goes to war, he's already failed... The goal was the peace that makes the battle unnecessary."* Also relevant: his king "stands by his word not because someone is watching, but because his word is the architecture of who he is" — which is literally The Promise — and "maintains order by presence, not force," which is the facilitator-as-emotional-anchor teaching.
+
+**Decisions:**
+- **Keep the current justice opening of the introduction** (rated 9 as an opening — it installs the book's central distinction in the book's own show-don't-tell method and is universal). The king line as a replacement rated 6: "a man" narrows the addressed reader on line one, identity-poetry register mismatches the book's mechanism voice, and the author-name wink at the front door creates grandiosity exposure for hostile readers who know the backstory.
+- **Add the warrior/king distinction to Harmless Is Not Peaceful** (rated 8.5 there): that chapter already holds the book's archetypal-masculine register (Perrion, Nietzsche), and the distinction completes its ladder — no sword (fawner) → sword without sheath (righteous predator) → sword and sheath (integration) → the integration's destination, named: the king, whose presence means the sword almost never has to leave the sheath. Two to four paragraphs. Show-first-then-name is the writing-guide-approved use of an archetype. Attribute the quote (book already quotes YouTube creators).
+- **The author's first-person version** — "I aspire not to be the warrior who goes to war, but the king whose presence makes war unnecessary" (rated 8; "aspire" claims the direction, not the crown, defusing grandiosity) — candidate for About the Author or near the conclusion's origin-story passage. **Synergy with item K.2:** it fuses with the village ending — the village that learns to see puts the clear-sighted person in charge, and that person's presence is what makes wolf-hunts unnecessary. Same arc, two images, one ending. Also a straight 9 for the coaching site, where the name-wink is an asset.
+
 ### L. Tony Robbins density check (awareness item, light touch)
 
 Incantations, primary question, several quotes, Platinum Partnership in the bio. The content stands on its own merits, and the honest crediting is integrity — keep it. But TR is polarizing in exactly the somatic/sex-positive demographic this book serves; a subset of readers discounts pages where his name appears. Audit whether every attribution is load-bearing; where a technique has independent lineage or the author's own lived demonstration carries it, let it.
