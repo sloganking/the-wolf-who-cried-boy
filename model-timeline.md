@@ -45,7 +45,7 @@ Append one line per chat that does substantive work. Format:
 
 `YYYY-MM-DD HH:MM (TZ) — <model as selected in Cursor> — <one-line what the session did>`
 
-- 2026-07-01 14:02 (UTC-7) — Fable 5 (thinking, high) — first Fable 5 session in this repo: read the entire book in one context window; produced the full-book review (ratings, industry prediction, to-do list) → captured in `notes/fable-review-plan.md`; expanded `wiki/.private-context.md`; created this file; cleaned a stale `.gitignore` entry
+- 2026-07-01 14:02 (UTC-7) — Fable 5 (thinking, high) — first Fable 5 session in this repo: read the entire book in one context window; produced the full-book review (ratings, industry prediction, to-do list) → captured in `notes/fable-review-plan.md`; expanded `wiki/.private-context.md`; created this file; cleaned a stale `.gitignore` entry; wrote `notes/real-wolf-chapter-brief.md` (the "When It's Actually a Wolf" chapter brief) while the whole book was still in context
 
 ---
 
