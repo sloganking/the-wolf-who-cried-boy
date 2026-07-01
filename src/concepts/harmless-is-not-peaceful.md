@@ -86,9 +86,9 @@ Here's how you know which capacity you're missing.
 
 ## The Destination
 
-The integration isn't the end of the road. There's a stage past it, and it's worth seeing where this actually leads.
+The integration isn't the end of the road. There's a stage past it.
 
-Watch someone who has carried both capacities long enough. People stop testing them. Conflicts that would have escalated around someone else lose momentum before they fully form. The sword almost never leaves the sheath — not because it's being held back, but because the situations that would call for it stop developing nearby. Everyone present can feel that the capacity is real, and [that feeling does the work](./walking-your-talk.md#people-mirror-emotions-not-facts) the sword would otherwise have to do. A grounded, dangerous, unthreatened body tells every nervous system around it: *nothing here needs to escalate.* And nervous systems listen.
+Watch someone who has carried both capacities long enough. A test — the pushed boundary, the dig, the demand made just to see what you'll do — is a question about what happens at someone's edge, and people only ask it when the answer is unknown. Around this person, the answer is visible before the test is run: the push won't get a fawn, and it won't get an explosion. So the question stops being asked. Conflicts that would have escalated around someone else lose momentum before they fully form. The sword almost never leaves the sheath — not because it's being held back, but because the situations that would call for it stop developing nearby. Everyone present can feel that the capacity is real, and [that feeling does the work](./walking-your-talk.md#people-mirror-emotions-not-facts) the sword would otherwise have to do. A grounded, dangerous, unthreatened body tells every nervous system around it: *nothing here needs to escalate.* And nervous systems listen.
 
 There's a name for this. Jim Rajan describes the difference between the warrior and the king:
 
