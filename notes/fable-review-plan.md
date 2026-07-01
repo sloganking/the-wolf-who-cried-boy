@@ -14,7 +14,7 @@ Everything decided in the review conversation is integrated into the items below
 - **Read `wiki/.private-context.md` (gitignored, local) before writing anything** — the no-names rules live there.
 - **For item G (dedup pass, later):** the concepts most redundantly re-explained across chapters are fear-creates-what-it-fears, show-don't-tell, the fawning mechanics, and response-has-severity — each gets a fresh explanation in four-plus chapters. That's correct for the web hyperbook; it's the primary target for the condensed print edition.
 - **Voice guard and threshold** are in "Considerations to hold generally" below. Honor them.
-- Log your session in `model-timeline.md` at the repo root.
+- If the model you're running as differs from the last row of `model-timeline.md`'s model-in-use table, add a row. If it's the same, do nothing there.
 
 ---
 
@@ -163,7 +163,7 @@ Both feed the packet/endorsement engine (item F) and the coaching practice's pro
 
 - `notes/examples.md` uses "Alex" as a hypothetical placeholder (allowed under the rules) — coincidentally the same first name as a private individual. Judged fine as-is; noted for awareness.
 - Verified 2026-07-01: all private notes files are gitignored and were never tracked; history-wide search for private names in tracked content comes back clean.
-- Model provenance tracking now exists: `model-timeline.md` at repo root (pattern from the RPM repo). Sessions append one log line; `git blame -w -C` plus the release-date table reconstructs which model era wrote any line. Before 2026-07-01 everything defaults to "latest Opus by commit date."
+- Model provenance tracking now exists: `model-timeline.md` at repo root (pattern adapted from the RPM repo). **Change-only logging:** add a row to its model-in-use table only when the model changes — never per session, edit, or commit. `git blame -w -C` plus its tables reconstructs which model era wrote any line; before 2026-07-01 everything defaults to "latest Opus by commit date."
 
 ---
 
