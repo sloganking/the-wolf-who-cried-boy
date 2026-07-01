@@ -1,12 +1,24 @@
 ---
 title: Wiki Log
 tags: [meta]
-updated: 2026-04-14
+updated: 2026-07-01
 ---
 
 # Wiki Log
 
 Append-only record of wiki changes. Each entry starts with a consistent prefix for parseability.
+
+---
+
+## [2026-07-01] add | Full-book review captured → `notes/fable-review-plan.md`; `.private-context.md` expanded
+
+**What happened:** A Fable 5 model read the entire book (all 162k words) in one context window and produced a full analysis — overall/chapter ratings, industry-impact prediction, ship-readiness, celebrations, coaching prediction, and a to-do list. The author reviewed it and made decisions. Everything is captured in `notes/fable-review-plan.md` (the handoff doc for future sessions — **start there before doing any of the review work**).
+
+**Headline decisions:** (A) write a new "When It's Actually a Wolf" chapter — protocol for verified malice, no deep predator psychology needed; (B) split the intro's Perception & Prescription note — compressed perception paragraph stays in intro, prescription/vantage statement moves to top of `before-you-facilitate.md`; (C) cool + tighten the apology dissection in `repair.md`; (D) retier hard facilitator prescriptions as principle/full/minimum (Gun Check is the model) — keep authoritative voice, add gradations; (E) make the "hungry ghost" staff check procedural/behavioral; (F) build a Facilitator Field Review Packet instead of asking facilitators to read the whole book; (G) two-edition strategy — hyperbook stays maximal, condensed print edition later.
+
+**Privacy:** `wiki/.private-context.md` (gitignored) expanded with the full no-names rules for private individuals connected to real incidents — read it before writing anything in this public repo. Verified all private notes files are untracked and tracked history is clean.
+
+**Files updated:** `notes/fable-review-plan.md` (new), `wiki/.private-context.md` (expanded, gitignored), `wiki/log.md` (this entry).
 
 ---
 
