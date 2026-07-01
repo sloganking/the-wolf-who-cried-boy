@@ -151,6 +151,17 @@ From `TODO.md`. Natural home: I Made a Mistake, adjacent to "You Are What You Wa
 1. **The fluency metaphor (~8x as a short paragraph, not a new section).** The book's distinctions are vocabulary — a dictionary for conflict perception and resolution. Handing someone a dictionary lets them decode sentences; knowing *which* distinction to recall and apply in a live moment is fluency, and fluency is a practiced discipline. Home: the "Going Deeper" section — it adds a second, distinct reason to work with the author (the first is "the strings are invisible specifically to you"; this one is "even with sight, fluency takes practice"). Compress hard; it earns its place as 3–5 sentences.
 2. **The village ending (small, high value).** "The Village Always Finds a Wolf" (Why Rescuers Are Dangerous) currently ends dark: the clear-sighted get driven out, the average drops. The conclusion's "origin story" passage partially shows the redemption. A one-to-two-sentence explicit callback — the village that learns to see is the one that ends up putting the clear-sighted person in charge — closes the title's arc in a way nothing currently does. Candidate for the conclusion, near the origin-story passage. (Watch the book's own rule: show, don't moralize — land it as image, not lesson.)
 
+### O. Add a "when it's been months" (retroactive repair) subsection to facilitator fawning repair
+
+`before-you-facilitate.md#if-you-realize-you-fawned` already handles the retroactive case in spirit ("It's late. It's still necessary.") but skips the time dimension — and late is the *most common* case, since almost no facilitator handles it right in the moment. Add a short tiered subsection for when the incident is 6–12+ months old and the group has moved on:
+
+- **Principle:** the vacuum is the ongoing harm. Per the book's own Context Rule / perceived-validity logic, people who never heard what actually happened are still carrying the story that filled the silence, and the facilitator's non-correction keeps lending the original accusation validity. Time calcifies this; it doesn't dissolve it.
+- **Full version:** public correction to the same audience that carries the distorted story.
+- **Minimum version:** targeted private corrections — set the record straight with the specific people who are still confused or angry and who matter to the harmed person's life. Fraction of the cost, most of the protection.
+- **The inarguable consideration:** *ask the harmed person what they want first.* A retroactive public correction they didn't ask for is Rescuer behavior — reopening their wound to relieve your own conscience. The repair is for them; they choose its size and venue. (Cross-link: `repair.md#ask-for-what-you-actually-want`, `why-rescuers-are-dangerous.md`.)
+
+Clears the 7x bar because it's the case most readers of that section are actually in, and it completes the tiering pattern from item D.
+
 ### L. Tony Robbins density check (awareness item, light touch)
 
 Incantations, primary question, several quotes, Platinum Partnership in the bio. The content stands on its own merits, and the honest crediting is integrity — keep it. But TR is polarizing in exactly the somatic/sex-positive demographic this book serves; a subset of readers discounts pages where his name appears. Audit whether every attribution is load-bearing; where a technique has independent lineage or the author's own lived demonstration carries it, let it.
