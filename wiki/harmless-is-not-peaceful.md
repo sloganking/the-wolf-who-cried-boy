@@ -2,7 +2,7 @@
 title: Harmless Is Not Peaceful
 tags: [concept]
 source: harmless-is-not-peaceful.md
-updated: 2026-04-14
+updated: 2026-07-01
 ---
 
 # Harmless Is Not Peaceful
@@ -24,6 +24,12 @@ A person who can't be dangerous isn't choosing peace — they're incapable of an
 The person this book is building has both. Can see clearly when destruction is warranted. Can hit hard when it counts. Can hold the sword still when it doesn't need to swing. When this person chooses proportional response, it's not because they can't do more — it's precision, not weakness.
 
 **The test:** If choosing the "wise" response consistently makes you feel depressed — you have restraint without teeth (suppression dressed as wisdom). If confrontation consistently makes things worse — you have teeth without restraint. If you can choose either and feel settled — you have both.
+
+---
+
+## The Destination (the king)
+
+The chapter names a stage past the integration: someone who has carried both capacities long enough that conflicts stop developing around them — the sword almost never leaves the sheath because a grounded, dangerous, unthreatened presence signals to every nervous system nearby that nothing needs to escalate (mechanism: emotional mirroring, from `walking-your-talk.md`). Named via Jim Rajan's warrior/king distinction ("Not a man who goes to war. A man whose presence makes war unnecessary" — attributed YouTube quote). The full ladder: no sword (fawner) → sword without sheath (righteous predator) → sword and sheath (integration) → the king. Rajan's king lines are cross-linked to [[the-promise]] ("his word is the architecture of who he is") and to the facilitator-as-emotional-anchor teaching ("maintains order by presence, not force").
 
 ---
 

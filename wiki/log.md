@@ -10,6 +10,14 @@ Append-only record of wiki changes. Each entry starts with a consistent prefix f
 
 ---
 
+## [2026-07-01] add | `harmless-is-not-peaceful.md` — new "The Destination" section (warrior/king, review-plan item P)
+
+**Book change:** Added a `## The Destination` section to `src/concepts/harmless-is-not-peaceful.md` (after The Test, before Related). Shows the stage past the integration first — someone who has carried both capacities long enough that conflicts stop developing around them; the mechanism is the book's own emotional-mirroring teaching (a grounded, dangerous, unthreatened body signals *nothing here needs to escalate*, cross-linked to `walking-your-talk.md#people-mirror-emotions-not-facts`) — then names it with Jim Rajan's attributed warrior/king quote ("Not a man who goes to war. A man whose presence makes war unnecessary," YouTube link in attribution per existing style). Completes the chapter's ladder explicitly: no sword (fawner) → sword without sheath (righteous predator) → sword and sheath (integration) → the king. Rajan's adjacent lines cross-linked to [[the-promise]] ("his word is the architecture of who he is") and the emotional anchor ("maintains order by presence, not force"). Per the review-plan decision, the introduction's justice opening was NOT touched; the author's first-person "aspire" version remains a candidate for About the Author / conclusion (item P third bullet, still open).
+
+**Files updated:** `src/concepts/harmless-is-not-peaceful.md` (new section), `wiki/harmless-is-not-peaceful.md` (new summary section), `notes/fable-review-plan.md` (item P marked done for the chapter addition), `wiki/log.md` (this entry).
+
+---
+
 ## [2026-07-01] add | Full-book review captured → `notes/fable-review-plan.md`; `.private-context.md` expanded
 
 **What happened:** A Fable 5 model read the entire book (all 162k words) in one context window and produced a full analysis — overall/chapter ratings, industry-impact prediction, ship-readiness, celebrations, coaching prediction, and a to-do list. The author reviewed it and made decisions. Everything is captured in `notes/fable-review-plan.md` (the handoff doc for future sessions — **start there before doing any of the review work**).

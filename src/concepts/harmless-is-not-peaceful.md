@@ -84,6 +84,23 @@ Here's how you know which capacity you're missing.
 
 ---
 
+## The Destination
+
+The integration isn't the end of the road. There's a stage past it, and it's worth seeing where this actually leads.
+
+Watch someone who has carried both capacities long enough. People stop testing them. Conflicts that would have escalated around someone else lose momentum before they fully form. The sword almost never leaves the sheath — not because it's being held back, but because the situations that would call for it stop developing nearby. Everyone present can feel that the capacity is real, and [that feeling does the work](./walking-your-talk.md#people-mirror-emotions-not-facts) the sword would otherwise have to do. A grounded, dangerous, unthreatened body tells every nervous system around it: *nothing here needs to escalate.* And nervous systems listen.
+
+There's a name for this. Jim Rajan describes the difference between the warrior and the king:
+
+> **"Not a man who goes to war. A man whose presence makes war unnecessary."**  
+> — *Jim Rajan, ["KING Energy — The Sensitive Man Who Became A King"](https://www.youtube.com/watch?v=haXxY8HCGtU)*
+
+Rajan's warrior knows that if he has to go to war, he's already failed — the goal was always the peace that makes the battle unnecessary. That's the ladder this chapter has been climbing, one rung further than it looked. No sword: the fawner. Sword without sheath: the righteous predator. Sword and sheath: the integration. And then the destination: the king — the sword fully real, the restraint fully chosen, and a presence that makes drawing it almost never necessary. Rajan's king "stands by his word not because someone is watching, but because his word is the architecture of who he is" — which is [The Promise](./before-you-facilitate.md#the-promise), lived. He "maintains order by presence, not force" — which is [the emotional anchor](./walking-your-talk.md#you-are-the-emotional-anchor), embodied.
+
+The test above tells you which capacity you're missing. This is what's on the other side of finding it.
+
+---
+
 ## Related
 
 - [Healing Fawning](./healing-fawning.md) — Growing the claws
