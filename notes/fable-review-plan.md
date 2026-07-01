@@ -6,6 +6,18 @@
 
 ---
 
+## If you're a fresh model starting from this document
+
+Everything decided in the review conversation is integrated into the items below — the author's answers about the intro (item B), the wolf chapter approach (A), the hungry-ghost example and its nuances (E), the conclusion candidates (K), and the testimonials (M). You are not missing any decisions. What you ARE missing is what the reviewing model had: **the entire book live in context.** The ratings and findings here are trustworthy, but the felt sense of the full text is not transferable. So:
+
+- **Before executing any item, read the target chapter(s) in full** (the page-reviews rule requires this anyway). Suggested minimum reading per item — A: `why-rescuers-are-dangerous`, `before-you-judge`, `appropriate-response`, `punishment-culture`, `handling-threats-of-violence`. B: `introduction` + `before-you-facilitate`. C: `repair` in full. D/E: `before-you-facilitate` + `gun-test`. F: all five facilitator chapters + the four tools. K: `conclusion` + the "Village Always Finds a Wolf" section of `why-rescuers-are-dangerous`.
+- **Read `wiki/.private-context.md` (gitignored, local) before writing anything** — the no-names rules live there.
+- **For item G (dedup pass, later):** the concepts most redundantly re-explained across chapters are fear-creates-what-it-fears, show-don't-tell, the fawning mechanics, and response-has-severity — each gets a fresh explanation in four-plus chapters. That's correct for the web hyperbook; it's the primary target for the condensed print edition.
+- **Voice guard and threshold** are in "Considerations to hold generally" below. Honor them.
+- Log your session in `model-timeline.md` at the repo root.
+
+---
+
 ## Overall Assessment
 
 - **Body of work: 9/10.** The conceptual architecture is a 10 — the book manufactures missing language (righteous predator, top/bottom vulnerability, narrative lock, sinsickness, blurry predator, power debt, belief-blindness, two victims problem) and explicitly understands why that matters: the linguistic gap creates the perceptual gap. The book also *practices its own teaching* at scale — inarguable language, show-don't-tell, the Kinsey passage catching the reader's verdict in both directions, the conclusion's Mirror turning the book on the reader. The medium is genuinely the message, sustained across 160k words.
@@ -97,7 +109,9 @@ The horror-before-temple rule and feed-yourself-first are currently stated as bl
 
 ### E. Make the staff "hungry ghost" vibe check procedural
 
-Currently "you can feel it" — squishy in a book that is otherwise objective and solid. It can be made procedural with the book's own Notice tool: describe what a camera would record. The tell isn't a feeling — it's an **attention-allocation pattern**: whose needs is this staff member's attention serving? Observable markers: casting a wide net across many participants and lingering longest where personal interest lies; conversations that track the staffer's desire rather than participants' needs; attention that follows attraction around the room while on duty. Plus a self-check question set for staff, and a check-in framing for leads. **Candidate example (author's own, shared in conversation, his call whether to use):** a staff member at a retreat working hard and well — while also methodically working through conversations with every woman in the container to find connection, a net cast wide enough that anyone watching the dynamic could see the hunger. Anonymized/first-person, it's a perfect Notice-level illustration: the person *didn't see it themselves at the time*, which is exactly the point — hungry ghost energy is invisible from inside, visible from outside, and that's why the check has to be external and behavioral.
+Currently "you can feel it" — squishy in a book that is otherwise objective and solid. It can be made procedural with the book's own Notice tool: describe what a camera would record. The tell isn't a feeling — it's an **attention-allocation pattern**: whose needs is this staff member's attention serving? Observable markers: casting a wide net across many participants and lingering longest where personal interest lies; conversations that track the staffer's desire rather than participants' needs; attention that follows attraction around the room while on duty. Plus a self-check question set for staff, and a check-in framing for leads.
+
+**Candidate example (author's own, shared in conversation — approved perception, his call on final wording):** the author was a *paid assistant* at a retreat where assistants were permitted to play with participants if the facilitators approved. Important nuance for writing it: this is NOT a rule-breaking story. Assistants there wear two hats — on-duty (helping, cleaning, prepping the space, being the person participants come to) and personal free time. The issue was attention allocation: during the container, his attention was often more on finding a sexual connection — working through conversations with each woman until she tired of talking, then the next, seeing who was interested, and orbiting those the most — than on service. He worked hard AND the hunger cast a wide, visible net. The lead facilitator named it as "hungry ghost energy"; he couldn't see it at the time. That's the whole teaching: hungry ghost energy is invisible from inside, visible from outside — which is exactly why the check must be external and behavioral, not self-report. It also shows the check isn't about policing whether staff seek connection (the container allowed it) — it's about whether hunger is driving attention *while on duty*. Anonymized/first-person; don't name the school or the facilitator in connection to this story.
 
 ### F. Build the Facilitator Field Review Packet (replaces "give facilitators the whole book")
 
@@ -143,11 +157,11 @@ Incantations, primary question, several quotes, Platinum Partnership in the bio.
 2. A possible book endorsement from a facilitator who is currently reading the book.
 Both feed the packet/endorsement engine (item F) and the coaching practice's proof-of-outcome gap (see prediction below).
 
-### N. Name-hygiene housekeeping
+### N. Name-hygiene housekeeping — DONE 2026-07-01
 
-- The public `.gitignore` lists the filename `notes/lori-boundary-prep.md` — a first name attached to "boundary" in a public file. Optional fix: rename the local file to something neutral and update `.gitignore` (the old line persists in git history either way; judged low severity).
 - `notes/examples.md` uses "Alex" as a hypothetical placeholder (allowed under the rules) — coincidentally the same first name as a private individual. Judged fine as-is; noted for awareness.
 - Verified 2026-07-01: all private notes files are gitignored and were never tracked; history-wide search for private names in tracked content comes back clean.
+- Model provenance tracking now exists: `model-timeline.md` at repo root (pattern from the RPM repo). Sessions append one log line; `git blame -w -C` plus the release-date table reconstructs which model era wrote any line. Before 2026-07-01 everything defaults to "latest Opus by commit date."
 
 ---
 
