@@ -283,11 +283,11 @@ That's also where I learned to see patterns — not from textbooks, but in the f
 
 The childhood beliefs that made me feel small — they were the same beliefs that created the dry spell, the panic attacks, the paralysis around women. It was all one thread. Once I could see it, I could pull it. And once the first invisible belief came loose, I started finding them everywhere — around money, worth, safety, power, all of it. The external changes followed on their own.
 
-I used to think I was fragile — struggles in school, a body that only wants to work two to four hours a day. I made that mean I was broken. Incapable. Can't grind eight hours like normal people, can't take care of myself. I spent years forcing myself to do what hurts and doesn't work.
+I used to think I was fragile — struggles in school, a body that protests past two to four hours a day of willpower-driven work. And a pattern I still haven't fully explained: every so often, the work just stops. Days, sometimes longer. I don't know why. I made all of it mean I was broken. Who hires someone with random downtimes? I can't hold a job. I'll never be able to take care of myself. I spent years forcing myself to do what hurts and doesn't work.
 
-Then I saw through the belief underneath all of it: that I *have* to work eight hours a day. If my body is happy at two to three hours, then I'm forced to create a thousand dollars of value per hour and have a lot of free time. Oh no. What a curse.
+Then I saw through the belief underneath all of it: that I *have* to work eight hours a day, every day, like everyone else. If my body is happy at two to three hours, then I'm forced to create a thousand dollars of value per hour and have a lot of free time. Oh no. What a curse. And the downtimes? Then I build work that serves people hard on the up-times instead of renting myself out as a machine I'm not.
 
-Same facts. Same body. One belief had me seeing myself as broken. Without it, I'm happier and accomplishing more than I ever would have grinding eight hours like everyone else. That's what removing one invisible belief does.
+Notice what changed and what didn't. The downtimes still come. I still haven't solved them. I didn't need to. Same facts, same body — but without the belief, I'm happier and accomplishing more than I ever would have grinding eight hours like everyone else. The facts never meant *broken.* The belief did. You don't have to fix the fact to remove the story about it.
 
 Today, I work as a Seer. I see the invisible beliefs running people's lives — the puppet strings they don't know are there — and I show them how to cut them. Sex and intimacy are a specialty, but the skill applies everywhere: money, confidence, relationships, identity under crisis. The machinery is the same.
 
