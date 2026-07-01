@@ -1,7 +1,7 @@
 ---
 title: Wiki Index
 tags: [meta, index]
-updated: 2026-04-14
+updated: 2026-07-01
 ---
 
 # The Wolf Who Cried Boy — Wiki
@@ -9,6 +9,8 @@ updated: 2026-04-14
 This wiki is an AI-maintained knowledge base for the book *The Wolf Who Cried Boy* by Logan King. It maps every coined term, framework, tool, and cross-cutting theme so that any AI collaborator can orient instantly without reading every chapter from scratch.
 
 **For AI assistants:** Start here. Read this index to find what you need, then drill into specific pages. The [[glossary]] is your fastest path to understanding the book's custom language. The [[book-overview]] gives you the full structure and thesis.
+
+**Model provenance check (one-time, at session start):** open `model-timeline.md` at the repo root. If the model you're running as (as selected in Cursor) differs from the last row of its "Model in use" table, add a row with today's date. If it's the same model, do nothing. Never log per session, per edit, or per commit — only on change. That file is how future models reconstruct which model wrote which lines via `git blame`.
 
 ---
 
@@ -127,3 +129,4 @@ Cross-cutting patterns that recur across the book.
 |------|---------|
 | [[glossary]] | Complete alphabetical glossary of every coined term |
 | [[log]] | Chronological record of wiki changes |
+| `model-timeline.md` (repo root) | Which AI model was in use when — for `git blame` provenance. Add a row only when the model changes |

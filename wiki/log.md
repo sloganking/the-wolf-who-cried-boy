@@ -18,7 +18,9 @@ Append-only record of wiki changes. Each entry starts with a consistent prefix f
 
 **Privacy:** `wiki/.private-context.md` (gitignored) expanded with the full no-names rules for private individuals connected to real incidents — read it before writing anything in this public repo. Verified all private notes files are untracked and tracked history is clean.
 
-**Files updated:** `notes/fable-review-plan.md` (new), `wiki/.private-context.md` (expanded, gitignored), `wiki/log.md` (this entry).
+**Also this session:** created `model-timeline.md` at the repo root (model provenance via `git blame` + a change-only "model in use" table — add a row ONLY when the model changes, never per session/edit/commit) and wired the session-start check into `wiki/index.md`'s "For AI assistants" block so every future session sees it. Wrote `notes/real-wolf-chapter-brief.md` (full brief for the "When It's Actually a Wolf" chapter) while the whole book was in context.
+
+**Files updated:** `notes/fable-review-plan.md` (new), `notes/real-wolf-chapter-brief.md` (new), `model-timeline.md` (new), `wiki/index.md` (model-provenance check added), `wiki/.private-context.md` (expanded, gitignored), `wiki/log.md` (this entry).
 
 ---
 
