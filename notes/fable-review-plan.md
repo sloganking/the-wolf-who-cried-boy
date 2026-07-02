@@ -131,6 +131,8 @@ A working facilitator won't do a 13.5-hour read on request. Build a 20–30 page
 
 Do NOT prune the web hyperbook — its redundancy is what makes each page standalone, which is correct for its form. Core ideas (fear creates what it fears; responses have severity; fawning mechanics; show-don't-tell) are each explained fresh in four-plus chapters; that serves web readers and taxes linear ones. The move: keep the maximal hyperbook as-is, and create a **condensed print edition (90–110k words)** via a dedicated pass that treats the linear reader as the client. This also solves the "13.5-hour ask" for every future reader, not just facilitators.
 
+**Trim criterion for that pass (added 2026-07-01):** use the purpose razor from Considerations — *does this passage change what the reader sees or does around the moment something goes wrong?* — as the cut/keep test, alongside the standing pruning rules (net value, not conciseness; redundancy is a lesser sin than lost value; keep consolidation lists).
+
 ### H. Print-readiness checklist (before any wide print distribution)
 
 - Structural/dedup edit for linear reading (see G).
@@ -208,6 +210,10 @@ Scattered across six-plus chapters is a complete how-to-speak course: pseudo-fee
 ### T. Anger-permission chapter brief — verify absorption before writing (investigation task)
 
 `notes/anger-permission-chapter-brief.md` predates recent additions, and its content appears ~70% absorbed into the book since: "The Cage" in `harmless-is-not-peaceful.md` (contains "fawning dressed up as wisdom" nearly verbatim), "Don't Use Your Imperfection to Cancel Your Anger" and "let yourself feel it" in `when-youve-been-wronged.md`. **Objective: re-read the brief against those chapters and confirm what's genuinely unwritten.** The likely remaining unique claim is the brief's point 4 — *the perpetrator needs to feel it*: repair where the wrongdoer skates through painlessly isn't repair, and the wronged person's desire for the other person to feel the weight is legitimate. `guiding-public-repair.md` covers that from the facilitator's side (fake resolution leaves the angry person unchanged) but nobody blesses the wronged person's want directly. Verdict to confirm: a section, not a chapter — which may save ~15 hours.
+
+### U. Purpose statement — extend one intro line + use full version as marketing copy
+
+The book's purpose statement (see Considerations) is half-present in the introduction already: *"It's about seeing what's actually happening — instead of what your fear tells you is happening."* The missing half is the response side. **Proposed edit (author to ratify wording):** extend that existing line to something like *"…instead of what your fear tells you is happening — and responding in a way that repairs instead of destroys."* No new passage; join the second half to the sentence that already carries the first. **Second home:** the full two-sentence purpose statement is strong back-cover / Gumroad copy — see `notes/back-cover-blurb.md` and `notes/gumroad-description.md` when those get their next pass.
 
 ### Decided terminology (2026-07-01): keep "belief axiom" over "foundational belief"
 
