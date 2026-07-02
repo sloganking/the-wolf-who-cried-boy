@@ -59,7 +59,7 @@ This isn't hypothetical. In _Sex at Dawn_, Christopher Ryan describes a Melanesi
 > **"Both men and women regarded the loss of this practice 'the worst result of contact with European culture.'"**  
 > — _Sex at Dawn_, Christopher Ryan
 
-Same situation—your partner sleeping with someone else. One culture produces devastation. Another produces pride. The difference isn't the event. It's the story the culture tells about what it means.
+Same situation—your partner sleeping with someone else. In one culture it means your status just dropped — and devastation follows. In the other it means your status just rose — and pride follows. The difference isn't the event. It's the story the culture tells about what it means.
 
 ### Why Knowing Doesn't Change Feeling
 
