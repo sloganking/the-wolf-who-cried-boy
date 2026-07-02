@@ -189,8 +189,36 @@ Both feed the packet/endorsement engine (item F) and the coaching practice's pro
 
 ---
 
+## Second-pass ideas (LOWER TIER than items A–P — smaller moves, do after the main list)
+
+These came from a later pass (2026-07-01 evening). Worth doing; not load-bearing like A–P.
+
+### Q. Title unpacking — RESOLVED, no action (recorded so future models don't re-raise it)
+
+The reviewing model flagged that the book never explains its title. `notes/title-notes.md` shows this is deliberate design: the title is polysemantic on purpose (a Rorschach — the reader's interpretation reveals their filters), saying it is a reverse-bicycle exercise, the confusion drives pickup, and the subtitle carries the thesis. Explaining it in-book would collapse the design. **Do not add a title-explanation passage.** Note: the "When It's Actually a Wolf" chapter's fable opening will make readers re-derive the title themselves at the right moment — better than explaining, and free.
+
+### R. Jargon inoculation paragraph (masking words vs. naming words)
+
+The book warns that specialized words package thinking ("circumcision," "heretic," "predator") — and then coins a dozen terms of its own. A mischievous reviewer can quote the book against itself. The fix is the author's own distinction: **masking words hide a shorter truth** (strip "circumcision" away and a shorter, scarier plain description is revealed — the word exists to avoid saying it), while **naming words compress a longer one** (strip "top vulnerability" away and there's no hidden simple truth — just a paragraph that had no name). The book's existing test — "strip the word away: what would someone with no context call this?" — already distinguishes the two: for a masking word the answer indicts the word; for a naming word the answer is "there wasn't a way to say this before." One paragraph near the circumcision passage (`why-rescuers-are-dangerous.md`) closes the flank and deepens the language teaching.
+
+### S. "The Language of Clear Sight" — collect the speech curriculum in one place (author rates 7x+)
+
+Scattered across six-plus chapters is a complete how-to-speak course: pseudo-feelings, "I suspect" vs. "I think," "occurs to me as," "I imagine," don't repeat fiction, words are spells, the victim-language diagnostic, Notice-only descriptions, talk-for-not-about. Collect it into one reference — either a Quick Reference page or a small side edition (the book already feels complete and long, so side/reference placement, not a new chapter). It's the most quotable piece for facilitators training staff and the most portable piece for the eventual workplace crossover. Lineage note: Landmark and Tony Robbins call adjacent material "transformational language" — worth a nod, and worth distinguishing what this version adds (the inarguability/verification layer).
+
+### T. Anger-permission chapter brief — verify absorption before writing (investigation task)
+
+`notes/anger-permission-chapter-brief.md` predates recent additions, and its content appears ~70% absorbed into the book since: "The Cage" in `harmless-is-not-peaceful.md` (contains "fawning dressed up as wisdom" nearly verbatim), "Don't Use Your Imperfection to Cancel Your Anger" and "let yourself feel it" in `when-youve-been-wronged.md`. **Objective: re-read the brief against those chapters and confirm what's genuinely unwritten.** The likely remaining unique claim is the brief's point 4 — *the perpetrator needs to feel it*: repair where the wrongdoer skates through painlessly isn't repair, and the wronged person's desire for the other person to feel the weight is legitimate. `guiding-public-repair.md` covers that from the facilitator's side (fake resolution leaves the angry person unchanged) but nobody blesses the wronged person's want directly. Verdict to confirm: a section, not a chapter — which may save ~15 hours.
+
+### Decided terminology (2026-07-01): keep "belief axiom" over "foundational belief"
+
+The math term is load-bearing: an axiom is the *unproven starting point from which everything else validly derives* — which is the chapter's exact mechanism (surface beliefs are valid-but-unsound conclusions; the error lives in the premise). "Foundational belief" loses the derivation structure and blurs into generic self-help vocabulary. The chapter already pays the definition cost in one sentence and offers "the floor"/"bedrock" as plain handles. Conversational on-ramp: say "foundational belief" when introducing the idea aloud; the book keeps the precision term. (Same pattern as "sinsickness" — not an everyday word, still the right word.)
+
+---
+
 ## Considerations to hold generally
 
+- **The book's purpose and the inclusion razor (drafted 2026-07-01, author reviewing):** *This book exists for the moment something goes wrong between people — and for the moments before and after it. Its purpose: that the reader sees what actually happened instead of what fear says happened, and responds in a way that repairs instead of destroys.* The razor for any proposed addition: **does this change what the reader sees or does around that moment?** If yes — book. If true and valuable but general — RPM, blog, coaching, or a later book. (Validated against known calls: incantations pass — they dissolve the filters that cause over-response; the warrior/king passage passes via response calibration; "beliefs are predictions" fails — meta-theory, now lives in RPM's glossary; language *skills* pass and are already in the book, the *collection* is Quick Reference material, the *essay* is a blog post; the fluency metaphor passes only inside Going Deeper, the book's designated door out. The book is complete and bordering on gaining fat — the razor is what keeps it muscle.)
+- **Language of Clear Sight placement (refined 2026-07-01, supersedes nothing in item S but sharpens it):** the language skill is already core — NFS is a full chapter in Seeing Clearly, Narrative Lock teaches live label-detection, the Influence Firewall teaches install-labeling; the book teaches language at the moment of need by design. What item S adds is only the *consolidation*: a "Language" block in Quick Reference (the return-visit page, not "content after the conclusion") + the full essay as a flagship blog post, where it doubles as the book's most shareable marketing. No new chapter.
 - **The book's biggest attack surface** is the perceived asymmetry: the modal harm scenario is "innocent person makes a momentary mistake, gets mobbed." The symmetry exists (under-response, Repair Goes Both Ways, fawner accountability, The Way Out) — but item A is what makes it undeniable.
 - **The book being too long is better than the book being lobotomized** (standing rule). All cuts go through the value lens; the two-edition strategy exists so the hyperbook never has to shrink.
 - **Additions threshold:** recent working threshold has been ~7x+ value to add. Items A, B, C, D, F clear it easily; K.1 and K.2 clear it as compressed versions.
