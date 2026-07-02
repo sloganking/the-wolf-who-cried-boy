@@ -170,6 +170,16 @@ This is a clear example of how you affect the probability of your outcomes. You'
 
 You have [responsibility](./responsibility.md) here. You can choose what you consume before entering a space. You can choose to prime your filter for connection instead of danger.
 
+### Your Body Tilts the Story
+
+Content isn't the only thing that primes your filter. You already know the other one from the inside.
+
+The disagreement that erupts at 1 a.m. and feels like the end of the relationship — and dissolves at breakfast, with no one having changed their argument, because you slept. The day everything a coworker says lands as a dig, until you notice it's 3 p.m. and you haven't eaten. Nothing about the situation changed. The body interpreting it did.
+
+The lens you walk in wearing isn't only what you consumed on the way — it's the state of the body doing the storytelling. Your brain doesn't build stories from the event alone. It uses every input available, and the loudest one is your own body. Hungry, exhausted, sleep-deprived, carrying a need that's gone unmet all night — the body reports *something is wrong*, and the story-maker treats that report as evidence about the world. You start predicting negative because your physiology is negative. The prediction comes first; the story forms around it — [the same way a feeling that arrives without a label gets one](./body-stories.md#when-the-feeling-comes-first). The same ambiguous touch gets "they got carried away" from a rested body at hour two of a party — and "they're testing what they can get away with" from a depleted one at hour ten.
+
+So before you trust a story — especially a dark one — check the state of the body that produced it. Not whether the story feels true; they always feel true. What condition were you in when it arrived? A story built by a starving, exhausted, unresolved body deserves the same caution as testimony from a witness who'd been drinking: not automatically wrong, but not something to act on without verification. Several of this book's later tools — the [Gun Test](../tools/gun-test.md), [Feed Yourself First](./before-you-facilitate.md#staff-readiness-feed-yourself-first), [Don't Act From Fear](#dont-act-from-fear) — are this one move applied at different moments: read the instrument before you trust the reading.
+
 ---
 
 ### When Evidence Gets Through

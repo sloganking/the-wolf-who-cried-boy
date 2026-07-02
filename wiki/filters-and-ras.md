@@ -2,7 +2,7 @@
 title: Filters & RAS
 tags: [concept]
 source: trauma-and-filters.md
-updated: 2026-04-14
+updated: 2026-07-01
 ---
 
 # Filters & the Reticular Activating System
@@ -40,6 +40,12 @@ After watching a horror film, every dark corner feels threatening. Nothing chang
 ## Pre-Framing (Choose Your Lens)
 
 What you consume before entering a situation shapes how you perceive it. Five hours of predator-hunting content before a play party = RAS set to predator detection mode. Every ambiguous touch becomes suspicious. You have [[responsibility-triad|responsibility]] for what you prime yourself with.
+
+---
+
+## Your Body Tilts the Story
+
+Content isn't the only primer — the body is the internal one. Shown via the 1 a.m. fight that dissolves at breakfast (nothing changed but sleep). A hungry, exhausted, unmet body reports *something is wrong*, and the story-maker treats that report as evidence about the world: you start **predicting negative because your physiology is negative**, and the story forms around the prediction. Same ambiguous touch, hour two vs. hour ten of a party — different body, different story. Practical move: before trusting a story (especially a dark one), check the condition you were in when it arrived — a story built by a depleted body is testimony from a witness who'd been drinking. The [[gun-test]], Feed Yourself First (`before-you-facilitate.md`), and Don't Act From Fear are this one move at different moments: read the instrument before you trust the reading.
 
 ---
 
