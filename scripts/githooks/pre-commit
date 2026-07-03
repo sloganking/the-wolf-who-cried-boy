@@ -1,0 +1,12 @@
+#!/bin/sh
+# Privacy gate: block commits while private names exist in tracked files.
+# Scanner: scripts/check_privacy.py; name list: scripts/.private-names.txt (gitignored).
+# Bypass for a verified false positive: git commit --no-verify
+python scripts/check_privacy.py
+if [ $? -ne 0 ]; then
+  echo ""
+  echo "COMMIT BLOCKED by the privacy scanner (see findings above)."
+  echo "Fix the content, add an @allow exception, or bypass with --no-verify."
+  exit 1
+fi
+exit 0

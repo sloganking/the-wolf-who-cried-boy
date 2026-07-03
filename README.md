@@ -60,6 +60,12 @@ choco install mdbook      # Windows
 mdbook serve --open
 ```
 
+**After a fresh clone**, enable the repo's git hooks (pre-commit checks):
+
+```bash
+git config core.hooksPath scripts/githooks
+```
+
 ## Contributing
 
 This is a living document. If you have experience in these spaces and want to contribute concepts, examples, or refinements, open an issue or PR.

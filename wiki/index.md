@@ -29,7 +29,7 @@ This wiki is an AI-maintained knowledge base for the book *The Wolf Who Cried Bo
 >
 > If you are unsure whether a name is public or private, **leave it out**. There is no concept in this wiki that requires a real person's name to explain. This rule has no exceptions.
 >
-> **This rule is mechanically enforced (locally):** `scripts/check_privacy.py` scans every tracked file and file path against a gitignored name list (`scripts/.private-names.txt`). It runs automatically at agent-session start (`.cursor/hooks.json`) and as a git pre-commit gate (`.git/hooks/pre-commit` — blocks commits on findings). If the scan reports findings, fixing them outranks whatever else the session is doing. When a new private individual enters the book's orbit, **add them to the name list** and note the reason in `.private-context.md`. Run manually: `python scripts/check_privacy.py`. (The scanner is a net, not the rule — content that describes a private person's role in a real event without naming them still violates the rule above.)
+> **This rule is mechanically enforced (locally):** `scripts/check_privacy.py` scans every tracked file and file path against a gitignored name list (`scripts/.private-names.txt`). It runs automatically at agent-session start (`.cursor/hooks.json`) and as a git pre-commit gate (`scripts/githooks/pre-commit`, enabled via `git config core.hooksPath scripts/githooks` — blocks commits on findings; see README for fresh-clone setup). If the scan reports findings, fixing them outranks whatever else the session is doing. When a new private individual enters the book's orbit, **add them to the name list** and note the reason in `.private-context.md`. Run manually: `python scripts/check_privacy.py`. (The scanner is a net, not the rule — content that describes a private person's role in a real event without naming them still violates the rule above.)
 
 ---
 
@@ -146,4 +146,4 @@ The wiki maps the book's *concepts*; active *work* lives in `notes/`. Route by t
 | [[glossary]] | Complete alphabetical glossary of every coined term |
 | [[log]] | Chronological record of wiki changes |
 | `model-timeline.md` (repo root) | Which AI model was in use when — for `git blame` provenance. Add a row only when the model changes |
-| `scripts/check_privacy.py` + `scripts/check_links.py` | Repo health: private-name scan (see Integrity Rule above) + broken-link check. Both run at session start via `.cursor/hooks.json`; privacy also gates commits via `.git/hooks/pre-commit`. |
+| `scripts/check_privacy.py` + `scripts/check_links.py` | Repo health: private-name scan (see Integrity Rule above) + broken-link check. Both run at session start via `.cursor/hooks.json`; privacy also gates commits via `scripts/githooks/pre-commit` (`core.hooksPath`). |
