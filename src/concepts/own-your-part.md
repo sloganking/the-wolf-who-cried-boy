@@ -157,7 +157,7 @@ Possible reasons:
 - **They don't see their power** — They have [unexamined beliefs](./trauma-and-filters.md) that they're powerless in this specific area, and no one has ever shown them otherwise
 - **Cultural conditioning** — They grew up in an environment where one person was expected to take all the responsibility (nonsensical, but common)
 
-This is the same pattern described in [Trauma & Filters](./trauma-and-filters.md). Their story about the situation—"I'm powerless, you did this to me"—feels true to them. It's running in the background, unquestioned.
+This is the same pattern described in [Trauma & Filters](./trauma-and-filters.md). Their story about the situation—"I'm powerless, you did this to me"—feels true to them. It's running in the background, unquestioned. And if it's hardened into a [narrative lock on themselves](./invisible-patterns.md#narrative-lock-on-yourself), simply showing them evidence of their power won't work — the locked story filters the evidence out before it lands.
 
 The compassionate response isn't to take their responsibility. It's to help them see their own power. That's how they stop suffering — because the Victim frame doesn't just describe their situation, it *creates* their pain. As long as they can't see what they can do, nothing gets better. The moment they see their power, they can start building what they actually want.
 

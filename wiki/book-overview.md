@@ -41,7 +41,7 @@ When something goes wrong, ask:
 ### Part 2: What's Running You
 - **Trauma & Filters** → [[filters-and-ras]], [[fear-creates-what-it-fears]], Horror Movie Effect, RAS, pre-framing, "She Told Me Everything" personal story
 - **Body Stories** → [[body-stories]], implicit memory, four trauma responses, Iron Giant example, "I Would Never Do That" filter
-- **Invisible Patterns** → [[complementary-filters]], [[narrative-lock]], [[replacing-the-sentence]], Person A/B/C/D/E patterns, primary question
+- **Invisible Patterns** → [[complementary-filters]], [[narrative-lock]] (incl. narrative lock on yourself), [[replacing-the-sentence]], Person A/B/C/D/E patterns, primary question
 
 ### Part 3: Seeing Clearly
 - **Severity** → [[severity-model]], severity shift, feelings ≠ severity
