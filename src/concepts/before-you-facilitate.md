@@ -109,9 +109,9 @@ The jumpmaster grabs him. Shoves him back. Saves his life.
 
 That pre-check isn't bureaucracy. It's love.
 
-When I require my staff to be sexually satisfied before working my events, I'm not just protecting participants. I'm protecting *them*. I'm the jumpmaster — catching something that could hurt them before they jump.
+Requiring your staff to be fed before they work your events is the same check. You're not just protecting participants — you're protecting *your staff*. You're the jumpmaster, catching something that could hurt them before they jump.
 
-If you're sexually starved and you make an [unconscious mistake](./types-of-mistakes.md), you don't just harm the participant. You harm yourself — your reputation, your standing, your self-image. By saying "you can't work here until you're fed," I'm saying: *Go take care of yourself. I won't let you jump with a rope around your neck.*
+A starved staff member who makes an [unconscious mistake](./types-of-mistakes.md) doesn't just harm the participant. They harm themselves — their reputation, their standing, their self-image. By saying "you can't work here until you're fed," you're saying: *Go take care of yourself. I won't let you jump with a rope around your neck.*
 
 ### Friction Check Your Staff
 
@@ -159,7 +159,7 @@ Don't filter out everyone who's ever thought like a righteous predator. Filter o
 
 Here's another form of professional hygiene that sounds like satire:
 
-**If my staff are consuming predator-hunting content right before working my events, they don't get to work.**
+**Staff who spent last night consuming predator-hunting content don't get to work your event today.**
 
 This means: no horror films, no true crime binges, no doom-scrolling through callout posts, no consent-violation discourse—right before showing up to hold space.
 

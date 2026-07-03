@@ -18,6 +18,8 @@ Append-only record of wiki changes. Each entry starts with a consistent prefix f
 
 **Files updated:** `notes/writing-guide.md` (new value #7 + checklist line), `src/introduction.md` (paragraph order), `wiki/log.md` (this entry).
 
+**Extended same session:** (1) Value #7 gained a "moves" block with worked examples: the credibility inversion (include the sentence a scared author would cut), the motive check (a clause that exists to impress is the tell — with the real thousand-dollars-an-hour deliberation recorded), no fictional present (never speak from a position not currently held), and rates-vs-claims (a price you set is inarguable ground; a track record is a checkable claim). (2) First enforcement of the value in the book: `before-you-facilitate.md`'s two false-present staff passages ("When I require my staff... my events" in the Jumpmaster Reframe; "If my staff are consuming predator-hunting content..." in the horror rule) rewritten to the reader's voice — the author does not currently have staff or events, and the fictional present was exactly the exposure the value exists to prevent. The jumpmaster metaphor, the "rope around your neck" line, and the rule's punch all survive in the reader's voice.
+
 ---
 
 ## [2026-07-03] edit | `introduction.md` + `before-you-facilitate.md` — Perception & Prescription restructure (review-plan item B)

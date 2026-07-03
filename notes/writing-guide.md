@@ -100,6 +100,16 @@ Two boundaries so this doesn't degrade:
 - **Declaring ground is not hedging.** State the vantage once, plainly — then advise with full authority (authoritative generosity, never self-doubting question marks). Repeating the disclaimer is fear wearing honesty's clothes.
 - **The book's authority is demonstrated sight, not credentials.** 162,000 words of visible seeing is the credential. Nothing needs to be borrowed, and no missing title can be exposed — because none was claimed.
 
+**The moves (with worked examples):**
+
+1. **The credibility inversion — include the sentence a scared author would cut.** Strength is shown by what you're willing to state, not what you claim. "I have not spent years as the lead facilitator at the front of the room" is the sentence posturing deletes — and it's exactly why "Where I Stand" reads like the author means business. When drafting, find the fact that feels most dangerous to admit and consider stating it first.
+
+2. **The motive check — if a clause exists to make the author look credible, that motive is the tell.** Ask of any addition: is this here for the reader, or for the author's image? Credibility *reaches* subtract (the informed reader smells them, and now everything else is suspect); declared ground *adds*. Real deliberation from 2026-07-03: should the intro's thousand-dollars-an-hour line add "which I have a consulting business doing"? No — the line as written is a statement about belief mechanics (what the flip *forces*), which holds under any challenge. The addition would exist to impress, and it converts an inarguable sentence into a checkable income claim.
+
+3. **No fictional present — never speak from a position not currently held.** The book previously said "When I require my staff to be sexually satisfied before working my events..." and "If my staff are consuming predator-hunting content... they don't get to work" — spoken as if staff and events existed. They don't yet. Fixed 2026-07-03 to the reader's voice ("Requiring your staff... you're the jumpmaster"). The honest options when conviction is personal: the reader's voice (prescribe it to them), a real commitment ("when I run my own events, X will be the rule"), or the design voice ("the full protocol: ..."). Never a fictional present — it's the exact "they see me and it's bad now" exposure, in print, waiting.
+
+4. **Rates and claims are different ground.** A price you set is inarguable ("my rate is X" — you set it, no one can dispute it). A track record is a checkable claim ("I make X" — weakens if the reality is thinner). When adding credibility, prefer the ground that can't be taken: what you built, what you charge, what you did, what you saw — never what a generous reading would round up to.
+
 ### Defended Terminology
 
 **"Cry victim"** — This is the book's term for loudly broadcasting victimhood (pointing fingers, spreading stories, mobilizing others). It replaced "play victim," which implied conscious deception. "Cry" is accurate: they're literally crying, yelling, proclaiming. It also directly parallels the book's title (*The Wolf Who Cried Boy*) — same verb, same structure. It describes observable behavior, not intent.
