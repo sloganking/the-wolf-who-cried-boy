@@ -142,9 +142,11 @@ Do NOT prune the web hyperbook — its redundancy is what makes each page standa
 - Legal/sensitivity pass on real-incident material: anonymized for outsiders, identifiable to community insiders — make acceptance of that a conscious checkbox, together with the cooled apology passage (item C), because they interact.
 - Consider a sensitivity read by women facilitators: many examples are man-accused/woman-accuser (the author's lived experience); the mechanism-level language mostly defuses this, but a hostile reviewer will pattern-match, and a pre-publication read closes the gap.
 
-### I. Intro decongestion
+### I. Intro decongestion — DONE 2026-07-03
 
 "A Note for Facilitators" and "Why Facilitators of Any Space Should Read This" cover overlapping ground within the same introduction. Merge them. This also makes the item-B relocation cleaner.
+
+**DONE 2026-07-03:** "Why Facilitators of Any Space Should Read This" merged into "A Note for Facilitators" (under Who This Is For) as a closing paragraph; the standalone section under Temple Is Concentrated Life removed. All substance preserved (any-container applicability, medium-to-high severity argument, death-threat-scales-down line, "pressure-tested frameworks work everywhere" close); only merge-redundant clauses dropped ("Here's why:", "The potential for harm is greater" — carried by "consequences are heavier", "They have to handle harder situations" — carried by "more robust"). One clause added to the first line ("at play parties or anywhere else") to plant the broadened scope early. No inbound links to the removed heading existed; link check clean.
 
 ### J. Write the parked concept: Identity Precedes Action
 

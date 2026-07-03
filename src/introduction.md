@@ -41,13 +41,15 @@ If a framework can handle a false accusation at a play party, it can handle a co
 
 ### A Note for Facilitators
 
-If you hold space for others, this content is especially relevant to you.
+If you hold space for others — at play parties or anywhere else — this content is especially relevant to you.
 
 You'll encounter all of this: fawning, over-responses, trauma reactions, people crying victim, honest mistakes treated like malice. When it happens, you'll be the one asked to handle it—often in real-time, with incomplete information, while everyone watches.
 
 Most facilitator trainings don't cover this. They teach you how to hold space, guide exercises, support people in process. They don't teach you what to do when a participant starts a witch hunt, or when someone's trauma makes them see predators everywhere, or when you need to protect someone being unfairly attacked while still honoring the accuser's pain.
 
 This book gives you a framework for seeing clearly through situations that most people handle on instinct — and instinct gets it wrong most of the time.
+
+And you don't need to run sex-positive events for this to be yours. This book is written for them, but the facilitation frameworks apply to any container — retreats, workshops, team events, community gatherings. Sex-positive spaces are medium-to-high severity environments: when something goes wrong at a play party, the consequences are heavier than at a yoga retreat or a corporate offsite, the emotional intensity is higher, the vulnerability is deeper. That means the frameworks developed here have to be *more* robust. If a framework can handle a death threat at a play party where someone is naked and vulnerable, it can handle a conflict at a team-building retreat. The principles scale down cleanly. You're not learning niche skills for a niche space. You're learning facilitation under pressure — and pressure-tested frameworks work everywhere.
 
 ---
 
@@ -90,16 +92,6 @@ Many people go through their entire lives fawning to authority figures, running 
 You're here. You're learning. That means you're ahead.
 
 **Everything in this book will serve you far beyond the temple.**
-
-### Why Facilitators of Any Space Should Read This
-
-This book is written for sex-positive events, but the facilitation frameworks here apply to any container—retreats, workshops, team events, community gatherings.
-
-Here's why: sex-positive spaces are medium-to-high severity environments. When something goes wrong at a play party, the consequences are heavier than at a yoga retreat or a corporate offsite. The emotional intensity is higher. The vulnerability is deeper. The potential for harm is greater.
-
-That means the frameworks developed here have to be *more* robust. They have to handle harder situations. And if a framework can handle a death threat at a play party where someone is naked and vulnerable, it can handle a conflict at a team-building retreat.
-
-The principles scale down cleanly. You're not learning niche skills for a niche space. You're learning facilitation under pressure—and pressure-tested frameworks work everywhere.
 
 ---
 
