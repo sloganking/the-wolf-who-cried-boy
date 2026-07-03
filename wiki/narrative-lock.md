@@ -2,7 +2,7 @@
 title: Narrative Lock
 tags: [concept]
 source: invisible-patterns.md
-updated: 2026-04-14
+updated: 2026-07-03
 ---
 
 # Narrative Lock
@@ -73,6 +73,26 @@ Exit cleanly. No defense, no argument, no chasing. Every word you add becomes mo
 ## Caveat
 
 Choosing not to reconnect isn't always Narrative Lock. If you've seen a repeated pattern, processed it honestly, and decided the risk isn't worth it — that's a clear-eyed boundary. The difference: are you *unable* to see them as human, or do you *choose* not to re-engage?
+
+---
+
+## Narrative Lock on Yourself (added 2026-07-03)
+
+The locked story can be about you. *"I can't. I'm helpless. This is just who I am."* The same diagnostics apply inward:
+
+- **Framework substitution** → "I can't because I *am* [broken/weak/not that kind of person]" — an identity cited instead of a situation examined
+- **The trap** → successes become luck, compliments become politeness, failures become proof; every experience confirms the story
+- **No real repair path** → closed door: "this is just who I am"; painted-on door: "I'll be able to X once I'm a completely different person" (movement allowed only after ratifying the identity)
+
+**Key distinction (guards against dilution into generic "limiting beliefs"):** the belief is not the lock. A negative self-belief that updates on contact with contradicting experience was never locked. The lock is the *certainty around the belief* — the filter that keeps counter-evidence from reaching it. This explains why showing a Victim-stuck person their power usually fails (the evidence gets filtered out before it lands) and why [[replacing-the-sentence]] must work at the body level.
+
+**Real constraint acknowledged, without granting exemption:** genuine helplessness exists (the lightning already descending, the dice already tumbling, genuine past powerlessness) — but it lives in *moments* and has a timestamp. "There was nothing I could do in that second" is a description; "there's nothing I can do" is a forecast. The lock stretches moment-powerlessness across a lifetime. Bristling at this check is itself the signal.
+
+**Three axes of self-lock:** capability ("I can't"), worth (the author's own "I am unwelcome, people reject me" sentence), moral ([[sinsickness]] — "I'm a monster"). Same mechanism, different axes.
+
+**The asymmetry vs. locking on others:** you can't exit cleanly from yourself — but you're on both sides of the lock, so no one else has to unlock it for you.
+
+Self-check anchor: `invisible-patterns.md#narrative-lock-on-yourself`. Deployed at: `when-youve-been-wronged.md` ("But I Genuinely Had No Power"), `healing-fawning.md` (the helplessness-belief passage), `own-your-part.md` (They May Not Be Malicious).
 
 ---
 
