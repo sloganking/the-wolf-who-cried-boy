@@ -183,6 +183,16 @@ This applies to:
 
 ---
 
+### Don't Narrate the Structure
+
+Don't add sentences that describe the document's own layout — "the next section covers X," "everything below is about Y," forward-links to sections the reader will reach by reading. The structure already communicates order; restating it is fluff, and it dilutes whatever sentence it's attached to.
+
+Real example: an orientation paragraph for an "In the Moment" section ended with the punchy line "you have to act *now*. Here's how to handle that moment." — followed by "(Everything from [Afterward](#...) on is for once you're out of it.)" The parenthetical restated what the section title "Afterward" already says, and weakened the close. Cut.
+
+Orientation itself can be high-value — telling the reader *what mode they're in* ("this section is for while it's still happening") is doing real work. Telling them what order the sections come in is not. AI co-authors produce this pattern reflexively; check for it before finalizing.
+
+---
+
 ### No Real Names in Personal Examples
 
 The book draws on real experiences. The people involved are never identified. Use roles ("a facilitator," "a participant," "a friend"), not names. The book already attributes quotes to their authors (Laurie Handlers, Tony Robbins, etc.) — that's different from placing someone as a character in a story about conflict, harm, or failure. If someone's name appears in a quote attribution, that doesn't mean they can be named in a narrative example. Keep stories anonymous. The insight matters. The identity doesn't.
