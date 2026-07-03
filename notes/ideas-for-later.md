@@ -145,3 +145,19 @@ The diagnostic confusion — that extreme righteousness can *present* as selfish
 **Best fit:** Expansion of the Mercy Defense section in `appropriate-response.md`. Could also include a brief personal narration of the diagnostic process (initially thinking blurry, then realizing righteous).
 
 ---
+
+### The Ignition Day — PROMOTED to the active list (July 3, 2026)
+
+Moved same night to `fable-review-plan.md` → **item V** (the author's working file), expanded with his full decision-day account, the money epilogue, the desires-to-harm guardrail, the Solo Leveling "add an act" example, and the From Threat to Ally father-arc candidate. Rated ~7x. Nothing remains here — go there.
+
+---
+
+### The Attention Rule — exoneration is a doorway, not a room to live in (July 2, 2026)
+
+The dosage instruction for "power is mutual": after you've *correctly* seen the other person's part — they had power too, they contributed, you're not carrying what's theirs — attention can quietly keep living there. "They had control too" is true, and dwelling on it becomes a deflection from the only variable you own: how you want to show up next. Use the mutual-power fact **once**, to drop the false guilt; then put all attention back on your own becoming. Lingering in the courtroom — even as a winning defendant — is a subtle re-entry into the Victim frame with better paperwork.
+
+**Rated ~3–4x as it stands — parked, below the 7x bar for now.** The book already carries the spirit in three places: `own-your-part.md` (own yours, refuse theirs, focus where your power is), `what-clear-eyes-are-for.md` (sight is for creating good, not cataloguing others' faults), and `responsibility.md` (your part = your power). The genuinely new increment is only the *sequencing/dosage* instruction for the wronged-but-correct party — a one-move refinement, not a framework.
+
+**Best fit if promoted:** 2–4 sentences (not a section) in `own-your-part.md` — either at the end of "Refusing Is Responsible" or in "The Path Forward" — with the doorway line as the anchor. Could rise toward 7x if paired with a lived example of the rumination failure mode (the reader who wins the blame-audit and stalls there). Origin: author's live catch, July 2, 2026 (documented in his private notes as "the attention rule").
+
+---
