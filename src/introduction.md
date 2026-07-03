@@ -289,6 +289,8 @@ Then I saw through the belief underneath all of it: that I *have* to work eight 
 
 Notice what changed and what didn't. The downtimes still come. I still haven't solved them. I didn't need to. Same facts, same body — but without the belief, I'm happier and accomplishing more than I ever would have grinding eight hours like everyone else. The facts never meant *broken.* The belief did. You don't have to fix the fact to remove the story about it.
 
+You can hear the change in the language. I used to say *I can't.* Now I say *I don't know how yet.* The first is a verdict — the case is closed, the search is over. The second is a fact with a door in it: there's a way, I haven't found it, and not having found it doesn't even stop me. That's what changing one limiting belief can do.
+
 Today, I work as a Seer. I see the invisible beliefs running people's lives — the puppet strings they don't know are there — and I show them how to cut them. Sex and intimacy are a specialty, but the skill applies everywhere: money, confidence, relationships, identity under crisis. The machinery is the same.
 
 **I wrote this book because I know what it's like to be on both sides.**
