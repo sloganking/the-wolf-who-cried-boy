@@ -38,6 +38,18 @@ NEVER use moralizing language. Describe behaviors, not character.
 
 Actions teach more than words. Examples demonstrate more than explanations. Let the content speak for itself.
 
+**The mechanism — "Telling takes trust. Showing creates it."** (Logan's distinction, July 2026.) A told claim isn't self-evident — the reader has to advance trust from an account the author may not have opened yet. Showing reverses who pays: the author has to actually have the goods, and that's exactly why it's credible — it's expensive to fake. Every told conclusion *spends* trust; every shown pattern *deposits* it. A book that tells on page one is asking for a loan before the account exists.
+
+**The reader's side — told knowledge is hearsay.** In court, hearsay is inadmissible: a witness may only testify to what they personally witnessed. The body's court runs the same rule — secondhand claims don't get admitted as belief; only experience does. A book can't give the reader lived reps, but story is the closest thing to experience a page can deliver. The reader who watches the Temple Night filters fire, or sits through the "She Told Me Everything" night, has *witnessed* the mechanism — so the belief that forms is theirs, not borrowed from the author. That's why the gold-standard chapters are stories, and why every major principle should arrive as a scene before it arrives as a sentence.
+
+**The blacklight test.** Imagine the book's truths written in invisible ink over every section, visible only under blacklight. State them on page one and the reader says "no, that's not true." Show the journey first, then reveal the same sentences, and the reader says: *"these are all true — this is the language for things I've always known but couldn't say."* The truth was already in them; telling doesn't install it, showing helps them see it. Write so the reader arrives. Name it only after they've seen it.
+
+**Practical checks:**
+
+- Could the reader verify this sentence from what they just experienced on the page — or does it require trusting the author? If it requires trust, show more before saying it.
+- Before every stated principle: has the reader already watched it happen?
+- If a passage is arguing, it's telling. Show enough and the argument becomes unnecessary — the reader makes it themselves.
+
 ### 3. 10x Value Mindset
 
 Every addition should add significant value. Ask constantly:
