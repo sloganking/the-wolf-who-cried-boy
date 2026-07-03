@@ -103,6 +103,13 @@ This is the unifying principle behind no moralizing, inarguable writing, and sho
 
 From *Stranger in a Strange Land*: English lets you say things that are "kind of true but not" — sentences loaded with narrative and judgment that read like facts. "Martian" is the author's name for language stripped to working truths: observations, real feelings, and mechanisms stated plainly; story, inference, and prediction marked as such — or cut. It's the book's own Notice/Feel/Story tool applied to the book's own prose. (The full discipline lives in the author's private notes; this is the writing-relevant core.)
 
+The source passage (wording verified against the novel):
+
+> **"The concepts can't be thought about without the language, and the discipline that results in this horn-of-plenty of benefits — from how to live without fighting to how to please your wife — all derive from the conceptual logic... understanding who you are, why you're here, how you tick — and behaving accordingly. Happiness is a matter of functioning the way a human being is organized to function... but the words in English are a mere tautology, empty. In Martian they are a complete set of working instructions."**  
+> — _Robert A. Heinlein, Stranger in a Strange Land_
+
+The opening clause is why this governs the book and not just conversation: the concepts can't be *thought* without the language. A vocabulary made of story can't hold them — which is why the book coins its terms, and why the prose has to keep the discipline the terms come from. The closing sentence is the target for every line: not empty assertion the reader must take on faith — working instructions they can run. And the same passage carries value #2's mechanism in Heinlein's frame: the church being described rejects "conversion" — belief by declaration — and requires "a willingness to learn" followed by "some long, hard study." A told belief is the empty tautology; understanding the reader builds is the working instructions.
+
 **The test: could someone on any side of the sentence dispute it?** An opinion or a narrative can be dismissed. An accurate description of an observable thing, a real feeling, or a mechanism cannot.
 
 The leaks that show up in drafts:
