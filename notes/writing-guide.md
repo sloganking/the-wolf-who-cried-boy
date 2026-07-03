@@ -87,6 +87,19 @@ This is the unifying principle behind no moralizing, inarguable writing, and sho
 
 **Be cautious with "should."** "Should" tends to moralize — it tells people what to do instead of showing them why they'd want to. Every time you write "should," ask: can this be reframed as a consequence, a pattern, or a choice? "You should set boundaries" is moralizing. "When boundaries aren't set, the container drifts" shows what happens. The reader reaches the same conclusion without being told what to do.
 
+### 7. Stand on Ground You Actually Hold
+
+No posturing. No borrowed authority. Never write a sentence designed to make the author look like something he isn't — that sentence carries a hidden rule ("they can't find out"), and hidden rules manufacture fear: every reader interaction becomes a place the secret could escape. Content written that way collapses the moment it's questioned — *"they see me, and it's bad now."* The author has felt this and wants zero content where it's true.
+
+The fix is not claiming more authority. It's transparency: **declare the vantage, then speak with full authority from it.** A concealment's fear dies when the concealed thing is said out loud — there's nothing left to expose, so a challenge just lands on ground already shown. The worked example is "Where I Stand" (`before-you-facilitate.md`): it states plainly the exact fact a posturing author would hide ("I have not spent years as the lead facilitator") and reads *stronger* for it — the reader can feel the author means business precisely because nothing is being guarded.
+
+The test for any passage: **if the best-informed, least-friendly reader questioned this, would the author's position weaken?** If yes, something is claimed beyond the ground held, or something hidden is doing defensive work. Rewrite from the ground actually held.
+
+Two boundaries so this doesn't degrade:
+
+- **Declaring ground is not hedging.** State the vantage once, plainly — then advise with full authority (authoritative generosity, never self-doubting question marks). Repeating the disclaimer is fear wearing honesty's clothes.
+- **The book's authority is demonstrated sight, not credentials.** 162,000 words of visible seeing is the credential. Nothing needs to be borrowed, and no missing title can be exposed — because none was claimed.
+
 ### Defended Terminology
 
 **"Cry victim"** — This is the book's term for loudly broadcasting victimhood (pointing fingers, spreading stories, mobilizing others). It replaced "play victim," which implied conscious deception. "Cry" is accurate: they're literally crying, yelling, proclaiming. It also directly parallels the book's title (*The Wolf Who Cried Boy*) — same verb, same structure. It describes observable behavior, not intent.
@@ -219,6 +232,7 @@ Therapists can be mentioned as a tool — a small tool for specific, narrow prob
 
 - [ ] No moralizing language or character labels
 - [ ] No defensive hedges
+- [ ] Stands on ground actually held — nothing that would weaken if the best-informed, least-friendly reader questioned it
 - [ ] Shows rather than tells where possible
 - [ ] Adds 10x value (not just filler)
 - [ ] Anyone on any side of an incident could read without feeling attacked
