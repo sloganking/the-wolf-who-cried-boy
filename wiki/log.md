@@ -16,6 +16,8 @@ Append-only record of wiki changes. Each entry starts with a consistent prefix f
 
 **Files updated:** `src/concepts/repair.md` (section rewrite), `notes/fable-review-plan.md` (item C marked DONE), `wiki/log.md` (this entry).
 
+**Same day (author correction):** the example apology had been presented as a verbatim quote ("I guess I got a little too angry") when it was actually a paraphrase. Rewritten to a truthful pattern-level description — the apology acknowledged exactly one wrongdoing (bringing in anger that came from elsewhere) while every action went unmentioned; readout line updated to "where the anger came from — not one thing the anger did." No fabricated quotes remain; the real message stays out of tracked files (canon updated in the gitignored private-context file). Two wording fixes: the guidance close now reads "it showed them you don't yet see what there is to apologize for," and "you've told them where your attention actually is" became "you've shown them."
+
 ---
 
 ## [2026-07-03] add | `when-youve-been-wronged.md` — new "Know Where the Law Actually Stands" subsection (legal fear drives fawning; the legal severity map)
