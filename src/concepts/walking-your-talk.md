@@ -166,6 +166,32 @@ People look to you. If you're calm, they're more likely to be calm. If you panic
 
 Your nervous system regulation becomes permission for others to regulate too.
 
+### Hope Is Part of the Job
+
+Being the anchor has a second half. Calm is defensive — it stops fear from spreading and tells the room *this is not an emergency*. The other half is broadcasting something: the belief that a good outcome is still available.
+
+In *Star Trek: Strange New Worlds*, a security officer — the sole survivor of an attack by the same enemy now hunting her ship — has been briefing the crew in grim, accurate facts. Her captain pulls her aside and asks how she's holding up:
+
+> "The enemy doesn't care about my feelings, Captain. So I don't waste my time having any."
+>
+> "That may be true, but it's not looking that way to the crew."
+>
+> "With all due respect, you know me well enough to know that I don't care what the crew thinks. I've always been blunt. That's just who I am."
+>
+> "But right now your job isn't just about orders. It's about hope. Belief can be the difference between victory and defeat. Get a crew to believe in miracles, they might just give you one."
+>
+> "I will make that adjustment. But I will not lie to them."
+>
+> "The best miracles are born from truth."
+>
+> — *Star Trek: Strange New Worlds*, Season 1, Episode 4
+
+She's not wrong about the facts. She's the most informed person on the ship about this exact threat. And her honest, accurate briefings are installing hopelessness in the crew — because [people mirror emotions, not facts](#people-mirror-emotions-not-facts). The crew isn't just downloading her information. They're downloading her defeat.
+
+The same thing happens in a container when something goes wrong. An accusation lands, a conflict goes public, and the room reads you. If what you broadcast is damage control — grim, braced, managing the fallout — the room learns: *this is damage. The best we can do is lose less.* But if you genuinely believe the people in front of you can reach something real — clarity, learning, maybe even reconnection — the room believes that too. And people work toward outcomes they believe are possible. A facilitator who believes repair is available fights to win. One who doesn't fights to lose less — and the room follows them there.
+
+The officer's objection is the right one, and this book agrees with her: never lie. Saying "everything is fine" while it isn't is [fawning](./fawning.md), and performed optimism produces [fake resolution](./guiding-public-repair.md#what-fake-resolution-looks-like), not repair. But hope isn't a claim that things are fine. It's a belief about what's still possible — and it changes what everyone in the room does next. The best miracles are born from truth: real repair is built out of what's true, and [your job is to guide the room to it](./guiding-public-repair.md#guiding-honesty) — believing, the whole time, that something good can be made from it. (For the personal-level version of this — belief as cause and effect after your own mistake — see [Everything Happens For You](./i-made-a-mistake.md#everything-happens-for-you).)
+
 ### The Trap: The Angriest Person Sets the Tone
 
 The trap is this: **the angriest person often sets the emotional tone.**
