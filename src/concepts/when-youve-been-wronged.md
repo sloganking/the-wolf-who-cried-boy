@@ -101,7 +101,7 @@ If only one direction of repair happens, both people walk away incomplete. The f
 
 ## In the Moment
 
-Everything above is for making sense of what happened. This section is for while it's still happening — someone is yelling at you, accusing you in front of a room, attacking your reputation in real time. You're activated, unprepared, and you have to act *now*. Here's how to handle that moment. (Everything from [Afterward](#afterward-the-emotional-reality) on is for once you're out of it.)
+Everything above is for making sense of what happened. This section is for while it's still happening — someone is yelling at you, accusing you in front of a room, attacking your reputation in real time. You're activated, unprepared, and you have to act *now*. Here's how to handle that moment.
 
 ### Don't Fawn
 
