@@ -37,6 +37,8 @@ Sometimes it's posturing — making yourself look big and dangerous when you're 
 
 This doesn't mean you treat death threats casually. You never test whether a threat is real by waiting to see what happens. Every threat gets the same response: immediate separation, removal from the container, real consequences. The distinction matters not for your _actions_ — which stay the same regardless — but for your _understanding_. When you know the person across from you is scared, not evil, you can hold the boundary firmly without dehumanizing them. That's the difference between a facilitator who handles a crisis and a facilitator who creates a second one.
 
+One more thing worth knowing: in many places, the threats are the crime in the room. In California, criminal threats (Penal Code 422) can be charged as a felony carrying prison time — while the accidental boundary crossing that triggered the outburst typically isn't a crime at all, because [criminal law requires intent](./when-youve-been-wronged.md#know-where-the-law-actually-stands). You don't need to invoke this in the moment. But know it: when you remove the person making threats and protect the person who made the mistake, you're not imposing a private morality on the room. You're enforcing the same severity ranking the law itself uses.
+
 ---
 
 ## The Order of Operations
