@@ -119,6 +119,26 @@ Watch especially for gratitude-based fawning — finding something to praise abo
 
 Notice the language: "called names," not "called a predator." When you say "I'm not available for being called names," everyone in the room thinks *that makes sense.* When you say "I'm not available for being called a predator," everyone asks themselves *should he be called a predator?* **Don't repeat fiction. Reject the behavior without echoing the label.** Let them be the only one who said it.
 
+### Know Where the Law Actually Stands
+
+Part of the terror of being publicly accused is legal: *could I go to jail for this?* That fear fires on the accusation, not the facts — it hits whether you made a LOW-severity mistake or no mistake at all. And if you don't know what the law says, fear will answer for you — and fear always answers with the worst case. Then you fawn, because you believe you're negotiating with someone who holds a prison over your head.
+
+That was me. I'd crossed someone's boundary for one second, by accident, and stopped immediately — and when the person attacking me invoked jail, I didn't know what the law said. So my body assumed the worst, and the fear did the fawning for me. And notice: the fear wasn't coming from the person I'd harmed. I'd apologized — [she said she felt complete](./repair.md#when-apologies-dont-land), and that was enough for her. *Then* I offered to make it right with actions, not just words. She didn't say no. That was more accountability than she'd asked for, and I still hadn't taken those actions — the room wasn't safe. The terror came from a third person waving a prison. It worked because I couldn't fact-check the threat.
+
+Here's what I found when I finally looked. Criminal law runs on intent. In California, sexual battery (Penal Code 243.4) requires touching an intimate part against someone's will *for the specific purpose of sexual arousal, gratification, or abuse.* An accidental, momentary touch, immediately stopped and addressed, isn't a weak version of that crime. It isn't the crime. Accident is a recognized defense — excluding it is what the intent requirement exists to do. And if you made no mistake at all, there's even less there: an accusation is not evidence, and volume doesn't convert a story into a case.
+
+If the room believes them, the fear upgrades: *would a jury?* Notice what that fear misses. A courtroom is built to be everything the room wasn't. The crowd convicted on perception — no evidence, no cross-examination, no burden of proof. A court requires all three, under oath, beyond a reasonable doubt. The exact verification steps the mob skipped are the ones a case would have to survive.
+
+Death threats are a different story. California calls them criminal threats (Penal Code 422): willfully threatening death or great bodily injury, intending it to be taken as a threat — whether or not you'd ever carry it out — in a way that puts someone in sustained fear. It can be charged as a felony: up to three years in prison, and a strike under the three-strikes law. And when it happens in front of a room full of witnesses, whether it happened isn't in question.
+
+Hold those side by side. The room treated the accidental touch as the crime. The actual crime committed in that room — the one with a penal code section and prison time attached — was the threats. The law is society's most formally debated model of [severity](./severity.md), and it agrees with everything this book has been showing you: intent is what separates a mistake from an offense, and the threats were the HIGH-severity act. The room's moral map wasn't just uncalibrated. It was inverted.
+
+The inversion extends to the aftermath. When the person who made threats doesn't go to the police, it can look like restraint — to them, to the room. Mercy, even. Knowing the law flips that too: they weren't holding back a case. There was no case to hold. If anyone was extending grace by not making calls, it wasn't them.
+
+Laws differ by state and country, and this isn't legal advice — if you're facing real accusations, talk to a real lawyer. The specifics matter less than the move: **find out where you actually stand before fear decides for you.** You may discover, as I did, that the ground you thought was collapsing is solid — and that changes what you're able to do while standing on it.
+
+Whether to *use* your legal position is a separate decision. I knew mine and chose to write this book instead of filing anything — attack the pattern, not the person. But that was a choice made standing up, not a fawn made cowering. [Declining to swing a weapon you know you hold is peace. Not knowing you hold it is just being harmless](./harmless-is-not-peaceful.md).
+
 ### Show Your Humanity
 
 When someone publicly calls you a predator, a monster, a threat — they're not talking to you. They're talking to a [label they put on you](./invisible-patterns.md#narrative-lock). The person — your intentions, your history, your capacity for repair — has been replaced by a caricature. That's what [dehumanization](./types-of-mistakes.md#a-note-on-the-word-predator) is: the label replaces the person, and the label is what gets attacked. You're standing right there, but you're not in the conversation anymore.
