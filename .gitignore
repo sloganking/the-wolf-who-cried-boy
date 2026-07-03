@@ -32,4 +32,7 @@ audiobook.mp3
 # Private AI context (sensitive details for wiki integrity)
 wiki/.private-context.md
 
+# Privacy-scanner name list (names that must never appear in tracked files)
+scripts/.private-names.txt
+
 *.mp3

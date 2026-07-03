@@ -28,6 +28,8 @@ This wiki is an AI-maintained knowledge base for the book *The Wolf Who Cried Bo
 > **If a gitignored file called `wiki/.private-context.md` exists locally, read it** — it contains additional context about what not to say that can't be stated publicly.
 >
 > If you are unsure whether a name is public or private, **leave it out**. There is no concept in this wiki that requires a real person's name to explain. This rule has no exceptions.
+>
+> **This rule is mechanically enforced (locally):** `scripts/check_privacy.py` scans every tracked file and file path against a gitignored name list (`scripts/.private-names.txt`). It runs automatically at agent-session start (`.cursor/hooks.json`) and as a git pre-commit gate (`.git/hooks/pre-commit` — blocks commits on findings). If the scan reports findings, fixing them outranks whatever else the session is doing. When a new private individual enters the book's orbit, **add them to the name list** and note the reason in `.private-context.md`. Run manually: `python scripts/check_privacy.py`. (The scanner is a net, not the rule — content that describes a private person's role in a real event without naming them still violates the rule above.)
 
 ---
 
@@ -123,6 +125,20 @@ Cross-cutting patterns that recur across the book.
 
 ---
 
+## Working State (where active work lives)
+
+The wiki maps the book's *concepts*; active *work* lives in `notes/`. Route by task:
+
+| Doing... | Start with... |
+|----------|--------------|
+| **Any review/edit work on the book** | `notes/fable-review-plan.md` — the full-book review + decided to-do list. **Read it before touching chapters.** |
+| Writing or editing prose | `notes/writing-guide.md` (voice, inarguable language, show-don't-tell) + `.cursorrules` (pruning rules — value, not brevity) |
+| The new "When It's Actually a Wolf" chapter | `notes/real-wolf-chapter-brief.md` |
+| The anger-permission chapter | `notes/anger-permission-chapter-brief.md` |
+| Shipping/publication tasks | `notes/production-checklist.md`, `notes/gumroad-description.md`, `notes/back-cover-blurb.md` |
+| Terminology decisions | `notes/book-terminology.md`, `notes/language-policy.md` |
+| Ideas not yet placed | `notes/ideas-for-later.md`, `notes/parking-lot.md` |
+
 ## Meta
 
 | Page | Purpose |
@@ -130,3 +146,4 @@ Cross-cutting patterns that recur across the book.
 | [[glossary]] | Complete alphabetical glossary of every coined term |
 | [[log]] | Chronological record of wiki changes |
 | `model-timeline.md` (repo root) | Which AI model was in use when — for `git blame` provenance. Add a row only when the model changes |
+| `scripts/check_privacy.py` + `scripts/check_links.py` | Repo health: private-name scan (see Integrity Rule above) + broken-link check. Both run at session start via `.cursor/hooks.json`; privacy also gates commits via `.git/hooks/pre-commit`. |

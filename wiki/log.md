@@ -10,6 +10,20 @@ Append-only record of wiki changes. Each entry starts with a consistent prefix f
 
 ---
 
+## [2026-07-02] add | Privacy scanner + session-start hook + pre-commit gate + working-state map
+
+**What happened:** After a parallel organization pass on the author's private repo, the same audit was run here. Verdict: this repo was already in strong shape (index/glossary current, links clean, log discipline solid, the review plan as the active work doc). Two gaps closed:
+
+1. **The no-names rule is now mechanically enforced.** New `scripts/check_privacy.py` (tracked, contains no names) scans every tracked file and file path against a **gitignored** name list (`scripts/.private-names.txt`). Wired in three places: agent-session start (`.cursor/hooks.json` → `.cursor/hooks/privacy_report.py`, which also runs the link checker and injects a one-line OK or an urgent report), a **git pre-commit gate** (`.git/hooks/pre-commit`, local — blocks any commit while the scan fails; `--no-verify` bypass for verified false positives), and manual runs. Supports `@allow` per-file exceptions (used for the established hypothetical placeholder name in the examples notes). Baseline scan: clean — no private names in any tracked file or path. Detection and blocking behavior both tested with a temporary rule, then reverted. The Integrity Rule block in `wiki/index.md` documents it, including the maintenance duty (new private individual → add to the list) and the limit: the scanner nets *names*; de-identifying *details* stays a judgment call.
+
+2. **Working-state routing added to `wiki/index.md`.** The wiki mapped concepts but not active work; a new "Working State" table routes by task (review work → the review plan; prose → the writing guide; shipping → the production checklist; etc.), mirroring the private repo's dispatch-table pattern.
+
+**Also:** the gitignored private-context file gained sections on the scanner's care-and-feeding and on the relationship to the neighboring private repo (where cross-repo pointers belong — not in tracked files).
+
+**Files updated:** `scripts/check_privacy.py` (new), `.cursor/hooks.json` + `.cursor/hooks/privacy_report.py` (new), `.git/hooks/pre-commit` (new, local/untracked), `.gitignore` (name-list entry), `wiki/index.md` (Integrity Rule enforcement note + Working State table + Meta row), `wiki/.private-context.md` (expanded, gitignored), `wiki/log.md` (this entry).
+
+---
+
 ## [2026-07-01] add | `trauma-and-filters.md` — new "Your Body Tilts the Story" subsection (physiology as story input)
 
 **Book change:** Added `### Your Body Tilts the Story` to `src/concepts/trauma-and-filters.md`. **Revised 2026-07-02 after author review** ("feels out of place, telling not showing" — confirmed on full re-read): relocated from the model-building zone (after "The Story Happens Instantly") into the priming cluster (after "Choose Your Lens"), where it reads as the *internal* primer parallel to Choose Your Lens's external one, sits in the chapter's prescriptive register, and lands two sections above "She Told Me Everything" — whose all-night survival-mode nervous system now demonstrates it. Also added a show-first opening (the 1 a.m. fight that dissolves at breakfast; the hangry coworker day) and compressed the tool-index paragraph into one sentence. Patches an exposed edge in the chapter's central claim (a skeptical reader can refute "feelings come from stories" with one bad night of sleep): physiology doesn't compete with the story model — it tilts which story the filter reaches for. A depleted body reports *something is wrong* and the story-maker treats the report as evidence about the world — "predicting negative because your physiology is negative" (author's line). Practical move: check the condition of the body that produced a story before trusting it (analogy: testimony from a witness who'd been drinking — not automatically wrong, not actionable without verification). Ties three existing prescriptions back to the perception model as one underlying move ("read the instrument before you trust the reading"): the [[gun-test]], Feed Yourself First, Don't Act From Fear.
