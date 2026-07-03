@@ -533,7 +533,7 @@ The child who was abused had no power to stop it. The adult that child became _d
 
 The shift isn't "you could have stopped it and didn't." The shift is "that was then, and now you have power you didn't have before. What will you do with it?"
 
-Genuine helplessness has a timestamp. "There was nothing I could do in that moment" is a description of the past. "There's nothing I can do" is a forecast — and when that forecast is held with certainty, filters out every piece of counter-evidence, and bristles when questioned, it's a [narrative lock on yourself](./invisible-patterns.md#narrative-lock-on-yourself): the same mechanism as the accuser who can't process new information, pointed at your own capability.
+Genuine helplessness has a timestamp. "There was nothing I could do in that moment" is a description of the past. "There's nothing I can do" is a forecast — and when that forecast comes with certainty, filters out every piece of counter-evidence, and bristles when questioned, it's a [narrative lock on yourself](./invisible-patterns.md#narrative-lock-on-yourself): the same mechanism as the accuser who can't process new information, pointed at your own capability.
 
 If you were genuinely powerless in the past, the victim feeling dissolves not by rewriting history, but by claiming your _current_ power. You're not that child anymore. You're not restrained anymore. You're not in that situation anymore.
 
