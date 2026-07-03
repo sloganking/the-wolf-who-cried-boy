@@ -75,7 +75,7 @@ When something goes wrong, ask:
 - **When You've Been Wronged** — Five wronged modes, show your humanity, The Way Out, victim feeling tracks unused power
 
 ### Part 8: For Facilitators
-- **Before You Facilitate** → opens with "Where I Stand" (the author's vantage note to facilitators, moved from the intro), [[the-promise]], feed yourself first, friction-check your staff, play-with-participants tradeoffs, facilitator fawning (+ "When It's Been Months": retroactive repair tiered principle/full/minimum — the vacuum is the ongoing harm; ask the harmed person first)
+- **Before You Facilitate** → opens with "Where I Stand" (the author's vantage note to facilitators, moved from the intro), [[the-promise]], feed yourself first, friction-check your staff, play-with-participants tradeoffs, facilitator fawning (+ "When It's Been Months": retroactive repair tiered principle/full/minimum — the story that filled the silence doesn't expire; ask the person who was attacked first)
 - **Walking Your Talk** — People learn what you do, emotional contagion, First Officer, protect top vulnerability
 - **When Things Go Wrong** — Dignity 24/7, emotional mirroring, emergency exception, de-escalation
 - **Guiding Public Repair** — Context first, real vs fake repair, three sentences then leave

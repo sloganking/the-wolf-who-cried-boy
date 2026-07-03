@@ -99,6 +99,21 @@ This is the unifying principle behind no moralizing, inarguable writing, and sho
 
 **Be cautious with "should."** "Should" tends to moralize — it tells people what to do instead of showing them why they'd want to. Every time you write "should," ask: can this be reframed as a consequence, a pattern, or a choice? "You should set boundaries" is moralizing. "When boundaries aren't set, the container drifts" shows what happens. The reader reaches the same conclusion without being told what to do.
 
+#### The Martian Check (this value, made operational)
+
+From *Stranger in a Strange Land*: English lets you say things that are "kind of true but not" — sentences loaded with narrative and judgment that read like facts. "Martian" is the author's name for language stripped to working truths: observations, real feelings, and mechanisms stated plainly; story, inference, and prediction marked as such — or cut. It's the book's own Notice/Feel/Story tool applied to the book's own prose. (The full discipline lives in the author's private notes; this is the writing-relevant core.)
+
+**The test: could someone on any side of the sentence dispute it?** An opinion or a narrative can be dismissed. An accurate description of an observable thing, a real feeling, or a mechanism cannot.
+
+The leaks that show up in drafts:
+
+- **Frequency claims nobody counted.** "Most facilitators...", "usually," "everyone." If the number isn't checkable, don't claim it. Enumerate the cases instead ("Some know in the moment... Others have nothing to realize yet...") or state the mechanism that produces them.
+- **Verdict language.** "The person you failed," "you abandoned them" — a judgment wearing a description's clothes. Describe the event: "the person who was attacked," "the person who didn't get protection."
+- **Story stated as fact.** "Harm is still being done to them every day," "reopening their wound to relieve your own conscience" — claims about another person's inner experience or motive, which the writer can't observe. Describe the observable mechanism instead: a carried story surfaces in retellings and treatment; an unrequested public correction fits the Rescuer pattern.
+- **Identity and future claims.** "They can't," "they always will." Past tense and counts are inarguable; capabilities and futures are predictions.
+
+**The guard: this does not mean writing like a Martian.** The book's voice is a human being — warm, direct, profane when it's true, with skin in the game. Feelings stay (they're facts). Desires stay. Fire stays. What goes is the bullshit layer: the story dressed as observation, the verdict dressed as description, the number nobody counted. Write like a human who knows how to say true things.
+
 ### 7. Stand on Ground You Actually Hold
 
 No posturing. No borrowed authority. Never write a sentence designed to make the author look like something he isn't — that sentence carries a hidden rule ("they can't find out"), and hidden rules manufacture fear: every reader interaction becomes a place the secret could escape. Content written that way collapses the moment it's questioned — *"they see me, and it's bad now."* The author has felt this and wants zero content where it's true.
@@ -260,5 +275,6 @@ Therapists can be mentioned as a tool — a small tool for specific, narrow prob
 - [ ] Anyone on any side of an incident could read without feeling attacked
 - [ ] Quotes formatted correctly
 - [ ] Language walks its own talk — no stories, no narrative frames, just inarguable descriptions of what happens
+- [ ] Passes the Martian check — no uncounted frequency claims ("most," "usually"), no verdict language ("the person you failed"), no claims about others' inner experience or motives stated as fact
 
 ---
