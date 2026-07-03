@@ -172,17 +172,17 @@ Being the anchor has a second half. Calm is defensive — it stops fear from spr
 
 In *Star Trek: Strange New Worlds*, a security officer — the sole survivor of an attack by the same enemy now hunting her ship — has been briefing the crew in grim, accurate facts. Her captain pulls her aside and asks how she's holding up:
 
-> "The enemy doesn't care about my feelings, Captain. So I don't waste my time having any."
+> **Officer:** "The enemy doesn't care about my feelings, Captain. So I don't waste my time having any."
 >
-> "That may be true, but it's not looking that way to the crew."
+> **Captain:** "That may be true, but it's not looking that way to the crew."
 >
-> "With all due respect, you know me well enough to know that I don't care what the crew thinks. I've always been blunt. That's just who I am."
+> **Officer:** "With all due respect, you know me well enough to know that I don't care what the crew thinks. I've always been blunt. That's just who I am."
 >
-> "But right now your job isn't just about orders. It's about hope. Belief can be the difference between victory and defeat. Get a crew to believe in miracles, they might just give you one."
+> **Captain:** "But right now your job isn't just about orders. It's about hope. Belief can be the difference between victory and defeat. Get a crew to believe in miracles, they might just give you one."
 >
-> "I will make that adjustment. But I will not lie to them."
+> **Officer:** "I will make that adjustment. But I will not lie to them."
 >
-> "The best miracles are born from truth."
+> **Captain:** "The best miracles are born from truth."
 >
 > — *Star Trek: Strange New Worlds*, Season 1, Episode 4
 
