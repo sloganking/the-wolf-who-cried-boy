@@ -47,7 +47,9 @@ Facilitating sex-positive events is **higher severity** than most other facilita
 
 The stakes are higher. The mistakes are more costly. The dynamics are more complex. The potential for harm—and the potential for profound healing—are both amplified.
 
-This means that having the concepts in this book deeply understood and embodied isn't optional. Whether you learn them here or elsewhere, having these principles figured out will be **imperative to your continued happiness and success** as a facilitator.
+Facilitate long enough and the situations this book covers will come to you — the accidental boundary crossing, the over-response, the accusation you can't verify, the participant making threats. That's not pessimism; it's what rooms full of humans produce, given enough nights. Whether you learn these principles here or elsewhere, the real question is whether you'll have them before one of those nights or after.
+
+Facilitators survive these events either way. But there's a wide gap between surviving something and handling it — and the difference is paid in ease: months of cleanup instead of an evening of repair, relationships strained instead of deepened, a weight you carry instead of a story you tell. The cost of not seeing clearly isn't your happiness. It's that everything becomes harder than it needed to be.
 
 If you're facilitating in intimate spaces without this foundation, you're playing minesweeper without knowing where the mines are.
 
