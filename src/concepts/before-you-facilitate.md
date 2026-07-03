@@ -556,6 +556,20 @@ That's not the end. That's the beginning of repair.
 4. **Ask the person you failed what would make it right.** Not what you think is reasonable. What *they* need. You [under-responded](./appropriate-response.md#under-response-the-invisible-failure). The repair should be proportional to the harm — and the harm includes every layer of the cascade: the attack, the abandonment, the reputation damage, and the time they spent unprotected.
 5. **Change your systems.** If you didn't have a [promise](#the-promise), create one. If you had one and didn't honor it, figure out why and build the structure that prevents it next time. The promise exists specifically to make facilitator fawning harder — the decision is pre-made, so you don't have to be brave in the moment.
 
+#### When It's Been Months
+
+Most facilitators who realize they fawned don't realize it that night. They realize it later — sometimes much later. The container ends, the group disperses, and six months or a year passes before the fear quiets enough for the thought to finish itself: *I didn't protect them.* By then the story has settled, everyone seems to have moved on, and correcting the record feels less like repair and more like reopening something the group has already closed.
+
+Here's what makes "everyone has moved on" the wrong test: [the room fills the vacuum](./guiding-public-repair.md#the-context-rule). The people who watched the incident and never heard what actually happened didn't move on from the truth — they moved on from the story that filled the silence. Some still keep their distance from the person who was attacked. Some just quietly believe something about them that isn't true. And your non-correction is still doing what it did on day one: lending the accusation validity by letting it stand. Time doesn't dissolve that. It calcifies it. The distorted story isn't a wound that healed badly months ago — it's harm still being done, to the same person, every day it goes uncorrected.
+
+**The principle:** the vacuum is the ongoing harm. Correct the record with whoever is still carrying the wrong one.
+
+**The full version:** a public correction to the same audience that carries the distorted story. If the group still exists in any form — a community, a mailing list, a circle that reconvenes — tell them what actually happened, what you failed to do, and what should have happened. The correction should carry the same weight the silence did.
+
+**The minimum version:** targeted private corrections. You may not be able to reassemble the room, and you may not need to. Find the specific people who still matter to the harmed person's life — the ones still confused, still angry, still cold toward them — and set the record straight with each one directly. This costs a fraction of a public correction and delivers most of the protection, because reputational harm doesn't live in "the group." It lives in the specific relationships that changed.
+
+**Before either version: ask the person you failed what they want.** This is the step that keeps the repair a repair. A retroactive public correction they didn't ask for is [Rescuer behavior](./why-rescuers-are-dangerous.md) — reopening their wound in front of an audience to relieve your own conscience. Maybe they want the public correction. Maybe they want three specific conversations handled quietly. Maybe they've built a life the story doesn't reach and they want it left alone. [The repair is for them](./repair.md#ask-for-what-you-actually-want) — they choose its size and its venue. Your job is to offer both versions honestly and deliver whichever one they choose.
+
 Facilitator fawning isn't a character flaw. It's a pattern — the same pattern this entire [chapter](./fawning.md) describes. The same fear, the same override, the same cost. The difference is that when a facilitator fawns, the cost isn't just theirs. It cascades through every person in the container who needed them to act and watched them freeze.
 
 ---
