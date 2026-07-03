@@ -2,6 +2,15 @@
 
 ---
 
+## Where I Stand
+
+Before I advise you, you should know where I'm advising from.
+
+I've spent years in these spaces as a participant and an assistant — on every side of every dynamic in this book, including being falsely accused. I have not spent years as the lead facilitator at the front of the room. That is the vantage this book is written from: the person inside the experience, not the one running it. It's a different view than yours — and in a book about the people the room stops seeing, it may be the more useful one.
+
+What follows are the most complete systems I could build for problems this industry has barely named. Some of them I've lived and tested. Some are designed — reasoned from the principles this book teaches, for situations most containers have no protocol for at all. My job here isn't to take over your thinking. It's to give you a perspective you can't get from the front of the room, and options that may make more sense than the ones you've been choosing from. You've held rooms longer than I have — which is exactly why these prescriptions deserve your scrutiny, and why they'll get better under it. Take what's true. Test the rest. Calibrate all of it to your container.
+
+---
 
 ## Why Read This If You're Not a Facilitator
 
