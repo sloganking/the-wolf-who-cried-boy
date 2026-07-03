@@ -124,9 +124,9 @@ That changes everything about how you respond.
 
 > **You don't fix blindness with punishment. You fix it with sight.**
 
-When I say *most* harm comes from blindness — or that nine times out of ten a boundary crossing is a mistake, not a predator — I'm not citing a study. I haven't run the math, and I'm wary of anyone in these spaces who claims they have. I'm telling you what I've watched happen, again and again, across years on every side of these rooms — and what follows from the single premise this book rests on: that human fear is far more common than human selfishness. That premise is a bet, not a measurement. Hold my frequencies as field observation — signposts, not statistics. Where I have a source, I cite it. Where I don't, you're hearing my read. Weigh it against your own.
-
 If that lands wrong at first, sit with it. The concepts build on each other.
+
+When I say *most* harm comes from blindness — or that nine times out of ten a boundary crossing is a mistake, not a predator — I'm not citing a study. I haven't run the math, and I'm wary of anyone in these spaces who claims they have. I'm telling you what I've watched happen, again and again, across years on every side of these rooms — and what follows from the single premise this book rests on: that human fear is far more common than human selfishness. That premise is a bet, not a measurement. Hold my frequencies as field observation — signposts, not statistics. Where I have a source, I cite it. Where I don't, you're hearing my read. Weigh it against your own.
 
 ---
 
