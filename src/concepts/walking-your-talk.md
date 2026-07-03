@@ -120,7 +120,9 @@ Your participants are reading your nervous system. They're mirroring your emotio
 
 Here's something most facilitators don't realize: **people don't primarily look at facts to determine how they should feel. They mirror the emotions of others.**
 
-This is animal-level communication. Our bodies read other bodies. Words tell you what to think. Emotions tell you how to feel about it.
+This is animal-level communication. Our bodies read other bodies. Your words hand people ideas. Your emotions tell them how to feel about those ideas.
+
+This book already showed you that facts don't determine feelings — [the story you attach to them does](./trauma-and-filters.md). The [shibari woman's lesson](./healing-fawning.md#leading-with-the-wound) was exactly this: the same seven years, carried as a confession or as an invitation, and the person receiving it wants to back away or lean in accordingly. Here's the piece most people miss: that's not just an internal tool. Beliefs are contagious. The meaning you assign to an event travels through your body to everyone watching. If you believe *this is fine, we're handling it*, they will too. If you believe *oh shit, we're fucked*, they will too — before you've said a word.
 
 **Example: A boundary violation occurs.**
 
