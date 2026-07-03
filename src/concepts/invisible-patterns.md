@@ -306,6 +306,35 @@ This isn't about being paranoid about your every perception. It's about humility
 
 This is why [Notice, Feel, Story](../tools/notice-feel-story.md) and [Before You Judge](./before-you-judge.md) matter so much. They're tools for catching your filters before they cause harm.
 
+## Narrative Lock on Yourself
+
+Everything above assumes the locked story is about another person. It doesn't have to be. The story that hardens can be about you.
+
+*I can't. I'm helpless. I'm not someone who can handle this. It's impossible for me.*
+
+Turn the lock's own diagnostics inward and watch them light up:
+
+**Framework substitution.** "I can't do it, because I *am* [something]" — broken, weak, too damaged, not the kind of person who can. The moment the explanation shifts from the specific situation to an identity, curiosity ends. You're no longer asking "what would this actually take?" — you're citing a category, and the category answers every future question in advance. My old [primary question](#your-primary-question) — *how do I fix myself?* — was exactly this: it presupposed broken, and no answer could ever touch the presupposition.
+
+**The trap.** Every experience confirms the story. You succeed — it was luck, they went easy on you, it doesn't count. You fail — *see? Proof.* Someone believes in you — they don't really know you. Someone shows you evidence of your capability — they're just being nice. When a story about another person converts everything into confirmation, we call it a lock. It doesn't become something else when the person is you.
+
+**No real repair path.** The closed door: *"this is just who I am."* No future where it's different — the same confident prediction wearing a verdict's clothes, aimed at yourself. And the painted-on door: *"I'll be able to do it once I become a completely different person."* A way forward that requires you to first ratify the identity — you're allowed to move, but only after agreeing that you, as you are, can't.
+
+Here's the part that matters most: **the belief is not the lock.** A negative self-belief that updates when life contradicts it was never locked — you thought you couldn't cook, you took a class, now you cook. The lock is the certainty *around* the belief: the filter that keeps counter-evidence from ever reaching it. That's why people who try to show you your power so often fail, and why [understanding isn't enough](#why-understanding-isnt-enough) — evidence can't update a story whose job is to filter evidence. You can't argue with the lock, and you can't exit cleanly from yourself the way you'd exit from a locked accuser. The way in is underneath: [find the sentence and replace it](#replacing-the-sentence).
+
+None of this denies that real constraint exists. [When the lightning is already descending, there are no fancy dance moves that will stop it](./responsibility.md#am-i-responsible-if-im-struck-by-lightning) — the [dice are already tumbling](./responsibility.md#the-dice-principle), and some moments genuinely contain no move. You may also have been [genuinely powerless in the past](./when-youve-been-wronged.md#but-i-genuinely-had-no-power) — a child, restrained, out of options. But watch what a locked story does with those facts: it takes powerlessness that lives in *moments* and stretches it across a lifetime. "There was nothing I could do in that second" is a description. "There's nothing I can do" is a forecast. Genuine helplessness has a timestamp. The lock doesn't — it claims every moment still to come. And if you feel the pull right now to say *"but I really am the exception — I really can't"* — notice whether it comes with a bristle. You already know what bristling at the check means.
+
+The capability story is one axis. The lock can hold any story about you: what you're capable of (*"I can't"*), what you're worth (the sentence I showed you [earlier in this chapter](#replacing-the-sentence) — *"I am unwelcome. People reject me."* — was a locked story about myself; I just didn't call it that yet), or what you are morally — which this book covers as [sinsickness](./i-made-a-mistake.md#sinsickness): the verdict *"I'm a monster,"* installed after a mistake, immune to the actual size of what happened. Same mechanism, different axis. Learn to spot the lock on one and you can spot it on all of them.
+
+**Is my story about myself locked?**
+
+1. Is there anything I could do or experience that would change my mind about what I'm capable of? Or does nothing count?
+2. When did evidence against the story last get through? If the honest answer is "never," you're not perceiving — you're confirming.
+3. Does my "I can't" describe a moment that passed — or every moment still to come?
+4. If someone I trusted said "you might be wrong about yourself," would I consider it — or defend the story?
+
+A person locked on someone else isn't talking to them anymore — they're in a conversation with the version their story created. Locked on yourself, the same thing happens: you stop being in contact with yourself. You're in a relationship with a category — *someone who can't* — and categories don't get heard, don't get to grow, don't get repair paths. Except this time you're on both sides of the lock. That's the bad news and the good news at once: no one can walk away from themselves — and no one else has to unlock it for you. The person holding the story and the person the story is about are, for once, the same person.
+
 ## The Filter You Don't Know You're Wearing
 
 There may be a single sentence running your life and tainting how you see everything in the world.
