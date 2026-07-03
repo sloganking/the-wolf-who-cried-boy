@@ -121,6 +121,14 @@ Key points:
 
 (Author should be on its own line)
 
+### Links Must Read as Prose
+
+The book ships as ebook AND paperback/PDF. In print, links become plain text — so every sentence must read perfectly with the links stripped.
+
+- Hyperlink the meaningful phrase itself: "because [criminal law requires intent](...)" — in print this reads as a normal sentence.
+- NEVER use naked pointer links: "([more here](...))", "([see this](...))", "(click here)". In print these become dangling junk: "...requires intent (more here)."
+- Test before finalizing: read the sentence as if the link syntax were deleted. If any words exist only to host a link, rewrite so the load-bearing phrase carries it.
+
 ---
 
 ## Author Voice & Personality
