@@ -18,7 +18,7 @@ These patterns don't just hurt others. They run *your* life. Your perceptions, y
 
 **This book is that framework.** A guide to seeing the invisible patterns — in yourself and others — so you can stop being run by them. How to respond to mistakes without creating more harm. How to take responsibility without shame. How to repair things when they break.
 
-It's not about being perfect. It's about seeing what's actually happening — instead of what your fear tells you is happening.
+It's not about being perfect. It's about seeing what's actually happening — instead of what your fear tells you is happening — and responding in a way that repairs instead of destroys.
 
 ### Why Play Spaces?
 

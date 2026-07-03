@@ -24,6 +24,14 @@ Append-only record of wiki changes. Each entry starts with a consistent prefix f
 
 ---
 
+## [2026-07-03] edit | `introduction.md` — purpose statement completed (review-plan item U, intro half)
+
+**Book change:** The intro's purpose line gained its missing response half, exactly as the plan proposed: "It's about seeing what's actually happening — instead of what your fear tells you is happening — **and responding in a way that repairs instead of destroys.**" The seeing half and the responding half of the book's purpose now live in one sentence. The marketing-copy half of item U (back cover / Gumroad) remains open for those files' next pass.
+
+**Files updated:** `src/introduction.md` (one line), `notes/fable-review-plan.md` (item U intro half marked DONE), `wiki/log.md` (this entry).
+
+---
+
 ## [2026-07-03] edit | `before-you-facilitate.md` — "A Note on Severity" de-moralized (author-directed)
 
 **Book change:** The paragraph "having the concepts in this book deeply understood and embodied isn't optional... will be **imperative to your continued happiness and success**" was command-register ("isn't optional," "imperative" — the guide's own should-rule catches it) and overclaimed the stakes (facilitators who handle incidents badly can remain happy; what's lost is ease). Replaced with inevitability + cost, shown not commanded: the situations the book covers will come ("that's not pessimism; it's what rooms full of humans produce, given enough nights"), the real question is before-or-after, and the price of not seeing clearly is paid in ease — "months of cleanup instead of an evening of repair, relationships strained instead of deepened, a weight you carry instead of a story you tell. The cost of not seeing clearly isn't your happiness. It's that everything becomes harder than it needed to be." (Deliberately consistent with the facilitator-fawning section's claim that the gap between a forgettable incident and months of harm is a few early decisions.) The minesweeper line stays as the close.

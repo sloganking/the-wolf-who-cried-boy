@@ -258,9 +258,11 @@ Scattered across six-plus chapters is a complete how-to-speak course: pseudo-fee
 
 `notes/anger-permission-chapter-brief.md` predates recent additions, and its content appears ~70% absorbed into the book since: "The Cage" in `harmless-is-not-peaceful.md` (contains "fawning dressed up as wisdom" nearly verbatim), "Don't Use Your Imperfection to Cancel Your Anger" and "let yourself feel it" in `when-youve-been-wronged.md`. **Objective: re-read the brief against those chapters and confirm what's genuinely unwritten.** The likely remaining unique claim is the brief's point 4 — *the perpetrator needs to feel it*: repair where the wrongdoer skates through painlessly isn't repair, and the wronged person's desire for the other person to feel the weight is legitimate. `guiding-public-repair.md` covers that from the facilitator's side (fake resolution leaves the angry person unchanged) but nobody blesses the wronged person's want directly. Verdict to confirm: a section, not a chapter — which may save ~15 hours.
 
-### U. Purpose statement — extend one intro line + use full version as marketing copy
+### U. Purpose statement — extend one intro line + use full version as marketing copy — intro edit DONE 2026-07-03 (marketing-copy half still open)
 
 The book's purpose statement (see Considerations) is half-present in the introduction already: *"It's about seeing what's actually happening — instead of what your fear tells you is happening."* The missing half is the response side. **Proposed edit (author to ratify wording):** extend that existing line to something like *"…instead of what your fear tells you is happening — and responding in a way that repairs instead of destroys."* No new passage; join the second half to the sentence that already carries the first. **Second home:** the full two-sentence purpose statement is strong back-cover / Gumroad copy — see `notes/back-cover-blurb.md` and `notes/gumroad-description.md` when those get their next pass.
+
+**Intro edit DONE 2026-07-03** with exactly the proposed wording (author to veto on review if the cadence reads wrong). The marketing-copy half stays open until the blurb/Gumroad files get their next pass.
 
 ### Decided terminology (2026-07-01): keep "belief axiom" over "foundational belief"
 
