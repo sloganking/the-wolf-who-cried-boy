@@ -216,6 +216,20 @@ Both feed the packet/endorsement engine (item F) and the coaching practice's pro
 
 **Adjacent candidate (same night):** the father arc as the deepest From Threat to Ally instance — *"the man who broke me became my biggest backer."* He hated his father once; it could have been enemies-for-life like countless father ruptures that never recover. Instead: did the work, made the million-dollar ask (→ the standing double-every-dollar match deal), and didn't blame him for everything while still seeing both his father's creation and his own power to create. Candidate for the From Threat to Ally chapter (rated 8 — could use a personal anchor story) or About the Author. It's his own father, so the no-names rule doesn't block it; weigh family privacy — his call.
 
+### W. "Narrative Lock on Yourself" — name the self-directed lock (PROPOSED 2026-07-03; assessed 7x+, awaiting author's call)
+
+**The idea (author's, 2026-07-03):** being narrative-locked *about yourself* — "I can't, I'm helpless" held with total certainty — is the same mechanism as the accuser's lock, aimed inward. Naming it gives the "but I really AM helpless" reader a diagnostic they can't dismiss, because they already accepted the lock's tests when the book pointed them at accusers.
+
+**Why it clears 7x (assessment):**
+
+- The book already uses the concept without naming it: `repair.md` says sinsickness over-apology comes from having "narrative-locked yourself into believing you're a monster"; the wiki's painted-on-door entry calls it "the mechanism by which a story about what you did becomes sinsickness about who you are." Sinsickness = self-lock on the **moral** axis. This item names the **capability** axis ("I can't") and unifies both under the book's best diagnostic.
+- The anatomy maps without stretching: framework substitution = "I can't because I *am* a thing"; the trap/evidence immunity = successes become flukes, kindness becomes politeness, failures become proof; closed door = "this is just who I am"; painted-on door = "I'll be able to X once I'm a different person"; and the certainty test — the reader who bristles at "is your story about yourself locked?" is exhibiting the chapter's own stated signal ("resistance to checking is one of the strongest signals").
+- It explains why showing a Victim-stuck person their power usually fails (the counter-evidence gets filtered out) and why `replacing-the-sentence` must work at the body level — connects existing machinery.
+
+**Guard (dilution risk):** this must NOT become a rebrand of generic "limiting beliefs." A negative self-belief is not a lock; the lock is the *immune system around the belief* (certainty + evidence immunity + bristling + no real path). A belief that updates on contact with contradicting experience was never locked. Keep that line explicit in the text.
+
+**Shape:** one compact subsection (~400–600 words) in `invisible-patterns.md` directly after "Am I in Narrative Lock?", adding one inward question ("Is there anything I could do or experience that would change my mind about what I'm capable of?"). Then deploy the language in one sentence each at: `when-youve-been-wronged.md` (The Way Out), `healing-fawning.md` (the helplessness-belief passage, ~§117), `own-your-part.md` (helping someone stuck in Victim). Cross-link sinsickness as the moral-axis sibling. Update wiki `narrative-lock.md` after.
+
 ---
 
 ## Second-pass ideas (LOWER TIER than items A–P — smaller moves, do after the main list)
