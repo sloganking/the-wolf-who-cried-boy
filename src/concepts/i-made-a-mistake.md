@@ -269,6 +269,12 @@ So the advice gets one amendment — not to *whether* you return, but to *where*
 
 And the old tribe? Sometimes trust has to be re-established in some form before your presence can mean anything there. A friend who sees clearly and vouches for you. [The accuser correcting the record](#when-you-were-the-righteous-predator) — the one voice the mob has to listen to. Or enough time that people can look at you without the story doing the looking. Locks break. Rooms cool. Individual relationships reopen one at a time, usually long before the group's story officially changes. And some tribes never update — which tells you something about how that community processes conflict, and whether it deserves more of your life.
 
+One distinction to hold onto here — hold it hard, because everything above rests on it. From the outside, this can look like the exile this chapter told you to refuse. You're staying out of a community, maybe for a long time. Isn't that the year of shame with different branding?
+
+No. The difference is the reason — and the reason determines what the action does to you. Exile says: *you're a bad person, and people like you don't deserve to come back.* That's a moral verdict. It isn't true, and accepting it installs the shame it runs on. Stepping back from a locked tribe says: *trust is a mechanism, the mechanism is currently jammed, and nothing I demonstrate can be received here right now.* That's not a verdict about your worth. It's a logistical read of how human trust works — the same kind of call as not sailing into a storm. The storm is not a judgment of the boat.
+
+The actions can look identical. What they do to you depends on which story you're running while you take them. Stay away believing the tribe's story, and the absence is punishment — [sinsickness](#sinsickness) with a schedule. Stay away knowing it's a trust-logistics problem — while showing up fully somewhere else — and the same absence is navigation. One empties you out on a couch. The other has you connected, practicing, growing, in a room that can see you. If you're going to take actions that navigate around a tribe's broken trust, hold this consciously the whole time: their conviction is a state of their filters, not a fact about you. The moment you forget that, strategy collapses into sentence.
+
 Keep showing yourself. Just make sure you're showing yourself to eyes that can still see.
 
 ### Everything Happens For You
