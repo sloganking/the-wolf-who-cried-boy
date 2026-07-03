@@ -1,12 +1,20 @@
 ---
 title: Wiki Log
 tags: [meta]
-updated: 2026-07-01
+updated: 2026-07-03
 ---
 
 # Wiki Log
 
 Append-only record of wiki changes. Each entry starts with a consistent prefix for parseability.
+
+---
+
+## [2026-07-03] add | `i-made-a-mistake.md` — new "The Trust of the Tribe" subsection (which community to return to)
+
+**Book change:** Added `### The Trust of the Tribe` to `src/concepts/i-made-a-mistake.md`, between "Go Back Before the Avoidance Hardens" and "Everything Happens For You". Anchored on the author's line ("It doesn't matter that you're an angel if the tribe is convinced you're the devil," attributed — _Logan King_). Resolves a latent tension in the Return to Community arc: the section said "keep showing yourself, your presence becomes evidence," but the book elsewhere teaches that narrative-locked people can't process evidence. The new subsection handles the case where the *whole tribe* is locked after a big public incident: demonstration requires an audience that can take in new data; a locked room filters every good act into confirmation (presence reads as audacity, repair reads as image management), so showing up there can escalate and re-injure. The amendment is to *where*, not *whether* — every reason to return (trust via demonstrated behavior, nervous-system counter-evidence, wisdom via practice) requires community, none requires *that* community: different organization/lineage/city, worst case a different local pool. Paths back to the old tribe: a friend who vouches, the accuser correcting the record (cross-linked to the righteous-predator section's leverage point), or time; some tribes never update, which is information about them. Closes echoing the author's existing quote: "showing yourself to eyes that can still see." Also added a one-sentence pointer in `when-youve-been-wronged.md`'s "Return to community" paragraph ("your body needs the category, not the specific address").
+
+**Files updated:** `src/concepts/i-made-a-mistake.md` (new subsection), `src/concepts/when-youve-been-wronged.md` (pointer sentence), `wiki/book-overview.md` (chapter bullet), `wiki/log.md` (this entry).
 
 ---
 

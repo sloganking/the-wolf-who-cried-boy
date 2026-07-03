@@ -70,7 +70,7 @@ When something goes wrong, ask:
 - **Before You Judge** → [[witch-hunt-dynamic]], qualified source, primary sources, explanation trap
 - **Appropriate Response** → [[over-and-under-response]], mercy defense, response flowchart
 - **From Threat to Ally** — Most enemies are good people on harmful beliefs; communication beats conflict
-- **I Made a Mistake** → [[sinsickness]], guilt is self-indulgence, compass stories, return to community, reformed righteous predator
+- **I Made a Mistake** → [[sinsickness]], guilt is self-indulgence, compass stories, return to community (+ trust-of-the-tribe nuance: if the whole tribe is locked, return to a *different* community), reformed righteous predator
 - **Repair** — Safe conditions, show don't tell, add more value than taken, give them a way to win
 - **When You've Been Wronged** — Five wronged modes, show your humanity, The Way Out, victim feeling tracks unused power
 

@@ -254,6 +254,23 @@ This is the same mechanism as the [reverse bike](./healing-fawning.md#the-revers
 
 Going back — and having pleasurable experiences with friends, with community, with the connection you came for — is what overwrites the negative association. Your body needs new data. It needs several positive experiences to resume its normal prediction: *when I go to these spaces, I have fun, I feel safe, I connect, I grow.* That one terrible night was a fluke, not the new normal. But your nervous system can't learn that from your couch. It can only learn it by going back and living it.
 
+### The Trust of the Tribe
+
+Everything above assumes the community can still see you. Most of the time, it can. A mistake damages trust with some people, others reserve judgment, and your consistent presence has an audience capable of registering it. Go back there. Show up. Let the evidence accumulate.
+
+But there's a harder case: the big public one. The story spread through every group chat before you could say a word. The room heard one version of events and believed it. It's no longer one person in [narrative lock](./invisible-patterns.md#narrative-lock) — it's the tribe.
+
+> **"It doesn't matter that you're an angel if the tribe is convinced you're the devil."**  
+> — _Logan King_
+
+Not because who you are stopped mattering — because [what mobilizes people is perception, not facts](./all-power-is-mutual.md#the-victim-position-is-powerful). Trust rebuilds through demonstrated behavior, and demonstration requires an audience that can take in new data. A locked tribe can't. Your presence reads as audacity. Your repair attempts read as image management. Every good act gets filtered through the story and comes out confirming it. Showing up to that room isn't showing yourself — the room can't see you. It won't rebuild trust, and it can escalate the people attacking you while re-injuring you.
+
+So the advice gets one amendment — not to *whether* you return, but to *where*. Every reason to return still holds: trust is rebuilt by showing up differently over time, your nervous system heals through positive experiences, wisdom only solidifies through practice, and people need what you learned. All of that requires community. None of it requires *that* community. Go where your presence can still be data: a different organization, a different lineage, a different city's scene — in the worst case, a completely different local pool. Your body doesn't need the specific room where it got hurt. It needs new experiences in the category — proof that community is still where connection and joy live.
+
+And the old tribe? Sometimes trust has to be re-established in some form before your presence can mean anything there. A friend who sees clearly and vouches for you. [The accuser correcting the record](#when-you-were-the-righteous-predator) — the one voice the mob has to listen to. Or enough time that people can look at you without the story doing the looking. Locks break. Rooms cool. Individual relationships reopen one at a time, usually long before the group's story officially changes. And some tribes never update — which tells you something about how that community processes conflict, and whether it deserves more of your life.
+
+Keep showing yourself. Just make sure you're showing yourself to eyes that can still see.
+
 ### Everything Happens For You
 
 > **"Everything happens for you, not to you."**
