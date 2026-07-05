@@ -671,7 +671,7 @@ And when someone trusts you enough to tell you no, knowing you'll receive it wit
 
 ### Make It Easy
 
-If you interact with someone who fawns — or anyone, really — and they keep quietly disappearing from your life, it might not be about them.
+If you interact with someone who fawns — or anyone, really — and they keep quietly disappearing from your life, it might not be only about them.
 
 Some people make it structurally hard to say no. They react with anger when they hear something they don't want to hear — raised voices, visible frustration, an emotional explosion that teaches everyone around them to never bring bad news again. Or they push back on every refusal. They might respond to "I don't want to" with "why not? This is such a good opportunity — why would you pass on this? I just don't understand. How could a reasonable person turn this down? Are you self-sabotaging?" or "do you not like me?" or "but I set this up for you." Or they talk without pauses — they might genuinely want to be told no if you're actually a no, they might even say "just tell me if you're not interested," but then they keep talking without leaving a single breath for the other person to speak, and the invitation to say no becomes almost meaningless because there's no easy way for them to actually say it.
 
