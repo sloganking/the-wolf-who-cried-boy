@@ -399,7 +399,7 @@ When someone in your container is being attacked — even if the room thinks the
 ## Your First Officer
 
 > **"Every good captain needs a first officer who will tell him when he's wrong."**  
-> — _Star Trek: Strange New Worlds_ ([clip](https://photos.app.goo.gl/B8xWSpnxTAubvVi78))
+> — _Star Trek: Strange New Worlds_
 
 As a facilitator, you need people around you who will tell you when you're wrong.
 
