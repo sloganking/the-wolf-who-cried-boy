@@ -83,29 +83,35 @@ Why "state check" and not "gun check"? Because spoken words land on everyone in 
 
 If "state check" feels arbitrary, look at the question again: *in my current **state**, would I feel comfortable and responsible wielding a **gun**?* The full lineage is *gun state check*. You speak the last half.
 
-If someone honestly tells you they wouldn't pass the Gun Test right now, that's a good thing. They're being honest about where they're at, and that honesty is what makes the next steps possible.
+The answer follows the same rule. If you're the one being checked, run the question silently — *in my current state, would I feel comfortable and responsible wielding a gun?* — and reply in words that are safe in every room: *"I'm good — thanks for checking."* Or: *"Good catch. I wouldn't pass right now — how do you think we should proceed?"* The gun stays in your head. Your answer is what goes in the air.
+
+If someone tells you they wouldn't pass right now, that's a good thing. They're being honest about where they're at, and that honesty is what makes the next steps possible.
 
 **1. Acknowledge where they're at.** They've told you they wouldn't pass. That's honest — and it's exactly the kind of honesty that lets you handle the situation well. They might not have even noticed they were impaired until you asked.
 
-**2. Check whether continuing is even on the table.** Depending on the rules of your container, failing a state check might mean they stop playing, or it might mean they continue with awareness. Some containers prohibit play after failing, full stop. Others allow it as long as everyone involved is choosing consciously. If your container prohibits it — or the person themselves would rather stop — skip to [If They Need to Stop](#if-they-need-to-stop) below. If your container allows conscious continuation and they still want to play, continue to the next step.
+**2. Check whether continuing is on the table.** Different containers set different rules here: some prohibit play after a failed state check, full stop; others allow it as long as everyone involved is choosing consciously. If your container prohibits it — or the person would rather stop — go to [If They Need to Stop](#if-they-need-to-stop) below. If continuing is allowed and they want to, keep going:
 
-**3. Inform their partner.** Go to the person they're playing with: "They just told me they're not in a state where they'd fully trust their own judgment and reactions right now. They're still somewhat lucid and want to continue. Knowing that, do you feel safe and want to continue playing with them? Or would you rather stop until they're fully alert?" Let them choose with full information.
+**3. Inform their partner.** Go to the person they're playing with: "They just told me they wouldn't pass a state check right now — they're foggier than they'd like to be, not at their sharpest. They feel present and want to keep going. Knowing that, do you feel safe and want to keep playing? Or would you rather pause until they're back at full?" Let them choose with full information.
 
-**4. Check the partner's response plan.** If the partner wants to continue, ask them: "If the person who isn't fully alert makes a mistake, what will you do?" If they say something like "I'd assume the best, set a boundary, and aim for repair" — they've thought about it. If they freeze or can't answer — that's data too.
+**4. Check the partner's response plan.** If the partner wants to continue, ask them: "If they make a mistake while they're foggy, what will you do?" If they say something like "I'd assume the best, set a boundary, and aim for repair" — they've thought about it. If they freeze or can't answer — that's data too.
 
 The state check isn't prohibition. It's making sure no one falls into risk unconsciously. If you're going to play while not fully alert, do it with eyes open — and make sure your partner's eyes are open too.
 
+There's an art to this. If you're state-checking everyone every few minutes, the check stops working — by the fifth one, people answer reflexively to make it stop instead of actually looking inward. But if something feels off and you want to check in — do it. A friend who cares enough to give you a state check is looking out for you.
+
 ### If They Need to Stop
 
-Some containers don't offer a choice here — failing the state check ends the scene, full stop. Or the container allows continuing, but the person, their partner, or you as the one running the check decides stopping is the right call anyway. Either way, someone has to say it out loud, and how you say it matters.
+Some containers don't offer a choice here — failing the state check ends the scene, full stop. Or the container allows continuing, but the person, their partner, or you as the one running the check decides stopping is the right call anyway. Either way, someone has to say it out loud.
 
-This isn't a punishment, and delivering it like one defeats the entire tool — the person just told the truth about their state, and if the truth gets them shamed, the next person who's asked will lie. Say it plainly and warmly instead:
+This isn't a punishment, and delivering it like one defeats the entire tool — the person just told the truth about their state, and if the truth gets them shamed, the next person who's asked will lie. Say it plainly and warmly:
 
-> "Hey — you're in a pretty activated state right now, and I want to make sure this is held well for both of you. I'm going to ask you two to take a break. That doesn't mean you're done for the night — it just means right now isn't the moment."
+> "Hey — I want to make sure this stays good for both of you, so I'm going to ask you two to take a break and cool down. Nobody did anything wrong here — you told the truth on a state check, and that's exactly what it's for."
 
-The same words work whether you're the facilitator stepping in directly or the friend who ran the state check in the first place. The frame that matters: this is a pause, not a verdict. Nobody did anything wrong by failing a state check — that's the entire point of having one. Leave the door open to play again later, and land it as care, not consequence.
+The same words work whether you're the facilitator stepping in directly or the friend who ran the check. How long the break lasts is the container's call — a cool-down at a play party, the rest of the night, maybe the rest of a retreat. The script doesn't promise a comeback, because the rules might not allow one. Promise only what your container makes true.
 
-There's an art to this. If you're state-checking everyone every few minutes, the check stops working — by the fifth one, people answer reflexively to make it stop instead of actually looking inward. But if something feels off and you want to check in — do it. A friend who cares enough to give you a state check is looking out for you. If you're thinking straight, you'll feel grateful for it.
+The words are the smaller half of the delivery. The same sentence carries two different messages depending on where your attention is when you say it. If your attention is on *they failed the check and now I have a problem to manage*, the words land as a verdict, however soft they are. If your attention is on *I'm looking out for both of these people*, the same words land as care. People read the state under the words.
+
+And if you're the one being asked to stop — especially if you're staff — look at what the no is protecting. You carry [top vulnerability](../concepts/all-power-is-mutual.md#top-and-bottom-vulnerability): a mistake made by you lands at higher severity, in front of more filters, than the same mistake made by a participant. The break that costs you an hour is standing between you and the mistake that could cost you far more. This is [a no from the receiving end](../concepts/healing-fawning.md#when-youre-on-the-receiving-end): not rejection — someone spending their attention on your safety.
 
 ### Who Needs to Pass Most
 
