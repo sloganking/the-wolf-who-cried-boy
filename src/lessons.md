@@ -184,6 +184,8 @@ Readers remember the sentence that hit them, not the chapter it was in. Every li
 
 ## For Facilitators
 
+**People can only be as honest with you as you are safe to be honest with.** → [Before You Facilitate](./concepts/before-you-facilitate.md#the-trust-that-holds-the-container)
+
 **Defense protects. Aggression punishes.** → [Before You Facilitate](./concepts/before-you-facilitate.md)
 
 **The story that filled the silence doesn't expire.** → [Before You Facilitate](./concepts/before-you-facilitate.md)
