@@ -233,7 +233,7 @@ Think about consciously deciding not to eat candy, but there's candy on your des
 
 This isn't malicious. Your subconscious is innocent — it doesn't have the full context of your conscious decision. It just wants what it wants, and without the conscious mind actively saying *no, not right now*, it reaches. In the candy example, you catch yourself and put it back. In a play space, if you reach and cross a boundary before you catch yourself, that's where harm happens — even though the intent was never there.
 
-This is why [feeding yourself first](./before-you-facilitate.md#staff-readiness-feed-yourself-first) matters—especially for facilitators and staff. A well-fed animal body is safer on autopilot.
+This is why arriving fed matters. If you walk into a play space hungry — sexually starved, touch-starved, lonely — your subconscious walks in hungry too, and it will reach the moment your conscious mind isn't watching. The fix isn't more willpower in the room; willpower is exactly the thing that lapses. The fix is meeting your needs *before* you enter a space where reaching could cross someone's boundary. [Facilitators and staff have a whole protocol built on this](./before-you-facilitate.md#staff-readiness-feed-yourself-first) — feed yourself first — because the more responsibility you're holding, the more it matters. A well-fed animal body is safer on autopilot.
 
 ### Impairment
 
