@@ -95,3 +95,7 @@
 - [Quick Reference](./quick-reference.md)
 - [The Lessons](./lessons.md)
 - [Glossary](./glossary.md)
+
+---
+
+[About the Author](./about-the-author.md)
