@@ -2,7 +2,7 @@
 title: Filters & RAS
 tags: [concept]
 source: trauma-and-filters.md
-updated: 2026-07-01
+updated: 2026-07-04
 ---
 
 # Filters & the Reticular Activating System
@@ -28,6 +28,14 @@ A brainstem network that filters what you notice based on what you're looking fo
 **The Brown/Red Exercise:** Look for brown things for 10 seconds. Now — how many red things did you see? You can't remember, because your RAS wasn't tuned to red.
 
 The RAS is what runs when you're *not* trying. Your default filter. And it doesn't just filter what you see — it filters what *options your mind considers*. If your RAS is tuned to threats, the thought "maybe I should look for friends" never crosses your mind.
+
+---
+
+## Everything Has Everything In It / Factually Selective
+
+Every person, situation, and event contains all qualities at once — beauty and ugliness, evidence for hope and evidence for despair. Which side you walk away with isn't dictated by reality; it's dictated by where your attention landed. And the side you land on becomes the belief you act from.
+
+**Factually selective** — the term for the result: completely accurate about the slice you're focused on, blind to the rest. Every fact checks out and the picture is still wrong, because the facts were curated by the filter. This is why "but it's true!" doesn't settle whether a story is right — a story can be built entirely from true facts and still be false. Live example in the book: Kirk's "all I did was put us belly up in the path of the ultimate destroyer" (`walking-your-talk.md`, When Your Last Call Was Wrong) — two real failures doing the looking, the record of survival filtered out, until Spock adds the facts the story dropped: "We are all still here."
 
 ---
 
