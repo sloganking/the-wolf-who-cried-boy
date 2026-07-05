@@ -76,7 +76,7 @@ This page exists because the linguistic gap creates the perceptual gap — it's 
 
 **Good Thing** — An experience where everyone feels good both during AND after. The standard for play. → [Before Play](./concepts/before-play.md)
 
-**Gun Test** — Self-check: would you trust yourself with a gun right now? If not, should you be wielding intimacy at MEDIUM severity? → [Gun Test](./tools/gun-test.md)
+**Gun Test** — Self-check: would you trust yourself with a gun right now? If not, should you be wielding intimacy at MEDIUM severity? Spoken form is always "state check" — the gun stays on the page, never in the air. → [Gun Test](./tools/gun-test.md#the-gun-check)
 
 ## H
 

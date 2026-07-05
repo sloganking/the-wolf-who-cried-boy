@@ -77,19 +77,21 @@ Failing the Gun Test doesn't automatically mean stop. It means: don't sleepwalk 
 
 The Gun Test is a self-check. The Gun Check is what happens when someone uses it as a check-in tool on others.
 
-If you teach the Gun Test in your container, it becomes shared language. Anyone who knows the term can use it — facilitators, staff, or a friend who notices someone looks a little off and cares enough to check in. Walk up and say: "Gun check." They stop, think about it, and answer honestly.
+If you teach the Gun Test in your container, it becomes shared language. Anyone who knows the tool can use it — facilitators, staff, or a friend who notices someone looks a little off and cares enough to check in. Walk up and say: **"State check."** They stop, ask themselves whether they'd trust themselves with a gun right now, and answer honestly.
+
+Why "state check" and not "gun check"? Because spoken words land on everyone in earshot, not just the person you're checking. [What enters the mind shapes what the mind sees](../concepts/trauma-and-filters.md#choose-your-lens): a participant who hasn't read this page doesn't hear a check-in. They hear "gun," at a play party, and their filter starts looking for one. And you can't plan to say "gun check" among staff and "state check" in front of participants — [autopilot runs the pattern it was trained, regardless of context](../concepts/types-of-mistakes.md#autopilot). The words you practice are the words that will come out when it counts. So only practice the ones that are safe in every room: the gun stays on the page, where it teaches. "State check" is what goes in the air.
 
 If someone honestly tells you they wouldn't pass the Gun Test right now, that's a good thing. They're being honest about where they're at, and that honesty is what makes the next steps possible. Depending on the rules of your container, failing a Gun Check might mean they stop playing, or it might mean they continue with awareness. Some containers may choose to prohibit play after failing. Others may choose to allow it as long as everyone involved is choosing consciously. Either way, the check opens a dialogue:
 
 **1. Acknowledge where they're at.** They've told you they wouldn't pass. That's honest — and it's exactly the kind of honesty that lets you handle the situation well. They might not have even noticed they were impaired until you asked.
 
-**2. Inform their partner.** Go to the person they're playing with: "This person is in a state where they wouldn't feel safe and responsible holding a gun. They're still somewhat lucid and want to continue. Knowing that, do you feel safe and want to continue playing with them? Or would you rather stop until they're fully alert?" Let them choose with full information.
+**2. Inform their partner.** Go to the person they're playing with: "They just told me they're not in a state where they'd fully trust their own judgment and reactions right now. They're still somewhat lucid and want to continue. Knowing that, do you feel safe and want to continue playing with them? Or would you rather stop until they're fully alert?" Let them choose with full information.
 
 **3. Check the partner's response plan.** If the partner wants to continue, ask them: "If the person who isn't fully alert makes a mistake, what will you do?" If they say something like "I'd assume the best, set a boundary, and aim for repair" — they've thought about it. If they freeze or can't answer — that's data too.
 
 The Gun Check isn't prohibition. It's making sure no one falls into risk unconsciously. If you're going to play while not fully alert, do it with eyes open — and make sure your partner's eyes are open too.
 
-There's an art to this. If you're gun-checking everyone every second, you're just being a pest. But if something feels off and you want to check in — do it. A friend who cares enough to give you a gun check is looking out for you. If you're thinking straight, you'll feel grateful for it.
+There's an art to this. If you're gun-checking everyone every second, you're just being a pest. But if something feels off and you want to check in — do it. A friend who cares enough to give you a state check is looking out for you. If you're thinking straight, you'll feel grateful for it.
 
 ### Who Needs to Pass Most
 

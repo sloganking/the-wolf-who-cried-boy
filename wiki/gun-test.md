@@ -2,7 +2,7 @@
 title: Gun Test
 tags: [tool]
 source: tools/gun-test.md
-updated: 2026-04-14
+updated: 2026-07-05
 ---
 
 # Gun Test
@@ -28,9 +28,11 @@ Failing doesn't mean you can't participate. It means **choose consciously** — 
 
 ## Gun Check (on Others)
 
-You can also check whether someone else passes:
+You can also check whether someone else passes. Walk up and say **"state check"** — never "gun check" out loud. Spoken words land on everyone in earshot, and "gun" at a play party installs threat in participants who don't know the tool ([[trauma-and-filters]]). There's no context-switching alias (staff-speak vs. participant-speak): autopilot says the words you practice regardless of room ([[mistake-matrix]] — Target Focus Training's weapon-drop rule). The gun stays on the page, where it teaches; "state check" is what goes in the air.
+
+The check itself:
 1. Acknowledge what you noticed
-2. Inform your partner (if relevant)
+2. Inform your partner (if relevant) — in participant-safe language
 3. Probe: "What's your plan if something goes sideways?"
 
 Don't be a pest. But don't ignore what you see.

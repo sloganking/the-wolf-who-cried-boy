@@ -26,7 +26,7 @@ A log of things the book (and the collaboration around it) went a long time with
 
 **How it got caught:** The author imagined the deployment scene — walking up and saying "gun check" in front of participants — and felt the flinch.
 
-**Fix decided (pending in `tools/gun-test.md`):** keep "Gun Test" as the tool's name (the gun is the teaching); in front of participants, staff say "state check." Staff trained on the tool know what a state check tests against.
+**Fix (implemented 2026-07-05, in The Gun Check section of `tools/gun-test.md`):** the tool keeps its name (the gun is the teaching), but the spoken form is always **"state check"** — no context-switching alias, because autopilot says the words you practice regardless of which room it's in (same mechanism as Target Focus Training's weapon-drop rule). All spoken scripts on the page are participant-safe.
 
 **Category: page language vs. room language.** Words designed for a reader can misfire when spoken in a live container. No one had swept the book's tool names and scripts for how they *sound in the room*.
 
@@ -36,7 +36,7 @@ A log of things the book (and the collaboration around it) went a long time with
 
 **How it got caught:** 2026-07-04, when the author was about to add another one and questioned the legality mid-request.
 
-**Status:** the new instance was never published with the link; **one older instance remains** — the First Officer quote in `walking-your-talk.md` ([clip](https://photos.app.goo.gl/B8xWSpnxTAubvVi78) format) — author-flagged, removal recommended, decision pending.
+**Status:** resolved 2026-07-05 — the new instance was never published with the link, and the older instance (the First Officer quote in `walking-your-talk.md`) had its clip link removed the same morning. Clip URLs live in chat transcripts if ever needed internally. The *category* stays open for the pre-publish sweep: anything else embedded or linked that the author doesn't hold rights to.
 
 **Category: rights and permissions.** Also connects to the standing pre-print item: quote-permission check for longer book excerpts (see `notes/fable-review-plan.md`, item H).
 

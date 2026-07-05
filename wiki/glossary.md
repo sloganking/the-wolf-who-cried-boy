@@ -82,7 +82,7 @@ Complete alphabetical glossary of terms coined or specifically defined in *The W
 
 **Good Thing** — An experience where everyone feels good both during AND after. The standard for play. → [[rbdsmt]] | `before-play.md`
 
-**Gun Test** — Self-check: would you trust yourself with a gun right now? If not, should you be wielding intimacy at MEDIUM severity? → [[gun-test]] | `tools/gun-test.md`
+**Gun Test** — Self-check: would you trust yourself with a gun right now? If not, should you be wielding intimacy at MEDIUM severity? Spoken form is always "state check" — the gun stays on the page, never in the air (autopilot says the words you practice, regardless of room). → [[gun-test]] | `tools/gun-test.md`
 
 ## H
 
