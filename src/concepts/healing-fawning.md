@@ -607,7 +607,7 @@ But consider the flip side:
 
 **When you touch someone, you're becoming vulnerable.**
 
-You're trusting them. You're putting yourself at risk. As a man who typically initiates touch, I'm incredibly vulnerable to women who fawn and then cry victim. If a woman says yes when she means no, then later decides she was violated, there's not a lot I can do. The cultural narrative will side with her. My reputation can be destroyed based on her lie about her own consent.
+You're trusting them. You're putting yourself at risk. This is [top vulnerability](./all-power-is-mutual.md#top-and-bottom-vulnerability) — the exposure with no safeword. As a man who typically initiates touch, I'm incredibly vulnerable to women who fawn and then cry victim. If a woman says yes when she means no, then later decides she was violated, there's not a lot I can do. The cultural narrative will side with her. My reputation can be destroyed based on her lie about her own consent.
 
 Your touch is a gift. Your vulnerability is a gift. Your trust is a gift.
 
