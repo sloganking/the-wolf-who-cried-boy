@@ -1,6 +1,6 @@
 # Quick Reference
 
-Everything in one place. Click any link to jump to the full explanation.
+Everything in one place. Click any link to jump to the full explanation. Looking for a specific term instead? See the [Glossary](./glossary.md).
 
 ---
 

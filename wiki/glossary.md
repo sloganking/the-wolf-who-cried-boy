@@ -1,12 +1,14 @@
 ---
 title: Glossary
 tags: [meta, glossary]
-updated: 2026-04-14
+updated: 2026-07-05
 ---
 
 # Glossary
 
 Complete alphabetical glossary of terms coined or specifically defined in *The Wolf Who Cried Boy*. Each entry links to its dedicated wiki page and identifies the source chapter.
+
+> **Sync rule:** the book has a reader-facing version of this glossary at `src/glossary.md` (back matter, beside Quick Reference). When you add or change a term here, update it there too. The two serve different lookups — wiki entries link into the wiki graph for AI/author orientation; book entries link to chapters for readers.
 
 ---
 

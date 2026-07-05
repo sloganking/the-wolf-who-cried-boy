@@ -93,3 +93,4 @@
 # Reference
 
 - [Quick Reference](./quick-reference.md)
+- [Glossary](./glossary.md)
