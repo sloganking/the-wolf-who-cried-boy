@@ -192,7 +192,7 @@ Readers remember the sentence that hit them, not the chapter it was in. Every li
 
 **Your job is to serve them, not to please them.** → [Walking Your Talk](./concepts/walking-your-talk.md)
 
-**You were never choosing between risk and safety. You were choosing which bill.** It's all risky — the bill for not trying arrives later, addressed to the whole container. → [Walking Your Talk](./concepts/walking-your-talk.md#its-all-risky)
+**It's all risky. If you think trying is risky, wait till they hand you the bill for not trying.** There is no risk-free option — caving's bill just arrives later, addressed to the whole container. → [Walking Your Talk](./concepts/walking-your-talk.md#its-all-risky)
 
 **Weight input by how close it is to the data — not by rank, volume, or conviction.** → [Walking Your Talk](./concepts/walking-your-talk.md)
 
