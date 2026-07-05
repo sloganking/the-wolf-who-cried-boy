@@ -250,7 +250,7 @@ Some of the best facilitators never touch a participant. Some of the best facili
 
 When something goes wrong — an assistant crosses a boundary, an over-response erupts, a container gets destabilized — the instinctive response is to tighten the rules. *No more staff playing with participants. Problem solved.*
 
-It feels responsible. It looks like leadership. And it might be exactly backwards. This is [fear creating what it fears](./invisible-patterns.md#the-thing-youre-most-afraid-of-is-the-thing-your-fear-creates) — applied to policy.
+It feels responsible. It looks like leadership. And it might be exactly backwards.
 
 In World War II, the US military studied bombers returning from missions. They mapped where the bullet holes were — fuselage, wings, tail — and the reasoning seemed obvious: *these are the areas getting hit, so these are the areas that need more armor.* The other areas — engines, cockpit — had almost no bullet holes on returning planes. So those must be fine, right?
 
@@ -258,7 +258,7 @@ Statistician Abraham Wald stopped them. The logic was exactly backwards. The rea
 
 The same pattern shows up in containers. Something goes wrong between a staff member and a participant. Your attention goes to the painful incident — *a staff member played with a participant and it went badly.* You armor that spot: no more staff playing with participants.
 
-What you weren't looking at: staff are presumably the safest people in the room. More experienced, more consent-aware, more attuned. When participants play with staff, the odds of mistakes are lower than when first-timers play with other first-timers. The problem wasn't that a staff member played with a participant — it may have been that the participant had [stories](./trauma-and-filters.md) that turned a momentary mistake into a catastrophe, or that systems weren't in place to prevent and manage the incident. But the ban doesn't address either of those. It just removes the experienced people from play.
+What you weren't looking at: staff are presumably the safest people in the room. More experienced, more consent-aware, more attuned. When participants play with staff, the odds of mistakes are lower than when first-timers play with other first-timers. The problem may not have been that a staff member played with a participant — it may have been that the participant had [stories](./trauma-and-filters.md) that turned a momentary mistake into a catastrophe, or that systems weren't in place to prevent and manage the incident. If it's either of those, the ban addresses neither. It just removes the experienced people from play.
 
 Now your first-timers — the people who would get the most value out of experiencing what skilled, attentive, boundaried intimacy looks and feels like — only interact with other first-timers. Everyone is fumbling together. Nobody in the room models what good play actually looks like in practice, only in lecture. The odds of mistakes between participants go up, and the participants' ability to handle those mistakes improves slower — because nobody in the room is demonstrating what good looks and feels like, only describing it.
 
