@@ -90,9 +90,11 @@ My father wasn't a monster. He wasn't a predator. He was a scared parent who lov
 
 This is the [Rescuer](./concepts/why-rescuers-are-dangerous.md) pattern. Good people, harmful beliefs, devastating outcomes. Not despite the love—because of the certainty that comes with it.
 
-Here's how wrong the certainty was. The thing he was punishing — the work stopping, for no reason anyone could see — never went away. I'm 29, and every so often the work still stops. Days, sometimes longer. I've lived inside this question for twenty years, with access to it no one else will ever have, and the most honest answer I can give is still: *I don't know why.* My father had his answer in minutes. He was certain about something twenty years of living it hasn't been able to answer — certain enough to hit a child over it.
+**The problem was never that my father saw a problem. The problem was that he was sure.**
 
-For years I had my own certainty about it: *I'm broken. I can't.* That story was as wrong as his — it just aimed the verdict at me instead. What replaced it wasn't a better explanation. It was an honest one: *I don't know — and I can keep looking, build around the pattern, and show up anyway.* That's the orientation I wish had been in that room when I was a kid: *he's not working, and I don't know why. Let's figure it out.* Same facts. Same frustration. Nobody gets hit. **The problem was never that my father saw a problem. The problem was that he was sure.**
+The thing he was punishing — the work stopping, for no reason anyone could see — never went away. I'm 29, and every so often the work still stops. Days, sometimes longer. I've lived inside this question for twenty years, with access to it no one else will ever have, and the most honest answer I can give is still: *I don't know why.* My father had his answer in minutes. He was certain about something twenty years of living it hasn't been able to answer — certain enough to hit a child over it.
+
+For years I had my own certainty about it: *I'm broken. I can't.* That story was as wrong as his — it just aimed the verdict at me instead. What replaced it wasn't a better explanation. It was an honest one: *I don't know — and I can keep looking, build around the pattern, and show up anyway.* That's the orientation I wish had been in that room when I was a kid: *he's not working, and I don't know why. Let's figure it out.* Same facts. Same frustration. Nobody gets hit.
 
 **Victim mentality is a prison.**
 
