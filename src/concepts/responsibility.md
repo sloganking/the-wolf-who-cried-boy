@@ -2,9 +2,11 @@
 
 ---
 
-## Most People Don't Understand Responsibility
+**A word worth defining first:** "responsibility" gets used a dozen different ways — legally, morally, colloquially, across different justice and therapeutic frameworks. This chapter isn't claiming to have found the one true meaning of the word. It's defining how *this book* uses it, because the distinction underneath it — seeing your causal part vs. demanding punishment — is what the rest of this framework runs on. Once that's set, the rest of this chapter uses it with full conviction.
 
-Here's the problem: most people have a broken understanding of what responsibility even means.
+## The Common Confusion
+
+Here's the pattern: most people conflate responsibility with punishment.
 
 They think:
 
@@ -13,9 +15,7 @@ They think:
 - The victim has nothing to be responsible for
 - Responsibility = punishment for wrongdoing
 
-This is completely wrong.
-
-And because of this misunderstanding, you see dynamics like:
+That collapses two different things into one word — and once they're merged, everything downstream breaks:
 
 - Someone makes a mistake
 - A group gathers and says "You need to take responsibility!"
@@ -25,7 +25,7 @@ Everyone is pointing at someone else's power. No one is looking at their own.
 
 ## What Responsibility Actually Means
 
-Responsibility means asking:
+In this book, responsibility means asking:
 
 > **What happened? How did my actions—or inactions—play a part in creating this outcome? What can I do in the future to create something else I want instead?**
 
