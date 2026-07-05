@@ -378,6 +378,26 @@ Most people act from fear. Most people aren't clear-seeing enough to know what s
 
 If you care about your participants' transformation — about creating real value, real clarity, the kind of experience that changes how they see the world — then **your job is to serve them, not to please them.** Pleasing is [fawning](./fawning.md) — doing what keeps them comfortable, even when it harms them. Serving is telling the truth that could change their life. It's fighting for them to have a good outcome, even when they push back on what you're telling them, even when you're afraid.
 
+### It's All Risky
+
+Everything above answers *what* to do. There's one objection left, and it deserves a straight answer because it sounds like prudence:
+
+*"The right call puts the risk on me. If I remove the person making threats, I'm the one they slander online. If I protect the mistake-maker, I'm the one the mob turns on. Caving is safer. Why would I volunteer for the risk?"*
+
+Look at the assumption underneath: that one of your options is safe. Jim Rohn spent a career dismantling that assumption:
+
+> "It's all risky. The minute you were born, it got risky. If you think trying is risky, wait till they hand you the bill for not trying."
+>
+> — *Jim Rohn*
+
+The bill for not trying is real — it just arrives on a delay, which is what makes caving look free. Cave tonight and tonight gets quieter. But you've shown fifty people that [intimidation works](#the-intimidated-facilitator). Your [promise](#this-is-exactly-when-the-promise-matters) is now visibly worthless. [The people with the clearest eyes leave first](./punishment-culture.md#who-stays-and-who-leaves), the [punishment culture compounds](./punishment-culture.md#the-loop), and every clear-seeing person who watches what your container produces reaches an accurate conclusion: *this is not run well.* That's reputational risk too — aimed at exactly what you were protecting when you caved. The difference is that this bill is bigger, it's addressed to the whole container, and by the time it arrives there's no single moment you can point to and fix.
+
+And the anger you were trying to avoid? You don't avoid it. You only route it. Hold the line, and someone in [narrative lock](./invisible-patterns.md#narrative-lock) may call you a predator-protector for telling them no — loudly, publicly, maybe for years. Cave, and the people who see clearly watch you do it and quietly stop trusting your word — most won't even tell you. There is no version of holding a container where no one is ever angry at you. **You don't get to choose whether people come after you. You only get to choose what they come after you for — and what it buys.**
+
+One version buys a container where reporting is safe, mistakes are survivable, and the clear-eyed stay. The other buys one quieter evening.
+
+**You were never choosing between risk and safety. You were choosing which bill.** Read them both before you pay one.
+
 ### Protecting Top Vulnerability
 
 There's a blind spot most facilitators have never been trained to see — because until now, there wasn't a word for it.
