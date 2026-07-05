@@ -45,6 +45,8 @@ This framework comes from ISTA (International School of Temple Arts), with addit
 - **M** — Meaning and Mistakes
 - **T** — Trauma
 
+If the letters won't stick, split the acronym: R-BDSM-T — BDSM in the middle, R before, T after.
+
 Before playing with someone—especially someone new—talk through each of these. It takes 10-20 minutes. It can save hours of pain, confusion, and repair.
 
 ---
