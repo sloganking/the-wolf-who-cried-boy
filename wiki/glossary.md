@@ -20,6 +20,8 @@ Complete alphabetical glossary of terms coined or specifically defined in *The W
 
 **Body Stories** — Trauma stored in the body as automatic meaning-making patterns below conscious awareness. Not memories you recall — patterns that fire before conscious thought. → [[body-stories]] | `body-stories.md`
 
+**Bottom Vulnerability** — Physical exposure while receiving: the bottom's body is in the top's hands. Has a safeword and cultural protection. Counterpart of top vulnerability, which has neither — see **Top and Bottom Vulnerability** under T. → [[top-and-bottom-vulnerability]] | `all-power-is-mutual.md`
+
 ## C
 
 **Caged Desire Loop** — Person C pattern: suppressing desire concentrates it; when it finally emerges, it's overwhelming — confirming the fear that caused the suppression. The fix is smaller, more frequent expression. → [[fear-creates-what-it-fears]] | `invisible-patterns.md`
