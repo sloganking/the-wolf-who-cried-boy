@@ -91,7 +91,7 @@ If someone honestly tells you they wouldn't pass the Gun Test right now, that's 
 
 The Gun Check isn't prohibition. It's making sure no one falls into risk unconsciously. If you're going to play while not fully alert, do it with eyes open — and make sure your partner's eyes are open too.
 
-There's an art to this. If you're gun-checking everyone every second, you're just being a pest. But if something feels off and you want to check in — do it. A friend who cares enough to give you a state check is looking out for you. If you're thinking straight, you'll feel grateful for it.
+There's an art to this. If you're state-checking everyone every few minutes, the check stops working — by the fifth one, people answer reflexively to make it stop instead of actually looking inward. But if something feels off and you want to check in — do it. A friend who cares enough to give you a state check is looking out for you. If you're thinking straight, you'll feel grateful for it.
 
 ### Who Needs to Pass Most
 
