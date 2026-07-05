@@ -14,6 +14,8 @@ Readers remember the sentence that hit them, not the chapter it was in. Every li
 
 **Most harm comes from love.** → [The Rescue That Made Me See](./the-rescue-that-made-me-see.md)
 
+**The problem was never that my father saw a problem. The problem was that he was sure.** → [The Rescue That Made Me See](./the-rescue-that-made-me-see.md)
+
 **Victim mentality is a prison. Responsibility is freedom.** → [The Rescue That Made Me See](./the-rescue-that-made-me-see.md)
 
 ---
