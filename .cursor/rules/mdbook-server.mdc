@@ -1,0 +1,22 @@
+---
+description: How to start the mdBook server and open a specific book page in the browser
+alwaysApply: true
+---
+
+# Starting the Book Server and Opening a Page
+
+The book is built with mdBook (`book.toml` at repo root, source in `src/`).
+
+When Logan says "start the Markdown book" (or similar) and asks to open a page:
+
+1. **Check first** whether `mdbook serve` is already running (look in the terminals folder). Don't start a duplicate.
+2. **Start the server** as a background command from the repo root: `mdbook serve` (serves on `http://localhost:3000`, auto-rebuilds on file changes). Wait for the "Serving on" line.
+3. **Open the page as a SEPARATE command** — never rely on mdbook's `--open` flag, which lands on the introduction page:
+
+```powershell
+Start-Process "http://localhost:3000/concepts/walking-your-talk.html"
+```
+
+**URL mapping:** `src/<path>/<file>.md` → `http://localhost:3000/<path>/<file>.html` (e.g. `src/concepts/walking-your-talk.md` → `/concepts/walking-your-talk.html`; `src/tools/gun-test.md` → `/tools/gun-test.html`; `src/introduction.md` → `/introduction.html`).
+
+If a specific page was just edited in the session, open THAT page unless Logan says otherwise.
