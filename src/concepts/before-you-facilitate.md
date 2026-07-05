@@ -157,6 +157,18 @@ That's the staff member you want. Not someone who's never had the impulse to joi
 
 Don't filter out everyone who's ever thought like a righteous predator. Filter out the ones who still do. The ones who've come through it and can see both sides? Put them on your front line.
 
+### The Trust That Holds the Container
+
+Participants are held by the container. The container is held by the team. And the team is held by one thing: whether its members can afford to tell each other the truth.
+
+Watch what that means in practice. An assistant walks up to you mid-event and says [they wouldn't pass a state check](../tools/gun-test.md#what-the-check-runs-on) right now. A staff member tells you they have friction with how you handled something this morning. Someone admits a mistake from a scene an hour ago. Every one of those sentences costs something to say — and every one of them catches a problem while it's still small. [What action creates the most trust right now?](./healing-fawning.md#what-creates-the-most-trust-right-now) is the question your team is answering, out loud, every time they bring you the truth of something imperfect.
+
+Whether they keep answering it depends on what happens when they do. Received as care for the container, the admission produces more admissions. Received as a strike — a mark against their reliability, a reason to trust them less — it produces silence. [The same loop that silences a community](./punishment-culture.md#the-loop) runs inside a staff team, just faster, because your staff watch how you receive every single report.
+
+And a team that goes silent doesn't stay a team. Friction that can't be spoken doesn't dissolve — it accumulates, and when pressure hits, the team [splits along it](#friction-check-your-staff). A split team isn't holding the container anymore; each faction is holding its own story about the other one. The participants are now inside a container held by no one — while everyone whose job it was to hold it is managing their own conflict.
+
+The friction check screens for this before the event. The trust culture is what maintains it during. And [The Promise applies to your staff too](#this-applies-to-staff-too) — but the version your team believes isn't the one you announce. It's [the one they watch you keep](./walking-your-talk.md#the-core-principle-show-dont-tell), the first time someone brings you an imperfection.
+
 ### Don't Watch Horror Before Temple
 
 Here's another form of professional hygiene that sounds like satire:

@@ -27,6 +27,12 @@ Bidirectional trust that a mistake will be treated as a mistake. "If something g
 
 ---
 
+## Staff Variant
+
+`before-you-facilitate.md#friction-check-your-staff` applies the same screen to staff teams: check the unhappy path before the event (will they hold when a mob forms? will they split along filters?). Its companion (added 2026-07-05) is `#the-trust-that-holds-the-container` — the *during-event* mechanism: participants are held by the container, the container by the team, the team by whether members can afford vulnerable honesty with each other (state checks, mistakes, friction). Admissions received as care produce more admissions; received as strikes produce silence → unspoken friction accumulates → team splits under pressure → container held by no one. The friction check screens before; the trust culture maintains during.
+
+---
+
 ## Don't Trust Self-Description
 
 Ask for stories, not claims. How someone describes their past conflicts tells you more than how they describe themselves. Watch for asymmetry: if every ex is a villain, that's how they'll frame you.
