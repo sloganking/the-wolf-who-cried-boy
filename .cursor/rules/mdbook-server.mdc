@@ -17,6 +17,6 @@ When Logan says "start the Markdown book" (or similar) and asks to open a page:
 Start-Process "http://localhost:3000/concepts/walking-your-talk.html"
 ```
 
-**URL mapping:** `src/<path>/<file>.md` → `http://localhost:3000/<path>/<file>.html` (e.g. `src/concepts/walking-your-talk.md` → `/concepts/walking-your-talk.html`; `src/tools/gun-test.md` → `/tools/gun-test.html`; `src/introduction.md` → `/introduction.html`).
+**URL mapping:** `src/<path>/<file>.md` → `http://localhost:3000/<path>/<file>.html` (e.g. `src/concepts/walking-your-talk.md` → `/concepts/walking-your-talk.html`; `src/tools/gun-test.md` → `/tools/gun-test.html`; `src/introduction.md` → `/introduction.html`). Heading anchors work: append `#<heading-anchor>` to jump to a specific section (e.g. `/concepts/walking-your-talk.html#when-your-last-call-was-wrong`).
 
 If a specific page was just edited in the session, open THAT page unless Logan says otherwise.

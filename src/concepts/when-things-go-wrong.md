@@ -272,7 +272,7 @@ The emergency exception is for genuine safety emergencies—situations where wai
 
 If you need to use this exception:
 
-1. **Act decisively** — Hesitation in emergencies creates more danger
+1. **Act decisively** — Hesitation in emergencies creates more danger. This holds even when [your last call was wrong](./walking-your-talk.md#when-your-last-call-was-wrong) — a room whose leader has stopped deciding is being led by nobody, or by the loudest voice in it
 2. **Explain afterward** — The person deserves to understand why, once it's safe to explain
 3. **Distinguish it from punishment** — Make clear this doesn't affect their standing for future events (unless their behavior afterward warrants it)
 4. **Document what happened** — Write it down while it's fresh, including what you observed and why you made the call

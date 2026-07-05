@@ -422,6 +422,34 @@ Unless someone is in immediate danger, it can wait thirty seconds — long enoug
 
 Being told you're wrong is essential. Being told you're wrong *in front of everyone you're leading* undermines the container itself.
 
+### When Your Last Call Was Wrong
+
+The first officer's job is to tell you when you're wrong. The other half of the arrangement is yours: deciding what their input outweighs — and what to do when the call you made anyway turns out wrong.
+
+Picture a retreat, day two, evening session ahead. Your assistant pulls you aside: the group is more raw than it looks — she's been fielding the small check-ins all day, and she'd slow tonight down. You hear her, you weigh it, and the session as you picture it goes fine. The picture is vivid. The plan has momentum. You run it as designed.
+
+It doesn't go fine. Someone gets activated, the exercise collapses, and now the room is unsettled and waiting for what happens next — and nothing is coming to you. Every option you generate meets the same fresh evidence: *my call is why tonight looks like this.*
+
+Two things are worth seeing in that moment — one about the call, one about the freeze.
+
+**The call.** Your assistant wasn't guessing. She was reporting from closer to the data than you: she'd watched the group's state all day, and you were looking at a plan. What outweighed her report wasn't information — it was the picture in your head of how the evening would go. And a picture, however vivid, is a [story](./trauma-and-filters.md). So the rule: **weight input by how close it is to the data — not by rank, volume, or conviction.** The person who watched something happen outweighs the person angriest about it. The staff member telling you they're [too depleted to hold the room tonight](./before-you-facilitate.md#staff-readiness-feed-yourself-first) is the only source with access to that data. The same test tells you when *not* to listen: input that arrives loud and certain but far from the data doesn't gain accuracy from its volume — [the angriest person setting the tone](#the-trap-the-angriest-person-sets-the-tone) is exactly that rule being broken. And sometimes the loud, certain voice that's far from the data is your own.
+
+**The freeze.** The sentence running you — *my call is why tonight looks like this* — is true. It's also [factually selective](./trauma-and-filters.md#everything-has-everything-in-it): built from tonight, blind to the record. A visible failure primes the filter; the filter collects failures and drops everything else; "I made a bad call" starts hardening into "I make bad calls" — a [narrative lock on yourself](./invisible-patterns.md#narrative-lock-on-yourself), forming in the middle of the crisis it formed from. The move against it is a [Notice](../tools/notice-feel-story.md): count the record instead of the story. How many calls have you made this weekend — the pacing, the pairings, the dozens of small reads that went well enough that nobody registered them as calls? Tonight is real. So is the rest of the count.
+
+And while you're counting, the room still needs the next call. A frozen leader doesn't pause the room — it keeps being led, by nobody, or by the loudest voice in it. Freezing doesn't take you out of the game. It plays your turn as an empty chair.
+
+*Star Trek: Strange New Worlds* gives this moment its two best lines. A first officer is suddenly the acting captain — his captain gone, his ship half-wrecked, his crew waiting — and he's frozen: earlier he'd pushed his captain hard to send a landing party to a planet that then exploded ("Thank God she ignored me"), and then overrode his engineer's warning not to push the engines, which failed. A fellow officer finds him stalling and asks what's going on.
+
+> **Acting Captain:** "Good leaders know when to listen, and when not to. And I failed at that test too... I've been flying by the seat of my pants this whole time, making call after call, with no clue where they'd lead us, hoping I'd luck into the right one — and all I did was put us belly up in the path of the ultimate destroyer."
+>
+> **Officer:** "And now you are having a crisis of confidence. But you still have to lead. ... Your human intuition has guided us this far. We are all still here. I recommend you keep following it."
+>
+> — *Star Trek: Strange New Worlds*, Season 3, Episode 6
+
+Notice what the officer's move isn't: comfort. He doesn't dispute a single fact. He counts the record the story filtered out — *we are all still here* — and hands back the next decision. Not as [the gut that substitutes for verification](./before-you-judge.md#when-you-cant-verify) — when there's time to verify, verify. This is for the moment when there isn't: the judgment that produced every call so far has a track record, and the story rating that judgment just failed the count. That counting move is also worth stealing if you're ever the first officer of a frozen leader — it reaches what reassurance can't, because it isn't a kindness. It's a Notice.
+
+The call after the failed one decides what the room learns. A facilitator who counts the record and keeps leading — without pretending the failed call didn't happen — shows every person watching that a wrong call is survivable, and that the container doesn't collapse because the person holding it is human. [People learn what you do](#the-core-principle-show-dont-tell) — including what you do right after you got it wrong.
+
 ### How to Find Your First Officer
 
 Your first officer is whoever you trust most for judgment — not whoever holds the second-in-command title. Co-facilitator roles are sometimes training roles. The person in the #2 position might be learning, growing, and not yet the person whose "no" you'd trust in a crisis. Meanwhile, someone else in the room — a participant, an assistant, someone who hasn't climbed the hierarchy but whose judgment you've seen tested — might be exactly that person. Choose based on clarity, not org chart. If you can, eventually put your strongest judge in a formal role. But don't wait for the org chart to catch up before you start leaning on the person you'd trust most to make the call.

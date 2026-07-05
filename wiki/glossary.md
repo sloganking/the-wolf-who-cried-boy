@@ -64,7 +64,7 @@ Complete alphabetical glossary of terms coined or specifically defined in *The W
 
 **Fear Creates What It Fears** — The central pattern: the scanner's vigilance creates false accusations, the fawner's compliance creates violations, the cage's suppression creates overwhelm. → [[fear-creates-what-it-fears]] | `invisible-patterns.md`
 
-**First Officer** — A trusted person who challenges the facilitator privately and supports them publicly. Based on the command structure principle. → `walking-your-talk.md`
+**First Officer** — A trusted person who challenges the facilitator privately and supports them publicly. Based on the command structure principle. The leader's side of the arrangement ("When Your Last Call Was Wrong"): weight input by closeness to the data, not by rank, volume, or conviction — and after a wrong call, count the record instead of the story and keep leading. → `walking-your-talk.md`
 
 **First Plausible Explanation Trap** — The brain latches onto the first plausible explanation and stops looking for alternatives. → [[notice-feel-story]] | `notice-feel-story.md`
 
