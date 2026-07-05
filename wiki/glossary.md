@@ -82,7 +82,7 @@ Complete alphabetical glossary of terms coined or specifically defined in *The W
 
 **Good Thing** — An experience where everyone feels good both during AND after. The standard for play. → [[rbdsmt]] | `before-play.md`
 
-**Gun Test** — Self-check: would you trust yourself with a gun right now? If not, should you be wielding intimacy at MEDIUM severity? Spoken form is always "state check" — the gun stays on the page, never in the air (autopilot says the words you practice, regardless of room). → [[gun-test]] | `tools/gun-test.md`
+**Gun Test** — Self-check: would you trust yourself with a gun right now? If not, should you be wielding intimacy at MEDIUM severity? The question you ask yourself; asking someone else to run it is a [[gun-test|state check]] — the only spoken form ("Gun Check" as a name is retired). → [[gun-test]] | `tools/gun-test.md`
 
 ## H
 
@@ -185,6 +185,8 @@ Complete alphabetical glossary of terms coined or specifically defined in *The W
 **Severity Shift** — In play spaces you cross into MEDIUM severity by default. Mistakes have real consequences. → [[severity-model]] | `severity.md`
 
 **Sinsickness** — Moral immune system attacking you. Shame that attacks identity rather than behavior: "I AM bad" instead of "I DID something bad." Can be fatal to growth. → [[sinsickness]] | `i-made-a-mistake.md`
+
+**State Check** — Asking someone else to run their [[gun-test|Gun Test]]: walk up and say "state check." The only spoken form of the tool — the gun stays on the page, never in the air (autopilot says the words you practice, regardless of room). Lineage: the question asks about your *state* and a *gun* → "gun state check" → speak the last half. → [[gun-test]] | `tools/gun-test.md`
 
 **Story Style** — Part of the [[friction-check]]: how someone interprets ambiguity — with curiosity or blame. → [[friction-check]] | `before-play.md`
 

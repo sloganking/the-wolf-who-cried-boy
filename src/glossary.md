@@ -76,7 +76,7 @@ This page exists because the linguistic gap creates the perceptual gap — it's 
 
 **Good Thing** — An experience where everyone feels good both during AND after. The standard for play. → [Before Play](./concepts/before-play.md)
 
-**Gun Test** — Self-check: would you trust yourself with a gun right now? If not, should you be wielding intimacy at MEDIUM severity? Spoken form is always "state check" — the gun stays on the page, never in the air. → [Gun Test](./tools/gun-test.md#the-gun-check)
+**Gun Test** — Self-check: would you trust yourself with a gun right now? If not, should you be wielding intimacy at MEDIUM severity? The question you ask yourself; asking someone else to run it is a [state check](./tools/gun-test.md#the-state-check). → [Gun Test](./tools/gun-test.md)
 
 ## H
 
@@ -179,6 +179,8 @@ This page exists because the linguistic gap creates the perceptual gap — it's 
 **Severity Shift** — In play spaces you cross into MEDIUM severity by default. Mistakes have real consequences. → [Severity](./concepts/severity.md)
 
 **Sinsickness** — Moral immune system attacking you. Shame that attacks identity rather than behavior: "I AM bad" instead of "I DID something bad." Can be fatal to growth. → [I Made a Mistake](./concepts/i-made-a-mistake.md#sinsickness)
+
+**State Check** — Asking someone else to run their Gun Test: walk up and say "state check." The only spoken form of the tool — the gun stays on the page, never in the air. Lineage: the question asks about your *state* and a *gun* → "gun state check" → speak the last half. → [The State Check](./tools/gun-test.md#the-state-check)
 
 **Story Style** — Part of the Friction Check: how someone interprets ambiguity — with curiosity or blame. → [Before Play](./concepts/before-play.md)
 

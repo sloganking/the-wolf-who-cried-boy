@@ -26,9 +26,9 @@ Failing doesn't mean you can't participate. It means **choose consciously** — 
 
 ---
 
-## Gun Check (on Others)
+## The State Check (on Others)
 
-You can also check whether someone else passes. Walk up and say **"state check"** — never "gun check" out loud. Spoken words land on everyone in earshot, and "gun" at a play party installs threat in participants who don't know the tool ([[trauma-and-filters]]). There's no context-switching alias (staff-speak vs. participant-speak): autopilot says the words you practice regardless of room ([[mistake-matrix]] — Target Focus Training's weapon-drop rule). The gun stays on the page, where it teaches; "state check" is what goes in the air.
+The Gun Test is the question you ask yourself; the **state check** is how you ask someone else to run it. Walk up and say **"state check"** — the word "gun" is never spoken. Spoken words land on everyone in earshot, and "gun" at a play party installs threat in participants who don't know the tool ([[trauma-and-filters]]). There's no context-switching (staff-speak vs. participant-speak): autopilot says the words you practice regardless of room ([[mistake-matrix]] — Target Focus Training's weapon-drop rule). The gun stays on the page, where it teaches; "state check" is what goes in the air. Naming lineage (memory bridge): the question asks about your *state* and a *gun* → full name "gun state check" → you speak the last half. **"Gun Check" as a tool name is retired (2026-07-05)** — the interpersonal check is only ever called the state check.
 
 The check itself:
 1. Acknowledge what you noticed

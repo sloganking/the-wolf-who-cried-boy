@@ -26,7 +26,7 @@ A log of things the book (and the collaboration around it) went a long time with
 
 **How it got caught:** The author imagined the deployment scene — walking up and saying "gun check" in front of participants — and felt the flinch.
 
-**Fix (implemented 2026-07-05, in The Gun Check section of `tools/gun-test.md`):** the tool keeps its name (the gun is the teaching), but the spoken form is always **"state check"** — no context-switching alias, because autopilot says the words you practice regardless of which room it's in (same mechanism as Target Focus Training's weapon-drop rule). All spoken scripts on the page are participant-safe.
+**Fix (implemented 2026-07-05, `tools/gun-test.md`):** the Gun Test keeps its name (the gun is the teaching, and the question is never spoken as a call), but the interpersonal check was renamed **"The State Check"** — the section title is the spoken form, so reading rehearses the right words ("Gun Check" as a name is retired). No context-switching alias, because autopilot says the words you practice regardless of which room it's in (Target Focus Training's weapon-drop rule). Memory bridge: the question asks about your *state* and a *gun* → "gun state check" → speak the last half. All spoken scripts on the page are participant-safe. This matches how other fields solve it: surgery's "time out," diving's "buddy check," kink's "red" — the deployed token is neutral and identical to the tool's name; the vivid teaching lives in training material.
 
 **Category: page language vs. room language.** Words designed for a reader can misfire when spoken in a live container. No one had swept the book's tool names and scripts for how they *sound in the room*.
 
@@ -65,7 +65,7 @@ A log of things the book (and the collaboration around it) went a long time with
 Hand reviewers the five categories, not just the five catches:
 
 1. **Institutional interfaces** — What else lives where the container touches the outside world, unwritten? Candidate checks (unverified, listed as questions): When does a facilitator call emergency medical services — and does the book say so anywhere? Mandatory-reporting obligations for licensed professionals attending or staffing events? Intoxication where it intersects consent *law*, not just consent practice? Venue liability and insurance after an incident? Whether "document what happened" anywhere notes that documentation can become legal evidence — for either side?
-2. **Page language vs. room language** — Sweep every named tool and script for how it sounds spoken aloud to people who haven't read the book. (The Gun Test is caught; what does "influence firewall" or "gun check on others" sound like mid-event?)
+2. **Page language vs. room language** — Sweep every named tool and script for how it sounds spoken aloud to people who haven't read the book. (The Gun Test is caught — its spoken form is now the state check; what does "influence firewall" sound like mid-event?)
 3. **Rights and permissions** — The remaining clip link; the item-H quote-permissions sweep; anything else embedded that the author doesn't hold rights to.
 4. **Sourcing discipline** — Any other quote that entered through a transcript, memory, or secondhand citation without a verification pass.
 5. **The writer's pattern in the prescriptions** — Where might fawning, institutional distrust, or the author's specific history have shaped advice in ways a reader with different patterns would catch instantly?

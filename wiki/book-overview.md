@@ -64,7 +64,7 @@ When something goes wrong, ask:
 
 ### Part 6: Before You Play
 - **Before Play (RBDSMT)** → [[rbdsmt]], [[friction-check]], trust baseline, "good thing" definition, couples as double risk
-- **Gun Test** → [[gun-test]], gun check on others
+- **Gun Test** → [[gun-test]], state check (on others; spoken form)
 
 ### Part 7: When Something Goes Wrong
 - **Before You Judge** → [[witch-hunt-dynamic]], qualified source, primary sources, explanation trap
