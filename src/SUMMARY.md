@@ -93,4 +93,5 @@
 # Reference
 
 - [Quick Reference](./quick-reference.md)
+- [The Lessons](./lessons.md)
 - [Glossary](./glossary.md)

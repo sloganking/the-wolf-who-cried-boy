@@ -88,6 +88,7 @@ When something goes wrong, ask:
 ### Closing
 - **Conclusion** — Planetary transformation as distributed practice, see people as people
 - **Quick Reference** — Single-page index of all frameworks and tools
+- **The Lessons** — Back-matter page of the book's one-sentence claims, verbatim, in arc order (names live in the Glossary; claims live here)
 
 ---
 

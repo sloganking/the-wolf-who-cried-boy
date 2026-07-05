@@ -1,7 +1,7 @@
 ---
 title: Wiki Log
 tags: [meta]
-updated: 2026-07-04
+updated: 2026-07-05
 ---
 
 # Wiki Log
@@ -9,6 +9,14 @@ updated: 2026-07-04
 Append-only record of wiki changes. Each entry starts with a consistent prefix for parseability.
 
 ---
+
+## [2026-07-05] update | State check: conditional flow, answer language, the stop, and the trust mechanism (`tools/gun-test.md`)
+
+**Book changes across two same-day author passes:** (1) The state-check steps gained a real conditional — step 2 now checks whether continuing is on the table at all (container rules or the person's own preference) before the partner-informing steps fire; previously "inform their partner" read as automatic. (2) New guidance on *answering* a check: same page/air rule as calling one — run the question silently, reply gun-free ("Good catch. I wouldn't pass right now — how do you think we should proceed?"). (3) Partner script de-clinicalized ("wouldn't fully trust their own judgment... still somewhat lucid" → "foggier than they'd like to be, not at their sharpest," reusing the page's own Example vocabulary) and made self-translating ("— which means..."), keeping "wouldn't pass" over "didn't pass" (the check is a would-question; "didn't" reads as a failed exam). (4) Step 4 catches a hostile response plan (*"honestly, I'd be furious"*) as pause-worthy data regardless of container fog rules. (5) New `### If They Need to Stop`: pause-not-punishment mechanism (shamed truth teaches the next person to lie), script with no promised comeback window (break length is the container's call — author caught "done for the night" as container-dependent), the attention-under-the-words paragraph (same sentence lands as verdict or care depending on where the deliverer's attention is), and the staff-receiving-side paragraph (top vulnerability: the no protects the stopped person most). (6) "If you're thinking straight, you'll feel grateful for it" cut (prescribed feeling, moralizing). (7) Closing paragraph connects the exchange to healing-fawning's "What action creates the most trust right now?" — author brought this as a possibly-new lesson ("I always do the thing that creates the most trust"); assessment found it already in the book nearly verbatim (`healing-fawning.md#what-creates-the-most-trust-right-now`), so the genuinely-new piece landed instead: the *team* dimension — staff honesty about their own state is what keeps a container safe, rational only where admissions are received as care, not strikes (cross-linked to punishment-culture#the-loop). Also same session: the trust question added to `src/lessons.md` (verbatim-rule compliant); `src/glossary.md` Gift of No entry retargeted from fawning.md to `healing-fawning.md#the-gift-of-no` (stale pointer); `responsibility.md` opening reframed to declare the book's working definition instead of claiming the one true meaning ("The Common Confusion" retitle, "In this book, responsibility means..."). `wiki/gun-test.md` state-check section rewritten to match. Link + privacy checks clean.
+
+## [2026-07-05] add | The Lessons (`src/lessons.md`) — back-matter page of the book's one-sentence claims
+
+**Book change — reader-facing Lessons page added as back matter:** `src/lessons.md` created (author-approved; assessed high-value, not redundant with existing back matter). Rationale: the Glossary indexes the book's *names* (terms) and the Quick Reference indexes its *functions* (tools/frameworks), but readers remember the *sentence that hit them* — and many of the book's strongest lessons aren't terms ("The lesson will be presented until it is learned," "You don't fix blindness with punishment. You fix it with sight") so they were unfindable in any back matter. The page holds ~80 verbatim lesson sentences, each linked to its source chapter, ordered by the book's arc (author's explicit preference) so a top-to-bottom read doubles as the argument in miniature. Admission rule: appears verbatim in the book, declarative, stands alone without the chapter around it. Placement: `SUMMARY.md` Reference section between Quick Reference and Glossary; cross-links added in both directions (Quick Reference intro: "Trying to find a sentence you remember?"; Glossary intro: "for the book's claims rather than its names"). Process note: extraction ran via four parallel cheaper subagents (author's token-economics call); every candidate was then mechanically verified verbatim against `src/` before inclusion — no invented or paraphrased lines. `wiki/book-overview.md` Closing section updated.
 
 ## [2026-07-05] add | Book-end Glossary (`src/glossary.md`) + `notes/late-caught-blind-spots.md` + glossary housekeeping
 

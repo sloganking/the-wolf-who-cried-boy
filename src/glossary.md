@@ -2,7 +2,7 @@
 
 Every term this book coins or uses with a specific meaning, alphabetized. Each entry points to the chapter that teaches it in full.
 
-This page exists because the linguistic gap creates the perceptual gap — it's hard to handle what you can't name. These are the names.
+This page exists because the linguistic gap creates the perceptual gap — it's hard to handle what you can't name. These are the names. For the book's claims rather than its names, see [The Lessons](./lessons.md).
 
 ---
 
@@ -72,7 +72,7 @@ This page exists because the linguistic gap creates the perceptual gap — it's 
 
 ## G
 
-**Gift of No** — When someone says no, they protect both people. A clear no means their yes can be trusted. Hearing no creates more safety than hearing yes. → [Fawning](./concepts/fawning.md)
+**Gift of No** — When someone says no, they protect both people. A clear no means their yes can be trusted. Hearing no creates more safety than hearing yes. → [Healing Fawning](./concepts/healing-fawning.md#the-gift-of-no)
 
 **Good Thing** — An experience where everyone feels good both during AND after. The standard for play. → [Before Play](./concepts/before-play.md)
 
