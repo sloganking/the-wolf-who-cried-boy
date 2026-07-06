@@ -28,6 +28,9 @@ Everything in one place. Click any link to jump to the full explanation. Looking
 | [100% Control](./tools/100-percent-control.md) | Both people had 100% control over the outcome — empowers without blaming | Taking Responsibility |
 | [Influence Firewall](./tools/influence-firewall.md) | Detects whether someone's words install fear, urgency, and guilt — or observation, curiosity, and verification. Consent for ideas, not just touch | Seeing Clearly |
 | [How to Check](./concepts/trauma-and-filters.md#how-to-check) | Three questions before you act on a feeling: (1) Would I react this intensely if it weren't my partner? (2) Did they ask for this? (3) What am I actually afraid of? | What's Running You |
+| [Replacing the Sentence](./concepts/invisible-patterns.md#replacing-the-sentence) | Finds the sentence your body has been running, writes its precise inverse, and installs it through embodied repetition — Tony Robbins' incantations | What's Running You |
+| [Your Primary Question](./concepts/invisible-patterns.md#your-primary-question) | Replaces the question your attention defaults to with one on a different axis, so the old fear-based question becomes irrelevant instead of just answered differently | What's Running You |
+| [Ask Better Questions](./concepts/responsibility.md#ask-better-questions) | Victim Questions get disempowering answers; Creator Questions get useful ones — your brain answers whatever question you give it | Taking Responsibility |
 
 ---
 
@@ -47,6 +50,8 @@ The exact phrases the book uses to speak in observations instead of verdicts —
 | [Graduated language](./concepts/when-youve-been-wronged.md#your-language-tells-you-where-you-are) | Victim-frame words ("violated," "character assassination," "witch hunt") that keep attention on what was done to you | When Something Goes Wrong |
 | [Talk *for*, not *about*](./concepts/why-helping-is-hard.md#talk-for-not-about) | Relitigating what went wrong ("here's everything you did") | The Patterns |
 | [Disentangle, then empathize before you correct](./tools/notice-feel-story.md#disentangling-other-peoples-language) | Arguing with someone's entangled feeling-plus-story statement | Seeing Clearly |
+
+**Both directions of "words are spells" matter.** The table above catches speech that's already carrying fiction — a story stated as fact, an accusation smuggled into a feeling. But repeated language doesn't only report what your subconscious believes — with the body engaged, it installs it. That's the generative half of the same mechanism: [Replacing the Sentence](./concepts/invisible-patterns.md#replacing-the-sentence) (Tony Robbins' incantations) and [Your Primary Question](./concepts/invisible-patterns.md#your-primary-question), both listed under Tools above.
 
 ---
 
