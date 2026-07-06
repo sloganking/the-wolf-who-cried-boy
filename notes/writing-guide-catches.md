@@ -18,6 +18,12 @@ Append-only ledger of real sentences that failed a writing-guide rule and what t
 - **Rule broken:** Name the Referent (this catch created the rule). If a pointer word can bind to more than one antecedent, the reader guesses or stalls.
 - **Became:** "friction-check no one harder than your specialist."
 
+## [2026-07-06] Cute verbing reads as odd slang | `before-you-facilitate.md`
+
+- **Written:** "the commander doesn't charisma them back into the cockpit" — using "charisma" as a verb.
+- **Rule broken:** not a named rule yet, but a voice miss: reaching for a cute coinage instead of the plain word draws attention to the sentence's cleverness instead of its point, and reads as odd rather than sharp.
+- **Became:** "the commander can't simply order them back into the cockpit" — plainer, and it names the actual mechanism (an order doesn't override the medical call) instead of performing a verb trick.
+
 ## [2026-07-06] Fiction cited where a real system exists | `before-you-facilitate.md`
 
 - **Written:** "*Star Trek* builds this pattern into Starfleet regulation — the ship's doctor serves under the captain everywhere except medical matters..."
