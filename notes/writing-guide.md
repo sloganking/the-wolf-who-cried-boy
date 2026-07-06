@@ -248,6 +248,24 @@ This applies to:
 
 ---
 
+### Don't Pre-Frame the Reception
+
+Don't tell the reader how they're about to receive something — "you're not going to like this," "this may sound harsh," "this is a lot to learn," "I know this is overwhelming." A forecast about someone's future inner state is a story — and delivering it right before the content installs it as the filter the content gets received through. It's the book's own pre-framing and install-labeling mechanics, aimed at the very next sentence.
+
+> **"'Myron, I know you're not gonna like this.' Well, I don't know if I'm gonna like it or not until you say it. Like, I'm not gonna let somebody else pre-frame how I'm gonna receive something."**  
+> — _Myron Golden ("Why Your Subconscious Programming Is Sabotaging All Of Your Goals," [YouTube live, ~29:15](https://www.youtube.com/live/PGX2YLPodVg?t=1755))_
+
+The fix: deliver the content and let them decide how to receive it. Where scope or weight needs stating, describe the thing, not their feelings about it.
+
+Real catches in this book:
+
+- An invitation script in `walking-your-talk.md` said "it's the uncomfortable kind of feedback" — predicting the listener's feeling pre-frames them to dislike it. Replaced with "Are you open to something that might challenge you?" — "challenge" describes what the content does; "uncomfortable" prescribed a feeling. (2026-07-05)
+- "The unhappy path is a lot to learn" opened a section of `before-you-facilitate.md` by telling facilitator readers the material is burdensome — installing "this is too much" one sentence before inviting them to engage with it. Rewritten to describe the scope as a craft, without the verdict. (2026-07-06, the catch that named this anti-pattern)
+
+Boundary: naming real stakes isn't pre-framing. "This decision determines how incidents go in your container" is a mechanism claim about the thing. "You're going to find this hard" is a forecast about the reader. Keep the first kind; cut the second.
+
+---
+
 ### Don't Narrate the Structure
 
 Don't add sentences that describe the document's own layout — "the next section covers X," "everything below is about Y," forward-links to sections the reader will reach by reading. The structure already communicates order; restating it is fluff, and it dilutes whatever sentence it's attached to.
@@ -283,5 +301,6 @@ Therapists can be mentioned as a tool — a small tool for specific, narrow prob
 - [ ] Quotes formatted correctly
 - [ ] Language walks its own talk — no stories, no narrative frames, just inarguable descriptions of what happens
 - [ ] Passes the Martian check — no uncounted frequency claims ("most," "usually"), no verdict language ("the person you failed"), no claims about others' inner experience or motives stated as fact
+- [ ] No pre-framed reception — content isn't introduced with forecasts of how the reader will feel about it ("this is a lot," "you won't like this")
 
 ---
