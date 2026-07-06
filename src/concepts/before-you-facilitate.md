@@ -161,7 +161,7 @@ That's the staff member you want. Not someone who's never had the impulse to joi
 
 Don't filter out everyone who's ever thought like a righteous predator. Filter out the ones who still do. The ones who've come through it and can see both sides? Put them on your front line.
 
-### Someone Has to Know
+### Your Conflict Specialist
 
 The unhappy path is its own craft. Severity calls, [the order of operations when threats happen](./handling-threats-of-violence.md), [guiding repair in front of a room](./guiding-public-repair.md), spotting [narrative lock](./invisible-patterns.md#narrative-lock) while it's forming — a distinct skill set, built through its own study and reps. Some facilitators want all of it. Others spent their years mastering something else — designing transformative experiences, reading a room, holding ceremony — and they're excellent at it. If that's you, here's the question that actually matters: does everyone on your team need to be an expert in conflict?
 
