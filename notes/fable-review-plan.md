@@ -91,6 +91,8 @@ Ordered roughly by importance. Considerations are attached to the items they bel
 - Candidate example the author knows: a person whose actions were consistently selfish — possibly a fear response (manipulating when afraid). The chapter's stance can hold that ambiguity explicitly: you may never know whether it's fear or malice underneath, and the protocol is the same either way. You handle the *pattern*, not the diagnosis. That's actually on-message: the book keeps saying labels don't matter, behaviors and patterns do. Pattern only, never identifiable.
 - Natural placement: "When Something Goes Wrong" section, likely after Before You Judge / Appropriate Response, or as the closing chapter of that section.
 
+**Resource note (2026-07-06):** a consultant/reader with directly relevant lived and professional experience (real-predator survivorship, crisis work, long underground-community background) is available to the author for this chapter — who it is and the consent rules for the ask live in the gitignored `wiki/.private-context.md`. Candidate uses: primary-source input on section 2's pattern signals, the brief's open question 2 (a witnessed clean removal), and a survivor-side inarguability read of the draft plus `when-youve-been-wronged.md`. No ask has been made yet.
+
 ### B. Perception & Prescription restructure — DONE 2026-07-03
 
 - **Compress the perception half** (frequencies are field observation; "hold my nine-in-ten as a bet on fear over selfishness, not a statistic") into one tight paragraph inside the intro's "A Note on Tone." One sentence of the author's vantage can survive in the intro; general readers only need the register distinction.

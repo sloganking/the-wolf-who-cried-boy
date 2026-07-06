@@ -107,6 +107,10 @@ Slight lean: option 1. The chapter benefits from the reader having already absor
 
 This is the other chapter where the book shows its teeth — the register of `harmless-is-not-peaceful.md`: "precision instruments for the dangerous." Calm, procedural, and absolutely unflinching. No moralizing even here — *especially* here. The chapter's credibility move is demonstrating that HIGH-severity response and human dignity are compatible: you can end someone's access to your community forever, warn your peers, and involve the law — all in Notice language, without once calling them a monster. If the chapter can do that, the whole book becomes inarguable.
 
+## Subject-Matter Resource (added 2026-07-06)
+
+The author has access to a consultant/reader with directly relevant lived and professional experience — real-predator survivorship, crisis-line-style work with people in acute distress, and years in underground communities (the book's exact no-institutional-backstop context). Identity and consent rules for the ask: gitignored `wiki/.private-context.md`. Best uses for this chapter: verifying section 2's pattern signals against lived data (target selection, engineered un-witnessed contexts, observable tells), open question 2 below (she may have witnessed a real clean removal), and a survivor-side read of the finished draft — the strongest available test of the tone section's claim that HIGH-severity response and dignity can coexist without the chapter minimizing anyone. Any story she shares enters this file or the chapter only as a de-named pattern and only with her explicit consent.
+
 ## Open Questions for the Author
 
 1. The consistently-selfish person you know (possible fear-driven manipulation) — how much of that pattern can be abstracted into section 2's example? What behaviors would a camera have recorded?
