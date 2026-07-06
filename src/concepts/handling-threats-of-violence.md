@@ -97,7 +97,7 @@ This is where your [first officer](./walking-your-talk.md#your-first-officer) is
 
 If you're facilitating without a co-facilitator and this happens, you're in a genuinely difficult spot. Do the best you can with what you have—but this is exactly why having a trusted second is worth the investment.
 
-And a second pair of hands only helps if at least one person in the room knows these steps. That's a staffing decision made before the event, not a discovery made during it — [your team needs someone who knows how to handle conflict at this severity](./before-you-facilitate.md#someone-has-to-know), and everyone on the team needs to know who that is.
+And a second pair of hands only helps if at least one person in the room knows these steps. That's a staffing decision made before the event, not a discovery made during it — [your team needs someone who knows how to handle conflict at this severity](./before-you-facilitate.md#your-conflict-specialist), and everyone on the team needs to know who that is.
 
 ---
 
