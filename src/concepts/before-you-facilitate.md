@@ -73,7 +73,7 @@ Your team is a facilitation decision. Everything in this section is settled befo
 
 Here's something most facilitators don't talk about:
 
-**If you're sexually starved, you're a liability.**
+**If you're sexually starved, you're working impaired.**
 
 Think about it like a hungry dog at a buffet. A well-fed dog can walk past food without grabbing. A starving dog cannot. Its animal body takes over. Impulse overwhelms judgment. The same applies to facilitators and staff at sex-positive events.
 
@@ -103,7 +103,7 @@ If you have staff or assistants, consider their state too.
 
 **A recommendation:** Consider making this a requirement, not a suggestion. *You cannot work my events unless your needs have been met recently.*
 
-Even if you don't set a hard rule, do a vibe check. You can feel it when someone has hungry ghost energy — that starving, seeking, desperate-for-connection state that makes them a liability in intimate spaces. You don't need to ask them when they last had sex. You can see it. If someone on your staff has that energy, they're not ready to hold space. Feed them first.
+Even if you don't set a hard rule, do a vibe check. You can feel it when someone has hungry ghost energy — that starving, seeking, desperate-for-connection state where the animal body is back in charge. You don't need to ask them when they last had sex. You can see it. If someone on your staff has that energy, they're not ready to hold space. Feed them first.
 
 Think of it like meals at a retreat. If nobody had eaten in 24 hours, you wouldn't push forward with the curriculum. You'd stop and feed everyone first. Same logic.
 
@@ -177,7 +177,7 @@ Conflict is the same kind of risk, and this chapter has already shown you the sa
 
 **What you can't delegate.** The Promise is yours — you made it, and the room watches you keep it. And in a crisis, [people mirror emotions, not facts](./walking-your-talk.md#people-mirror-emotions-not-facts): the room will take its nervous system from you, not from your specialist's protocol. So the division of labor is: the specialist runs the steps, and you visibly back them — decided in advance, so the room never watches its leadership negotiate authority mid-emergency. This is a different job than your [First Officer](./walking-your-talk.md#your-first-officer), whose role is challenging *you* privately. One person can hold both jobs. Just know they're two jobs.
 
-**The handoff, agreed before the container.** "The specialist runs the steps" only works if both of you know when that starts. So define it together, in advance — written down if your container is big enough to warrant it: what counts as an emergency, which calls become the specialist's the moment one is declared, which stay yours, and when normal roles resume. Real chains of command already build this pattern in. A military flight surgeon serves under the commander in everything — except fitness to fly. When the surgeon grounds an aviator, rank can't override it: nobody gets back in the air until medical clears them, and the regulations saying so were written long before anyone was inside the situation. A pre-defined trigger is what makes deferring to your specialist read as the plan working, not the leader faltering. And [friction-check](#friction-check-your-staff) no one harder than your specialist: you're pre-agreeing to follow their lead through the container's worst hour, and mid-crisis is not where to discover you disagree about how conflict gets handled.
+**The handoff, agreed before the container.** The specialist taking over and making the calls during a crisis only works if both of you know when a crisis starts. So define it together, in advance — written down if your container is big enough to warrant it: what counts as an emergency, which calls become the specialist's the moment one is declared, which stay yours, and when normal roles resume. Real chains of command already build this pattern in. A military commander leads the mission, but a flight surgeon owns the medical call on fitness to fly: once an aviator is grounded, the commander doesn't charisma them back into the cockpit — they fly again when flight medicine clears them, under conditions defined long before anyone was inside them. A pre-agreed trigger is what makes deferring to your specialist read as the system working, not the leader faltering. And [friction-check](#friction-check-your-staff) no one harder than your specialist: you're pre-agreeing to follow their lead through the container's worst hour, and mid-crisis is not where to discover you disagree about how conflict gets handled.
 
 A container's safety isn't the average of what your team knows. It's whether the right knowledge is in the room when the moment comes — and whether everyone knows where it lives.
 

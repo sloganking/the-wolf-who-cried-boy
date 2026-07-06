@@ -314,3 +314,9 @@ Therapists can be mentioned as a tool — a small tool for specific, narrow prob
 - [ ] Every pointer word ("this person," "they," "that") binds to exactly one antecedent — if a competitor noun is in range, the referent is named again
 
 ---
+
+## Case Law
+
+Real catches — sentences that failed a rule above and what they became — are logged in `writing-guide-catches.md`. Read it alongside this guide to calibrate: the rules say what to do, the catches show where it actually breaks. Every new catch gets appended there.
+
+---
