@@ -186,6 +186,15 @@ The book ships as ebook AND paperback/PDF. In print, links become plain text —
 - NEVER use naked pointer links: "([more here](...))", "([see this](...))", "(click here)". In print these become dangling junk: "...requires intent (more here)."
 - Test before finalizing: read the sentence as if the link syntax were deleted. If any words exist only to host a link, rewrite so the load-bearing phrase carries it.
 
+### Name the Referent
+
+Pointer words — "this person," "they," "that," "it" — only communicate when the reader binds them to the right antecedent instantly. If a pointer could plausibly bind to more than one thing, or its antecedent sits several sentences back behind other nouns, the sentence isn't communicating: the reader either guesses or stalls, and both cost the exact clarity the book is teaching.
+
+- Test: for each pointer, ask what else in the last few sentences it could grab onto. If there's a competitor, name the referent again.
+- This doesn't mean banning pronouns — prose with every noun repeated reads robotic. It means pronouns earn their place only when the binding is unambiguous.
+
+Real catch: "friction-check no one harder than this person" appeared right after a paragraph about a flight surgeon and a commander — three candidate people in range. Fixed to "friction-check no one harder than your specialist." (`before-you-facilitate.md`, 2026-07-06)
+
 ---
 
 ## Author Voice & Personality
@@ -302,5 +311,6 @@ Therapists can be mentioned as a tool — a small tool for specific, narrow prob
 - [ ] Language walks its own talk — no stories, no narrative frames, just inarguable descriptions of what happens
 - [ ] Passes the Martian check — no uncounted frequency claims ("most," "usually"), no verdict language ("the person you failed"), no claims about others' inner experience or motives stated as fact
 - [ ] No pre-framed reception — content isn't introduced with forecasts of how the reader will feel about it ("this is a lot," "you won't like this")
+- [ ] Every pointer word ("this person," "they," "that") binds to exactly one antecedent — if a competitor noun is in range, the referent is named again
 
 ---

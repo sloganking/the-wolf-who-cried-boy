@@ -65,7 +65,11 @@ Being a great facilitator isn't about never making mistakes. It's about taking r
 
 ---
 
-## Staff Readiness: Feed Yourself First
+## Staff Readiness
+
+Your team is a facilitation decision. Everything in this section is settled before the container opens: the state your staff arrive in, who you put on the team, and what they know when something goes wrong.
+
+### Feed Yourself First
 
 Here's something most facilitators don't talk about:
 
@@ -79,7 +83,7 @@ When you're sexually starved, the pull is stronger. Your subconscious is scannin
 
 This isn't about willpower or character. It's about state management — the same logic as getting enough sleep, eating before you facilitate, and managing your emotional activation. You wouldn't run a container while sleep-deprived. Sexual starvation is the same category of risk.
 
-### The Facilitator Standard
+#### The Facilitator Standard
 
 If you're facilitating or assisting at sex-positive spaces, consider this professional hygiene:
 
@@ -93,7 +97,7 @@ This might mean:
 
 If you're leading a week-long retreat, make sure you're not arriving starved. If you're running a play party, make sure your needs have been met recently.
 
-### For Your Staff
+#### For Your Staff
 
 If you have staff or assistants, consider their state too.
 
@@ -103,7 +107,7 @@ Even if you don't set a hard rule, do a vibe check. You can feel it when someone
 
 Think of it like meals at a retreat. If nobody had eaten in 24 hours, you wouldn't push forward with the curriculum. You'd stop and feed everyone first. Same logic.
 
-### The Jumpmaster Reframe
+#### The Jumpmaster Reframe
 
 There's a video of military paratroopers jumping from a plane. Before each jump, a jumpmaster does a final check — gear, straps, everything. In the video, someone is about to jump. Split second from the door. And the jumpmaster sees it: the static line is wrapped around the jumper's neck. If he jumps, he's decapitated.
 
@@ -173,7 +177,7 @@ Conflict is the same kind of risk, and this chapter has already shown you the sa
 
 **What you can't delegate.** The Promise is yours — you made it, and the room watches you keep it. And in a crisis, [people mirror emotions, not facts](./walking-your-talk.md#people-mirror-emotions-not-facts): the room will take its nervous system from you, not from your specialist's protocol. So the division of labor is: the specialist runs the steps, and you visibly back them — decided in advance, so the room never watches its leadership negotiate authority mid-emergency. This is a different job than your [First Officer](./walking-your-talk.md#your-first-officer), whose role is challenging *you* privately. One person can hold both jobs. Just know they're two jobs.
 
-**The handoff, agreed before the container.** "The specialist runs the steps" only works if both of you know when that starts. So define it together, in advance — written down if your container is big enough to warrant it: what counts as an emergency, which calls become the specialist's the moment one is declared, which stay yours, and when normal roles resume. *Star Trek* builds this pattern into Starfleet regulation — the ship's doctor serves under the captain everywhere except medical matters, where the doctor's authority can override even the captain's, because the conditions were written long before anyone was inside them. A pre-defined trigger is what makes deferring to your specialist read as the plan working, not the leader faltering. And [friction-check](#friction-check-your-staff) no one harder than this person: you're pre-agreeing to follow their lead through the container's worst hour, and mid-crisis is not where to discover you disagree about how conflict gets handled.
+**The handoff, agreed before the container.** "The specialist runs the steps" only works if both of you know when that starts. So define it together, in advance — written down if your container is big enough to warrant it: what counts as an emergency, which calls become the specialist's the moment one is declared, which stay yours, and when normal roles resume. Real chains of command already build this pattern in. A military flight surgeon serves under the commander in everything — except fitness to fly. When the surgeon grounds an aviator, rank can't override it: nobody gets back in the air until medical clears them, and the regulations saying so were written long before anyone was inside the situation. A pre-defined trigger is what makes deferring to your specialist read as the plan working, not the leader faltering. And [friction-check](#friction-check-your-staff) no one harder than your specialist: you're pre-agreeing to follow their lead through the container's worst hour, and mid-crisis is not where to discover you disagree about how conflict gets handled.
 
 A container's safety isn't the average of what your team knows. It's whether the right knowledge is in the room when the moment comes — and whether everyone knows where it lives.
 
