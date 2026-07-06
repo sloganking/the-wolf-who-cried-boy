@@ -96,6 +96,7 @@ The exact phrases the book uses to speak in observations instead of verdicts —
 - [ ] If a mistake happens, will you [walk your talk](./concepts/walking-your-talk.md) — or fawn to the loudest voice?
 - [ ] Can you distinguish between [defense and aggression](./concepts/before-you-facilitate.md#defense-vs-aggression)?
 - [ ] If threats of violence occur, do you know [how to handle them](./concepts/handling-threats-of-violence.md)?
+- [ ] Is there [at least one person on your team](./concepts/before-you-facilitate.md#someone-has-to-know) who's well-versed in incident handling — and does everyone know who that is?
 - [ ] Do you have a [First Officer](./concepts/walking-your-talk.md#your-first-officer) who will challenge you privately?
 
 ---

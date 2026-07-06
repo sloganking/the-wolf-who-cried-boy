@@ -157,6 +157,22 @@ That's the staff member you want. Not someone who's never had the impulse to joi
 
 Don't filter out everyone who's ever thought like a righteous predator. Filter out the ones who still do. The ones who've come through it and can see both sides? Put them on your front line.
 
+### Someone Has to Know
+
+The unhappy path is a lot to learn. Severity calls, [the order of operations when threats happen](./handling-threats-of-violence.md), [guiding repair in front of a room](./guiding-public-repair.md), spotting [narrative lock](./invisible-patterns.md#narrative-lock) while it's forming. Some facilitators want all of it. Others spent their years mastering something else — designing transformative experiences, reading a room, holding ceremony — and they're excellent at it. If that's you, here's the question that actually matters: does everyone on your team need to be an expert in conflict?
+
+No. Look at how events already handle medical risk. Nobody requires every staff member to be a paramedic. What a container requires is that *someone* on site knows first aid, that everyone knows who that person is, and that everyone can recognize the moment to call them. The knowledge doesn't have to live in every head. It has to be in the room — and everyone has to know where it lives.
+
+Conflict is the same kind of risk, and this chapter has already shown you the same solution twice. Staff whose filters differ, so one person's blind spot gets caught by another's sight. The recovered righteous predator, who can talk to a mob in its own language. Your team is a portfolio. It's the portfolio that has to be complete — not each person in it.
+
+**The specialist.** At least one person on your team, well-versed in what to do when things go wrong — the threats walkthrough, public repair, the difference between [defense and aggression](#defense-vs-aggression), what to say to a crowd. Designate them before the container starts, and tell your team who they are. A crisis is not the moment to discover who knows what. If no one on your team holds this yet, the role is simply unfilled — fill it before your next container, by training someone who wants it or bringing in someone who already has it.
+
+**The baseline — and it isn't zero.** Everyone who works your event needs enough to do two things: not make it worse, and hand off. Not making it worse means knowing [The Promise](#the-promise) they're working under, knowing that [feelings don't determine severity](./severity.md#feelings-dont-determine-severity), and not echoing an accusation or [fawning to the loudest voice](#when-the-facilitator-fawns) while the situation is still unverified. Handing off means recognizing *this is past what I know* — and knowing exactly who to get. That's the difference between CPR awareness and being the paramedic. The awareness tier takes an afternoon to teach. Without it, the first accusation gets handled by whoever in the room feels most certain — and [certainty is exactly what the moment doesn't need](./why-rescuers-are-dangerous.md#the-five-dangers-of-certainty).
+
+**What you can't delegate.** The Promise is yours — you made it, and the room watches you keep it. And in a crisis, [people mirror emotions, not facts](./walking-your-talk.md#people-mirror-emotions-not-facts): the room will take its nervous system from you, not from your specialist's protocol. So the division of labor is: the specialist runs the steps, and you visibly back them — decided in advance, so the room never watches its leadership negotiate authority mid-emergency. This is a different job than your [First Officer](./walking-your-talk.md#your-first-officer), whose role is challenging *you* privately. One person can hold both jobs. Just know they're two jobs.
+
+A container's safety isn't the average of what your team knows. It's whether the right knowledge is in the room when the moment comes — and whether everyone knows where it lives.
+
 ### The Trust That Holds the Container
 
 Participants are held by the container. The container is held by the team. And the team is held by one thing: whether its members can afford to tell each other the truth.
