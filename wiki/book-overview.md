@@ -87,7 +87,7 @@ When something goes wrong, ask:
 
 ### Closing
 - **Conclusion** — Planetary transformation as distributed practice, see people as people
-- **Quick Reference** — Single-page index of all frameworks and tools
+- **Quick Reference** — Single-page index of all frameworks and tools, incl. "Language of Clear Sight" — the book's scattered speech curriculum (pseudo-feelings, occurs-to-me-as, talk-for-not-about, etc.) collected into one table of borrowable phrases
 - **The Lessons** — Back-matter page of the book's one-sentence claims, verbatim, in arc order (names live in the Glossary; claims live here)
 
 ---

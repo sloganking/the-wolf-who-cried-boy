@@ -31,6 +31,25 @@ Everything in one place. Click any link to jump to the full explanation. Looking
 
 ---
 
+## Language of Clear Sight
+
+The exact phrases the book uses to speak in observations instead of verdicts — borrow these directly in a real conversation. Landmark and Tony Robbins call adjacent material "transformational language"; what this book adds to that lineage is the inarguability layer — a built-in way to check a story before you act on it, not just a better way to phrase one. This table is the phrasebook. For the full case for why it works, see [Notice, Feel, Story](./tools/notice-feel-story.md#why-this-works).
+
+| Move | Replaces | Where |
+|------|----------|-------|
+| ["My story is X. Is there any truth to that?"](./tools/notice-feel-story.md#the-three-step-framework) | Stating an interpretation as a fact ("You don't care about me") | Seeing Clearly |
+| [Pseudo-feelings](./tools/notice-feel-story.md#watch-for-pseudo-feelings) | "I feel [accusation]" — a claim about someone else's behavior wearing a feeling's clothes | Seeing Clearly |
+| ["I suspect..." instead of "I think..."](./tools/notice-feel-story.md#i-think-doesnt-carry-doubt) | "I think" — it can mean a guess or a verdict, so the room hears the verdict | Seeing Clearly |
+| ["Occurs to me as..."](./tools/notice-feel-story.md#occurs-to-me-as) | Declaring your interpretation as their trait ("They're dangerous") | Seeing Clearly |
+| ["I imagine you're upset"](./tools/notice-feel-story.md#i-imagine) | "You're upset" — claiming to know what's happening inside someone else | Seeing Clearly |
+| [Notice-only description](./tools/notice-feel-story.md#step-1-notice-observation) | Loaded verbs standing in for observation ("abandoned" instead of "left without saying anything") | Seeing Clearly |
+| [Don't repeat fiction](./concepts/when-youve-been-wronged.md#dont-fawn) | Repeating an accusation to deny it ("I'm not a predator" plants the word it's fighting) | When Something Goes Wrong |
+| [Graduated language](./concepts/when-youve-been-wronged.md#your-language-tells-you-where-you-are) | Victim-frame words ("violated," "character assassination," "witch hunt") that keep attention on what was done to you | When Something Goes Wrong |
+| [Talk *for*, not *about*](./concepts/why-helping-is-hard.md#talk-for-not-about) | Relitigating what went wrong ("here's everything you did") | The Patterns |
+| [Disentangle, then empathize before you correct](./tools/notice-feel-story.md#disentangling-other-peoples-language) | Arguing with someone's entangled feeling-plus-story statement | Seeing Clearly |
+
+---
+
 ## Key Distinctions
 
 | Distinction | The Point | Where |
