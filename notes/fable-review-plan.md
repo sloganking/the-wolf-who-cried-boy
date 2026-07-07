@@ -17,7 +17,7 @@ Everything decided in the review conversation is integrated into the items below
 - **Voice guard and threshold** are in "Considerations to hold generally" below. Honor them.
 - If the model you're running as differs from the last row of `model-timeline.md`'s model-in-use table, add a row. If it's the same, do nothing there.
 - **Item AA has an unmerged branch waiting on you.** `git branch` shows `attacked-person` — a first-pass attempt (Sonnet 5) at the "mistake-maker" → "attacked person" rename described in item AA. Diff it against `main` and review before anything else touches those files.
-- **A separate, non-content task lives in `notes/production-checklist.md` → "mdBook Production & Formatting":** auditing the official Rust book (an mdBook build) for formatting/presentation conventions worth adopting. Not a content review task — mention it only if the author asks about production/formatting.
+- **A separate, non-content task lives in `notes/production-checklist.md` → "mdBook Production & Formatting":** auditing the official Rust book (an mdBook build) for formatting/presentation conventions worth adopting, plus a specific follow-on item auditing the book's six existing ASCII-art code blocks (author-flagged: bad for AI readers, not visually production-grade) for which should become real diagrams vs. plain Markdown. Not a content review task — mention it only if the author asks about production/formatting.
 
 ---
 
