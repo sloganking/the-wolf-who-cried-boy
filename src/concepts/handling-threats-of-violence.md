@@ -16,11 +16,13 @@ This page walks through the entire scenario: what to do, what to say, to whom, i
 
 A participant makes a mistake. It might be a boundary crossing, a miscommunication, an accidental touch—something covered by [the promise](./before-you-facilitate.md#the-promise). A good-faith error. The kind of thing that's supposed to be protected.
 
-Another participant reacts to that mistake with threats of violence. Death threats. Physical intimidation. "I'll kill you." Getting in their face. The kind of behavior that [must be stopped immediately](./when-things-go-wrong.md#threats-of-violence-must-be-stopped-immediately).
+Or there's no mistake at all. The story a [righteous predator's](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) filter produced has nothing underneath it — no boundary crossing, no accidental anything, just a certainty that formed and went looking for a target. This walkthrough calls the person on the receiving end **the attacked person**, on purpose, not "the mistake-maker" — because that's what's true in both versions. Sometimes they made a protected mistake and are being attacked for it anyway. Sometimes they did nothing at all and are being attacked for a story someone else built. Either way, they didn't do anything that warrants what's about to happen to them, and everything below applies the same regardless of which version you're in.
+
+Another participant reacts with threats of violence. Death threats. Physical intimidation. "I'll kill you." Getting in their face. The kind of behavior that [must be stopped immediately](./when-things-go-wrong.md#threats-of-violence-must-be-stopped-immediately).
 
 Now you have two problems:
 
-1. A person who made a mistake and is now in physical danger
+1. The attacked person, now in physical danger
 2. A person making death threats who needs to be removed
 
 And they're both in your room.
@@ -49,21 +51,21 @@ But here's the problem: if you tell someone who's making death threats that they
 
 **Safety comes before principle.**
 
-### Step 1: Remove the Mistake-Maker First
+### Step 1: Remove the Attacked Person First
 
 Not as punishment. As protection.
 
-Go to the person being threatened: "Hey, I need you to leave right now. Not because your mistake wasn't okay—it was. But I'm not confident you're safe here, and I need to get you out before I handle the situation. Go home. I'll be in touch."
+Go to the person being threatened: "Hey, I need you to leave right now. Not because you did something wrong — you didn't. But I'm not confident you're safe here, and I need to get you out before I handle the situation. Go home. I'll be in touch."
 
 Get them out. Make sure they're traveling, that they have a ride, that the violent person can't follow them.
 
 ### Step 2: Keep the Violent Person Contained
 
-While the mistake-maker is getting to safety, the violent person stays. Not because they're welcome—because removing them right now might trigger the very violence you're trying to prevent, and you need the potential victim out of range first.
+While the attacked person is getting to safety, the violent person stays. Not because they're welcome—because removing them right now might trigger the very violence you're trying to prevent, and you need the potential victim out of range first.
 
 ### Step 3: Remove the Violent Person
 
-Once the mistake-maker is safely away, you address the person who made threats:
+Once the attacked person is safely away, you address the person who made threats:
 
 "I can see you're in a lot of pain right now, and I take that seriously. AND threats of violence are outside the agreements of this container. You need to leave. We can talk about what happened after you've had time to come down, but right now, you cannot be here."
 
@@ -77,9 +79,9 @@ After both parties have left, you talk to everyone else. (See: [What to Say to t
 
 ## The Dangerous Gap
 
-Between Step 1 and Step 3, there's a window where the violent person is still in the room and the mistake-maker is the one who just left. This is the most turbulent moment.
+Between Step 1 and Step 3, there's a window where the violent person is still in the room and the attacked person is the one who just left. This is the most turbulent moment.
 
-People are watching. They saw you remove the person who made a mistake and _not_ the person making death threats. That looks like the opposite of what you promised.
+People are watching. They saw you remove the attacked person and _not_ the person making death threats. That looks like the opposite of what you promised.
 
 ### Pre-Frame Emergency Protocols
 
@@ -93,7 +95,7 @@ That's not dodging. That's acknowledging their concern while keeping the operati
 
 ### Don't Do This Alone
 
-This is where your [first officer](./walking-your-talk.md#your-first-officer) is critical. One person escorts the mistake-maker to safety. The other stays with the group and the violent person. Trying to manage both solo creates gaps where things can go very wrong—the violent person is unsupervised, or the crowd is unmanaged, or the mistake-maker is alone and vulnerable.
+This is where your [first officer](./walking-your-talk.md#your-first-officer) is critical. One person escorts the attacked person to safety. The other stays with the group and the violent person. Trying to manage both solo creates gaps where things can go very wrong—the violent person is unsupervised, or the crowd is unmanaged, or the attacked person is alone and vulnerable.
 
 If you're facilitating without a co-facilitator and this happens, you're in a genuinely difficult spot. Do the best you can with what you have—but this is exactly why having a trusted second is worth the investment.
 
@@ -103,9 +105,9 @@ And a second pair of hands only helps if at least one person in the room knows t
 
 ## What NOT to Do
 
-### Don't Remove the Mistake-Maker and Keep the Violent Person
+### Don't Remove the Attacked Person and Keep the Violent Person
 
-Short of doing nothing and letting the situation escalate to actual violence, this is the single worst way to handle it. The mistake-maker is gone, the violent person stays, and here's what everyone just learned:
+Short of doing nothing and letting the situation escalate to actual violence, this is the single worst way to handle it. The attacked person is gone, the violent person stays, and here's what everyone just learned:
 
 - Mistakes get you expelled
 - Death threats are tolerated
@@ -113,7 +115,7 @@ Short of doing nothing and letting the situation escalate to actual violence, th
 - The facilitator is afraid
 - [The promise](./before-you-facilitate.md#the-promise) (if they made one) was empty
 
-And now the container is dead. Not officially—you might still run the schedule, do the exercises, hold the sharing circles. But they're not real sharing circles anymore. Every share from that point forward is filtered through one question: _will this upset the person who makes death threats?_ Nobody is going to say their authentic feelings when they just watched the facilitators tolerate violence and remove the person who made a mistake instead. The angry person's story becomes the only safe story to agree with—"oh my god, that person was such a predator, thank god they're gone"—because no one is willing to stand up and say "this is bullshit" when standing up might make them the next target.
+And now the container is dead. Not officially—you might still run the schedule, do the exercises, hold the sharing circles. But they're not real sharing circles anymore. Every share from that point forward is filtered through one question: _will this upset the person who makes death threats?_ Nobody is going to say their authentic feelings when they just watched the facilitators tolerate violence and remove the attacked person instead. The angry person's story becomes the only safe story to agree with—"oh my god, that person was such a predator, thank god they're gone"—because no one is willing to stand up and say "this is bullshit" when standing up might make them the next target.
 
 If the violent person walked up to someone aggressively—got in their face, used their body to communicate "I will hurt you"—and the facilitators either did nothing or stepped in after the person was already in striking range, everyone saw something very specific: _if you disagree with the angry person, the facilitators won't stop them from hurting you._ They might deal with it after. They might retroactively address it. But they won't actually protect you in the moment it matters. And that's enough to silence every honest voice in the room.
 
@@ -133,7 +135,7 @@ Also fawning. Pretending death threats didn't happen because you're afraid of wh
 >
 > — _Secret Level, Season 1, Episode 1._
 
-Whether you do nothing or remove the wrong person, the underlying pattern is the same: you're avoiding confrontation with the threatening person because you're afraid of them. The mistake-maker is easier to handle, so they become the casualty. That's not facilitation. That's survival mode wearing a facilitator shirt.
+Whether you do nothing or remove the wrong person, the underlying pattern is the same: you're avoiding confrontation with the threatening person because you're afraid of them. The attacked person is easier to handle, so they become the casualty. That's not facilitation. That's survival mode wearing a facilitator shirt.
 
 ---
 
@@ -147,7 +149,9 @@ After they were safely away, I asked [Name/Person B] to leave because threats of
 
 [Person B] was clearly in a lot of pain. That pain is real. AND the way they expressed it crossed a line I can't allow in this space. Both of those things are true at the same time."
 
-This matters more than almost anything else you do. Without this communication, stories fill the vacuum. People assume the mistake-maker was a predator. They assume the violent person was justified. They assume the facilitator played favorites. You have to narrate what happened and why—clearly, impartially, without moralizing—so the container can make sense of it.
+If there was no mistake at all — the threat was provoked by a story with nothing behind it — the first line changes to name that plainly instead: "I've looked into what was said about [Person A]. It isn't accurate. They didn't do anything that violates our agreements." The rest of the script holds regardless of which version is true.
+
+This matters more than almost anything else you do. Without this communication, stories fill the vacuum. People assume the attacked person was a predator. They assume the violent person was justified. They assume the facilitator played favorites. You have to narrate what happened and why—clearly, impartially, without moralizing—so the container can make sense of it.
 
 ---
 
@@ -155,7 +159,7 @@ This matters more than almost anything else you do. Without this communication, 
 
 This is where actions communicate louder than any speech.
 
-**Refund the mistake-maker.** They had to leave an event they paid for—not because they broke the rules, but because an emergency made it unsafe for them to stay. Refunding them says: "What happened to you was not standard. Your mistake was protected, and I'm putting my money behind that."
+**Refund the attacked person.** They had to leave an event they paid for—not because they broke the rules, but because an emergency made it unsafe for them to stay. Refunding them says: "What happened to you was not standard, and I'm putting my money behind that."
 
 **Refund the violent person's partner** (or any innocent party connected to them who has to leave through no fault of their own). They didn't do anything wrong. They're collateral.
 
@@ -163,7 +167,7 @@ This is where actions communicate louder than any speech.
 
 ### Tell the Crowd
 
-This is a judgment call, but I lean toward transparency. Tell the group that the mistake-maker was refunded. Tell them the violent person was not.
+This is a judgment call, but I lean toward transparency. Tell the group that the attacked person was refunded. Tell them the violent person was not.
 
 Here's why: the refund and the transparency are both acts of [making it right](./repair.md). You asked someone to leave who didn't violate the agreements — that's a deviation from the promise, even if it was necessary for their safety. The refund acknowledges that. The transparency protects their reputation — because without it, every person in that room fills the vacuum with "they must have done something wrong if they had to leave." Telling the crowd openly that this person was protected, refunded, and removed only for their safety is how you stay in the spirit of the promise even when the emergency forced you outside the letter of it.
 
@@ -177,7 +181,7 @@ That's not just handling a crisis. That's teaching your container how crises sho
 
 The crisis itself is only the first half. What happens afterward determines whether the trust holds.
 
-### With the Mistake-Maker
+### With the Attacked Person
 
 Reach out the next day. Check in. "How are you doing? I wanted to make sure you're okay."
 
@@ -189,7 +193,7 @@ Then give them information:
 
 3. **Safety planning.** Does the violent person live in their area? Could they be found, harassed, or attacked outside the container? If you know where your participants live, flag this risk proactively. If the violent person is local to them, they may need to take steps: being cautious about sharing their address in community spaces, being aware that the violent person might try to damage their reputation locally.
 
-4. **Notification about future attendance.** If the violent person is eventually allowed back into your events, let the mistake-maker know. Give them the tools to keep themselves safe — like being able to check with facilitators before registering whether that person will be attending. The mistake-maker taking responsibility for checking is also [100% control](../tools/100-percent-control.md) in action.
+4. **Notification about future attendance.** If the violent person is eventually allowed back into your events, let the attacked person know. Give them the tools to keep themselves safe — like being able to check with facilitators before registering whether that person will be attending. The attacked person taking responsibility for checking is also [100% control](../tools/100-percent-control.md) in action.
 
 ### With the Violent Person
 
@@ -253,7 +257,7 @@ Here's how it happens in practice:
 
 ## When Staff Make the Mistake
 
-Everything above still applies when the mistake-maker is a staff member or assistant. Mistakes are protected regardless of role. Staff are human. It happens.
+Everything above still applies when the attacked person is a staff member or assistant. Mistakes are protected regardless of role. Staff are human. It happens.
 
 But staff carry additional responsibility. They're in a position of trust, and there's often a power differential between staff and participants. A participant's mistake and a staff member's identical mistake land differently—not because the action is different, but because the context is.
 
@@ -283,7 +287,7 @@ After both parties have left and you've addressed the crowd, the container needs
 
 People are shaken. They saw something intense. Even if you handled everything well, the energy is disrupted. Some people might be scared. Some might be questioning whether _they're_ safe. Some might be processing their own trauma responses.
 
-And every person in the room is seeing what happened through their own [filters](./trauma-and-filters.md). Some will be in a story that the mistake-maker was a predator and the violent person was a hero. Some will think the violent person was an asshole and the mistake-maker was the real victim who didn't deserve any of what happened to them. Some will have opinions about the decisions you made as a facilitator. Most people have not done the work to see clearly — they haven't examined their own stories, and they don't yet realize that you should ["never assume malice, where belief will do."](./before-you-judge.md#witch-hunts-never-ended) You're not going to change fifty people's filters in one conversation, and you don't have to.
+And every person in the room is seeing what happened through their own [filters](./trauma-and-filters.md). Some will be in a story that the attacked person was a predator and the violent person was a hero. Some will think the violent person was an asshole and the attacked person was the real victim who didn't deserve any of what happened to them. Some will have opinions about the decisions you made as a facilitator. Most people have not done the work to see clearly — they haven't examined their own stories, and they don't yet realize that you should ["never assume malice, where belief will do."](./before-you-judge.md#witch-hunts-never-ended) You're not going to change fifty people's filters in one conversation, and you don't have to.
 
 What you can do is be transparent. Your communication — the explanation, the refund disclosure, the re-entry policy — is itself a form of aftercare. It gives people a framework to understand what happened, which is far better than leaving them to construct their own stories.
 

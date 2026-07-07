@@ -88,11 +88,11 @@ When the wrongdoer won't take responsibility, the advice is still four bullets: 
 
 ---
 
-### 8. MODERATE — Follow-up with mistake-maker gives information, doesn't ask what they need — STILL OPEN
+### 8. MODERATE — Follow-up with the attacked person gives information, doesn't ask what they need — STILL OPEN
 
 **File:** `handling-threats-of-violence.md`, lines 176-188
 
-Still all information-giving: (1) you're welcome back, (2) here's how we're handling them, (3) safety planning, (4) future attendance notification. All facilitator → mistake-maker. Never asks: what do you need? What repair would make you feel whole? What do you want from us? The mistake-maker was the victim of death threats and the follow-up treats them as someone to be informed, not someone whose demands should be heard.
+Still all information-giving: (1) you're welcome back, (2) here's how we're handling them, (3) safety planning, (4) future attendance notification. All facilitator → attacked person. Never asks: what do you need? What repair would make you feel whole? What do you want from us? The attacked person was the victim of death threats and the follow-up treats them as someone to be informed, not someone whose demands should be heard.
 
 **Fix:** Add "ask them what they need" to the follow-up protocol.
 

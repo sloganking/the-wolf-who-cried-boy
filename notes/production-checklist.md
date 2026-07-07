@@ -4,7 +4,7 @@ Tracked issues to resolve before the book is ready for release.
 
 ## Before Publishing — The Three Things
 
-1. **Advocacy Gap** — Mostly resolved. 7 of 13 gaps fixed (all 4 MAJORs done). Remaining: 4 MODERATE paragraph-level additions (#6 severity underestimation, #7 passive repair advice, #8 ask mistake-maker what they need, #10 own-your-part demand complement) and 3 MINOR sentence-level additions. A few hours of work. Full breakdown: [advocacy-gap.md](./advocacy-gap.md).
+1. **Advocacy Gap** — Mostly resolved. 7 of 13 gaps fixed (all 4 MAJORs done). Remaining: 4 MODERATE paragraph-level additions (#6 severity underestimation, #7 passive repair advice, #8 ask the attacked person what they need, #10 own-your-part demand complement) and 3 MINOR sentence-level additions. A few hours of work. Full breakdown: [advocacy-gap.md](./advocacy-gap.md).
 
 2. **Tightening Pass** — Cut 15-20% from the longest pages (`i-made-a-mistake.md`, `before-you-facilitate.md`, `walking-your-talk.md`, `responsibility.md`, `fawning.md`). Reduce repetition (Inquisitor example, "cry victim" restatements, popcorn metaphor re-explanations). Reader fatigue is the main risk.
 
