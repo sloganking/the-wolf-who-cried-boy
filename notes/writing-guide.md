@@ -335,3 +335,26 @@ Therapists can be mentioned as a tool — a small tool for specific, narrow prob
 Real catches — sentences that failed a rule above and what they became — are logged in `writing-guide-catches.md`. Read it alongside this guide to calibrate: the rules say what to do, the catches show where it actually breaks. Every new catch gets appended there.
 
 ---
+
+## The Fresh-Reader Test (Co-Author Tool)
+
+The author's idea (2026-07-08): the writer — human or AI — can't simulate not knowing what a passage means, and can't unknow its domain vocabulary. A small, cheap model reading the passage cold has neither problem, which makes it a better proxy for the target reader than any re-read by the writer.
+
+**Protocol:**
+
+1. Spawn the smallest cheap model available as a subagent (first runs used Claude Haiku 4.5; ~30k tokens per run). Give it NO context about intent, drafting history, or what the passage is "supposed" to say.
+2. Have it read the passage cold and report **comprehension only** — explicitly forbid rewrites and style opinions:
+   - Sentences it had to read twice (quoted, with where it stalled)
+   - Terms it couldn't define in plain language from the text alone
+   - A one-sentence summary per subsection ("unsure" is a valid answer)
+   - Sentences where the words were clear but the point wasn't
+3. **Triage the flags — the test reports, it doesn't rule:**
+   - Flags on the book's own established vocabulary ("filed," "container," "the promise") are usually false positives — the cold reader lacks the earlier chapters that defined them.
+   - Flags on undefined domain terms, sentences doing several jobs at once, and abstract idioms are usually real.
+4. Accurate subsection summaries are the pass signal: the passage communicates, even if individual flags remain.
+
+**When to run:** new or heavily revised passages, especially anything carrying domain vocabulary (legal, medical, technical) — the exact places where the writer's fluency hides the reader's confusion.
+
+**First runs (2026-07-08, the law-enforcement section):** caught "trespass" used but never defined, a nested clause burying the section's key insight, and an abstract idiom ("the floor, not the whole policy") — all invisible from inside, all confirmed by the author's own reading.
+
+---
