@@ -6,6 +6,12 @@ Append-only ledger of real sentences that failed a writing-guide rule and what t
 
 ---
 
+## [2026-07-08] Implicit universal about facilitators | `handling-threats-of-violence.md`
+
+- **Written:** "A facilitator has no enforcement mechanism beyond the container's own agreements."
+- **Rule broken:** Martian check — an implicit universal. True of a retreat with a facilitation team; false of an arena event with a security staff. The author's first instinct was to soften to "most/many facilitators" — but uncounted counts fail the same check. The guide's own fix applies: enumerate the cases.
+- **Became:** "If your event has security, they can walk someone to the door; when someone won't be walked, even security hands it to the police. A facilitation team without security just reaches that handoff sooner." — both cases named, unified by the author's insight that every enforcement ladder tops out at the same place; security only changes how many rungs you own.
+
 ## [2026-07-08] Oblique closer the reader must decode | `handling-threats-of-violence.md`
 
 - **Written:** "And a container everyone knows will never call, no matter what, has told its most dangerous member exactly how far things can go."
