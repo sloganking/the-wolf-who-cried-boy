@@ -284,7 +284,7 @@ From outside the story, the option is obvious. Inside the room, four separate me
 
 "Pressing charges" describes something that doesn't exist. Everywhere in the United States, the decision to charge a crime belongs to the prosecutor, not the victim. You don't file charges, and you can't drop them.
 
-What a call actually starts is an investigation the caller doesn't control. Officers assess what they find. That ends in a removal, an arrest, or a report on file. Then a prosecutor decides what happens next. An arrest is not a charge, and a charge is not a conviction. A prosecutor who can't prove a case doesn't bring it — and in a threats case, the threatened person's testimony can be most of the evidence, so declining to cooperate can end a case. It cannot be guaranteed to.
+What a call actually starts is an investigation the caller doesn't control. Officers assess what they find. That ends in a removal, an arrest, or a report on file. Then a prosecutor decides what happens next. An arrest is not a charge, and a charge is not a conviction. A prosecutor who can't prove a case doesn't bring it — and in a threats case, the threatened person's testimony can be most of the evidence, so declining to cooperate can end a case — *can*, not *will*. Whether it does is still the prosecutor's call.
 
 Hold that shape up against the two opposite fears that keep phones in pockets:
 
@@ -302,7 +302,7 @@ The trade-off deserves naming plainly: a police car arriving at a sex-positive e
 Behind that public commitment sit three facilitator duties:
 
 1. **Document.** [While it's fresh](./when-youve-been-wronged.md#document-what-actually-happened), including who was present — a threat made in front of a room full of witnesses is provable in a way a private one isn't.
-2. **Inform.** The threatened person decides, but they can't decide with a head full of television law. Tell them what's true: the prosecutor controls charging, calling is not convicting, and the removal call and the criminal report are different calls.
+2. **Inform.** The threatened person decides, but they can't decide with a head full of television law. Give them the real picture in plain words: *"come get this person off the property"* and *"I want to report a crime"* are two different phone calls — the first one doesn't start a case, it just ends the night. If they report, the police investigate, and a prosecutor — not the caller, not the officers — decides whether anyone gets charged. And making the call convicts no one: nothing about picking up the phone decides how far it goes.
 3. **Pressure in neither direction.** Pushing them to report is [rescuing](./why-helping-is-hard.md#dont-be-a-rescuer) — taking over a decision that belongs to them. Pushing them *not* to report, to protect the event or the community's reputation, is [protection going to the wrong person](./before-you-facilitate.md#when-protection-goes-to-the-wrong-person). Your job isn't to make the choice. It's to make sure the choice is real.
 
 The minimum version, for a container that formalizes nothing else: one sentence in the opening agreements — *"Threats of violence end your place here, and they may also be a police matter we will not shield you from"* — plus a facilitator who privately knows the difference between a removal call and a criminal report, and the local emergency and non-emergency numbers.
