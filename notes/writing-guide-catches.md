@@ -6,6 +6,25 @@ Append-only ledger of real sentences that failed a writing-guide rule and what t
 
 ---
 
+## [2026-07-08] Oblique closer the reader must decode | `handling-threats-of-violence.md`
+
+- **Written:** "And a container everyone knows will never call, no matter what, has told its most dangerous member exactly how far things can go."
+- **Rule broken:** not a named rule — a first-pass failure. The point (a container that never calls demonstrates that violence has no ceiling here) arrives only after the reader assembles an inference from "told... exactly how far things can go." The sentence performs the insight instead of delivering it. Author: "there's a way to 10x those words... the old one was ambiguous."
+- **Became:** "And a container that will never call, no matter what happens, is showing the most dangerous person in the room something true: however far they push, words are the only thing that will ever push back." — "showing" (the book's own walking-your-talk mechanism), and the consequence stated instead of gestured at.
+
+## [2026-07-08] Compressed abstraction out of voice | `handling-threats-of-violence.md`
+
+- **Written:** "The stance this book has held all along doesn't change here — it completes: internal handling for mistakes, external backstop for crimes. That's proportionality, applied to institutions."
+- **Rule broken:** voice. "It completes," the noun-pile parallel, and "institutions" are academic register — no human says this across a table, and the book's voice is a human talking (Author Voice & Personality). Author: "this doesn't sound like me... not clear what it's telling me."
+- **Became:** "None of this contradicts the stance this book has held all along — it's the same stance, reaching a different severity. Mistakes get repair, not punishment. Crimes get a response that matches their severity — and that response doesn't live inside the container."
+- **The test this adds:** would the author say the sentence out loud to a facilitator friend across a table? If it only works on paper, it's out of voice.
+
+## [2026-07-08] Uncounted absolute in a heading | `handling-threats-of-violence.md`
+
+- **Written:** "### Why Nobody Calls"
+- **Rule broken:** Martian check — "nobody" is a frequency claim nobody counted, and in a heading it paints a narrative about these communities. Author: "'nobody calls' is painting another narrative."
+- **Became:** "### Why People Don't Call" — describes the pattern without the count. Headings get the Martian check too.
+
 ## [2026-07-08] Metaphor word carried past its home sentence | `handling-threats-of-violence.md`
 
 - **Written:** "Located, they work the way the promise works everywhere else... Unlocated, the question gets asked for the first time..." — reusing the fire-exit metaphor's verb as the grammatical spine of the following sentences.
