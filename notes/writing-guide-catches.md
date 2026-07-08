@@ -6,6 +6,12 @@ Append-only ledger of real sentences that failed a writing-guide rule and what t
 
 ---
 
+## [2026-07-08] Legal jargon invisible to a fluent cold reader | `handling-threats-of-violence.md`
+
+- **Written:** "a guard is the property owner's agent, with the same legal powers as any other private person" (and in the checklist: "a guard is the property's agent, not an officer").
+- **Rule broken:** the plain-English standard the fresh-reader test exists to enforce — "agent" is a law word wearing an everyday word's clothes. The writer imported it straight from the legal sources. The author caught it; the cold reader that session did NOT — because that run used a mid-size fluent model, which understands legal register too well to stall on it. This is the protocol's own warning proven in the field: **being small is the feature.** A capable model is a bad proxy for the target reader.
+- **Became:** "a guard has exactly the powers everyone else has — the uniform adds nothing" / "a guard has exactly the powers you have." A re-run with the smallest available model then caught what the fluent one also missed: a double negative ("no power it doesn't give everyone else"), a sequence referenced but never named ("minus the middle step" — now "words, then hands, then police"), and a conclusion that jumped ("so agree beforehand" — now carries its reason: the line is a judgment call and mid-crisis is a bad time to draw it).
+
 ## [2026-07-08] Unverified legal claim echoed as fact | `handling-threats-of-violence.md`
 
 - **Written:** "reporting a crime, or calling 911 about danger, needs no property rights at all. Anyone can make those calls." — written into the Local-Law Checklist because the author assumed it and the AI co-author echoed it, with no source checked by either.

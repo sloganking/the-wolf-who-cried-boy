@@ -348,7 +348,7 @@ The author's idea (2026-07-08): the writer — human or AI — can't simulate no
 
 **Protocol:**
 
-1. Spawn the smallest cheap model available as a subagent (first runs used Claude Haiku 4.5; ~30k tokens per run). Give it NO context about intent, drafting history, or what the passage is "supposed" to say.
+1. Spawn the smallest cheap model available as a subagent (first runs used Claude Haiku 4.5; ~30k tokens per run). Give it NO context about intent, drafting history, or what the passage is "supposed" to say. **Small is a requirement, not a cost saving:** a mid-size fluent model run on 2026-07-08 passed "the property owner's agent" without a flag — it knows legal register too well to stall where the target reader stalls. The smallest available model then caught that plus a double negative and an unnamed sequence the fluent one also missed. If only a capable model is available, its silence is weak evidence; the author's own 10-year-old check has to carry more weight.
 2. Have it read the passage cold and report **comprehension only** — explicitly forbid rewrites and style opinions:
    - Sentences it had to read twice (quoted, with where it stalled)
    - Terms it couldn't define in plain language from the text alone
