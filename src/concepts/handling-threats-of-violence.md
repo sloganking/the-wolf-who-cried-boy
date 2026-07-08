@@ -69,6 +69,8 @@ Once the mistake-maker is safely away, you address the person who made threats:
 
 This isn't moralizing. You're not telling them they're a bad person. You're enforcing the agreement. And by offering to talk later, you're showing that you care about them while holding the boundary. That's the thing that might actually make them reflect—not being screamed at, not being shamed, but being held accountable by someone who clearly isn't enjoying it.
 
+And if the words don't move them — if they refuse to leave — you're not out of options. You're out of *social* options. That's [when the police become part of the plan](#the-fire-exits-where-the-police-fit).
+
 ### Step 4: Address the Crowd
 
 After both parties have left, you talk to everyone else. (See: [What to Say to the Crowd](#what-to-say-to-the-crowd).)
@@ -251,6 +253,77 @@ Here's how it happens in practice:
 
 ---
 
+## The Fire Exits: Where the Police Fit
+
+Everything in this walkthrough runs on one kind of power: social authority. The agreements, the promise, the removal script — they work because the people in the room agreed to be bound by them. That authority is real. It is also voluntary. It ends the moment someone stops caring about it.
+
+Step 3 ends with "you cannot be here." Everything after it assumes they walk out the door. Sometimes they don't.
+
+### When Someone Won't Leave
+
+A facilitator has no enforcement mechanism beyond the container's own agreements. If someone who made threats refuses to leave, repeating the script louder doesn't create one.
+
+What exists for exactly this situation is a phone call: *"Someone is refusing to leave my property."* That's not reporting a crime. It's not an accusation, a case, or a verdict on anyone's character. It's a removal — a trespass problem, the same call a restaurant makes at closing time. Once the person with lawful control of the space has told someone to leave, staying becomes the offense, and removing them becomes something police handle without anyone deciding anyone's guilt. What you lead with shapes the encounter but doesn't determine it: officers who arrive for a removal and find evidence of felony threats can act on that regardless of why they were called.
+
+And above the removal call sits the one threshold that isn't a judgment call at all: someone moving toward violence, not just threatening it. That call is 911, and the decision is already made — not by you, in the moment, reading the room, but before the event started. Law-enforcement thresholds are the fire exits of a container: located before the event, hopefully never used, known cold. A container that hasn't decided when it would call has decided, by default, that it never will. And a container that will never call, no matter what, has told its most dangerous member exactly how far things can go.
+
+The stance this book has held all along doesn't change here — it completes: internal handling for mistakes, external backstop for crimes. That's [proportionality](./appropriate-response.md), applied to institutions.
+
+### Why Nobody Calls
+
+Tell this story — death threats at a retreat, in front of witnesses — to someone who has never set foot in these spaces, and listen for the question that comes back: *why didn't anyone call the police?* The distance between that question and what happens in these rooms measures how deep the under-response norm runs.
+
+From outside the story, the option is obvious. Inside the room, four separate mechanisms hide it:
+
+- **The tool isn't filed.** People reach for the tools they're aware of. Someone who has never called the police for anything doesn't have "call the police" filed as an available action — and an option that isn't filed doesn't surface under pressure. It isn't rejected. It never comes up.
+- **The room's severity map is inverted.** Calling the police files someone as the danger in the room. If the crowd has organized around the story that the person making threats is [protecting everyone](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator), the call isn't refused — it's unthinkable. The one felony in the room has been filed as the rescue.
+- **The target's own filter buries it.** The person being threatened has just been publicly attacked in front of a room that seems to agree. Their filter doesn't file the legal system as a remedy — it files it under *more people who will misunderstand and attack me*. The book has already shown where that leads: [terrified of a legal system that was pointed at the person threatening them the whole time](./when-youve-been-wronged.md#know-where-the-law-actually-stands).
+- **The imagined machinery only comes in one size.** If the only legal frame anyone carries is the felony one — prison, a record, a life destroyed — then calling feels like firing the maximum weapon, and for anything short of the worst threat it registers as [over-response](./appropriate-response.md). What that frame misses is that the law is [graduated by severity](./severity.md#the-scale) too: a removal call is not a criminal report; a misdemeanor menacing case is not a felony criminal-threats case; and at the bottom of the scale, having someone escorted out involves no charge at all. The machinery scales with what officers actually find. Believing it only comes in one size is what keeps it unused at every size.
+
+### What a Call Actually Starts
+
+"Pressing charges" describes something that doesn't exist. Everywhere in the United States, the decision to charge a crime belongs to the prosecutor, not the victim. You don't file charges, and you can't drop them.
+
+What a call actually starts is an investigation the caller doesn't control. Officers assess what they find. That ends in a removal, an arrest, or a report on file. Then a prosecutor decides what happens next. An arrest is not a charge, and a charge is not a conviction. A prosecutor who can't prove a case doesn't bring it — and in a threats case, the threatened person's testimony can be most of the evidence, so declining to cooperate can end a case. It cannot be guaranteed to.
+
+Hold that shape up against the two opposite fears that keep phones in pockets:
+
+- *"If I call, their life is over."* Calling is not convicting. Between the call and any consequence stand an officer's assessment, a prosecutor's judgment, and a court's burden of proof — the same verification the mob skipped, [required by law this time](./when-youve-been-wronged.md#know-where-the-law-actually-stands).
+- *"I can call now and steer it later."* You're starting a process, not steering one. Which is exactly why the call deserves what this book asks of [every response](./severity.md#your-response-has-a-severity): know its severity before you choose it.
+
+For imminent danger, the call is defense — and defensive actions are always acceptable. After the fact, it's a choice. And that choice belongs to the person who was threatened — informed, and unpressured.
+
+### Deciding the Thresholds Before the Event
+
+The trade-off deserves naming plainly: a police car arriving at a sex-positive event is itself a container event. There's privacy and outing risk. There are attendees with rational reasons to fear police contact. There's the venue relationship, and in some places, questions about the event's own legal standing. Every one of those costs is real — and weighing them for the first time in the middle of a crisis is how the weighing never happens. That's the case for deciding the thresholds before the event, in the same breath as the promise:
+
+> "If anyone is in imminent physical danger, we call 911. That decision was made before tonight, and it will not be debated in the moment. Threats that don't involve imminent danger get documented immediately — and whether to report them is the threatened person's choice. We will support either choice."
+
+Behind that public commitment sit three facilitator duties:
+
+1. **Document.** [While it's fresh](./when-youve-been-wronged.md#document-what-actually-happened), including who was present — a threat made in front of a room full of witnesses is provable in a way a private one isn't.
+2. **Inform.** The threatened person decides, but they can't decide with a head full of television law. Tell them what's true: the prosecutor controls charging, calling is not convicting, and the removal call and the criminal report are different calls.
+3. **Pressure in neither direction.** Pushing them to report is [rescuing](./why-helping-is-hard.md#dont-be-a-rescuer) — taking over a decision that belongs to them. Pushing them *not* to report, to protect the event or the community's reputation, is [protection going to the wrong person](./before-you-facilitate.md#when-protection-goes-to-the-wrong-person). Your job isn't to make the choice. It's to make sure the choice is real.
+
+The minimum version, for a container that formalizes nothing else: one sentence in the opening agreements — *"Threats of violence end your place here, and they may also be a police matter we will not shield you from"* — plus a facilitator who privately knows the difference between a removal call and a criminal report, and the local emergency and non-emergency numbers.
+
+### The Jurisdiction Checklist
+
+You are not going to research law during a crisis. Before you host — especially somewhere new — find these answers the way you'd locate the fire exits:
+
+1. **What the threat crime is called** where you're hosting — criminal threats, terroristic threats, menacing, intimidation — whether it's a felony or a misdemeanor there, and what the lesser tier covers.
+2. **The emergency and non-emergency numbers** for the venue's location, and the realistic response time. A rural retreat is not a city hotel.
+3. **Trespass law** — what it takes to have someone removed from the property, and *who has standing to ask*. If you don't own the venue, your venue agreement decides whether that's you or the owner. Find out before the event, not during it.
+4. **Mandatory-arrest provisions** — some jurisdictions remove officer discretion in certain situations (most commonly domestic-violence contexts). Where they apply, arriving police may be required to arrest someone.
+5. **Protective and restraining orders** — what emergency versions exist, and how fast they actually move.
+6. **Who controls charging.** In the United States: the prosecutor, everywhere. The "pressing charges" of television doesn't exist.
+7. **Recording-consent law** — documentation can include recordings, and consent rules vary: some states require one party's consent, others everyone's (California requires all parties' consent for confidential conversations).
+8. **For international events:** the local law on threats, how local police relate to an event like yours, and the event's own legal standing in that country. All three vary more than anything else on this list.
+
+None of this makes you a lawyer, and none of it is legal advice. It's the same move as [knowing where the law actually stands](./when-youve-been-wronged.md#know-where-the-law-actually-stands) before fear answers for you — applied to the container instead of yourself. Find out where the exits are while the building is quiet.
+
+---
+
 ## When Staff Make the Mistake
 
 Everything above still applies when the mistake-maker is a staff member or assistant. Mistakes are protected regardless of role. Staff are human. It happens.
@@ -302,4 +375,5 @@ This is a genuinely painful situation. Even handled perfectly, it's disruptive. 
 - [Before You Facilitate](./before-you-facilitate.md) — The promise, the first officer, pre-framing
 - [Fawning](./fawning.md) — What you're doing when you appease instead of act
 - [Repair](./repair.md) — The repair framework referenced for re-entry
+- [When You've Been Wronged](./when-youve-been-wronged.md) — Documentation, and knowing where the law actually stands
 - [Walking Your Talk](./walking-your-talk.md) — When your actions match your values

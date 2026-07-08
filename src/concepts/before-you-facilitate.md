@@ -470,7 +470,7 @@ This should be communicated at the very beginning of your container — not afte
 >
 > If you cross these lines, I cannot guarantee your place here.
 >
-> **One exception:** In rare cases, I may need to ask someone to leave—or to step out temporarily—for emergency safety reasons, even if they haven't broken these rules. This isn't punishment; it's protection. If I ever need to do this, I'll explain why, and it won't affect your standing in future events. This exception exists for genuine emergencies—not as a loophole for arbitrary removal.
+> **One exception:** In rare cases, I may need to ask someone to leave—or to step out temporarily—for emergency safety reasons, even if they haven't broken these rules. This isn't punishment; it's protection. If I ever need to do this, I'll explain why, and it won't affect your standing in future events. This exception exists for genuine emergencies—not as a loophole for arbitrary removal. And its most extreme version is already decided: if anyone is ever in imminent physical danger, we call 911—that decision was made before this container started, not in the moment.
 >
 > **One more thing:** If something goes wrong—if someone crosses a boundary—you have every right to strong emotions. You have every right to remove yourself, protect yourself, and report to us. These are defensive actions and they're always acceptable.
 >

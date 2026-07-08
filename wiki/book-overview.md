@@ -79,7 +79,7 @@ When something goes wrong, ask:
 - **Walking Your Talk** — People learn what you do, emotional contagion, "It's All Risky" (the facilitator risk calculus: no risk-free option, Rohn's "bill for not trying," anger gets routed not avoided), First Officer (incl. "When Your Last Call Was Wrong": whose input to weight, leading after a failed call), protect top vulnerability
 - **When Things Go Wrong** — Dignity 24/7, emotional mirroring, emergency exception, de-escalation
 - **Guiding Public Repair** — Context first, real vs fake repair, three sentences then leave
-- **Handling Threats of Violence** — Order of operations, dangerous gap, re-entry policy
+- **Handling Threats of Violence** — Order of operations, dangerous gap, re-entry policy, "The Fire Exits" (law-enforcement backstop: trespass call vs criminal report, why nobody calls, press-charges myth, pre-decided thresholds, jurisdiction checklist)
 
 ### Part 9: The Point of Sight
 - **Harmless Is Not Peaceful** → [[harmless-is-not-peaceful]], two failure modes (no sword / no sheath), the integration
