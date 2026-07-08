@@ -6,6 +6,12 @@ Append-only ledger of real sentences that failed a writing-guide rule and what t
 
 ---
 
+## [2026-07-08] Unverified legal claim echoed as fact | `handling-threats-of-violence.md`
+
+- **Written:** "reporting a crime, or calling 911 about danger, needs no property rights at all. Anyone can make those calls." — written into the Local-Law Checklist because the author assumed it and the AI co-author echoed it, with no source checked by either.
+- **Rule broken:** Stand on Ground You Actually Hold, applied to facts. An echoed assumption is borrowed authority even when the borrowing is from the author himself — the co-author's job was verification, and agreement isn't verification. Author's catch: "I assumed this was true, so I said it. You seem to be repeating my words."
+- **Became:** the sentence survived — verification confirmed it (anyone can report: victims, witnesses, third parties). What changed is the process: legal claims now get researched before they ship, and every researched question + answer + sources goes in `notes/legal-references.md`, which also lists the book's pre-existing legal claims still awaiting a verification pass.
+
 ## [2026-07-08] Implicit universal about facilitators | `handling-threats-of-violence.md`
 
 - **Written:** "A facilitator has no enforcement mechanism beyond the container's own agreements."

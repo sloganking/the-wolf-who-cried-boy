@@ -1,7 +1,7 @@
 ---
 title: Wiki Log
 tags: [meta]
-updated: 2026-07-05
+updated: 2026-07-08
 ---
 
 # Wiki Log
@@ -9,6 +9,10 @@ updated: 2026-07-05
 Append-only record of wiki changes. Each entry starts with a consistent prefix for parseability.
 
 ---
+
+## [2026-07-08] add | Security's legal authority verified + `notes/legal-references.md` created; Fire Exits section refined
+
+**Book change (continuation of the 2026-07-08 Fire Exits review session).** Author challenged two things: (1) "walk someone to the door" understated what security can legally do — replaced with the verified picture in "When Someone Won't Leave": escorting someone off the property with **reasonable, non-deadly force** after a refused request to leave is general American law (common-law ejection doctrine; CALCRIM 3475 as the CA example), proportionate to resistance, ending the moment they're out — and a guard is the property owner's **agent with the same legal powers as any private person** ("the uniform adds nothing"), which is why professional security's own standard is calling police when a removal would take a real fight. Checklist item 3 gained the security-works-under-the-same-local-law line. (2) "Anyone can make those calls" had shipped unverified — the author's assumption echoed by the AI co-author. Verified true (anyone can report a crime: victims, witnesses, third parties) and logged as a new catch in `writing-guide-catches.md` (borrowed authority pointed at facts). **New infrastructure:** `notes/legal-references.md` — append-only ledger of every legal question researched for the book (question / answer / sources / date / where it lands); seeded with 8 verified entries covering all legal claims currently in the book (third-party reporting, trespass ejection force, security = private citizen, PC 422 wobbler, mens rea / accidental touch, prosecutorial charging, mandatory-arrest states, PC 632 all-party consent). Writing guide gained a "Legal Claims Get Verified First" section pointing to it. Fresh-reader test (per the new protocol) run on both edited passages: passage 2 passed clean; passage 1's "reaches that call sooner" flagged as compressed — rewritten to name the sequence plainly. `book-overview.md` Part 8 bullet updated.
 
 ## [2026-07-07] add | New writing-guide anti-pattern: "Don't Lead With the Verdict" (author-directed)
 

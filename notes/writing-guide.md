@@ -336,6 +336,12 @@ Real catches — sentences that failed a rule above and what they became — are
 
 ---
 
+## Legal Claims Get Verified First
+
+The book makes claims about law (trespass, criminal threats, who can report, prosecutorial charging). Every one of them gets researched before it ships — the author asserting it, or a co-author echoing the author's assumption, is not verification (that's borrowed authority pointed at facts). Every researched question and its answer, with sources and date, is recorded in `notes/legal-references.md`. Check that file before re-researching a question, and append to it every time law gets researched. Locale convention: general/US-wide answer first, California as the worked local example.
+
+---
+
 ## The Fresh-Reader Test (Co-Author Tool)
 
 The author's idea (2026-07-08): the writer — human or AI — can't simulate not knowing what a passage means, and can't unknow its domain vocabulary. A small, cheap model reading the passage cold has neither problem, which makes it a better proxy for the target reader than any re-read by the writer.
