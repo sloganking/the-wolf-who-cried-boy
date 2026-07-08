@@ -6,6 +6,12 @@ Append-only ledger of real sentences that failed a writing-guide rule and what t
 
 ---
 
+## [2026-07-07] Verdict-first framing | book pitch language (caught during the RPM book-description session)
+
+- **Written:** "human conflict dynamics and false accusations" as the standing answer to "what's the book about?" — and, earlier, an author outreach message that led with the same false-accusation framing (the distinction arrived after it was sent).
+- **Rule broken:** Don't Lead With the Verdict (this catch created the rule; the author supplied the mechanism: "if you say 'someone gave me false accusations,' people will ask inside 'is it false though?' Same problem as 'I was called a predator'"). "False" is a contested verdict a first-contact listener can't verify, so their first inner move is adjudication, not curiosity.
+- **Became:** verdict-free openers — "Most harm doesn't come from bad people; it comes from good people who can't see what they're doing," and the village-finds-a-wolf image. Events and mechanisms stated; the verdict left for the listener to reach.
+
 ## [2026-07-06] Arguable label on a person | `before-you-facilitate.md`
 
 - **Written:** "If you're sexually starved, you're a liability." (bolded section opener)

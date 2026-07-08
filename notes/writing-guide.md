@@ -257,6 +257,20 @@ This applies to:
 
 ---
 
+### Don't Lead With the Verdict
+
+When telling a story or pitching an idea, don't open with a framing that contains a contested verdict — "false accusations," "I was wrongly attacked," "they treated me unfairly." The verdict ("false," "wrongly," "unfairly") is exactly the thing a first-contact listener can't verify, so their mind switches from listening to adjudicating: *"is it false, though?"* You wanted curiosity; you convened a court — and judges withhold their sympathy until the trial is over.
+
+Sibling of Don't Repeat Fiction, one step earlier in the chain: that rule catches echoing someone else's label ("I was called a predator" plants *predator*); this one catches your own framing smuggling in a verdict the listener hasn't granted. One plants the word, the other convenes the trial.
+
+The fix is Show, Don't Tell applied to your own story: a stated verdict is telling; described events let the listener convict on the evidence. "Someone attacked my reputation and got people to believe their story" describes observable events — nothing to adjudicate, and the listener supplies "that's awful" without being asked. For the book itself: "Most harm doesn't come from bad people — it comes from good people who can't see what they're doing" opens with a mechanism, not a case to judge.
+
+Boundary: this governs openings and first contact — the pitch, the intro message, the answer to "what's your book about?" Deep inside a chapter, after the mechanisms have been shown and the ground built, naming a false accusation as false is earned — by then the reader isn't adjudicating, they're following.
+
+Real catches: the standing "what's the book about?" answer led with "false accusations" — replaced with the blindness-vs-malice and village-finds-a-wolf openers (2026-07-07, the catch that named this anti-pattern). The author had also led an earlier outreach message with the same framing; the distinction arrived after it was sent, which is why it's recorded here.
+
+---
+
 ### Don't Pre-Frame the Reception
 
 Don't tell the reader how they're about to receive something — "you're not going to like this," "this may sound harsh," "this is a lot to learn," "I know this is overwhelming." A forecast about someone's future inner state is a story — and delivering it right before the content installs it as the filter the content gets received through. It's the book's own pre-framing and install-labeling mechanics, aimed at the very next sentence.
@@ -311,6 +325,7 @@ Therapists can be mentioned as a tool — a small tool for specific, narrow prob
 - [ ] Language walks its own talk — no stories, no narrative frames, just inarguable descriptions of what happens
 - [ ] Passes the Martian check — no uncounted frequency claims ("most," "usually"), no verdict language ("the person you failed"), no claims about others' inner experience or motives stated as fact
 - [ ] No pre-framed reception — content isn't introduced with forecasts of how the reader will feel about it ("this is a lot," "you won't like this")
+- [ ] No verdict-first openings — first-contact framings ("false accusations," "wrongly attacked") don't ask the reader to adjudicate a contested verdict before curiosity exists; events described, verdict left to them
 - [ ] Every pointer word ("this person," "they," "that") binds to exactly one antecedent — if a competitor noun is in range, the referent is named again
 
 ---
