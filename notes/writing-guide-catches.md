@@ -6,6 +6,18 @@ Append-only ledger of real sentences that failed a writing-guide rule and what t
 
 ---
 
+## [2026-07-08] Metaphor word carried past its home sentence | `handling-threats-of-violence.md`
+
+- **Written:** "Located, they work the way the promise works everywhere else... Unlocated, the question gets asked for the first time..." — reusing the fire-exit metaphor's verb as the grammatical spine of the following sentences.
+- **Rule broken:** not a named rule yet — a clarity miss, sibling of the "charisma as a verb" catch. The metaphor earns its home sentence ("located before the event, hopefully never used, known cold"), but carrying its vocabulary forward makes the reader translate the metaphor instead of following the point — you don't "locate" a decision to call 911. Author: "locating the 911 doesn't really make sense completely in language."
+- **Became:** "Decided in advance, they work..." / "Left undecided, the question gets asked for the first time mid-crisis..." — plain words carry the parallel; the metaphor stays where it was made.
+
+## [2026-07-08] Verdict-flavored opposition | `handling-threats-of-violence.md`
+
+- **Written:** "the exact conditions that produce fawning instead of facilitating."
+- **Rule broken:** No Moralizing Language / Martian verdict language. "Fawning instead of facilitating" implies the fawning facilitator has stopped being a facilitator — a verdict about the person smuggled in as a contrast. (The existing heading "Warning Signs You're Fawning Instead of Facilitating" survives because it's the reader examining themselves in a diagnostic; pointed at a third-person facilitator mid-crisis, the same opposition reads as judgment.) Author: describe the pressure, not the failure — "conditions that make it easier for facilitators to fawn."
+- **Became:** "under exactly the pressures that make fawning easiest" — pressure acting on a person in a state; no claim about what they are or stopped being.
+
 ## [2026-07-07] Verdict-first framing | book pitch language (caught during the RPM book-description session)
 
 - **Written:** "human conflict dynamics and false accusations" as the standing answer to "what's the book about?" — and, earlier, an author outreach message that led with the same false-accusation framing (the distinction arrived after it was sent).
