@@ -41,4 +41,5 @@ By design. Stacking institutions and accolades reads as defending the price — 
 - The front cover carries the title + subtitle ("...why the most dangerous person in the room is the one trying to help"). The back-cover hook above echoes it on purpose — cohesive, not repetitive.
 - "Why good people cause the most harm" is the matching tagline / essay title — usable as a small line above this blurb if there's room, but the concrete "person in the room" hook is the stronger lead for the back cover.
 - Leave physical room for barcode, price, ISBN, publisher logo.
+- **Facilitator adoption line considered and left off (2026-07-08).** The "one specialist + an afternoon baseline" implementability answer (see `fable-review-plan.md` item Z) sells the book to facilitators — but the back cover is ~150 words aimed at the general reader, and a facilitator-specific line would narrow the hook. It lives instead in: the Gumroad "What you get" bullet (see `gumroad-description.md` open items), the Field Review Packet cover note (item F), and the personal pitch to facilitators. Revisit only if a facilitator-targeted print run ever exists.
 

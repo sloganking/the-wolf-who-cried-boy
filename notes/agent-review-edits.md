@@ -105,4 +105,4 @@ The path from "9 manual sales" to "scalable product." Vision: ebook + paperback 
 
 **Outsourcing (high leverage, low burn):** paperback interior formatting ≈ \$200–800 freelance (Reedsy/Upwork), or DIY-ish with Atticus (~\$150 one-time). Cover design ≈ \$100–500 (see `notes/cover-design.md`). Total launch outsourcing budget ≈ \$500–1,500. Rule: don't hire formatting until content freeze (step 3) — formatting before freeze = paying twice. Ask the aunt who publishes what she uses first.
 
-- [ ] **Laurie / retreat sales readiness** — the bar before the book is sold at ISTA-adjacent retreats: steps 3–4 above + "When the Accuser Is Right" section.
+- [ ] **Laurie / retreat sales readiness** — the bar before the book is sold at ISTA-adjacent retreats: steps 3–4 above + "When the Accuser Is Right" section. When pitching facilitators, lead with the adoption frame (fable-review-plan item Z): the incident system is a staffing decision, not a curriculum — one designated specialist, plus a team baseline that takes an afternoon and fits the setup day they already run. That's the answer to the question they'll actually be asking ("can I implement this?").
