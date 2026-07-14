@@ -133,9 +133,18 @@ Or you can make it the beginning — of more power, more clarity, more influence
 
 That's not recovery. That's an origin story. And it's yours to write.
 
-And somebody is going to write it. Every community eventually has the moment this book describes — the mistake, the accusation, the room turning, the rescue about to cause more harm than the thing it's rescuing anyone from. And in that moment, either somebody sees clearly or nobody does. Either somebody stands up, or the pattern runs unopposed.
+And somebody is going to write it. Every community eventually has the moment this book describes — the mistake, the accusation, the room turning, the rescue about to cause more harm than whatever it was rescuing anyone from. In that moment, either somebody sees clearly or nobody does. Either somebody stands up, or the pattern runs unopposed.
 
-Why not see how clearly you can learn to see? Why not see how many rooms you can hold steady? Why not see how many people you can walk through the thing that almost broke you? Why not see who you become on the other side of that?
+Jim Rohn used to put a question to his audiences. He was talking about money and skill and ambition — but the question is bigger than what he aimed it at.
+
+> **"Why not see what kind of person you can become? Why not see what kind of influence you can have?... My personal question to you is: why not you?"**  
+> — _[Jim Rohn](https://youtu.be/xeF7VUGTu6M?t=262)_
+
+He was asking a room full of people what they could earn. I'm asking you something harder.
+
+Why not see how clearly you can learn to see? Why not see how many rooms you can hold steady when everyone in them is certain and afraid? Why not see how many people you can walk through the thing that almost broke you? Why not see who you become on the other side of that?
+
+Somebody in your community is going to be the person who sees it coming. Somebody is going to catch the pattern before it costs a person everything.
 
 Why not you?
 
