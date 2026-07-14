@@ -6,6 +6,13 @@ Append-only ledger of real sentences that failed a writing-guide rule and what t
 
 ---
 
+## [2026-07-14] Quote whose key word binds to the wrong antecedent | `healing-fawning.md` → `i-made-a-mistake.md`
+
+- **Written:** the Alma Beats quote ("If it requires you to disappear, it's not love.") placed at the end of "Why This Works (When Therapy Often Doesn't)" — directly after the Airbnb story, which ends with the author leaving the relationship.
+- **Rule broken:** Name the Referent, applied to a quote's own vocabulary. "Disappear" in the quote means *erase yourself to be kept*. But the paragraph it landed on describes the author physically leaving — so a reader can bind "disappear" to *his* exit and read the line as a verdict against him: *he disappeared from her, so he wasn't loving her.* Author's catch: "someone in a different perspective could say I disappeared from her... it doesn't really fit where you put it." A quote is subject to the same binding test as the prose — check what the reader can attach its load-bearing word to in the surrounding paragraphs, not just what the word means in the song.
+- **Became:** moved to "Return to Community" (`i-made-a-mistake.md`), directly after the paragraph that already uses the word in the quote's own sense — "they're saying your presence is a problem, that you should want to disappear... That's exile dressed up as responsibility." The antecedent is now the exile demand, and only the exile demand.
+- **Also cut:** a gloss the co-author added under the quote ("A community that will only hold you if you erase yourself isn't holding you. It's holding the empty space where you used to be."). Second sentence was a paradox performing an insight the quote had already delivered — the recurring clever-closer failure. The quote lands harder with nothing after it.
+
 ## [2026-07-08] Negation planting the fear it denies | `handling-threats-of-violence.md`
 
 - **Written:** "This isn't scary. It's credible." — introducing the staff-mistakes pre-frame script. Nearby: "This isn't about making the staff member suffer."
