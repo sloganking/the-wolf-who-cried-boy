@@ -6,6 +6,13 @@ Append-only ledger of real sentences that failed a writing-guide rule and what t
 
 ---
 
+## [2026-07-14] The book's own defined term used in its popular sense | `i-made-a-mistake.md`
+
+- **Written:** "That's not a repair path. That's exile dressed up as responsibility." (Return to Community)
+- **Rule broken:** the Responsibility Triad (`responsibility.md`) defines three things the book exists to keep apart — **Responsibility** = seeing your causal part; **Accountability** = making repair for harm caused; **Punishment** = inflicting suffering. An exile demand isn't disguised as *seeing-your-part*. It's disguised as *the repair you owe*. So the sentence reached for the book's most carefully defined word in its loose popular sense — and did it in the one paragraph whose whole job is separating punishment from accountability. Author's catch: "Responsibility has a specific definition in this book."
+- **Became:** "That's exile dressed up as accountability." Also the sharper claim: the paragraph opens "This is self-punishment, not accountability" and now closes by naming the costume — punishment wearing accountability's clothes, which is precisely the confusion the triad was built to break.
+- **Pattern to watch:** a defined term in loose usage is worse than a wrong word, because it quietly un-defines itself. The popular sense is allowed only when *marked* as the popular sense — the very next paragraph does it correctly, holding "the responsible thing to do" in scare quotes and then correcting it. Terms carrying a book definition: responsibility, accountability, punishment, severity, repair, completion, over/under-response.
+
 ## [2026-07-14] Quote whose key word binds to the wrong antecedent | `healing-fawning.md` → `i-made-a-mistake.md`
 
 - **Written:** the Alma Beats quote ("If it requires you to disappear, it's not love.") placed at the end of "Why This Works (When Therapy Often Doesn't)" — directly after the Airbnb story, which ends with the author leaving the relationship.

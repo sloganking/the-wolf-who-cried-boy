@@ -196,7 +196,7 @@ Not recklessly. You shouldn't go back to parties without introspecting and figur
 
 I've heard people say that if they made a medium-severity mistake, they'd feel such shame that they'd stay out of community for a whole year before maybe coming back—if ever. I've heard that many people actually do this.
 
-**This is self-punishment, not accountability.** And if someone is *recommending* this to you — telling you that people like you should feel so ashamed they shouldn't want to show up — they're not holding you accountable. They're shaming you. They're saying your presence is a problem, that you should want to disappear, and that if you don't feel that way, something's wrong with you. That's not a repair path. That's exile dressed up as responsibility.
+**This is self-punishment, not accountability.** And if someone is *recommending* this to you — telling you that people like you should feel so ashamed they shouldn't want to show up — they're not holding you accountable. They're shaming you. They're saying your presence is a problem, that you should want to disappear, and that if you don't feel that way, something's wrong with you. That's not a repair path. That's exile dressed up as accountability.
 
 > **"If it requires you to disappear, it's not love."**  
 > — _Alma Beats, [🎵 "I Chose My Peace"](https://open.spotify.com/track/3fXN4i0Skn8IuskAr5qhNz)_
