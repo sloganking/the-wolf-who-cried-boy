@@ -133,6 +133,12 @@ Or you can make it the beginning — of more power, more clarity, more influence
 
 That's not recovery. That's an origin story. And it's yours to write.
 
+And somebody is going to write it. Every community eventually has the moment this book describes — the mistake, the accusation, the room turning, the rescue about to cause more harm than the thing it's rescuing anyone from. And in that moment, either somebody sees clearly or nobody does. Either somebody stands up, or the pattern runs unopposed.
+
+Why not see how clearly you can learn to see? Why not see how many rooms you can hold steady? Why not see how many people you can walk through the thing that almost broke you? Why not see who you become on the other side of that?
+
+Why not you?
+
 ---
 
 ## The Mirror
