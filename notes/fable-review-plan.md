@@ -319,6 +319,22 @@ Raised as a candidate gap in the same 2026-07-06 read, then evaluated against th
 
 ---
 
+### EE. Self-forgiveness as the gate to ownership (added 2026-07-12, author-originated mid-journey; author flagged it as book-candidate himself)
+
+**The claim, the author's words verbatim:** *"Until you have the capacity to forgive yourself for creating the outcome that you experienced, you will either consciously or subconsciously never take ownership of what occurred, and you'll always blame others, until you can forgive yourself for creating what happened."*
+
+**The full chain** (source record: `../RPM/journey-2026-07-12.md` §1 — private repo, quotes and context there):
+1. Forgiving yourself *for not having known how to handle the past* is itself an act of responsibility — it recognizes your causal power in reverse, and it simultaneously lets go ("brings peace").
+2. Why victimhood persists: people can't afford to admit they created it, because they couldn't forgive themselves if they did. Self-forgiveness is the *precondition* for ownership, not its reward.
+3. **Self-forgiveness is the answer to sin-sickness** — the sin-sick attack others with a double-edged sword; the cure runs inward first. Also connects to item W (Narrative Lock on Yourself): the self-lock and the inability to self-forgive may be the same structure described twice.
+4. The author's candidate self-explanation: reflexive self-forgiveness may be why he felt resentment (the 7 years, the sexual world) but never absorbed it into belief/spirit/action — *"maybe that's been my superpower."*
+
+**Also from the same session, related but distinct:** forgiveness as a *leadership* requirement — without profound forgiveness a leader enrolls others into his conflicts ("you can't be a leading masculine without profound forgiveness"); the "King who forgives" identity; the forgive-as-gift vs. debt-in-costume discriminator (would you be at peace with their no?). These may want the conclusion/king material (item P's Warrior-vs-King passage is adjacent) rather than a new chapter.
+
+**Status: OPEN — evaluation task first.** Check whether the book already holds any of this (sin-sickness sections, `repair.md`, responsibility material); the author suspects it's not there in this form. Decide placement (existing chapter deepening vs. new material) before drafting. Origin context: 0.5g journey, Jul 12, 2026 — re-verify the claims land for sober-author before writing.
+
+---
+
 ## Second-pass ideas (LOWER TIER than items A–P — smaller moves, do after the main list)
 
 These came from a later pass (2026-07-01 evening). Worth doing; not load-bearing like A–P.

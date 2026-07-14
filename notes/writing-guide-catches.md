@@ -6,6 +6,12 @@ Append-only ledger of real sentences that failed a writing-guide rule and what t
 
 ---
 
+## [2026-07-08] Negation planting the fear it denies | `handling-threats-of-violence.md`
+
+- **Written:** "This isn't scary. It's credible." — introducing the staff-mistakes pre-frame script. Nearby: "This isn't about making the staff member suffer."
+- **Rule broken:** Don't Repeat Fiction / Don't Pre-Frame the Reception. Author's catch: "This paragraph is pre-framing them to think it's scary." Denying "scary" one sentence after the script installs scary as the lens the script gets re-read through; "suffer" hangs suffering on an accountability measure no one had called suffering. The pattern to watch: any sentence shaped "this isn't X" where X is a fear-word the reader hadn't thought yet.
+- **Became:** "Said out loud, that buys credibility." / "The point is what it shows participants: when someone with more power makes a mistake, the response scales with the responsibility they carry." — the positive claim stated directly; no fear-word introduced. (These sentences predate the anti-pattern's 2026-07-05 naming — this catch is the older text being brought up to the rule.)
+
 ## [2026-07-08] Legal jargon invisible to a fluent cold reader | `handling-threats-of-violence.md`
 
 - **Written:** "a guard is the property owner's agent, with the same legal powers as any other private person" (and in the checklist: "a guard is the property's agent, not an officer").
