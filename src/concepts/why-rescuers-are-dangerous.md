@@ -145,20 +145,6 @@ This is why seeing through your blind spots isn't just self-improvement — it's
 
 For a practical tool to detect influence in real-time — whether from a selfish predator, a righteous one, or just someone whose fear is contagious — see [The Influence Firewall](../tools/influence-firewall.md).
 
-### The Cause Is the Casualty
-
-A righteous predator acts in the name of something they're protecting. The community. The children. The vulnerable. Their own family. That protected thing is what makes the harm feel justified — *I'm not doing this for me. I'm doing it for what I'm defending.*
-
-Watch what the act does to the thing it claims to defend.
-
-Someone threatens another person's life "to protect their family." The threat is the act with real consequences attached — [the kind the law actually punishes](./when-youve-been-wronged.md#know-where-the-law-actually-stands), the kind that can pull a parent out of a home for years and take the provision, the presence, everything the family runs on. The one danger in that room that could actually remove a parent from their children was the threat itself — not the person it was aimed at. Whatever danger they believed they stood between their family and, they were never it. They were it.
-
-It reaches further than that. The threat hands the person they attacked a weapon pointed straight at the family — because the person they threatened need only report it, a call that is theirs to make, and it's that call, not anything the family did, that would start pulling the parent away. So the person who was wronged, by holding back, becomes the one protecting the family. The threat arranged it so that justice against the person who made it falls on the people they claimed to defend.
-
-And it doesn't end when the room clears. The mistake that set the whole thing off was over in a moment. The readiness to detonate over the next one was not. Of everyone present, the one most able to cause that family permanent, unrecoverable harm was the person who stood up to protect it.
-
-The pattern isn't only pointed outward. When the thing being defended is the self — someone starving for touch, money, or standing, taking what the situation seems to owe them — the taking still costs them the thing they reached for. It confirms the scarcity. It pushes the belonging further away. Whatever gets named as the reason for the harm is what the harm comes for.
-
 ### "Think of the Children"
 
 Four words that have justified more harm than any predator ever caused.

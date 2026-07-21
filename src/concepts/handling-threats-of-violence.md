@@ -39,6 +39,8 @@ This doesn't mean you treat death threats casually. You never test whether a thr
 
 One more thing worth knowing: in many places, the threats are the crime in the room. In California, criminal threats (Penal Code 422) can be charged as a felony carrying prison time — while the accidental boundary crossing that triggered the outburst typically isn't a crime at all, because [criminal law requires intent](./when-youve-been-wronged.md#know-where-the-law-actually-stands). You don't need to invoke this in the moment. But know it: when you remove the person making threats and protect the person who made the mistake, you're not imposing a private morality on the room. You're enforcing the same severity ranking the law itself uses.
 
+Put those two facts side by side and the picture inverts. The threat isn't the thing standing between this person's family and some danger — the threat *is* the danger to that family. It's the one act in the room with the power to take them out of that family's life for years, and to take the provision, the presence, everything a home runs on, with it. Someone certain they were protecting the people they love became, in the same breath, the greatest risk to them. No one in that room was closer to destroying this person's family than this person was — and they couldn't see it, because they were looking outward for the threat the whole time.
+
 ---
 
 ## The Order of Operations
