@@ -259,7 +259,7 @@ Here's how it happens in practice:
 
 Everything in this walkthrough runs on one kind of power: social authority. The agreements, the promise, the removal script — they work because the people in the room agreed to be bound by them. That authority is real. It is also voluntary. It ends the moment someone stops caring about it.
 
-Step 3 ends with "you cannot be here." Everything after it assumes they walk out the door. Sometimes they don't.
+Step 3 — removing the violent person — ends with "you cannot be here." Everything after it assumes they walk out the door. Sometimes they don't.
 
 ### When Someone Won't Leave
 
