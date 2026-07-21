@@ -335,6 +335,34 @@ Raised as a candidate gap in the same 2026-07-06 read, then evaluated against th
 
 ---
 
+### FF. "The cause is the casualty" — the predator endangers what they invoke (added 2026-07-21, author-originated; author called it a possible pivotal beat)
+
+**The insight (author's, this session):** a righteous predator acts in the name of something they're protecting — and the act is what most endangers that thing. Worked example the author lived: a participant made death threats "in defense of" his family — and the threat is the act that could remove him from that family (prison, lost provision, lost presence). The one danger in the room that could actually take a parent from their children was the threat itself, not the person it targeted. Because the triggering mistake ended in a moment and the readiness to escalate did not, that person stays the standing risk to the very people invoked.
+
+**Two refinements the author caught:**
+1. **Not "always in someone else's name."** The righteous predator protects a *something* — often others (family, community, the children), but sometimes a distorted self (the blurry predator acting from starvation, "defending" his own dignity/safety). The recursion holds across the taxonomy: whatever is named as the thing being protected is the thing the act comes for. Self-case: the taking deepens the isolation/scarcity it was meant to relieve.
+2. **The wronged person becomes the instrument.** The crime turns lawful self-defense into the weapon against the predator's family — a report, entirely within the threatened person's rights, is what would start pulling the parent away. So the person wronged, by holding back, is the one protecting them; the predator arranged it so justice against him falls on the people he claimed to defend. (The author's live choice not to pursue is mercy aimed at the innocents, not fear of the predator: see `harmless-is-not-peaceful.md`, "declining to swing a weapon you know you hold.")
+
+**Deferred (author raised, agreed to leave out of the beat):** the deeper inversion — pursuing charges might force the predator to see the pattern and prevent a *larger* future harm to the family, making non-pursuit the "small slap now, big harm later" choice. True and unresolved; muddies a clean beat. Left as the reader's own reckoning, not stated.
+
+**Constraints honored (`.private-context` incident canon + no-names rule):** de-named and general; "the Righteous Predator," never bare "the Predator"; genderless (they/them); conditional family exactly as `handling-threats-of-violence.md` already does it once — no daughters, no witness count, no new incident facts. This is the acute/interpersonal version of "Think of the Children" (invoke a protected party → harm that party) and connects to "How to Tell If Urgency Is Real."
+
+**Optional first-person extension (author-exposure decision, his call):** tie to the author's own childhood — a parent who caused harm "in the name of good," in the child's name. It would collapse the arm's-length distance of the civilizational case studies onto someone who loved him, turning the recursion on the author's own family the way the book turns it on the author elsewhere. Permissible (his story, no third-party name needed). Test before including: does it teach the reader, or process the wound? Keep only the version that ends on the *pattern*, not on the father.
+
+**Status: DRAFTED on `law-enforcement` (2026-07-21).** New `###` subsection "The Cause Is the Casualty" placed after "The Selfish Predator's Best Tool," before "Think of the Children," in `why-rescuers-are-dangerous.md`. Preview + author review pending. Father extension NOT included — held for author's exposure call.
+
+---
+
+### GG. Define when a predator-word helps vs. harms — the "note on the word predator" gap (added 2026-07-21, author-raised)
+
+**The gap:** `types-of-mistakes.md`'s "A Note on the Word 'Predator'" nails when the label is *harmful* (a verdict that assigns worst intent, skips due process, replaces the person) but never states when a predator-word is *legitimate*. The book's own coinages — "righteous predator," "blurry predator," "selfish predator" — are diagnostic, not verdicts, and the chapter relies on the reader using them.
+
+**The distinction to add (one short passage):** the label harms when it's a *verdict that replaces the person* (bare "predator," pointed at an individual to justify punishment before verification); it helps when it's a *diagnosis that names intent and leaves room for recovery* (the archetypes — understood as patterns to watch for, oneself included). "Righteous predator" is the safe case precisely because it names the genuine protective intent — a person can say "I was a righteous predator" and survive it, which the bare label forecloses. Even in legitimate diagnostic use, the human behind it stays in view (author's nuance: pointing the archetype at a specific person is always more fraught than naming the pattern). Consistent with `why-rescuers-are-dangerous.md` ("Having the word changes what you can see, say, and survive").
+
+**Status: OPEN — not yet drafted.** Small, self-contained paragraph. Relatedly: author floated "the person who made a mistake" over "the mistake-maker" — note that item AA already chose "the attacked person" for a stronger reason (a righteous predator's filter can produce a threat with *no* mistake underneath, so any "mistake" phrasing presupposes fault); "the attacked person" is true in both cases. Don't relitigate AA here.
+
+---
+
 ## Second-pass ideas (LOWER TIER than items A–P — smaller moves, do after the main list)
 
 These came from a later pass (2026-07-01 evening). Worth doing; not load-bearing like A–P.
