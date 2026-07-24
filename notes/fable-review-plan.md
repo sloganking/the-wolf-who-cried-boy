@@ -418,6 +418,16 @@ Raised as a candidate gap in the same 2026-07-06 read, then evaluated against th
 
 ---
 
+### JJ. "Reputation hygiene" — name the discipline in the book + glossary candidate (added 2026-07-24, author-directed: "that should probably go in the book... and maybe in the glossary")
+
+**The term (author-adopted 2026-07-24):** **reputation hygiene** — the ongoing preventive practice of keeping one's record clean in reputationally dangerous territory: correcting records promptly, making precise asks instead of hoping, responding proportionally, never letting an accusation sit until it becomes the record. Hygiene, not crisis response — brushing teeth, not root canal.
+
+**Why it likely earns its place:** the book already *teaches* this discipline without naming it — "When It's Been Months" (an uncorrected story becomes the record), the advocacy gap (ask, don't hope), proportional response, the Context Rule. A name converts scattered instructions into a practice a reader can adopt and keep, and "hygiene" carries the exact load: preventive, routine, unglamorous, non-optional, and what festers is precisely what it would have cleaned. Candidate placements: (1) the record-correction / when-it's-been-months material, as the sentence that names what the reader has been learning; (2) a glossary entry (`book-terminology.md` / the book's glossary); (3) possibly the closing takeaway of the when-you've-been-wronged lane.
+
+**Guard:** the author's business uses this term commercially (author-side ledger: RPM `laurie-container-message-draft.md` → the business-case section). The book's definition stays clean of commerce — the term must read as a discipline anyone can practice, not a service on sale. Assess with the usual 7x gate.
+
+---
+
 ## Second-pass ideas (LOWER TIER than items A–P — smaller moves, do after the main list)
 
 These came from a later pass (2026-07-01 evening). Worth doing; not load-bearing like A–P.
