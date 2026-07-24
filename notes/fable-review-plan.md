@@ -388,6 +388,24 @@ Raised as a candidate gap in the same 2026-07-06 read, then evaluated against th
 
 ---
 
+### II. Post-incident support practitioners — aftercare as an industry standard (added 2026-07-24, author-originated from the phone desk; assess 7x+, example-first)
+
+**The idea (author's, 2026-07-24):** containers and retreats in this field should have dedicated **post-incident emotional-support practitioners** — aftercare/crisis specialists available when the work harms someone emotionally, trained for the injuries *native to this field*: going along with something while fawning, not saying no in the moment, feeling violated afterward, being in the room for a public blow-up. Present it example-first: the author's own incident is the motivating case — a container full of shaken participants after public screaming and an inverted accusation, and no support structure of any kind; everyone, most of all the most-harmed person, left to metabolize alone.
+
+**Design elements (author's, same session):**
+1. **Specialized, not generic** — practitioners for this class of injury, not general talk therapy.
+2. **Third-party by design** — hired from outside the organization, so the support is never the org protecting itself (the failure mode to design against: the in-house counselor whose job quietly becomes convincing the hurt person they weren't harmed).
+3. **The economics are trivial** — raise the ticket $100–200/person and it's funded; the "how could we afford that" objection dies on arithmetic.
+4. **Tiered response** — group processing for the whole container after a public event; individual support for the directly harmed. Open design question: does the person who *committed* the harm receive support too, including when the acts were criminal-level?
+5. **Lived-experience requirement** — the counselors must have attended such containers themselves, ideally know boundary-crossing from the inside. You can't counsel an experience you've never had.
+6. **Industry side effect** — creates well-paid roles for skilled, underpaid practitioners; the author's larger observation: the industry is full of unsolved problems, and problems are opportunity.
+
+**Why it likely clears the bar:** this is the systems-change family the book already runs — Protected Reporting, the designated incident specialist (item Z), the Repair Wall (HH) — and aftercare is the missing member: Z covers *competence during* the incident, HH covers the *culture after repair*, this covers the *harm in between*. "I could see this becoming the industry standard" is the claim the passage would make, and the book's authority to make it is that it documents exactly what the absence cost. Candidate home: `before-you-facilitate.md` systems material, adjacent to item Z.
+
+**Status: OPEN — not yet drafted; gate on the 7x+ assessment with the incident example leading.** Author-side ledger: the same idea is recorded for his own future containers in `../RPM/school-vision.md` §6 and pointed from `../RPM/capture.md` #32.
+
+---
+
 ## Second-pass ideas (LOWER TIER than items A–P — smaller moves, do after the main list)
 
 These came from a later pass (2026-07-01 evening). Worth doing; not load-bearing like A–P.
