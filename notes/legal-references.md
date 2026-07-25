@@ -57,7 +57,7 @@ Conventions: general/US-wide answer first, then California as the worked local e
 
 - Verified: 2026-07-08
 - Sources: [Cornell LII — prosecutorial discretion](https://www.law.cornell.edu/wex/prosecutorial_discretion); [NC Judicial Branch — crime victims FAQ](https://www.nccourts.gov/help-topics/criminal-law/crime-victims); [Rose Legal Services — can a victim drop charges](https://www.roselegalservices.com/can-a-victim-drop-charges/)
-- In the book: `handling-threats-of-violence.md` → "What a Call Actually Starts", Local-Law Checklist item 6
+- In the book: `handling-threats-of-violence.md` → "What Calling the Police Actually Starts", Local-Law Checklist item 6
 
 ## Q: Is prosecutor-controls-charging true for small crimes too — or do victims of minor crimes have to pay/push to get anything done? (Author's hearsay check, 2026-07-08)
 
@@ -65,7 +65,7 @@ Conventions: general/US-wide answer first, then California as the worked local e
 
 - Verified: 2026-07-08
 - Sources: [Michigan PAAM victim-rights FAQ](https://michiganprosecutor.org/training-units/victim-rights/faq/); [FindLaw — what if police won't investigate](https://www.findlaw.com/legalblogs/criminal-defense/what-if-the-police-wont-investigate-my-case/); [Honolulu Civil Beat — misdemeanor cases closed without review](https://civilbeat.org/2023/09/honolulu-crime-why-some-misdemeanor-cases-are-closed-without-review/); [LegalClarity — when police won't help](https://legalclarity.org/what-to-do-when-the-police-wont-help-you/)
-- In the book: `handling-threats-of-violence.md` → "What a Call Actually Starts" (new paragraph: the checkpoints filter in both directions; below the serious tier there is no case without the reporter)
+- In the book: `handling-threats-of-violence.md` → "What Calling the Police Actually Starts" (new paragraph: the checkpoints filter in both directions; below the serious tier there is no case without the reporter)
 
 ## Q: Do mandatory-arrest rules exist, most commonly for domestic violence?
 
