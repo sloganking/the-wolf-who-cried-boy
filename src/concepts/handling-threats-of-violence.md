@@ -298,7 +298,7 @@ Hold that picture — something you start but don't steer, that moves only as fa
 - *"If I call, their life is over."* Calling is not convicting. Between the call and any consequence stand an officer's assessment, a prosecutor's judgment, and a court that requires proof — the same verification the mob skipped, [required by law this time](./when-youve-been-wronged.md#know-where-the-law-actually-stands).
 - *"I can call now and steer it later."* You're starting a process, not steering one — the only moment you fully control is the moment before you dial. Which is exactly why the call deserves what this book asks of [every response](./severity.md#your-response-has-a-severity): know its severity before you choose it.
 
-For imminent danger, the call is defense — and defensive actions are always acceptable. After the fact, it's a choice. And that choice belongs to the person who was threatened — informed, and unpressured.
+For imminent danger, the call is defense — and defensive actions are always acceptable. After the fact, it's a choice — and not only the threatened person's. Anyone who witnessed a crime can report it: a facilitator, a staff member, a participant who watched it happen from across the room. No one needs permission to report what they saw, and their reasons can be their own. What none of them gets is the threatened person's decision — filing that person's account for them, or pushing them to take part, spends something that costs them and not you. That choice stays theirs, informed and unpressured.
 
 ### Deciding the Thresholds Before the Event
 
