@@ -83,6 +83,14 @@ Conventions: general/US-wide answer first, then California as the worked local e
 - Sources: [Cal. Penal Code § 632 analysis](https://rubinlawpc.com/criminal-laws/penal-codes/632-pc/); [Flanagan v. Flanagan (Justia)](https://law.justia.com/cases/california/supreme-court/4th/27/766.html); [Digital Media Law Project — California recording law](https://www.dmlp.org/legal-guide/california-recording-law)
 - In the book: `handling-threats-of-violence.md` → Local-Law Checklist item 7
 
+## Q: If the threatened person won't participate but other people witnessed the threat, does the case die? Does it only take one person? (Author's question, 2026-07-22)
+
+**A: No, it doesn't automatically die — and no, the threatened person's silence is not a veto.** Three separate findings. (1) **Anyone who heard it can testify.** A threats case can proceed on third-party witnesses, recordings, or texts; the threatened person's refusal weakens a case but doesn't end it as a matter of law. (2) **But one element lives inside the threatened person.** PC 422 requires that the threat actually placed them in *sustained fear* for their own or their family's safety — a subjective element. Courts hold this "may be proved with circumstantial evidence" and "inferred from the circumstances in which a crime is committed": what witnesses saw them do (fleeing, barricading, installing security, changing habits), plus their knowledge of the person's prior conduct. So it's provable without them, just harder. ("Sustained" is a low bar in practice — courts have found even very short durations sufficient where the person believed they were about to die.) (3) **Declining to participate isn't fully the threatened person's choice.** A prosecutor who needs the testimony can subpoena them — a court order, not a request; non-appearance can draw contempt or an arrest warrant. Prosecutors often *choose* not to compel a hostile or terrified witness, but the power exists. Net for the book: reporting is the threatened person's choice; what happens after is not, and one other witness is enough to start it.
+
+- Verified: 2026-07-22
+- Sources: [Shouse Law — PC 422 elements](https://www.shouselaw.com/ca/defense/penal-code/422/); [SDAP research memo — criminal threats elements & sustained fear (PDF)](https://sdap.org/wp-content/uploads/downloads/research/criminal/threats.pdf); [The Bulldog Law — witness/victim refuses to testify in California](https://www.thebulldog.law/what-happens-if-a-victim-or-witness-refuses-to-testify); [LegalClarity — does the victim have to go to court](https://legalclarity.org/does-the-victim-have-to-go-to-court-in-a-criminal-case/); [Nolo/CriminalDefenseLawyer — prosecution when the victim won't testify](https://www.criminaldefenselawyer.com/resources/can-someone-be-prosecuted-domestic-violence-even-if-v)
+- In the book: `handling-threats-of-violence.md` → "What Calling the Police Actually Starts"
+
 ---
 
 ## Standing claims not yet verified in this file
