@@ -304,7 +304,7 @@ For imminent danger, the call is defense — and defensive actions are always ac
 
 The trade-off deserves naming plainly: a police car arriving at a sex-positive event is itself a container event. There's privacy and outing risk. There are attendees with rational reasons to fear police contact. There's the venue relationship, and in some places, questions about whether the event itself is on solid legal ground. Every one of those costs is real — and weighing them for the first time in the middle of a crisis is how the weighing never happens. That's the case for deciding the thresholds before the event, in the same breath as the promise:
 
-> "If anyone is in imminent physical danger, we call 911. That decision was made before tonight, and it will not be debated in the moment. Threats that don't involve imminent danger get documented immediately. We will not report on someone's behalf without their say — and we will not stand in the way of anyone who decides to report what they saw. Either way, you have our support."
+> "If anyone is in imminent physical danger, we call 911. That decision was made before tonight, and it will not be debated in the moment. Threats that don't involve imminent danger get documented immediately. We will not report on someone's behalf without their say — and we will not stand in the way of anyone who decides to report what they saw. Whatever the person who was threatened decides, they have our support."
 
 Behind that public commitment sit three facilitator duties:
 
