@@ -63,6 +63,8 @@ Get them out. Make sure they're traveling, that they have a ride, that the viole
 
 While the mistake-maker is getting to safety, the violent person stays. Not because they're welcome — because removing them right now might trigger the very violence you're trying to prevent, and you need the potential victim out of range first.
 
+And if the violent person moves on the threatened person before they're out of range, the sequence stops mattering — [someone calls 911](./where-the-police-fit.md), the one threshold decided before the container started so nobody has to weigh it while it's happening.
+
 What sets this order isn't how bad the threat was — it's that physical violence is on the table at all. A promise to beat someone up leaves the same person in the same room with the same chance of it landing while you're moving people around, so it gets the same sequence a death threat does. Threats aimed at someone's reputation or standing instead — *I'll tell everyone what you did*, *I'll make sure you never work in this community again* — are a different situation with [a different response](./when-youve-been-wronged.md).
 
 ### Step 3: Remove the Violent Person
@@ -83,7 +85,7 @@ After both parties have left, you talk to everyone else. (See: [What to Say to t
 
 ## The Dangerous Gap
 
-Between Step 1 and Step 3, there's a window where the violent person is still in the room and the mistake-maker is the one who just left. This is the most turbulent moment. If anyone starts moving toward violence in that window, [someone calls 911](./where-the-police-fit.md) — the one threshold decided before the container started, so nobody has to weigh it while it's happening.
+Between Step 1 and Step 3, there's a window where the violent person is still in the room and the mistake-maker is the one who just left. This is the most turbulent moment.
 
 People are watching. They saw you remove the person who made a mistake and _not_ the person making death threats. That looks like the opposite of what you promised.
 
