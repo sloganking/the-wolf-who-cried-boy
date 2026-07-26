@@ -133,6 +133,21 @@ Or you can make it the beginning — of more power, more clarity, more influence
 
 That's not recovery. That's an origin story. And it's yours to write.
 
+And somebody is going to write it. Every community eventually has the moment this book describes — the mistake, the accusation, the room turning, the rescue about to cause more harm than whatever it was rescuing anyone from. In that moment, either somebody sees clearly or nobody does. Either somebody stands up, or the pattern runs unopposed.
+
+Jim Rohn used to put a question to his audiences.
+
+> **"Why not see what kind of person you can become? Why not see what kind of influence you can have?... My personal question to you is: why not you?"**  
+> — _[Jim Rohn](https://youtu.be/xeF7VUGTu6M?t=262)_
+
+He was asking a room full of people what they could earn. I'm asking you something harder.
+
+Why not see how clearly you can learn to see? Why not see how many rooms you can hold steady when everyone in them is certain and afraid? Why not see how many people you can walk through the thing that almost broke you? Why not see who you become on the other side of that?
+
+Somebody in your community is going to be the person who sees it coming. Somebody is going to catch the pattern before it costs a person everything.
+
+Why not you?
+
 ---
 
 ## The Mirror
@@ -161,6 +176,6 @@ That's why this work is hard to do alone.
 
 If you read this book and thought *"I want someone to find my strings"*—if you want help seeing the specific patterns that are shaping your relationships, your reactions, and your life in ways you can't see yourself—I do this work personally.
 
-If you run an organization — a retreat center, a play space, a facilitation team, a company, any team where humans interact under pressure — and you want my eyes on your dynamics, I do that too. These patterns don't stay in the temple. They show up in every room where people have power, make decisions, and cause harm without seeing it. Whether that's building safety protocols, navigating a crisis in progress, or having someone on call who sees clearly when things get complicated.
+If you run an organization — a retreat center, a play space, a facilitation team, a company, any team where humans interact under pressure — and you want my eyes on your dynamics, I do that too. These patterns don't stay in the temple. They show up in every room where people have power, make decisions, and cause harm without seeing it. Whether that's building safety protocols, training your team's [conflict specialist](./concepts/before-you-facilitate.md#your-conflict-specialist), navigating a crisis in progress, or having someone on call who sees clearly when things get complicated.
 
 Reach out: [sloganking.github.io/coaching](https://sloganking.github.io/coaching/)

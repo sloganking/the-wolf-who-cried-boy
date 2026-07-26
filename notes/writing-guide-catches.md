@@ -6,6 +6,95 @@ Append-only ledger of real sentences that failed a writing-guide rule and what t
 
 ---
 
+## [2026-07-22] Inventing a failure mode in order to warn the reader against it | `where-the-police-fit.md`
+
+- **Written:** "Don't make them tell the story over and over to satisfy your own need to understand it; you have your own account for that." — in the facilitator duty about supporting a threatened person.
+- **Rules broken (three at once):** (1) **Don't Repeat Fiction** — no reader was thinking of interrogating a frightened person for their own gratification; the sentence installs the accusation in order to forbid it. (2) **No moralizing** — "to satisfy your own need" assigns the reader a self-serving motive, the "words that could trigger someone to stop reading because they feel judged" case, pointed straight at the facilitator. (3) **Martian check** — a claim about someone's inner motive stated as fact. Author's catch: *"that just sounds unhinged, or like, no one was suggesting that."*
+- **Became:** cut entirely. The surrounding concrete items (they don't have to decide tonight; they don't have to make the call alone; keep them posted on what you're doing about the person who threatened them) carry the duty without accusing anyone.
+- **Pattern to watch:** this is what AI drafting produces when asked to make advice *concrete* — the fastest route to a specific sentence is to imagine a specific wrong behavior and prohibit it. That route always ends in moralizing, because a prohibition needs a wrongdoer. The book's move is the opposite: state the helpful action directly ("someone goes with them"), never the mistake it avoids. Test any imperative beginning "Don't…": is the reader already doing this, or did I invent them doing it so I'd have something to say?
+
+## [2026-07-22] Naming the category instead of the thing | `handling-threats-of-violence.md` (law-enforcement pass)
+
+- **Written:** "Conduct that could only ever be the lesser tier carries a shorter window, generally one year." Earlier in the same pass: "a chain of hands," "What you don't get is their decision," "they need it before they decide how much to tell you," "where your own line is."
+- **Rule broken:** Name the Referent, and the plain-language standard behind it. Each of these names an *abstraction* where the reader needs an *instance*. "Conduct that could only ever be the lesser tier" is a legal category the reader cannot populate — they have no way to know what conduct that is, so the sentence transmits nothing. Author's catch, and his framing is the useful part: **"it's one of the ones we're failing the most."** Not a one-off — a standing failure mode across this pass.
+- **Became:** "Threats that don't reach that description — a vague one nobody could tie to a specific harm, a shouting match that frightened the room, repeated harassing calls or messages — are lesser offenses, and generally carry one year instead." Examples the reader can picture, then the rule.
+- **Pattern to watch:** this is what AI drafting does under a precision constraint — when the accurate statement is a category, it writes the category. The fix is always the same: give two or three concrete instances *before* or *instead of* the abstraction. Test on any noun phrase of the shape "conduct/behavior/situations/cases that…" — if the reader can't name an example from the sentence alone, it isn't communicating. Related failure in the same pass: load-bearing metaphors ("a chain of hands") that replace the literal thing, and pronoun stacks whose antecedent sits two sentences back.
+
+## [2026-07-14] The book's own defined term used in its popular sense | `i-made-a-mistake.md`
+
+- **Written:** "That's not a repair path. That's exile dressed up as responsibility." (Return to Community)
+- **Rule broken:** the Responsibility Triad (`responsibility.md`) defines three things the book exists to keep apart — **Responsibility** = seeing your causal part; **Accountability** = making repair for harm caused; **Punishment** = inflicting suffering. An exile demand isn't disguised as *seeing-your-part*. It's disguised as *the repair you owe*. So the sentence reached for the book's most carefully defined word in its loose popular sense — and did it in the one paragraph whose whole job is separating punishment from accountability. Author's catch: "Responsibility has a specific definition in this book."
+- **Became:** "That's exile dressed up as accountability." Also the sharper claim: the paragraph opens "This is self-punishment, not accountability" and now closes by naming the costume — punishment wearing accountability's clothes, which is precisely the confusion the triad was built to break.
+- **Pattern to watch:** a defined term in loose usage is worse than a wrong word, because it quietly un-defines itself. The popular sense is allowed only when *marked* as the popular sense — the very next paragraph does it correctly, holding "the responsible thing to do" in scare quotes and then correcting it. Terms carrying a book definition: responsibility, accountability, punishment, severity, repair, completion, over/under-response.
+
+## [2026-07-14] Quote whose key word binds to the wrong antecedent | `healing-fawning.md` → `i-made-a-mistake.md`
+
+- **Written:** the Alma Beats quote ("If it requires you to disappear, it's not love.") placed at the end of "Why This Works (When Therapy Often Doesn't)" — directly after the Airbnb story, which ends with the author leaving the relationship.
+- **Rule broken:** Name the Referent, applied to a quote's own vocabulary. "Disappear" in the quote means *erase yourself to be kept*. But the paragraph it landed on describes the author physically leaving — so a reader can bind "disappear" to *his* exit and read the line as a verdict against him: *he disappeared from her, so he wasn't loving her.* Author's catch: "someone in a different perspective could say I disappeared from her... it doesn't really fit where you put it." A quote is subject to the same binding test as the prose — check what the reader can attach its load-bearing word to in the surrounding paragraphs, not just what the word means in the song.
+- **Became:** moved to "Return to Community" (`i-made-a-mistake.md`), directly after the paragraph that already uses the word in the quote's own sense — "they're saying your presence is a problem, that you should want to disappear... That's exile dressed up as responsibility." The antecedent is now the exile demand, and only the exile demand.
+- **Also cut:** a gloss the co-author added under the quote ("A community that will only hold you if you erase yourself isn't holding you. It's holding the empty space where you used to be."). Second sentence was a paradox performing an insight the quote had already delivered — the recurring clever-closer failure. The quote lands harder with nothing after it.
+
+## [2026-07-08] Negation planting the fear it denies | `handling-threats-of-violence.md`
+
+- **Written:** "This isn't scary. It's credible." — introducing the staff-mistakes pre-frame script. Nearby: "This isn't about making the staff member suffer."
+- **Rule broken:** Don't Repeat Fiction / Don't Pre-Frame the Reception. Author's catch: "This paragraph is pre-framing them to think it's scary." Denying "scary" one sentence after the script installs scary as the lens the script gets re-read through; "suffer" hangs suffering on an accountability measure no one had called suffering. The pattern to watch: any sentence shaped "this isn't X" where X is a fear-word the reader hadn't thought yet.
+- **Became:** "Said out loud, that buys credibility." / "The point is what it shows participants: when someone with more power makes a mistake, the response scales with the responsibility they carry." — the positive claim stated directly; no fear-word introduced. (These sentences predate the anti-pattern's 2026-07-05 naming — this catch is the older text being brought up to the rule.)
+
+## [2026-07-08] Legal jargon invisible to a fluent cold reader | `handling-threats-of-violence.md`
+
+- **Written:** "a guard is the property owner's agent, with the same legal powers as any other private person" (and in the checklist: "a guard is the property's agent, not an officer").
+- **Rule broken:** the plain-English standard the fresh-reader test exists to enforce — "agent" is a law word wearing an everyday word's clothes. The writer imported it straight from the legal sources. The author caught it; the cold reader that session did NOT — because that run used a mid-size fluent model, which understands legal register too well to stall on it. This is the protocol's own warning proven in the field: **being small is the feature.** A capable model is a bad proxy for the target reader.
+- **Became:** "a guard has exactly the powers everyone else has — the uniform adds nothing" / "a guard has exactly the powers you have." A re-run with the smallest available model then caught what the fluent one also missed: a double negative ("no power it doesn't give everyone else"), a sequence referenced but never named ("minus the middle step" — now "words, then hands, then police"), and a conclusion that jumped ("so agree beforehand" — now carries its reason: the line is a judgment call and mid-crisis is a bad time to draw it).
+
+## [2026-07-08] Unverified legal claim echoed as fact | `handling-threats-of-violence.md`
+
+- **Written:** "reporting a crime, or calling 911 about danger, needs no property rights at all. Anyone can make those calls." — written into the Local-Law Checklist because the author assumed it and the AI co-author echoed it, with no source checked by either.
+- **Rule broken:** Stand on Ground You Actually Hold, applied to facts. An echoed assumption is borrowed authority even when the borrowing is from the author himself — the co-author's job was verification, and agreement isn't verification. Author's catch: "I assumed this was true, so I said it. You seem to be repeating my words."
+- **Became:** the sentence survived — verification confirmed it (anyone can report: victims, witnesses, third parties). What changed is the process: legal claims now get researched before they ship, and every researched question + answer + sources goes in `notes/legal-references.md`, which also lists the book's pre-existing legal claims still awaiting a verification pass.
+
+## [2026-07-08] Implicit universal about facilitators | `handling-threats-of-violence.md`
+
+- **Written:** "A facilitator has no enforcement mechanism beyond the container's own agreements."
+- **Rule broken:** Martian check — an implicit universal. True of a retreat with a facilitation team; false of an arena event with a security staff. The author's first instinct was to soften to "most/many facilitators" — but uncounted counts fail the same check. The guide's own fix applies: enumerate the cases.
+- **Became:** "If your event has security, they can walk someone to the door; when someone won't be walked, even security hands it to the police. A facilitation team without security just reaches that handoff sooner." — both cases named, unified by the author's insight that every enforcement ladder tops out at the same place; security only changes how many rungs you own.
+
+## [2026-07-08] Oblique closer the reader must decode | `handling-threats-of-violence.md`
+
+- **Written:** "And a container everyone knows will never call, no matter what, has told its most dangerous member exactly how far things can go."
+- **Rule broken:** not a named rule — a first-pass failure. The point (a container that never calls demonstrates that violence has no ceiling here) arrives only after the reader assembles an inference from "told... exactly how far things can go." The sentence performs the insight instead of delivering it. Author: "there's a way to 10x those words... the old one was ambiguous."
+- **Became:** "And a container that will never call, no matter what happens, is showing the most dangerous person in the room something true: however far they push, words are the only thing that will ever push back." — "showing" (the book's own walking-your-talk mechanism), and the consequence stated instead of gestured at.
+
+## [2026-07-08] Compressed abstraction out of voice | `handling-threats-of-violence.md`
+
+- **Written:** "The stance this book has held all along doesn't change here — it completes: internal handling for mistakes, external backstop for crimes. That's proportionality, applied to institutions."
+- **Rule broken:** voice. "It completes," the noun-pile parallel, and "institutions" are academic register — no human says this across a table, and the book's voice is a human talking (Author Voice & Personality). Author: "this doesn't sound like me... not clear what it's telling me."
+- **Became:** "None of this contradicts the stance this book has held all along — it's the same stance, reaching a different severity. Mistakes get repair, not punishment. Crimes get a response that matches their severity — and that response doesn't live inside the container."
+- **The test this adds:** would the author say the sentence out loud to a facilitator friend across a table? If it only works on paper, it's out of voice.
+
+## [2026-07-08] Uncounted absolute in a heading | `handling-threats-of-violence.md`
+
+- **Written:** "### Why Nobody Calls"
+- **Rule broken:** Martian check — "nobody" is a frequency claim nobody counted, and in a heading it paints a narrative about these communities. Author: "'nobody calls' is painting another narrative."
+- **Became:** "### Why People Don't Call" — describes the pattern without the count. Headings get the Martian check too.
+
+## [2026-07-08] Metaphor word carried past its home sentence | `handling-threats-of-violence.md`
+
+- **Written:** "Located, they work the way the promise works everywhere else... Unlocated, the question gets asked for the first time..." — reusing the fire-exit metaphor's verb as the grammatical spine of the following sentences.
+- **Rule broken:** not a named rule yet — a clarity miss, sibling of the "charisma as a verb" catch. The metaphor earns its home sentence ("located before the event, hopefully never used, known cold"), but carrying its vocabulary forward makes the reader translate the metaphor instead of following the point — you don't "locate" a decision to call 911. Author: "locating the 911 doesn't really make sense completely in language."
+- **Became:** "Decided in advance, they work..." / "Left undecided, the question gets asked for the first time mid-crisis..." — plain words carry the parallel; the metaphor stays where it was made.
+
+## [2026-07-08] Verdict-flavored opposition | `handling-threats-of-violence.md`
+
+- **Written:** "the exact conditions that produce fawning instead of facilitating."
+- **Rule broken:** No Moralizing Language / Martian verdict language. "Fawning instead of facilitating" implies the fawning facilitator has stopped being a facilitator — a verdict about the person smuggled in as a contrast. (The existing heading "Warning Signs You're Fawning Instead of Facilitating" survives because it's the reader examining themselves in a diagnostic; pointed at a third-person facilitator mid-crisis, the same opposition reads as judgment.) Author: describe the pressure, not the failure — "conditions that make it easier for facilitators to fawn."
+- **Became:** "under exactly the pressures that make fawning easiest" — pressure acting on a person in a state; no claim about what they are or stopped being.
+
+## [2026-07-07] Verdict-first framing | book pitch language (caught during the RPM book-description session)
+
+- **Written:** "human conflict dynamics and false accusations" as the standing answer to "what's the book about?" — and, earlier, an author outreach message that led with the same false-accusation framing (the distinction arrived after it was sent).
+- **Rule broken:** Don't Lead With the Verdict (this catch created the rule; the author supplied the mechanism: "if you say 'someone gave me false accusations,' people will ask inside 'is it false though?' Same problem as 'I was called a predator'"). "False" is a contested verdict a first-contact listener can't verify, so their first inner move is adjudication, not curiosity.
+- **Became:** verdict-free openers — "Most harm doesn't come from bad people; it comes from good people who can't see what they're doing," and the village-finds-a-wolf image. Events and mechanisms stated; the verdict left for the listener to reach.
+
 ## [2026-07-06] Arguable label on a person | `before-you-facilitate.md`
 
 - **Written:** "If you're sexually starved, you're a liability." (bolded section opener)

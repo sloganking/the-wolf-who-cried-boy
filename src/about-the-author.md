@@ -51,6 +51,8 @@ The path that led to this book started taking shape when [Laurie Handlers](https
 
 If something in this book hit home — if you recognized a pattern in yourself, a belief you didn't know you had, a string you want to cut — I work with people 1-on-1.
 
+And if you hold a container — a retreat, a play space, a facilitation team — I do the same work at the organizational level: building safety protocols, training your team's [conflict specialist](./concepts/before-you-facilitate.md#your-conflict-specialist), or being on call when things get complicated.
+
 **Learn more:** [sloganking.github.io/coaching](https://sloganking.github.io/coaching/)
 
 ---

@@ -257,6 +257,20 @@ This applies to:
 
 ---
 
+### Don't Lead With the Verdict
+
+When telling a story or pitching an idea, don't open with a framing that contains a contested verdict — "false accusations," "I was wrongly attacked," "they treated me unfairly." The verdict ("false," "wrongly," "unfairly") is exactly the thing a first-contact listener can't verify, so their mind switches from listening to adjudicating: *"is it false, though?"* You wanted curiosity; you convened a court — and judges withhold their sympathy until the trial is over.
+
+Sibling of Don't Repeat Fiction, one step earlier in the chain: that rule catches echoing someone else's label ("I was called a predator" plants *predator*); this one catches your own framing smuggling in a verdict the listener hasn't granted. One plants the word, the other convenes the trial.
+
+The fix is Show, Don't Tell applied to your own story: a stated verdict is telling; described events let the listener convict on the evidence. "Someone attacked my reputation and got people to believe their story" describes observable events — nothing to adjudicate, and the listener supplies "that's awful" without being asked. For the book itself: "Most harm doesn't come from bad people — it comes from good people who can't see what they're doing" opens with a mechanism, not a case to judge.
+
+Boundary: this governs openings and first contact — the pitch, the intro message, the answer to "what's your book about?" Deep inside a chapter, after the mechanisms have been shown and the ground built, naming a false accusation as false is earned — by then the reader isn't adjudicating, they're following.
+
+Real catches: the standing "what's the book about?" answer led with "false accusations" — replaced with the blindness-vs-malice and village-finds-a-wolf openers (2026-07-07, the catch that named this anti-pattern). The author had also led an earlier outreach message with the same framing; the distinction arrived after it was sent, which is why it's recorded here.
+
+---
+
 ### Don't Pre-Frame the Reception
 
 Don't tell the reader how they're about to receive something — "you're not going to like this," "this may sound harsh," "this is a lot to learn," "I know this is overwhelming." A forecast about someone's future inner state is a story — and delivering it right before the content installs it as the filter the content gets received through. It's the book's own pre-framing and install-labeling mechanics, aimed at the very next sentence.
@@ -311,6 +325,7 @@ Therapists can be mentioned as a tool — a small tool for specific, narrow prob
 - [ ] Language walks its own talk — no stories, no narrative frames, just inarguable descriptions of what happens
 - [ ] Passes the Martian check — no uncounted frequency claims ("most," "usually"), no verdict language ("the person you failed"), no claims about others' inner experience or motives stated as fact
 - [ ] No pre-framed reception — content isn't introduced with forecasts of how the reader will feel about it ("this is a lot," "you won't like this")
+- [ ] No verdict-first openings — first-contact framings ("false accusations," "wrongly attacked") don't ask the reader to adjudicate a contested verdict before curiosity exists; events described, verdict left to them
 - [ ] Every pointer word ("this person," "they," "that") binds to exactly one antecedent — if a competitor noun is in range, the referent is named again
 
 ---
@@ -318,5 +333,34 @@ Therapists can be mentioned as a tool — a small tool for specific, narrow prob
 ## Case Law
 
 Real catches — sentences that failed a rule above and what they became — are logged in `writing-guide-catches.md`. Read it alongside this guide to calibrate: the rules say what to do, the catches show where it actually breaks. Every new catch gets appended there.
+
+---
+
+## Legal Claims Get Verified First
+
+The book makes claims about law (trespass, criminal threats, who can report, prosecutorial charging). Every one of them gets researched before it ships — the author asserting it, or a co-author echoing the author's assumption, is not verification (that's borrowed authority pointed at facts). Every researched question and its answer, with sources and date, is recorded in `notes/legal-references.md`. Check that file before re-researching a question, and append to it every time law gets researched. Locale convention: general/US-wide answer first, California as the worked local example.
+
+---
+
+## The Fresh-Reader Test (Co-Author Tool)
+
+The author's idea (2026-07-08): the writer — human or AI — can't simulate not knowing what a passage means, and can't unknow its domain vocabulary. A small, cheap model reading the passage cold has neither problem, which makes it a better proxy for the target reader than any re-read by the writer.
+
+**Protocol:**
+
+1. Spawn the smallest cheap model available as a subagent (first runs used Claude Haiku 4.5; ~30k tokens per run). Give it NO context about intent, drafting history, or what the passage is "supposed" to say. **Small is a requirement, not a cost saving:** a mid-size fluent model run on 2026-07-08 passed "the property owner's agent" without a flag — it knows legal register too well to stall where the target reader stalls. The smallest available model then caught that plus a double negative and an unnamed sequence the fluent one also missed. If only a capable model is available, its silence is weak evidence; the author's own 10-year-old check has to carry more weight.
+2. Have it read the passage cold and report **comprehension only** — explicitly forbid rewrites and style opinions:
+   - Sentences it had to read twice (quoted, with where it stalled)
+   - Terms it couldn't define in plain language from the text alone
+   - A one-sentence summary per subsection ("unsure" is a valid answer)
+   - Sentences where the words were clear but the point wasn't
+3. **Triage the flags — the test reports, it doesn't rule:**
+   - Flags on the book's own established vocabulary ("filed," "container," "the promise") are usually false positives — the cold reader lacks the earlier chapters that defined them.
+   - Flags on undefined domain terms, sentences doing several jobs at once, and abstract idioms are usually real.
+4. Accurate subsection summaries are the pass signal: the passage communicates, even if individual flags remain.
+
+**When to run:** new or heavily revised passages, especially anything carrying domain vocabulary (legal, medical, technical) — the exact places where the writer's fluency hides the reader's confusion.
+
+**First runs (2026-07-08, the law-enforcement section):** caught "trespass" used but never defined, a nested clause burying the section's key insight, and an abstract idiom ("the floor, not the whole policy") — all invisible from inside, all confirmed by the author's own reading.
 
 ---
