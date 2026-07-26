@@ -124,7 +124,7 @@ This page exists because the linguistic gap creates the perceptual gap — it's 
 
 **Omniresponsible** — Your influence extends to everything you touch and everything you don't. A posture, not a burden. → [Responsibility](./concepts/responsibility.md)
 
-**Order of Operations** — For threats: (1) remove the attacked person to safety, (2) contain violent person, (3) remove violent person, (4) address crowd. → [Handling Threats of Violence](./concepts/handling-threats-of-violence.md)
+**Order of Operations** — For threats: (1) get the attacked person to safety, (2) contain violent person, (3) remove violent person, (4) address crowd. → [Handling Threats of Violence](./concepts/handling-threats-of-violence.md)
 
 **Over-Response** — Responding with higher severity than the harm warrants. Creates new harm. The most common inappropriate response. → [Appropriate Response](./concepts/appropriate-response.md)
 

@@ -104,7 +104,7 @@ Terms, concepts, and distinctions created or specifically defined in this book. 
 | **The Promise** | `before-you-facilitate.md` | Facilitator's public commitment that determines how incidents are handled |
 | **Emotional Mirroring** | `when-things-go-wrong.md` | Matching someone's emotional state when calm doesn't reach them |
 | **Emergency Exception** | `when-things-go-wrong.md` | When imminent danger requires immediate action before full process |
-| **Order of Operations** | `handling-threats-of-violence.md` | For threats: remove the attacked person, contain violent person, remove them, address crowd |
+| **Order of Operations** | `handling-threats-of-violence.md` | For threats: get the attacked person to safety, contain violent person, remove them, address crowd |
 | **Dangerous Gap** | `handling-threats-of-violence.md` | The period between when a threat is made and when it's acted on |
 | **Real Repair vs. Fake Resolution** | `guiding-public-repair.md` | Real: both own their part. Fake: one fawns or one takes zero responsibility |
 

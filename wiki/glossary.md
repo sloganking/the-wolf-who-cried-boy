@@ -132,7 +132,7 @@ Complete alphabetical glossary of terms coined or specifically defined in *The W
 
 **Omniresponsible** — Your influence extends to everything you touch and everything you don't. A posture, not a burden. → [[responsibility-triad]] | `responsibility.md`
 
-**Order of Operations** — For threats: (1) remove the attacked person to safety, (2) contain violent person, (3) remove violent person, (4) address crowd. → `handling-threats-of-violence.md`
+**Order of Operations** — For threats: (1) get the attacked person to safety, (2) contain violent person, (3) remove violent person, (4) address crowd. → `handling-threats-of-violence.md`
 
 **Over-Response** — Responding with higher severity than the harm warrants. Creates new harm. The most common inappropriate response. → [[over-and-under-response]] | `appropriate-response.md`
 

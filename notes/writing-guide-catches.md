@@ -6,6 +6,14 @@ Append-only ledger of real sentences that failed a writing-guide rule and what t
 
 ---
 
+## [2026-07-26] The verb that made the book argue with itself | `handling-threats-of-violence.md`
+
+- **Written:** "### Step 1: Remove the Attacked Person First" — followed, across the chapter, by the corrections the word forced: "they did nothing that warrants removal," "Their removal was a safety action, not a consequence," and the heading's own disclaimer "Not as punishment. As protection."
+- **Rule broken:** Show, Don't Tell. "Remove" is the book's consequence verb — it's what happens to the violent person in Step 3. Using it for the protective act meant every later passage had to *tell* the reader it didn't mean what it says. Three told corrections are the tell that the word was wrong. Author's catch, from his own side of it: *"the language came from me being asked to leave."*
+- **Became:** "### Step 1: Get the Attacked Person to Safety First" — the goal, not the mechanism, and not the punishment verb. Glossary Order of Operations now reads *get the attacked person to safety → contain violent person → remove violent person → address crowd*, so the distinction is visible in four words. The disclaimer became "It will look like punishment. It isn't," which points at the crowd's reading instead of restating the heading, and sets up The Dangerous Gap.
+- **Deliberately NOT changed:** "remove" stays everywhere it means consequence (Step 3) or crowd perception ("They saw you remove the attacked person and _not_ the person making death threats"; "watched the facilitators tolerate violence and remove the attacked person instead"; "Don't Remove the Attacked Person and Keep the Violent Person"). The facilitator gets someone to safety; the room sees a removal. That gap is exactly what The Dangerous Gap section is about, and the two verbs now name it without a sentence of explanation.
+- **Pattern to watch:** when a passage keeps having to say "this isn't what it sounds like," the fix is upstream — change the word, delete the defense. Count the disclaimers a term needs; more than one means the term is doing the wrong work.
+
 ## [2026-07-26] Script that puts a verdict in the facilitator's mouth | `handling-threats-of-violence.md` (attacked-person rename)
 
 - **Written:** proposed crowd-address variant for the no-mistake case — "I've looked into what was said about [Person A]. It isn't accurate. They didn't do anything that violates our agreements."

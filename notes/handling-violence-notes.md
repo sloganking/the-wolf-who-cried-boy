@@ -15,7 +15,7 @@ Notes from conversation on Mar 4, 2026. Source material for `src/concepts/handli
 
 ## Order of Operations
 
-1. Remove the attacked person FIRST — not as punishment, but because the facilitator deems the situation unsafe for them.
+1. Get the attacked person to safety FIRST — not as punishment, but because the facilitator deems the situation unsafe for them.
 2. If you ask the violent person to leave first, they might lash out and attack the attacked person before they can get away.
 3. Keep the violent person contained until the attacked person is safely out of range (gone home, traveled far enough they can't be followed).
 4. Then remove the violent person for violating the container's agreements.
