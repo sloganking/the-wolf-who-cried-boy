@@ -298,9 +298,11 @@ Both feed the packet/endorsement engine (item F) and the coaching practice's pro
 
 **UPDATED (second sitting, same branch):** the pass continued through two more subsections. Now also approved:
 - **`### What Calling the Police Actually Starts`** — approved by the author ("passing as a section... I can leave it be now"), rated by him as medium quality but done. Note the heading was renamed this sitting (was "What a Call Actually Starts") because "a call" had three antecedents in range — the removal call, the 911 call, and a criminal report.
-- **`### Deciding the Thresholds Before the Event`** — approved **except the last two paragraphs** (see resume point below). Approved portion covers the trade-off opener, the shortened three-sentence public script, the "one concern a facilitator might raise" defense of the police sentence, and all three facilitator duties including the citizen's-arrest paragraph.
+- **`## Deciding the Thresholds Before the Event`** — **approved in full.** Restructured heavily during review: the public script cut to three sentences, the three duties reordered so the facilitator's own standing moved out of duty 3 and into the paragraph below it, the detention/citizen's-arrest material relocated to after the trade-off paragraph, and the old closing paragraph ("None of that has to be recited to the room") deleted as redundant with the subsection's own opening.
 
-**RESUME AT: the paragraph beginning `Those duties don't draw the one line you'll actually want drawn.`** — i.e. the two closing paragraphs of "Deciding the Thresholds" (the report-or-stay-quiet trade-off, and the "None of that has to be recited to the room" public/private split). Then continue into `### The Local-Law Checklist`, which is **entirely unreviewed** and contains new material this sitting: item 7 (mandated-reporter law) and a new closing paragraph on who does the list and when.
+**MAJOR STRUCTURAL CHANGE THIS SITTING:** the law-enforcement material was split into its own chapter, `src/concepts/where-the-police-fit.md` (commit `300b56e`), because it had grown to a third of the threats walkthrough while covering questions that aren't about threats (mandated reporting, recording consent, trespass, hosting abroad). `handling-threats-of-violence.md` keeps Steps 1–4 and hands off at Step 3. All subsection references above now live in the new chapter.
+
+**RESUME AT: `## The Local-Law Checklist`** — the only unreviewed part of the new chapter. Contains new material from this sitting: item 7 (mandated-reporter law, including the professional-capacity limit and the universal-reporting states) and a closing paragraph on who does the list and when. **After that, the review pass is done and the branch can merge to `main`** (author's stated plan).
 
 **ALSO UNREVIEWED — outside the law-enforcement section:** a paragraph was appended to **Step 2 of the Order of Operations** this sitting (item MM), naming the physical / non-physical bar for the removal order. It is the only edit in this batch outside the law-enforcement material and the author has not read it in place.
 
@@ -556,6 +558,22 @@ Raised as a candidate gap in the same 2026-07-06 read, then evaluated against th
 **Related fix already made (law-enforcement pass):** the "someone else calls the police" sentence in the facilitator duties had the removal order backwards — it read "the person who made threats still leaves, the person they attacked still gets protected," inverting Steps 1–3. Corrected to "the threatened person still goes out first, the person who made threats still leaves after them." Worth checking whether the same inversion appears anywhere else the sequence is summarized rather than walked.
 
 **Status: DRAFTED same session, author-directed** — after he raised it a second time and asked whether stating the bar was "deciding for them." Answer given and accepted: no, because Step 2 already asserts the *mechanism* (removal may trigger the violence, so the target goes first), and the bar is only where that mechanism reaches — a claim's scope, not a new rule. Stronger argument for shipping it: the chapter demonstrates the protocol with death threats, so the worked example itself invites the dangerous misread that a promised beating doesn't qualify. Shipped as a paragraph appended to Step 2, naming the physical / non-physical line with concrete instances on both sides. **Steps 1–4 are otherwise still un-re-reviewed since before the law-enforcement pass** — that caution stands for any further edits there.
+
+### QQ. Don't narrate the removal — and name containment's second purpose (author-raised as a side thought, law-enforcement pass)
+
+**The author's question:** when you ask the threatened person to leave, should you deliberately *not* tell the person who made threats, so they don't go after them?
+
+**Answer, and the book already authorizes it without saying so:** the emergency pre-frame in `handling-threats-of-violence.md` already reads *"We might not explain ourselves in the moment, because safety sometimes requires speed."* That line is precisely what makes a silent removal read as protocol rather than as the facilitator concealing something — but nothing in Steps 1–3 ever cashes it in for this case.
+
+**Sharpen what the secret is.** Concealing the departure isn't achievable — in a room of thirty, the person who made threats watches them stand up and leave. What *is* withholdable is what enables pursuit: destination, route, timing, and who they're with. The dangerous sentence is not "they're leaving," it's "they're grabbing their bag from cabin four" or "their ride is twenty minutes out."
+
+**The bigger find: Step 2's containment already IS the head start, and the book gives it only one reason.** Step 2 currently justifies containment solely as "removing them right now might trigger the very violence you're trying to prevent." The unstated second purpose is that every minute of containment is separation distance. Naming it also answers a question Steps 1–3 leave open — *when* is it safe to start Step 3? Not when they're out the door; when they're genuinely away, which Step 1 already gestures at with "make sure they're traveling."
+
+**Coverage gap it fills:** Follow-Up → With the Mistake-Maker has the *after-event* version (does the violent person live near them, could they be found later). There is no *that-night* version.
+
+**Where it would go:** Step 2 (the second purpose) and Step 1 (don't discuss destination/route/timing where the threat-maker can hear). Composes directly with item NN — same cluster: the threatened person's physical safety during the gap. **Same caution as MM/NN:** Steps 1–4 predate the law-enforcement pass.
+
+**Status: OPEN — recorded, not drafted. Author flagged it as a side thought while closing out the review.**
 
 ### NN. Nobody threatened stays alone — accompaniment as a stated practice (author-originated, law-enforcement review pass)
 
