@@ -55,7 +55,7 @@ But here's the problem: if you tell someone who's making death threats that they
 
 ### Step 1: Get the Attacked Person to Safety First
 
-Go to the person being threatened: "Hey, I need you to leave right now, for your safety. You're not in trouble. I'm not confident you're safe here, and I need to get you out before I handle the situation. Go home. I'll be in touch."
+Go to the person being threatened: "Hey, I need you to leave the event right now, for your safety. You're not in trouble. I'm not confident you're safe here, and I need to get you out before I handle the situation. Go home. I'll be in touch."
 
 If a mistake did happen, say so on the way out, and say it's protected: "what happened was a mistake, and mistakes are covered here." They are being walked out of a room in front of everyone who just watched. Without that sentence, the walking out is the only thing they have to interpret.
 
