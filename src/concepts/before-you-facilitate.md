@@ -542,7 +542,7 @@ Facilitator fawning isn't random cowardice. It's a specific fear response, and i
 
 Every one of these fears is real. And every one of them produces the same result: the facilitator does less than they know is right, and someone who needed protection doesn't get it.
 
-### When Protection Goes to the Wrong Person
+### When Fear Decides Who Gets Protected
 
 The most painful version of facilitator fawning is when the facilitator protects themselves or their organization instead of the person who needs it.
 
