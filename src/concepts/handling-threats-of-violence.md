@@ -2,7 +2,7 @@
 
 ---
 
-Sometimes, despite everything you've done right as a facilitator—the pre-framing, the promise, the clear agreements—someone makes a good-faith mistake, and someone else responds with death threats.
+Sometimes, despite everything you've done right as a facilitator — the pre-framing, the promise, the clear agreements — someone makes a good-faith mistake, and someone else responds with death threats.
 
 This is one of the hardest situations you'll face — because it sits at the intersection of consent culture, facilitation ethics, and physical safety all at once. A good-faith mistake escalating to violence. The person being threatened is also the person who made the mistake — experiencing [top vulnerability](./all-power-is-mutual.md#top-and-bottom-vulnerability) at its most extreme. The crowd is primed to moralize. And you have to navigate all of it while preserving the container's integrity and the promise you made at the start.
 
@@ -14,7 +14,7 @@ This page walks through the entire scenario: what to do, what to say, to whom, i
 
 ## The Scenario
 
-A participant makes a mistake. It might be a boundary crossing, a miscommunication, an accidental touch—something covered by [the promise](./before-you-facilitate.md#the-promise). A good-faith error. The kind of thing that's supposed to be protected.
+A participant makes a mistake. It might be a boundary crossing, a miscommunication, an accidental touch — something covered by [the promise](./before-you-facilitate.md#the-promise). A good-faith error. The kind of thing that's supposed to be protected.
 
 Another participant reacts to that mistake with threats of violence. Death threats. Physical intimidation. "I'll kill you." Getting in their face. The kind of behavior that [must be stopped immediately](./when-things-go-wrong.md#threats-of-violence-must-be-stopped-immediately).
 
@@ -55,13 +55,13 @@ But here's the problem: if you tell someone who's making death threats that they
 
 Not as punishment. As protection.
 
-Go to the person being threatened: "Hey, I need you to leave right now. Not because your mistake wasn't okay—it was. But I'm not confident you're safe here, and I need to get you out before I handle the situation. Go home. I'll be in touch."
+Go to the person being threatened: "Hey, I need you to leave right now. Not because your mistake wasn't okay — it was. But I'm not confident you're safe here, and I need to get you out before I handle the situation. Go home. I'll be in touch."
 
 Get them out. Make sure they're traveling, that they have a ride, that the violent person can't follow them.
 
 ### Step 2: Keep the Violent Person Contained
 
-While the mistake-maker is getting to safety, the violent person stays. Not because they're welcome—because removing them right now might trigger the very violence you're trying to prevent, and you need the potential victim out of range first.
+While the mistake-maker is getting to safety, the violent person stays. Not because they're welcome — because removing them right now might trigger the very violence you're trying to prevent, and you need the potential victim out of range first.
 
 What sets this order isn't how bad the threat was — it's that physical violence is on the table at all. A promise to beat someone up leaves the same person in the same room with the same chance of it landing while you're moving people around, so it gets the same sequence a death threat does. Threats aimed at someone's reputation or standing instead — *I'll tell everyone what you did*, *I'll make sure you never work in this community again* — are a different situation with [a different response](./when-youve-been-wronged.md).
 
@@ -71,7 +71,7 @@ Once the mistake-maker is safely away, you address the person who made threats:
 
 "I can see you're in a lot of pain right now, and I take that seriously. AND threats of violence are outside the agreements of this container. You need to leave. We can talk about what happened after you've had time to come down, but right now, you cannot be here."
 
-This isn't moralizing. You're not telling them they're a bad person. You're enforcing the agreement. And by offering to talk later, you're showing that you care about them while holding the boundary. That's the thing that might actually make them reflect—not being screamed at, not being shamed, but being held accountable by someone who clearly isn't enjoying it.
+This isn't moralizing. You're not telling them they're a bad person. You're enforcing the agreement. And by offering to talk later, you're showing that you care about them while holding the boundary. That's the thing that might actually make them reflect — not being screamed at, not being shamed, but being held accountable by someone who clearly isn't enjoying it.
 
 And if the words don't move them — if they refuse to leave — you're not out of options. You're out of *social* options. That's [when the police become part of the plan](./where-the-police-fit.md).
 
@@ -83,7 +83,7 @@ After both parties have left, you talk to everyone else. (See: [What to Say to t
 
 ## The Dangerous Gap
 
-Between Step 1 and Step 3, there's a window where the violent person is still in the room and the mistake-maker is the one who just left. This is the most turbulent moment.
+Between Step 1 and Step 3, there's a window where the violent person is still in the room and the mistake-maker is the one who just left. This is the most turbulent moment. If anyone starts moving toward violence in that window, [someone calls 911](./where-the-police-fit.md) — the one threshold decided before the container started, so nobody has to weigh it while it's happening.
 
 People are watching. They saw you remove the person who made a mistake and _not_ the person making death threats. That looks like the opposite of what you promised.
 
@@ -91,17 +91,17 @@ People are watching. They saw you remove the person who made a mistake and _not_
 
 This is why you pre-frame at the beginning of every container:
 
-"In an emergency, we may need to act in a certain order to keep people safe. We might not explain ourselves in the moment, because safety sometimes requires speed. But we will explain afterward, and every agreement we've made will be honored—fully—by the end of this container."
+"In an emergency, we may need to act in a certain order to keep people safe. We might not explain ourselves in the moment, because safety sometimes requires speed. But we will explain afterward, and every agreement we've made will be honored — fully — by the end of this container."
 
-If someone flags it in the moment—"Hey, aren't you supposed to remove the violent person?"—you can say: "You're right to point that out, and I'm glad you are. We're in emergency protocols right now. This will be addressed. Please bear with me."
+If someone flags it in the moment — "Hey, aren't you supposed to remove the violent person?" — you can say: "You're right to point that out, and I'm glad you are. We're in emergency protocols right now. This will be addressed. Please bear with me."
 
 That's not dodging. That's acknowledging their concern while keeping the operation moving.
 
 ### Don't Do This Alone
 
-This is where your [first officer](./walking-your-talk.md#your-first-officer) is critical. One person escorts the mistake-maker to safety. The other stays with the group and the violent person. Trying to manage both solo creates gaps where things can go very wrong—the violent person is unsupervised, or the crowd is unmanaged, or the mistake-maker is alone and vulnerable.
+This is where your [first officer](./walking-your-talk.md#your-first-officer) is critical. One person escorts the mistake-maker to safety. The other stays with the group and the violent person. Trying to manage both solo creates gaps where things can go very wrong — the violent person is unsupervised, or the crowd is unmanaged, or the mistake-maker is alone and vulnerable.
 
-If you're facilitating without a co-facilitator and this happens, you're in a genuinely difficult spot. Do the best you can with what you have—but this is exactly why having a trusted second is worth the investment.
+If you're facilitating without a co-facilitator and this happens, you're in a genuinely difficult spot. Do the best you can with what you have — but this is exactly why having a trusted second is worth the investment.
 
 And a second pair of hands only helps if at least one person in the room knows these steps. That's a staffing decision made before the event, not a discovery made during it — [your team needs someone who knows how to handle conflict at this severity](./before-you-facilitate.md#your-conflict-specialist), and everyone on the team needs to know who that is.
 
@@ -119,9 +119,9 @@ Short of doing nothing and letting the situation escalate to actual violence, th
 - The facilitator is afraid
 - [The promise](./before-you-facilitate.md#the-promise) (if they made one) was empty
 
-And now the container is dead. Not officially—you might still run the schedule, do the exercises, hold the sharing circles. But they're not real sharing circles anymore. Every share from that point forward is filtered through one question: _will this upset the person who makes death threats?_ Nobody is going to say their authentic feelings when they just watched the facilitators tolerate violence and remove the person who made a mistake instead. The angry person's story becomes the only safe story to agree with—"oh my god, that person was such a predator, thank god they're gone"—because no one is willing to stand up and say "this is bullshit" when standing up might make them the next target.
+And now the container is dead. Not officially — you might still run the schedule, do the exercises, hold the sharing circles. But they're not real sharing circles anymore. Every share from that point forward is filtered through one question: _will this upset the person who makes death threats?_ Nobody is going to say their authentic feelings when they just watched the facilitators tolerate violence and remove the person who made a mistake instead. The angry person's story becomes the only safe story to agree with — "oh my god, that person was such a predator, thank god they're gone" — because no one is willing to stand up and say "this is bullshit" when standing up might make them the next target.
 
-If the violent person walked up to someone aggressively—got in their face, used their body to communicate "I will hurt you"—and the facilitators either did nothing or stepped in after the person was already in striking range, everyone saw something very specific: _if you disagree with the angry person, the facilitators won't stop them from hurting you._ They might deal with it after. They might retroactively address it. But they won't actually protect you in the moment it matters. And that's enough to silence every honest voice in the room.
+If the violent person walked up to someone aggressively — got in their face, used their body to communicate "I will hurt you" — and the facilitators either did nothing or stepped in after the person was already in striking range, everyone saw something very specific: _if you disagree with the angry person, the facilitators won't stop them from hurting you._ They might deal with it after. They might retroactively address it. But they won't actually protect you in the moment it matters. And that's enough to silence every honest voice in the room.
 
 This is [fawning](./fawning.md). You're scared of the violent person, so you sacrifice the easier target. You might tell yourself you're "de-escalating" or "being strategic," but what you're actually doing is letting fear decide who stays and who goes.
 
@@ -147,13 +147,13 @@ Whether you do nothing or remove the wrong person, the underlying pattern is the
 
 After both parties have left:
 
-"Here's what happened. [Name/Person A] made a mistake. That mistake is protected under our agreements—it was good-faith, and they did nothing that warrants removal. I asked them to leave because threats were being made against their life, and I determined they weren't safe. Their removal was a safety action, not a consequence.
+"Here's what happened. [Name/Person A] made a mistake. That mistake is protected under our agreements — it was good-faith, and they did nothing that warrants removal. I asked them to leave because threats were being made against their life, and I determined they weren't safe. Their removal was a safety action, not a consequence.
 
-After they were safely away, I asked [Name/Person B] to leave because threats of violence violate the agreements of this container. That behavior is not tolerated here—regardless of what prompted it.
+After they were safely away, I asked [Name/Person B] to leave because threats of violence violate the agreements of this container. That behavior is not tolerated here — regardless of what prompted it.
 
 [Person B] was clearly in a lot of pain. That pain is real. AND the way they expressed it crossed a line I can't allow in this space. Both of those things are true at the same time."
 
-This matters more than almost anything else you do. Without this communication, stories fill the vacuum. People assume the mistake-maker was a predator. They assume the violent person was justified. They assume the facilitator played favorites. You have to narrate what happened and why—clearly, impartially, without moralizing—so the container can make sense of it.
+This matters more than almost anything else you do. Without this communication, stories fill the vacuum. People assume the mistake-maker was a predator. They assume the violent person was justified. They assume the facilitator played favorites. You have to narrate what happened and why — clearly, impartially, without moralizing — so the container can make sense of it.
 
 ---
 
@@ -161,13 +161,13 @@ This matters more than almost anything else you do. Without this communication, 
 
 This is where actions communicate louder than any speech.
 
-**Refund the mistake-maker.** They had to leave an event they paid for—not because they broke the rules, but because an emergency made it unsafe for them to stay. Refunding them says: "What happened to you was not standard. Your mistake was protected, and I'm putting my money behind that."
+**Refund the mistake-maker.** They had to leave an event they paid for — not because they broke the rules, but because an emergency made it unsafe for them to stay. Refunding them says: "What happened to you was not standard. Your mistake was protected, and I'm putting my money behind that."
 
 **Refund the violent person's partner** (or any innocent party connected to them who has to leave through no fault of their own). They didn't do anything wrong. They're collateral.
 
 **Do not refund the violent person.** They violated the agreements. The differential treatment is the point.
 
-### Tell the Crowd
+### Tell the Crowd About the Refund
 
 This is a judgment call, but I lean toward transparency. Tell the group that the mistake-maker was refunded. Tell them the violent person was not.
 
@@ -191,7 +191,7 @@ Then give them information:
 
 1. **They're welcome at future events.** Not the same ongoing retreat (the violent person could figure out they're back and return), but future containers. Their standing hasn't changed.
 
-2. **Tell them how you're handling the violent person.** What boundaries you've set, what consequences you've enforced. They need to know you took action—that you didn't just move on once they were out of sight. This is critical. If they don't hear this, they'll carry the story that the violent person faced no consequences.
+2. **Tell them how you're handling the violent person.** What boundaries you've set, what consequences you've enforced. They need to know you took action — that you didn't just move on once they were out of sight. This is critical. If they don't hear this, they'll carry the story that the violent person faced no consequences.
 
 3. **Safety planning.** Does the violent person live in their area? Could they be found, harassed, or attacked outside the container? If you know where your participants live, flag this risk proactively. If the violent person is local to them, they may need to take steps: being cautious about sharing their address in community spaces, being aware that the violent person might try to damage their reputation locally.
 
@@ -202,7 +202,7 @@ Then give them information:
 Clear communication about their standing:
 
 - They are not welcome back until repair has been done (see: [Re-Entry Policy](#re-entry-policy))
-- This isn't permanent exile (unless their behavior warrants it)—it's a consequence with a path back
+- This isn't permanent exile (unless their behavior warrants it) — it's a consequence with a path back
 - The path back is specific: not just time passing, but actual accountability
 
 ---
@@ -215,25 +215,25 @@ The violent person doesn't get to come back just because time passed and everyon
 
 They're excluded from future containers until one of two conditions is met:
 
-1. **Sufficient time has passed** (a year is a reasonable minimum) AND they've demonstrated reflection—not just cooling off, but actual understanding of what happened.
+1. **Sufficient time has passed** (a year is a reasonable minimum) AND they've demonstrated reflection — not just cooling off, but actual understanding of what happened.
 
 2. **They've undergone a genuine repair process.** This means:
    - Acknowledging what they did (not "I was just protecting people")
    - Making it right with the facilitators and the container
-   - Making it right with the person they threatened—not just apologizing, but actual [repair](./repair.md)
+   - Making it right with the person they threatened — not just apologizing, but actual [repair](./repair.md)
    - Seeing through the story that justified their behavior
 
-That last point matters most. If they still believe they were righteous—"there was a dangerous predator and I was protecting everyone"—they'll do the same thing in the next container. Their nervous system is tuned to see threats that aren't there, and they'll escalate again the moment someone makes a mistake. Letting them back in without genuine insight isn't compassion. It's negligence.
+That last point matters most. If they still believe they were righteous — "there was a dangerous predator and I was protecting everyone" — they'll do the same thing in the next container. Their nervous system is tuned to see threats that aren't there, and they'll escalate again the moment someone makes a mistake. Letting them back in without genuine insight isn't compassion. It's negligence.
 
-### Tell the Crowd
+### Tell the Crowd About Re-Entry
 
-Tell the group that the violent person isn't welcome back until real repair is done—especially with the person they threatened.
+Tell the group that the violent person isn't welcome back until real repair is done — especially with the person they threatened.
 
 This shows everyone: threats of violence have lasting consequences. You are safe here. We won't quietly let this person back in and hope nobody notices.
 
 ### The Boundary Example
 
-"You're not welcome in our containers right now. We can talk about coming back after [timeframe], but only if you've done real work on what happened—including making it right with the person you threatened. This isn't permanent. But it's real, and it's not negotiable."
+"You're not welcome in our containers right now. We can talk about coming back after [timeframe], but only if you've done real work on what happened — including making it right with the person you threatened. This isn't permanent. But it's real, and it's not negotiable."
 
 ### What You Tolerate Persists
 
@@ -245,7 +245,7 @@ Here's how it happens in practice:
 
 **Do not:**
 
-- **Set no boundaries at all.** Act like it happened and move on. Never tell them what they did was unacceptable. Never communicate consequences. This teaches them that death threats have no cost—and teaches your community the same.
+- **Set no boundaries at all.** Act like it happened and move on. Never tell them what they did was unacceptable. Never communicate consequences. This teaches them that death threats have no cost — and teaches your community the same.
 
 - **Let them back into containers without repair or a cooling-off period.** No conversation, no accountability, no time. They just show up at the next event like nothing happened. Their stories are intact. Their activation patterns haven't changed. They will do it again.
 
@@ -261,13 +261,13 @@ Here's how it happens in practice:
 
 Everything above still applies when the mistake-maker is a staff member or assistant. Mistakes are protected regardless of role. Staff are human. It happens.
 
-But staff carry additional responsibility. They're in a position of trust, and there's often a power differential between staff and participants. A participant's mistake and a staff member's identical mistake land differently—not because the action is different, but because the context is.
+But staff carry additional responsibility. They're in a position of trust, and there's often a power differential between staff and participants. A participant's mistake and a staff member's identical mistake land differently — not because the action is different, but because the context is.
 
 ### Higher Standard, Same Protection
 
-Staff are expected to make fewer mistakes. That's part of what "trained and experienced" means. But the promise still covers them. A good-faith mistake by a staff member doesn't result in removal, shaming, or punishment—just as it wouldn't for a participant.
+Staff are expected to make fewer mistakes. That's part of what "trained and experienced" means. But the promise still covers them. A good-faith mistake by a staff member doesn't result in removal, shaming, or punishment — just as it wouldn't for a participant.
 
-What might look different: accountability measures that reflect the higher standard. If a staff member makes a mistake, they might step back from certain responsibilities for the remainder of the event—not playing in the play space that night, for example. Not as punishment, but as a demonstration that the container takes staff responsibility seriously.
+What might look different: accountability measures that reflect the higher standard. If a staff member makes a mistake, they might step back from certain responsibilities for the remainder of the event — not playing in the play space that night, for example. Not as punishment, but as a demonstration that the container takes staff responsibility seriously.
 
 The point is what it shows participants: when someone with more power makes a mistake, the response scales with the responsibility they carry.
 
@@ -277,7 +277,7 @@ At the beginning of the container, say something like:
 
 "Our staff are trained, experienced, and held to high standards. They're also human. If a staff member makes a mistake, it's handled with the same framework as any other mistake: transparency, accountability, and repair."
 
-Said out loud, that buys credibility. The facilitator who says "my staff are perfect and nothing will ever go wrong" hasn't thought about failure modes—and that makes them _less_ trustworthy, not more. It's the same pattern as a participant who says ["I would never do that"](./body-stories.md)—the certainty itself is the red flag.
+Said out loud, that buys credibility. The facilitator who says "my staff are perfect and nothing will ever go wrong" hasn't thought about failure modes — and that makes them _less_ trustworthy, not more. It's the same pattern as a participant who says ["I would never do that"](./body-stories.md) — the certainty itself is the red flag.
 
 Think about airline safety briefings. Nobody gets off the plane because the flight attendant mentions emergency exits. They feel _safer_ knowing there's a plan. The same principle applies here: pre-framing what happens when things go wrong increases confidence that you've also thought about preventing things from going wrong.
 
