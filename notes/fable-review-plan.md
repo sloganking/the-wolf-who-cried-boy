@@ -535,6 +535,20 @@ Raised as a candidate gap in the same 2026-07-06 read, then evaluated against th
 
 ---
 
+### MM. Where the bar sits for "get the threatened person out first" (added during the law-enforcement review pass, author-raised)
+
+**The question (author):** the Order of Operations tells the facilitator to remove the threatened person before anyone else. Does that hold for every threat of violence, or only for death threats? His framing: *"Threatening to beat them up would just be like, have them leave, right? Threatening to murder is like, have the threatened person leave for their safety and then have the murder threatener leave."* He flagged not knowing where the bar is — and the book never says.
+
+**In-session answer (needs author sign-off before it ships):** the bar is not the magnitude of harm threatened — it's whether the threat is physical at all. Step 2 already states the mechanism: removing the violent person *"might trigger the very violence you're trying to prevent, and you need the potential victim out of range first."* That risk is identical for a promised beating and a promised killing — someone who might swing on the way out is the reason the target should already be gone, and the size of what they promised doesn't change the geometry of the room. What falls *below* the bar is non-physical threats ("I'll ruin you," "I'll tell everyone"), which route to the mob and reputation material and get a different response entirely — not a lighter version of this protocol.
+
+**Where it would go:** `handling-threats-of-violence.md` → Step 1, or Step 2's rationale. One or two sentences naming the physical / non-physical line explicitly, instead of leaving the reader to infer the bar from a worked example that happens to involve death threats. **Caution:** Steps 1–4 predate the 2026-07 law-enforcement pass and were NOT re-reviewed in it, so this is an edit to already-settled material — make it deliberately, not folded into the law-enforcement batch.
+
+**Related fix already made (law-enforcement pass):** the "someone else calls the police" sentence in the facilitator duties had the removal order backwards — it read "the person who made threats still leaves, the person they attacked still gets protected," inverting Steps 1–3. Corrected to "the threatened person still goes out first, the person who made threats still leaves after them." Worth checking whether the same inversion appears anywhere else the sequence is summarized rather than walked.
+
+**Status: OPEN — recorded, not drafted.**
+
+---
+
 ## Second-pass ideas (LOWER TIER than items A–P — smaller moves, do after the main list)
 
 These came from a later pass (2026-07-01 evening). Worth doing; not load-bearing like A–P.
