@@ -557,6 +557,18 @@ Raised as a candidate gap in the same 2026-07-06 read, then evaluated against th
 
 **Status: DRAFTED same session, author-directed** — after he raised it a second time and asked whether stating the bar was "deciding for them." Answer given and accepted: no, because Step 2 already asserts the *mechanism* (removal may trigger the violence, so the target goes first), and the bar is only where that mechanism reaches — a claim's scope, not a new rule. Stronger argument for shipping it: the chapter demonstrates the protocol with death threats, so the worked example itself invites the dangerous misread that a promised beating doesn't qualify. Shipped as a paragraph appended to Step 2, naming the physical / non-physical line with concrete instances on both sides. **Steps 1–4 are otherwise still un-re-reviewed since before the law-enforcement pass** — that caution stands for any further edits there.
 
+### NN. Nobody threatened stays alone — accompaniment as a stated practice (author-originated, law-enforcement review pass)
+
+**The author's idea, verbatim in substance:** *"I would have the book have someone follow the threatened person around as long as they've been threatened to make sure they're safe."* He raised it while rejecting a weaker support item, and flagged he wasn't sure whether the book already covers it.
+
+**What the book currently has (partial, scattered):** `handling-threats-of-violence.md` Step 1 says "make sure they're traveling, that they have a ride, that the violent person can't follow them"; "Don't Do This Alone" assigns one person to escort them to safety; Follow-Up → With the Mistake-Maker covers safety planning *after* the event. So the book has escort-to-the-car and after-the-fact planning, but **never states the simple standing rule: from the moment a threat is made until they are away and safe, the threatened person is not by themselves.**
+
+**Why it's worth naming as its own practice:** it's a single sentence a facilitator can actually execute under adrenaline, it covers the gap between Step 1 and their car, and it doesn't depend on anyone correctly assessing severity in the moment. It also composes with the `where-the-police-fit.md` support duty, which now says they don't have to make a call or talk to officers alone — the same principle, extended backward to the incident itself.
+
+**Where it would go:** `handling-threats-of-violence.md` Step 1, or "Don't Do This Alone" (which already owns staffing during the gap). **Note the same caution as item MM:** Steps 1–4 predate the law-enforcement pass and haven't been re-reviewed.
+
+**Status: OPEN — recorded, not drafted.**
+
 ---
 
 ## Second-pass ideas (LOWER TIER than items A–P — smaller moves, do after the main list)

@@ -6,6 +6,13 @@ Append-only ledger of real sentences that failed a writing-guide rule and what t
 
 ---
 
+## [2026-07-22] Inventing a failure mode in order to warn the reader against it | `where-the-police-fit.md`
+
+- **Written:** "Don't make them tell the story over and over to satisfy your own need to understand it; you have your own account for that." — in the facilitator duty about supporting a threatened person.
+- **Rules broken (three at once):** (1) **Don't Repeat Fiction** — no reader was thinking of interrogating a frightened person for their own gratification; the sentence installs the accusation in order to forbid it. (2) **No moralizing** — "to satisfy your own need" assigns the reader a self-serving motive, the "words that could trigger someone to stop reading because they feel judged" case, pointed straight at the facilitator. (3) **Martian check** — a claim about someone's inner motive stated as fact. Author's catch: *"that just sounds unhinged, or like, no one was suggesting that."*
+- **Became:** cut entirely. The surrounding concrete items (they don't have to decide tonight; they don't have to make the call alone; keep them posted on what you're doing about the person who threatened them) carry the duty without accusing anyone.
+- **Pattern to watch:** this is what AI drafting produces when asked to make advice *concrete* — the fastest route to a specific sentence is to imagine a specific wrong behavior and prohibit it. That route always ends in moralizing, because a prohibition needs a wrongdoer. The book's move is the opposite: state the helpful action directly ("someone goes with them"), never the mistake it avoids. Test any imperative beginning "Don't…": is the reader already doing this, or did I invent them doing it so I'd have something to say?
+
 ## [2026-07-22] Naming the category instead of the thing | `handling-threats-of-violence.md` (law-enforcement pass)
 
 - **Written:** "Conduct that could only ever be the lesser tier carries a shorter window, generally one year." Earlier in the same pass: "a chain of hands," "What you don't get is their decision," "they need it before they decide how much to tell you," "where your own line is."
