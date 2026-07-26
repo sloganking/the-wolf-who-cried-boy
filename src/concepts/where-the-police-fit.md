@@ -79,6 +79,8 @@ The physical arithmetic is worse than the legal one: holding someone turns a per
 
 None of these questions has one answer everywhere. Threatening someone is a crime under a different name two states over. Recording a conversation needs one person's consent in some states and everyone's in California. In New Jersey and Wyoming every adult is legally required to report suspected child abuse; in most states that duty falls on listed professions only. Across national borders the spread is wider again.
 
+Finding these answers doesn't make you a lawyer, and none of it is legal advice. It's the same move as [knowing where the law actually stands](./when-youve-been-wronged.md#know-where-the-law-actually-stands) before fear answers for you — applied to the container instead of yourself.
+
 Before you host — especially somewhere new — find these answers the way you'd locate the fire exits:
 
 1. **What threatening someone is called** where you're hosting — criminal threats, terroristic threats, menacing, intimidation — and which tiers it can be charged at. Some places make it one or the other; some leave the choice to the prosecutor, so the same words become a felony or a misdemeanor depending on a decision made later.
@@ -94,7 +96,7 @@ Before you host — especially somewhere new — find these answers the way you'
 
 One person can go find all ten, and [your conflict specialist](./before-you-facilitate.md#your-conflict-specialist) is the obvious candidate — they're the one who'll be using the answers. When something happens, they run it and you back them: a division agreed before the container, not negotiated inside it. If nobody on your team holds that role yet, the answers are yours. Offered as a recommendation and nothing stronger — the doors don't open until the list is done.
 
-None of this makes you a lawyer, and none of it is legal advice. It's the same move as [knowing where the law actually stands](./when-youve-been-wronged.md#know-where-the-law-actually-stands) before fear answers for you — applied to the container instead of yourself. Find out where the exits are while the building is quiet.
+Find out where the exits are while the building is quiet.
 
 ---
 
