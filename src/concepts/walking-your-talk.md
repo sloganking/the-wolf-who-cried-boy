@@ -57,7 +57,7 @@ Here's what every participant in that room just learned:
 
 > "Mistakes are not OK and will not be tolerated. And if you're a participant who makes a mistake, you'll be attacked and asked to leave too."
 
-It doesn't matter what you *said*. It doesn't matter if you apologized later. It doesn't matter if you explained that "normally" this wouldn't happen. Your actions taught the lesson. And the lesson was: **the intimidating person wins. The mistake-maker gets punished. Threats of violence are tolerated and even rewarded. Your promises of protection are worthless when someone scary gets upset.**
+It doesn't matter what you *said*. It doesn't matter if you apologized later. It doesn't matter if you explained that "normally" this wouldn't happen. Your actions taught the lesson. And the lesson was: **the intimidating person wins. The attacked person gets punished. Threats of violence are tolerated and even rewarded. Your promises of protection are worthless when someone scary gets upset.**
 
 Every participant now knows:
 - The rules don't actually protect them
@@ -231,7 +231,7 @@ Someone makes a MEDIUM mistake. The person affected talks to them about it. They
 
 But the affected person's partner hears about it. They weren't there. They didn't witness anything. They just heard about it secondhand—and they're furious. They step into [Rescuer](./drama-triangle.md#the-three-roles) mode.
 
-Now the facilitators set up an exercise where the Rescuer and the mistake-maker can process. Emotions run high. The Rescuer is attacking with maximum intensity. The mistake-maker is apologizing, trying to de-escalate.
+Now the facilitators set up an exercise where the Rescuer and the attacked person can process. Emotions run high. The Rescuer is attacking with maximum intensity. The attacked person is apologizing, trying to de-escalate.
 
 **What the audience sees:** Someone very angry. Someone apologizing.
 
@@ -388,7 +388,7 @@ Either way, the limit is the same. Someone pushing back on a hard truth is part 
 
 Everything above answers *what* to do. There's one objection left, and it deserves a straight answer because it sounds like prudence:
 
-*"The right call puts the risk on me. If I remove the person making threats, I'm the one they slander online. If I protect the mistake-maker, I'm the one the mob turns on. Caving is safer. Why would I volunteer for the risk?"*
+*"The right call puts the risk on me. If I remove the person making threats, I'm the one they slander online. If I protect the attacked person, I'm the one the mob turns on. Caving is safer. Why would I volunteer for the risk?"*
 
 Look at the assumption underneath: that one of your options is safe. Jim Rohn spent a career dismantling that assumption:
 
