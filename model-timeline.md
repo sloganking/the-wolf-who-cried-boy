@@ -47,6 +47,7 @@ A row means: from this date, sessions in this repo use this model, until the nex
 |------|------------------------------|
 | 2025-12-31 | Newest Claude Opus available (see release-date table above) |
 | 2026-07-01 | Claude Fable 5 (thinking, high) |
+| 2026-07-25 | Claude Opus 5 |
 
 ---
 
@@ -54,4 +55,4 @@ A row means: from this date, sessions in this repo use this model, until the nex
 
 Log here any time the tables above are wrong for a specific stretch — a one-off session with a different model, work committed long after it was written, a forgotten switch discovered later. Format: date range or commit(s), actual model, one line of context.
 
-*(none yet)*
+- **2026-07-01 → 2026-07-25, uncertain.** The Opus 5 row was appended on 2026-07-25 by the session that noticed the table had not been updated since 2026-07-01. The actual switch date from Fable 5 is unknown, and at least one earlier Opus 5 session ran on 2026-07-25 before the row existed. Treat any line committed in that window as "Fable 5 or a later model" rather than confidently Fable 5. This is the forgotten-switch failure mode the caveats above predict; logging it rather than rewriting the table, per the file's own rule.
