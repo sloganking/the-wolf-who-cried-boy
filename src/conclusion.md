@@ -135,7 +135,7 @@ That's not recovery. That's an origin story. And it's yours to write.
 
 And somebody is going to write it. Every community eventually has the moment this book describes — the mistake, the accusation, the room turning, the rescue about to cause more harm than whatever it was rescuing anyone from. In that moment, either somebody sees clearly or nobody does. Either somebody stands up, or the pattern runs unopposed.
 
-Jim Rohn used to put a question to his audiences. He was talking about money and skill and ambition — but the question is bigger than what he aimed it at.
+Jim Rohn used to put a question to his audiences.
 
 > **"Why not see what kind of person you can become? Why not see what kind of influence you can have?... My personal question to you is: why not you?"**  
 > — _[Jim Rohn](https://youtu.be/xeF7VUGTu6M?t=262)_
