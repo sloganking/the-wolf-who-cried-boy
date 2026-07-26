@@ -303,6 +303,7 @@ This is a genuinely painful situation. Even handled perfectly, it's disruptive. 
 
 ## Related
 
+- [Where the Police Fit](./where-the-police-fit.md) — The step after this: what to do when someone won't leave, and what a call to the police actually starts
 - [Guiding Public Repair](./guiding-public-repair.md) — The step before this: when someone is angry but hasn't crossed into threats yet
 - [When Things Go Wrong](./when-things-go-wrong.md) — Emergency exception, threats of violence, de-escalation
 - [Before You Facilitate](./before-you-facilitate.md) — The promise, the first officer, pre-framing

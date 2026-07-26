@@ -2,9 +2,9 @@
 
 ---
 
-Everything in this walkthrough runs on one kind of power: social authority. The agreements, the promise, the removal script — they work because the people in the room agreed to be bound by them. That authority is real. It is also voluntary. It ends the moment someone stops caring about it.
+Everything a container runs on is one kind of power: social authority. The agreements, [the promise](./before-you-facilitate.md#the-promise), the words you say when you ask someone to leave — they work because the people in the room agreed to be bound by them. That authority is real. It is also voluntary. It ends the moment someone stops caring about it.
 
-Step 3 — removing the violent person — ends with "you cannot be here." Everything after it assumes they walk out the door. Sometimes they don't.
+[The walkthrough for threats of violence](./handling-threats-of-violence.md) ends its removal step with "you cannot be here." Everything after that assumes the person walks out the door. Sometimes they don't — and what happens then runs on a different kind of power, one that doesn't need anyone's agreement.
 
 ## When Someone Won't Leave
 
@@ -27,7 +27,7 @@ From outside the story, the option is obvious. Inside the room, five separate me
 - **The tool isn't filed.** People reach for the tools they're used to. Someone who has never called the police for anything doesn't have "call the police" filed in their head as an available action — and the [reticular activating system](./trauma-and-filters.md#try-this-right-now) already showed you what happens to options that aren't filed: they get filtered out before they reach the part of the brain that chooses. The idea to call isn't rejected. It never comes up.
 - **The room's filters have already assigned the roles.** If the crowd has organized around the story that the person making threats is [protecting everyone](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator), the roles are cast backwards: the righteous predator committing the room's only crime is wearing the hero's costume, and the person who committed no crime at all is wearing [the predator's costume](./trauma-and-filters.md#when-accusations-occur). Calling the police on the hero is unthinkable — and anyone who *is* thinking about the police is aiming at the wrong person.
 - **The threatened person's own filter buries it.** The person being threatened has just been publicly attacked in front of a room that seems to agree. Their filter doesn't file the legal system as a remedy — it files it under *more people who will misunderstand and attack me*. The book has already shown where that leads: [terrified of a legal system that was pointed at the person threatening them the whole time](./when-youve-been-wronged.md#know-where-the-law-actually-stands).
-- **The facilitators don't know the law either.** A facilitator who doesn't know the law doesn't know what a call brings toward a sex-positive event: protection, or scrutiny. That's not fear of being caught at something — nothing about the event is a crime. It's that officers are humans with [filters of their own](./trauma-and-filters.md), arriving mid-crisis at a scene [politics primes people to misread](./body-stories.md#sex-is-politics) — and an unpredictable system doesn't feel like protection. It feels like one more unknown danger. Which is the quiet argument under this whole section: [finding out where you stand before the event](#the-local-law-checklist) is what turns the legal system into what this chapter has been calling it — a fire exit, located while the building is quiet.
+- **The facilitators don't know the law either.** A facilitator who doesn't know the law doesn't know what a call brings toward a sex-positive event: protection, or scrutiny. That's not fear of being caught at something — nothing about the event is a crime. It's that officers are humans with [filters of their own](./trauma-and-filters.md), arriving mid-crisis at a scene [politics primes people to misread](./body-stories.md#sex-is-politics) — and an unpredictable system doesn't feel like protection. It feels like one more unknown danger. Which is the quiet argument under this whole chapter: [finding out where you stand before the event](#the-local-law-checklist) is what turns the legal system into a fire exit — located while the building is quiet.
 - **The imagined machinery only comes in one size.** If the only legal frame anyone carries is the felony one — prison, a record, a life destroyed — then calling feels like firing the maximum weapon, and for anything short of the worst threat it registers as [over-response](./appropriate-response.md). What that frame misses is that the law is [graduated by severity](./severity.md#the-scale) too. At the bottom of the scale, having someone escorted off the property accuses no one of a crime at all. Above that, asking for a removal is a different call from reporting a crime — and reported threats have tiers of their own, from minor-offense versions up to the prison-and-record version everyone pictures. The machinery scales with what officers actually find. Believing it only comes in one size is what keeps it unused at every size.
 
 ## What Calling the Police Actually Starts
@@ -82,3 +82,13 @@ You are not going to research law during a crisis. Before you host — especiall
 Every question on this list is a before-question, and none of them can be answered during. One person can go find all nine — [your conflict specialist](./before-you-facilitate.md#your-conflict-specialist) is the obvious candidate, and handing them the research is most of the reason to have one. What doesn't hand over is knowing the answers: a facilitator asking someone else what the plan is has already spent the time the moment was made of. Offered as a recommendation and nothing stronger — the doors don't open until the list is done.
 
 None of this makes you a lawyer, and none of it is legal advice. It's the same move as [knowing where the law actually stands](./when-youve-been-wronged.md#know-where-the-law-actually-stands) before fear answers for you — applied to the container instead of yourself. Find out where the exits are while the building is quiet.
+
+---
+
+## Related
+
+- [Handling Threats of Violence](./handling-threats-of-violence.md) — The walkthrough this picks up from: the order of operations, what to say, and the follow-up
+- [When You've Been Wronged](./when-youve-been-wronged.md) — Documentation, and knowing where the law actually stands when it's you
+- [Before You Facilitate](./before-you-facilitate.md) — The promise, and the conflict specialist who can go find these answers
+- [Appropriate Response](./appropriate-response.md) — Matching the response to the severity, which is what the legal system is also doing
+- [Severity](./severity.md) — The scale the law is graduated along too
