@@ -15,9 +15,9 @@ Notes from conversation on Mar 4, 2026. Source material for `src/concepts/handli
 
 ## Order of Operations
 
-1. Remove the mistake-maker FIRST — not as punishment, but because the facilitator deems the situation unsafe for them.
-2. If you ask the violent person to leave first, they might lash out and attack the mistake-maker before they can get away.
-3. Keep the violent person contained until the mistake-maker is safely out of range (gone home, traveled far enough they can't be followed).
+1. Remove the attacked person FIRST — not as punishment, but because the facilitator deems the situation unsafe for them.
+2. If you ask the violent person to leave first, they might lash out and attack the attacked person before they can get away.
+3. Keep the violent person contained until the attacked person is safely out of range (gone home, traveled far enough they can't be followed).
 4. Then remove the violent person for violating the container's agreements.
 5. Then address the crowd — explain what happened and why, after both parties are gone.
 
@@ -25,7 +25,7 @@ Notes from conversation on Mar 4, 2026. Source material for `src/concepts/handli
 
 ## What NOT to Do (Both Are Fawning)
 
-- **Do not remove the mistake-maker and keep the violent person.** This teaches everyone that mistakes get you expelled and death threats are tolerated. The angry person is now running the container. This is fawning — you're afraid of the violent person so you sacrifice the easier target.
+- **Do not remove the attacked person and keep the violent person.** This teaches everyone that mistakes get you expelled and death threats are tolerated. The angry person is now running the container. This is fawning — you're afraid of the violent person so you sacrifice the easier target.
 - **Do not do nothing.** Also fawning. Pretending death threats didn't happen because you're afraid to confront the violent person. Extremely dangerous.
 - Both of these are facilitator fawning — avoiding confrontation with the threatening person out of fear, at the expense of the person who made a mistake.
 
@@ -34,18 +34,18 @@ Notes from conversation on Mar 4, 2026. Source material for `src/concepts/handli
 ## The Gap Between Removals
 
 - This is the most dangerous and turbulent window of the entire scenario.
-- The crowd sees you removing the mistake-maker and NOT (yet) the violent person — which looks like you're violating the promise.
+- The crowd sees you removing the attacked person and NOT (yet) the violent person — which looks like you're violating the promise.
 - The violent person is still in the room and might try to rally support, spin their story, or escalate.
 - **Pre-framing solution:** At the start of the container, pre-frame that in emergency situations, rules may be acted on in a certain order or with facilitator discretion to keep things safe. Staff might not explain every action immediately because it's a matter of necessity.
 - **In-the-moment language:** "We're in emergency protocols. This will be addressed momentarily. Please bear with us. The promise will be completely fulfilled and honored — soon, and definitely by the end of this container."
 - Participants are right to point out if facilitators aren't following their own rules — and you should welcome that. But in emergencies, you might say "you're right to flag that, and I will address it, but I need you to trust me for the next few minutes."
-- **Having a first officer / co-facilitator is critical here.** One person escorts the mistake-maker out. The other stays with the group and the violent person. Trying to do this solo leaves dangerous gaps.
+- **Having a first officer / co-facilitator is critical here.** One person escorts the attacked person out. The other stays with the group and the violent person. Trying to do this solo leaves dangerous gaps.
 
 ---
 
 ## What to Say to Each Party
 
-### To the Mistake-Maker (When Asking Them to Leave)
+### To the Attacked Person (When Asking Them to Leave)
 
 - "You're leaving not because your mistake wasn't okay — those are protected — but because I deem this situation unsafe for you right now. This is an emergency, and I'm acting to protect you."
 - Make it absolutely clear: their mistake is still protected. They are not being punished. This is a safety action.
@@ -58,8 +58,8 @@ Notes from conversation on Mar 4, 2026. Source material for `src/concepts/handli
 
 ### To the Crowd (After Both Have Left)
 
-- The mistake-maker left not because they made a mistake — mistakes are protected — but because threats were being made against their life and the facilitator deemed it an unsafe situation.
-- After the mistake-maker was safely away, the violent person was asked to leave because threats of violence violate the container's agreements and will not be tolerated.
+- The attacked person left not because they made a mistake — mistakes are protected — but because threats were being made against their life and the facilitator deemed it an unsafe situation.
+- After the attacked person was safely away, the violent person was asked to leave because threats of violence violate the container's agreements and will not be tolerated.
 - The facilitator is acting impartially. This is about safety, not morality. Not picking favorites.
 - Frame the violent person as someone who was in pain AND crossed a line — both things true simultaneously. Don't moralize them into a villain.
 
@@ -67,7 +67,7 @@ Notes from conversation on Mar 4, 2026. Source material for `src/concepts/handli
 
 ## Refund Policy (Show Don't Tell)
 
-- **REFUND the mistake-maker** who had to leave for their own safety. Shows through action (not just words) that mistakes are actually accepted and what happened was abnormal. A "thank you for leaving when I asked you to so I could keep the container safe."
+- **REFUND the attacked person** who had to leave for their own safety. Shows through action (not just words) that mistakes are actually accepted and what happened was abnormal. A "thank you for leaving when I asked you to so I could keep the container safe."
 - **REFUND the violent person's romantic partner** or any innocent party connected to them who has to leave through no fault of their own.
 - **Do NOT refund the violent person.** They violated the agreements.
 - The differential refunding sets an extremely sharp precedent — it actually communicates (not just says) what's okay and what's not.
@@ -75,7 +75,7 @@ Notes from conversation on Mar 4, 2026. Source material for `src/concepts/handli
 
 ### Should You Tell the Crowd About Refunds?
 
-- **Arguments for telling:** Shows you're serious. Shows that the mistake-maker isn't leaving because they made a mistake. Gives the crowd trust and safety — "if I make a mistake, I'm actually protected, even in worst case." Shows them HOW to handle bad situations (teaching, not just modeling). Shows through action, not just words.
+- **Arguments for telling:** Shows you're serious. Shows that the attacked person isn't leaving because they made a mistake. Gives the crowd trust and safety — "if I make a mistake, I'm actually protected, even in worst case." Shows them HOW to handle bad situations (teaching, not just modeling). Shows through action, not just words.
 - **Arguments against:** Might be too much information. Financial details could feel unprofessional.
 - **Lean:** Probably tell them. It's showing instead of telling, and it teaches people how things should be handled, which is valuable beyond just this one incident.
 - Also consider telling them you refunded the violent person's partner but NOT the violent person — this further sharpens the precedent.
@@ -84,13 +84,13 @@ Notes from conversation on Mar 4, 2026. Source material for `src/concepts/handli
 
 ## Follow-Up After the Event
 
-### With the Mistake-Maker
+### With the Attacked Person
 
 - Reach out to check on them. "How are you?"
 - Make clear they're welcome back to FUTURE containers (NOT the same ongoing retreat — the violent person could figure out they're there and come back).
 - **Tell them how you and your organization are handling the violent person.** What boundaries you're setting, what consequences are being enforced. This is extremely important — they need to know you took action, not just moved on.
-- **Safety planning:** Does the violent person live in the mistake-maker's area? If yes, the mistake-maker needs to take steps to make sure the violent person can't find their address through word of mouth, can't come attack or harass them, can't slander their reputation in their local community. The facilitator should proactively flag this risk.
-- If the violent person is eventually allowed back into future containers/events, **notify the mistake-maker** so they can check before attending. Ideally the mistake-maker takes responsibility for checking themselves (asking facilitators "is this person attending?"), because facilitators can't always track every conflict pair across every event.
+- **Safety planning:** Does the violent person live in the attacked person's area? If yes, the attacked person needs to take steps to make sure the violent person can't find their address through word of mouth, can't come attack or harass them, can't slander their reputation in their local community. The facilitator should proactively flag this risk.
+- If the violent person is eventually allowed back into future containers/events, **notify the attacked person** so they can check before attending. Ideally the attacked person takes responsibility for checking themselves (asking facilitators "is this person attending?"), because facilitators can't always track every conflict pair across every event.
 
 ### With the Violent Person
 

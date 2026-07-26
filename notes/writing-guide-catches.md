@@ -6,6 +6,27 @@ Append-only ledger of real sentences that failed a writing-guide rule and what t
 
 ---
 
+## [2026-07-26] Script that puts a verdict in the facilitator's mouth | `handling-threats-of-violence.md` (attacked-person rename)
+
+- **Written:** proposed crowd-address variant for the no-mistake case — "I've looked into what was said about [Person A]. It isn't accurate. They didn't do anything that violates our agreements."
+- **Rule broken:** Inarguable Writing / the Martian check, aimed at a script the reader will actually say out loud. The line has a facilitator publicly certify a factual conclusion minutes into a crisis, before any real look. It's the same certainty-ahead-of-verification the book exists to interrupt — just pointed the other direction, and backed by the container's authority. If the facilitator turns out to be wrong, the walk-back spends the exact trust the rest of the protocol depends on.
+- **Became:** "Nothing has been brought to me that violates our agreements. I asked [Person A] to leave because threats were being made against their life." Plus the reason, on the page: *say what you have, not what you've concluded* — "nothing has been brought to me" is true when said and still true a week later.
+- **Pattern to watch:** scripts are the highest-stakes prose in the book — the reader repeats them verbatim, under pressure, with no time to notice a claim is stronger than their evidence. Every scripted sentence needs the Martian check run harder than surrounding prose, not softer. Test: could the speaker still defend this sentence a week later if the facts came out the other way?
+
+## [2026-07-26] Find-and-replace breaking true sentences | `handling-threats-of-violence.md` (attacked-person rename)
+
+- **Written:** three casualties of renaming "the mistake-maker" → "the attacked person" mechanically. (1) Step 1 script: "Not because your mistake wasn't okay — it was" became "Not because you did something wrong — you didn't" — false in the version where a mistake *did* happen, and it teaches that protection means denial, contradicting `i-made-a-mistake.md` and `repair.md`. (2) Refund line: "Your mistake was protected, and I'm putting my money behind that" became "What happened to you was not standard, and I'm putting my money behind that" — the deleted clause was the referent; the money now backs nothing nameable. (3) "Everything above still applies when the attacked person is a staff member," sitting under the heading **When Staff Make the Mistake**, followed by "Mistakes are protected regardless of role."
+- **Rules broken:** Name the Referent (2), the Martian check (1 — a sentence that isn't true in one of the two cases it covers), and plain category error (3).
+- **Became:** (1) "Not because you're in trouble — you're not," plus a following line telling the facilitator to name the mistake as protected when there was one. (2) "You did nothing that warranted this, and I'm putting my money behind that" — true in both versions, referent intact. (3) "when it's a staff member or assistant on the receiving end," heading left alone since that section genuinely is about staff mistakes.
+- **Pattern to watch:** when a term is load-bearing, the sentences around it are load-bearing too. A rename is never a rename — every occurrence sits in a sentence that was tuned to the old word, and roughly one in four will be false, unmoored, or category-confused after the swap. Read each occurrence's whole paragraph, not the line. Corollary: the old term may still be *correct* somewhere (`real-wolf-chapter-brief.md` contrasts a mistake-maker with a real wolf; the reader-role taxonomy points "mistake-maker" at `i-made-a-mistake.md`) — those occurrences stay.
+
+## [2026-07-26] Text explaining its own vocabulary choice | `handling-threats-of-violence.md` (attacked-person rename)
+
+- **Written:** "This walkthrough calls the person on the receiving end **the attacked person**, on purpose, not 'the mistake-maker' — because that's what's true in both versions."
+- **Rules broken:** Don't Repeat Fiction (planting the retired term in order to reject it — the reader never knew it was a candidate), and Don't Narrate the Structure (the document describing its own editorial decisions). Underneath both: drafting-process leakage. The rename's *rationale* belongs in the review notes; the book just uses the word.
+- **Became:** cut. The chapter states the no-mistake case as a fact about the scenario ("Or nothing happened at all. Someone's filter produced a story with nothing underneath it") and then simply uses the term. Model already in the file at "What Death Threats Can Be": *"an accidental boundary crossing, or something the person only perceived as one"* — four words, no meta-commentary.
+- **Pattern to watch:** when a term changes, the urge to justify it in-text is strong and always wrong. If the new word needs an explanation to land, it's the wrong word.
+
 ## [2026-07-22] Inventing a failure mode in order to warn the reader against it | `where-the-police-fit.md`
 
 - **Written:** "Don't make them tell the story over and over to satisfy your own need to understand it; you have your own account for that." — in the facilitator duty about supporting a threatened person.
