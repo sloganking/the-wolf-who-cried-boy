@@ -121,4 +121,4 @@ Conventions: general/US-wide answer first, then California as the worked local e
 
 ## Standing claims not yet verified in this file
 
-*(none — all legal claims currently in the book were verified 2026-07-08. New legal claims go through this file before they ship.)*
+*(none — all legal claims currently in the book are verified above, through the 2026-07-22 batch. New legal claims go through this file before they ship.)*
