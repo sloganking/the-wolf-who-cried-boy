@@ -73,7 +73,7 @@ The physical arithmetic is worse than the legal one: holding someone turns a per
 
 ## The Local-Law Checklist
 
-You are not going to research law during a crisis. Before you host — especially somewhere new — find these answers the way you'd locate the fire exits:
+Before you host — especially somewhere new — find these answers the way you'd locate the fire exits:
 
 1. **What the threat crime is called** where you're hosting — criminal threats, terroristic threats, menacing, intimidation — and which tier your location puts it in: felony (the serious tier, punishable by more than a year) or misdemeanor (the lesser tier), and what that lesser tier covers.
 2. **The emergency and non-emergency numbers** for the venue's location, and the realistic response time. A rural retreat is not a city hotel.
