@@ -53,9 +53,7 @@ But here's the problem: if you tell someone who's making death threats that they
 
 **Safety comes before principle.**
 
-### Step 1: Remove the Attacked Person First
-
-Not as punishment. As protection.
+### Step 1: Get the Attacked Person to Safety First
 
 Go to the person being threatened: "Hey, I need you to leave right now. Not because you're in trouble — you're not. But I'm not confident you're safe here, and I need to get you out before I handle the situation. Go home. I'll be in touch."
 
