@@ -545,7 +545,7 @@ Raised as a candidate gap in the same 2026-07-06 read, then evaluated against th
 
 **Related fix already made (law-enforcement pass):** the "someone else calls the police" sentence in the facilitator duties had the removal order backwards — it read "the person who made threats still leaves, the person they attacked still gets protected," inverting Steps 1–3. Corrected to "the threatened person still goes out first, the person who made threats still leaves after them." Worth checking whether the same inversion appears anywhere else the sequence is summarized rather than walked.
 
-**Status: OPEN — recorded, not drafted.**
+**Status: DRAFTED same session, author-directed** — after he raised it a second time and asked whether stating the bar was "deciding for them." Answer given and accepted: no, because Step 2 already asserts the *mechanism* (removal may trigger the violence, so the target goes first), and the bar is only where that mechanism reaches — a claim's scope, not a new rule. Stronger argument for shipping it: the chapter demonstrates the protocol with death threats, so the worked example itself invites the dangerous misread that a promised beating doesn't qualify. Shipped as a paragraph appended to Step 2, naming the physical / non-physical line with concrete instances on both sides. **Steps 1–4 are otherwise still un-re-reviewed since before the law-enforcement pass** — that caution stands for any further edits there.
 
 ---
 

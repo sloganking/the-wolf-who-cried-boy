@@ -63,6 +63,8 @@ Get them out. Make sure they're traveling, that they have a ride, that the viole
 
 While the mistake-maker is getting to safety, the violent person stays. Not because they're welcome—because removing them right now might trigger the very violence you're trying to prevent, and you need the potential victim out of range first.
 
+What sets this order isn't how bad the threat was — it's that physical violence is on the table at all. A promise to beat someone up leaves the same person in the same room with the same chance of it landing while you're moving people around, so it gets the same sequence a death threat does. Threats aimed at someone's reputation or standing instead — *I'll tell everyone what you did*, *I'll make sure you never work in this community again* — are a different situation with [a different response](./when-youve-been-wronged.md).
+
 ### Step 3: Remove the Violent Person
 
 Once the mistake-maker is safely away, you address the person who made threats:
