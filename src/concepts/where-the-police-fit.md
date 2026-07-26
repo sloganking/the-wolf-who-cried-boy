@@ -71,8 +71,6 @@ While you wait, you may be asking yourself whether you should try to keep the pe
 
 The physical arithmetic is worse than the legal one: holding someone turns a person who was leaving into a person who is fighting, in a room full of people you're responsible for. A container's authority is to make someone leave, not to keep them. And if they're gone by the time officers arrive, the report still works — that's what the witnesses and the documentation are for.
 
-None of that has to be recited to the room. What the room hears is two sentences and a decision already made; what stays private is a facilitator who knows the difference between a removal call and a criminal report, and has the local emergency and non-emergency numbers written down before anyone needs them.
-
 ## The Local-Law Checklist
 
 You are not going to research law during a crisis. Before you host — especially somewhere new — find these answers the way you'd locate the fire exits:
