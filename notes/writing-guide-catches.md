@@ -6,6 +6,13 @@ Append-only ledger of real sentences that failed a writing-guide rule and what t
 
 ---
 
+## [2026-07-22] Naming the category instead of the thing | `handling-threats-of-violence.md` (law-enforcement pass)
+
+- **Written:** "Conduct that could only ever be the lesser tier carries a shorter window, generally one year." Earlier in the same pass: "a chain of hands," "What you don't get is their decision," "they need it before they decide how much to tell you," "where your own line is."
+- **Rule broken:** Name the Referent, and the plain-language standard behind it. Each of these names an *abstraction* where the reader needs an *instance*. "Conduct that could only ever be the lesser tier" is a legal category the reader cannot populate — they have no way to know what conduct that is, so the sentence transmits nothing. Author's catch, and his framing is the useful part: **"it's one of the ones we're failing the most."** Not a one-off — a standing failure mode across this pass.
+- **Became:** "Threats that don't reach that description — a vague one nobody could tie to a specific harm, a shouting match that frightened the room, repeated harassing calls or messages — are lesser offenses, and generally carry one year instead." Examples the reader can picture, then the rule.
+- **Pattern to watch:** this is what AI drafting does under a precision constraint — when the accurate statement is a category, it writes the category. The fix is always the same: give two or three concrete instances *before* or *instead of* the abstraction. Test on any noun phrase of the shape "conduct/behavior/situations/cases that…" — if the reader can't name an example from the sentence alone, it isn't communicating. Related failure in the same pass: load-bearing metaphors ("a chain of hands") that replace the literal thing, and pronoun stacks whose antecedent sits two sentences back.
+
 ## [2026-07-14] The book's own defined term used in its popular sense | `i-made-a-mistake.md`
 
 - **Written:** "That's not a repair path. That's exile dressed up as responsibility." (Return to Community)
