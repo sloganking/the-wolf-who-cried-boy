@@ -96,8 +96,8 @@ The exact phrases the book uses to speak in observations instead of verdicts —
 - [ ] If a mistake happens, will you [walk your talk](./concepts/walking-your-talk.md) — or fawn to the loudest voice?
 - [ ] Can you distinguish between [defense and aggression](./concepts/before-you-facilitate.md#defense-vs-aggression)?
 - [ ] If threats of violence occur, do you know [how to handle them](./concepts/handling-threats-of-violence.md)?
-- [ ] Do you know the ladder when someone won't leave: [the threat already broke the promise](./concepts/before-you-facilitate.md#the-promise), so they're asked to leave — and staying past that is [a police removal, not a debate](./concepts/handling-threats-of-violence.md#when-someone-wont-leave)?
-- [ ] Does your [venue agreement](./concepts/handling-threats-of-violence.md#the-local-law-checklist) give you the right to have someone removed from the property — and if that right is the owner's, do you know how a removal happens when they're not on site?
+- [ ] Do you know the ladder when someone won't leave: [the threat already broke the promise](./concepts/before-you-facilitate.md#the-promise), so they're asked to leave — and staying past that is [a police removal, not a debate](./concepts/where-the-police-fit.md#when-someone-wont-leave)?
+- [ ] Does your [venue agreement](./concepts/where-the-police-fit.md#the-local-law-checklist) give you the right to have someone removed from the property — and if that right is the owner's, do you know how a removal happens when they're not on site?
 - [ ] Is at least one person on your team [a specialist in handling conflict and crisis](./concepts/before-you-facilitate.md#your-conflict-specialist) — and does every staff member know who that is?
 - [ ] Do you have a [First Officer](./concepts/walking-your-talk.md#your-first-officer) who will challenge you privately?
 

@@ -74,6 +74,7 @@
 - [When Things Go Wrong](./concepts/when-things-go-wrong.md)
 - [Guiding Public Repair](./concepts/guiding-public-repair.md)
 - [Handling Threats of Violence](./concepts/handling-threats-of-violence.md)
+- [Where the Police Fit](./concepts/where-the-police-fit.md)
 
 ---
 
