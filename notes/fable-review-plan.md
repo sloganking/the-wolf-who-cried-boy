@@ -569,6 +569,33 @@ Raised as a candidate gap in the same 2026-07-06 read, then evaluated against th
 
 **Status: OPEN — recorded, not drafted.**
 
+### OO. Can an organization build a friendly relationship with local police *before* it needs one? (author-raised as a side thought, law-enforcement pass; researched in-session)
+
+**The author's question:** can an org make itself a known, non-suspicious entity ahead of time so a call gets a better response — *"Hey, I'm a known entity, I run a transformational sexual retreat, people are known to get their emotions high"* — or does that backfire into scrutiny? He flagged not knowing, and that it likely varies by place.
+
+**Researched answer (2026-07-22), three findings:**
+1. **The channel already exists and is bureaucratic, not social: the special-event permit.** Many jurisdictions require one, and departments run dedicated special-events units (Las Vegas Metro's is a lieutenant, two sergeants, ten officers, three coordinators; Houston, Rockford, NYC, DC equivalent). Permit conditions commonly require a **named on-site liaison with authority to stop the event** — which maps directly onto the book's conflict specialist. Going through it makes you a known cooperative organizer as a *permit applicant*, not as someone volunteering information about sexual content.
+2. **Community/LGBTQ+ liaison officers are a real second channel — but be precise about why they exist.** They were not created for anything resembling sex-positive events. They exist because police were historically the *source* of harm to LGBTQ people: bar raids and entrapment. SFPD appointed the first US liaison to the "homophile community" in 1962, and that officer's work included ending entrapment of gay men in public restrooms; Chicago, Dallas, DC and many others run programs now, with the stated purpose of helping people from historically-targeted communities feel able to report. **What transfers to this book is the structure, not the history:** a population with rational reasons to avoid police contact, and a department-side channel built to bridge exactly that — which is the situation the chapter already names ("attendees with rational reasons to fear police contact"). If this ships, do not imply the programs were built for events like the reader's; that overstatement was made in-session and corrected. Williams Institute research notes effectiveness varies sharply with departmental support — so it's a real door, not a guaranteed one.
+3. **The cheapest relationship is one the reader may already have: the venue's.** A retreat center operating for years is already known to the local sheriff with a track record the organizer didn't have to build. Inheriting it is lower-risk than constructing one, and it's a natural addition to the venue conversation checklist item 3 already sends them to.
+
+**The framing rule that makes this safe to publish:** build the relationship through the mundane logistics every event has — capacity, parking, medical plan, on-site contact, quiet hours — never through disclosing erotic content. That's a complete and honest picture of a private adults-only retreat, and it doesn't hand anyone a reason for vice interest or create a record framing the event around sex. **Do not write this as a blanket recommendation:** in a jurisdiction with active vice enforcement or hostile zoning the calculus inverts, and the book has no way to know the reader's locale — which is precisely the variable checklist items 1 and 9 already teach them to go find.
+
+**Where it would go:** `where-the-police-fit.md` — either a new Local-Law Checklist item ("who to talk to before you host, and what to route through them") or a short subsection after the checklist. Sources for the file if it ships: LVMPD/Houston/Rockford special-events units, [Williams Institute — LGBTQ liaison officers](https://williamsinstitute.law.ucla.edu/publications/lgbtq-liaison-officers/), [LGBTQ liaison officer history](https://en.wikipedia.org/wiki/LGBTQ_liaison_officer). **Not yet entered in `legal-references.md`** — it's practice rather than law, but any claim about what departments do should be logged there before shipping.
+
+**Status: OPEN — researched, not drafted. Author called it a side thought; he has not asked for it in the book.**
+
+### PP. "When Protection Goes to the Wrong Person" — the title is ambiguous about who the wrong person is (author-raised, law-enforcement pass)
+
+**How it surfaced:** the author asked whether the phrase is moralizing and whether it should name "the aggressor, the threatening person" instead — which is itself the evidence. The section (`before-you-facilitate.md`) defines it as *"the facilitator protects themselves or their organization instead of the person who needs it."* **The wrong person is the facilitator.** The author read it as the aggressor, which is a reasonable reading of those five words and not the intended one.
+
+**Assessment:** *not* moralizing — "wrong" names a misdelivery, not a character, and labels nobody; it's closer to "wrong address" than "bad guy." The concept is sound and the section's own closing line is already fully Martian: *"the reputation damage the facilitator avoided lands on the person they knew was being disproportionately attacked."* The defect is **referential ambiguity in a heading**, which matters more than usual because headings are read alone in the sidebar and in link text.
+
+**Done in-session:** the citing link in `where-the-police-fit.md` duty 3 was relabelled to "protecting the organization instead of the person" — accurate to that sentence (where the protection goes to the event's *reputation*, not to a person at all) and matched to the target section's own defining sentence.
+
+**Still open: whether to rename the section itself.** Candidates that resolve the referent: "When You Protect Yourself Instead," "Protecting Yourself Instead of Them," "When the Protection Lands on You." **Costs:** it's in `before-you-facilitate.md` (reviewed material, outside the law-enforcement pass) and renaming changes the anchor `#when-protection-goes-to-the-wrong-person`, so every inbound link needs retargeting. Cheap to do, but do it deliberately and grep for inbound links first. Mild argument for leaving it: within its own chapter the very next sentence defines it, so the ambiguity only bites for readers arriving via a link from elsewhere — which is exactly what the relabelled link now mitigates.
+
+**Status: OPEN — link fixed, section title undecided.**
+
 ---
 
 ## Second-pass ideas (LOWER TIER than items A–P — smaller moves, do after the main list)
