@@ -72,6 +72,24 @@ The integration is what matters. Both capacities, wielded together, by someone w
 
 ---
 
+## The Top of the Scale
+
+Every scene above stops in the same place: a boundary, a consequence, a room you walk out of.
+
+The scale doesn't stop there. It [runs to HIGH](./severity.md#the-scale) — permanent harm, physical or otherwise — and a response that never reaches that high isn't calibrated. It's capped. The [same arithmetic](./appropriate-response.md#the-math-of-proportionality) that makes destroying someone over a momentary boundary cross an over-response makes a firm no an [under-response](./appropriate-response.md#under-response-the-invisible-failure) when it's aimed at [behavior that continued after clear feedback](./severity.md#patterns-change-severity). One ledger, read in both directions. Run it in only one and you aren't practicing proportionality — you've found a rationale for a ceiling you already had.
+
+What sits above the boundary is already in this book.
+
+**Removal that doesn't expire.** The [order of operations](./handling-threats-of-violence.md#the-order-of-operations) — the endangered person out first, the other person out after them, the room told what happened — and [re-entry conditions](./handling-threats-of-violence.md#the-conditions) that can go unmet indefinitely.
+
+**The law.** [What a call actually starts](./where-the-police-fit.md#what-calling-the-police-actually-starts): not a verdict and not a life ended, but a process with an officer, a prosecutor, and a court standing between the phone and any consequence. For imminent danger it isn't a choice at all. It's defense.
+
+What makes either of those proportional rather than a swing is the same thing that makes them available: what happened is verified, and you're [qualified to say so](./before-you-judge.md#are-you-a-qualified-source). Reaching them from a story instead is the [righteous predator's](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator) entire move, executed at full strength.
+
+Knowing where the scale ends isn't an instruction to go there. It's what makes everything below it mean something. Someone whose response tops out at a firm no didn't choose to stop — a firm no is the largest thing they have. The restraint this chapter describes only exists if what's being held back could go all the way up.
+
+---
+
 ## The Test
 
 Here's how you know which capacity you're missing.
