@@ -86,7 +86,7 @@ Here's what that journey taught me:
 
 **Most harm comes from love.**
 
-My father wasn't a monster. He wasn't a predator. He was a scared parent who loved his son and believed—with absolute certainty—that he knew what that son needed. His certainty was wrong. His love was real. The harm was real too.
+My father wasn't a monster. He was a scared parent who loved his son and believed—with absolute certainty—that he knew what that son needed. His certainty was wrong. His love was real. The harm was real too.
 
 This is the [Rescuer](./concepts/why-rescuers-are-dangerous.md) pattern. Good people, harmful beliefs, devastating outcomes. Not despite the love—because of the certainty that comes with it.
 
