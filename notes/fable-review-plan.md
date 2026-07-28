@@ -674,6 +674,18 @@ Minutes after VV.2 was written, he proposed a different sentence, and it survive
 
 **Status: OPEN.** VV.1 needs his placement call (recommendation: `responsibility.md` + the gun-test sentence, skip the conclusion). VV.2's "no" stands **for the comparison as originally posed**; VV.3 is the approved form and needs his sign-off on wording plus placement in Where I Stand.
 
+### WW. `100-percent-control.md` may be missing its boundary: 100% of your side is power, 100% of the relationship is the Rescuer (added 2026-07-28, from an author-flagged video)
+
+**Where it came from.** The author watched Charisma on Command's *"This Scene Will Change How You Handle Conflict"* ([youtu.be/FeFZSPCAlyI](https://youtu.be/FeFZSPCAlyI), 2026-07-27; captions read 2026-07-28) and flagged it as matching a real relationship of his. Its third habit states, flatly: **taking 100% responsibility for a *relationship* is toxic; take 100% responsibility for *your side* of it.** That sentence sits directly on top of this book's `100-percent-control.md` and is worth checking against it before a reader does.
+
+**Why it is a live question rather than a contradiction.** The two claims are compatible and the distinction is precise: **100% control is a claim about your own actions and your own outcomes** — the chapter's whole power, and the move the book asks of a person who wants to stop being at the mercy of what happened to them. **100% responsibility for a relationship means absorbing the other party's side as well**, which is not sovereignty; it is the Rescuer with better branding, and this book already spends chapters on why that produces harm (`why-rescuers-are-dangerous.md`, `why-helping-is-hard.md`, `drama-triangle.md`). **The failure mode is real and it is adjacent to the chapter's own teaching**, which is exactly what makes it worth naming inside the chapter rather than trusting the reader to derive.
+
+**⚠️ VERIFY BEFORE DRAFTING — this item is a question, not a finding.** The reviewing session did **not** read `100-percent-control.md` in full; the chapter is rated 8 with the note *"the two-sided no is a strong addition,"* and it may already carry this boundary. **First action is a read, not an edit.** If the boundary is present, close this item and record that it is present so nobody raises it a fourth time. If it is absent, the fix is small: one passage naming the line — **total ownership of your half, none of theirs** — with a cross-link to the Rescuer material, so that a reader who has just been handed a very empowering idea is also handed its edge.
+
+**Related, and it is the reason this is worth the trouble:** the same reader who most needs the 100% frame — someone who has been wronged and is looking for their own power in it — is also the reader most likely to over-apply it into taking responsibility for the other person's half, which is the fawn with a growth-mindset vocabulary. `fawning.md` and `healing-fawning.md` own that mechanism; the join is what is missing. Private-side derivation and the case it came from: `../RPM/ariel-decision.md` → the Jul 28 external-confirmation note.
+
+**Status: OPEN — first act is to read the chapter and confirm whether the boundary is already there.**
+
 ### GG. Define when a predator-word helps vs. harms — the "note on the word predator" gap (added 2026-07-21, author-raised)
 
 **The gap:** `types-of-mistakes.md`'s "A Note on the Word 'Predator'" nails when the label is *harmful* (a verdict that assigns worst intent, skips due process, replaces the person) but never states when a predator-word is *legitimate*. The book's own coinages — "righteous predator," "blurry predator," "selfish predator" — are diagnostic, not verdicts, and the chapter relies on the reader using them.
