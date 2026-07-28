@@ -14,6 +14,7 @@ Everything decided in the review conversation is integrated into the items below
 - **Read `wiki/.private-context.md` (gitignored, local) before writing anything** — the no-names rules live there.
 - **A separate PERSONAL matter (not book work) has its own brief:** `notes/record-correction-brief.md` (gitignored, local-only — a fresh clone won't have it; `../RPM/book-repo-private-backup.md` notes its existence). It's a private decision of the author's, adjacent to item X but not part of the book to-do list. It is self-contained with its own reading list and a step-zero exercise to run with the author. If the author says anything like "the record correction thing," "the completion question," or "the brief" — start there, not here.
 - **For item G (dedup pass, later):** the concepts most redundantly re-explained across chapters are fear-creates-what-it-fears, show-don't-tell, the fawning mechanics, and response-has-severity — each gets a fresh explanation in four-plus chapters. That's correct for the web hyperbook; it's the primary target for the condensed print edition.
+- **⚙️ COMMIT RULE (author's standing instruction, 2026-07-28): auto-commit THIS document. Never auto-commit book source files.** Ideas, findings, and proposals landing in `notes/fable-review-plan.md` get committed by the session that writes them, so nothing sits uncommitted waiting on him. Anything under `src/` is his to commit. (This supersedes the older "he commits this repo himself" note attached to item A, which was over-broad — it was only ever meant to protect the manuscript.)
 - **Voice guard and threshold** are in "Considerations to hold generally" below. Honor them.
 - If the model you're running as differs from the last row of `model-timeline.md`'s model-in-use table, add a row. If it's the same, do nothing there.
 - **Item AA's rename is DONE on branch `attacked-person-v2`** (2026-07-26, Opus 5) — superseding the earlier `attacked-person` first pass (Sonnet 5), which should be deleted unmerged. See item AA for what the review found.
@@ -206,7 +207,27 @@ Evidence from the text: the concrete ceiling of every worked example in the chap
 
 **The three-move rewrite (author approved 2026-07-27):**
 
-1. **One first-person scene, placed early** — before "Two Failure Modes," so the reader meets a real sword before they get the taxonomy. Show-then-name, the same structure item P used for the king passage. This is the load-bearing move; 2 and 3 are cheap without it and unnecessary with it.
+1. **One first-person scene, placed early** — before "Two Failure Modes," so the reader meets a real sword before they get the taxonomy. Show-then-name, the same structure item P used for the king passage. This is the load-bearing move; 2 and 3 are cheap without it and unnecessary with it. **Two candidate scenes; see the candidate block below — the author is open to the second replacing the first (2026-07-27).**
+
+**⭐ CANDIDATE SCENE — the author's mother, and it may be better than his own sword (added 2026-07-27; author: "I am open to this... replace my soon-to-have-a-sword process").** The first candidate was the author's own live, unspent, lawful sword (see the open block at the end of this item). The second is the mother material from **item UU**: she was frightened of the same man, so she hid the problem rather than confronting him, and the hiding cost more than the telling would have. Five reasons it may be the stronger opening:
+
+- **It shows the fawner as someone loved, not someone weak.** Every existing treatment of fawning in the book is mechanical or self-directed. Nobody in 162,000 words has met a fawner they love. That is the read most readers cannot reach on their own, and it is the one that lets a fawning reader recognize themselves without contempt.
+- **The cost lands on a third party.** The chapter's actual argument is that harmlessness is not neutral because someone else pays for it. The current draft asserts this; the scene demonstrates it, with the author as the person who paid.
+- **It needs no incident material and no legal register** — no attacker, no police chapter, no unresolved real-world action.
+- **It is not gated on the decision blocking candidate one.** The author's own sword requires him to first settle what he does in the real world; this requires only the consent he has already requested from his parents (message sent 2026-07-27, answer pending).
+- **It states the chapter's thesis in two sentences instead of an epigraph.** See the approved line immediately below.
+
+**⭐ APPROVED LINE — use this (author-approved 2026-07-27, flagged by him for implementation):**
+
+> **She never hurt me. Not once. And that is not the same thing as protecting me.**
+
+**Why it holds where an aphorism wouldn't.** It is two observations and no verdict, so there is nothing in it to dispute. It is original to the author, which matters in a chapter that currently borrows all of its force from two quoted men (Perrion, Nietzsche) and contains no line of his own. And it delivers the chapter's whole thesis — harmlessness is not neutral, because someone else pays for it — through a person the reader has already met in chapter two, rather than through assertion. It earns its place by arriving after a scene, which is the one thing the chapter has never done.
+
+**REJECTED ALTERNATIVE, recorded so it doesn't come back:** *"A heart with no sword is no heart at all."* Author-originated the same session, and he withdrew it himself on inspection. Three reasons, all of which generalize to any aphorism proposed for this chapter: (1) **it convicts the person the scene exonerates** — pointed at a mother written as loving, frightened, and choosing between bad options, it says she had no heart, so the passage argues with itself; (2) **it assigns a quality to a person rather than describing a capacity**, which is the moralizing rule in aphorism form; (3) **the chapter already has the working version** in its own opening — *"A person who can't be dangerous isn't choosing peace. They're incapable of anything else."* Same idea, stated as a capability rather than a judgment, and therefore inarguable. Any future candidate line for this chapter should be tested against all three.
+
+**Guard, and it is the whole difficulty:** the surrounding prose must hold that she was frightened of the same man, or the chapter acquires a second accused person and loses exactly the compassion that makes the father section work. Give her the father's structure, not a lesser one.
+
+**These are not mutually exclusive** — the mother could open the chapter and the author's own conditional promise could close it (capacity shown at the start, capacity owned at the end). That ordering also solves the register problem: the chapter would open on someone with no sword and close on someone holding one.
 2. **Let "What This Looks Like" run hot.** Its four scenes are written at room temperature and are the natural home for the fangs.
 3. **Dissolve `The Top of the Scale` into the chapter's flow** rather than leaving it as a late correction. The arithmetic sentence survives; the section seam doesn't.
 
@@ -541,11 +562,100 @@ What that beat buys, in one paragraph of an existing chapter:
 
 **Do NOT use the partner example.** The author's originating thought was about a specific person's partner and whether *she* might be unable to report future violations. That version cannot go in the book, for three independent reasons, and the author flagged the first himself: (1) it is a claim about a real person's inner state that nobody can observe — the Martian check bans exactly this ("story stated as fact... claims about another person's inner experience or motive"), and he named it in-session as "a story, a suspicion"; (2) she is adjacent to the central incident's participants, so even de-named it is identifying in a way the childhood scene is not; (3) it would be the book's only example of a mechanism asserted about someone who never described it. The insight is real; the childhood scene is the only vehicle that earns it.
 
+**The triad, mirroring the father's (drafted 2026-07-27, author: "this is pretty good").** The founding chapter already closes the father with three flat statements: *"His intentions were love. His methods were violence. And the outcome was the opposite of what he wanted."* The mother gets the same structure, which is what makes it fair rather than an indictment:
+
+> My mother's intentions were love too. Her method was hiding. And the outcome was the same as his: the opposite of what she wanted.
+
+**"The same as his" is the load-bearing phrase** — two opposite failures, one identical result, and the reader feels the symmetry without the words over-response or under-response appearing anywhere near chapter two. **On the middle term:** the author flagged that one word may undercount it (*"hiding problems and trying to look perfect"* — the concealment plus the maintained surface). Recommendation: keep the one-word mirror in the triad, where the parallel to "violence" does structural work, and unpack it in the sentence after. "Hiding" is the right single word because it is already the book's own term for what punishment culture produces at community scale — the founding scene plants the word, and thirty chapters later the mechanism is named with it.
+
+**⭐ Author-originated inheritance line (2026-07-27, HIS observation, worth tracing before writing):** hiding problems while keeping the surface looking fine may be where the *performance* half of his own pattern was installed, alongside the father's demand — i.e. he learned concealment-as-safety by watching it modeled, not only by being punished. Note this converges independently on a theory the desk had marked unverified in the RPM copy. Still unverified; it is his to confirm, and the chapter does not need it to work.
+
+**Cross-reference:** this material is now also the leading candidate opening scene for item TT (`harmless-is-not-peaceful.md`), which changes its priority — it is no longer only a founding-chapter enrichment.
+
 **Placement candidates:** (1) the mother beat inside `the-rescue-that-made-me-see.md`, in or just after "His Story" — cheapest and highest-leverage; (2) a short dyad-scale passage in `punishment-culture.md` after "It Silences the People It Claims to Protect," cross-linked back to the founding scene; (3) both, which is probably right — the scene where it happened, the mechanism where it's named.
 
 **Guard:** write the mother in the same register the chapter already gives the father — intentions were love, methods caused harm, no verdict. The chapter's whole power is that it refuses to villainize the person who hurt the author; a mother written as complicit rather than as someone protecting a child inside a system she didn't control would break the chapter's tone at its most load-bearing point.
 
 **Status: OPEN.** Needs the author's sign-off on adding a family member to the founding scene before drafting — this is his own canon, not the incident canon, but it is still a new fact about a real person in a tracked file.
+
+### VV. Say the definition of responsibility the book only implies: not the absence of harm, but what you build out of it (added 2026-07-28, author-directed — "We have to put it in the book")
+
+**⭐ THE LINE — author-approved, in his wording (2026-07-28):**
+
+> **Responsibility has never meant "caused no harm." Nobody in any container has ever cleared that bar. It means what you build out of the harm.**
+
+His framing when he flagged it: *"It's already implicit but not explicit and stated this well... It's not the absence of problems, it's how you handle them."* Originated in a desk conversation off the Gun Test page; the full reflection it came out of is recorded in the private RPM repo (`../RPM/ista-grievances.md` §7).
+
+**Verified gap (grep over `src/`, 2026-07-28 — this is a real hole, not a re-statement).** No occurrence anywhere of "absence of harm," "clean record," "never caused," or any equivalent. And the confusion this line fixes is **not** the one `responsibility.md` already handles: that chapter's "The Common Confusion" is *responsibility vs. punishment*, and "What Responsibility Actually Means" answers **what responsibility is** (seeing your part, and what you'll change) without ever answering **what it is measured by.** The unstated second confusion is **responsibility as a RECORD versus responsibility as a RESPONSE** — and it is the one that gets used as a weapon, because anyone who has caused harm can be told their record disqualifies them from the word.
+
+**Closest existing text, and note that it points the other way.** `introduction.md` → "You Will Make Mistakes" ends: *"You're building the kind of record where a mistake is genuinely exceptional — and when it happens, your track record speaks for itself."* That is about **frequency**, and it aims the reader at the record. Useful, and adjacent, but it is not this claim — it is closer to the thing this line corrects.
+
+**Placement recommendation, in order:**
+
+1. **`responsibility.md`** — primary. Either as a second beat under "The Common Confusion" or immediately after "What Responsibility Actually Means." The definition and its measure belong in the same room.
+2. **`tools/gun-test.md` → "The Point"** — one sentence, cheap, and it is the strongest demonstration available: the page already closes on *"Self-check is taking responsibility,"* and **the tool exists because the author failed the test it describes.** A tool named for its author's own failure is the principle enacted, not asserted.
+3. **Conclusion callback** — candidate only; see the register warning below.
+
+**Companion quote the author asked for, found and sourced.** #not-books, 2026-06-07, msg `1513067652006940733`, saved with an image, short form only:
+
+> **"Don't wish it was easier, wish you were better."** — Jim Rohn
+
+⚠️ **Rohn is already in the book twice, and both are load-bearing** — `walking-your-talk.md` (the it's-all-risky answer to the safest-option objection) and the **conclusion's final beat** ("why not you?"). A third use is affordable in `responsibility.md`, which is far from both. It is *not* affordable in the conclusion, where a second Rohn quote would dilute the one the book ends on.
+
+**✅ SOURCED 2026-07-28 — the long form is real, and the author's remembered wording is off by one word.** The author supplied a video; the desk pulled its captions and searched them. Source: *"Jim Rohn — Don't wish it was easier, wish you were better,"* channel **Motivation2Brave**, 13:51, uploaded 2020-06-04, [youtu.be/lSpfrNSCwSw](https://youtu.be/lSpfrNSCwSw). The passage sits at **~2:54**, delivered as reported speech inside a "he said" chain (the speaker being quoted is not named anywhere in the captions).
+
+- **Both clauses are there:** *don't wish it was easier, wish you were better; don't wish for **less** problems, wish for more skills.*
+- ⚠️ **It is "less problems," not "fewer problems."** The author remembered the grammatical correction, which is how the line is often re-circulated. **Print the source wording.**
+- ⚠️ **The third clause is NOT in this delivery.** *"Don't wish for less challenge, wish for more wisdom"* is part of the wider-circulated compilation version; the word "challenge" does not appear anywhere in this recording's captions. Do not print three clauses on the strength of this source.
+- **The setup line immediately before may be the better book sentence, and it is free:** *you can't change what's outside, all you can change is what's inside — to have more you simply have to become more.* That is the same claim as VV.1 in the author's own subject matter, and unlike the wish/skills pair it does not have a second life as a motivational poster.
+
+⚠️ **Sourcing limits, stated so nobody treats this as done.** These are **YouTube auto-captions** — machine transcription, no punctuation, no capitalization. They are sufficient to confirm the wording and to fix the timestamp; they are **not** a substitute for listening to 2:50–3:05 and setting the punctuation by ear before print. And **Motivation2Brave is a re-upload channel, not a rights holder** — this source establishes what he *said*, not permission to reprint it. Item H's quote-permissions gate is untouched by this finding.
+
+**The other two quotes the author flagged the same day (from the same video), assessed:**
+
+- ***"It's not what happens, it's what you do about it"*** (~1:1x) — the same claim as VV.1's line, which is both the argument for it and the argument against it. It is one of the most circulated sentences in the genre, so it arrives pre-worn; **the author's own sentence is sharper and is his.** Recommendation: if a companion quote is used at all, use it as the *epigraph* that his line then out-specifies, or skip it.
+- ***"What you have at the moment, you've attracted by the person you've become"*** (~1:44, addressed to Rohn by the man he is quoting) — ⚠️ **do not place this anywhere near the incident, accusation, or harm material.** In a motivational-business frame it means *your results track your development.* Dropped into a book about false accusation and boundary violation, the same sentence reads as *you attracted what happened to you*, which is the victim-blaming claim this book spends chapters dismantling. It is a real idea with a legitimate home (identity and self-development, `walking-your-talk.md` territory) and it is one page-turn away from being the most damaging out-of-context quote in the manuscript. Recommendation: **skip it.** The risk is asymmetric and the book already carries the useful half.
+
+**Guard, and it is the one way this line goes wrong:** read carelessly, *"it's what you build out of the harm"* sounds like the harm doesn't count — a permission slip, which is precisely the reading a hostile reader already mines the lightning section for (see the chapter ratings note on `responsibility.md`). It has to sit **downstream of prevention, not instead of it.** The intro already holds that ground — *"Your first job is to make serious mistakes vanishingly rare"* — so pair the line with that clause or cross-link it. Prevention first; this is the measure applied to what prevention did not catch.
+
+#### VV.2 — The author's second question, and the recommendation is NO (2026-07-28)
+
+**His question, verbatim:** *"Wondering if talking about how most people don't grow like this, generally or in the industry. Or if that's obvious by my writing the book. Should go in the book or not."*
+
+**Recommendation: do not add it as a comparison. Three reasons, all of them the book's own rules.**
+
+1. **It fails inarguable language.** *"Most people don't grow like this"* is a claim about other people's interiors and effort that no reader can check — and because they cannot check it, they check **the author** instead. Every other sentence in 162,000 words hands the reader a mechanism and invites them to test it against their own experience. This would be the one sentence that asks to be taken on faith about the person asking.
+2. **Showing already did it, and telling would spend it.** The book *is* the evidence. A demonstration cannot be argued with; a claim can. Converting the first into the second is a strict downgrade — and doing it in a book whose central craft rule is show-don't-tell would be visible to exactly the readers whose respect is worth most.
+3. **The useful version already exists and is aimed better.** The reader who needs to hear *"most people don't grow like this"* is the reader deciding whether to. The book already puts that to them as an **invitation instead of a comparison**, in the conclusion's Rohn beat: *"Why not see what kind of person you can become?... Why not you?"* Same content, second person, nobody diminished. Adding the comparative version upstream would retroactively turn that ending into the author's answer about himself rather than the reader's question about themselves. **It would cost the book its best closing move to gain a sentence it does not need.**
+
+**What IS legitimate — the field gap, not the person gap.** *"Nobody has given this industry a framework for what happens when something goes wrong"* is an observation about a **literature**: checkable, falsifiable, and it ranks no one. That version is already in the book, already in the right register, already in the right room — `before-you-facilitate.md` → **Where I Stand** (item B): *"the most complete systems I could build for problems this industry has barely named."* **So the answer to "should it go in" is: it already did, correctly.** If he wants it stronger, strengthen that sentence in place; do not open a second front elsewhere.
+
+**The same mechanism, noted for consistency:** this is the book-side version of the delivery caution recorded in `../RPM/ista-grievances.md` §7 — the sentence *"I don't know anyone more responsible than myself"* is a true private anchor and a self-defeating public statement, for exactly reason 1 above. The receipts persuade; the ranking invites audit.
+
+#### VV.3 — AMENDMENT, same session: the author found the form that passes, and it reverses VV.2's answer (2026-07-28, author-originated)
+
+Minutes after VV.2 was written, he proposed a different sentence, and it survives all three objections. **His words:** *"I could say I don't know anyone else doing anything close. And I would like there to be. I would like to have allies. Think of what we could accomplish together if there were more empowered creators. More people who learn from their mistakes and the mistakes they see in others, and built a better world together."*
+
+**Why this one works where the first one didn't — three changes, each of them load-bearing:**
+
+1. **It reports the limit of his own knowledge instead of asserting about other people.** *"Most people don't grow like this"* is a claim about strangers' interiors. *"I don't know anyone else doing anything close"* is a statement about what he has and hasn't seen — which is **inarguable in the book's own technical sense**, the same distinction `notice-feel-story.md` draws between observation and story. The first version failed the test; this one passes it, and it passes it by the book's own machinery.
+2. **It ranks the work, not the character.** *"Responsible"* is a virtue verdict, and a listener's only available move is to audit whether he deserves it. *"Anything close to this"* points at a body of work the reader is physically holding. Checkable, and it puts nobody on trial.
+3. **⭐ The wanting is what disarms it, and it must be in the same breath.** *"And I would like there to be"* converts the sentence from a boast about his position into a **complaint about the field being empty** — which is a completely different speech act. The listener stops being a juror and becomes a candidate. Split across two sentences or two paragraphs, the claim lands alone and the invitation arrives too late to save it. **They are one sentence or the recommendation is off.**
+
+**So VV.2's answer changes: yes, in this form, in one place.**
+
+**Placement — `before-you-facilitate.md` → "Where I Stand" (item B), NOT the conclusion.** The ask should be delivered in the room where the people capable of answering it are actually standing, and that section is already the book's vantage statement, already facilitator-facing, and already carries the neighboring claim (*"the most complete systems I could build for problems this industry has barely named"*). ⚠️ **Guard against the conclusion:** it already performs this exact move in the reader's register — Rohn's *"why not you?"* — and an author-side version placed near it converts the ending from *what will you do* into *look what I did.* Do not put this in the conclusion. Where I Stand recruits the peers; the conclusion recruits the reader; those are different asks and they should stay in different rooms.
+
+**Candidate wording (desk draft off his transcript — his call, and his voice beats this one if he'd rather write it):**
+
+> I don't know anyone else doing anything close to this, and I wish I did. I'd rather have peers than a clear field. Think what we could build with more creators who learn from their own mistakes and from the ones they watch other people make.
+
+**⚠️ On his alternative — *"just list all the stuff I've done and say I don't know anyone else who's done anything close."*** That form is right for a **room** and wrong for the **book**, and the split is worth keeping straight because it will come up again:
+
+- **In the book, the list is redundant and therefore costly.** The reader is holding the evidence. Reciting it converts a demonstration into a résumé, and a résumé invites a scorekeeper — the exact audit reflex the wanting-allies clause exists to prevent.
+- **In a live room — including the accusation scenario this came out of — the list is the whole defense**, because nobody there has read anything. There the order matters: the list first, flat and factual with no adjectives on it, and the *"I don't know anyone else doing anything close"* only after, if at all. Let them reach it themselves and it is theirs; hand it to them first and it is a claim they now have to grade.
+
+**Status: OPEN.** VV.1 needs his placement call (recommendation: `responsibility.md` + the gun-test sentence, skip the conclusion). VV.2's "no" stands **for the comparison as originally posed**; VV.3 is the approved form and needs his sign-off on wording plus placement in Where I Stand.
 
 ### GG. Define when a predator-word helps vs. harms — the "note on the word predator" gap (added 2026-07-21, author-raised)
 
