@@ -686,6 +686,27 @@ Minutes after VV.2 was written, he proposed a different sentence, and it survive
 
 **Status: OPEN — first act is to read the chapter and confirm whether the boundary is already there.**
 
+### XX. The named-coach quote in `all-power-is-mutual.md` — a production decision the author has not made (added 2026-07-28, author-raised: *"I'm still not sure if I want her name in the book"*)
+
+**The facts, verified in `src/` 2026-07-28 — this is smaller than it feels, which is most of the answer.**
+
+- **One quote, one place:** `all-power-is-mutual.md`, closing the **selfless defense** section. A single line about the source of an action mattering more than the action, attributed to a named private coach.
+- **⚠️ It carries an ORPHANED TODO, and this is the strongest practical argument on the table:** an HTML comment sits under the attribution asking for her title/credit *"once she sends it."* **That relationship ended Jun 30, 2026** (private repo: `../RPM/ariel-decision.md`). **The credit is never arriving, so the manuscript is currently holding a placeholder that waits on a person the author no longer speaks to** — a permanent open loop in a book that ships.
+- **⭐ The passage does not depend on the quote.** The very next line restates the idea in the author's own words, shorter and cleaner. **Cutting the epigraph costs an epigraph, not an argument.**
+
+**Recommendation: cut the name and the quote, keep the author's own line, and add NO caveat.** Four reasons, in order of weight:
+
+1. **In this genre a named practitioner quoted approvingly functions as a soft referral.** Readers of a book about handling harm, looking for help, read names as recommendations. **The author has stated plainly that he cannot recommend her.** Keeping it means the book makes a referral its author does not make — which is an integrity problem about *the book*, not a verdict about *her*.
+2. **The passage is already self-sufficient** (see above). This is the cheapest possible cut.
+3. **It closes the dead TODO** rather than shipping around it.
+4. **⚠️ The keep-it-with-a-qualifier option is barred by the book's own rules, and should not be revisited.** Any hedge attached to a named private individual is a verdict on a person delivered to strangers, which is the exact behavior thirty chapters teach against. **If the name stays, it stays clean and unqualified or not at all.**
+
+**On the author's stated hesitation — *"I showed her, I quoted her before, so it would be revoking that."*** Worth answering directly because it is the only real counterweight: **removal is the SILENT option, not the loud one.** No reader will ever know a name was there; nothing in the published text says anything about her either way. **A caveat would be a statement about her; a cut is the absence of one.** So if the concern is fairness to her, removal is the *kinder* of the two available moves, not the harsher one. The showing happened inside a working relationship that has since ended; a citation is a choice the author keeps making, not a debt he incurred once.
+
+**Rejected middle option, recorded so it doesn't come back: attributing it generically ("a coach I worked with").** It preserves an origin the reader cannot check, invites them to wonder who, and buys nothing the author's own restatement doesn't already provide.
+
+**Status: OPEN — the author's call, and it is genuinely his.** He asked for a view and got one; nothing in `src/` was touched. **If he keeps the name, the only required cleanup is deleting the orphaned TODO comment** so the manuscript stops waiting on a credit that is not coming.
+
 ### GG. Define when a predator-word helps vs. harms — the "note on the word predator" gap (added 2026-07-21, author-raised)
 
 **The gap:** `types-of-mistakes.md`'s "A Note on the Word 'Predator'" nails when the label is *harmful* (a verdict that assigns worst intent, skips due process, replaces the person) but never states when a predator-word is *legitimate*. The book's own coinages — "righteous predator," "blurry predator," "selfish predator" — are diagnostic, not verdicts, and the chapter relies on the reader using them.
