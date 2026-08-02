@@ -1010,6 +1010,7 @@ With those three in place, friendliness stops being a risk and becomes an asset.
 |---|---|---|
 | 2026-08-02 | **"Transformation is conditioning, not insight"** as a named law in the book | 🔎 assessed → **item RR above**, placement recommended, his call |
 | 2026-08-01 | **The accusation is a request for a confession** — the filter does not merely reject disconfirming evidence, it RECRUITS confirming partners; denial escalates, admission settles | 🔎 assessed → mechanism ✅ passes 7x as a paragraph in *Trauma & Filters*; ⛔ the real case is declined (identifiable person, her assault history). `../RPM/capture.md` 94 |
+| 2026-08-02 | **"A facilitator who sees farther than his body can execute will take a room somewhere he cannot hold it"** — insight without conditioning as the specifically dangerous combination in facilitation | ⏭️ **FUTURE BOOK, his call, not this one.** Recorded in `../RPM/distinctions.md` and `../RPM/memory/sees-farther-than-he-can-hold.md`. ⚠️ Listed here only so it is findable from the book side and nobody re-raises it for *Wolf* |
 | 2026-08-02 | The Aug 1 play-party rupture as a worked example | ⛔ **declined, and he said so himself first** — too recent, identifiable living person. Write the mechanism with a composite. `../RPM/capture.md` 99 |
 
 ⚠️ **Maintenance rule: a row is never deleted, only re-statused.** The whole value is that he can look at what he thought of three months ago and see what happened to it.
