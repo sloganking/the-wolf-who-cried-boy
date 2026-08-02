@@ -1050,6 +1050,20 @@ With those three in place, friendliness stops being a risk and becomes an asset.
 
 **Recommendation: `Environment Design: How to Get Good People to Do Bad Things`.** Functional term first, hook second, and it solves exactly the retrieval problem he named — **a reader who remembers the idea but not the joke can still find it in a contents page.** ⭐ **Keep "how to GET" over "how good people do bad things," because the instructional form is the section's entire move: it addresses the reader as the DESIGNER rather than as a spectator to other people's failures.** "How good people do bad things" describes a phenomenon. "How to get good people to do bad things" hands him the lever and makes him notice he is already holding it.
 
+**🔁 REVISED RECOMMENDATION after his follow-up, 2026-08-02 ~1:16pm** (*"it's really the goal is how to get good people to do good things and not bad things, but that's too verbose"*).
+
+🔑 **He is right that it is too verbose, and the fix is structural rather than lexical: STOP ASKING THE TITLE TO CARRY BOTH POLARITIES.** Every attempt to get *good things and not bad things* into one heading balloons, because a title that states a diagnosis AND an instruction is two sentences wearing one hat. **Let the TITLE carry the diagnosis and a MAXIM inside the section carry the instruction.** Readers quote maxims, not headings, so the instructional half travels further from inside the text than it ever would from the contents page.
+
+**Title, recommended: `Environment Design: Good People, Bad Rooms`.** Shortest of the candidates, symmetrical, and it does the reframe in four words — **the people are stipulated good and the room is named as the variable**, which is the entire argument compressed. Findable under "environment design," memorable under the rest, and nothing in it can be quoted hostilely.
+
+**The maxim inside it, recommended: "You get the behaviour you fund."** This is the instruction he wants, and it covers both directions in one line: fund the alternative and you get compliance, fund only the prohibition and you get the breach. **It also teaches the section's own term**, so a reader who remembers nothing else leaves with the test attached to a phrase.
+
+**The other candidates, for his ear:**
+- `Environment Design: Why Good People Break Your Rules` — most descriptive and the safest; *your rules* addresses the designer directly. Weakest hook.
+- `Environment Design: How to Get Good People to Do Bad Things` — the original, and still the sharpest, at the cost of the quote-mining exposure below.
+- `Environment Design: What Your Rules Are Actually Asking For` — good if the book prefers implication to statement; slightly cerebral.
+- `Environment Design: Designing for the People Who Actually Come` — closest to his positive framing, but it reads as a subtitle rather than a title.
+
 ⚠️ **One risk, named so he can decide rather than discover it later: that title is quote-mineable, and this is a book about reputation destruction.** *"His book has a chapter called How to Get Good People to Do Bad Things"* is a sentence someone hostile could write. **The mitigation is cheap** (the subtitle line and the first paragraph disambiguate instantly, and the section is about protecting people from bad design), **but a man whose book is about being misquoted should choose this one with his eyes open rather than have it pointed out to him afterwards.** If he wants the safe version, `Environment Design: How Good People End Up Doing Bad Things` keeps the findability and the reframe, and gives up only the edge.
 
 **Placement:** wherever the book turns from diagnosing the individual to designing the conditions. If no such turn exists yet, this item is the argument for creating one, near the end, after the reader has accepted the claim about people.
