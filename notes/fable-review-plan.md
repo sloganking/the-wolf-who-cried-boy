@@ -975,6 +975,45 @@ With those three in place, friendliness stops being a risk and becomes an asset.
 
 ---
 
+### RR. "Transformation is conditioning, not insight" — name the law in the book, because it is the MECHANISM under the book's central request (author-originated, 2026-08-02, ~2:00am)
+
+**His words, bringing it:** *"Transformation is conditioning, not insight also explains why righteous predators might have a hard time becoming not righteous predators. It definitely explains why fawners have a hard time stopping fawning… I'm wondering if we should put it in the introduction page, because it's such a repeated important part, or if it should be introduced somewhere else."* Full treatment in the private repo: `../RPM/how-change-happens.md`, `../RPM/insight-and-conditioning-tools.md`, `../RPM/distinctions.md`.
+
+**The law, in one line:** *insight changes what you would SAY about a situation; conditioning changes what your body DOES in it.* Understanding arrives in an instant and evaporates under load; conditioning takes reps and is the only thing that survives load. **From the inside the two feel identical, which is why people mistake having understood for having changed.**
+
+⭐⭐ **THE REASON THIS IS A MAIN-LIST ITEM RATHER THAN A NICE ADDITION: it is the missing mechanism under the book's central plea, and it converts a moral request into a mechanical claim.** The book asks readers to stop punishing people for mistakes, to see a threat as a person, to extend repair instead of exile. **As written, that ask rests largely on ethics and on the author's example — which a reader who has been genuinely hurt can reasonably decline.** With this law stated, the ask has an engine: **a righteous predator who understands perfectly well that they are causing harm and does it anyway is not thereby proven malicious — they are demonstrating that conditioning does not yield to comprehension.** That is the difference between *be generous* and *punishment cannot produce the change you want, and here is why.* **It is the strongest available answer to the reader who says "but they KNEW."**
+
+**Second application, and it is load-bearing for a chapter that already exists: FAWNING.** *Healing Fawning* currently explains the pattern and prescribes alternatives. **This law explains why a reader who finishes that chapter fully convinced will still fawn next Tuesday** — and, crucially, why that is not a personal failure or a sign the chapter was wrong. Without it, the chapter quietly implies that understanding the pattern should be enough, and every reader for whom it isn't concludes something is wrong with them.
+
+⛔ **PLACEMENT — the recommendation is NOT the introduction, and the reasons are specific:**
+1. **An introduction's job is to make a reader want to continue.** *"You will understand all of this and still not change"* is a demotivating opener before the reader has any investment in the material.
+2. **The law only lands as RELIEF once the reader has felt the frustration it explains.** Stated early it is an abstraction; stated after they have met a person who would not change no matter what was explained to them, it is an answer.
+3. **The intro is already carrying the book's thesis**, and the author's own standing rule is one idea per unit.
+
+✅ **RECOMMENDED PLACEMENT: at the close of the "What's Running You" section, after *Invisible Patterns*.** That section's entire job is to establish that something is running the reader beneath their choosing. **This law is the natural closing move of exactly that argument — *these patterns are conditioned, therefore they will not yield to being understood* — and it is what makes every practice-based prescription in the rest of the book necessary rather than optional.** It also arms *Fawning* and *Healing Fawning*, which follow, and *The Culture of Punishment*, which needs it most.
+
+**Then invoke it BY NAME, briefly, wherever it does work — do not re-explain it.** Named once and wielded thereafter: *Healing Fawning* (why knowing is not stopping), *The Culture of Punishment* (why punishment cannot produce the change it demands), *Types of Mistakes* (it is already implicitly there in *control the back* and the Target Focus Training passage — a cross-reference costs one sentence), and the facilitator chapters (*Walking Your Talk* is this law applied to the facilitator).
+
+**Size:** one short chapter or a closing section, ~600–900 words, plus four one-line cross-references. **Assessment: comfortably past the 7x bar** — it is not a new idea to the manuscript so much as the missing name for something the book already argues in four places without ever saying it. ⬜ **Author's call on placement; this item records the recommendation and the reasoning, not a decision.**
+
+## 📥 BOOK IDEAS LEDGER — the intake with a status column (added 2026-08-02 at his ask)
+
+**Why it exists, his words, 2026-08-02:** *"I'm wondering if I should allow you to send messages in writing notes… that's where I was saying the things I want to write, and then I would talk to you or an AI later about adding them to the book. **I'm not really great at keeping track of which ones have already been added.**"*
+
+🔑 **The tracking problem is not solved by having somewhere to put ideas — he already has several. It is solved by a STATUS COLUMN.** A capture channel with no state reproduces exactly the problem it was built to fix: a growing list where added, declined and pending look identical. **So ideas can arrive however he likes (voice memo, this channel, a note); they land HERE, and every row carries what happened to it.**
+
+**It lives inside this file on purpose** — the desk's standing rule is that `notes/fable-review-plan.md` is auto-committed and `src/` is not, so a ledger here can never sit uncommitted, and a fresh model reading the review doc sees the intake without being told it exists.
+
+**Status values:** ⬜ pending · 🔎 assessed, awaiting his call · ✅ added (with where) · ⛔ declined (with why) · 🔁 superseded
+
+| Date | The idea, in his words where possible | Status |
+|---|---|---|
+| 2026-08-02 | **"Transformation is conditioning, not insight"** as a named law in the book | 🔎 assessed → **item RR above**, placement recommended, his call |
+| 2026-08-01 | **The accusation is a request for a confession** — the filter does not merely reject disconfirming evidence, it RECRUITS confirming partners; denial escalates, admission settles | 🔎 assessed → mechanism ✅ passes 7x as a paragraph in *Trauma & Filters*; ⛔ the real case is declined (identifiable person, her assault history). `../RPM/capture.md` 94 |
+| 2026-08-02 | The Aug 1 play-party rupture as a worked example | ⛔ **declined, and he said so himself first** — too recent, identifiable living person. Write the mechanism with a composite. `../RPM/capture.md` 99 |
+
+⚠️ **Maintenance rule: a row is never deleted, only re-statused.** The whole value is that he can look at what he thought of three months ago and see what happened to it.
+
 ## Second-pass ideas (LOWER TIER than items A–P — smaller moves, do after the main list)
 
 These came from a later pass (2026-07-01 evening). Worth doing; not load-bearing like A–P.
