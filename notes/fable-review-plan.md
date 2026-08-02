@@ -1058,6 +1058,17 @@ With those three in place, friendliness stops being a risk and becomes an asset.
 
 **The maxim inside it, recommended: "You get the behaviour you fund."** This is the instruction he wants, and it covers both directions in one line: fund the alternative and you get compliance, fund only the prohibition and you get the breach. **It also teaches the section's own term**, so a reader who remembers nothing else leaves with the test attached to a phrase.
 
+**🔁 SECOND REVISION, 2026-08-02 ~1:21pm — he asked *"good people IN bad rooms or WHAT good people do in bad rooms?"* and rejected the maxim outright: *"I don't like that you get the behaviour you fund."***
+
+**Title, revised recommendation: `Environment Design: What Good People Do in Bad Rooms`.** 🔑 **The verb is the whole difference: a title with one is a chapter, a title without one is a poster.** *Good People, Bad Rooms* names two categories and leaves the reader to guess the relationship; **the "what... do" form promises a mechanism and tells him something is about to be revealed**, which is what the section actually delivers (the stack, the monologue, the breach). ⚖️ **And "IN bad rooms" beats the comma for a second reason: the comma implies a pairing, while the preposition states the causal claim the section is making** — the room is the setting that produces the behaviour, not merely its neighbour. Cost: four words instead of two, and it is less poster-able. **Worth it in a book, where headings are read in a contents list rather than printed on a wall.**
+
+**Maxim, replacements after his no.** The rejected line leaned on a money metaphor for something that is not about money, which is probably what he heard.
+- ⭐ **"You cannot ban a need."** — recommended. **Five words, and it is the mechanism exactly**: you can ban a behaviour, and the need it served does not disappear, it reroutes. It also explains the failure without accusing the designer of anything, which keeps the section's non-malicious frame intact.
+- ⭐ **The operating question to pair with it: "Where else can they take it?"** — this is the foolproof test in the form a designer would actually use it, at the moment he writes a rule. **Maxim states the law, question applies it.**
+- Others, weaker: *"A rule you don't fund is a wish"* (same money problem), *"Every rule needs a room"* (tight, but reads as literal architecture), *"Ban the behaviour, fund the need"* (instructional, keeps the word he disliked).
+
+📎 **Note for consistency, his call: the repo distinction is currently named THE UNFUNDED RULE** (`../RPM/distinctions.md`). **A label inside the repo does not have to match the book's prose** and "unfunded" is precise where it lives, so it can stay. If he wants one vocabulary end to end, the rename follows the maxim: **the un-homed need.**
+
 **The other candidates, for his ear:**
 - `Environment Design: Why Good People Break Your Rules` — most descriptive and the safest; *your rules* addresses the designer directly. Weakest hook.
 - `Environment Design: How to Get Good People to Do Bad Things` — the original, and still the sharpest, at the cost of the quote-mining exposure below.
