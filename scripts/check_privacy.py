@@ -73,7 +73,80 @@ for rel in tracked:
             if rx.search(line_text):
                 findings.append((rel_norm, i, pat, line_text.strip()[:80]))
 
+def advisory_people_scan():
+    """ADVISORY-ONLY second net: names sourced from the private RPM people registry.
+
+    Author's instruction (2026-08-02): the scanner should know everyone in his
+    life, not just the names already on the blocking list, so a private person
+    nobody thought to list cannot slip into this public repo unnoticed. Reads
+    ``../RPM/wiki/people.md`` (private repo, local-only), extracts name tokens
+    from its ``### Person`` headers, and flags any appearance in tracked files
+    that is not covered by (a) a blocking rule above or (b) the gitignored
+    approval list ``scripts/.people-names-approved.txt``.
+
+    Non-blocking by design - exit code is unchanged. Triage each hit by either
+    approving the name (add it to .people-names-approved.txt: it is public-safe,
+    e.g. a cited author) or promoting it to .private-names.txt (it becomes a
+    blocking rule). Fails open silently if the RPM repo is absent (fresh clone).
+    """
+    people_md = os.path.join(ROOT, "..", "RPM", "wiki", "people.md")
+    if not os.path.exists(people_md):
+        return
+    stop = {
+        "The", "NOT", "LLC", "Academy", "Group", "Network", "Father", "Mother",
+        "Sister", "Brother", "Grandfather", "Luxury", "Well", "Clique",
+        "Two", "Do", "Not", "Confuse", "Them", "Dr", "Woman", "Banker",
+    }
+    approved = set()
+    approved_file = os.path.join(ROOT, "scripts", ".people-names-approved.txt")
+    if os.path.exists(approved_file):
+        for raw in open(approved_file, encoding="utf-8"):
+            line = raw.strip()
+            if line and not line.startswith("#"):
+                approved.add(line)
+    blocking_text = " ".join(pat for _, pat, _ in rules)
+    tokens = set()
+    for raw in open(people_md, encoding="utf-8", errors="replace"):
+        if not raw.startswith("### "):
+            continue
+        header = re.sub(r"\(.*?\)", " ", raw[4:])  # drop parenthetical notes
+        header = header.split("—")[0].split("--")[0]
+        for tok in re.findall(r"[A-Z][a-z]+", header):
+            if tok in stop or tok in approved or tok in blocking_text:
+                continue
+            tokens.add(tok)
+    if not tokens:
+        return
+    rx = re.compile(r"\b(?:%s)\b" % "|".join(sorted(tokens)))
+    hits = []
+    for rel in tracked:
+        rel_norm = rel.replace("\\", "/")
+        if os.path.splitext(rel)[1].lower() in SKIP_EXT:
+            continue
+        path = os.path.join(ROOT, rel)
+        if not os.path.exists(path):
+            continue
+        try:
+            text = open(path, encoding="utf-8", errors="replace").read()
+        except OSError:
+            continue
+        for i, line_text in enumerate(text.splitlines(), 1):
+            m = rx.search(line_text)
+            if m:
+                hits.append((rel_norm, i, m.group(0), line_text.strip()[:80]))
+    if hits:
+        print(f"\nADVISORY - {len(hits)} match(es) against the RPM people registry "
+              f"({len(tokens)} unreviewed names; non-blocking):")
+        for rel, line_no, name, ctx in hits[:40]:
+            print(f"  {rel}:{line_no}  [{name}]  {ctx}")
+        if len(hits) > 40:
+            print(f"  ... and {len(hits) - 40} more")
+        print("Triage: approve into scripts/.people-names-approved.txt (public-safe)")
+        print("or promote into scripts/.private-names.txt (becomes a blocking rule).")
+
+
 print(f"privacy scan: {len(tracked)} tracked files checked against {len(rules)} name rules")
+advisory_people_scan()
 if not findings:
     print("clean: no private names found in tracked files or paths.")
     sys.exit(0)
