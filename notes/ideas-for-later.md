@@ -161,3 +161,17 @@ The dosage instruction for "power is mutual": after you've *correctly* seen the 
 **Best fit if promoted:** 2–4 sentences (not a section) in `own-your-part.md` — either at the end of "Refusing Is Responsible" or in "The Path Forward" — with the doorway line as the anchor. Could rise toward 7x if paired with a lived example of the rumination failure mode (the reader who wins the blame-audit and stalls there). Origin: author's live catch, July 2, 2026 (documented in his private notes as "the attention rule").
 
 ---
+
+### Motivated Reasoning Isn't Lying — The Selective-Facts Tell (August 9, 2026)
+
+Motivated reasoning rarely uses false facts. It uses true ones, selectively assembled — and the assembly is the tell, not the content. Every fact reached for checks out; what's diagnostic is that several of them arrive at once, right after feeling judged, and all point the same direction (toward less blame).
+
+**The test, which is the teachable part:** would you still be holding this exact list of facts if none of them made you feel better? And does knowing them change what you actually do differently going forward, or does it just relieve the discomfort of being judged and stop there? Facts that only function as relief aren't false — they're just not doing the job you'd want them to do.
+
+**Where it came from:** live, mid-conversation, during an actual disclosure to someone he'd wronged in a small way. Several true, defensible facts (a testing-panel gap, a documented blind spot, a real point about how selective enforcement punishes honesty) surfaced at once, right after he felt judged for an honest disclosure. Asked directly whether it was clear sight or justification — the honest answer was both, simultaneously, and *that* turned out to be the useful frame rather than a failure to resolve into one or the other.
+
+**Where to use:** Probably the blurry-predator material, or its own short section — it's a diagnostic for the person INSIDE the blurry zone, catching yourself doing it in real time, which the book doesn't currently have from the inside (it has plenty on identifying blurry predation in others). Also fits near the Mercy Defense diagnostic-layer candidate above — same shape, a tool for telling apart two things that look identical from the outside.
+
+**Rated ~7x.** Real diagnostic gap. Not yet a full section, more a distinction with a working test attached.
+
+---
