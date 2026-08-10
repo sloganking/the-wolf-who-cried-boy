@@ -126,6 +126,18 @@ At a shadow play workshop, everyone shared what they wanted in a sharing circle 
 
 ## Potential Second Edition Additions
 
+### Goodness Without Wisdom Always Accomplishes Evil (foundational container-design tenet, Aug 9, 2026)
+
+His own words, marked explicitly as foundational: "Goodness without wisdom always accomplishes evil. As facilitators it's not enough to ask participants to be good. We need to help them become wise."
+
+Extracted live from a real case: a genuinely held, genuinely good personal rule (don't kiss with active symptoms) was actually kept, in the literal moment, and still produced harm — because the missing piece was never willingness, it was a specific piece of knowledge he didn't have (disclosure has to happen regardless of current symptom status, not just when symptomatic). Goodness supplied the intention. Wisdom was the part missing.
+
+**Why it belongs in the facilitator material specifically:** a container that screens for good people and stops there is building on the half that usually isn't where failure comes from. Most harm in these spaces comes from good people missing a specific piece of knowledge, not from bad people lacking goodness. A container's actual job is supplying the missing wisdom directly, not assuming goodness will locate it unassisted.
+
+**Full entry with the live case study:** `distinctions.md` in the private RPM repo (same date). Companion source: `health-record.md` and `capture.md` 137/138 in RPM, same night.
+
+**Where to use:** `before-you-facilitate.md` or wherever the book's facilitator-design material lives — this reads as a design principle, not a personal lesson, and pairs naturally with any existing "ask people to be good" framing that needs a second half.
+
 ### Righteous Predation That Mimics Selfishness (Mercy Defense diagnostic layer)
 
 The Mercy Defense section in `appropriate-response.md` describes the pattern of framing over-response as restraint ("you're lucky I'm holding back"). It explains what the behavior looks like and why observers buy it. What it doesn't do is help the reader diagnose *what's driving* the behavior — which matters because the book's own framework says the correct response differs based on type.
