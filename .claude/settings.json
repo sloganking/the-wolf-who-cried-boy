@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Edit|Write|MultiEdit|NotebookEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python scripts/privacy_license.py",
+            "timeout": 15,
+            "statusMessage": "Privacy license (public-repo conventions gate)"
+          }
+        ]
+      }
+    ]
+  }
+}

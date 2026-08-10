@@ -39,3 +39,6 @@ scripts/.private-names.txt
 *.mp3
 scripts/.people-names-approved.txt
 
+# Runtime state for scripts/privacy_license.py (the Claude Code PreToolUse hook) - local only
+scripts/.privacy-license-state.json
+
