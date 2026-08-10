@@ -158,6 +158,8 @@ This page exists because the linguistic gap creates the perceptual gap — it's 
 
 **Responsibility Mirror** — Before pointing at others, look at your part. → [Responsibility](./concepts/responsibility.md)
 
+**Recruitment** — Getting other people to accept your story and act inside it, so an accusation stops being one person's claim and becomes the room's shared reality. The final step of the influence chain (story, fear, urgency, guilt, recruitment) and the action that [narrative lock](#) performs on everyone else: lock is the state, recruitment is the verb that turns a cell into a room. The tell is a private hurt acquiring a public constituency, especially one that cannot speak for itself. "I was hurt" becomes "think of the children." Naming it out loud is usually enough to break it, because recruitment only works while nobody says what it is. → [Influence Firewall](./tools/influence-firewall.md), [Why Rescuers Are Dangerous](./concepts/why-rescuers-are-dangerous.md)
+
 **Responsibility Triad** — Responsibility (seeing your causal part) vs Accountability (making repair) vs Punishment (inflicting suffering). Most people conflate all three. → [Responsibility](./concepts/responsibility.md)
 
 **Reverse Fawning** — Saying no when you mean yes. Suppressing desire because expressing it feels dangerous. The mirror image of fawning. → [Healing Fawning](./concepts/healing-fawning.md)
