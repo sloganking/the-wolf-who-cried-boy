@@ -126,6 +126,18 @@ At a shadow play workshop, everyone shared what they wanted in a sharing circle 
 
 ## Potential Second Edition Additions
 
+### Stating the Belief Behind a Boundary, Not Just the Boundary (Aug 9, 2026)
+
+Quote he likes, source unspecified: *"I am not going to stand here and be yelled at. That would be betraying my beliefs about how people should be treated."* His own gloss, same message: *"it's not what you do, it's why you do it."*
+
+The move: name the belief driving a boundary, not just the boundary itself. "I don't want this" is self-protective and invites argument about whether the discomfort is legitimate. "Staying would betray what I believe about how people should be treated" reframes the same exit as consistency with a standard — and because it's a belief about how PEOPLE should be treated, not just how he wants to be treated, it implicitly extends the same standard to the person he's setting the boundary with.
+
+**Why it's likely more than a one-off line — his own catch, not mine:** it's the same mechanic already in the book's record-correction material (state what you believe, mid-sequence) showing up a second time, in a completely different context — a live boundary in the moment, not an after-the-fact repair. Two independent contexts running the identical move is usually the tell that it's a real principle rather than a line that happened to land once.
+
+**Where to use:** near existing boundary-setting material, or as a companion to the record-correction steps, cross-referenced as the SAME move used live instead of retrospectively — "making sure no one could misunderstand your intent," his own framing for what both are actually doing.
+
+**Rated ~6x.** Real and generalizable, evidenced across two contexts rather than one, but not yet proven beyond that.
+
 ### Goodness Without Wisdom Always Accomplishes Evil (foundational container-design tenet, Aug 9, 2026)
 
 His own words, marked explicitly as foundational: "Goodness without wisdom always accomplishes evil. As facilitators it's not enough to ask participants to be good. We need to help them become wise."
