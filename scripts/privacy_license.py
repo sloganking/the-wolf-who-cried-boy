@@ -56,6 +56,16 @@ STATE_FILE = ROOT / "scripts" / ".privacy-license-state.json"
 PRIVATE_CONTEXT = ROOT / "wiki" / ".private-context.md"
 PRIVATE_NAMES = ROOT / "scripts" / ".private-names.txt"
 
+# Synced canonical copies (author's call, 2026-08-21): the two files above are
+# gitignored here BY DESIGN, so they never travel between machines. Their
+# machine-synced home is the author's PRIVATE sibling repo, read via a
+# repo-relative path (no usernames or absolute paths in this public file).
+# If that repo isn't checked out next to this one, these simply don't exist
+# and the local copies (or their absence) speak for themselves.
+SYNCED_DIR = ROOT.parent / "RPM" / "book-privacy"
+SYNCED_CONTEXT = SYNCED_DIR / "private-context.md"
+SYNCED_NAMES = SYNCED_DIR / "private-names.txt"
+
 MAX_AGE_SECONDS = 45 * 60       # license window: wall-clock re-arm
 MAX_CALLS = 25                  # call-count backstop
 
@@ -109,29 +119,64 @@ def gated_file(tool_name, tool_input):
     return not is_gitignored(fp)
 
 
+def _read_doc(label, path):
+    """Return (text, ok) for one privacy source; never raises."""
+    try:
+        if path.exists():
+            return (f"----- BEGIN {label} -----\n"
+                    + path.read_text(encoding="utf-8")
+                    + f"\n----- END {label} -----", True)
+        return (None, False)
+    except Exception as e:
+        return (f"(could not read {label}: {e})", False)
+
+
 def read_rules_text():
     parts = []
-    try:
-        if PRIVATE_CONTEXT.exists():
-            parts.append("----- BEGIN wiki/.private-context.md -----\n"
-                          + PRIVATE_CONTEXT.read_text(encoding="utf-8")
-                          + "\n----- END wiki/.private-context.md -----")
-        else:
-            parts.append("(wiki/.private-context.md does not exist locally - "
-                          "nothing to inject from it. If you know of private "
-                          "context that should be recorded, ask before writing.)")
-    except Exception as e:
-        parts.append(f"(could not read wiki/.private-context.md: {e})")
 
-    try:
-        if PRIVATE_NAMES.exists():
-            parts.append("----- BEGIN scripts/.private-names.txt -----\n"
-                          + PRIVATE_NAMES.read_text(encoding="utf-8")
-                          + "\n----- END scripts/.private-names.txt -----")
+    # Each pair: synced canonical first, local gitignored copy second.
+    # If the local copy is byte-identical to the synced one, inject it once;
+    # if they differ, inject BOTH so neither silently wins - the divergence
+    # itself is worth seeing. Any change to any source changes the rules
+    # fingerprint, which re-arms the bounce.
+    for synced_label, synced_path, local_label, local_path, missing_note in (
+        ("synced private-context.md (private sibling repo)", SYNCED_CONTEXT,
+         "wiki/.private-context.md", PRIVATE_CONTEXT,
+         "(no privacy context found: neither the synced copy in the private "
+         "sibling repo nor local wiki/.private-context.md exists - nothing to "
+         "inject. If you know of private context that should be recorded, "
+         "ask before writing.)"),
+        ("synced private-names.txt (private sibling repo)", SYNCED_NAMES,
+         "scripts/.private-names.txt", PRIVATE_NAMES,
+         "(no name blocklist found: neither the synced copy nor local "
+         "scripts/.private-names.txt exists.)"),
+    ):
+        synced_text, synced_ok = _read_doc(synced_label, synced_path)
+        local_text, local_ok = _read_doc(local_label, local_path)
+        if synced_ok and local_ok:
+            try:
+                same = (synced_path.read_text(encoding="utf-8")
+                        == local_path.read_text(encoding="utf-8"))
+            except Exception:
+                same = False
+            if same:
+                parts.append(synced_text)
+            else:
+                parts.append(synced_text)
+                parts.append(local_text)
+                parts.append(f"(NOTE: {local_label} differs from the synced "
+                             "copy - both injected above; reconcile them.)")
+        elif synced_ok:
+            parts.append(synced_text)
+        elif local_ok:
+            parts.append(local_text)
         else:
-            parts.append("(scripts/.private-names.txt does not exist locally.)")
-    except Exception as e:
-        parts.append(f"(could not read scripts/.private-names.txt: {e})")
+            # carry any error strings so failures are visible, else the note
+            for t in (synced_text, local_text):
+                if t:
+                    parts.append(t)
+            if not (synced_text or local_text):
+                parts.append(missing_note)
 
     return "\n\n".join(parts)
 
