@@ -1306,6 +1306,50 @@ The author flagged that the four-month-text example in `drama-triangle.md` (rate
 
 **Recommendation:** before touching `drama-triangle.md`, nail down the actual timeline and platform of the roommate outreach relative to the three quoted texts (the author has this; a future session should ask rather than assume). Then decide: (a) leave the example as-is if the roommate contact is a genuinely separate, non-overlapping thread outside what she was reacting to; (b) add one restrained clause folding it in if it does overlap and it *strengthens* the example (more ignored contact, still a small total, still a respected boundary); or (c) if it's genuinely ambiguous whether it helps or hurts, name that ambiguity to the author rather than resolve it unilaterally in an editing session — this is his real relationship history, not a neutral craft call.
 
+### HHH. A commitment is what lets someone else wake you up — the missing mechanism for escaping your own blind spot (added 2026-08-22, ~6:15pm, author-originated from the phone desk; assessed **7x+, the strongest of this batch**)
+
+**Source:** author voice memos, 2026-08-22. Anonymized per the naming rule; no individuals, no incident details.
+
+**The idea, in his own framing:** he holds a stated commitment ("the best service in the world to the people who interact with me"). When someone put a decision of his next to that commitment, he could not defend it — *"I looked at my values, what I'm really committed to... other people can help wake you up. I think this is not really in alignment with this commitment of yours. And you can go, shit, you're right."*
+
+⭐ **Why this clears 7x, and why it is bigger than the case that produced it.** The book already establishes, at length, that a person inside a false belief cannot see out of it, and that being told is not the same as being shown. What it has never given the reader is **an operational answer to "so how does anyone ever get out?"** — and this is one. **Without a stated commitment, another person's feedback arrives as an accusation, and the mind's job becomes defending against it** — which is precisely the self-defense reflex the book spends chapters diagnosing (narrative lock, belief-blindness, the reasoning that was "fine" until it wasn't). **With a stated commitment, the same feedback arrives as a measurement**: not *you are bad*, but *this does not match the thing you said you were for.* That is a comparison the mind can run without a threat response, because the standard is one the person chose.
+
+**The structural point worth writing explicitly:** the commitment has to be **specific, positive, and self-imposed** to work. A rule ("always disclose X") only covers the case it names. A commitment to an outcome covers cases nobody anticipated — including the one that catches you. **A commitment is a general-purpose blind-spot detector that other people are licensed to operate.**
+
+**Where it goes:** it is a natural companion to the responsibility material (`src/concepts/responsibility.md` — the creator question vs. the victim question), and it is arguably the answer to a question the Mirror in the Conclusion leaves open. **Recommend drafting it as a short standalone concept and cross-linking, rather than burying it inside an example.** It should be able to be read by someone who is not in the sex world at all.
+
+⚠️ **Voice guard:** write it as the mechanism, not as a testimonial. The author's own case is the proof, but the reader needs the tool.
+
+### III. The disclosure case — low probability times severe harm still leaves the other person a right to choose (added 2026-08-22, author-originated from the phone desk; assessed **7x in substance, TIMING-GATED — his call, not the desk's**)
+
+**Source:** author voice memos, 2026-08-22. **Deliberately abstracted here:** a recurring, common, low-transmission-probability health disclosure, made after the fact rather than before. Roughly twenty people in a row were fine with it after the fact; one was not, and was genuinely distressed.
+
+**The fork he names, verbatim in substance:** he could conclude *it is just this one person who is weird and I did nothing wrong* — which he identifies in the same breath as **self-defense he already knows is a lie** — or he could conclude *the probability is low and the harm if it lands is severe, and this person wanted to be informed before engaging, and that is something I understand.* His close is the line that makes it a book passage rather than a diary entry: **had he disclosed, "we would both be having fun and like each other and there would be no pain to begin with."**
+
+⭐ **Why it is strong material:** it is the book's own responsibility framework run on the author, at real cost, in a case where **nobody was villainous and the harm was still real.** The book badly needs at least one first-person case where the author is the one who has to take responsibility rather than the one adjudicating someone else's incident — the Mirror in the Conclusion is more credible if the author has already stood in front of it. It also introduces a concept the book uses everywhere but never states cleanly: **twenty consecutive people being fine is not consent from the twenty-first**, and a track record is not a substitute for an ask.
+
+🦷 **The counter-argument, stated so it is not lost:** the case is *smaller* than the incidents the book usually handles, and that is exactly what makes it useful — a reader who would defend themselves against a dramatic accusation can sit with a low-stakes one. Do not inflate it.
+
+⚠️ **TIMING — his own concern and his decision to make.** He raised it himself: *"I don't know if I should put it in the book right now because the current drama is ongoing. It will be anonymous, but I got to consider what's going to make my community feel good."* **The desk's read, offered as a read:** the mechanism in item HHH carries none of that exposure and is publishable now; this case study is the part with the live risk. **A middle path exists** — write the passage with the mechanism intact and the specifics generalized to any low-probability/high-severity disclosure, so the teaching lands without the reader being able to map it onto a live situation. **Do not draft the specific version until he says the timing is clear.**
+
+### JJJ. Why "serving" was the hardest quadrant — and why the commitment was aimed there on purpose (added 2026-08-22, author-originated from the phone desk; assessed **7x**)
+
+**Source:** author voice memos, 2026-08-22.
+
+**The observation:** working the Betty Martin consent-wheel quadrants (a published framework, safe to cite), he found the usual pattern did not hold for him. Most people find **serving** the most comfortable quadrant — giving is easier than receiving. For him, **allowing** was the hardest and **serving** was very nearly as hard. **The reason: in childhood, most of his service was non-consensual.** So serving with consent still carried the fear, aversion and emotional associations of serving without it.
+
+⭐ **Why this clears 7x:** it is a clean, transferable demonstration of something the book asserts but rarely shows — **that a present-day aversion can be a past-day condition wearing a current costume, and that the two feel identical from the inside.** A reader who "just doesn't like" some part of a container now has a question to ask about it. It also earns item HHH: the commitment was not a slogan, it was a deliberate move *at his hardest quadrant*, which is why it had enough weight to override a defense later.
+
+**The sequencing worth preserving:** aversion noticed → cause identified → aversion refused as a permanent fact → **commitment made in the direction of the difficulty**. That is a four-step move a reader can run on their own worst quadrant. **Companion to HHH; likely the same chapter, HHH first.**
+
+### KKK. The book does not cover sexually transmitted infections at all (added 2026-08-22, author-raised from the phone desk; **a GAP FLAG, not a 7x idea — logged so it is not rediscovered**)
+
+**His own catch:** *"we haven't talked about sexually transmitted infections at all, and some of them are permanent. So that is high severity harm, and that is the whole nature of that world."*
+
+**The assessment, marked as an assessment:** this is a genuine structural gap, but it is **not** an idea that clears the 7x bar on its own, and it should not be treated as one. The book's subject is power, judgment and repair, and a medical chapter would pull it toward being the sex manual the positioning sentence (item EEE) explicitly says it is not. ⭐ **The version that belongs in this book is not medical, it is a DISCLOSURE-AND-CONSENT question** — how a low-probability, high-severity, permanent-harm risk changes what a person is owed before they decide, which is item III's mechanism with the stakes raised. **Recommend: cover it inside the disclosure material rather than as its own chapter, and cite outward for anything clinical.**
+
+⚠️ Flagged, not scheduled. If he wants it as a chapter, that is a scope decision and it belongs in the scope section below.
+
 ### Decided terminology (2026-07-01): keep "belief axiom" over "foundational belief"
 
 The math term is load-bearing: an axiom is the *unproven starting point from which everything else validly derives* — which is the chapter's exact mechanism (surface beliefs are valid-but-unsound conclusions; the error lives in the premise). "Foundational belief" loses the derivation structure and blurs into generic self-help vocabulary. The chapter already pays the definition cost in one sentence and offers "the floor"/"bedrock" as plain handles. Conversational on-ramp: say "foundational belief" when introducing the idea aloud; the book keeps the precision term. (Same pattern as "sinsickness" — not an everyday word, still the right word.)
