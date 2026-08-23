@@ -1350,6 +1350,20 @@ The author flagged that the four-month-text example in `drama-triangle.md` (rate
 
 ⚠️ Flagged, not scheduled. If he wants it as a chapter, that is a scope decision and it belongs in the scope section below.
 
+### LLL. The author's own severity scale caught his own blind spot — after the book was substantively complete (added 2026-08-22, ~6:34pm, author-originated from the phone desk; assessed **7x+, and it upgrades KKK from a gap flag to real material**)
+
+**Source:** author voice memo, 2026-08-22. Anonymized; the health specifics stay abstracted as in item III.
+
+**What happened, in his framing:** the book was already written to substantive completeness **and the severity scale already existed** — and he still had the blind spot. He had done the cataloguing honestly: the condition is near-universal, most carriers are asymptomatic, **he had actually run the numbers**, and the people he had raised it with did not care. From that he had filed it as *not really a sexual-health item worth raising*, and so every time a partner said "let's talk about sexual health," this was not what came up.
+
+⭐ **Then the label moved, and nothing else did.** *"I knew it was permanent, but I didn't think 'high severity' in my own language... something about the language switches it when you have this distinction, it clicked in my brain. I was like, oh shit, I'm risking high severity harm — on my own fucking book that I talk about in my own fucking book. And suddenly it meant something different, it clicked in a different way."*
+
+⭐⭐ **Why this is the strongest version of the book's own thesis it will ever get.** The book's founding claim is that **the linguistic gap creates the perceptual gap** — that manufacturing the missing word is what makes the thing visible. This is that claim demonstrated **on the author, by his own vocabulary, after he had finished writing it.** No new facts arrived. The transmission probability did not change. The permanence did not change. **What changed was which of his own categories the case got filed under, and that alone flipped the conclusion.** A reader cannot dismiss this as the author being clever about other people.
+
+**It also settles a question the book raises and does not close:** does having the language protect you? **No.** Building the vocabulary and even publishing it does not immunize you against the exact blindness it names — *"sight is a process"* (his line, and it belongs in this passage). **That is the honest and much more useful answer**, and it protects the book from the reading where the author is positioned as the one who already sees.
+
+**Where it goes:** this is the passage that makes item KKK unnecessary as a standalone gap. **Recommend: fold the STI question into this, not into a medical chapter** — the teaching is that a permanent, low-probability harm belongs in the *high severity* column regardless of how common or asymptomatic it is, and that a person who has run the numbers can still have the category wrong. **Pairs with HHH** (the commitment is what let someone else raise it) and **III** (the disclosure decision that followed). ⚠️ Same timing gate as III applies to any version that carries the specifics; the mechanism above carries none of them.
+
 ### Decided terminology (2026-07-01): keep "belief axiom" over "foundational belief"
 
 The math term is load-bearing: an axiom is the *unproven starting point from which everything else validly derives* — which is the chapter's exact mechanism (surface beliefs are valid-but-unsound conclusions; the error lives in the premise). "Foundational belief" loses the derivation structure and blurs into generic self-help vocabulary. The chapter already pays the definition cost in one sentence and offers "the floor"/"bedrock" as plain handles. Conversational on-ramp: say "foundational belief" when introducing the idea aloud; the book keeps the precision term. (Same pattern as "sinsickness" — not an everyday word, still the right word.)
