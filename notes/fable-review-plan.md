@@ -1432,3 +1432,17 @@ Based on the book, the coaching site, the first full client testimonial, and the
 **The teaching, in book terms:** trust decides which source's story a room adopts; **fear is a second, parallel instrument that works WITHOUT trust.** An ungrounded person will accept a fear "just in case" even from a stranger they don't trust, because being wrong about a danger feels worse than believing a liar. So the influence-firewall chain already names **fear** as its own step (story → fear → urgency → guilt → recruitment) — this promotes fear from one link in that chain to a **standalone engine equal to trust**, and explains a real gap: how a low-trust adversary can still poison a room, because they don't need the room's trust, only its fear.
 
 **Placement candidates:** (1) the influence-firewall chapter, where the fear step already lives — name it as an engine, not just a link; (2) `why-rescuers-are-dangerous.md` / the frame-poisoning material, as the reason a distrusted accuser can still turn a room. **No names, no identifying incident** — this is a mechanism note only, per the author's explicit instruction. Kin in the private repo: the "trust is the only tool most people have" and "fear and trust" distinctions in `distinctions.md`.
+
+---
+
+## Candidate concept — top/bottom vulnerability INVERTS with the setting (added 2026-08-27, author-originated, DE-NAMED)
+
+**Author flagged this as a passing remark to add to the chapter that already carries top-and-bottom vulnerability (`all-power-is-mutual.md#top-and-bottom-vulnerability`).** The sharpening is the **where**. His own proposed wording (2026-08-27):
+
+> Bottoms are most vulnerable in private; tops are most vulnerable in public settings — which means at public gatherings, temples, and play parties, bottoms are often in a protected position and tops often have little to no protection, especially since most people aren't aware of these terms or thinking about it this way.
+
+**Optional extension he flagged for possible trimming** (his note: "a little elaborate, maybe we cut off the end"):
+
+> In practice, good top-vulnerability defending is much rarer in public spaces than it should be — for most people it's an afterthought, or not thought about at all.
+
+**Why it fits:** it's the concrete mechanism under the existing training argument — a container built for play or intimacy is bottom-protective and top-exposing by its nature (the same crowd that guards the bottom can be recruited against the top), so the room has to be trained to recognize top vulnerability and not over-respond to an accusation. **No names, no incident, and NOT the author's rawest private formulation** — that line is kept out of the book by his explicit instruction and lives only in the private repo's `distinctions.md`.
