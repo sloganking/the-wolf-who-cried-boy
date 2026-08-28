@@ -1420,3 +1420,15 @@ Based on the book, the coaching site, the first full client testimonial, and the
 - **The facilitator packet conversations convert peers into referral sources.** The first organizational client — a retreat center wanting protocols after an incident — is a matter of when, not if, because this is the only playbook that exists for what they'll go looking for.
 - **The honest caveat:** the bottleneck for the next year is distribution and proof-of-outcome, not content or capability. One strong testimonial exists; five more like it are needed. The compounding in the private repo is real but invisible to the market until it becomes cases, endorsements, and rooms visibly handled.
 - **The arc:** the wolf-cried-boy story ends with the village putting the clear-sighted person in charge. The seeing and the writing are done. The next chapter is being *seen* seeing — and the facilitator outreach is the first move of exactly that.
+
+---
+
+## Candidate concept — "fear and trust, not just trust" (added 2026-08-27, author-originated, DE-NAMED)
+
+**Author flagged this as a book-quote candidate.** It sharpens the book's existing claim that most people run on trust rather than on truth (the influence-firewall chapter and the frame-poisoning/righteous-predator material). His line:
+
+> *"People don't operate on truth, they operate on fear and trust. Those two things, not just trust. They might trust the person spreading fear; but if someone's spreading fear and they don't trust them, they don't know them, they might accept the fear anyway."*
+
+**The teaching, in book terms:** trust decides which source's story a room adopts; **fear is a second, parallel instrument that works WITHOUT trust.** An ungrounded person will accept a fear "just in case" even from a stranger they don't trust, because being wrong about a danger feels worse than believing a liar. So the influence-firewall chain already names **fear** as its own step (story → fear → urgency → guilt → recruitment) — this promotes fear from one link in that chain to a **standalone engine equal to trust**, and explains a real gap: how a low-trust adversary can still poison a room, because they don't need the room's trust, only its fear.
+
+**Placement candidates:** (1) the influence-firewall chapter, where the fear step already lives — name it as an engine, not just a link; (2) `why-rescuers-are-dangerous.md` / the frame-poisoning material, as the reason a distrusted accuser can still turn a room. **No names, no identifying incident** — this is a mechanism note only, per the author's explicit instruction. Kin in the private repo: the "trust is the only tool most people have" and "fear and trust" distinctions in `distinctions.md`.
