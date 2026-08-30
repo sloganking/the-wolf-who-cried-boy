@@ -2,11 +2,7 @@
 
 > **A note on this version.** You are reading a pre-publication copy. I wrote this book from a particular perspective, the top's side of the power dynamic, because that is the side I lived. What you are holding is a product of that. Before final release, trusted readers from the receiving end of power will read and challenge the whole text so the balance is real rather than claimed. If you want the version with that pass in it, wait for the final release. If you read this one, know what it is, and know that anything that lands wrong from the other side is feedback I actively want.
 
-Anyone can see wrongdoing, assume malice, and punish. That takes nothing — just righteous certainty and anger. That's not a commitment to justice — it's a commitment to fear.
-
-Seeing wrongdoing and understanding why it happened, what beliefs drove it, what patterns made it inevitable — and then seeing the person who did it as a human being and helping them find a way to get what they actually need that works better than whatever drove them there — that takes empathy, courage, and everything you have.
-
-The first one feels like justice. The second one *is* justice.
+> **It was my dream to one day create safe spaces like this. But the reality was, the spaces weren't safe. I saw that, and I built this in an effort to raise the standard, to push it higher. Having been attacked in sex-positive spaces, and having understood the psychological mechanisms by which attack happens, I set out to become the one who helps make them safe.**
 
 ---
 
