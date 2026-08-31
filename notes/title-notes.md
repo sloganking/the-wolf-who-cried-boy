@@ -32,6 +32,16 @@ The title is a perceptual inversion. You see a wolf where there's a boy — and 
 
 The wolf was minding his own business in the forest. The humans came with their stories, their certainty, and their violence. The wolf was never the threat — the village's narrative about the wolf was. The harm came from belief blindness, not from the wolf.
 
+## My Own Reading Changed While I Was Writing It
+
+I'm the author, and even I didn't read the title one fixed way the whole time.
+
+My first read was the wolf as the person who harmed me. That's the most natural first reading if you've been on the receiving end of harm and you're looking for the word that names what happened to you.
+
+By the end, a second reading had caught up with the first: in my own blind spots, I found ways I had been creating harm too — not instead of the first reading, alongside it. That's the actual premise underneath the whole title. Not "wolves are innocent," not "boys are liars." A blind spot causes harm regardless of which role you think you're playing in the moment. You can be genuinely harmed by someone else's blind spot and still be running one of your own. Neither cancels the other out.
+
+If the title made you pick a side before you'd read a page, it already did its job. The book is what happens after you notice you picked one.
+
 ## What Your Interpretation Reveals
 
 When someone asks "what does the title mean?" the answer is: "what do you believe it means?"
