@@ -87,6 +87,8 @@ Here's the part nobody tells you about the boy who cried wolf: in the real world
 
 ### The Blurry Predator: Where Most Harm Lives
 
+We delude ourselves into thinking we're righteous in order to give ourselves permission to do the selfish shadow behavior we're trying to hide the desire from — ourselves and others.
+
 Most predators aren't either of the two pure types. Not the cold selfish predator who knows exactly what they're taking. Not the pure righteous predator operating on moral certainty without any hunger underneath. Those exist — but they're the minority. Most harm comes from the middle.
 
 Three self-statements distinguish the three types:
@@ -180,6 +182,8 @@ The acid on girls didn't catch on. The circumcision of boys did. Same ideology, 
 Today, if someone pricks a girl's clitoris with a needle—reducing sensitivity slightly—we Americans call it genital mutilation. We despise cultures that do it. We consider it barbaric.
 
 If someone cuts off a section of a boy's penis—removing tissue containing a significant portion of nerve endings—we call it tradition. We consider it normal. Maybe even cleaner or healthier—justifications that arrived long after the practice started, and long after its original purpose became embarrassing. People don't circumcise their sons because of health statistics. They do it because their dad was circumcised, and his dad before him, and it's just what you do.
+
+**A note on scope.** This case study is about the American routine practice — the one Kellogg started, the one that runs on "it's just what you do." If circumcision carries genuine sacred meaning for you — covenant, reverence, belonging, closeness to God — this book's own framework says your experience of it is real: [feelings follow the meaning you make](./trauma-and-filters.md#any-feeling-to-any-stimulus), and inside a frame of sacred meaning the same act can be lived as a blessing. And if you would choose it for yourself, that's your body and your choice — this chapter isn't against circumcision. Its concern is narrower, and it doesn't change with the frame: a permanent choice made for someone who can't yet speak, powered by a belief the choosers may never have examined. Examine the belief — and then choose deliberately, whatever you choose.
 
 The word "circumcision" exists to make you think and feel about the act differently than you would by default. Without that word, you'd have to describe what actually happened — and notice how differently these two sentences land:
 
