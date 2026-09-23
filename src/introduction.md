@@ -1,6 +1,10 @@
 # Introduction
 
-> **A note on this version.** You are reading a pre-publication copy. I wrote this book from a particular perspective, the top's side of the power dynamic, because that is the side I lived. What you are holding is a product of that. Before final release, trusted readers from the receiving end of power will read and challenge the whole text so the balance is real rather than claimed. If you want the version with that pass in it, wait for the final release. If you read this one, know what it is, and know that anything that lands wrong from the other side is feedback I actively want.
+> **Grant me the courage to name a wolf a wolf, the grace to name a friend a friend, and the wisdom to know the difference.**
+>
+> — _Logan King, adapted from Reinhold Niebuhr's Serenity Prayer_
+
+> **A note on this version.** You are reading a pre-publication copy. Every intimate interaction carries two kinds of vulnerability, a bottom's and a top's. This book, in its current form, was written by someone who has lived mostly on the top's side, with its advantages and its vulnerabilities. Before final release, trusted readers who have lived mostly on the bottom's side will read and challenge the whole text, so both sides are seen accurately. If you want the version with that pass in it, wait for the final release. If you read this one, know what it is, and know that anything that lands wrong from the other side is feedback I actively want.
 
 > **It was my dream to one day create safe spaces like this. But the reality was, the spaces weren't safe. I saw that, and I built this in an effort to raise the standard, to push it higher. Having been attacked in sex-positive spaces, and having understood the psychological mechanisms by which attack happens, I set out to become the one who helps make them safe.**
 
