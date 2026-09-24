@@ -77,3 +77,21 @@ If you can't say it truthfully to one of the two people, that's information. You
 
 ---
 
+## The Process
+
+### 1. Talk to Each Person Separately First
+
+Before anyone sits in a room together, call each person on their own.
+
+Separate conversations let each person say things they wouldn't say with the other one listening. You hear what happened from primary sources, the same work as [What to Do When Someone Reports](./when-things-go-wrong.md#what-to-do-when-someone-reports). You find out what each person actually wants: repair, distance, an apology, or nothing at all. And you get to say your friend statement to each of them, one at a time, before the hardest conversation starts.
+
+The calls also test you. By the end of the first call you'll have a story about what happened. The second call is where you find out whether it holds.
+
+### 2. Ask Both People Before Bringing Them Together
+
+A joint conversation happens only if both people say yes.
+
+Make the yes an informed one. Tell them what the conversation would look like: who's there, how long it lasts, what it's for. Don't sell it with "it would be good for the community." That puts the group's benefit ahead of theirs, and it's pressure dressed up as reasoning.
+
+A no is a real answer. If the person who was hurt doesn't want contact, [respecting that is the action](./repair.md#when-the-other-person-doesnt-want-contact), for them and for you. The person who erred can say no too: [repair requires safe conditions](./repair.md#repair-requires-safe-conditions), and if they're being attacked, those conditions aren't there yet. The same holds when the only way back on offer is [a door painted on a wall](./invisible-patterns.md#narrative-lock): a repair that opens only if they confess to being who the other person has decided they are. Real repair asks someone to own what they did, and if a label fits what they did, owning it can be part of that. What repair never requires is pleading guilty to a label that isn't true.
+
