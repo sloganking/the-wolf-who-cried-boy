@@ -118,7 +118,7 @@ But anger isn't why I kept writing.
 
 I kept writing because people are causing each other pain that doesn't need to exist — and they can't see it. A father hits his son because he can't see a child trying his best. A community turns on one of their own because they can't see a person who made a mistake. Good people, everywhere, hurting each other over stories that aren't real. And none of it needs to happen.
 
-Every person is a human being — not a monster, not a label. And when people can see that — in themselves and in each other — they're free. Free from the stories. Free from the unnecessary suffering. Free to create something good.
+Some people do monstrous things. Even then, what they're owed is what anyone is owed: someone who checks what actually happened, and a response the size of what they actually did. When people can do that, for each other and for themselves, they're free. Free from the stories. Free from the unnecessary suffering. Free to create something good.
 
 **I see the way out. And I won't leave without you.**
 
