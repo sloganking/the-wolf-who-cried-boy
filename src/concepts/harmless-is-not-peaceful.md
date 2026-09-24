@@ -10,7 +10,7 @@
 > **"Of all evil I deem you capable: Therefore I want good from you. Verily, I have often laughed at the weaklings who thought themselves good because they had no claws."**  
 > — *Friedrich Nietzsche, Thus Spoke Zarathustra*
 
-A person who can't be dangerous isn't choosing peace. They're incapable of anything else.
+A person who can't be dangerous isn't choosing peace. They can't protect themselves, or anyone they love.
 
 This distinction matters for everything this book teaches.
 

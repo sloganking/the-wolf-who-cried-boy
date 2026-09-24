@@ -210,7 +210,7 @@ Readers remember the sentence that hit them, not the chapter it was in. Every li
 
 ## The Point of Sight
 
-**A person who can't be dangerous isn't choosing peace. They're incapable of anything else.** → [Harmless Is Not Peaceful](./concepts/harmless-is-not-peaceful.md)
+**A person who can't be dangerous isn't choosing peace. They can't protect themselves, or anyone they love.** → [Harmless Is Not Peaceful](./concepts/harmless-is-not-peaceful.md)
 
 **The tools in this book aren't rules for the meek. They're precision instruments for the dangerous.** → [Harmless Is Not Peaceful](./concepts/harmless-is-not-peaceful.md)
 
