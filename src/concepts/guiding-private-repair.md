@@ -1,7 +1,6 @@
 # Guiding Private Repair
 
 > **Draft chapter.** The book is live while it's being written, and this chapter is still being written. Expect it to change.
-
 ---
 
 Someone in your container made a mistake. The person it happened to is hurt, or angry, or unsure what they feel. The room either doesn't know, or knows a little.
@@ -144,6 +143,7 @@ Then check in with each person separately, a day or two later. What happened in 
 **What the room hears.** A repair can be as public as the thing it's repairing, and no more public than that. If nobody outside the people involved knows anything happened, nobody else may need to. If the room has pieces of the story, the default sequence is to repair privately and then share, but only if both people want to, and only what they both agree to. It can be one sentence in a sharing circle: "Something happened between the two of us. We talked it through, and we both feel complete." The room knows it was handled, and nobody has to relive it.
 
 That agreement covers the stage: an announcement, a circle, anything the facilitator hands the room. What each person says privately afterward is harder to pin down. Some communities have an agreement not to talk about people who aren't there. Some people need to tell a close friend, "That happened to me, it didn't feel good, keep an eye out," and the more serious the harm, the more that can matter. Where the line falls depends on your container's agreements and on how serious the harm was. It's worth asking both people directly what they each plan to say, and to whom, so neither one is surprised later.
+That agreement covers the stage: an announcement, a circle, anything the facilitator hands the room. What each person says privately afterward is harder to pin down. Some communities have an agreement not to talk about people who aren't there. Some people feel the need to warn their friends: "That happened to me, it didn't feel good, keep an eye out." Warning is a safety move, a felt need to protect the people they care about, and the more serious the harm, the stronger that pull can be. Where the line falls depends on your container's agreements and on how serious the harm was. Some facilitators ask about it privately, one person at a time. What someone plans to say afterward can matter to the facilitator's own decisions later, like whether to invite someone back. Other facilitators leave it alone entirely. There's no single right answer here yet, and it's worth deciding how you handle it before you're in the middle of one.
 
 **What comes after.** Repair between the two of them doesn't settle everything, and three things can be true at once. The person who erred [comes back to community](./i-made-a-mistake.md#return-to-community); that's part of repair, not a reward for finishing it. The person who was hurt might want distance from them for a while. And the people who run a space make their own calls about who's in it, and in what role. An organizer might welcome someone back as a participant but not yet on their team, or want them away from their own events until they've learned specific things. That's the organizer's container, and the call is theirs.
 
@@ -151,3 +151,10 @@ What keeps any of these from becoming exile is the same test every time: it's th
 
 ---
 
+## When Private Isn't Enough
+
+- **The room already has a story.** If people are filling in the gaps themselves, a private process leaves their version standing. That's [Guiding Public Repair](./guiding-public-repair.md).
+- **Someone threatens violence.** Stop the repair process. You're now in [Handling Threats of Violence](./handling-threats-of-violence.md).
+- **This isn't your skill set.** That's what [your conflict specialist](./before-you-facilitate.md#your-conflict-specialist) is for.
+
+---
