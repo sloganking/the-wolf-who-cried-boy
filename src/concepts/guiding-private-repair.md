@@ -8,7 +8,7 @@ Someone in your container made a mistake. The person it happened to is hurt, or 
 
 [Guiding Public Repair](./guiding-public-repair.md) covers what to do when the whole room already has a story. This page is for the quieter job: a facilitator helping two people get to repair where nobody is watching.
 
-I know the shape of this process from the chair of the person who erred. I made a boundary mistake at a community event and owned it the same night. The organizers ran a private repair process for it, and it was well run. The steps below are the shape they used, and what it felt like to be on the other side of it.
+I know this process from the other chair. I've been the person on the receiving end of a community's response after I made a mistake, and after I was accused. Some of those responses were terrible. Some never happened at all. And some were held by people I felt completely safe with while they held me. This page is built from the difference.
 
 ---
 
@@ -18,7 +18,12 @@ The person who made the mistake walks into your first conversation braced. Under
 
 Until that question is answered, everything you say gets read through it. A neutral sentence sounds like a verdict. A hard truth sounds like an attack. And a braced nervous system can't work out on its own that it's safe. It has to be told.
 
-[_Crucial Conversations_](https://cruciallearning.com/blog/crucial-conversations-skill-summary-make-it-safe/) names the two conditions that make a hard conversation safe. **Mutual Purpose:** the other person believes you care about their goals. **Mutual Respect:** the other person believes you care about them. Mutual Purpose is what gets you into the conversation, and Mutual Respect is what keeps you in it. Take either one away and people stop talking honestly and start defending themselves.
+[_Crucial Conversations_](https://cruciallearning.com/blog/crucial-conversations-skill-summary-make-it-safe/) names the two conditions that make a hard conversation safe:
+
+- **Mutual Purpose:** the other person believes you care about their goals.
+- **Mutual Respect:** the other person believes you care about them.
+
+Mutual Purpose is what gets you into the conversation, and Mutual Respect is what keeps you in it. Take either one away and people stop talking honestly and start defending themselves.
 
 Both can be said out loud, in the first minute, before anything about the mistake comes up.
 
