@@ -110,11 +110,13 @@ The moment you see your power, everything changes. Not because the world gets ea
 
 ## Why I Wrote This
 
-I was angry. Someone looked at me and saw a monster instead of a person, and it nearly destroyed me. I used that anger to start writing.
+Someone pissed me off.
+
+They treated me like a monster instead of a person, and it hurt me deeply. I took that anger and started writing.
 
 But anger isn't why I kept writing.
 
-I kept writing because people are causing each other pain that doesn't need to exist — and they can't see it. A father hits his son because he can't see a child trying his best. A community exiles one of their own because they can't see a person who made a mistake. Good people, everywhere, hurting each other over stories that aren't real. And none of it needs to happen.
+I kept writing because people are causing each other pain that doesn't need to exist — and they can't see it. A father hits his son because he can't see a child trying his best. A community turns on one of their own because they can't see a person who made a mistake. Good people, everywhere, hurting each other over stories that aren't real. And none of it needs to happen.
 
 Every person is a human being — not a monster, not a label. And when people can see that — in themselves and in each other — they're free. Free from the stories. Free from the unnecessary suffering. Free to create something good.
 
