@@ -113,7 +113,7 @@ Keep the circle as small as it can be: the two people, you, and whoever else gen
 
 An audience changes what people say. With people watching, the person who erred is defending their standing in the community while trying to be honest about what they did, and the person who was hurt is managing how their hurt looks. Take the audience away and both of them can just talk.
 
-Privacy protects the person who was hurt as much as the person who erred. Their experience isn't the room's to process.
+It's easy to read privacy as a favor to the person who made the mistake, a way to protect their reputation. It protects the person who was hurt just as much. What happened to them, and how they feel about it, is theirs to share or keep. Once the room knows, they become the one it happened to in everyone's eyes, and that can follow them into every room after. Whether that happens is their choice to make, not the process's.
 
 ---
 
