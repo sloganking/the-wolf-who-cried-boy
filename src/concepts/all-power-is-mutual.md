@@ -142,9 +142,9 @@ The axes stack — a man facilitating and touching a female participant is top o
 
 The assistant is where the split matters most. Toward participants, an assistant is top: they're staff, and a staff member's mistake lands at higher severity than the same mistake made by a participant. Toward the lead facilitator, they're bottom. They're being directed — told where to stand, who to support, when to step in. They're counting on the lead as their safety net if anything goes wrong, the same way participants are. And if it comes down to their word against the lead's, the lead's word carries more reputational and narrative weight.
 
-So when something goes wrong, an assistant can get the risks of bottom vulnerability with the downsides of top vulnerability. They can be harmed — attacked, threatened, named in front of the room — the way a bottom can. But the response they get is a top's: no safeword, and a room reading them as the one at fault. The lead is their safety net, and when the lead [under-responds](./appropriate-response.md#under-response-the-invisible-failure) while the room [over-responds](./appropriate-response.md), the assistant is **exposed like a bottom and defended like a top.**
+So when something goes wrong, an assistant can get the risks of bottom vulnerability with the downsides of top vulnerability. They can be harmed — attacked, threatened — the way a bottom can. But the response they get is a top's: no safeword, and a room reading them as the one at fault. The lead is their safety net, and when the lead [under-responds](./appropriate-response.md#under-response-the-invisible-failure) while the room [over-responds](./appropriate-response.md), the assistant is **exposed like a bottom and left undefended.**
 
-If you lead a room, this is the person to look for. When the room is closing in on someone, check whether they're also the one who got hurt — and whether you're the only person positioned to protect them.
+Anyone in the room can see this happening. When a room is closing in on someone, one question changes what everyone is looking at: is this person also the one who got hurt? Asking it out loud — to the lead, or to the room — is how a narrative that has only been told from one side gets its other side back.
 
 ## Why This Matters
 
