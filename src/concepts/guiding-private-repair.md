@@ -107,3 +107,13 @@ The limit doesn't do the work on its own, though. An hour is plenty of time for 
 
 Inside that hour, you lead. Watch whether both people are saying what's true, or whether one of them is agreeing with everything just to make it end. Say what you see happening in the room. And when someone starts [fawning](./when-things-go-wrong.md#when-you-see-someone-fawning), apologizing and agreeing to things they don't actually believe, stop and check whether that's really what they think. If the hour ends and the repair isn't finished, schedule another one. [Repair can take more than one round](./repair.md#repair-might-need-to-happen-multiple-times).
 
+### 4. Keep It Private
+
+Keep the circle as small as it can be: the two people, you, and whoever else genuinely needs to be there.
+
+An audience changes what people say. With people watching, the person who erred is defending their standing in the community while trying to be honest about what they did, and the person who was hurt is managing how their hurt looks. Take the audience away and both of them can just talk.
+
+Privacy protects the person who was hurt as much as the person who erred. Their experience isn't the room's to process.
+
+---
+
