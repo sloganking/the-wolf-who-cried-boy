@@ -45,9 +45,11 @@ Notice what she doesn't say. She could tell me she wants me to grow as a person,
 
 That reaction is why it works. Knowing someone is on your side is a thought. Feeling it is a state, and the state is what you hear everything else through. So when she tells me something I don't want to hear, like "I think you should slow down," it doesn't land as a verdict on me. I know she's saying it because she thinks slowing down gets me to that desire sooner. The hard feedback lands as help.
 
-None of this works because the statement is sexual. It works because of what the statement makes me feel, and for me, the joy and the sense of being cared for happen to live around sexuality. For someone else they live somewhere else entirely. A friend statement can be literally anything: silly, sexy, or nothing to do with the hard conversation you're about to have. The one requirement is that it brings up those feelings. When the person hears it, they feel your care.
+None of this works because the statement is sexual. It works because of what the statement makes me feel, and for me, the joy and the sense of being cared for happen to live around sexuality. For someone else they live somewhere else entirely.
 
-I call it the friend statement. As a facilitator, you can use it on purpose.
+I call what she does a friend statement, and it can be literally anything: silly, sexy, or nothing to do with the hard conversation you're about to have. The one requirement is that it brings up those feelings. When the person hears it, they feel your care.
+
+As a facilitator, you can use it on purpose.
 
 **Propose it.** The person doesn't have to confess their deepest desire or say anything vulnerable. You can offer a goal yourself, and it doesn't have to be sexual. In a sex-positive community it might be: "The goal of this is to get you back into these spaces, having the most amazing connection and the best nights of your life." Somewhere else, it's whatever that person came for.
 
