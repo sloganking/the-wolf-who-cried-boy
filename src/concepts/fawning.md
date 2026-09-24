@@ -15,7 +15,7 @@ It's one of the four trauma responses:
 
 ### I Invite You To Play
 
-This chapter is going to talk about the hazards of fawning — what can go wrong, who gets hurt, and why responsibility matters. Before we get into that: having a fawning pattern is human, and playing is how you heal from it. Not playing and then healing separately. Playing IS healing. Fawning, realizing what happened, owning it, trying again, fawning again, owning it faster, trying again — and the third time, catching it before it fires and doing the thing you couldn't do before. That's the whole process. You can't heal outside of live interaction. The task is the lesson.
+This chapter is going to talk about the hazards of fawning — what can go wrong, who gets hurt, and why responsibility is the way out of that pain. Before we get into that: having a fawning pattern is human, and playing is how you heal from it. Not playing and then healing separately. Playing IS healing. Fawning, realizing what happened, owning it, trying again, fawning again, owning it faster, trying again — and the third time, catching it before it fires and doing the thing you couldn't do before. That's the whole process. You can't heal outside of live interaction. The task is the lesson.
 
 Playing with someone who fawns can be beautiful. Two imperfect people who know they're imperfect, healing through each other, checking in, catching the moments where the pattern fires — that's more connected than two "perfect" people performing confidence they don't feel. The vulnerability of "I might fawn and I want you to know that" can be part of what draws people closer.
 
