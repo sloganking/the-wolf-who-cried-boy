@@ -61,3 +61,19 @@ As a facilitator, you can use it on purpose.
 
 Said truthfully, the friend statement can sit right beside accountability: "I want you back in these rooms having the best nights of your life, and that's why I'm telling you this hard thing."
 
+### Both People Get One
+
+The person who was hurt needs Mutual Purpose just as much, and their goal is different: "The goal of this is for you to feel as free in these rooms as you did before this happened." Ask them for the upgrade too.
+
+If only one person hears that you're on their side, you haven't built safety. You've picked a side, and it shows.
+
+### It Has to Be True
+
+_Crucial Conversations_ warns that faked Mutual Purpose destroys safety.
+
+Before you say a friend statement, run the [Influence Firewall's own test](../tools/influence-firewall.md#for-them-or-for-me): is this for them, or for me? If you're privately working toward removing someone, don't tell them you want them back in these rooms. The gap between what you said and what you're doing shows, and once it does, nothing else you've said counts. Stated care followed by a response that doesn't match it is worse than saying nothing.
+
+If you can't say it truthfully to one of the two people, that's information. You may not be the right person to guide this repair. Hand it to someone who can.
+
+---
+
