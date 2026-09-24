@@ -123,7 +123,6 @@ The failure mode here is quiet, so it's easy to miss. A facilitator puts two peo
 
 That's hope, not holding. Letting it all out doesn't dissolve [Narrative Lock](./invisible-patterns.md#narrative-lock). Someone can cry, yell, hug, and walk out with the same story they walked in with. The book already describes [the hoping strategy](./healing-fawning.md#where-fawning-ends-up) in people who fawn: give, wait, and hope someone notices. A facilitator can run the same strategy on a whole process.
 
-The separate calls are how you avoid it. They tell you before you convene anyone whether a joint conversation can produce repair, or whether it would just give one person's locked story a captive audience. Hope is not a protocol.
 Talking to each person separately first, step one above, is how you avoid it. Those conversations tell you, before you convene anyone, whether a joint conversation can produce repair, or whether it would just give one person's locked story a captive audience.
 
 If one of them is in Narrative Lock, don't put them in a room together. Nothing the other person says can land yet. Sitting them across from someone who can only attack them doesn't repair anything. It just means they sit there and take it, and their nervous system learns to fear the next mistake. Keep working with each of them separately, and save the joint conversation for later, if it ever becomes possible.
@@ -136,6 +135,19 @@ Repair does sometimes happen after yelling. But when one person is being yelled 
 
 ---
 
+## Closing the Loop
+
+End the way you started: say both friend statements again.
+
+Then check in with each person separately, a day or two later. What happened in the room and what someone feels once they're home aren't always the same. If something's still open, you'll only hear about it by asking.
+
+**What the room hears.** A repair can be as public as the thing it's repairing, and no more public than that. If nobody outside the people involved knows anything happened, nobody else may need to. If the room has pieces of the story, the default sequence is to repair privately and then share, but only if both people want to, and only what they both agree to. It can be one sentence in a sharing circle: "Something happened between the two of us. We talked it through, and we both feel complete." The room knows it was handled, and nobody has to relive it.
+
+That agreement covers the stage, not each person's own life. Either of them can still talk privately about what happened to them, with a friend, a partner, anyone they trust. The person who was hurt might tell a close friend, "That happened to me, it didn't feel good, keep an eye out." That's their story to tell, and trying to police it would be its own overreach. What takes both yeses is anything the facilitator hands the room: an announcement, a circle, a public word.
+
+**What comes after.** Repair between the two of them doesn't settle everything, and three things can be true at once. The person who erred [comes back to community](./i-made-a-mistake.md#return-to-community); that's part of repair, not a reward for finishing it. The person who was hurt might want distance from them for a while. And the people who run a space make their own calls about who's in it, and in what role. An organizer might welcome someone back as a participant but not yet on their team, or want them away from their own events until they've learned specific things. That's the organizer's container, and the call is theirs.
+
+What keeps any of these from becoming exile is the same test every time: it's the size of what happened, it's specific about what would change it, and the way back is real. "Not at my events until you've done this and I've seen that" is a boundary. "Not until you admit you're the kind of person who does this" is the door painted on a wall again. Stepping back from one corner of a community is not exile from the whole of it. Hold all three, and don't pressure anyone onto someone else's timeline.
 
 ---
 
