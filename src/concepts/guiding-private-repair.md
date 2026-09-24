@@ -137,13 +137,13 @@ Repair does sometimes happen after yelling. But when one person is being yelled 
 
 ## Closing the Loop
 
-End the way you started: say both friend statements again.
+End with care, the way you started. Something like "love you, brother" can often be said in front of both of them. A friend statement is different. It may be private, words someone gave you about what they want most, and not something they'd want repeated in front of the other person. Say those to each person on their own, afterward. If there's a goal they share, that one can be said together: "I just want you both to have great nights in these spaces."
 
-Then check in with each person separately, a day or two later. What happened in the room and what someone feels once they're home aren't always the same. If something's still open, you'll only hear about it by asking.
+Then check in with each person separately, a day or two later. What happened in the room and what someone feels once they're home aren't always the same. If something's still open, you may only hear about it by asking.
 
 **What the room hears.** A repair can be as public as the thing it's repairing, and no more public than that. If nobody outside the people involved knows anything happened, nobody else may need to. If the room has pieces of the story, the default sequence is to repair privately and then share, but only if both people want to, and only what they both agree to. It can be one sentence in a sharing circle: "Something happened between the two of us. We talked it through, and we both feel complete." The room knows it was handled, and nobody has to relive it.
 
-That agreement covers the stage, not each person's own life. Either of them can still talk privately about what happened to them, with a friend, a partner, anyone they trust. The person who was hurt might tell a close friend, "That happened to me, it didn't feel good, keep an eye out." That's their story to tell, and trying to police it would be its own overreach. What takes both yeses is anything the facilitator hands the room: an announcement, a circle, a public word.
+That agreement covers the stage: an announcement, a circle, anything the facilitator hands the room. What each person says privately afterward is harder to pin down. Some communities have an agreement not to talk about people who aren't there. Some people need to tell a close friend, "That happened to me, it didn't feel good, keep an eye out," and the more serious the harm, the more that can matter. Where the line falls depends on your container's agreements and on how serious the harm was. It's worth asking both people directly what they each plan to say, and to whom, so neither one is surprised later.
 
 **What comes after.** Repair between the two of them doesn't settle everything, and three things can be true at once. The person who erred [comes back to community](./i-made-a-mistake.md#return-to-community); that's part of repair, not a reward for finishing it. The person who was hurt might want distance from them for a while. And the people who run a space make their own calls about who's in it, and in what role. An organizer might welcome someone back as a participant but not yet on their team, or want them away from their own events until they've learned specific things. That's the organizer's container, and the call is theirs.
 
