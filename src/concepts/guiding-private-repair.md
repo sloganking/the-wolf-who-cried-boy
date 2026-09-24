@@ -39,13 +39,13 @@ That's Mutual Respect, delivered first. It doesn't have to be those words. It ha
 
 A friend of mine tells me, at least once a day, that she wants me to have my biggest sexual desire. Not a polite version of it. The actual thing, in the words I'd use for it myself.
 
-When she says it, my body answers before my mind does. I light up. I start laughing. A grin spreads across my face that I couldn't stop if I tried. I get cheerful, even if I was feeling gloomy and down a minute before. I feel warm, cared for, and safe. And I don't just know she wants what I want. My body feels it: she's on my side.
+When she says it, my body answers before my mind does. I light up. I start laughing. A grin spreads across my face that I couldn't stop if I tried, and I feel like a kid: pure, innocent joy. I get cheerful, even if I was feeling gloomy and down a minute before. I feel warm, cared for, and safe. And I don't just know she wants what I want. My body feels it: she's on my side.
 
 Notice what she doesn't say. She could tell me she wants me to grow as a person, or to become a great facilitator. Both would be true, and both are goals I'm working toward. But when I hear them, nothing happens in my body. I nod. It makes sense. My body doesn't light up and say *this person is totally my friend, without a shadow of a doubt.* When she names my biggest sexual desire, I giggle every time I hear it, my state changes on the spot, and something in me goes: *oh my god, she wants THAT for me.*
 
 That reaction is why it works. Knowing someone is on your side is a thought. Feeling it is a state, and the state is what you hear everything else through. So when she tells me something I don't want to hear, like "I think you should slow down," it doesn't land as a verdict on me. I know she's saying it because she thinks slowing down gets me to that desire sooner. The hard feedback lands as help.
 
-The goal that works is the one the person actually wants, said in a way that lets them feel it, even when it's silly, or sexy, or has nothing to do with the hard conversation you're about to have.
+None of this works because the statement is sexual. It works because of what the statement makes me feel, and for me, the joy and the sense of being cared for happen to live around sexuality. For someone else they live somewhere else entirely. A friend statement can be literally anything: silly, sexy, or nothing to do with the hard conversation you're about to have. The one requirement is that it brings up those feelings. When the person hears it, they feel your care.
 
 I call it the friend statement. As a facilitator, you can use it on purpose.
 
