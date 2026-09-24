@@ -95,3 +95,15 @@ Make the yes an informed one. Tell them what the conversation would look like: w
 
 A no is a real answer. If the person who was hurt doesn't want contact, [respecting that is the action](./repair.md#when-the-other-person-doesnt-want-contact), for them and for you. The person who erred can say no too: [repair requires safe conditions](./repair.md#repair-requires-safe-conditions), and if they're being attacked, those conditions aren't there yet. The same holds when the only way back on offer is [a door painted on a wall](./invisible-patterns.md#narrative-lock): a repair that opens only if they confess to being who the other person has decided they are. Real repair asks someone to own what they did, and if a label fits what they did, owning it can be part of that. What repair never requires is pleading guilty to a label that isn't true.
 
+### 3. Set a Time Limit
+
+An hour, not an open evening.
+
+A time limit gives both nervous systems an edge to hold on to. It's easier to walk into something hard when you know when it ends.
+
+Say it out loud at the start, as a budget both people share: "We have an hour, and I want each of you to get real time in it." Now airtime is visible. If one person has been talking for twenty minutes, you have something neutral to point at: "We've got half an hour left, and I haven't heard from you yet." That's a fact about the clock, not a verdict on anyone.
+
+The limit doesn't do the work on its own, though. An hour is plenty of time for one person to pour anger at the other while the other one sits there and absorbs it. What stops that is you.
+
+Inside that hour, you lead. Watch whether both people are saying what's true, or whether one of them is agreeing with everything just to make it end. Say what you see happening in the room. And when someone starts [fawning](./when-things-go-wrong.md#when-you-see-someone-fawning), apologizing and agreeing to things they don't actually believe, stop and check whether that's really what they think. If the hour ends and the repair isn't finished, schedule another one. [Repair can take more than one round](./repair.md#repair-might-need-to-happen-multiple-times).
+
