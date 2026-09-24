@@ -49,7 +49,7 @@ Most facilitators aren't there. Know which one you are.
 
 ### The Best Case: Private Repair
 
-The ideal scenario is that the two people involved resolve it themselves — or with the facilitators' help, privately. They talk, they process, they do repair, and they come back to the group complete.
+The ideal scenario is that the two people involved resolve it themselves — or [with the facilitators' help, privately](./guiding-private-repair.md). They talk, they process, they do repair, and they come back to the group complete.
 
 They don't have to announce it. But one of them might bring it up naturally in a sharing circle: "Something happened last night between me and [person]. We talked about it and did repair, and I feel good and complete." That's it. The room gets the information it needs — this was handled, both people are okay — without anyone having to relive the conflict in front of fifty people.
 

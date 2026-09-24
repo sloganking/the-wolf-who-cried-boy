@@ -72,6 +72,7 @@
 - [Before You Facilitate](./concepts/before-you-facilitate.md)
 - [Walking Your Talk](./concepts/walking-your-talk.md)
 - [When Things Go Wrong](./concepts/when-things-go-wrong.md)
+- [Guiding Private Repair (Draft)](./concepts/guiding-private-repair.md)
 - [Guiding Public Repair](./concepts/guiding-public-repair.md)
 - [Handling Threats of Violence](./concepts/handling-threats-of-violence.md)
 - [Where the Police Fit](./concepts/where-the-police-fit.md)
