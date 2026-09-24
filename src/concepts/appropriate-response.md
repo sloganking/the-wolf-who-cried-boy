@@ -135,6 +135,14 @@ The Inquisitors responded to what they were afraid might happen. That's how they
 
 Start there.
 
+### Proportion Is a Ceiling, Not a Target
+
+Proportion tells you the most you *may* do. It doesn't tell you what's *worth* doing.
+
+If you're being attacked, you use force to get free. But the moment you're free, the goal changes: getting yourself, and everyone around you, to safety. Staying to land a few more, or hitting harder than they did, isn't defense anymore. The threat ended and the response didn't.
+
+Words work the same way. A counterattack in words can be proportional to an attack in words and still win you nothing — it hands the other person a fight on their terms. The strongest move under the ceiling can sit well below it. Say the principle you're standing on — "I don't stay in conversations where I'm being threatened." Set the boundary. Walk away. Then take the proportional step that's actually worth taking: report what happened to the people who can act on it, and let a real process decide what comes next.
+
 ## How Trauma Distorts Response
 
 See: [Trauma & Filters](./trauma-and-filters.md)
