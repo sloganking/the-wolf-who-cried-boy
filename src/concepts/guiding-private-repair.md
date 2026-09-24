@@ -35,3 +35,25 @@ The fear I'd been carrying was gone before the next sentence. Those three words 
 
 That's Mutual Respect, delivered first. It doesn't have to be those words. It has to be care, stated plainly, before the content arrives. Care can sit right next to hard content too: "I'm angry about what happened, and you're safe here." Both halves are true, and the second one is what lets the first one land.
 
+### Mutual Purpose: The Friend Statement
+
+A friend of mine tells me, at least once a day, that she wants me to have my biggest sexual desire. Not a polite version of it. The actual thing, in the words I'd use for it myself.
+
+When she says it, my body answers before my mind does. I light up. I start laughing. A grin spreads across my face that I couldn't stop if I tried, and I feel warm, cared for, and safe. She wants what I want. We're on the same side.
+
+That feeling is why it works. Knowing someone is on your side is a thought. Feeling it is a state, and the state is what you hear everything else through. So when she tells me something I don't want to hear, like "I think you should slow down," it doesn't land as a verdict on me. I know she's saying it because she thinks slowing down gets me to that desire sooner. The hard feedback lands as help.
+
+Notice what she doesn't say. She could tell me she wants me to grow as a person, or to become a great facilitator. Both would be true. Both would make sense. Neither would move me an inch. The goal that works is the one I actually want, said in a way that lets me feel it, even when it's silly, or sexy, or has nothing to do with the hard conversation we're about to have.
+
+I call it the friend statement. As a facilitator, you can use it on purpose.
+
+**Propose it.** The person doesn't have to confess their deepest desire or say anything vulnerable. You can offer a goal yourself, and it doesn't have to be sexual. In a sex-positive community it might be: "The goal of this is to get you back into these spaces, having the most amazing connection and the best nights of your life." Somewhere else, it's whatever that person came for.
+
+**Pick words that move them.** You're not after agreement. You're after the reaction my friend gets from me: the smile, the laugh, *oh, this person is my friend.* A polite nod means the words made sense and did nothing, so try again. It works the way an incantation does in Tony Robbins's work: the words are chosen for the state they produce, not just for being accurate.
+
+**Offer the upgrade.** Then ask: "Is there a sentence I could say that would make you know even more that I'm on your side?" Let them make it as specific, silly, or sexy as they like. If they give you one and you genuinely want it for them, use it. A goal in their own words is believed. A goal you supply is still a claim.
+
+**Open and close with it.** Say it at the start of every hard conversation and again at the end. Everything in between gets read through it.
+
+Said truthfully, the friend statement can sit right beside accountability: "I want you back in these rooms having the best nights of your life, and that's why I'm telling you this hard thing."
+
