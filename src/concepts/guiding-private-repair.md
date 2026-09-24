@@ -117,3 +117,13 @@ It's easy to read privacy as a favor to the person who made the mistake, a way t
 
 ---
 
+## Don't Put Them in a Room and Hope
+
+The failure mode here is quiet, so it's easy to miss. A facilitator puts two people in conflict in a room together and waits, hoping that being close or letting it all out will fix it.
+
+That's hope, not holding. Letting it all out doesn't dissolve [Narrative Lock](./invisible-patterns.md#narrative-lock). Someone can cry, yell, hug, and walk out with the same story they walked in with. The book already describes [the hoping strategy](./healing-fawning.md#where-fawning-ends-up) in people who fawn: give, wait, and hope someone notices. A facilitator can run the same strategy on a whole process.
+
+The separate calls are how you avoid it. They tell you before you convene anyone whether a joint conversation can produce repair, or whether it would just give one person's locked story a captive audience. Hope is not a protocol.
+
+---
+
