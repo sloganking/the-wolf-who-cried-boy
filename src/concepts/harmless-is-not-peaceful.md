@@ -62,7 +62,7 @@ The integration is what matters. Both capacities, wielded together, by someone w
 
 ## What This Looks Like
 
-**In a facilitation crisis.** The facilitator isn't panicking. They're calm — not because they're passive, but because they've already decided what to do. They [remove the threatening person](./handling-threats-of-violence.md) firmly and without cruelty. They [protect the person who made the mistake](./walking-your-talk.md#protecting-top-vulnerability). They address the crowd with transparency, not spin. Their body communicates: *this will be handled.* Not because they're performing calm. Because they trust themselves to handle it.
+**In a facilitation crisis.** The facilitator isn't panicking. They're calm — not because they're passive, but because they've already decided what to do. They [remove the threatening person](./handling-threats-of-violence.md) firmly and without cruelty. They protect whoever is being attacked, top or bottom — [even when it's the person who made the mistake](./walking-your-talk.md#protecting-top-vulnerability). They address the crowd with transparency, not spin. Their body communicates: *this will be handled.* Not because they're performing calm. Because they trust themselves to handle it.
 
 **When someone attacks you.** You don't fawn. You don't counter-attack. You [state a principle](./when-youve-been-wronged.md#show-your-humanity), set a boundary, and leave — because you have the teeth to stay and fight AND the judgment to know it won't help. Walking away isn't weakness when you could have stayed. It's the most powerful move available.
 
