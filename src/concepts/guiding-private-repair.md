@@ -124,6 +124,18 @@ The failure mode here is quiet, so it's easy to miss. A facilitator puts two peo
 That's hope, not holding. Letting it all out doesn't dissolve [Narrative Lock](./invisible-patterns.md#narrative-lock). Someone can cry, yell, hug, and walk out with the same story they walked in with. The book already describes [the hoping strategy](./healing-fawning.md#where-fawning-ends-up) in people who fawn: give, wait, and hope someone notices. A facilitator can run the same strategy on a whole process.
 
 The separate calls are how you avoid it. They tell you before you convene anyone whether a joint conversation can produce repair, or whether it would just give one person's locked story a captive audience. Hope is not a protocol.
+Talking to each person separately first, step one above, is how you avoid it. Those conversations tell you, before you convene anyone, whether a joint conversation can produce repair, or whether it would just give one person's locked story a captive audience.
+
+If one of them is in Narrative Lock, don't put them in a room together. Nothing the other person says can land yet. Sitting them across from someone who can only attack them doesn't repair anything. It just means they sit there and take it, and their nervous system learns to fear the next mistake. Keep working with each of them separately, and save the joint conversation for later, if it ever becomes possible.
+
+### When It Turns Mid-Conversation
+
+Sometimes you only find out in the room. Someone who seemed open in the separate calls locks up halfway through. Or the conversation turns into two people yelling at each other with nothing moving.
+
+Repair does sometimes happen after yelling. But when one person is being yelled at and nothing they say is landing, stop the conversation. Tell them plainly that they don't have to stay and absorb it, and that stepping out is allowed. Staying and appeasing someone who can't hear them yet won't produce repair. It teaches their body that making a mistake means being attacked. You can pick it back up with each of them separately, the same way you started.
+
+---
+
 
 ---
 
