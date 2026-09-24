@@ -18,7 +18,7 @@ The person who made the mistake walks into your first conversation braced. Under
 
 Until that question is answered, everything you say gets read through it. A neutral sentence sounds like a verdict. A hard truth sounds like an attack. And a braced nervous system can't work out on its own that it's safe. It has to be told.
 
-[_Crucial Conversations_](https://cruciallearning.com/blog/crucial-conversations-skill-summary-make-it-safe/) names the two conditions that make a hard conversation safe:
+The book _Crucial Conversations_, by Kerry Patterson, Joseph Grenny, Ron McMillan and Al Switzler, names [the two conditions that make a hard conversation safe](https://cruciallearning.com/blog/crucial-conversations-skill-summary-make-it-safe/):
 
 - **Mutual Purpose:** the other person believes you care about their goals.
 - **Mutual Respect:** the other person believes you care about them.
@@ -27,11 +27,11 @@ Mutual Purpose is what gets you into the conversation, and Mutual Respect is wha
 
 Both can be said out loud, in the first minute, before anything about the mistake comes up.
 
-### Mutual Respect in Two Words
+### Mutual Respect
 
 During my own repair, the facilitator told me, "Love you, brother."
 
-The fear I'd been carrying was gone before the next sentence. Those two words told me how I was being seen: as someone they cared about, someone they were going to look out for. Whatever came next, including the hard parts, I could hear it as coming from someone on my side.
+The fear I'd been carrying was gone before the next sentence. Those three words told me how I was being seen: as someone they cared about, someone they were going to look out for. Whatever came next, including the hard parts, I could hear it as coming from someone on my side.
 
 That's Mutual Respect, delivered first. It doesn't have to be those words. It has to be care, stated plainly, before the content arrives. Care can sit right next to hard content too: "I'm angry about what happened, and you're safe here." Both halves are true, and the second one is what lets the first one land.
 
