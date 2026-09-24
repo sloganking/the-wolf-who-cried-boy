@@ -132,21 +132,17 @@ This is especially true in play spaces — which may be [the safest environments
 
 Top and bottom aren't scene roles. They're positions, and you hold one on every axis you share with another person. Bottom vulnerability is exposure to what can happen to you directly — to your body, in the moment. Top vulnerability is the exposure that someone else's bottom vulnerability [creates in you](#vulnerability-creates-vulnerability): the risk of being the one blamed for whatever happens to them.
 
-Three axes are worth mapping:
+Three axes show up in play spaces:
 
 - **Touch.** Whoever is touching carries top vulnerability. Whoever is being touched carries bottom vulnerability. Either one can be a man or a woman.
-- **Role.** A facilitator carries top vulnerability relative to their participants. Participants carry bottom vulnerability relative to the facilitator: they're being led, and they're trusting someone else to hold the container.
-- **Gender.** A man carries top vulnerability relative to a woman, whether or not he's the one topping. Sex carries more direct risk for her — pregnancy is a risk only her body can carry, and size differences between them tend to run in his favor. That larger direct risk is what a room sees first, so when harm happens between them, the first story written runs from him to her. That story is his exposure.
+- **Role.** A facilitator carries top vulnerability relative to their participants. Participants carry bottom vulnerability relative to the facilitator.
+- **Gender.** A man carries top vulnerability relative to a woman, whether or not he's the one topping. Sex carries more direct risk for her: pregnancy is a risk only her body can carry, and men tend to be larger than women, meaning she has more physical risk. When harm happens between them, the room's first story runs from him to her.
 
-These axes stack. A man who is facilitating and touching a female participant is top on all three: exposed in every direction, with nothing in the scene that looks like exposure to anyone watching.
+The axes stack — a man facilitating and touching a female participant is top on all three. And they can split, which means you can be top and bottom vulnerable at the same time.
 
-They can also pull against each other. A man being touched by a woman is bottom in the scene and top by gender. His body is the one at risk in the moment, and if something goes wrong, the room's first story may still start with him.
+The assistant is where the split matters most. Toward participants, an assistant is top: they're staff, and a staff member's mistake lands at higher severity than the same mistake made by a participant. Toward the lead facilitator, they're bottom. They're being directed — told where to stand, who to support, when to step in. They're counting on the lead as their safety net if anything goes wrong, the same way participants are. And if it comes down to their word against the lead's, the lead's word carries more reputational and narrative weight.
 
-**So yes — you can be top and bottom vulnerable at the same time.** It happens across relationships, top to one person and bottom to another. And it happens within a single relationship, on different axes.
-
-The assistant is the clearest case. Toward participants, an assistant carries top vulnerability: they're staff, and a staff member's mistake lands at higher severity than the same mistake made by a participant. Toward the lead facilitator, they carry bottom vulnerability, in more ways than one. They're being directed — told where to stand, who to support, when to step in — which means acting on someone else's judgment. They're counting on the lead as their safety net, the same way participants are. And if it ever comes down to the assistant's word against the lead's, the lead's word carries more weight: more reputational standing, more narrative authority, more people ready to believe their version first.
-
-Now put the two together. When something goes wrong between an assistant and a participant, the assistant can be squeezed from both sides at once. On the participant side, their top vulnerability is exposed: the first story the room writes is about the staff member. On the lead side, their bottom vulnerability is exposed: the person positioned to protect them can [under-respond](./appropriate-response.md#under-response-the-invisible-failure) to what's being done to the assistant while the room [over-responds](./appropriate-response.md) to what the assistant supposedly did. Neither side has a safeword. The top side never had one, and the bottom side's safety net is the lead — the one person who isn't moving.
+So when something goes wrong, an assistant can get the risks of bottom vulnerability with the downsides of top vulnerability. They can be harmed — attacked, threatened, named in front of the room — the way a bottom can. But the response they get is a top's: no safeword, and a room reading them as the one at fault. The lead is their safety net, and when the lead [under-responds](./appropriate-response.md#under-response-the-invisible-failure) while the room [over-responds](./appropriate-response.md), the assistant is **exposed like a bottom and defended like a top.**
 
 If you lead a room, this is the person to look for. When the room is closing in on someone, check whether they're also the one who got hurt — and whether you're the only person positioned to protect them.
 
