@@ -4,6 +4,32 @@
 
 **Naming rule for this file and all tracked files:** roles and patterns only, never real names of private individuals or of anyone's role in real incidents. Details that need names live in `wiki/.private-context.md` (gitignored) and the private RPM repo.
 
+
+---
+
+## ⭐⭐ THE NORTH STAR: Presence, Pleasure, Play (author-declared 2026-09-28; outranks every item below)
+
+**The author's words:** *"Everything we just decided to rework the whole book at, put it in the book, put it at the fable review document, put it at the top thing. It's like a value or something we need to align to and the reason why. Because everything else, technical details and information on it doesn't matter in comparison."*
+
+**The value.** The book is written, and read, from presence, pleasure and play. That means Martian and inarguable still, and the sword stays, but the writer's state is delight instead of defense. Every other item in this document (dedup, renames, legal pass, ratings) is subordinate to this one. When an item conflicts with it, this wins.
+
+**The reason (the author's discovery, same afternoon).** The question the book was written from was *"how will this page be attacked?"* In his words, it was written *"to be true and inarguable... [in]vulnerable to attack, but that wouldn't have added value to anyone, if it's true and kind of painful to read, or at least numb and dull."* The root is the same fallacy as the book's own opening chapter: a parent with no play in him taught through pain and discipline out of fear, the fear moved into the child, and it became performance obsession. The book inherited that method (pain first, pleasure as the reward after). The author's own conclusion already names the cure, *"wake them up into happiness... not into urgent rescuer necessity"*, and the book doesn't yet do what its conclusion says.
+
+**What the rework changes (found in a full read, 2026-09-28):**
+1. **It shows pleasure instead of telling it.** The book's own top rule is *"People don't learn what you teach. They learn what you do."* It tells readers to wake into joy, but what it does to them for the first ten chapters is alarm, so they learn vigilance. The lines that already show play are the strongest writing in the book: the "Do I like her?" smirk, "between five and seven women, I don't remember the exact number," "want to reset the clock?", the silver-platter laugh, "Oh no. What a curse." Write more of that, earlier.
+2. **Complete Tony's pairing.** The book runs the Dickens (massive pain linked to the old pattern) brilliantly: the six weeks, the forty minutes of screaming. It almost never runs the other half, vivid pleasure linked to the new pattern. After every Dickens, give the reader a lived scene of the new pattern that they can feel.
+3. **Obey its own pre-framing rule.** "Choose Your Lens" says don't watch horror before temple. The book's opening is the father's beatings, then the Inquisition, witch trials, Kellogg's acid and "think of the children", and the first real joy doesn't arrive until around chapter 11. Experiment with a joy-first opening, so the reader's RAS is primed for connection before it's shown the wolves.
+4. **The pleasure path gets equal billing.** Healing Fawning leads with "the only way out of fawning is through fawning" (suffer until the anger comes), and the pleasure path, one night doing what five years of therapy didn't, is a subsection. Promote it to a co-headline. The author's own story says it was the faster path.
+5. **Armor pass.** Preemptive qualifiers ("this isn't / this doesn't mean / not because / this is not") appear ~144 times. Keep each one where precision needs it; cut it where it only pre-defends against an imagined attacker.
+6. **Swap the writing question.** Replace "how will this page be attacked?" with "who is going to love this page?" It's the book's own primary-question move, aimed at the manuscript.
+7. **Tell this story in the book.** The author wants it in: he wasn't good at pleasure and play himself, and he had to rewrite the whole book to be happy. There's precedent, the advocacy-gap confession in When You've Been Wronged ("I spent nearly 200 hours writing a book about seeing through blind spots..."). This one would be bigger, and telling it is itself the pleasure half, shown.
+
+**What it does NOT change (the opposite view, held on purpose).** The heavy material is the book's power; scrubbing it would produce the "harmless" book that *Harmless Is Not Peaceful* rejects. Pleasure changes where the sword is swung from, not whether it exists. Not every page will feel good to write, because the threats walkthrough and the police chapter are real. The floor is felt, not performed, and showmanship is out: the author ruled that out himself. Reordering the opening is a bet, not a certainty.
+
+**Process, not only text.** Take the pleasure floor before writing, not as a reward after a chapter.
+
+Full analysis (private repo): `../RPM/wolf-book-pleasure-play-read.md`.
+
 ---
 
 ## If you're a fresh model starting from this document
