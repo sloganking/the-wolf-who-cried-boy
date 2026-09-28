@@ -152,6 +152,22 @@ If you walk into a temple or play party with your RAS set to "predator detection
 
 Not because the threats are real. Because that's what you're looking for.
 
+### The Horror Movie That Lasted Your Whole Childhood
+
+The horror movie effect happens in a moment. One film, one evening, and your RAS spends the night scanning for monsters. That's pre-framing from something recent.
+
+But recent experiences aren't the only thing that primes you. Your whole history does.
+
+If your childhood often had scary things in it (people yelling, people attacking you, getting hurt when you didn't see it coming), then that's what you learned to expect. Not as an idea you believe. As a prediction your nervous system makes before you've had a single thought. You walk into a room, and your body is already scanning for the person who's about to turn on you.
+
+If most of your childhood you felt safe, cared for, and loved, and if you called for help, the people you knew showed up, then that's what you're conditioned to expect instead. You walk into the same room, and your body is scanning for friends.
+
+This isn't a belief you can argue someone out of. It's conditioning. It lives in the nervous system, not in the logic.
+
+**Some people seem paranoid, or even crazy. Often it's just trauma that conditioned them to see foes instead of friends.** When they were growing up, the people around them were foes often enough that suspicion kept them safe. That suspicion is still running, even in a room where no foes are present.
+
+A single horror movie wears off by morning. A whole childhood of them doesn't. It becomes the lens you walk through every door with.
+
 ---
 
 ### Choose Your Lens
