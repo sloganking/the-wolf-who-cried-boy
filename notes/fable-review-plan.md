@@ -1768,3 +1768,18 @@ How it lands depends on intent: the same words can be read as a warning or as ca
 3. **Vengeance keeps you bonded to the harm.** The attacker has to keep the wound open to keep attacking. The ally closes it and leaves with a friend.
 
 **Then show, not tell (the chapter's own rule):** the author's repair with a facilitator who failed him (pattern level; write it once it has an ending, per CCCC point 7), plus the father arc (AAA). Cross-link EEEE (the facilitator's side of the same alliance: mutual protection) and `punishment-culture.md`.
+
+### GGGG. The year it took: advocacy has a timeline, and "not today" isn't failure (added 2026-09-29, author-originated, 3:32pm PHX, the hour before his own ask conversation)
+
+**His words:** *"After my experience I was so emotionally devastated... I didn't advocate for myself and ask for the record to be corrected, ask for protection, for nearly a year after the event... The faster you solve problems... the better your outcomes. But... sometimes it just takes emotional processing before you can advocate for yourself. But just because you're not doing it today, I don't think you failed. You may be getting a little easier and easier and closer and closer to doing it for yourself each day."*
+
+**Placement:** `when-youve-been-wronged.md`, directly after the advocacy-gap confession ("The book told you to inform. It didn't tell you to advocate."). That section teaches *what* to ask for but not *when*, and not what to do with the months in between. A hurting reader most likely meets that section while stuck.
+
+**Say both halves ("not better, not worse"):**
+- **Speed matters.** The story spreads while you wait, windows close (legal limitation periods, memories, the community's attention), and the sooner a problem is named, the better the outcome.
+- **Processing isn't failing.** Sometimes the body has to process before the mouth can ask. "Not today" can mean "closer," not "never."
+- **The bridge:** the smallest ask available today, even mid-processing (one sentence to one person), so time spent processing is still time spent moving.
+
+**Accuracy note (the record is truer than the self-report):** the author did not stay fully silent that year. He asked in writing for a refund and a public announcement, got no answer, and didn't follow up. "Advocacy that half-happened and stalled" is truer than "I didn't advocate," and more useful to the reader, who will recognize the stall.
+
+**Timing:** write it after the ask conversation (CCCC point 7), so the section has an ending whichever way it goes. Cross-link `healing-fawning.md` (the reverse bike) and FFFF.
