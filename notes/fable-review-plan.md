@@ -1785,4 +1785,6 @@ How it lands depends on intent: the same words can be read as a warning or as ca
 
 **Accuracy note (the record is truer than the self-report):** the author did not stay fully silent that year. He asked in writing for a refund and a public announcement, got no answer, and didn't follow up. "Advocacy that half-happened and stalled" is truer than "I didn't advocate," and more useful to the reader, who will recognize the stall.
 
+**The why, in his words (3:35pm):** *"Just like fawning, when I was a kid, it was never safe to say what I didn't want, it was never safe to advocate for myself and say what I needed, and so it took me a year. One, I was traumatized by this event, and two, it took me like a year of internal processing until I did advocate for myself."* Two causes, named plainly: the event's own trauma, and a childhood that taught asking was dangerous. The reader already knows the father story from the opening, so one callback sentence is enough, and it shouldn't be retold. That callback also explains the delay without excusing it: the fawn response was trained, and untraining it takes time.
+
 **Timing:** write it after the ask conversation (CCCC point 7), so the section has an ending whichever way it goes. Cross-link `healing-fawning.md` (the reverse bike) and FFFF.
