@@ -1827,3 +1827,17 @@ How it lands depends on intent: the same words can be read as a warning or as ca
 **A correction to keep straight:** the Hormozi line in `distinctions.md` is *"compensated in proportion to the risk you're willing to **take**,"* perceived risk. It does not describe someone who **imposes** risk on others through threats. That's the inverse, and it's worth saying so if the chapter ever uses the quote.
 
 **Placement:** a short subsection in `all-power-is-mutual.md` after *Top and Bottom at Once*, or in `before-you-facilitate.md` → *Why Facilitator Silence Is Different*, where the cascade is already described. Test: a facilitator reads it and recognizes a room they've run, without feeling accused.
+
+### JJJJ. The opening script: repairs first, "upsets" not "mistakes," then curiosity before verdict (added 2026-09-29, author-originated, 8:24pm PHX; no names)
+
+**The author's call:** this goes in the book, big version first ("I don't want to make it too small. We can always make the short version later"). A facilitator's opening, in order:
+
+1. **Show the repair record first.** A repair chart (how many upsets this community has had, how many were repaired) comes out before anything about risk. People see that repair happens before they hear that upsets happen, so the risk lands as already handled.
+2. **Pre-frame upsets as normal.** Use the word **upsets**, not "boundary crossings" (sounds like a crime report) and not "mistakes" (applied to staff, it reads as "they weren't trained"). The author's framing: sharing touch comes with great pleasure, and when it goes wrong it comes with feeling upset, light or strong. Many people are here for the first time, and *even people who have played for years find out they had another lesson to learn.* That last line covers staff without sounding like a confession.
+3. **Then: curiosity before verdict.** Everyone pre-agrees that if something happens, they ask questions and find out before concluding. Its counter-example is the pattern where one participant decides instantly that someone is a predator, allows no other possibility, and threatens anyone who disagrees. With the agreement in place, that behavior breaks an agreement they made at the door, not an excess of passion.
+
+**Desk note, one guardrail:** "upset" needs a floor under it in the same breath. Upsets are normal, *and* threats and violence are not upsets, they are the bright line (the Promise). Without that sentence, "it was just an upset" becomes a harmer's phrase. Where "mistakes" already appears in the facilitator chapters, check whether "upsets" or "another lesson to learn" reads better.
+
+**Source research:** RPM `just-culture-and-calling-in-mine.md` (in progress Sep 29) compares aviation's Just Culture to the Promise, covers Loretta Ross's calling-in, and drafts a read-aloud version. The earlier survey is RPM `righteous-predator-defusal-mine.md` (common knowledge: a rule read aloud together works where a rule read privately doesn't).
+
+**Placement:** `before-you-facilitate.md`, as the opening script, with a pointer from `quick-reference.md`. Test: a first-timer hears it and feels safer, not warned.
