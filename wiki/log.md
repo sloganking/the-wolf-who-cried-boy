@@ -10,6 +10,10 @@ Append-only record of wiki changes. Each entry starts with a consistent prefix f
 
 ---
 
+## [2026-09-29] add | "Top-safe" and "bottom-safe": a two-question audit for any event (fable-review-plan item HHHH)
+
+**Book change, branch `top-safe-bottom-safe`, awaiting the author's review.** The author's coinage (Sep 29): each position gets a word for each state, so an event is *bottom-vulnerable or bottom-safe* and *top-vulnerable or top-safe*. New subsection *Top-Safe and Bottom-Safe* in `all-power-is-mutual.md`, directly after *Top and Bottom at Once*: the two questions, then the two lists (bottom-safe tools already have familiar names; the top-safe list is the Promise, repair before removal, removal for threats of violence, and the Context Rule), ending on "both at once." Glossary entry added under T; `wiki/top-and-bottom-vulnerability.md` gets a matching section. Writing-guide checks: no frequency claims ("most events are bottom-safe" was deliberately not written; the claim leans on the chapter's own "no protections built around it"), no defensive hedges, links read as prose.
+
 ## [2026-07-26] edit | "The mistake-maker" → "the attacked person" across the book (fable-review-plan item AA)
 
 **Book change, branch `attacked-person-v2`.** Item AA's terminology half shipped: "the mistake-maker" is retired in favor of "the attacked person" wherever the person is on the receiving end of an attack — `handling-threats-of-violence.md` (15 occurrences including three section headings), `walking-your-talk.md` (3), both glossaries' Order of Operations entry, `notes/book-terminology.md`, and the working notes. Rationale (item AA): the old term reads as a character judgment despite being technically neutral, and it presupposes a mistake happened at all — a righteous predator's filter can produce a threat with nothing underneath it. The term choice is confirmed by `writing-guide.md`'s own Martian-check section, which already lists "the person who was attacked" as the model replacement for verdict language. "The threatened person" was considered and rejected: `walking-your-talk.md` uses the term twice where no threat of violence exists.
