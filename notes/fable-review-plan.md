@@ -1887,6 +1887,8 @@ So the line doesn't argue selfish predators are more common (the book's position
 
 ### MMMM. The chapter: removing a righteous predator without taking on personal risk (added 2026-09-30, author-originated, 8:54am PHX; pattern level, no names)
 
+**Status (Sep 30, 2026):** drafted into `src/concepts/removing-a-righteous-predator.md`, on branch `righteous-predator-removal`, for the author's review. Not merged. LLLL's outside panel folded in as this page's After section per the spine below, rather than shipped as its own page. Legal claims (the lawyer-test section) verified and logged in `notes/legal-references.md`.
+
 **The author's ask, near-verbatim:** a chapter specifically on how to get righteous predators out of your space, "because they are harder to detect and they are harder to get rid of than selfish predators" (see KKKK's reversal). *"I want to write the single best damn page for getting righteous predators out of your events without taking on immense personal risk to do it, that a lawyer would be like, holy shit, I want this, and then they'd implement it... I wouldn't be trying to convince them to do it against their own interests or needs for safety."*
 
 **Why the book needs it (desk read, Sep 30, checked against the text):** `handling-threats-of-violence.md` covers the MOMENT well (order of operations, first officer, pre-framed emergency protocols, re-entry). What no page covers is the remover's own safety AFTER: retaliation, reputation attacks, the verdict landing on one person. The book currently answers the scared facilitator with a moral verdict (fawning) instead of a structure. That is why the moral argument failed in the real case this grew from: the facilitator didn't doubt it was right; she was afraid.

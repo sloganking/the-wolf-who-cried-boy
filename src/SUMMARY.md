@@ -75,6 +75,7 @@
 - [Guiding Private Repair](./concepts/guiding-private-repair.md)
 - [Guiding Public Repair](./concepts/guiding-public-repair.md)
 - [Handling Threats of Violence](./concepts/handling-threats-of-violence.md)
+- [Removing a Righteous Predator](./concepts/removing-a-righteous-predator.md)
 - [Where the Police Fit](./concepts/where-the-police-fit.md)
 
 ---

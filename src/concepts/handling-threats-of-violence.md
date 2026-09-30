@@ -145,6 +145,8 @@ Also fawning. Pretending death threats didn't happen because you're afraid of wh
 
 Whether you do nothing or remove the wrong person, the underlying pattern is the same: you're avoiding confrontation with the threatening person because you're afraid of them. The attacked person is easier to handle, so they become the casualty. That fear is often reasonable, and it isn't a character flaw. It's what fear does when there's no structure to lean on, and that's why the structure is the fix.
 
+If what's actually stopping you is the fear of what removing them will cost *you* — your community, your reputation, the fight afterward — [there's a structure for that fear specifically](./removing-a-righteous-predator.md), built so the decision was never yours to defend alone.
+
 ---
 
 ## What to Say to the Crowd
