@@ -143,7 +143,7 @@ Also fawning. Pretending death threats didn't happen because you're afraid of wh
 >
 > — _Secret Level, Season 1, Episode 1._
 
-Whether you do nothing or remove the wrong person, the underlying pattern is the same: you're avoiding confrontation with the threatening person because you're afraid of them. The attacked person is easier to handle, so they become the casualty. That's not facilitation. That's survival mode wearing a facilitator shirt.
+Whether you do nothing or remove the wrong person, the underlying pattern is the same: you're avoiding confrontation with the threatening person because you're afraid of them. The attacked person is easier to handle, so they become the casualty. That fear is often reasonable, and it isn't a character flaw. It's what fear does when there's no structure to lean on, and that's why the structure is the fix.
 
 ---
 
