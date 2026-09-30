@@ -1806,3 +1806,18 @@ How it lands depends on intent: the same words can be read as a warning or as ca
 **Guardrail, for the bottom-side reader:** phrase the claim as *most containers are built around bottom safety and have few structures for top safety.* Don't say "most events are bottom-safe" flat. A reader who was harmed as a bottom will contest that, and they'd have a point: plenty of rooms fail bottoms too. The goal the term points at is **both-safe**, not a trade between the two sides.
 
 **Placement:** introduce it in `all-power-is-mutual.md` next to top vulnerability; use it as the checklist frame in the facilitator material (`before-you-facilitate.md`) and in EEEE (the proportionate word-of-mouth is a top-safety structure). Add to the glossary.
+
+### IIII. Threat-topped: when a willingness to escalate outranks the role (added 2026-09-29, author-originated, 7:36pm PHX; pattern level, no names)
+
+**His framing:** a facilitator who won't say what they believe because a participant might come after them is being topped by that participant. *"There's a hierarchy... on top because he's monopolized violence... topping [the facilitator] using aggression and fear."* His candidate words: fear-topped, intimidation-topped, threat-topped.
+
+**Desk read: it adds something the book doesn't have yet.** The book already has the behavior (*When the Facilitator Fawns*) and the principle (*All Power Is Mutual*, the Vulnerability Flip). What's new is the **structural read**: in a room, whoever is most willing to escalate can outrank whoever holds the role. The facilitator is top on the role axis on paper, but a credible threat of escalation flips it, and the room's real hierarchy follows fear, not titles. That explains three things at once:
+- why a **participant** can install the culture of punishment, not only staff;
+- why the facilitator's silence can outlast the event by months: the threat still shapes what they'll say;
+- why a room with an unremoved threatener **isn't top-safe for anyone, staff included** (ties to HHHH's staff-safety check and the "to protect a top, someone takes on top vulnerability" line).
+
+**Name it as a position, never a person.** "Threat-topped" describes where someone is standing, which is inarguable and passes the Martian check: *a facilitator who stops saying what they believe because someone might escalate is threat-topped.* Don't pair it with a label for the other person in the book. "Righteous predator" already exists as a mechanism term, and the act (threats, intimidation) carries the weight on its own.
+
+**A correction to keep straight:** the Hormozi line in `distinctions.md` is *"compensated in proportion to the risk you're willing to **take**,"* perceived risk. It does not describe someone who **imposes** risk on others through threats. That's the inverse, and it's worth saying so if the chapter ever uses the quote.
+
+**Placement:** a short subsection in `all-power-is-mutual.md` after *Top and Bottom at Once*, or in `before-you-facilitate.md` → *Why Facilitator Silence Is Different*, where the cascade is already described. Test: a facilitator reads it and recognizes a room they've run, without feeling accused.
