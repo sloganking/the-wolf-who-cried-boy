@@ -1794,3 +1794,13 @@ How it lands depends on intent: the same words can be read as a warning or as ca
 **The why, in his words (3:35pm):** *"Just like fawning, when I was a kid, it was never safe to say what I didn't want, it was never safe to advocate for myself and say what I needed, and so it took me a year. One, I was traumatized by this event, and two, it took me like a year of internal processing until I did advocate for myself."* Two causes, named plainly: the event's own trauma, and a childhood that taught asking was dangerous. The reader already knows the father story from the opening, so one callback sentence is enough, and it shouldn't be retold. That callback also explains the delay without excusing it: the fawn response was trained, and untraining it takes time.
 
 **Timing:** write it after the ask conversation (CCCC point 7), so the section has an ending whichever way it goes. Cross-link `healing-fawning.md` (the reverse bike) and FFFF.
+
+### HHHH. "Top-safe" and "bottom-safe": a shorthand for which side a container protects (added 2026-09-29, author-originated, 6:58pm PHX)
+
+**His words:** *"I just thought of the words bottom-safe and top-safe, and I would say most events are bottom-safe, but not very top-safe... you can also just say safe for bottoms, but not very safe for tops, but top-safe is a good shorthand."*
+
+**Desk read: keep it. It is the natural pair to the book's existing *top vulnerability*,** and it turns an abstract asymmetry into a question a facilitator can ask of their own container: *is this room top-safe? bottom-safe? both?* A room is **bottom-safe** when its structures protect the person receiving (consent checks, the right to stop, being believed). It is **top-safe** when they protect the person initiating from disproportionate response (proportionality, repair before removal, threats of violence removed, the story corrected). Most containers have built the first set carefully and barely started on the second.
+
+**Guardrail, for the bottom-side reader:** phrase the claim as *most containers are built around bottom safety and have few structures for top safety.* Don't say "most events are bottom-safe" flat. A reader who was harmed as a bottom will contest that, and they'd have a point: plenty of rooms fail bottoms too. The goal the term points at is **both-safe**, not a trade between the two sides.
+
+**Placement:** introduce it in `all-power-is-mutual.md` next to top vulnerability; use it as the checklist frame in the facilitator material (`before-you-facilitate.md`) and in EEEE (the proportionate word-of-mouth is a top-safety structure). Add to the glossary.
