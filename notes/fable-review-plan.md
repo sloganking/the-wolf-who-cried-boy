@@ -1861,3 +1861,24 @@ So the line doesn't argue selfish predators are more common (the book's position
 **Open question for the author:** "harder to get rid of" than what? Than the righteous predator (who removes themself by escalating in public), or than people assume? The draft reads best as the former.
 
 **Placement:** `why-rescuers-are-dangerous.md`, right after "completely miss the righteous ones doing ten times the damage," as the counterweight. Keep it a mechanism, no example from the author's own story.
+
+### LLLL. The outside panel: move the verdict off the facilitator (added 2026-09-30, author-originated, 8:45am PHX; pattern level, no names)
+
+**The author's idea:** when a righteous predator demands a removal, the facilitator shouldn't be the one who decides. The organization hires **outside judges**: not staff, not the community, people known in other communities for handling exactly this. The facilitator commits in advance to follow what they decide. The panel rules (e.g., the threatener doesn't come back; the accused gets protection and/or an apology; an accountability process before anyone returns to assisting), and the facilitator can say: *"I'm not the expert on this. We hired the experts, this is what they decided, this is what we're doing."* People can question the panel. They can't make it about the facilitator being evil.
+
+**The author's framing of why it matters:** the book argues for morality, but "nobody cares about that when they're going to get harmed." The biggest unsolved problem in the book is **how to stop a righteous predator without taking on personal risk**, and this is a structural answer to it.
+
+**Precedents (desk research, Sep 29-30 mines):**
+- **Just Culture's split** (RPM `just-culture-and-calling-in-mine.md`): the body that hears a report is not the body that can punish (NASA's reporting system vs the FAA).
+- **US Center for SafeSport:** after the gymnastics abuse scandals, US Olympic sports moved misconduct cases out of each sport's own federation to an independent center that investigates and rules; the federation enforces. The closest real-world match to the author's idea. (Verify details before citing.)
+- **External investigators** in workplaces and universities, and independent ombuds, for the same reason: the people who work together don't judge each other.
+
+**Why it works (mechanism):** the heat of a contested verdict has to land somewhere. An outside body absorbs it; attacking "the panel" is slow and diffuse, while attacking the facilitator is personal and immediate. It is top-safe (HHHH) for staff by design: it spreads the top vulnerability instead of loading it onto one person (the Sep 29 line: to protect a top, someone takes on top vulnerability, and a good container shares that cost).
+
+**What it needs to hold (desk read):**
+1. **Committed before any case.** Written into the container's agreements, like the Promise: "contested removals go to an outside panel, and we follow its decision."
+2. **It doesn't replace the emergency move.** A live threat still gets separation tonight ("separating people is not a verdict", JJJJ / Just Culture mine); the panel decides the verdict after.
+3. **Neutral selection.** Chosen outside the community, ideally from people the community already respects, so "rigged" doesn't stick. Named in advance if possible.
+4. **Costs are real.** Money, time and scale: a small event may pool a shared panel with other organizers rather than hire its own.
+
+**Placement:** likely its own page (the author: "showing how to handle righteous predators without entailing a bunch of risk on yourself"), linked from `handling-threats-of-violence.md` and `before-you-facilitate.md`. Pairs with JJJJ (the opening script) and the curiosity-before-verdict agreement. Test: a fear-topped facilitator (IIII) reads it and feels there's a way out that doesn't cost them their community.
