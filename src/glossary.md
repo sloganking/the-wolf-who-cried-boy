@@ -190,6 +190,8 @@ This page exists because the linguistic gap creates the perceptual gap — it's 
 
 **Top and Bottom Vulnerability** — Bottom vulnerability (physical exposure) has a safeword and cultural protection. Top vulnerability (reputational exposure) has neither. The person who looks least vulnerable is usually most vulnerable. → [All Power Is Mutual](./concepts/all-power-is-mutual.md#top-and-bottom-vulnerability)
 
+**Top-Safe / Bottom-Safe** — The two-question audit for any event: is it bottom-vulnerable or bottom-safe (does "stop" work, and is the person believed), and is it top-vulnerable or top-safe (does the room verify before it reacts, and is the response sized to what happened)? A room can be one without the other; the goal is both. → [All Power Is Mutual](./concepts/all-power-is-mutual.md#top-safe-and-bottom-safe)
+
 **Trust Baseline** — Bidirectional trust that a mistake will be treated as a mistake. If either person can't trust that, play is premature. → [Before Play](./concepts/before-play.md)
 
 **Two Victims Problem** — When fawning happens, both the fawner (who had an unwanted experience) and the other person (who was lied to about consent) are harmed. → [Fawning](./concepts/fawning.md)

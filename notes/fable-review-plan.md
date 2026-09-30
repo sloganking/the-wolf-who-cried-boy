@@ -1797,6 +1797,8 @@ How it lands depends on intent: the same words can be read as a warning or as ca
 
 ### HHHH. "Top-safe" and "bottom-safe": a shorthand for which side a container protects (added 2026-09-29, author-originated, 6:58pm PHX)
 
+**Status (Sep 29, 7:10pm):** drafted into `src/concepts/all-power-is-mutual.md` → *Top-Safe and Bottom-Safe*, plus a glossary entry and wiki update, on branch `top-safe-bottom-safe` for the author's review. Not merged.
+
 **His words:** *"I just thought of the words bottom-safe and top-safe, and I would say most events are bottom-safe, but not very top-safe... you can also just say safe for bottoms, but not very safe for tops, but top-safe is a good shorthand."*
 
 **Desk read: keep it. It is the natural pair to the book's existing *top vulnerability*,** and it turns an abstract asymmetry into a question a facilitator can ask of their own container: *is this room top-safe? bottom-safe? both?* A room is **bottom-safe** when its structures protect the person receiving (consent checks, the right to stop, being believed). It is **top-safe** when they protect the person initiating from disproportionate response (proportionality, repair before removal, threats of violence removed, the story corrected). Most containers have built the first set carefully and barely started on the second.
