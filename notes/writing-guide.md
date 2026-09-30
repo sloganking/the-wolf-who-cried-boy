@@ -115,6 +115,8 @@ The opening clause is why this governs the book and not just conversation: the c
 The leaks that show up in drafts:
 
 - **Frequency claims nobody counted.** "Most facilitators...", "usually," "everyone." If the number isn't checkable, don't claim it. Enumerate the cases instead ("Some know in the moment... Others have nothing to realize yet...") or state the mechanism that produces them.
+  - **Author's ruling (2026-09-30):** softened frequency words are allowed: "often," "commonly," "most people." What this rule catches is the absolute or the precise-sounding number nobody counted ("always," "everyone," "80% of events"), not every frequency word. Don't over-correct by deleting a true, softened observation.
+- **Presuming the reader's background.** "Familiar," "you already know," "the usual tools": the reader may be arriving from anywhere. State what the tools are; don't assume they've met them (author, 2026-09-30).
 - **Verdict language.** "The person you failed," "you abandoned them" — a judgment wearing a description's clothes. Describe the event: "the person who was attacked," "the person who didn't get protection."
 - **Story stated as fact.** "Harm is still being done to them every day," "reopening their wound to relieve your own conscience" — claims about another person's inner experience or motive, which the writer can't observe. Describe the observable mechanism instead: a carried story surfaces in retellings and treatment; an unrequested public correction fits the Rescuer pattern.
 - **Identity and future claims.** "They can't," "they always will." Past tense and counts are inarguable; capabilities and futures are predictions.

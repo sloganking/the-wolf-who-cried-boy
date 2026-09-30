@@ -6,6 +6,12 @@ Append-only ledger of real sentences that failed a writing-guide rule and what t
 
 ---
 
+## [2026-09-30] Four catches in one new paragraph | `all-power-is-mutual.md` (Top-Safe, Bottom-Safe, and Staff-Safe)
+
+- **Written:** "even good people protect their safety, and they should" / "you haven't written rules. You've written a test of courage" / "A rule is only as real as it is safe to enforce" / "The bottom-safe list fills quickly" / "The top-safe list is the one this chapter has been saying doesn't exist yet."
+- **Rule broken:** "should" moralizes (Medium Is the Message); "you haven't written rules" is a verdict on the reader, invalidating (author: "invalidating and rude"); "real" was the wrong word for what a safe-to-enforce rule gains; "fills quickly" and "doesn't exist yet" are claims about every event that nobody counted (Martian check). The desk first dropped the frequency claim entirely ("has tools with familiar names"); the author overruled that too, because "familiar" presumes the reader's background. Author's call: keep a softened frequency word, "commonly find", as a report of what people find when they make the lists rather than a claim about every event.
+- **Became:** "Safety is a need, and when a need collides with a value, the need tends to win"; "the rule asks them to choose between their values and their safety, with every incentive pointing toward safety"; the author's line, bolded: "**A rule will only be reliably upheld if it is safe to uphold.**"; "People who make these lists commonly find plenty of tools protecting bottoms, like the safeword, the consent check and the right to stop, and far fewer protecting tops." Also the drafted "won't happen under pressure" (a prediction) became "depends on someone choosing to be brave under pressure" (a mechanism). Caught by the author reading the rendered page, Sep 30 2026 ~9:31am.
+
 ## [2026-07-26] The verb that made the book argue with itself | `handling-threats-of-violence.md`
 
 - **Written:** "### Step 1: Remove the Attacked Person First" — followed, across the chapter, by the corrections the word forced: "they did nothing that warrants removal," "Their removal was a safety action, not a consequence," and the heading's own disclaimer "Not as punishment. As protection."
