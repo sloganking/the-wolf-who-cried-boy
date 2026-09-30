@@ -156,6 +156,8 @@ Give each position two words, one for each state, and all of this becomes someth
 
 Then list what your event actually has for each. The bottom-safe list fills quickly, with tools that already have familiar names: the safeword, the consent check, the right to stop. The top-safe list is the one this chapter has been saying doesn't exist yet. Here is what goes on it: [a promise](./before-you-facilitate.md#the-promise) that no one who follows the rules will be punished for a mistake; repair before anyone is asked to leave; [removal for threats of violence](./handling-threats-of-violence.md); and someone who [sets the context](./guiding-public-repair.md#the-context-rule) before the room fills the silence with a story.
 
+One more check belongs on the top-safe list, because the facilitator is a top too. On the role axis, every protection on that list is carried out by someone with top vulnerability of their own. So for each item, ask whether the person who has to do it could do it without putting themselves at risk. A facilitator who believes an incident was handled wrong, and knows the room should hear that, may still say nothing, because saying it out loud exposes them to the same attack. A protection that is only safe for the person it protects, and not for the person who has to carry it out, won't happen under pressure. That's a gap in the list, not in the facilitator. Close it the way [the Promise](./before-you-facilitate.md#the-promise) does: decide ahead of time, in writing, so no one has to be brave in the moment.
+
 A room can hold both lists at once. That's the goal: anyone can say stop, and anyone who makes a mistake gets heard before they get judged. If one of your lists is empty, you've found your next piece of work.
 
 ## Why This Matters
