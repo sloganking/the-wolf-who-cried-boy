@@ -1846,6 +1846,8 @@ How it lands depends on intent: the same words can be read as a warning or as ca
 
 ### KKKK. "Selfish predators are harder to spot, and harder to get rid of." (added 2026-09-29, author-originated, 9:41pm PHX)
 
+> ⚠️ **REVERSED BY THE AUTHOR, Sep 30 2026 8:54am PHX:** *"righteous predators ... are harder to detect and they are harder to get rid of than selfish predators."* His reasoning: a selfish predator hands you leverage. A mistake of low-to-medium severity, an accident, even a social profile that hasn't felt good to people, and one cry of "predator" makes it a controversy you can remove them on. A righteous predator makes no such mistake: his weapon is the accusation itself, it reads as protection, and the repercussions come after the event. **The line below is superseded; use the Sep 30 direction.** The "how both are true" analysis below still holds for DETECTION (the loud one is easy to see and hard to recognize), but removal is harder for the righteous predator. The chapter this opens is MMMM.
+
 **The author's line, verbatim:** *"Selfish predators are harder to spot, and harder to get rid of."*
 
 **Desk read: it sharpens the book, but it has to sit next to what the book already says, or it reads as a contradiction.** The book currently says:
@@ -1882,3 +1884,20 @@ So the line doesn't argue selfish predators are more common (the book's position
 4. **Costs are real.** Money, time and scale: a small event may pool a shared panel with other organizers rather than hire its own.
 
 **Placement:** likely its own page (the author: "showing how to handle righteous predators without entailing a bunch of risk on yourself"), linked from `handling-threats-of-violence.md` and `before-you-facilitate.md`. Pairs with JJJJ (the opening script) and the curiosity-before-verdict agreement. Test: a fear-topped facilitator (IIII) reads it and feels there's a way out that doesn't cost them their community.
+
+### MMMM. The chapter: removing a righteous predator without taking on personal risk (added 2026-09-30, author-originated, 8:54am PHX; pattern level, no names)
+
+**The author's ask, near-verbatim:** a chapter specifically on how to get righteous predators out of your space, "because they are harder to detect and they are harder to get rid of than selfish predators" (see KKKK's reversal). *"I want to write the single best damn page for getting righteous predators out of your events without taking on immense personal risk to do it, that a lawyer would be like, holy shit, I want this, and then they'd implement it... I wouldn't be trying to convince them to do it against their own interests or needs for safety."*
+
+**Why the book needs it (desk read, Sep 30, checked against the text):** `handling-threats-of-violence.md` covers the MOMENT well (order of operations, first officer, pre-framed emergency protocols, re-entry). What no page covers is the remover's own safety AFTER: retaliation, reputation attacks, the verdict landing on one person. The book currently answers the scared facilitator with a moral verdict (fawning) instead of a structure. That is why the moral argument failed in the real case this grew from: the facilitator didn't doubt it was right; she was afraid.
+
+**Spine (desk proposal):** never personal, always procedural.
+1. **Why it's harder** (the leverage asymmetry): a selfish predator hands you a mistake to act on; a righteous predator's weapon is the accusation itself, it reads as protection, removing him looks like siding with the accused, and payback arrives after the event.
+2. **Remove for behavior, never for identity.** "Righteous predator" is a lens for the organizer's head, never a word said in the room. The removal names a behavior the person agreed at the door not to do: a threat, intimidating people who disagree, demanding someone's removal with no process, a public verdict before curiosity.
+3. **Before:** the written agreements, read aloud (JJJJ: repairs first, upsets, curiosity before verdict; threats = you leave, whoever you are; contested removals go to an outside panel). This converts removal from a judgment into enforcement of their own promise.
+4. **During:** a named team, never one person (first officer, Conflict Specialist); separating people is not a verdict (Just Culture mine); scripts, not opinions.
+5. **After:** the outside panel holds the verdict (LLLL); a short neutral statement to the same audience the accusation reached; documentation and witnesses.
+6. **Retaliation plan written in advance:** what happens when he posts, calls, or recruits; the policy speaks, not the person; no one-on-one fights.
+7. **The lawyer test / self-interest case:** consistent enforcement of a published policy on documented behavior protects the organizer (liability, defamation, discrimination claims), the staff and the brand. The page argues from the organizer's own interests and safety, never against them.
+
+**Tone fix (author, Sep 30, 8:59am):** `handling-threats-of-violence.md` → *Both Are Fawning* ended "That's not facilitation. That's survival mode wearing a facilitator shirt." The author found it offensive; the desk agrees (a sneer at the exact reader the book needs, and the fear is often reasonable). Keep the diagnosis, drop the contempt. Edited in the working tree for his review, uncommitted.
