@@ -1914,3 +1914,14 @@ So the line doesn't argue selfish predators are more common (the book's position
 A top in a scene risks one partner's upset about one moment. Staff risk comes from enforcing: they are the ones who must confront the scariest person in the room, in public, and absorb what follows. That is exactly where fear-topping happens (IIII). HHHH's staff-safety check ("a protection must be safe to carry out") already points at it; this names it.
 
 **Ties:** MMMM (the removal chapter) is, in effect, "how to make a container staff-safe"; LLLL (outside panel) is its central tool. Placement: add to the Top-Safe and Bottom-Safe subsection in `all-power-is-mutual.md` and the glossary, with a pointer to the removal chapter. Test: a facilitator reads the three questions and can answer all three for their own event.
+
+### OOOO. The container holds the monopoly on escalation (added 2026-09-30, author-originated, 9:14am PHX; idea only, author said do NOT edit the staff-safe section yet)
+
+**The author's idea:** a talk he half-remembers (attributed to either Alex Hormozi or Myron Golden; unverified, do not cite either) framed whoever holds the monopoly on physical violence, and on protection from it, as carrying the most risk and so able to charge the most (taxation). Applied to containers: to be staff-safe, must the container hold the monopoly on violence, meaning a conflict specialist and people who can use physicality if needed?
+
+**Desk read:** the root is Max Weber (*Politics as a Vocation*, 1919): the state is whoever holds the monopoly on the LEGITIMATE use of force. It maps cleanly: a righteous predator's power is a bid to seize the monopoly ("disagree with me and I'll punch you"); a fear-topped facilitator (IIII) is a container that has lost it. So a container is staff-safe only if it never loses the monopoly. **Reframe for the book: the monopoly is on ESCALATION, not violence.** "Staff can use physicality" reads in a sex-positive space as "staff can hurt you", invites assault liability, and turns the Conflict Specialist into a bouncer. The version that holds:
+- Only the named team escalates. Anyone else who escalates (threatens, intimidates, recruits a mob) has broken the core agreement.
+- The team's escalation ladder is written in advance: words → separation → removal → trained security or 911. Force at the top is borrowed from people trained and licensed for it, never improvised.
+- Legitimacy comes from the door agreements: everyone consented to the container's monopoly on the way in (Weber's key word).
+
+**Placement when the author wants it:** the staff-safe list (NNNN) and the removal chapter (MMMM, branch righteous-predator-removal), which both need a line on who is allowed to escalate.

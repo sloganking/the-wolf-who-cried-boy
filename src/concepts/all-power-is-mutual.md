@@ -146,19 +146,23 @@ So when something goes wrong, an assistant can get the risks of bottom vulnerabi
 
 Anyone in the room can see this happening. When a room is closing in on someone, one question changes what everyone is looking at: is this person also the one who got hurt? Asking it out loud — to the lead, or to the room — is how a narrative that has only been told from one side gets its other side back.
 
-### Top-Safe and Bottom-Safe
+### Top-Safe, Bottom-Safe, and Staff-Safe
 
-Give each position two words, one for each state, and all of this becomes something you can check. Before your next event, ask both questions.
+Give each position two words, one for each state, and all of this becomes something you can check. Before your next event, ask three questions.
 
-**Is it bottom-vulnerable or bottom-safe?** If someone being touched wants it to stop, does it stop, every time, and are they believed?
+**Is it bottom-vulnerable or bottom-safe?** If someone being touched wants it to stop, does it stop, every time, without anyone arguing with their no?
 
 **Is it top-vulnerable or top-safe?** If someone touching makes a mistake, does the room verify before it reacts? Is the response sized to what happened? Is a threat made against them taken as seriously as a harm done by them?
 
+**Is it staff-vulnerable or staff-safe?** When the rules say someone has to act, whether that means removing a person who made a threat, holding a line, or correcting a story in front of the room, can the people whose job it is do it without putting themselves at risk?
+
 Then list what your event actually has for each. The bottom-safe list fills quickly, with tools that already have familiar names: the safeword, the consent check, the right to stop. The top-safe list is the one this chapter has been saying doesn't exist yet. Here is what goes on it: [a promise](./before-you-facilitate.md#the-promise) that no one who follows the rules will be punished for a mistake; repair before anyone is asked to leave; [removal for threats of violence](./handling-threats-of-violence.md); and someone who [sets the context](./guiding-public-repair.md#the-context-rule) before the room fills the silence with a story.
 
-One more check belongs on the top-safe list, because the facilitator is a top too. On the role axis, every protection on that list is carried out by someone with top vulnerability of their own. So for each item, ask whether the person who has to do it could do it without putting themselves at risk. A facilitator who believes an incident was handled wrong, and knows the room should hear that, may still say nothing, because saying it out loud exposes them to the same attack. A protection that is only safe for the person it protects, and not for the person who has to carry it out, won't happen under pressure. That's a gap in the list, not in the facilitator. Close it the way [the Promise](./before-you-facilitate.md#the-promise) does: decide ahead of time, in writing, so no one has to be brave in the moment.
+The third question exists because the facilitator is a top too, with a different kind of exposure. A top in a scene risks one person's upset about one moment. Staff are the ones the rules require to act, sometimes against the most frightening person in the room, and they carry what follows: their reputation, their standing in the community, sometimes their livelihood. Every protection on the other two lists is carried out by someone with that exposure. A facilitator who believes an incident was handled wrong, and knows the room should hear that, may still say nothing, because saying it out loud exposes them to the same attack. A protection that is only safe for the person it protects, and not for the person who has to carry it out, won't happen under pressure. That's a gap in the list, not in the facilitator. Close it the way [the Promise](./before-you-facilitate.md#the-promise) does: decide ahead of time, in writing, so no one has to be brave in the moment. The staff-safe list holds things like: a named team, so no one acts alone; agreements everyone accepts at the door, so a removal enforces their own promise instead of someone's opinion; and a way to decide a contested case that doesn't rest on one person's shoulders.
 
-A room can hold both lists at once. That's the goal: anyone can say stop, and anyone who makes a mistake gets heard before they get judged. If one of your lists is empty, you've found your next piece of work.
+When a person's safety is on one side and their values are on the other, even good people protect their safety, and they should: a need is a need. Nobody hired your staff to take a punch for twenty dollars an hour, and nobody asked the lead facilitator to absorb harm meant for someone else. So if enforcing your rules puts the people who enforce them at personal risk, you haven't written rules. You've written a test of courage, and given everyone on your team the strongest possible reason to fail it. A rule is only as real as it is safe to enforce.
+
+A room can hold all three lists at once. That's the goal: anyone can say stop, anyone who makes a mistake gets heard before they get judged, and anyone who has to enforce the rules can do it without standing alone. If one of your lists is empty, you've found your next piece of work.
 
 ## Why This Matters
 
