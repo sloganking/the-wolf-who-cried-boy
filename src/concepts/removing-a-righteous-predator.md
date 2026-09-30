@@ -8,6 +8,8 @@ That's the gap this page fills. Not morality — you already believe removing th
 
 Everything below is written from your own interest. Not because your interest is more important than doing the right thing — because a structure built on your safety is one you'll actually use under pressure, and a structure that asks you to be brave first is one you won't.
 
+There's a word for what you're building, and [All Power Is Mutual](./all-power-is-mutual.md#top-safe-bottom-safe-and-staff-safe) names it alongside top-safe and bottom-safe: **staff-safe** — can the person the rules require to act do it without taking on personal risk of their own? This page is the staff-safe list, worked all the way through for the hardest case a container has: a contested removal.
+
 ## Why It's Harder
 
 A selfish predator hands you something to point to: a mistake, a pattern, a rule broken in a way witnesses can describe. Removing them is a clean call, because the record does the arguing for you.
@@ -128,7 +130,7 @@ The law rewards exactly the shape this page has been building: a written policy,
 - [Before You Facilitate](./before-you-facilitate.md) — The Promise, the Conflict Specialist, the first officer
 - [Handling Threats of Violence](./handling-threats-of-violence.md) — The order of operations when it's physical
 - [When Things Go Wrong](./when-things-go-wrong.md) — The emergency exception this page borrows its timing logic from
-- [All Power Is Mutual](./all-power-is-mutual.md) — Top-safe and bottom-safe, and why a top-safety list needs this page on it
+- [All Power Is Mutual](./all-power-is-mutual.md#top-safe-bottom-safe-and-staff-safe) — Top-safe, bottom-safe, and staff-safe; this page is the staff-safe list in full
 - [The Culture of Punishment](./punishment-culture.md) — Protected reporting, and why who hears a report can't be who punishes
 - [Repair](./repair.md) — What happens after the panel decides and the community needs to heal
 - [Where the Police Fit](./where-the-police-fit.md) — When it's no longer a container decision at all
