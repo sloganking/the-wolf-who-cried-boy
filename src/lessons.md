@@ -100,6 +100,8 @@ Readers remember the sentence that hit them, not the chapter it was in. Every li
 
 **Bottom vulnerability has a safeword. Top vulnerability doesn't.** → [All Power Is Mutual](./concepts/all-power-is-mutual.md)
 
+**A rule will only be reliably upheld if it is safe to uphold.** → [All Power Is Mutual](./concepts/all-power-is-mutual.md#top-safe-bottom-safe-and-staff-safe)
+
 ---
 
 ## The Patterns
