@@ -1843,3 +1843,21 @@ How it lands depends on intent: the same words can be read as a warning or as ca
 **Source research:** RPM `just-culture-and-calling-in-mine.md` (in progress Sep 29) compares aviation's Just Culture to the Promise, covers Loretta Ross's calling-in, and drafts a read-aloud version. The earlier survey is RPM `righteous-predator-defusal-mine.md` (common knowledge: a rule read aloud together works where a rule read privately doesn't).
 
 **Placement:** `before-you-facilitate.md`, as the opening script, with a pointer from `quick-reference.md`. Test: a first-timer hears it and feels safer, not warned.
+
+### KKKK. "Selfish predators are harder to spot, and harder to get rid of." (added 2026-09-29, author-originated, 9:41pm PHX)
+
+**The author's line, verbatim:** *"Selfish predators are harder to spot, and harder to get rid of."*
+
+**Desk read: it sharpens the book, but it has to sit next to what the book already says, or it reads as a contradiction.** The book currently says:
+- `why-rescuers-are-dangerous.md:62`: our language pre-frames us to look for selfish predators and *miss the righteous ones doing ten times the damage*;
+- `healing-fawning.md:706`: a witnessed group is the worst place for a selfish predator to operate.
+
+**How both are true (the pairing the line unlocks):** the two predators fail detection in opposite ways.
+- **The righteous predator is easy to spot and hard to recognize.** Loud, public, announces itself; what the room misses is that the loud one is the harm, because it looks like protection.
+- **The selfish predator is hard to spot and hard to remove.** Quiet, private, chooses rooms with no witnesses, often charming and well-liked, leaves no public incident to point at; removal needs evidence the pattern is built to avoid, and the community that likes them defends them.
+
+So the line doesn't argue selfish predators are more common (the book's position stays: fear-driven harm is far more common). It says that when one is present, the tools that catch the loud harm don't catch the quiet one. The container needs both: curiosity before verdict (JJJJ) for the loud certainty, and patterns across time (multiple private reports, a named team that can hear them without punishing the reporter, per the Just Culture mine's "who hears is not who punishes") for the quiet one.
+
+**Open question for the author:** "harder to get rid of" than what? Than the righteous predator (who removes themself by escalating in public), or than people assume? The draft reads best as the former.
+
+**Placement:** `why-rescuers-are-dangerous.md`, right after "completely miss the righteous ones doing ten times the damage," as the counterweight. Keep it a mechanism, no example from the author's own story.
