@@ -1901,3 +1901,16 @@ So the line doesn't argue selfish predators are more common (the book's position
 7. **The lawyer test / self-interest case:** consistent enforcement of a published policy on documented behavior protects the organizer (liability, defamation, discrimination claims), the staff and the brand. The page argues from the organizer's own interests and safety, never against them.
 
 **Tone fix (author, Sep 30, 8:59am):** `handling-threats-of-violence.md` → *Both Are Fawning* ended "That's not facilitation. That's survival mode wearing a facilitator shirt." The author found it offensive; the desk agrees (a sneer at the exact reader the book needs, and the fear is often reasonable). Keep the diagnosis, drop the contempt. Edited in the working tree for his review, uncommitted.
+
+### NNNN. "Staff-safe": a third word beside top-safe and bottom-safe (added 2026-09-30, author-originated, 9:05am PHX)
+
+**The author's idea:** bottom-safe, top-safe, and maybe **staff-safe**. Staff are tops on the role axis, "but it's a little different from just like men or tops in a scene." And the book-selling angle: facilitators may believe in the book and even sell it at their events, but if their spaces aren't top-safe and staff-safe, they can't act on it.
+
+**Desk read: yes, it earns its own word, because the risk is a different shape.**
+- **Bottom-safe:** can you say no and be heard?
+- **Top-safe:** can you make a mistake without being destroyed for it?
+- **Staff-safe:** can the people the rules require to ACT (remove a threatener, hold a line, correct a story) do it without taking on personal risk: retaliation, reputation attacks, loss of standing or livelihood in the community?
+
+A top in a scene risks one partner's upset about one moment. Staff risk comes from enforcing: they are the ones who must confront the scariest person in the room, in public, and absorb what follows. That is exactly where fear-topping happens (IIII). HHHH's staff-safety check ("a protection must be safe to carry out") already points at it; this names it.
+
+**Ties:** MMMM (the removal chapter) is, in effect, "how to make a container staff-safe"; LLLL (outside panel) is its central tool. Placement: add to the Top-Safe and Bottom-Safe subsection in `all-power-is-mutual.md` and the glossary, with a pointer to the removal chapter. Test: a facilitator reads the three questions and can answer all three for their own event.
