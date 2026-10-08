@@ -1975,3 +1975,30 @@ A top in a scene risks one partner's upset about one moment. Staff risk comes fr
 **Guardrails.** (1) "Not always": the item must keep room for real foolish selfish (the blurry and selfish predator sections), or it becomes a blanket excuse. (2) Don't let "naive" become a label people hide behind; the test is what they do next (shrink the die or not). (3) Attribution check before publishing.
 
 **Status:** idea only; no book source edited.
+
+### SSSS. Own the act, state the intent: the step between fawning and the three-sentence exit (added 2026-10-08, author-originated, 1:27pm PHX)
+
+**The gap.** When someone is publicly attacked over a real mistake, the book currently offers two moves: don't fawn, and the three-sentence exit (`guiding-public-repair.md`, *Speaking Truth Instead of Fawning*: state the facts, name the disproportion, set the boundary and leave; `when-youve-been-wronged.md`, *Show Your Humanity*: evidence, a principle, a boundary). Both protect the person. Neither contests the thing the room is actually deciding: **why they did it.** Narrative lock's first signal is motive attribution (the accuser tells everyone your intent), and the accused is the only primary source on their own intent. Fawning (crying, apologizing for everything) leaves the accuser's attributed motive standing, and so does a silent exit. The author's words: *"there's something about just saying what my fucking motives were... it would have been better than... crying and apologizing, which made it look like... I don't even contest the narrative."*
+
+**The move: own the act, state the intent, name the bar, then the boundary.** Order is load-bearing, and it matches the book's own rule for contributing factors (`responsibility.md`, *own the determining factor first*): intent stated before ownership sounds like an excuse; stated after, it lands as information.
+
+1. **Own the act at its real size.** What happened, camera-level, and that it caused real upset. No minimizing, no inflating.
+2. **State the intent.** What you wanted and didn't want. Self-interest stated plainly makes it more credible, not less (the book's "hiding your self-interest makes you harder to trust"): *hurting someone is the opposite of what I came here for, for them and for me.*
+3. **Name the bar.** Open to accountability that fits what happened; not available for a response that does more harm than the mistake did.
+4. **Boundary, and leave** (the existing move).
+
+A version in the author's voice, to tune:
+
+> *"Here's what I did: [the act, at its real size]. It was a mistake, and it caused real upset. I own that. Here's what I didn't do: I didn't want anything that wasn't wanted. Hurting someone is the opposite of what I came here for, for them and for me. Was I careless? Yes. I'm open to accountability that fits what happened. What I'm not available for is being called names, or a response that does more harm than the mistake did, because a response bigger than the harm becomes a harm of its own. I'm stepping away now, and I'm open to talking when it can happen with respect."*
+
+**One rewording, deliberately.** The author's draft ended *"if you cry monster and cause permanent harm, which is beyond what I did, you become the predator yourself."* True, and it's the book's thesis ("cry victim loud enough and you become the perpetrator"), but said to the accuser mid-attack it labels them back: a counterattack the locked person reads as proof, and it repeats the very word the book says not to echo (*don't repeat fiction*). The principle form keeps the truth and lets the room do the math: *a response bigger than the harm becomes a harm of its own.*
+
+**Honest limits.** Someone already locked hears the intent statement as an excuse; it isn't for them, it's for the room, the same audience logic the book already uses. And this doesn't forbid tears: crying while owning the act and holding a boundary is different from crying while apologizing for the accuser's whole story.
+
+**Ties:** RRRR (naive vs. foolish selfish: "was I careless? yes" is the naive admission in one line); the author's own word was "dumbass," which may read even more human in a room, his call.
+
+**Worked example, a canon check first:** before the central incident is used as the example, compare the book's current telling of the author's in-the-moment response with his own account in the private notes (`../RPM/capture.md`, Oct 8 2026); they may differ, and any new detail is a disclosure-canon expansion that needs his explicit sign-off.
+
+**Placement:** extend *Speaking Truth Instead of Fawning* from three steps to four (own, intend, bar, boundary), with a cross-link from *Show Your Humanity* and *How to State Contributing Factors*. Desk read: ~7x; it's the line most readers in that moment are missing.
+
+**Status:** idea only; no book source edited.
