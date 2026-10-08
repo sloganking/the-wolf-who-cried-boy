@@ -1925,3 +1925,19 @@ A top in a scene risks one partner's upset about one moment. Staff risk comes fr
 - Legitimacy comes from the door agreements: everyone consented to the container's monopoly on the way in (Weber's key word).
 
 **Placement when the author wants it:** the staff-safe list (NNNN) and the removal chapter (MMMM, branch righteous-predator-removal), which both need a line on who is allowed to escalate.
+
+### PPPP. The conflict specialist is an everyday "upset specialist" who leads the care team, not a one-in-a-hundred crisis hire (added 2026-10-08, author-originated from the phone desk, 11:56am PHX)
+
+**The idea, his words:** *"the conflict specialist, it's possible that they can be trained in a way that helps people diffuse and also like come into repair when they have upsets occur that aren't life-threatening or involving death threats or physical threats of violence. It's just two people had something happen, and now they're really upset... the conflict specialist might have those tools [guiding public repair]... then the conflict specialist has more utility in containers than they help one in every hundred times when there's a death threat... They're not just conflict specialists, they're like upset specialists... they are the care team... maybe they also lead the care team... know how to lead people into what care is good and needed and should be done."*
+
+**What the book already has (checked against `src/` today):** `before-you-facilitate.md` → *Your Conflict Specialist* already lists public repair and spotting narrative lock in the specialist's skill set, and `guiding-private-repair.md` hands off "this isn't your skill set" to the specialist. So the SKILLS are named. What's missing is the **frequency claim and the role**: the section is framed around the unhappy path and reads as crisis-only, and *Think of It as Insurance* then argues for the role on the rare night ("on most nights you'll never use it").
+
+**What's new:**
+1. **Most of the specialist's value is weekly, not once a career.** Ordinary upsets (two people, something happened, both are rattled, nothing dangerous) are the bulk of what a container produces. The same person who runs the threats protocol is the one who walks two upset people into private repair on an ordinary night, and who guides public repair when the room already knows.
+2. **The role is a care lead, not a bouncer.** They lead the care team: they know what care a moment needs (space, accompaniment, a repair conversation, a check-in the next day, an outside practitioner per item II) and route people into it.
+3. **It answers the base-rate objection.** A facilitator who believes threats of violence are rare hears "insurance" as a cost for a night that may never come. An upset specialist earns their place on ordinary nights, and the crisis capability comes with the role. That's a stronger case than insurance alone; it should sit beside the insurance passage, not replace it.
+4. **The name.** "Upset specialist" or "care lead" may land better with a care-oriented facilitator culture than "conflict specialist." Worth deciding; it also echoes item JJJJ ("upsets" not "mistakes").
+
+**Where it would go:** a short reframe inside *Your Conflict Specialist* (the frequency line and the care-lead role), one sentence in *Think of It as Insurance*, and a cross-link from `guiding-private-repair.md`. Relation to item II: the in-house care lead routes, the outside practitioner treats. Desk read: ~7x for the facilitator audience, mostly because of point 3.
+
+**Status:** idea only, no book source edited. Also passed to the Facilitator Field Packet draft (`../RPM/facilitator-field-packet.md`).
