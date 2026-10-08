@@ -1944,3 +1944,17 @@ A top in a scene risks one partner's upset about one moment. Staff risk comes fr
 **Where it would go:** a short reframe inside *Your Conflict Specialist* (the frequency line and the care-lead role), one sentence in *Think of It as Insurance*, and a cross-link from `guiding-private-repair.md`. Relation to item II: the in-house care lead routes, the outside practitioner treats. Desk read: ~7x for the facilitator audience, mostly because of point 3.
 
 **Status:** idea only, no book source edited. Also passed to the Facilitator Field Packet draft (`../RPM/facilitator-field-packet.md`).
+
+### QQQQ. A book-wide "upsets" pass: name the everyday scale the book skips (added 2026-10-08, author-directed, 12:04pm PHX)
+
+**His words:** *"I also don't think the word upsets is really in the book, and I think it should be in the book... do a pass to figure out where upsets need to be talked about and go, because currently we don't talk about them on that scale, not in that language."*
+
+**Verified against `src/` today:** "upsets" (or "an upset") as a noun appears **zero** times. "Upset" appears 32 times, all as an adjective ("someone is upset"). So the book has no word for the *event*: the ordinary moment where two people had something happen and now both are rattled, nothing dangerous, nobody a predator. The book's vocabulary jumps from "mistake" and "boundary crossing" (one person's act) straight to accusation, narrative lock and threats. The everyday middle, where most of a container's real life happens, is unnamed.
+
+**Why it matters:** (1) "Upset" names the *shared state* without assigning fault, so it's the natural word before verification (curiosity before verdict, JJJJ). "Mistake" already says someone erred, and "boundary crossing" reads like a crime report. (2) It gives the care lead / upset specialist (PPPP) a scale to work at. (3) It's the frame a first-timer can hold without fear: upsets are normal, repair is normal.
+
+**The pass:** read the book for every place an ordinary, sub-crisis friction is described or implied, and decide per spot: name it "an upset," leave the existing word, or add a sentence about the everyday scale. Likely homes: `severity.md` (LOW and MEDIUM are mostly upsets), `types-of-mistakes.md` (an upset is the event, a mistake is one possible cause, and fawning and misread signals produce upsets with no one at fault), `appropriate-response.md`, `guiding-private-repair.md` (its subject is upsets), `repair.md`, `before-you-facilitate.md` (JJJJ's opening script, PPPP's specialist), `quick-reference.md` and `glossary.md` (a definition).
+
+**Guardrail (carried from JJJJ):** the word needs a floor every time it's taught. Upsets are normal, *and* threats and violence are not upsets, they are the bright line. Otherwise "it was just an upset" becomes a harmer's phrase. Don't replace "mistake" where someone really did err. An upset can contain a mistake, so the two words live side by side.
+
+**Status:** pass not started; no book source edited.
