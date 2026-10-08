@@ -2004,3 +2004,21 @@ A version in the author's voice, to tune:
 **Placement:** extend *Speaking Truth Instead of Fawning* from three steps to four (own, intend, bar, boundary), with a cross-link from *Show Your Humanity* and *How to State Contributing Factors*. Desk read: ~7x; it's the line most readers in that moment are missing.
 
 **Status:** idea only; no book source edited.
+
+### TTTT. Borrow the room's safeword: the accused can call it too, out loud, to the staff (added 2026-10-08, author-originated, 1:32pm PHX)
+
+**The idea, his words:** *"Many retreats have a safe word system where... if you don't want to be near a person... the facilitators will ensure that you are not... I should have... [looked] at the facilitators and [said], 'red, boundary: don't let him talk to me again without my consent.' And after I said that, I would have left the room. Not only did I state a boundary with my authority, I utilized the staff and publicly made the boundary in front of the staff. And if they have a red system, a safe word system, I called it, which is something everyone would be familiar with... That's something I don't have in the book either. Self-advocacy and utilizing my resources."*
+
+**Why it's new, and where it pushes on the book.** `all-power-is-mutual.md` makes a load-bearing claim: **"Bottom vulnerability has a safeword. Top vulnerability doesn't."** True of what's built in. But most containers already run a stop system ("red," a safeword, "I don't want this person near me") that staff are already committed to honoring, and nothing in its design restricts it to the person being touched. The accused person can borrow it. Today the book gives the accused a private version (`when-things-go-wrong.md`: "talk to the facilitators. Set a boundary that this person doesn't interact with you"; `guiding-public-repair.md`, *When the Harassment Doesn't Stop*: "I need you to enforce the boundary"). The new move has three parts the private version lacks:
+
+1. **It uses a system the room already trusts.** "Red" is a word everyone was taught at the door, so the room hears a recognized protocol being invoked, not one person's complaint. It turns *"he's trying to get out of consequences"* into *"he called the container's stop word, same as anyone can."*
+2. **It's public and addressed to the staff.** Said to the facilitators in front of the room, it puts the staff on the hook in front of witnesses (the staff-safe / Promise logic: a rule is honored when it's visibly invoked), and the room watches someone hold a boundary with authority instead of fleeing.
+3. **It's self-advocacy, not rescue-waiting.** The book's *Advocacy Gap* (informing vs. advocating) applied in real time: don't hope staff notice; name the resource and use it.
+
+**The line, combined with SSSS:** own the act, refuse the label, then turn to the staff: *"I'll take the title of dumbass, not monster. Is there something to work through before we pick this back up? Yes. But not like this. [to the facilitators] Red. I don't want them speaking to me again without my consent."* Then leave.
+
+**Guardrails.** (1) It only works where a stop system exists and was taught; where it wasn't, the plain-language version is the same move ("I'm asking you, as staff, to keep this person away from me until we can talk with respect"). (2) Containers may define their safeword narrowly (scene-only). The chapter should recommend facilitators define it broadly at the opening: *"red" stops anything, for anyone, including a conversation.* That's a facilitator prescription worth adding to the Promise/pre-frame material. (3) It mustn't become a way to dodge accountability; pairing it with SSSS (own the act first) is what keeps it honest.
+
+**Book change this implies:** soften the absolute in `all-power-is-mutual.md` to something like *"Bottom vulnerability has a safeword built in. Top vulnerability has to borrow one,"* and add the move to *Show Your Humanity* and the harassment section. Desk read: ~7x; it gives the most exposed person in the room a tool the room already respects.
+
+**Status:** idea only; no book source edited.
