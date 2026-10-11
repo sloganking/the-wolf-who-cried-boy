@@ -2022,3 +2022,11 @@ A version in the author's voice, to tune:
 **Book change this implies:** soften the absolute in `all-power-is-mutual.md` to something like *"Bottom vulnerability has a safeword built in. Top vulnerability has to borrow one,"* and add the move to *Show Your Humanity* and the harassment section. Desk read: ~7x; it gives the most exposed person in the room a tool the room already respects.
 
 **Status:** idea only; no book source edited.
+
+### UUUU. Name the rung the book is on: recognition is the win, removal is the community's act (added 2026-10-04, author-originated, 7:12pm PHX; filed 2026-10-11 by the RPM desk's Sunday reset from `capture.md` 304)
+
+**The question (his voice note):** is the book worth publishing, or even great, if it doesn't figure out how to get righteous predators removed from power in these spaces? ("that would be pretty anticlimactic"). **His own answer**, by Tony Robbins' ladder (pattern recognition, then pattern utilization, then pattern creation): *"it would still be a step in the entire industry if I did nothing but enable people to have pattern recognition of what's going on and being able to talk about it. And that might be seen as a win."*
+
+**The desk's read:** removal is a community's act, and a book cannot do it; a community can only act on what it can name.
+
+**Candidate change:** the intro or the conclusion names the rung the book is on (recognition, with the words to talk about it) and leaves removal to the readers who finally have words for it, rather than promising it. Source copy: RPM `wiki/book-connection.md` → Oct 4, 2026.
