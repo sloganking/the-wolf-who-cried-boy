@@ -2031,6 +2031,8 @@ A version in the author's voice, to tune:
 
 **Candidate change:** the intro or the conclusion names the rung the book is on (recognition, with the words to talk about it) and leaves removal to the readers who finally have words for it, rather than promising it. Source copy: RPM `wiki/book-connection.md` → Oct 4, 2026.
 
-### VVVV. A felt touch that didn't happen (added 2026-10-12, author-originated; ⏳ PENDING the other person's consent, nothing drafted)
+### VVVV. The time a woman thought I touched her when I did not (added 2026-10-12, author-originated; ⏳ PENDING her consent, nothing drafted)
 
-A real moment from the author's life: someone sincerely felt a touch from a gesture that never made contact. It's a candidate worked example for the inverse of the repair chapters, where there is no act to own, only an impact to answer. It sits beside the narrative-lock material and SSSS. **Status:** the author is asking the other person about her experience; it enters the book only with her approval, de-named. The details live in the author's private notes (`../RPM/wiki/book-connection.md`, Oct 12, 2026).
+**Placement:** a candidate example right after "She Told Me Everything" in `src/concepts/trauma-and-filters.md`. It may overlap, but **it's the same mechanism seen from the other side.** In "She Told Me Everything" the author is the one whose filters shape what he perceives. Here he is the one perceived, and her filters (bottom side, startled, a finger pointed toward her) produce a touch that never landed. Two scenes, one mechanism, both seats: a top touching a woman, and a woman feeling touched while only being pointed at.
+
+**Conditions before anything goes in the book:** no name and no identifying details; her explicit consent; and her own account of what the experience was like, gathered first, so the example tells both sides honestly. The author is asking her now (Oct 12).
