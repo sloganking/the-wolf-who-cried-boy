@@ -2030,3 +2030,7 @@ A version in the author's voice, to tune:
 **The desk's read:** removal is a community's act, and a book cannot do it; a community can only act on what it can name.
 
 **Candidate change:** the intro or the conclusion names the rung the book is on (recognition, with the words to talk about it) and leaves removal to the readers who finally have words for it, rather than promising it. Source copy: RPM `wiki/book-connection.md` → Oct 4, 2026.
+
+### VVVV. A felt touch that didn't happen (added 2026-10-12, author-originated; ⏳ PENDING the other person's consent, nothing drafted)
+
+A real moment from the author's life: someone sincerely felt a touch from a gesture that never made contact. It's a candidate worked example for the inverse of the repair chapters, where there is no act to own, only an impact to answer. It sits beside the narrative-lock material and SSSS. **Status:** the author is asking the other person about her experience; it enters the book only with her approval, de-named. The details live in the author's private notes (`../RPM/wiki/book-connection.md`, Oct 12, 2026).
