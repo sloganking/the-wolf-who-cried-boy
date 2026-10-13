@@ -215,7 +215,7 @@ In intimate spaces, this could look like:
 
 - **Verbal check:** Train yourself to always ask before escalating to genital touch. Every time. Until it's automatic.
 - **Self-check:** Train yourself to run the [Gun Test](../tools/gun-test.md) before any significant escalation.
-- **Physical action:** Train a physical ritual with your partner—like a fist bump or specific gesture—that always precedes escalation. Your body learns: do this motion first.
+- **Physical action:** Train a physical ritual with your partner—like a pinky promise, a fist bump, or another specific gesture—that always precedes escalation. Your body learns: do this motion first.
 
 **The worst-case scenario with this training:**
 
@@ -291,6 +291,20 @@ The lesson is: **control the front and the back.**
 - Create physical rituals that precede escalation
 
 You prevent mistakes by doing both: staying conscious as much as possible, *and* making your unconscious safer for when you slip.
+
+### I Built the Ritual. Then I Skipped It.
+
+Since then, I've built one of those physical rituals: a pinky promise before escalating to genital touch.
+
+And then, even though I'm the one who made it, I decided I didn't need it every time. Not right now. Not with this person.
+
+Then came a night where I thought I had enthusiastic consent, and it turned out I'd misread it. She felt pain. So did I. And I thought: *fuck me. I'm tired of pain. I'm doing this every time.*
+
+At first, doing it every time didn't feel good. I carry an old story that [I'm always being left out](./body-stories.md#how-subtle-stories-create-real-problems), and that story got its hands on the ritual. I was taking more precautions than anyone I knew, and I didn't see anyone else doing anything like it. Forcing myself to do it felt cumbersome, and it felt like one more way of being on the outside. So, the same way I had to learn to hear [a no as a gift](./healing-fawning.md#the-gift-of-no), I had to learn to see this one as a gift too.
+
+Now I do it every time, and I enjoy it. It keeps my partners and me out of pain. It's a kind of safety I get to offer that I didn't see anyone around me offering, and offering it is what I want more than anything. It's become something like my signature, something I get to pass on. And honestly, it makes me feel sexy.
+
+The lesson underneath is bigger than one ritual. You can look at a tool, know it's the right call, and still feel something in you say *I don't want to do that. It feels weird.* Your [stories and filters](./trauma-and-filters.md) decide what the tool means about you, and that meaning can stop you from using the thing you know works. I did it anyway. The meaning changed after the reps, not before them.
 
 ---
 

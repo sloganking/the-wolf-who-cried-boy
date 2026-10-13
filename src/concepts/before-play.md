@@ -533,6 +533,8 @@ Now? I have the full RBDSMT conversation every time before sex. No compromises. 
 
 Because I'm tired of having sex and feeling like shit afterward. I'm tired of creating bad things when I could create good things. And the only difference is 15 minutes of conversation that I was too lazy or awkward to have.
 
+Later, I did the exact same thing with [a tool I built myself](./types-of-mistakes.md#i-built-the-ritual-then-i-skipped-it). Being the one who made it didn't stop me from skipping it.
+
 Learn from my mistakes. Have the conversation.
 
 ---
