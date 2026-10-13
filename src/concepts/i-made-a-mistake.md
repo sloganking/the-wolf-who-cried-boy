@@ -192,7 +192,7 @@ One of the most important things to do after making a mistake is to **keep going
 > **"Failure is not deadly. Giving up is."**  
 > — Tony Robbins
 
-Not recklessly. You shouldn't go back to parties without introspecting and figuring out what occurred. That would be negligent. But once you've done the work—corrected the harmful belief, recognized how the mistake happened, identified steps to prevent it—returning to community is essential.
+Not recklessly. Going straight back to parties without figuring out what occurred would be negligent. But the time before you go back isn't a sentence to serve. It's work, and it has steps: [Before You Go Back](#before-you-go-back). Once you've done them, returning to community is essential.
 
 I've heard people say that if they made a medium-severity mistake, they'd feel such shame that they'd stay out of community for a whole year before maybe coming back—if ever. I've heard that many people actually do this.
 
@@ -227,13 +227,15 @@ Standing your ground doesn't mean ignoring that trust was damaged. **When you ma
 
 The question is: what actually rebuilds it?
 
-Not exile. Absence provides zero evidence of change. You come back after a year and you're still the person who made the mistake — except now you're also a stranger. Nobody got new data about you. The trust wasn't rebuilt. It was just paused.
+Not exile. Absence with nothing in it provides zero evidence of change. You come back after a year and you're still the person who made the mistake — except now you're also a stranger. Nobody got new data about you. The trust wasn't rebuilt. It was just paused.
 
 Not punishment. Suffering doesn't predict future behavior. Someone can feel terrible about what they did and do the same thing again. Punishment might satisfy a sense of justice, but it doesn't answer the question people actually need answered: *will this person show up differently next time?*
 
 Not telling people you've changed. Words are telling. Telling is not [showing](./from-threat-to-ally.md#show-dont-tell).
 
-**The only thing that rebuilds trust is demonstrated behavior over time.** Showing up differently, consistently, in the situations where you previously failed. Which means you *have* to be in community to do it. Exile is the worst strategy for trust because it removes every opportunity to demonstrate change.
+**The only thing that rebuilds trust is demonstrated behavior over time.** Showing up differently, consistently, in the situations where you previously failed. That last part happens in community, which is why exile is the worst strategy for trust: it removes every opportunity to demonstrate change.
+
+But the demonstration doesn't *start* there. The [work you do before you go back](#before-you-go-back) — finding out what happened, repairing what you can, building the skill you were missing, letting people you trust tell you no — is behavior too. The people close to you watch you do it, and their trust starts moving before you ever walk back into the room. What separates that time from exile is the work in it. Time away with work in it is preparation. Time away with nothing in it is just a pause.
 
 And the "trust" that exile builds — if it builds any at all — isn't trust in your character or competence. It's trust that you'll submit to the group's authority when punished. Those are fundamentally different things. One says "I trust you to show up well." The other says "I trust you to obey."
 
@@ -244,6 +246,22 @@ Here's the thing: **The only way you become the person everyone receives value f
 - The only way to prove you've learned is by showing up differently
 
 And here's what happens if you don't return: **the intellectual understanding fades.** Without practice, without real situations to apply your learning, the lesson never solidifies. You end up learning it worse than if you'd stayed in community.
+
+### Before You Go Back
+
+There are two ways to get the return wrong. One is the year of exile: time out of the room with no work in it, served like a sentence. The other is walking straight back in as if nothing happened, before you know what did. Between them is a short list of work, and the work is what tells you when you're ready. The calendar doesn't.
+
+**1. Find out what happened.** Not the story about it. Run the [responsibility questions](./responsibility.md#what-responsibility-actually-means): what happened, how did my actions and inactions create it, and what will I do differently? Name the [type](./types-of-mistakes.md) and the [severity](./severity.md). If it was unconscious, which cause was driving: [autopilot, hunger, or impairment](./types-of-mistakes.md#why-unconscious-mistakes-happen)? If it was a [harmful belief](#harmful-belief-mistakes), what's the belief? You can't prevent what you haven't named.
+
+**2. Repair what's yours to repair.** [Offer it](./repair.md) on their terms and their timeline, including the possibility that what they want is distance from you. Their distance is a boundary to honor. It isn't a reason to disappear from everyone else.
+
+**3. Build what you were missing.** The fix matches the cause. Impairment: a [Gun Test](../tools/gun-test.md) you actually run. Autopilot: [safety checks trained into the habit](./types-of-mistakes.md#how-to-actually-prevent-autopilot-mistakes). Hunger: [feeding yourself first](./types-of-mistakes.md#hunger). A pattern you can't see on your own: a coach, a group, a workshop, anywhere you can practice where the stakes are lower. Much of the real accountability happens here, and none of it requires being back in the room yet.
+
+**4. Pick the people who will tell you no.** Not the most credentialed person in your community. The people who love you, who you trust, and who you trust to say *you're not ready* when you aren't, and *you're ready* when you are. Trust is the qualification, because [a no only lands from someone you believe is on your side](./walking-your-talk.md#how-to-find-your-first-officer). An expert whose judgment you don't trust can't fill this seat. You'll argue with their no, or quietly ignore it. Meet with your people. Tell them the whole thing, including the parts that make you look bad. This is the participant's version of the facilitator's [first officer](./walking-your-talk.md#your-first-officer).
+
+**5. Go back when you're ready, not when you've suffered enough.** Ready means you can say what happened, what caused it, and what you've changed, and the people you trust agree. Then go. Staying out past that point isn't extra accountability. It's the [year of exile](#return-to-community) with better paperwork. Your readiness is yours to judge, with your people. The community's welcome is theirs to give, which is why trust gets rebuilt by how you show up, not by announcing that you're back.
+
+**Playing and leading are different bars.** You can be ready to return as a participant before you're ready to hold the room. A participant is answerable for their own state and habits. A facilitator answers for everyone else's mistakes too, and [the more responsibility you're carrying, the more alert you need to be](../tools/gun-test.md#who-needs-to-pass-most). If you were facilitating when it happened, assisting before you lead again is a way to keep building the record without carrying the whole room on it.
 
 ### Go Back Before the Avoidance Hardens
 
