@@ -534,7 +534,7 @@ The Promise tells people what's protected. Pre-framing the risk tells them what 
 
 Three things to add to your opening, in your own words:
 
-> **Mistakes happen here.** "Many of you are new to this, and even experienced people occasionally make mistakes. [If it's true for your container:] That's part of why our facilitators don't play with participants. Crossings are usually on the lighter side, but they can come at any intensity. We work hard to lower the odds, and we can't make them zero. When one happens, we orient toward repair."
+> **Mistakes happen here.** "[If your room is mostly beginners:] Many of you are new to this. When a boundary gets crossed here, it's usually an accident: someone new and a little clumsy, who wasn't keeping track of something they needed to. More rarely, it's someone experienced, finding out they weren't keeping track of something important and that they had something new to learn. [If it's true for your container:] That's part of why our facilitators don't play with participants. Most crossings are on the lighter side, but they can come at any intensity. We work hard to lower the odds, and we can't make them zero. When one happens, we orient toward repair."
 >
 > **If you came with a partner, talk to each other first.** "I'm happy to talk this through with anyone, and especially if you came here with a partner. If either of you isn't okay with a boundary being crossed, at any level, under any circumstance, come talk to me before you play with anyone who isn't your partner. We can lower the risk, not erase it. So decide together whether you're actually available to play with others here. If you are, you're accepting that risk along with the play."
 >
