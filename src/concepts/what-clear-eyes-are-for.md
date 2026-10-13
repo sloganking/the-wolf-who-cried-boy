@@ -67,7 +67,7 @@ And here's the flip the truth-teller doesn't see: they think they're giving — 
 
 [Goodness without wisdom always accomplishes evil.](./why-rescuers-are-dangerous.md) Truth without trust accomplishes nothing.
 
-**Authority doesn't come from truth. It comes from trust.** And trust is earned by being a respectful, value-adding member of a community — someone who follows their customs even after seeing through them. That's real authority: the kind people *give* you because they've experienced you as someone who cares about what they care about.
+**Authority doesn't come from truth. It comes from trust.** And trust is earned by being a respectful member of a community who adds value by *their* definition of value, not yours — someone who follows their customs even after seeing through them. That's real authority: the kind people *give* you because they've experienced you as someone who cares about what they care about.
 
 ---
 
@@ -123,7 +123,7 @@ Not everyone wants to wake up. Not everyone needs to. And the people who are hap
 > **"Do these smiles seem fake? It doesn't matter where they come from. The joy is real."**  
 > — _The Greatest Showman_
 
-You might take a pleasure in seeing through everyone's stories — in being the one who's right while everyone else is blind. But if that sight comes at the cost of dismissing their customs, correcting their beliefs, and refusing to meet them where they are, it comes with pain — the pain of isolation, of being the person nobody wants around, of having truth and no one to share it with. That's not wisdom. That's loneliness with a vocabulary.
+You might take pleasure in seeing through everyone's stories — in being the one who's right while everyone else is blind. But if that sight comes at the cost of dismissing their customs, correcting their beliefs, and refusing to meet them where they are, it comes with pain — the pain of isolation, of being the person nobody wants around, of having truth and no one to share it with. That's not wisdom. That's loneliness with a vocabulary.
 
 Wisdom isn't seeing through everything. Wisdom is knowing when seeing through it matters — and when it doesn't.
 
