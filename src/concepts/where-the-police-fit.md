@@ -6,7 +6,7 @@ Everything a container runs on is one kind of power: social authority. The agree
 
 [The walkthrough for threats of violence](./handling-threats-of-violence.md) ends its removal step with "you cannot be here." Everything after that assumes the person walks out the door. Sometimes they don't — and what happens then runs on a different kind of power, one that doesn't need anyone's agreement: force. Somebody in every room holds the monopoly on force. If no one on your team will use it or call the police, the one person willing to throw a punch holds it alone, and from then on they run the container, not you.
 
-A container doesn't hold that monopoly by having the strongest person in the room. It holds it by being willing to call the police. The phone beats the fist. And a threat of violence is a question aimed at whoever is holding the space: *are you going to do anything about this?* If the answer is no, the person who made the threat holds the keys to the container.
+A container doesn't hold that monopoly by having the strongest person in the room. It holds it by being willing to call the police. The phone beats the fist. And a threat of violence is a question aimed at whoever is holding the space: *are you going to do anything about this?* If the answer is no, the person who made the threat holds the keys to the container. You no longer decide whether the people in it are safe. They do.
 
 ## When Someone Won't Leave
 
