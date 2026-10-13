@@ -220,6 +220,8 @@ Readers remember the sentence that hit them, not the chapter it was in. Every li
 
 **Sight without wisdom is just a sharper weapon.** → [What Clear Eyes Are For](./concepts/what-clear-eyes-are-for.md)
 
+**The biggest factor in whether someone accepts what you're offering isn't the offer. It's who's making it.** → [What Clear Eyes Are For](./concepts/what-clear-eyes-are-for.md)
+
 **Authority doesn't come from truth. It comes from trust.** → [What Clear Eyes Are For](./concepts/what-clear-eyes-are-for.md)
 
 **The difference between a coach and an Inquisitor isn't what they see. It's consent.** → [What Clear Eyes Are For](./concepts/what-clear-eyes-are-for.md)
