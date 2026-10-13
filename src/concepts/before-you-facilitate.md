@@ -328,6 +328,26 @@ You armor the engines instead of the fuselage.
 
 **Whatever you choose, check your motivation: are you playing to win, or playing to lose less?**
 
+### The Two-Way Check
+
+Option 3 runs on a check before a staff member plays with a participant. That check has two sides, and the facilitator runs both.
+
+**The participant's side** is the [friction check](./before-play.md#the-friction-check-interpretive-compatibility): what's their story about staff making mistakes? If an assistant crossed a line by accident, what would they assume, and what would they do? Someone who would look for repair is ready. "They used their position to take advantage" is sometimes the right conclusion. Someone who couldn't reach any other conclusion isn't ready for that pairing yet. That isn't a verdict on them. It's information about the pairing.
+
+**The staff member's side** is one question. Ask it privately, or in front of the participant when hearing the answer would help them trust it:
+
+> "When was the last time you made a mistake? What happened, and what have you built since so it doesn't happen again?"
+
+Three things in the answer tell you what you need:
+
+- **Recency.** "Yesterday, and it was a big one" is a clear answer: no play today. The same mistake a year ago, with a clean run since, is a different answer.
+- **Size.** A missed check-in and a crossed hard limit don't weigh the same.
+- **The mechanism.** This is the one that matters most. "I'll be more careful next time" isn't a mechanism. It's hope with a promise attached. Fear after a mistake does make some people more alert for a while, but fear fades, and it only guards you while it's awake. A system fires even on autopilot: "I no longer escalate to genital touch without the pinky promise, every time. I've watched my behavior change since, and it's solved the problem." That one ritual [controls the front and the back](./types-of-mistakes.md#how-to-actually-prevent-autopilot-mistakes): it's a conscious check every time it's done, and doing it every time is what trains the autopilot to run it when attention slips. Already built, and already tested.
+
+Then you decide, with everything else you know: how far you trust their account, and how far you trust them. A recent mistake with nothing built behind it is "not today." An older one with a system that has held up across several events is a yes you can stand behind.
+
+The check protects the assistant as much as the participant. Staff carry [top vulnerability](./all-power-is-mutual.md#top-and-bottom-vulnerability): the same mistake lands harder when they make it. So "not today" isn't a punishment. It's the facilitator standing between their assistant and the night that could cost them far more.
+
 ### Choosing From Clarity, Not Fear
 
 A blanket ban on staff playing with participants isn't wrong. If you're coming from Option 1 — no systems, no checks — and something went badly, stepping into a ban is a [Creator](./drama-triangle.md#the-empowerment-shifts) response. You saw a problem and you acted. That's better than doing nothing. But it has tradeoffs you may not have seen yet — it doesn't just remove pain, it may add a different kind of pain, and it removes good experiences along with the bad.
