@@ -94,7 +94,7 @@ No human being perfectly fits an archetype. People are complex, contradictory, a
                     (thinking)             (not thinking)
                  ┌───────────────────┬───────────────────┐
                  │                   │                   │
-   INTENTIONAL   │     MALICIOUS     │   (impossible)    │
+   INTENTIONAL   │     MALICIOUS     │  (trained ahead)  │
    (on purpose)  │                   │                   │
                  │  → Accountability │                   │
                  │  → Consequences   │                   │
@@ -120,6 +120,8 @@ Ask two questions:
 The answers point you to the quadrant, and the quadrant tells you the response.
 
 **Note on Fawning:** Fawning doesn't fit cleanly in this matrix—it's a trauma response that creates two victims. See [Fawning](./fawning.md).
+
+**Note on the top-right corner:** It isn't quite empty. You can train your autopilot ahead of time, so a decision made while thinking gets carried out later without thinking. Judge it by that earlier decision. Trained toward harm, it's malicious, just delivered later. Conditioned by someone else, as trauma does, it was never your intent at all; that's a harmful belief or an accident. Trained toward safety, it's the best protection this chapter has to offer, coming up in [How to Actually Prevent Autopilot Mistakes](#how-to-actually-prevent-autopilot-mistakes).
 
 ---
 

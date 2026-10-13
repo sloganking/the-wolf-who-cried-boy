@@ -208,6 +208,8 @@ Readers remember the sentence that hit them, not the chapter it was in. Every li
 
 **What you tolerate persists. And what you fawn to, you feed.** → [Handling Threats of Violence](./concepts/handling-threats-of-violence.md#what-you-tolerate-persists)
 
+**The phone beats the fist.** A container doesn't hold the monopoly on force by having the strongest person in the room. → [Where the Police Fit](./concepts/where-the-police-fit.md)
+
 ---
 
 ## The Point of Sight

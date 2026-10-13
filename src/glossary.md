@@ -110,6 +110,8 @@ This page exists because the linguistic gap creates the perceptual gap — it's 
 
 **Mob Judgment** — Group condemning without verification; acting on vibes instead of facts. → [Appropriate Response](./concepts/appropriate-response.md)
 
+**Monopoly on Force** — Whoever is willing to use force, or call in those who will, ends up running the room. A container holds it not by having the strongest person present but by being willing to call the police: the phone beats the fist. A threat of violence asks whoever holds the space whether they'll do anything about it. → [Where the Police Fit](./concepts/where-the-police-fit.md)
+
 **Motive Attribution** — Signal of narrative lock: they tell you WHY you did what you did, skipping the question entirely. Your internal experience no longer matters. → [Invisible Patterns](./concepts/invisible-patterns.md)
 
 ## N
