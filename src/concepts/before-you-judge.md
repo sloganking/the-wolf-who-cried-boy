@@ -133,7 +133,7 @@ But most people who get called "predator" aren't that. Here's what's actually ha
 
 The word "predator" implies the last category. But the reality is almost always the first two. Most predators aren't selfish. They're righteous. And that's what makes them so hard to see — including when you're being one.
 
-### 90% of Predators Are Just Like You
+### Most Predators Are Just Like You
 
 Here's the uncomfortable extension: even when someone IS causing real harm — high-severity harm, the kind that looks unmistakably predatory — they're usually not a calculating monster.
 
@@ -143,7 +143,7 @@ The person making death threats? Probably terrified, convinced they're defending
 The person destroying someone's reputation? Probably certain they're warning the community about a real threat.
 The person launching the witch hunt? They ARE the predator in that moment — causing significant harm — while feeling like a hero.
 
-**90% of "predators" — meaning people causing significant harm — are just like you.** Someone who hasn't fully checked their stories. Someone whose fear is running the show. Someone who could wake up tomorrow and be horrified at what they did.
+**Most "predators" — meaning people causing significant harm — are just like you.** Someone who hasn't fully checked their stories. Someone whose fear is running the show. Someone who could wake up tomorrow and be horrified at what they did.
 
 This doesn't excuse the harm. It explains where it comes from. And it means: if you're scared, certain, and ready to act — you might be about to become what you're afraid of.
 
