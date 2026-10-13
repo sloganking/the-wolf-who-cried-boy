@@ -408,9 +408,7 @@ You didn't know. You crossed a boundary you weren't aware of. You hurt someone w
 
 **How to think about it:**
 
-This is the most common kind of mistake. It doesn't make you a predator. It makes you human.
-
-The question isn't "am I a bad person?" It's:
+This is the most common kind of mistake, and making it makes you human. So the question isn't "am I a bad person?" It's:
 
 - What didn't I know that I should have known?
 - What signs did I miss?
