@@ -20,7 +20,7 @@ People do this all the time, in every field. It happens in sacred sexuality temp
 
 When you burn popcorn, people understand. "Oh, you weren't paying attention. Obviously a mistake."
 
-When you cross a boundary for a moment at a play party before catching yourself? "Oh my god, did you do that on purpose? Are you a predator?" Our culture has so much trauma and sensitivity around sexuality that the same kind of mistake—a moment of unconsciousness—gets treated as intentional malice.
+When you cross a boundary for a moment at a play party before catching yourself? "Oh my god, did you do that on purpose? Are you a predator?" Our culture has so much fear around sexuality and intent that the same kind of mistake—a moment of unconsciousness—gets treated as intentional malice.
 
 ---
 
@@ -274,7 +274,7 @@ Looking back, I was probably failing all three causes of unconscious mistakes:
 
 2. **Hunger:** I hadn't had sex for a while before that retreat. My animal body was unfulfilled.
 
-3. **Autopilot:** I had no trained safety checks. No muscle memory for pre-escalation pauses. No ingrained habit of asking before touching. My autopilot had no safety mechanisms built in.
+3. **Autopilot:** I generally asked before touching, but not every time, and not unconditionally. There was flexibility. No check was trained so deep that it fired no matter what, so when my conscious mind slipped, there was nothing on autopilot to catch me.
 
 I don't know which cause was primary. Maybe it was all three working together. What I know is that my conscious mind wasn't driving—and I had nothing in place to catch me when it slipped.
 
