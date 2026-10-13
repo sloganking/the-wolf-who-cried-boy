@@ -66,6 +66,18 @@ Most people's attention is tuned entirely to the downside. They're scanning for 
 
 ---
 
+## Your Enemy Comes With Friends
+
+There's a cost to making an enemy that's easy to miss in the moment.
+
+When you turn someone into your enemy, you don't only lose them. You put everyone who loves them in a bind: their friends, their partners, the people who trust them. Some of those people are people you like, love and trust too. A few may take your side. Some will take theirs, because loyalty to someone you love often runs deeper than the facts of one night. And some will quietly pull back from you. Not because they agree with the fight, but because staying close to you now costs them something with someone they care about.
+
+With a stranger you'll never see again, that cost is small. In intimate communities it isn't. Retreats, play parties and temple nights are small, close-knit worlds where the same faces show up month after month. The next event, you walk in, and the person you made your enemy is across the room. So are three of their friends, two of whom you love. Now the fight is in every room they're in.
+
+This holds even when they really did make a mistake. Their mistake doesn't make their friends stop loving them. So a response sized to punish them is sized to cost you their whole circle too. That's one more reason to [match your response to what actually happened](./appropriate-response.md), and one more reason the ally path is worth trying first. When someone you could have made an enemy becomes an ally instead, their friends can become yours too.
+
+---
+
 ## The Strategic Insight
 
 If the problem were that these people are _evil_—genuinely malicious, consciously choosing to cause harm for its own sake—then communication would be pointless. You'd have no choice but to fight or flee.
