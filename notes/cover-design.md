@@ -22,7 +22,7 @@
 ## Back Cover
 - Subtitle (if not on front)
 - 2-3 strongest one-liner quotes from the book
-- Coaching link: sloganking.github.io/coaching
+- Coaching link: slkingco.com
 - Keep it sparse
 
 ## Design Principles

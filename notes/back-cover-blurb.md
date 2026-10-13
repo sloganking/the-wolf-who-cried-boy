@@ -20,7 +20,7 @@ I've been every person in these pages: the one accused of something he didn't do
 
 Logan King sees the invisible beliefs running people's lives — the ones they can't see themselves — and helps them put them down. He spent most of his own life run by beliefs he couldn't see, and found the way out. He doesn't leave people in it.
 
-*sloganking.github.io/coaching*
+*slkingco.com*
 
 ### Why no credentials
 

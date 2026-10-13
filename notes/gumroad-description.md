@@ -36,7 +36,7 @@ You've wished, at least once, that someone in the room could see clearly when it
 - The first-edition ebook, free, the moment it ships
 - Frameworks for the next time a room turns: how serious it actually is, mistake or malice, and the question that stops a witch hunt before it starts
 
-— Logan King, Seer. I find the invisible patterns running people's lives. If this book names something in you, that's the work I do one-on-one → sloganking.github.io/coaching
+— Logan King, Seer. I find the invisible patterns running people's lives. If this book names something in you, that's the work I do one-on-one → slkingco.com
 
 ---
 
@@ -72,7 +72,7 @@ You've probably wished, at least once, that someone in the room could see clearl
 - The first-edition ebook, free, the moment it ships
 - Frameworks for the next time a room turns: how serious it actually is, mistake or malice, and the question that stops a witch hunt before it starts
 
-— Logan King, Seer. I find the invisible patterns running people's lives. If this book names something in you, that's the work I do one-on-one → sloganking.github.io/coaching
+— Logan King, Seer. I find the invisible patterns running people's lives. If this book names something in you, that's the work I do one-on-one → slkingco.com
 
 ---
 
