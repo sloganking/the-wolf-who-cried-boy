@@ -526,6 +526,24 @@ This should be communicated at the very beginning of your container — not afte
 
 You can adapt this language to your style. The key is: **say it early, say it clearly, and put it in writing if possible.**
 
+### Declaw It in Advance
+
+Telling someone no when they're furious always carries some risk, whether they're over-responding to a mistake or threatening violence. You can't take all of that risk out. You can take a lot of it out, and the cheapest time to do it is before anyone is angry.
+
+The Promise tells people what's protected. Pre-framing the risk tells them what can still happen, and what to do when it does. Someone who has already heard, calmly, that mistakes happen and exactly what to do about one walks into that moment holding a plan instead of only a fear. That's [pre-framing](#pre-framing-the-flip-side) doing its work before anything goes wrong.
+
+Three things to add to your opening, in your own words:
+
+> **Mistakes happen here.** "Many of you are new to this, and even experienced people occasionally make mistakes. [If it's true for your container:] That's part of why our facilitators don't play with participants. Crossings are usually on the lighter side, but they can come at any intensity. We work hard to lower the odds, and we can't make them zero. When one happens, we orient toward repair."
+>
+> **If you came with a partner, talk to each other first.** "I'm happy to talk this through with anyone, and especially if you came here with a partner. If either of you isn't okay with a boundary being crossed, at any level, under any circumstance, come talk to me before you play. We can lower the risk, not erase it. So decide together whether you're actually available to play with others here. If you are, you're accepting that risk along with the play."
+>
+> **If a boundary gets crossed, here's what to do.** "Stop the play. Get everyone to a safe place, away from each other if that's what's needed. Then come find a staff member and tell us what happened. You don't need to know how to handle it. That's our job, and we'll figure it out with you."
+
+The partner line matters because the over-response often doesn't come from the person whose boundary was crossed. It comes from someone who loves them and wasn't there. A couple who has already decided, out loud and together, what they're available for has far less to discover in the middle of the night. (For the participant's side of the same conversation, see [Playing With Partnered People](./before-play.md#playing-with-partnered-people).)
+
+The protocol matters because without it, a frightened person has to invent their own procedure in the moment. Some of the procedures people invent are the ones this book keeps describing: going around the staff, at night, [writing someone's name where the whole room will see it](#what-facilitator-fawning-looks-like) before anyone has asked what happened. A protocol given in advance gives the fear somewhere to go that isn't the room.
+
 ## When the Facilitator Is the Target
 
 Everything above addresses what happens when participants conflict with each other. But the promise matters *most* in the scenario nobody plans for: when someone accuses the facilitator of being the problem.
