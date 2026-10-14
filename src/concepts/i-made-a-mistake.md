@@ -147,6 +147,28 @@ If what you're feeling has a direction — "I need to make this right, I need to
 
 Recognize that mistakes are human. That intent matters. That [severity](./severity.md) exists on a spectrum. And that the standard you apply to others is the standard that will eventually apply to you. If you want to survive your own mistakes, start by being fair to other people's.
 
+#### If You Never Heal It
+
+There's a place unhealed sinsickness can take you, and it's worth seeing before you get there, because communities often give the people on this path *more* authority, not less.
+
+Say you've genuinely done harmful things. Maybe you were a [blurry predator](./why-rescuers-are-dangerous.md#the-blurry-predator-where-most-harm-lives), justifying what you took because the situation made it feel permissible. Maybe you were starving and did things you wouldn't have done from a place of abundance. From there you can go one of two directions, and which one depends on whether you heal the shame.
+
+**The truly recovered** see through it. They do the work. They face what they did, feel the weight of it, and come out the other side with self-love and understanding. Their direct experience gives them something rare: genuine empathy for others who make mistakes. They've been on both sides. They know how it happens. They become a source of wisdom and leadership, not despite their history, but because of it.
+
+**The false recovered** never heal the shame. They stop the behavior, maybe, but the sinsickness stays. They still hate themselves for what they did. They look at their past with disgust that never softens. And when someone near them makes a mistake that resembles anything they once did, the self-hatred fires outward. They don't see a person who made a momentary error. They see someone being selfish, *"like I was."* They know what selfishness looks like from the inside, so they skip right past "unconscious mistake" and assume malice, because malice is what *they* were operating from when they did it. They project their own history onto someone else's innocent mistake, and they attack harder than someone without that history would, because relating to the mistake triggers their own self-disgust. They're not just seeing a person who made a mistake. They're seeing a mirror of the version of themselves they despise.
+
+What they never did is understand their own past with compassion. Maybe they were starving, so hungry for something they needed that they started doing harmful things to get it. That doesn't make someone fundamentally broken. It makes them a human being in desperation. But the false recovered never saw it that way. They looked at their past and saw a monster. And because they never understood *why* they did what they did, they can't extend that understanding to anyone else. Every mistake they witness gets the same interpretation their own history gets: *this person is sick. This person is dangerous. Someone needs to stop them.*
+
+The person with the most capacity for empathy, because they've been there, becomes the least empathetic when sinsickness is running. They think their shame is what changed them, so shame must be the medicine for everyone else. They think punishment is what justice looks like, because it's how they treat themselves when they remember what they did. They don't see that they've gone from blurry predator to [righteous predator](./why-rescuers-are-dangerous.md#rescuers-with-harmful-beliefs-the-righteous-predator): from taking what they justified to attacking anyone who reminds them of what they used to take.
+
+And they may do *more* harm as a righteous predator than they ever did before. A blurry predator's scope is limited: one person justifying what they take. A sinsick righteous predator fueled by self-hatred is the most easily triggered, most intensely reactive version of the pattern. They mobilize others. They lead witch hunts. They destroy reputations. Someone who genuinely tried to change ends up doing more damage than they ever did in the blur. Not because they're evil. Because their shame became a weapon they can't see themselves holding.
+
+Communities often trust these people precisely because of their history. "They've been through it. They understand. They know what to look for." And the truly recovered version *does* understand. But the sinsick version isn't seeing clearly. They're finding their own past in other people's innocent mistakes, and attacking with a fury fueled by self-hatred they've never resolved.
+
+If you're carrying shame you've never resolved, this is the direction to watch for. The way out is the one this section already gave you: let guilt point you at what to do differently, and stop letting shame tell you what you are.
+
+And when you're on the other side of it, facing someone who hasn't healed, one practical rule follows: **it's foolish to show your shadow to those who are afraid of their own.** To someone at war with their own past, yours isn't information. It's a mirror, and they attack the mirror. What they're afraid of may not even be a real shadow. People can be sinsick about desire, sexuality or anger that was never a sin. Show your shadow where someone has made peace with theirs, and it lands as honesty.
+
 ### Even When Others Call You a Predator
 
 Maybe people are calling you a bad person. Maybe they're saying you should be removed from community and never come back. Maybe they're labeling you a predator.
