@@ -64,6 +64,7 @@
 - [I Made a Mistake](./concepts/i-made-a-mistake.md)
 - [Repair](./concepts/repair.md)
 - [When You've Been Wronged](./concepts/when-youve-been-wronged.md)
+- [When It's Actually a Wolf](./concepts/when-its-actually-a-wolf.md)
 
 ---
 
