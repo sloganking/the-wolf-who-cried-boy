@@ -2124,3 +2124,27 @@ A version in the author's voice, to tune:
 **Checks before it goes in:** (a) the Avatar beats are from memory (Iknimaya rite, cast out after the truth comes out, Toruk Makto, *"only five times since the time of the First Songs"*): check against the film before publishing; (b) the anchor `#take-off-your-shoes-keep-your-name` is what mdBook generates from that heading, so confirm it after the build; (c) one Jake Sully example only. The book already uses Avatar once (Jake's *"Oh shut up and fly straight"* in When You've Been Wronged), so the author may prefer this as a callback rather than a second Avatar scene.
 
 **Status: OPEN, drafted here, nothing in `src/`.** The manuscript is the author's to commit.
+
+### ZZZZ. "Taking responsibility for someone's happiness disempowers them, and trains them to hold you responsible": the self-fulfilling loop under punishment culture (added 2026-10-14, author-originated, 1:05pm PHX; desk read)
+
+**The source, read in full from the captions** (Joe Hudson, Art of Accomplishment, *"Why It's Hard For You To Ask For Help Or Say What You Want,"* [1:51](https://youtu.be/w0CQ3_zbfY8?t=111)):
+
+> *"To actually take responsibility for somebody else's happiness is to disempower them. It's to say, 'You're not capable of taking care of your own happiness, so I'll do it. I'll take care of your happiness. You're not capable of not flying off the handle and acting like an imbecile, so I'm going to do everything just right so that you don't have to fly off the handle.' It's a deeply disempowering thing. And the weird part about it is the more you try to take care of somebody like that, the more that they will think that you're responsible for it, and they will hold you responsible for it. So, there's this weird self-fulfilling loop..."*
+
+(Context in the video: it's the first of five "self-reliance" patterns, taught in childhood when a kid is made responsible for a parent's state. His two tools for it: apologize for disempowering them, *"I'm really sorry for walking on eggshells around you and being scared of your anger"*; and when someone blames you for their state, just say *"Ouch."*)
+
+**The author's read:** it explains two of his own experiences of pleasing an angry person: the father story the book already tells, and appeasing an angry person instead of showing him what he was doing. And he thinks it's an argument against punishment culture.
+
+**Desk read: the book already has most of the mechanism; the loop is new, and it is the punishment-culture argument.**
+- **Already in the book:** `own-your-part.md` says carrying someone else's part *"keeps them in pain"* and confirms their story; "When Their Ears Are Closed" says appeasing *"reinforces their story"* and *"your resistance is a gift"*; `walking-your-talk.md` has pleasing vs serving.
+- **New, and worth a quote:** the loop's direction. Appeasing doesn't just fail to help; it *teaches* the angry person that their state is your job, so next time they hold you responsible harder. That turns "don't fawn" from a personal-dignity point into a cause of escalation.
+- **Why it is an argument against punishment culture:** punishment-as-repair asks the person who erred to manage the accuser's feelings until the accuser feels better. That is Hudson's pattern at community scale. It tells the accuser *you can't regulate your own anger, so we'll make someone pay until you can*, and every round teaches the room that the angriest person's state is someone else's job. The existing loop in `punishment-culture.md` is about silence (nobody reports); this is the second loop, about escalation (each appeasement raises the next demand).
+
+**Proposed placement (the author's call):**
+1. **The quote, in `own-your-part.md`**, right after the table of "They Say / You Can Respond" or in "What Blame Actually Does," with the link and timestamp. One paragraph after it naming the loop.
+2. **One sentence in `punishment-culture.md` → "The Loop"**, naming the second loop and pointing to own-your-part: *"There's a second loop running beside the silence. Every time a community makes the person who erred carry the angriest person's feelings, it teaches that person that their feelings are someone else's job, and the next demand comes bigger."*
+3. **Optional:** Hudson's *"Ouch"* as a one-line tool in "When You've Been Wronged → In the Moment," before the three sentences. It's the smallest honest response to *"you made me feel this"*: it names the hurt without accepting the job.
+
+**Keep pattern level:** the author's own examples stay in the private repo; the book's existing father story can carry the callback if he wants one.
+
+**Status: OPEN, recorded, nothing in `src/`.**
