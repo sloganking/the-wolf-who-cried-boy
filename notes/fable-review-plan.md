@@ -2148,3 +2148,19 @@ A version in the author's voice, to tune:
 **Keep pattern level:** the author's own examples stay in the private repo; the book's existing father story can carry the callback if he wants one.
 
 **Status: OPEN, recorded, nothing in `src/`.**
+
+### AAAAA. "United Breaks Guitars": power debt collected in public, and the ally a company declined to make (added 2026-10-17, author-originated, 12:02pm PHX; desk read)
+
+**The source:** a slide Tony Robbins showed live on 2026-10-17, titled *"What Was the Impact?"*: *"United Airlines stock lost 10% of its market value in 10 days... $189 MILLION!"* It refers to Dave Carroll, the musician whose guitar United's baggage handling broke in 2008. United wouldn't compensate him, so in 2009 he released the song *"United Breaks Guitars,"* which went viral. The author's words: *"The #1 on iTunes song about a guy complaining United broke his guitar and wouldn't refund it... Probably wanna write about this on power debt. And threat to ally."*
+
+⚠️ **Check before printing:** the $189M figure (the slide's) is widely repeated, but whether the song *caused* the stock drop is disputed. If it goes in, attribute the number ("Tony Robbins cites...") or use what is undisputed: a refused claim became a song millions heard, attached to the airline's name.
+
+**Desk read: one story, both chapters, from opposite sides.**
+- **Power debt (`all-power-is-mutual.md` → Power Debt), the wronged side.** It's the chapter's mechanism in a story everyone already knows: *"The debt is the gap between what happened and what's recognized."* Every refusal widened the gap, and the gap is what Carroll collected. It's a lighter, modern partner to the prison example, and it shows the size of the debt is set by the refusal, not the original harm: a broken guitar, and the payout was public at the company's scale. It's also a clean example of *collecting wisely*. A funny song aimed at the pattern (how the airline treats customers), with no cruelty to any one employee, is the opposite of the righteous predator the section warns about.
+- **From Threat to Ally (`from-threat-to-ally.md`, and FFFF's economics argument), the harmer's side.** United held the cheap move the whole time: own it, pay for the guitar, and turn an angry customer into a story about good service. Refusing turned a small claim into a permanent public liability. It's FFFF's *"the harm gives the harmer top vulnerability too"* with a price tag: the party with the power to repair is the party with the most to lose by refusing. It's also the cleanest non-family, non-facilitator worked example the chapter has been missing (FFFF wants a second example that closes the "that's your father" exit). This is the corporate one.
+
+**Proposed placement (the author's call):**
+1. **Power Debt:** one short paragraph after the prison example: the song, the refusal, and one line on collecting at the pattern rather than the person.
+2. **From Threat to Ally:** a few lines in the economics argument, written from United's side: the cost of the repair they refused, against the cost of the enemy they made.
+
+**Status: OPEN, recorded, nothing in `src/`.**
