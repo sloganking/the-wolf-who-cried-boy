@@ -2233,3 +2233,26 @@ A version in the author's voice, to tune:
 - **Practical test for which one you're looking at (yourself included):** the righteous one stops when the facts change; the masquerade looks for new reasons, because the reasons were never the point.
 
 **Status: OPEN, recorded, nothing in `src/`.**
+
+### EEEEE. The cost of doing nothing: a place in the book where the reader adds up what not handling it costs (added 2026-10-17, author-originated, 3:48pm PHX; desk read)
+
+**His words:** *"I want a place in my book where we calculate how much not handling some of the issues can cost you. Financially or otherwise. That may make the case for why some people want to do the strategies, even if their attention is normally on fear causing them to not do the right thing."*
+
+**The format source:** three "Cost Impact" slides from a Tony Robbins business seminar (Oct 17, 2026), each a two-column table: the loss on the left, its size on the right, a "lost goodwill" row tracked over time (one example: $7M in revenue from a client, then $2M, then $1M), human ripple rows with no dollar figure (staff laid off), and a highlighted grand total that adds what was lost to what it now costs to recover (*"$700,000 in actual loss PLUS $7M to recover losses"*).
+
+**Desk read: yes, and it's the missing arithmetic under an argument the book already makes.** *It's All Risky* (`walking-your-talk.md`) says *"You were never choosing between risk and safety. You were choosing which bill."* and *Think of It as Insurance* (`before-you-facilitate.md`) says a rare night mishandled can cost years or a career. Both say there is a bill. Neither hands the reader a way to see the size of it. The table does. The mechanism is the book's own: fear narrows attention to the cost of acting (the confrontation, the angry participant, the bad review) and filters out the cost of not acting, because that cost arrives later and spread out. Writing both columns down is an attention move, not a guilt move: it puts the invisible bill on the page next to the visible one.
+
+**What the table could hold (rows the reader fills with their own numbers):**
+- **Direct:** refunds, a lost ticket, staff hours spent on fallout, legal exposure (a threat that went unaddressed can be a crime in the room; `where-the-police-fit.md`).
+- **Lost goodwill over time:** regulars who don't come back, the word-of-mouth they would have brought, a story that keeps reaching new people months later. Track it across time the way Tony's slide does, because that's where the real money hides.
+- **Ripple, no dollar figure:** the clear-eyed people who leave first (`punishment-culture.md`, *Who Stays and Who Leaves*), staff who stop telling the truth, the risk carried into the next container.
+- **Grand total line:** what it cost plus what it will cost to recover (the correction, the rebuilt trust, the systems that should have existed).
+- **Then the other column:** what the fix would have cost (a conflict specialist, a training afternoon, the state check, one hard conversation).
+
+**A worked example, clearly labeled illustrative so nobody mistakes it for a statistic** (the book already promises "signposts, not statistics"): a 30-person retreat at $2,000 a ticket mishandles one incident. Two people refunded: $4,000. Five regulars don't return to the next three events: 5 × $2,000 × 3 = $30,000. The one new person each of them would have brought this year: 5 × $2,000 = $10,000. Forty staff hours on fallout at $50/hour: $2,000. First-year total: **$46,000**, before anything with no price on it. Against that, a trained conflict specialist and an afternoon of team training might cost a few thousand dollars. The reader swaps in their own numbers; the shape of the comparison is the point.
+
+**The personal-scale version (participants, not just organizers):** the same table works for one person. What has not speaking up, not repairing, or not leaving cost you: events skipped, months carrying it, a relationship that went quiet instead of getting fixed, the version of you that stayed small. This is the fawning chapters' case (*the hiding was never protection, it was rejection, delayed*) with a ledger attached.
+
+**Proposed placement (the author's call):** a short tool page, *The Cost of Doing Nothing* (`src/tools/`), with the blank table, the illustrative example, and the personal-scale version. Link it from *It's All Risky* (as "here's how to read both bills") and from *Think of It as Insurance*. Possibly a one-line pointer in the healing-fawning chapter for the personal version. The author's own worked case stays in his private notes, not in the book.
+
+**Status: OPEN, recorded, nothing in `src/`.**
