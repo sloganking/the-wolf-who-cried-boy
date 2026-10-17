@@ -2164,3 +2164,17 @@ A version in the author's voice, to tune:
 2. **From Threat to Ally:** a few lines in the economics argument, written from United's side: the cost of the repair they refused, against the cost of the enemy they made.
 
 **Status: OPEN, recorded, nothing in `src/`.**
+
+### BBBBB. Test a rule by asking people to say it back: if three listeners give three versions, it isn't explicit yet (added 2026-10-17, author-originated, 12:29pm PHX; desk read)
+
+**His words:** *"Possibly for container design. Also ask multiple people what they thought you meant when explaining rules helps you know if you're explicit enough. Example where staff disagreed about what their own rules meant at a party I went to."*
+
+**Desk read: yes, it's good, and it's the missing second half of an idea already in this file.** The 2026-08-07 ledger row ("Three facilitators, three definitions of the same rule") found the failure: a container's rule existed in one version per head, including the heads that wrote it. Its prescription was to *define* the rules that gate behavior at the opening, out loud. This adds the *test* that tells you whether the definition worked. **After explaining a rule, ask two or three people, staff first, to say back in their own words what it allows and what it doesn't. If the answers differ, the rule isn't explicit yet, and the fix is the wording, not the listeners.**
+- **Why it carries weight:** the person who writes a rule is the worst judge of whether it's clear, because they fill the gaps from their own head without noticing. Asking listeners is the only way to see the gaps.
+- **It's a known practice elsewhere:** medicine calls it the teach-back method (a clinician asks the patient to explain the instructions back, to check understanding rather than assume it). Naming that precedent gives the book outside support in one line.
+- **It protects the person who might "break" the rule:** if the rule only exists in each person's head, someone can break it while following their own copy perfectly. Teach-back catches that before anyone is accused, which fits the book's whole argument against punishment for honest mistakes.
+- **Staff first:** the Aug 7 case shows the staff themselves disagreed. Run the check among facilitators before the opening, then again with a couple of participants after it.
+
+**Proposed placement (the author's call):** the environment-design section (item SS, *"How you create bad behavior in good people"*), next to the define-it-at-the-opening prescription from the Aug 7 row, as a short "how to know it worked" step. The example stays pattern-level and de-named, as that row already is.
+
+**Status: OPEN, recorded, nothing in `src/`.**
