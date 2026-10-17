@@ -2185,3 +2185,24 @@ A version in the author's voice, to tune:
 - **Desk read: yes, three of the seven are exactly this item.** The three-definitions case is #1 (the rule wasn't clear) plus #3 (each person assumed their version was the rule). The say-it-back test is #4, verifying instead of assuming. It shows the failure isn't special to sex-positive containers: it's how any team breaks when instructions pass from person to person, so the book can frame the test as ordinary good operations rather than something only these spaces need. If he quotes it, one line attributed to Tony is enough.
 
 **Status: OPEN, recorded, nothing in `src/`.**
+
+### CCCCC. Tony's "7 Reasons the Value Chain Breaks" as a book-wide lens: where every container failure in the book broke (added 2026-10-17, author-originated, 12:50pm PHX; desk read)
+
+**The list (Tony Robbins business seminar slide, 2026-10-17):** 1. Lack of Clarity · 2. Gave Up Responsibility · 3. Made Assumptions · 4. Failed to Verify · 5. Attitude, Mindset or Belief · 6. Delegated Instead of Leveraged · 7. Failed to Get Help / Not Coachable.
+
+**His question:** is it a bigger tool for the whole book, a lens everything can be looked at through, and does it hold for containers and not only companies? He mapped the central incident onto it himself (in the private repo, names stay there).
+
+**Desk read: yes as a diagnostic lens, no as the book's spine.**
+- **It fits containers because a container IS a value chain:** organizer → facilitators → staff → participants → aftercare, with safety passed hand to hand. Every failure the book describes breaks at a link on this list:
+  - **#1 Clarity:** rules that exist in one version per head (BBBBB, the Aug 7 three-definitions row).
+  - **#3 Assumptions and #4 Verify:** the accuser's story treated as fact; the narrative lock; the book's own protect → verify → respond sequence (item RR) is the cure for exactly these two.
+  - **#2 Responsibility:** the under-responding container the central incident already shows (per the disclosure canon, nothing beyond it).
+  - **#5 Mindset or Belief:** the filters, sinsickness, the righteous predator's certainty.
+  - **#6 Delegated instead of leveraged:** handing a crisis to whoever is nearest, or to the room, instead of to a trained person with backup (the conflict specialist, PPPP; the outside panel, LLLL).
+  - **#7 Get help:** the law-enforcement section (X), the outside panel, and accompaniment (NN).
+- **Where it falls short (why it isn't the spine):** it's a neutral operations list. It names *where* the chain broke, not the moral heat that breaks it: the punishment drive, the mob, vengeance that feels righteous. And it can't tell a real wolf from a mistaken one. The book's own concepts carry that, and the list can't replace them.
+- **Best use:** a short **post-incident review tool** for facilitators: walk the seven links after any upset and ask *"which one broke?"* It's blame-free by design, since it asks where the chain failed rather than who's bad, which fits the book's anti-punishment stance, and it gives a debrief a structure people already know from business.
+
+**Proposed placement (the author's call):** a one-page tool in the facilitator material (near the repair and aftercare sections), attributed to Tony in one line. Optionally one sentence in the introduction or conclusion naming that container failures are value-chain failures, so business readers recognise the frame. Keep every example pattern-level; no named mapping in this repo.
+
+**Status: OPEN, recorded, nothing in `src/`.**
