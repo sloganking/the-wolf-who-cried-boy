@@ -2228,4 +2228,8 @@ A version in the author's voice, to tune:
 - **The honest version of the same feeling is short and legitimate:** "You hurt someone I love and I'm furious." That sentence is allowed, and it can come with a proportional ask. What isn't allowed is the dress-up: borrowing the vocabulary of protection to license punishment.
 - **Placement:** use his sentence (de-named, it already is) as the paragraph's centerpiece in *How to Check*, as the "sometimes that's all it is" case. Keep his caps.
 
+**His framing, 1:19pm (verbatim; "Glory predation" is a voice-transcription slip for "righteous predation"):** *"[Righteous] predation is a thing, but sometimes you're just a selfish predator masquerading as a righteous one in order to just indulge your own rage or get what you want. It can be either."*
+- **Desk read: this is the sentence the paragraph should end on.** It keeps the book honest in both directions: it doesn't take back the righteous predator (who really believes it), and it doesn't let the costume off the hook. And it widens the motive past rage, to "get what you want." The same costume covers jealousy, a grab for status, or getting rid of a rival.
+- **Practical test for which one you're looking at (yourself included):** the righteous one stops when the facts change; the masquerade looks for new reasons, because the reasons were never the point.
+
 **Status: OPEN, recorded, nothing in `src/`.**
