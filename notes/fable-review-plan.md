@@ -2177,4 +2177,8 @@ A version in the author's voice, to tune:
 
 **Proposed placement (the author's call):** the environment-design section (item SS, *"How you create bad behavior in good people"*), next to the define-it-at-the-opening prescription from the Aug 7 row, as a short "how to know it worked" step. The example stays pattern-level and de-named, as that row already is.
 
+**His follow-up, 12:33pm:** *"Might be a staff only [bit]. Idk if valuable for participants. But they could go 'could I interpret this differently?' And ask for clarity if they notice different people might think that means different things."*
+- **Desk read:** the test itself (asking several listeners to say a rule back) is a staff tool; it's the facilitators' job to make the rules clear. But the participant version he names is worth one line in the participant-facing material: **when a rule is explained, ask yourself "could I read this differently?", and if you can, ask out loud before you act.** It costs a participant ten seconds, and it turns "I followed my version of the rule" into a question asked before anything happens instead of a dispute after. It also gives staff a free signal: every clarifying question shows them exactly where the wording is loose.
+- **Placement:** the staff test stays with SS (environment design). The participant line fits wherever the book tells participants what to do at a container opening.
+
 **Status: OPEN, recorded, nothing in `src/`.**
