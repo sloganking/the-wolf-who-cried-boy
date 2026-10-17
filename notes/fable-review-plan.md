@@ -2222,4 +2222,10 @@ A version in the author's voice, to tune:
 2. **One line in *The Blurry Predator*** adding partner-protection to the circumstance list ("the situation makes it just" includes "they upset someone I love"), linking back to How to Check.
 3. **Optional, one line in `before-play.md` → *Playing With Partnered People*:** couples can pre-agree what each does if unexpected jealousy shows up (bring it to the partner first, never to the third person), which is the prevention side.
 
+**His sharpening, 1:18pm (verbatim, the caps are his):** *"You did something that caused my partner pain and I'm FUCKING PISSED. And this has nothing to do with righteousness. I'm just using righteousness as a guise to hide and allow me to indulge my own selfishness, letting me reuse righteousness as an excuse to punish and harm you because I'm fucking pissed. Like, that can be all it is."*
+- **Desk read: this is a third version, not a restatement, and it's the one the book most needs to name.** Versions (1) and (2) above still believe a little of their own case. This one believes none of it: the anger is the whole engine, and the righteous language is a costume put on knowingly. That puts it closest to a **selfish predator wearing the righteous predator's clothes**: the want is "make you hurt because I hurt," and "protecting my partner" is the permission slip.
+- **Why it matters for the book:** the righteous costume is the best camouflage a selfish act can wear, because the room rewards it (*The Village Always Finds a Wolf*). The book teaches readers to spot the righteous predator by his certainty; this version can perform certainty without having any.
+- **The honest version of the same feeling is short and legitimate:** "You hurt someone I love and I'm furious." That sentence is allowed, and it can come with a proportional ask. What isn't allowed is the dress-up: borrowing the vocabulary of protection to license punishment.
+- **Placement:** use his sentence (de-named, it already is) as the paragraph's centerpiece in *How to Check*, as the "sometimes that's all it is" case. Keep his caps.
+
 **Status: OPEN, recorded, nothing in `src/`.**
