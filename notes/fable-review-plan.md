@@ -2300,6 +2300,15 @@ A version in the author's voice, to tune:
 
 **Title, the author's call:** the desk's pick is *"When Threats Run the Container"*. It names the behavior, so it covers all three predator types and labels no one. *"When Predators Run the Container"* lands harder. **Placement:** For Facilitators, after *Where the Police Fit*. It pairs with EEEEE (the cost table could be this chapter's worked example) and UUUU (removal is the community's act; this chapter is why it is worth doing).
 
+**Follow-up, same day 2:45pm (author-originated): a Dickens process for the facilitator.** His words: *"I wonder if we can Dickens process the facilitator into changing... you watch yourself not interact in alignment with your own values, you watch you get hurt, you watch your participants you're here to add value to get hurt and do nothing... we explicitly list it as a fiction... I've been trying to win through logic. Maybe I just need to do emotions."*
+
+**Desk read: yes, in one specific shape.** The book already argues it: *Why Understanding Isn't Enough* and *Replacing the Sentence*. A fearful facilitator has the values and the logic, and what holds them is an emotional association. Three constraints keep it inside the book's own rules:
+- **An exercise the reader runs, not a story written at them.** A painful portrait aimed at someone who didn't ask for it is *"No one was ever made good by being informed he or she was bad"* and the Influence Firewall's shame-plus-fear pattern. An opt-in exercise is consent (*Coach, Not Rescuer*). Open with an invitation like "if this sounds like you, here's a tool," and label the illustration as a composite fiction.
+- **Both halves of the Dickens process, ending in a doable step.** Pain alone on someone already afraid tends to freeze them, not move them. Run the cost forward (one, five and ten years of keeping the threatening person: the self-censoring, the participants not protected, the allies who left, the facilitator they are becoming). Then run the other future with full pleasure: holding the line, the room trusting them, being the leader their own values describe. End on the structural move that makes it safe to uphold (The Promise made in advance, a team behind the call), so the motivation has somewhere to go.
+- **A composite, at pattern level.** The fiction must not resemble any one real facilitator or container. The disclosure canon applies, and a reader who recognized a specific person would turn a tool into a callout.
+
+**Placement:** inside GGGGG, as its closing exercise (or a short `src/tools/` page it links to). **Status: OPEN, recorded, nothing in `src/`.**
+
 **Pattern level only: no names.** The author's own case stays in private notes.
 
 **Status: OPEN, recorded, nothing in `src/`.**
