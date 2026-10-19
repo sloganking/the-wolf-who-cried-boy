@@ -2312,3 +2312,13 @@ A version in the author's voice, to tune:
 **Pattern level only: no names.** The author's own case stays in private notes.
 
 **Status: OPEN, recorded, nothing in `src/`.**
+
+### HHHHH. "Vague truth": a named handle for the true slogan that misleads on its own (added 2026-10-19, author-originated, 3:50pm and 3:54pm PHX; desk read with the whole manuscript loaded)
+
+**His words:** *"I wanna make a language distinction called vague truths... The truth is often like a 1000 different things, counterbalancing each other, so that's what my vague truth language distinction will be: one part of the truth that on its own means almost nothing. Because you can interpret it incorrectly on its own."* And at 3:54pm: *"Is vague truth something worth putting in the book I'm writing, or is it not book specific enough?"* (Prompted by a self-help line, "act like you already have the goal in order to win it", which he heard as true but unusable alone: does it mean borrowing as if this loan is guaranteed, or as if a loan will work out but not necessarily this one?)
+
+**Desk read: yes, it is book-specific, because the book's whole antagonist runs on vague truths.** The book already holds the idea in pieces: *"All lessons have exceptions,"* *Everything Has Everything In It* (factually selective), and the equal-and-opposite pairs. What it lacks is a two-word handle for the **statement** itself, as opposed to the listener's focus. The slogans that power a Rescuer mob are vague truths: "think of the children," "accusers should be believed," "safety comes first," "assume good intent." Each is true, and each causes harm when run without its counterweight. *Factually selective* is the listener's half-picture; *vague truth* is the slogan's half-picture. Naming it gives a reader a move to use in the room: "that's a vague truth, what's the other half?"
+
+**Proposed placement (author's call):** a glossary entry, a short paragraph in *Everything Has Everything In It* (trauma-and-filters.md) or *The Transmissibility of Belief* (why-rescuers-are-dangerous.md), and a row in Quick Reference's *Language of Clear Sight* table ("Vague truth: name the other half" replaces "repeating a slogan as a verdict"). Keep the author's own loan example in private notes; the book example should be a mob slogan.
+
+**Status: OPEN, recorded, nothing in `src/`.**
