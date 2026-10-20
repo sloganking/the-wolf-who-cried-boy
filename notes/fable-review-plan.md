@@ -2322,3 +2322,22 @@ A version in the author's voice, to tune:
 **Proposed placement (author's call):** a glossary entry, a short paragraph in *Everything Has Everything In It* (trauma-and-filters.md) or *The Transmissibility of Belief* (why-rescuers-are-dangerous.md), and a row in Quick Reference's *Language of Clear Sight* table ("Vague truth: name the other half" replaces "repeating a slogan as a verdict"). Keep the author's own loan example in private notes; the book example should be a mob slogan.
 
 **Status: OPEN, recorded, nothing in `src/`.**
+
+### IIIII. The Host's Bar: write your own return checklist, then check it off in public (added 2026-10-19, author-originated, 6:22pm PHX; desk read of *Before You Go Back* in i-made-a-mistake.md, whole manuscript NOT loaded)
+
+**His words (paraphrase kept close):** the return section already says to find a group that loves you and will tell you no, but it has no checklist of what *he* would want to see before returning. The tool: imagine you are running the party and someone else did what you did. What is your bar for letting them back in, and what would make you think *"this would feel excellent, I want them back"*? Write that bar as a checklist, then go do it. Items can come before any party (*"figure out what happened, if you don't know"*), and "N events without incident" can be one item among several.
+
+**The origin story (his):** designing a community house, he wrote the bar for the housemates he wanted (financially established, firm in their values, happy) and realized he would not pass it himself: no income, recently depressed. He could only see it from the host's chair, because from his own chair he had spent years selling himself (*"oh my God, no, I'm good"*). The host's chair removes the self-sales pitch. That is the mechanism the tool borrows.
+
+**What it adds to the chapter:** *Before You Go Back* has five steps but nothing that makes the reader set their OWN bar. This is step 0 or a sidebar: switch seats, write the bar, then run steps 1-5 against it. It is also the book's thesis made concrete: accountability as a standard you set and meet, not a punishment someone else assigns (the righteous-predator frame answered by example, not argument).
+
+**The author's own checklist, in the book (his proposal):** a lighter version of a public accountability blog (a public restorative-accountability blog is the reference case), with each item checked off by him in print. Desk notes for the author's call:
+- **Self-grading is the obvious attack.** Pair each checked item with its evidence and, where it applies, a yes from his trusted group (step 4), so it is not him alone with his own reasoning (step 5's own rule).
+- **A book is frozen; a checklist is alive.** Consider the chapter holding the method plus a short snapshot, and a living page on the book site that keeps updating.
+- **Unmet items stay visibly unchecked.** That is the credibility.
+
+**Describing what happened (the author's open question: precise wording vs. leaving it vague):** the book's disclosure canon already calls the central mistake ~one second, unconscious, accidental, stopped immediately. Naming where the touch was would be a NEW fact beyond that canon, so it is the author's explicit call, not a default. Desk read: precision about the act plus the cause, stated in the same plain way the book asks of readers in step 1, owns it more than "crossed a boundary" left vague, and does not soften it. No event, date, place or person.
+
+**Privacy:** pattern level in this public file. The specifics stay in the author's private notes.
+
+**Status: OPEN, recorded, nothing in `src/`.**
