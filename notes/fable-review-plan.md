@@ -2341,3 +2341,16 @@ A version in the author's voice, to tune:
 **Privacy:** pattern level in this public file. The specifics stay in the author's private notes.
 
 **Status: OPEN, recorded, nothing in `src/`.**
+
+### JJJJJ. Speak it, see it, feel it: how a "wound fact" stops meaning something about you (added 2026-10-23, author-originated, ~1:54pm PHX; desk read, whole manuscript NOT loaded)
+
+**His words (voice memo, kept close):** the seven-years story in *Healing Fawning* shows the end state (say it, wink, "want to reset the clock?", finger guns, and it lands as charismatic and funny). *"It's not about what happened to me, it's my way of being when I, now I feel about it."* He is doing the same with money now: *"I have never paid my bills, you know, my own income."* What the book does not acknowledge: *"in the beginning, even if you try and say it, your body might just be so convinced that it means something about you, that you'll feel insecure saying it anyways."* The process he proposes:
+1. **Speak it.** Say the fact out loud.
+2. **See it.** Watch the reactions. Some people are stuck in the same story you were and cry or judge too; some are not, and you learn not everyone judges you, and it's fine.
+3. **Feel it.** Whatever comes up, insecurity or fear included, let yourself feel it without trying to make it go away. *"So feel it becomes the process, starts as the process and ends as the result."* Done enough, you end up feeling good.
+
+**What it adds:** *Your Wounds Are Advantages* (healing-fawning.md, after the shibari story) shows the reframe as if it lands on the first try. This gives the reader the honest middle: the line can be said before the body believes it, and the reps are what change the body. It fits the book's insight-versus-conditioning seam (knowing the reframe is insight; saying it while scared, many times, is the conditioning).
+
+**Proposed placement (author's call):** a short subsection right after the shibari story and before *Your Wounds Are Advantages*, possibly titled "Speak it, see it, feel it," with the money line as the second example so the reader sees it generalizes past sex.
+
+**Status: OPEN, recorded, nothing in `src/`.**
