@@ -2367,4 +2367,20 @@ A version in the author's voice, to tune:
 
 **Proposed shape (author's call):** at the coinage, show the turn instead of only stating it: name it the reader's way, then refuse it ("You could call this person a righteous predator. I won't, and the reason is the lesson."), with his anger-to-clarity shift as the paragraph that earns it. Then the 93-site pass.
 
+**➕ Draft passage (2026-10-24, ~3:51pm PHX; his ask: *"I want to have something like that in the book, which is just me explaining why I'm not using it personally, including with the person that attacked me terribly."* Desk draft, for the coinage spot in `why-rescuers-are-dangerous.md`; stays inside the disclosure canon, no new incident facts):**
+
+> ### Why I Don't Use the Word
+>
+> You could call this person a righteous predator. I won't, and the reason is the lesson.
+>
+> "Predator" isn't a description of what someone did. It's a prediction of what they'll do. It says: this is what you are, so this is what you'll keep doing. That's the move the person who attacked me made when they called me a predator in front of a room. They took one moment and turned it into a forecast about my whole future. I'm not going to hand that move back to them, even with a better adjective in front of it.
+>
+> There are two reasons, and they point in opposite directions.
+>
+> Call yourself one, and it installs shame. "I was a righteous predator" is a sentence about who you are, and who you are is the one thing you can't fix by Tuesday. That's [sinsickness](./i-made-a-mistake.md#sinsickness). "I did righteous predation" is a sentence about what you did. It names the harm in full and leaves the next choice in your hands.
+>
+> Call someone else one, and they stop listening. Tell a person "you're a predator" and their whole nervous system goes to defending against the verdict. Tell them "you did these things, and they hurt me," and you've given them something they can actually look at.
+>
+> So this book names the act. Righteous predation is real, it's common, and it does more damage than selfish predation ever could. But it's something people do, not something people are. That includes the person who did it to me. I was angry when I started writing this book, and the anger wanted a label to hang on them. I'm less angry now, and what's left is clearer: they don't have to be a predator for what they did to have been wrong. And they don't have to stay the person who did it.
+
 **Status: OPEN, recorded, nothing in `src/`.**
