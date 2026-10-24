@@ -2354,3 +2354,17 @@ A version in the author's voice, to tune:
 **Proposed placement (author's call):** a short subsection right after the shibari story and before *Your Wounds Are Advantages*, possibly titled "Speak it, see it, feel it," with the money line as the second example so the reader sees it generalizes past sex.
 
 **Status: OPEN, recorded, nothing in `src/`.**
+
+### KKKKK. "Righteous predation," not "righteous predator": name the act, not the identity, book-wide (added 2026-10-24, author-originated, ~3:44pm PHX; desk read with the whole manuscript loaded)
+
+**His words (voice memo, kept close):** *"stopping using righteous predator in my book and just saying righteous predation and explaining that... predator is an identity label and, like, it's a prediction of what you're going to do in the future. And if you call it one, it creates sin sickness if you identify with it. And two, if you call someone it, they just don't listen versus, like, you did a bunch of actions... that hurt me, they'll listen to... if you say... I predated upon people, then it's acknowledging that you have a choice from now on to not do that."* Also: *"I'm less angry... I feel like that would be a better book."*
+
+**Desk rating:** current noun usage **5/10**; the switch **8/10**. Counts at time of read: `righteous predator(s)` 93 hits across 21 files in `src/`; `righteous predation` already 6.
+
+**Why (the book already argues his side against itself):** *A Note on the Word Predator* ("Labels like these are too simple to describe a human heart"); *Narrative Lock* (a label is "a prediction of what you'll do," a confident forecast in a verdict's clothes); *Sinsickness* ("Guilt says I did bad. Shame says I am bad"); *Hiding the Wound* ("I have a wound, not I am wounded"); the blurry predator section already uses state language ("You're in the blur"). Keeping the noun teaches "don't file people under a category" while handing the reader a new category.
+
+**Costs to manage:** the noun is the memorable hook, and the coinage section in `why-rescuers-are-dangerous.md` is built on "we have a word for the selfish one, not the righteous one" (rewrite as: no word for harm done while certain you're saving people). Person-noun spots (*The Recovered Righteous Predator on Your Team*, *When You Were the Righteous Predator*, the "I was a righteous predator" recovery paragraph, the glossary entry, quick-reference) need state language: "in righteous predation," "someone who has come out of righteous predation." Apply to the whole triad (selfish / righteous / blurry) or it reads lopsided. Anchor links (`#rescuers-with-harmful-beliefs-the-righteous-predator`) are referenced book-wide; renaming that heading means updating every inbound link.
+
+**Proposed shape (author's call):** at the coinage, show the turn instead of only stating it: name it the reader's way, then refuse it ("You could call this person a righteous predator. I won't, and the reason is the lesson."), with his anger-to-clarity shift as the paragraph that earns it. Then the 93-site pass.
+
+**Status: OPEN, recorded, nothing in `src/`.**
