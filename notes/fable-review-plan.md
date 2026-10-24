@@ -2369,7 +2369,7 @@ A version in the author's voice, to tune:
 
 **➕ Draft passage (2026-10-24, ~3:51pm PHX; his ask: *"I want to have something like that in the book, which is just me explaining why I'm not using it personally, including with the person that attacked me terribly."* Desk draft, for the coinage spot in `why-rescuers-are-dangerous.md`; stays inside the disclosure canon, no new incident facts):**
 
-> ### Why I Don't Use the Word
+> ### Why I Don't Call People Predators
 >
 > You could call this person a righteous predator. I won't, and the reason is the lesson.
 >
@@ -2381,6 +2381,10 @@ A version in the author's voice, to tune:
 >
 > Call someone else one, and they stop listening. Tell a person "you're a predator" and their whole nervous system goes to defending against the verdict. Tell them "you did these things, and they hurt me," and you've given them something they can actually look at.
 >
+> There's one place the word belongs: when you're letting rage out. In an anger release, you don't hold back your words. If "predator" is what's in you, say it, scream it. You can't get out of rage without feeling it first. But that's expression, not description. When you talk about someone to other people, and in how you think about them day to day, drop the label, for them and for yourself. Feel the rage all the way through. Don't point the finger.
+>
 > So this book names the act. Righteous predation is real, it's common, and it does more damage than selfish predation ever could. But it's something people do, not something people are. That includes the person who did it to me. I was angry when I started writing this book, and the anger wanted a label to hang on them. I'm less angry now, and what's left is clearer: they don't have to be a predator for what they did to have been wrong. And they don't have to stay the person who did it.
+
+**➕ His follow-up (2026-10-24, ~3:54pm PHX), kept close:** retitle it *"Why I don't call people predator."* *"People... don't know what the fuck that word means."* *"I think this is the most important change to having this book actually be well accepted and adopted. Otherwise, it's just like, I'm pissed... I haven't let go of my anger."* The carve-out: *"calling someone a predator can be useful in emotional release exercises when you're just being expressive... to get out of rage, you have to feel the rage. So say the predator then. But don't finger point and label others or yourself."* Heading above updated and the carve-out paragraph added to the draft. Possible cross-link from the carve-out to the anger-release material in *Healing Fawning* (practise letting anger out "somewhere safe where your body can feel the full force of it").
 
 **Status: OPEN, recorded, nothing in `src/`.**
