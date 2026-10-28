@@ -2413,3 +2413,19 @@ A version in the author's voice, to tune:
 **Proposed placement (author's call):** beside JJJJJ's subsection in *Healing Fawning* as the second, harder example, or as the closing beat of the advocacy/aftermath material, framed as "a year later." Keep the rapport condition in: not strangers, but within a day.
 
 **Status: OPEN, recorded, nothing in `src/`.**
+
+### MMMMM. End the book with special thanks to his mom and dad: the repair the founding scene never shows (added 2026-10-28, author-originated from the phone desk, ~8:55am PHX, at the Crestone men's retreat; whole manuscript NOT loaded)
+
+**The ask, his words (voice memo):** *"I want to give special things to my mom and dad for, you know, generously supporting me or something like that... all the book does right now is paint him as the innocent bad guy. Did harm, didn't know better. When I was a kid, it doesn't say where we ended up. And it feels like a happy ending just to acknowledge, you know, special thanks to my parents for all the generous support and love and, like, help. Maybe during a really hard time and, like, you know, financial support or whatever while I write this book."*
+
+**Why, his words:** *"I think that'd be a much better book, because it shows a repair that went from righteous predation threat to ally... many people outcast their parents and never talk to them again, or they hate them forever because of their parents. Or for less, for less harm than was done to me... That's what I'm going to do to end the book."*
+
+**What it adds:** the founding scene (`the-rescue-that-made-me-see.md`) leaves the father where the harm happened: intentions were love, methods were violence, no verdict, no ending. The reader never learns where the two of them ended up. A closing thanks to both parents, for their love, support and help through a really hard time, including financial support while he wrote the book, closes the loop the book opened on page one. It becomes the book's own From Threat to Ally, shown at the scale that matters most: the family. It is also the counter-case to the reader who cuts a parent off for good, often over less harm than this.
+
+**Already in the file, and this is its home:** item V's "Adjacent candidate" (the father arc as the deepest From Threat to Ally instance, *"the man who broke me became my biggest backer"*, candidate for the From Threat to Ally chapter or About the Author). MMMMM settles the placement question for at least one beat: **the end of the book.** Item UU (the mother's half of the founding scene) means the thanks should name both parents, and it should be written in the same no-verdict register.
+
+**Shape (author's call):** a short "Special thanks" / acknowledgments page after the Conclusion (no acknowledgments page exists in `src/` today), or a closing paragraph in `conclusion.md` or `about-the-author.md`. Keep it short and specific: generous support, love, help in a hard time, financial support while writing. No names (public repo): "my mom and dad" or "my parents."
+
+**Guards:** (1) Record-backed claims only: state only the support he confirms, and check the record (the double-every-dollar match from item V) before naming any specific help. (2) Family privacy and consent: item UU's consent ask to his parents (sent 2026-07-27, answer pending in that item) also covers this. (3) Make it a thank-you, not a defense of the father or a retraction of the founding scene. The harm stays true, and so does the repair.
+
+**Status: OPEN, recorded, nothing in `src/`.**
