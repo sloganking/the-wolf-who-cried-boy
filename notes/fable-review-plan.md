@@ -2452,7 +2452,7 @@ A version in the author's voice, to tune:
 
 **What it adds beyond GGGGG (When Threats Run the Container):** GGGGG is one threatening person kept over years and what that does to the facilitator. This is the multiplication: a kept righteous predator is a recruiter, a venue that tolerates them is advertised to their network by their presence, and the group composition tips until the original holder is the outsider in their own container. Kin: the Recruitment and Frame Poisoning entries in the author's private distinctions notes (what one does to a room's story, then how one becomes many).
 
-**Wording guard, from KKKKK:** the author decided book-wide to name the act ("righteous predation") rather than the identity ("righteous predator"). He used the noun here and in the proposed title. Ask him whether this section keeps the noun as a title hook or becomes something like "Tolerated righteous predation invites its friends." His call.
+**Wording guard, from KKKKK:** the author decided book-wide to name the act ("righteous predation") rather than the identity ("righteous predator"). He used the noun here and in the proposed title. **His answer (Oct 29, ~10:27pm PHX): keep "predators" for now, until the book-wide predation rewrite (KKKKK) reaches this section.**
 
 **Privacy:** no names. Nobody at the retreat, and no one from his own communities, is identified in this item or in any `src/` text it becomes.
 
