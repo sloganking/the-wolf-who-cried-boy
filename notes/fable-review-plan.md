@@ -2457,3 +2457,15 @@ A version in the author's voice, to tune:
 **Privacy:** no names. Nobody at the retreat, and no one from his own communities, is identified in this item or in any `src/` text it becomes.
 
 **Status: OPEN, recorded, nothing in `src/`.**
+
+### PPPPP. "Yeah. I lost it.": the admission a righteous predator never makes (CANDIDATE, author unsure it belongs; added 2026-10-30, author-originated from the phone desk, ~1:18am PHX; whole manuscript NOT loaded)
+
+**The scene (Loki, Season 2, Episode 2, "Breaking Brad"; script verified):** over key lime pie, Loki tells Mobius: *"Sometimes a rage builds up and you just gotta let it out. Do you remember that time I was so angry with my father and my brother, I went down to Earth and I held the whole of New York City hostage with an alien army?... Wasn't tactical. Yeah. I lost it. Sometimes our emotions get the better of us."* Clip: https://www.youtube.com/watch?v=E4oQ8TXyjNI
+
+**The author's point:** *"If you're righteous you say 'that wasn't fucking ok' and ask the facilitators to handle it."* You do not go vigilante, around the facilitators, labeling someone a predator in front of the room without asking a single question and threatening the person who made the mistake. *"That's the Loki 'I lost it' metaphor."*
+
+**What it adds:** the book already describes an apology that owned only "anger that came from elsewhere" (canon; `repair.md`). Loki's line is the missing version: owning the rampage as a rampage, plainly, without dressing it as justice. It gives readers a light, memorable picture of the difference between being angry about a real wrong and losing it in the name of one.
+
+**Canon guard:** any telling stays inside the incident disclosure canon. Further details he gave in private notes are pointed to, not copied: `../RPM/capture.md` item 363; adding any of them needs his explicit sign-off. No names.
+
+**Status: CANDIDATE, his call whether it goes in. Nothing in `src/`.**
