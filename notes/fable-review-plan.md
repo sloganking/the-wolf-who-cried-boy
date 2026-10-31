@@ -2469,3 +2469,15 @@ A version in the author's voice, to tune:
 **Canon guard:** any telling stays inside the incident disclosure canon. Further details he gave in private notes are pointed to, not copied: `../RPM/capture.md` item 363; adding any of them needs his explicit sign-off. No names.
 
 **Status: CANDIDATE, his call whether it goes in. Nothing in `src/`.**
+
+### QQQQQ. The ratchet: when a harm grows each time it is retold (PROPOSAL, author not confident it belongs; added 2026-10-30, author-originated from the phone desk, ~11:08pm PHX; whole manuscript loaded for the discussion)
+
+**The pattern:** the same event is told bigger each time: a small bump, then a kick, then "touched without consent," then a claim about a whole category of people. The bigger version replaces the last one, and the smaller one stops being mentioned. The facts never change; only the size does. Four signals: **inflate** (bigger in the retelling), **ratchet** (the new size replaces the old), **generalize** (the act becomes a category, which feeds narrative lock's framework substitution), **leverage** (the bigger version arrives attached to an ask).
+
+**The author's distinction (his words):** *"severity is one concept. Gaslighting is another concept... the increasing escalation is its own pattern, and maybe it's motivated by that, or [a] need for something that's not getting met."* Severity gaslighting (misstating how big something was, once) and the ratchet (growth over retellings) are separate; the motive (often an unmet need asked for sideways, as a grievance instead of a request) is separate again.
+
+**Possible home:** `severity.md`, a short section after "Patterns Change Severity": that rule (a repeat after clear feedback earns higher severity) is the lever the ratchet pulls, by claiming the repetition. The tool is already in the book: compare the first telling with the latest, in Notice-only words, from a dated record. One cross-link from "The Victim Position Is Powerful" in `all-power-is-mutual.md` ("spending power backed by nothing").
+
+**Canon guard:** patterns, not characters. Any example is composited and de-named; the source case lives in the author's private notes (`../RPM/distinctions.md`, severity gaslighting entry) and is pointed to, never copied.
+
+**Status: PROPOSAL, his call whether it goes in. Nothing in `src/`.**
