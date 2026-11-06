@@ -2481,3 +2481,19 @@ A version in the author's voice, to tune:
 **Canon guard:** patterns, not characters. Any example is composited and de-named; the source case lives in the author's private notes (`../RPM/distinctions.md`, severity gaslighting entry) and is pointed to, never copied.
 
 **Status: PROPOSAL, his call whether it goes in. Nothing in `src/`.**
+
+### RRRRR. Light with no owned shadow: why "I'd never do harm, I'm a good person" is the riskier sentence (CANDIDATE, author unsure it belongs; added 2026-11-05, author-originated from the phone desk, ~11:21pm PHX, UPW Miami night 1; whole manuscript NOT loaded)
+
+**His words (voice memo, kept close):** *"I guess I'm having this new lens of the light versus dark masculine, and it's like [the person who attacked him] is dark with a total shadow he thinks of himself as being a pure light, which is totally wrong because, and anyone who thinks that means they're just seething dark out their fucking edges. Or they're actually committing dark and doing dark like he was as a righteous predator... If we don't own our dark sides and our desires, like someone saying, I want to do harm, etc., but I'm not gonna, is like safer than someone saying, I don't want to do harm, that's just not my personality, I'm a good person. And they're likely to actually do a lot of harm."* Same night, about himself: he named his own anger as his disowned dark side leaking out (`../RPM/state-log.md`, Nov 5, 23:09).
+
+**Desk read: 7/10 as a short passage, folded into what is already there, not a new chapter.** It is the mechanism under righteous predation, which the book names but may not yet explain from the inside: a person certain they are pure light has switched off the one check that would catch them, because nothing they do can register as harm. That is narrative lock pointed at yourself. Jung's line fits as a source quote, verified before use: "One does not become enlightened by imagining figures of light, but by making the darkness conscious."
+
+**One refinement to weigh:** "I want to do harm, but I'm not going to" may read as alarming on the page. "I could do harm, and I choose not to" carries the same point (owned capacity plus choice) with less risk of a reader misfiling the speaker. His call.
+
+**The opposite, so it is not over-applied:** plenty of people who say "I'm a good person" are fine. The claim is not that light-identified people are dangerous; it is that certainty of your own goodness removes the self-check, so the harm, when it comes, goes unseen by the one doing it. The test is not the self-description but whether the person can say "yes, I did that, and it hurt you" (kin: PPPPP, "Yeah. I lost it.").
+
+**Possible home:** `why-rescuers-are-dangerous.md`, near the coinage (KKKKK's "harm done while certain you're saving people"), or `before-you-judge.md` as a self-check. Use act language per KKKKK ("in righteous predation"), not the identity noun.
+
+**Canon guard:** patterns, not characters. The source case is never named or described in the book; the example is composited.
+
+**Status: CANDIDATE, his call whether it goes in. Nothing in `src/`.**
