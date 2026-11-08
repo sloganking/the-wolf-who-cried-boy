@@ -2511,3 +2511,17 @@ A version in the author's voice, to tune:
 **Possible home:** the introduction, near where the book says what it is for.
 
 **Status: CANDIDATE, his call whether it goes in. Nothing in `src/`.**
+
+### TTTTT. A Quick Start for the reader who just wants to walk in safe: the attitudes and habits, without the why (candidate; added 2026-11-08, author-originated from the phone desk, ~10:08am PHX, UPW Miami Day 4; whole manuscript NOT loaded)
+
+**His words (typed, kept close):** *"for some people I say, 'Go read the section that's relevant to you,' when something relevant occurs. I'm wondering if we're like, 'Hey if you're here, you want the basic ideas about what will keep you safe in places, etc., without getting into all the nitty-gritty, the philosophical, and hours of reading this book.' Maybe we have a directory for them, like a quick start: 'Here's all the skills and things you need to keep in mind, and/or the buffer zone and thank-you promise before gentle touch and stuff like that. If you follow, you'll have a great time with[out] having to know the process behind it, or the why, or the history.' ... We might also tell them, 'It won't condition their mind, but here are things to keep in mind, or attitudes to walk in with. If you do all that, you'll have a much better time after reading one chapter of the book, being in play spaces, if you actually follow it.' If you don't follow it and something bad happens, then go read the section in detail."*
+
+**What already exists:** `src/quick-reference.md` (111 lines) is an INDEX of frameworks and tools with links. It is for someone who already read the book. This item is different: a one-chapter, read-before-you-walk-in page, behaviors and attitudes only, each line linking to its full section for later.
+
+**Desk read: strong, and it pairs with SSSSS** (the intro's "why read about conflict" answer). Most readers will never read the whole book; this gives them the 80% that keeps a night good. His own honest framing is the right one and should stay in the text: a checklist is insight, not conditioning, so it helps if you follow it, and when something goes wrong anyway, the "something went wrong" sections are where you go next. That turns the rest of the book into a reference you reach for, not homework.
+
+**Contents to draft from (the author names):** the buffer zone; the thank-you promise; ask before touch, gentle first; plus what the book already holds as one-liners (the Gun Test, RBDSMT, the Trust Baseline, Notice-Feel-Story, "a no gets a thank-you"). Note: "buffer zone" and "thank-you promise" do not appear in `src/` yet as named terms; they need defining here or in their home chapters.
+
+**Possible home:** right after the introduction, as "Quick Start: Before You Walk In," with a pointer to it from the intro's first page.
+
+**Status: CANDIDATE, his call whether it goes in. Nothing in `src/`.**
