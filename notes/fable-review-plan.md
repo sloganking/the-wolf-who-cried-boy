@@ -2497,3 +2497,17 @@ A version in the author's voice, to tune:
 **Canon guard:** patterns, not characters. The source case is never named or described in the book; the example is composited.
 
 **Status: CANDIDATE, his call whether it goes in. Nothing in `src/`.**
+
+### SSSSS. Why read a book about upsets, conflict and repair instead of one about pleasure? Because the foundation is what makes the heights steady (intro candidate; added 2026-11-08, author-originated from the phone desk, ~10:06am PHX, UPW Miami Day 4; whole manuscript NOT loaded)
+
+**His words (typed, kept close):** *"Potentially something to add to the introduction to my book is: Why read a book about upsets and conflict and repair, etc., instead of just how to have the most pleasure in these environments? I might say that I'm thinking about myself as a luxury intimacy content creator, etc. Once you have the foundation solid, you can fly to heights hitherto unheard of before or have ecstasy all the time. Until your foundation is solid, you will intermittently have great pleasures and great pains and terrors in a mix at kind of random intervals. Mastering what this book teaches you will let you have pleasure, you're-the-only-pleasure, all the time, something like that."*
+
+**Context:** the same morning he named his next work as a luxury sex / intimacy coach and content creator (RPM capture.md, the business-question item). This answers the reader who comes for the pleasure and wonders why the book is about conflict.
+
+**Desk read: worth a paragraph in the intro.** It turns the book's subject from a cost ("learn to handle conflict") into the price of entry to the thing the reader actually wants. The shape: pleasure without a foundation arrives mixed with pain and terror at random intervals; with the foundation, the heights become reliable. "You're-the-only-pleasure" was garbled in transcription; the author should say what he meant.
+
+**The opposite, so it is not oversold:** "ecstasy all the time" may read as a promise no book can keep (and his own no-guarantee rule applies). "Pleasure becomes reliable instead of random" carries the claim without the guarantee. His call.
+
+**Possible home:** the introduction, near where the book says what it is for.
+
+**Status: CANDIDATE, his call whether it goes in. Nothing in `src/`.**
