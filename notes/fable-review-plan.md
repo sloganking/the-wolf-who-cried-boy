@@ -2525,3 +2525,15 @@ A version in the author's voice, to tune:
 **Possible home:** right after the introduction, as "Quick Start: Before You Walk In," with a pointer to it from the intro's first page.
 
 **Status: CANDIDATE, his call whether it goes in. Nothing in `src/`.**
+
+### UUUUU. "Oh, that's it?": the size of a reaction gets read as the size of the act, and context deflates it (candidate; added 2026-11-09, author-originated from the phone desk, ~1:58am PHX; whole manuscript NOT loaded)
+
+**The author's words (voice, lightly cleaned, trimmed to the disclosure canon):** *"A lot of people, and potentially a majority of people, when I give them the context of what happened, [that] I've already repaired, and I didn't have any intent, and it was just an accident, and it was a one-second boundary crossing... A lot of them go, oh, that's it? I thought it was much worse by how he was reacting. I made assumptions that were wrong... One person didn't."* And: *"I'm wondering if I should explore that or talk about it in my book."*
+
+**The idea:** bystanders size an act by the size of the reaction to it. A loud, threatening reaction inflates the perceived wrong; a few plain facts (severity, intent, repair already done) deflate it, and most people revise on the spot. This is the book's title thesis observed in ordinary listeners after the fact, and it is evidence the reader can use: the record is often one honest paragraph away from corrected.
+
+**Check before drafting:** "The Context Rule" (`guiding-public-repair.md`) covers how facilitator silence lends an accusation validity; this is its mirror from the listener's side. Confirm it is not already said. Stay inside the incident disclosure canon (no new facts about the touch).
+
+**Possible home:** a short beat in `guiding-public-repair.md` beside the Context Rule, or in `when-youve-been-wronged.md` as a reason telling the facts plainly works.
+
+**Status: CANDIDATE, his call whether it goes in. Nothing in `src/`.**
