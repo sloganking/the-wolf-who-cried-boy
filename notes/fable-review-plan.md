@@ -125,6 +125,16 @@ On trajectory: content doesn't determine adoption — champions do. The books th
 
 Ordered roughly by importance. Considerations are attached to the items they belong to.
 
+### Status snapshot — verified against `src/` on 2026-11-11 (Fable 5.2, the whole plan and all 42 manuscript files in one context, at commit `0de6a05`)
+
+Prepared overnight at the author's ask for a fresh-eyes pass. It supersedes the 2026-07-25 snapshot below, which is kept as history: 135 commits have touched `src/` since it was written and this plan has grown from a few dozen items to 143.
+
+- **The full table is [`status-snapshot-2026-11-11.md`](status-snapshot-2026-11-11.md):** one row per item (130 lettered headings, PRIORITY ONE, the 12 North Star points), each with its status checked against the text and the evidence. **18 done, 16 partly, 87 not in `src/`, 17 waiting on an author decision, 2 resolved with no action, 3 superseded.**
+- **Where this plan and `src/` disagree:** HHHH and NNNN, ZZ ("Before You Go Back") and the AA "attacked person" rename are described here as branch-only or uncommitted and are in `src/` on main. OOOO says "idea only, do NOT edit" while "monopoly on force" is already in four files. The 2026-07-25 line "only one structural hole remains: item A" no longer describes the plan.
+- **Five letters are used twice** (RR, SS, TT, Z, AA), and fifteen groups of items are the same idea filed more than once. The snapshot lists each group so they can be merged.
+- **The five author decisions that unblock the most, in order:** act or identity (KKKKK); how far the North Star reorders the opening and Healing Fawning (points 3 and 4); one case chapter (CCCC); the family material (UU); go on A.
+- **North Star point 5, the armor pass, is prepared for approval in [`armor-pass-2026-11-11.md`](armor-pass-2026-11-11.md):** 342 preemptive qualifiers found and judged in context, each quoted exactly with its line (every quote was checked against `src/` mechanically): 180 keep, 56 cut, 106 turned into a statement of what is true, with the rewrite given. Nothing in `src/` was changed. The file ends with the ten calls it is least sure of.
+
 ### Status snapshot — verified against `src/` on 2026-07-25 (Opus 5, full-context read at commit `294e927`)
 
 Every claim below was checked against the text, not inferred from this document. Recorded so no future session has to re-derive it.

@@ -48,6 +48,7 @@ A row means: from this date, sessions in this repo use this model, until the nex
 | 2025-12-31 | Newest Claude Opus available (see release-date table above) |
 | 2026-07-01 | Claude Fable 5 (thinking, high) |
 | 2026-07-25 | Claude Opus 5 |
+| 2026-11-11 | Claude Fable 5.2 (one overnight read: the status snapshot and the armor pass in `notes/`; the manuscript was not edited) |
 
 ---
 
