@@ -2567,3 +2567,34 @@ A version in the author's voice, to tune:
 **Check before drafting:** the train story is his retelling of a Tony Robbins story and no source is on file (`tony-personal-power/` and the transcript archive have no "train time"). Find the recording and timestamp before it is quoted or attributed in `src/` (record-source-links). Same for the "I'm the problem" cheer: he has heard it at events; pin where.
 
 **Status: CANDIDATE, his call whether it goes in. Nothing in `src/`.**
+
+### WWWWW. The narrative-locked apology gets a glossary entry, and points BACK at the painted-on door (approved; added 2026-11-15, author-originated from the phone desk, ~3:21pm and 3:28pm PHX; desk read with the whole manuscript loaded)
+
+**The author's question:** *"Is there the locked apology and the Painted On Door, like, two sides of the same... Do I describe the same thing in two different sections in the book, and do they have use cases, or should we merge those?"*
+
+**The desk's read (whole manuscript loaded): not the same thing, do not merge.** Both are narrative lock showing up in repair, from opposite directions.
+- **Painted-on door** (`invisible-patterns.md`, Narrative Lock, signal 3): what a locked person DEMANDS. The reader's test: does the way back ask me to own what I did, or to ratify who they've decided I am?
+- **Narrative-locked apology** (`repair.md`, "When Apologies Don't Land", third failure): what a locked person OFFERS. The reader's test: how far is what they said from what actually happened? "The apology can't outgrow the story."
+- Merging would cost one of the two tests, and each sits in the right chapter (one where the reader learns to spot lock, one where they learn to repair).
+
+**The author's ruling (3:28pm):** *"Yes, file the narrative-[locked] apology in the glossary and maybe have them point to each other? Future pointing is weird. Past pointing is good. It's a hybrid book, but we're going to have it in paperback, so only in whatever text makes sense there... No names in it, as per usual."*
+
+**What to do (three small edits, none made yet):**
+
+1. **New glossary entry** in `src/glossary.md` under N, beside Narrative Lock (the term currently has no entry; Painted-On Door has one). Proposed wording:
+   > **Narrative-Locked Apology** — An apology capped at the size of the story the apologizer still believes. It names only the sliver of wrongdoing they've admitted to themselves, so what it shows the recipient is how much they haven't looked at yet. Narrative lock on the giving side of repair; its counterpart on the demanding side is the Painted-On Door. → [Repair](./concepts/repair.md#when-apologies-dont-land)
+
+2. **Glossary cross-reference the other way.** Add one clause to the existing **Painted-On Door** entry: "Its counterpart on the giving side is the Narrative-Locked Apology." The glossary is alphabetical reference, not reading order, so pointing both ways there is not forward-pointing.
+
+3. **One backward pointer in the body, and only backward.** Reading order is Invisible Patterns (the door) first, Repair (the apology) much later. So the pointer goes in `repair.md`, in the narrative-locked apology paragraph, pointing back. Proposed sentence, written to read on paper with no link needed:
+   > It's the same lock that painted the door on the wall back in Invisible Patterns. There, a locked person's story set the price of your way back. Here, it sets the size of their apology.
+
+   **No pointer is added to `invisible-patterns.md`** (that would point forward, which he ruled out).
+
+**Paperback rule for all three:** name the chapter or term in words ("back in Invisible Patterns", "the Painted-On Door"); the web edition can hang a link on those words, and the sentence must still make sense with the link gone.
+
+**Noted while reading, not part of this item:** the painted-on door paragraph already carries one forward pointer ("expanded later in Real Repair vs. Fake Resolution"). Left as is; his call whether his "future pointing is weird" applies to existing ones.
+
+**Privacy:** pattern level only. The worked example already in `repair.md` stays inside the incident disclosure canon; nothing new about any person is added by these edits.
+
+**Status: APPROVED by the author, not yet applied. The three edits are in `src/`, which is his to commit.**
