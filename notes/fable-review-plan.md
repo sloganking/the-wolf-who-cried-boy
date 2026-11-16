@@ -2598,3 +2598,23 @@ A version in the author's voice, to tune:
 **Privacy:** pattern level only. The worked example already in `repair.md` stays inside the incident disclosure canon; nothing new about any person is added by these edits.
 
 **Status: APPROVED by the author, not yet applied. The three edits are in `src/`, which is his to commit.**
+
+### XXXXX. "Authors should be perfect": the author's own blind spot, found while writing the book (candidate; added 2026-11-15, author-originated from the phone desk, ~3:21pm, 6:50pm and 6:57pm PHX; desk read with the whole manuscript loaded)
+
+**The author's words (voice, lightly cleaned):** *"I don't have to be perfect to sell."* *"I've been trying to, oh my god, I need to make it so I can't be attacked from any angle in my book ... before I publish it."* *"I've been seeing my imperfections as obstacles to getting what I want. Like, the meaning making of my imperfections is, oh my god, I'm not ready yet ... What if my imperfections are the thing that makes me valuable?"* *"When you're hiring me, you're hiring me and not like some superhuman version of me that I'm supposed to be that I'll never attain."* On people he has been angry at for not knowing how to handle something, paraphrased: they weren't perfect before they started either. And: *"I'm less pissed off at my dad for being imperfect, and now I'm an adult, and I'm like, damn, I don't have everything ... figured out. My father was raising a child at this age."* And: *"You just ... stop caring about protecting yourself from every angle."* His doubt: *"I don't know if this is book material or if it relates to play parties or not. It certainly relates to my journey. Why this book is going to even be released at all."*
+
+**The idea:** the book names a filter, "facilitators are perfect," and the author found he was running its twin on himself: "authors must be perfect, or the book can be attacked." The same filter pointed outward was part of his anger at people who held a role and did not handle it well. Seeing that nobody is perfect before they start loosens both.
+
+**Why it is book material, and why it relates to play parties (desk read):**
+- `body-stories.md` already teaches the filter ("Facilitators are perfect ... The myth was yours, not theirs") and `before-you-facilitate.md` already describes its paralysis from the inside ("I know how to do this, but I can't guarantee zero mistakes. And if I make one, the mob will destroy me. So you never step up."). The author withholding a book is that paragraph with one noun changed. The book has the pattern and does not yet show its author in it.
+- `the-rescue-that-made-me-see.md` gives his age (29) and never says the thing he just said: his father was raising a child at that age. One sentence there would land hard.
+- `healing-fawning.md` ("Your Wounds Are Advantages, If You Let Them Be") is the same move in the dating domain; this is the work-and-selling version.
+- `introduction.md` already tells the reader the copy is pre-publication and invites what lands wrong, so an imperfect release is already written into the book.
+
+**Possible homes:** (1) **The Mirror** in `conclusion.md`: the section asks the reader to find their own blindness and the author shows none of his own found late; a short first-person passage here is the demonstration. Desk pick. (2) One sentence in `the-rescue-that-made-me-see.md` ("My father was raising a child at the age I am now"). (3) A line in `about-the-author.md` beside "I don't know how yet." Pairs naturally with VVVVV (celebrating "I'm the problem").
+
+**Counterweight to keep (already in the book):** `when-youve-been-wronged.md`, "Don't Use Your Imperfection to Cancel Your Anger". Seeing that someone was not perfect before they started is not an instruction to stop being angry or to skip repair. The author held both himself: "I don't know about should" and "If I need to feel angry, I'll let it out." Any draft should keep that.
+
+**Privacy and canon:** pattern level only. No names, no organization, no venue; the text says "a retreat," as it does everywhere. Nothing here adds a fact about any real incident or about how any real person handled one.
+
+**Status: CANDIDATE, his call whether it goes in. Nothing in `src/`.**
