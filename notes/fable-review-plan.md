@@ -2628,3 +2628,15 @@ A version in the author's voice, to tune:
 - **So a release-now pass is three things:** (1) the conclusion passage above; (2) one skim by him; (3) nothing else. Everything in this plan stays as version-two material.
 
 **Status: his lean, not yet an order. Nothing in `src/`.**
+
+### YYYYY. "The master has mastered the art of always being a student": a closing line for the XXXXX passage (candidate; added 2026-11-15, author-flagged from the phone desk, ~10:22pm PHX)
+
+**The line:** *"The only difference between being a master and being a student is that the master has mastered the art of always being a student."* Source: the book *The Way of Mastery*. The author met it quoted in another coaching memoir he was reading tonight; cite the original, not the memoir, and pin the exact wording and edition from *The Way of Mastery* itself before it goes in (the desk is working from one secondhand quotation).
+
+**The author's words:** *"Actually I like this quote about a master and a student more and we might use it in my book. I don't know if you think we should put it in the table of review doc. Or if it doesn't add 7x plus value."*
+
+**Desk read on the 7x question:** standing alone it is one more wise quote, and the book does not need a quote shelf. Its value is as the last line of the XXXXX conclusion passage: "I held this book back because I wanted it unattackable" says the author is still learning; this line turns that admission into the standard, so the imperfection reads as mastery practised, not an apology. It also pairs with The Mirror's ask that the reader keep finding their own blindness. Used there, once, it earns its place; used anywhere else it is decoration.
+
+**Possible home:** the end of the XXXXX passage in `conclusion.md` (The Mirror). Nowhere else.
+
+**Status: CANDIDATE, his call. Nothing in `src/`.**
